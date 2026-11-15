@@ -93,7 +93,9 @@ const d=q.get('d')||'';
 const lang=q.get('lang')==='es'?'es':'en';
 const plan=lang==='es'?'es/':'./';
 const back=document.getElementById('back');
-back.href=plan+(d?'#d-'+d:'');back.textContent=lang==='es'?'← Volver al plan':'← Back to the plan';
+let ret=null;try{ret=JSON.parse(sessionStorage.getItem('igcse-return')||'null')}catch(e){}
+back.href=ret&&ret.url?ret.url:plan+(d?'#d-'+d:'');back.textContent=lang==='es'?'← Volver':'← Back';
+back.addEventListener('click',e=>{if(ret&&ret.url){e.preventDefault();location.href=ret.url}});
 
 const m=id.match(/^([a-z]+)-(r1|r2)-(\d\d)$/);
 const subj=m?m[1]:(id.startsWith('f-')?null:null);

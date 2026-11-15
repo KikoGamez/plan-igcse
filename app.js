@@ -118,7 +118,7 @@ function show(v,dayK){
   document.querySelectorAll('#nav a').forEach(a=>a.setAttribute('aria-current',a.dataset.v===v?'page':'false'));
   $('viewTitle').textContent=v==='hoy'?T.brand:T.nav[v];document.title=`${T.nav[v]} · ${T.brand}`;
   openMenu(false);
-  if(v!==current){window.scrollTo(0,0);current=v}
+  if(v!==current){if(current!==null)window.scrollTo(0,0);current=v}
   if(dayK)setTimeout(()=>go(dayK),60);
 }
 function route(){const h=(location.hash||'').slice(1);if(/^d-\d{4}-\d\d-\d\d$/.test(h))show('calendario',h.slice(2));else show(h||'hoy')}
@@ -321,5 +321,16 @@ function renderSettings(){
 window.PLAN={overflow,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
 renderReparto();renderCalendar();renderSubjects();renderSettings();
 window.addEventListener('DOMContentLoaded',()=>{});
+/* ----- Return to the exact place after visiting a session page ----- */
+const RET='igcse-return';
+try{history.scrollRestoration='manual'}catch(e){}
+document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a[href*="session.html"]');if(!a)return;
+  try{sessionStorage.setItem(RET,JSON.stringify({url:location.href,y:Math.round(window.scrollY)}))}catch(err){}},true);
+let userMoved=false;['wheel','touchstart','keydown'].forEach(ev=>addEventListener(ev,()=>{userMoved=true},{passive:true,once:true}));
+function restoreScroll(){let r=null;try{r=JSON.parse(sessionStorage.getItem(RET)||'null')}catch(e){}
+  if(!(r&&r.url===location.href))return;const go=()=>{if(!userMoved&&Math.abs(window.scrollY-r.y)>40)window.scrollTo(0,r.y)};
+  requestAnimationFrame(go);addEventListener('load',go,{once:true});[150,400,800,1500].forEach(t=>setTimeout(go,t))}
+window.addEventListener('pageshow',e=>{if(e.persisted)restoreScroll()});
 route();
+restoreScroll();
 })();

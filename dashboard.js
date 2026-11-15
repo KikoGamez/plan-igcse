@@ -165,7 +165,7 @@ function render(){
   else {m1=T.on1;m2=(c.todayLeft?T.onLeft(c.todayLeft):T.onDone)+(c.ratio>1.0001?' '+T.moreLoad:'')}
   const all={t:c.total,d:c.n,e:c.expectedAll};
   const ov=c.overdue.slice(0,10).map(t=>{const days=Math.round((new Date(c.K)-new Date(t.k))/864e5);
-    return P.slotHTML(t.x,t.s,t.i).replace('</label>',`<span class="ago">${P.fmt(t.x.d)} · ${T.ago(days)}</span></label>`)}).join('');
+    return P.slotHTML(t.x,t.s,t.i).replace(/(<\/a>|<\/div>)<\/li>$/,`<span class="ago">${P.fmt(t.x.d)} · ${T.ago(days)}</span>$1</li>`)}).join('');
   const movedCount=Object.keys(P.moves||{}).length;
   let actions='';
   if(ui.confirm==='res'){const pm=planMoves(c);

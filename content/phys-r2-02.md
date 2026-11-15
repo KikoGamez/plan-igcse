@@ -1,76 +1,59 @@
-# Past paper · Paper 4 timed
+# Co-ordinated Sciences · Paper 4 second paper (2/2)
 
-> **Goal:** Sit a complete Paper 4 (Theory, Extended) in exactly 1 hour 15 minutes under exam conditions, so that you can mark it properly in the next session.
+> **Goal:** Finish the 0654 Paper 4 you started last session, working for exactly the remaining 60 minutes of its 2 hours under exam conditions, so the whole paper is ready to mark.
 
 ## Before you start
 
-- **Paper:** Cambridge IGCSE Physics 0625 **Paper 4 (Theory, Extended)** — component 41, 42 or 43 — from the most recent series you have not done (e.g. May/June 2025 or Oct/Nov 2024; Feb/March 2025 has variant 42 only). Do **not** look at it beforehand.
-- **Mark scheme and examiner report** for the same paper: print or download them, but put them away — you will use them in the next session (Mark Paper 4).
-- **Timer:** 1 hour 15 minutes. This session is longer than usual: allow 80 minutes in total.
-- **Equipment:** black pen, pencil (for diagrams and graphs), ruler, protractor, scientific calculator (non-programmable), rubber. No formula sheet is provided.
-- Quiet room, phone off, no notes, no breaks.
+- The sealed Paper 4 from last session (Co-ordinated Sciences · Paper 4 second paper (1/2)). Do **not** reread the questions you already answered until the last 5 minutes.
+- Mark scheme and examiner report stay put away — you mark next session.
+- **Timer:** 60 minutes. Together with last session this makes the full **2 hours** of the real paper.
+- **Equipment:** black pen, pencil, ruler, protractor, scientific calculator, rubber. Quiet room, phone off, no notes.
 
 ## Exam format reminder
 
-- **1 hour 15 minutes, 80 marks**, 50% of your total grade.
-- Compulsory **short-answer and structured questions** — usually around 10–12 questions, each split into parts, covering the whole syllabus roughly in syllabus order (mechanics first, space and nuclear near the end).
-- Marks per part are shown in brackets: **[1]** to **[4]** typically. A full question is usually 6–10 marks.
-- **Timing:** 80 marks in 75 minutes ≈ **1 mark per minute**, minus a few minutes for checking. A 9-mark question deserves about 8 minutes.
-- Question types: calculations (show working), definitions, describe/explain, sketching or completing graphs and diagrams (ray diagrams, field lines, circuits), data analysis.
+- **Paper 4 (Theory, Extended): 2 hours, 120 marks, 50% of the qualification** — compulsory structured questions on Biology, Chemistry and Physics, mixed through the paper; roughly a third of the marks are Physics.
+- **Timing:** 1 mark per minute. Count the marks left from your line ("1:00") to the end of the paper. If it is about 60 marks, you are on schedule. If it is more, you must speed up: aim for 1 mark per 50 seconds and leave no part blank.
+- Later questions are not necessarily harder — each question usually starts with easier parts, so make sure you reach the start of every question.
 
 ## How to do it
 
-1. **0–2 min:** flick through the paper. Note the number of questions and total marks per question; write target finish times at the top of each question (e.g. Q1 by 0:08, Q5 by 0:38, Q10 by 1:10).
-2. **2–70 min:** answer in order. If a part stalls you for more than a minute, leave a gap, mark it with a star, and move on — later parts often don't depend on it.
-3. **70–75 min:** return to starred parts; check every numerical answer has a unit and sensible significant figures (2 or 3).
-4. **Stop at 75 minutes exactly.** If you didn't finish, draw a line where time ran out — and then, in a different colour, finish the rest untimed. Mark both, but record your timed score as your real score.
-5. Write on the front: date, paper code, timed / untimed split. Store it for the next session.
+1. **0–2 min:** open the paper at your line. Count the remaining marks and write target times beside the remaining questions (e.g. 20 marks by 0:20, 40 by 0:40, all by 0:55).
+2. **2–55 min:** answer the remaining questions in order. Star anything that stalls you for more than a minute and move on.
+3. **55–60 min:** go back to starred parts from **both** sessions. Then check every calculation: equation written, units converted, unit on the answer, 2–3 significant figures.
+4. **Stop at 60 minutes.** If you did not finish, draw a line and write "2:00"; then, in a different colour, finish the rest untimed (maximum 10 minutes). Mark both, but your **timed score is your real score**.
+5. Write on the front: series, variant, date, and "timed to line / untimed after line".
 
 ## Exam technique for this paper
 
-**Calculations**
-- Write the equation in symbols first, then substitute, then the answer with unit. The mark scheme gives a **C1** (compensation mark) for the correct equation or substitution even if the final answer is wrong.
-- Convert units before substituting (cm → m, g → kg, min → s, kW → W, cm² → m²).
-- Keep full calculator values until the end; round the final answer only (2–3 significant figures).
-- "Show that" questions: show every step and give the answer to one more significant figure than the value given.
-- If a later part uses an earlier answer you couldn't get, use your own value — "error carried forward" marks are often allowed.
+**Questions that come up in the second half**
+- Data and graphs: read values with a ruler, quote numbers with units from the graph when asked to "use the data"; for "describe the trend" give the pattern **and** a pair of values.
+- **"Explain"** with marks [3] or [4] needs that many linked points. Write in short separate sentences so each point is clear.
+- **Definitions:** use the exact syllabus wording — "per unit time", "per unit mass", "work done by a unit charge".
+- **Physics calculations:** equation in symbols (C1), substitution, answer + unit (A1). "Show that" — show every step and give the answer to one more significant figure than the value quoted.
+- **Diagrams:** ruler for rays and circuit wires; standard circuit symbols; arrows on rays and on field lines; label everything asked for.
+- **Units and prefixes:** kW → W, kJ → J, mA → A, cm² → m² (÷ 10 000), and hours for kW h only.
 
-**Command words**
-- **State:** a short answer, no explanation.
-- **Describe:** say what happens (e.g. what a graph shows, the steps of an experiment).
-- **Explain:** give reasons — use *because*, *so*, *therefore*; link cause to effect in a chain.
-- **Calculate:** a numerical answer, working shown.
-- **Suggest:** apply your knowledge to an unfamiliar situation; more than one answer may be credited.
-- **Sketch:** correct shape and key features (e.g. through origin, levels off), axes labelled; no plotting needed.
-- **Determine:** use data or a graph to obtain an answer (e.g. a gradient).
-- **Define:** the precise mark-scheme wording (e.g. "change in velocity per unit time").
-
-**How marks are awarded**
-- One mark per correct physics point. A 3-mark "explain" needs three distinct, linked points.
-- Use precise physics words: *resultant force*, *perpendicular distance*, *internal energy*, *collisions with the walls*, *more energetic particles*, *conventional current*, *changing magnetic field*.
-- Examiners' reports regularly complain about: answers that repeat the question; vague words ("it", "energy is lost", "heat rises", "power" when they mean energy); missing units; definitions in terms of equations with symbols not explained; diagrams drawn freehand without a ruler.
-- Ray diagrams and field lines: ruler, arrows, sharp pencil.
+**Stamina**
+- In the second hour most marks are lost through careless reading. Underline the key instruction in each part ("in terms of particles", "give a reason", "state the unit").
+- If you cannot do a calculation part, still write the equation: it can earn a mark.
 
 ## Checklist while marking
 
-You will mark this paper in the next session (Mark Paper 4). Before you finish today:
+Marking is next session (Mark Paper 4 second paper). Before you finish today:
 
-- Write the paper code and variant on the front.
-- Mark (with a star) every answer you guessed or weren't sure about — even if it turns out to be right, it goes in the error log.
-- Note where time ran short and which question was slowest.
+- [ ] All starred parts revisited; any still unsure are clearly starred for the error log.
+- [ ] Note which half went better (first or second hour) and why — time, topics or concentration.
+- [ ] Paper, mark scheme and examiner report together, ready for the marking session, plus your **first Paper 4 attempt** and its marked score for comparison.
 
 ## Quick-fire revision
 
-Last check of definitions that Paper 4 often asks for:
+Physics facts often needed in the second half of the paper:
 
-- **Acceleration:** change in velocity per unit time.
-- **Moment:** force × perpendicular distance from the pivot.
-- **Momentum:** mass × velocity. **Impulse:** force × time = change in momentum.
-- **Power:** work done (energy transferred) per unit time.
-- **Density:** mass per unit volume. **Pressure:** force per unit area.
-- **Specific heat capacity:** energy required per unit mass per unit temperature increase.
-- **E.m.f.:** electrical work done by a source in moving unit charge around a complete circuit. **P.d.:** work done by unit charge passing through a component.
-- **Current:** charge passing a point per unit time.
-- **Half-life:** time taken for half the nuclei of that isotope in any sample to decay.
-- **Refractive index:** ratio of the speeds of a wave in two regions. **Critical angle:** angle of incidence for which the angle of refraction is 90°.
-- **Hubble constant:** ratio of a galaxy's speed of recession to its distance from Earth.
+- Series: same current; R = R₁ + R₂. Parallel: same p.d.; 1/R = 1/R₁ + 1/R₂; supply current = sum of branch currents.
+- Fuse: rating just above the working current (I = P ÷ V). Earth wire + fuse protect against a live metal case.
+- Transformer: Vp ÷ Vs = Np ÷ Ns; IpVp = IsVs; high voltage → low current → less power lost (P = I²R).
+- Generator: e.m.f. maximum when the coil is parallel to the field, zero when perpendicular; faster rotation → higher peaks and higher frequency.
+- Motor: turning effect increased by more turns, larger current, stronger field; split-ring commutator reverses the current every half turn.
+- α: helium nucleus, most ionising, stopped by paper. β: electron, stopped by a few mm of aluminium. γ: EM radiation, reduced by thick lead.
+- α-decay: A − 4, Z − 2. β-decay: A same, Z + 1 (neutron → proton + electron).
+- Star life cycle: small mass → red giant → white dwarf + planetary nebula; large mass → red supergiant → supernova → neutron star (very large mass → black hole).

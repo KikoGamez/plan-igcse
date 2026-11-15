@@ -1,0 +1,50 @@
+{
+  "id": "phys-r1-11",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A transformer has 1000 turns on the primary and 50 turns on the secondary. The primary voltage is 230 V. What is the secondary voltage?",
+      "options": [
+        "4600 V",
+        "11.5 V",
+        "230 V",
+        "0.22 V"
+      ],
+      "answer": 1,
+      "why": "Vs = Vp × Ns ÷ Np = 230 × 50 ÷ 1000 = 11.5 V (a step-down transformer)."
+    },
+    {
+      "type": "mcq",
+      "q": "A magnet is pushed into a coil connected to a meter. Which change would NOT increase the induced e.m.f.?",
+      "options": [
+        "moving the magnet faster",
+        "using a stronger magnet",
+        "pulling the magnet out instead",
+        "using a coil with more turns"
+      ],
+      "answer": 2,
+      "why": "Pulling the magnet out only reverses the direction of the e.m.f.; speed, field strength and turns change its size."
+    },
+    {
+      "type": "mcq",
+      "q": "Why is electricity transmitted over long distances at a very high voltage?",
+      "options": [
+        "the current is larger so more power is delivered",
+        "high voltage makes the cables cooler by itself",
+        "transformers only work at high voltage",
+        "the current is smaller so less power is lost as heat in the cables"
+      ],
+      "answer": 3,
+      "why": "For the same power, high V means low I, and power loss P = I²R is much smaller."
+    },
+    {
+      "type": "short",
+      "q": "A 100% efficient transformer has Vp = 240 V and Ip = 0.50 A. The secondary voltage is 12 V. Calculate the secondary current.",
+      "model": "IpVp = IsVs, so Is = (0.50 × 240) ÷ 12 = 10 A",
+      "points": [
+        "IpVp = IsVs",
+        "10 A"
+      ]
+    }
+  ]
+}

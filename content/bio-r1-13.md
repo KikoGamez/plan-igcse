@@ -1,194 +1,188 @@
-# Ecology, human influences and biotechnology
+# Organisms and their environment; human influences
 
-> **In the exam:** three syllabus topics in one session. Paper 2 has 5–7 questions (food chains, pyramids, cycles, eutrophication, uses of bacteria/yeast). Paper 4 usually has one question on ecology/human impact (10–15 marks, often with data on populations or pollution) and part of a question on biotechnology/genetic modification. Paper 6 may ask about sampling (quadrats), fermentation by yeast or pectinase/juice extraction experiments.
+> **In the exam:** In Co-ordinated Sciences 0654 this page covers **B18 Organisms and their environment** and **B19 Human influences on ecosystems**. **Biotechnology and genetic modification are not in the 0654 syllabus**, and neither are pyramids, the nitrogen and water cycles, population growth curves, food production, detailed pollution (eutrophication is "not required" in detail) or sustainable resources — skip them. **Paper 2** (Multiple Choice, 45 min, 40 four-option questions across Biology, Chemistry and Physics, 30 %) can ask you to read a food web, name a trophic level or pick a carbon-cycle process. **Paper 4** (Theory, 2 h, 120 marks, 50 %): Biology questions appear alongside Chemistry and Physics (Q1–4 are Biology in the 2025 specimen, about 9–11 marks each, often mixing topics; the specimen includes an endangered-species data question); likely parts are food-web interpretation, energy-loss explanations, the carbon cycle, deforestation effects and conservation. **Paper 6** (Alternative to Practical, 1 h 30 min, 60 marks, 20 %) rarely uses this topic directly, but data handling (tables, graphs, percentage change) applies.
 
 ## What you need to know
 
-- State that the Sun is the principal source of energy for biological systems; describe the flow of energy through living organisms.
-- Define food chain, food web, producer, consumer, herbivore, carnivore, decomposer, trophic level; describe and interpret pyramids of numbers and biomass (Extended: pyramids of energy; advantages of each).
-- Extended: explain why energy transfer between trophic levels is inefficient, why food chains usually have fewer than five trophic levels, and why it is more energy-efficient for humans to eat crop plants than livestock.
-- Describe the carbon cycle and water cycle; Extended: the nitrogen cycle.
-- Define population, community, ecosystem; identify factors affecting population growth; Extended: describe and explain the phases of a sigmoid population growth curve.
-- Describe how agriculture increases food production and the negative impacts of monocultures and intensive livestock production; describe the reasons for and effects of habitat destruction and deforestation.
-- Describe the effects of pollution: untreated sewage and fertilisers (Extended: eutrophication), non-biodegradable plastics, greenhouse gases (CO₂ and methane); Extended: female contraceptive hormones in water.
-- Define sustainable resource; explain how forests and fish stocks can be conserved; describe how endangered species can be conserved; Extended: sustainable development; artificial insemination and IVF in captive breeding.
-- Explain why bacteria are useful in biotechnology; describe the use of yeast, pectinase, biological washing powders, lactase (Extended); describe fermenters (Extended).
-- Define genetic modification; give examples; Extended: outline the process using insulin; discuss advantages and disadvantages of GM crops.
+**Core**
+- State that the Sun is the principal source of energy input to biological systems.
+- Describe the flow of energy through living organisms, including light energy from the Sun and chemical energy in organisms, and its eventual transfer to the environment.
+- Describe a food chain as showing the transfer of energy from one organism to the next, beginning with a producer; construct and interpret simple food chains.
+- Describe a food web as a network of interconnected food chains and interpret food webs.
+- Describe a producer, consumer, herbivore, carnivore and decomposer (see definitions); state that consumers may be classed as primary, secondary and tertiary according to their position in a food chain.
+- Use food chains and food webs to describe the impact humans have through overharvesting of food species and through introducing foreign species to a habitat.
+- Describe the carbon cycle, limited to: photosynthesis, respiration, feeding, decomposition, formation of fossil fuels and combustion.
+- Describe an ecosystem as a unit containing the community of organisms and their environment, interacting together; describe biodiversity as the number of different species that live in an area.
+- Describe the reasons for habitat destruction: increased area for housing, crop plant production and livestock production; extraction of natural resources; freshwater and marine pollution.
+- State the undesirable effects of deforestation: reducing biodiversity, extinction, loss of soil, flooding and increase of carbon dioxide in the atmosphere.
+- Explain why organisms become endangered or extinct: climate change, habitat destruction, hunting, overharvesting, pollution and introduced species.
+- Describe how endangered species can be conserved, limited to: monitoring and protecting species and habitats; education; captive breeding programmes; seed banks.
+
+**Supplement**
+- Describe a trophic level as the position of an organism in a food chain and food web; identify producers, primary, secondary, tertiary and quaternary consumers as trophic levels.
+- Explain why the transfer of energy from one trophic level to another is often not efficient.
+- Explain, in terms of energy loss, why food chains usually have fewer than five trophic levels.
+- Explain why it is more energy efficient for humans to eat crop plants than to eat livestock that have been fed on crop plants.
+- Explain the undesirable effects of deforestation (as listed above).
 
 ## Notes
 
 ### Energy flow
 
-- The **Sun** is the principal source of energy; producers convert light energy into chemical energy in photosynthesis. Energy flows through food chains and is eventually lost to the environment as **heat**. Energy is **not recycled**; nutrients are.
-- **Food chain**: shows the transfer of energy from one organism to the next, beginning with a producer.
+- The **Sun** is the principal source of energy input to biological systems.
+- **Producers** transfer **light energy** into **chemical energy** in organic molecules (photosynthesis).
+- Chemical energy passes along food chains when organisms are eaten.
+- Eventually all the energy is transferred to the **environment** (mostly as **heat** from respiration). Energy is **not recycled** — it flows through; carbon **is** recycled.
+
+### Food chains and food webs
+
+- **Food chain**: shows the transfer of energy from one organism to the next, beginning with a producer. Arrows point in the direction of energy flow: grass → rabbit → fox.
 - **Food web**: a network of interconnected food chains.
 - **Producer**: an organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis.
-- **Consumer**: an organism that gets its energy by feeding on other organisms (primary, secondary, tertiary consumers).
-- **Herbivore**: an animal that gets its energy by eating plants. **Carnivore**: an animal that gets its energy by eating other animals.
+- **Consumer**: an organism that gets its energy by feeding on other organisms — **primary, secondary, tertiary** (Supplement: and **quaternary**) consumers.
+- **Herbivore**: an animal that gets its energy by eating plants.
+- **Carnivore**: an animal that gets its energy by eating other animals.
 - **Decomposer**: an organism that gets its energy from dead or waste organic material.
-- **Trophic level**: the position of an organism in a food chain, food web or ecological pyramid.
+- Supplement — **trophic level**: the position of an organism in a food chain and food web.
 
-Extended — **energy loss** between trophic levels (only about 10 % passed on):
-- not all of the organism is eaten (roots, bones);
-- not all of what is eaten is digested and absorbed — lost in **faeces** (egestion);
-- energy is used in **respiration** and lost as **heat**; some lost in excretion (urea).
-- So: fewer than five trophic levels (too little energy left to support a population at the top); it is more energy-efficient for humans to eat **crop plants** than livestock fed on crops (one fewer trophic level, less energy lost).
+| Trophic level | Example |
+|---|---|
+| 1 producer | grass |
+| 2 primary consumer (herbivore) | grasshopper |
+| 3 secondary consumer | frog |
+| 4 tertiary consumer | snake |
+| 5 quaternary consumer | eagle |
 
-**Pyramids**:
-- **Numbers**: can be inverted (one tree supports many caterpillars).
-- **Biomass**: dry mass at each level; usually pyramid-shaped (can be inverted for some aquatic producers sampled at one time).
-- Extended — **energy**: always a true pyramid; shows energy transferred per unit area per unit time; the best way to compare.
+**Interpreting food webs** — if one population changes, follow the arrows both ways:
+- remove a predator → its prey **increases** (less predation) → the prey's food **decreases**;
+- remove a food species → its consumers **decrease** or switch to other food.
 
-### Nutrient cycles
+**Human impact via food webs**:
+- **Overharvesting** (e.g. overfishing a species) removes a food source for predators, which then decline, while the overharvested species' own prey may increase.
+- **Introducing foreign species** (e.g. a predator or competitor not native to the habitat) can eat native species or out-compete them for food, reducing native populations and disrupting the food web.
 
-**Carbon cycle**: **photosynthesis** removes CO₂ from the air; **respiration** (plants, animals, decomposers) and **combustion** of fossil fuels and wood return CO₂; carbon passes along food chains by **feeding**; dead organisms are broken down by **decomposition**; some remain undecomposed and form **fossil fuels** over millions of years. Deforestation and burning increase atmospheric CO₂.
+### Energy loss between trophic levels (Supplement)
 
-**Water cycle**: evaporation (from seas, lakes), transpiration (plants), condensation (clouds), precipitation (rain).
+Transfer is often not efficient (commonly around 10 % passes on) because:
+- not all of an organism is **eaten** (roots, bones, fur);
+- not all that is eaten is **digested and absorbed** — some is lost in **faeces**;
+- much energy is used in **respiration** and transferred to the environment as **heat** (movement, keeping warm);
+- some is lost in excretory products.
 
-Extended — **nitrogen cycle**:
-- **Nitrogen fixation**: nitrogen gas → ammonium/nitrate by nitrogen-fixing bacteria (in soil and in root nodules of legumes) and by lightning.
-- Plants absorb **nitrate ions** and use them to make **amino acids** → proteins; animals eat plants (feeding, digestion, assimilation).
-- **Decomposition**: decomposers break down proteins in dead organisms and urea → **ammonium** ions.
-- **Deamination** in animals produces urea (excreted).
-- **Nitrification**: nitrifying bacteria convert ammonium → nitrite → **nitrate**.
-- **Denitrification**: denitrifying bacteria convert nitrate → **nitrogen gas** (in waterlogged, anaerobic soil).
+**Fewer than five trophic levels**: energy is lost at each level, so there is too little energy left at the top to support another population.
 
-### Populations
+**Crop plants vs livestock**: eating crops means humans are at trophic level 2; eating livestock fed on crops puts humans at level 3. An extra transfer means **more energy is lost** (in respiration, heat, faeces of the animals), so far less of the original energy from the crop reaches humans. More people can be fed from the same area by eating the crop directly.
 
-- **Population**: a group of organisms of one species, living in the same area, at the same time.
-- **Community**: all of the populations of different species in an ecosystem.
+Percentage efficiency = energy in the higher level ÷ energy in the lower level × 100.
+
+### The carbon cycle
+
+| Process | Effect on atmospheric CO₂ |
+|---|---|
+| **Photosynthesis** (producers) | removes CO₂ from the air; carbon becomes carbohydrates |
+| **Feeding** | carbon compounds pass to consumers along food chains |
+| **Respiration** (plants, animals, decomposers) | returns CO₂ to the air |
+| **Decomposition** | decomposers break down dead organisms and waste, respiring and releasing CO₂ |
+| **Formation of fossil fuels** | dead organisms that do not decompose are compressed over millions of years into coal, oil and gas (carbon locked away) |
+| **Combustion** | burning fossil fuels and wood releases CO₂ |
+
+### Ecosystems and habitat destruction
+
 - **Ecosystem**: a unit containing the community of organisms and their environment, interacting together.
-- Factors affecting population growth: **food supply, competition, predation, disease**.
-- Extended — **sigmoid curve**:
-  - **Lag phase**: few individuals, adjusting, slow reproduction.
-  - **Exponential (log) phase**: plenty of food and space, little competition; birth rate much higher than death rate.
-  - **Stationary phase**: limiting factors (food, space, toxic waste, predation); birth rate = death rate.
-  - **Death phase**: food runs out / toxic waste builds up; death rate higher than birth rate.
+- **Biodiversity**: the number of different species that live in an area.
+- Reasons for **habitat destruction**:
+  - increased area for **housing**, **crop plant production** and **livestock production**;
+  - **extraction of natural resources** (mining, quarrying, logging);
+  - **freshwater and marine pollution** (a detailed description of eutrophication is not required).
 
-### Human influences
+**Deforestation** — undesirable effects (state = Core; explain = Supplement):
 
-**Food production**: agricultural machinery, chemical fertilisers, insecticides, herbicides, selective breeding.
-- **Monocultures**: reduce biodiversity; pests and diseases spread easily; more pesticide use; soil nutrients depleted.
-- **Intensive livestock**: high use of feed and antibiotics, pollution from waste, methane, disease spreads, animal welfare.
-
-**Habitat destruction** — reasons: increased area for food crop growth, livestock and housing; extraction of natural resources; marine pollution.
-**Deforestation** effects: loss of habitats and biodiversity / extinction; loss of soil (erosion); flooding; increase of CO₂ in the atmosphere (less photosynthesis, burning).
-
-**Pollution**:
-- Untreated sewage and excess fertiliser in water → eutrophication.
-- Extended — **eutrophication sequence**: increased availability of nitrate and other ions → increased growth of producers (algae) → increased decomposition after death of producers → increased aerobic respiration by decomposers → reduction in dissolved oxygen → death of organisms requiring dissolved oxygen in water (fish).
-- **Non-biodegradable plastics**: harm aquatic animals (eaten, entanglement) and land animals; build up in food chains; persist for a long time.
-- **Greenhouse gases**: CO₂ (combustion, deforestation) and **methane** (cattle, rice fields, landfill) → enhanced greenhouse effect → **climate change**.
-- Extended: **female contraceptive hormones** in water (from urine through sewage) reduce sperm count in men and cause feminisation of male aquatic organisms.
+| Effect | Explanation (Supplement) |
+|---|---|
+| Reducing biodiversity | habitats and food sources are removed, so many species leave or die |
+| Extinction | species found only in that forest lose their only habitat |
+| Loss of soil | no roots to hold soil and no leaf cover, so rain washes soil away (erosion) |
+| Flooding | fewer trees to absorb water and transpire; water runs off quickly into rivers |
+| Increase of CO₂ in the atmosphere | fewer trees carry out photosynthesis to remove CO₂; burning or decomposing wood releases CO₂ |
 
 ### Conservation
 
-- **Sustainable resource**: one which is produced as rapidly as it is removed from the environment so that it does not run out.
-- Extended — **sustainable development**: development providing for the needs of an increasing human population without harming the environment.
-- **Forests**: education, protected areas, quotas, replanting.
-- **Fish stocks**: education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.
-- Species become **endangered** by climate change, habitat destruction, hunting, overharvesting, pollution, introduced species.
-- Conservation methods: monitoring and protecting species and habitats; education; captive breeding programmes; seed banks. Extended: **artificial insemination** and **IVF** in captive breeding; reasons for conservation: maintaining or increasing genetic diversity, reducing extinction, protecting vulnerable ecosystems, maintaining ecosystem functions (nutrient cycling, resource provision such as food, drugs, fuel and genes).
+Organisms become **endangered or extinct** because of: **climate change, habitat destruction, hunting, overharvesting, pollution and introduced species**.
 
-### Biotechnology
-
-- **Bacteria** are useful because they reproduce rapidly and can make complex molecules; few ethical concerns; Extended: they contain plasmids that are easy to modify and share the same genetic code.
-- **Yeast**: anaerobic respiration makes **ethanol** for **biofuels** and **CO₂** that makes **bread** rise.
-- **Pectinase**: breaks down pectin in plant cell walls to extract more **fruit juice** and make it clearer.
-- **Biological washing powders**: contain proteases and lipases that digest stains at low temperature (saves energy).
-- Extended: **lactase** makes lactose-free milk (lactose → glucose + galactose).
-- Extended — **fermenters** (large-scale production of insulin, penicillin, mycoprotein): controlled **temperature** (water jacket), **pH** (probe, add acid/alkali), **oxygen** supply (sterile air), **nutrient** supply, removal of **waste products**; sterile conditions; stirring paddles mix contents.
-
-### Genetic modification
-
-- **Genetic modification**: changing the genetic material of an organism by removing, changing or inserting individual genes.
-- Examples: bacteria making **human insulin**; crops with **herbicide resistance**; crops with **insect resistance**; crops with **additional vitamins** (e.g. Golden Rice).
-- Extended — process (insulin):
-  1. Isolate the human insulin gene using **restriction enzymes**, forming **sticky ends**.
-  2. Cut **plasmids** with the **same restriction enzyme**, forming complementary sticky ends.
-  3. Insert the gene into the plasmid using **DNA ligase** → **recombinant plasmid**.
-  4. Insert recombinant plasmids into **bacteria**.
-  5. Bacteria containing the recombinant plasmid **replicate**.
-  6. The gene is **expressed**: bacteria make human insulin (in a fermenter).
-- Extended — GM crops: **advantages** — higher yield, less insecticide/herbicide use, improved nutrition; **disadvantages** — high seed cost, reduced biodiversity, possible spread of genes to wild plants, uncertain effects on health and food chains.
-
-### Paper 6 skills on this topic
-
-- **Quadrats**: place randomly (random number coordinates); count individuals or % cover; many quadrats → mean; estimate population = mean per quadrat × (total area ÷ quadrat area).
-- **Pectinase and juice**: independent variable — pectinase concentration or temperature; dependent — volume of juice collected in a set time; control — water instead of pectinase; same mass of chopped fruit.
-- **Yeast and bread dough**: measure height of dough in a measuring cylinder; control temperature.
-- Risk: wash hands after fieldwork; eye protection with enzymes.
+Endangered species can be conserved by:
+- **monitoring and protecting species and habitats** (counting populations, nature reserves, laws against hunting);
+- **education** (so people understand why and how to protect species);
+- **captive breeding programmes** (breeding in zoos, then releasing into the wild);
+- **seed banks** (storing seeds of plants so they can be grown again if wild populations are lost).
 
 ## Key terms and definitions
 
 | Term | Definition |
 |---|---|
 | Food chain | shows the transfer of energy from one organism to the next, beginning with a producer |
+| Food web | a network of interconnected food chains |
 | Producer | an organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis |
+| Consumer | an organism that gets its energy by feeding on other organisms |
+| Herbivore | an animal that gets its energy by eating plants |
+| Carnivore | an animal that gets its energy by eating other animals |
 | Decomposer | an organism that gets its energy from dead or waste organic material |
-| Trophic level | the position of an organism in a food chain, food web or ecological pyramid |
-| Population | a group of organisms of one species, living in the same area, at the same time |
-| Community | all of the populations of different species in an ecosystem |
+| Trophic level (S) | the position of an organism in a food chain and food web |
 | Ecosystem | a unit containing the community of organisms and their environment, interacting together |
-| Sustainable resource | one which is produced as rapidly as it is removed from the environment so that it does not run out |
-| Genetic modification | changing the genetic material of an organism by removing, changing or inserting individual genes |
+| Biodiversity | the number of different species that live in an area |
 
 ## Worked examples
 
-**1.** Producers in a pond fix 24 000 kJ m⁻² year⁻¹; primary consumers receive 2 160 kJ m⁻² year⁻¹. Calculate the percentage efficiency of transfer. [2]
+**1.** Supplement: producers in a pond fix 24 000 kJ per m² per year; primary consumers receive 2 160 kJ per m² per year. Calculate the percentage efficiency of transfer and explain why it is low. [4]
 
 - 2 160 ÷ 24 000 × 100 (1)
 - = **9 %** (1)
+- any two: energy used in respiration / lost as heat; parts not eaten; not all digested, lost in faeces (2)
 
-**2.** Extended: explain how fertiliser running into a lake can cause fish to die. [5]
+**2.** In a food web, owls eat mice and mice eat seeds. Farmers kill most of the owls. Suggest and explain what happens to the seed population. [3]
 
-- nitrate ions increase growth of algae / producers (1)
-- algae die (light blocked) and are decomposed (1)
-- more aerobic respiration by bacteria / decomposers (1)
-- dissolved oxygen falls (1)
-- fish cannot respire aerobically and die (1)
+- mice increase (1)
+- because less predation by owls (1)
+- so more seeds are eaten and the seed population decreases (1)
 
-**3.** Extended: describe how restriction enzymes and ligase are used to make a recombinant plasmid. [4]
+**3.** Supplement: explain why deforestation can increase the concentration of carbon dioxide in the atmosphere. [3]
 
-- restriction enzyme cuts the gene out of human DNA, leaving sticky ends (1)
-- same restriction enzyme cuts the plasmid, giving complementary sticky ends (1)
-- gene inserted into plasmid (1)
-- ligase joins the DNA (1)
+- fewer trees, so less photosynthesis (1)
+- less carbon dioxide removed from the air (1)
+- trees burned / decomposed, releasing carbon dioxide (by combustion / respiration of decomposers) (1)
 
 ## Common mistakes
 
-- Drawing food chain arrows the wrong way — arrows show **energy flow**: grass → rabbit.
-- Saying energy is "lost" without saying how (respiration/heat, faeces, uneaten parts).
-- In eutrophication, saying "algae use up the oxygen" — it is **decomposers (bacteria) respiring** that reduce oxygen.
-- Saying the greenhouse effect is caused by the ozone layer.
-- Confusing nitrification (→ nitrate) and denitrification (→ nitrogen gas).
-- In GM, forgetting that the **same** restriction enzyme cuts both the gene and the plasmid.
-- Defining population without "same species, same area, same time".
+- Drawing food-chain arrows the wrong way — arrows show the direction of **energy flow** (eaten → eater).
+- Saying energy is "lost" without saying how (respiration and heat, faeces, uneaten parts).
+- Saying energy is recycled — **carbon** is recycled; energy flows through and leaves as heat.
+- Saying "plants respire only at night" in the carbon cycle — plants respire all the time.
+- Giving vague effects of deforestation ("bad for animals") instead of the syllabus list: biodiversity, extinction, soil loss, flooding, CO₂.
+- Revising GM, biotechnology, pyramids or the nitrogen cycle — not in 0654.
 
 ## Practice questions
 
-1. Explain why a pyramid of numbers can be inverted. [2]
-2. Describe **two** ways carbon dioxide is returned to the atmosphere. [2]
-3. Extended: name the process carried out by bacteria in root nodules and state its importance. [2]
-4. Extended: explain the stationary phase of a sigmoid growth curve. [2]
-5. State **three** methods used to conserve fish stocks. [3]
-6. State **two** effects of deforestation. [2]
-7. Explain why pectinase is used in fruit juice production. [2]
-8. Extended: state **two** conditions controlled in a fermenter and explain why. [4]
+1. Define *producer*. [2]
+2. Describe the flow of energy through a food chain from the Sun to the environment. [3]
+3. Describe **two** ways carbon dioxide is returned to the atmosphere. [2]
+4. Supplement: explain why food chains usually have fewer than five trophic levels. [2]
+5. Supplement: explain why it is more energy efficient for humans to eat wheat than beef from cattle fed on wheat. [3]
+6. State **three** reasons for habitat destruction. [3]
+7. State **three** reasons why organisms become endangered. [3]
+8. Explain how seed banks and captive breeding help conserve endangered species. [2]
 
 <details><summary>Answers</summary>
 
-1. Numbers do not take size into account (1); e.g. one large tree feeds many insects (1).
-2. Any two: respiration; combustion (of fossil fuels); decomposition (respiration by decomposers).
-3. Nitrogen fixation (1); converts nitrogen gas into ammonium/nitrogen compounds plants can use to make amino acids/proteins (1).
-4. Limiting factors e.g. food, space, predation, disease (1); birth rate equals death rate (1).
-5. Any three: quotas; closed seasons; protected areas; controlling net type / mesh size; monitoring; education.
-6. Any two: habitat loss / reduced biodiversity / extinction; soil erosion; flooding; increased CO₂ in atmosphere.
-7. Breaks down pectin in cell walls (1); more juice extracted / juice clearer (1).
-8. Any two pairs: temperature (1) — optimum for enzymes, avoid denaturing (1); pH (1) — optimum for enzymes (1); oxygen (1) — aerobic respiration of microorganisms (1); nutrients (1) — for growth/respiration (1).
+1. An organism that makes its own organic nutrients (1); usually using energy from sunlight through photosynthesis (1).
+2. Light energy from the Sun absorbed by producers (1); converted to chemical energy, passed along the chain by feeding (1); eventually transferred to the environment as heat (1).
+3. Any two: respiration; decomposition (respiration by decomposers); combustion of fossil fuels / wood.
+4. Energy lost at each transfer (respiration / heat, faeces, uneaten parts) (1); too little energy remains to support a further trophic level (1).
+5. Eating wheat: humans at a lower trophic level / one fewer transfer (1); energy lost by cattle in respiration / heat / faeces (1); so more of the energy in the crop reaches humans (1).
+6. Any three: housing; crop plant production; livestock production; extraction of natural resources; freshwater / marine pollution.
+7. Any three: climate change; habitat destruction; hunting; overharvesting; pollution; introduced species.
+8. Seed banks store seeds so plants can be regrown if lost in the wild (1); captive breeding increases numbers so animals can be released into the wild (1).
 
 </details>
 
 ## Plan for this hour
 
-10 min read ecology and cycles · 10 min read human influences and biotechnology · 10 min draw the carbon and nitrogen cycles from memory; write the eutrophication and GM sequences as numbered steps · 25 min worked examples and practice questions · 5 min error log.
+10 min read energy flow and food webs · 10 min read carbon cycle, deforestation and conservation · 10 min draw the carbon cycle from memory with the six processes; write the deforestation table · 25 min worked examples and practice questions · 5 min error log.

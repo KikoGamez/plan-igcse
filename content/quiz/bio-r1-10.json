@@ -1,0 +1,52 @@
+{
+  "id": "bio-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What is the correct order in a reflex arc?",
+      "options": [
+        "receptor → motor neurone → relay neurone → sensory neurone → effector",
+        "receptor → sensory neurone → relay neurone → motor neurone → effector",
+        "effector → sensory neurone → relay neurone → motor neurone → receptor",
+        "receptor → relay neurone → sensory neurone → motor neurone → effector"
+      ],
+      "answer": 1,
+      "why": "Impulses go from receptor via sensory, relay (in the CNS) and motor neurones to the effector."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is an effect of adrenaline?",
+      "options": [
+        "increased pupil diameter",
+        "decreased breathing rate",
+        "decreased heart rate",
+        "decreased pupil diameter"
+      ],
+      "answer": 0,
+      "why": "Adrenaline increases breathing rate, heart rate and pupil diameter."
+    },
+    {
+      "type": "mcq",
+      "q": "Which gland is correctly paired with a hormone it secretes?",
+      "options": [
+        "testes – oestrogen",
+        "adrenal glands – insulin",
+        "pancreas – adrenaline",
+        "ovaries – oestrogen"
+      ],
+      "answer": 3,
+      "why": "Ovaries secrete oestrogen; testes – testosterone; adrenal glands – adrenaline; pancreas – insulin."
+    },
+    {
+      "type": "short",
+      "q": "Define a hormone.",
+      "model": "A chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs.",
+      "points": [
+        "chemical substance",
+        "produced by a gland",
+        "carried by the blood",
+        "alters the activity of specific target organs"
+      ]
+    }
+  ]
+}

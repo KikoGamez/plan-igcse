@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Work out (6 × 10⁵) × (4 × 10⁻²), giving your answer in standard form.",
+      "options": [
+        "2.4 × 10³",
+        "24 × 10³",
+        "2.4 × 10⁻¹⁰",
+        "2.4 × 10⁴"
+      ],
+      "answer": 3,
+      "why": "6 × 4 = 24 and 10⁵ × 10⁻² = 10³, so 24 × 10³ = 2.4 × 10⁴."
+    },
+    {
+      "type": "mcq",
+      "q": "a = 12 and b = 4, both correct to the nearest whole number. Which gives the upper bound of a ÷ b?",
+      "options": [
+        "12.5 ÷ 4.5",
+        "11.5 ÷ 3.5",
+        "12.5 ÷ 3.5",
+        "11.5 ÷ 4.5"
+      ],
+      "answer": 2,
+      "why": "For the largest quotient, divide the upper bound of a by the lower bound of b."
+    },
+    {
+      "type": "mcq",
+      "q": "$5000 is invested at 3% per year compound interest. Find its value after 2 years.",
+      "options": [
+        "$5300.00",
+        "$5304.50",
+        "$5150.00",
+        "$304.50"
+      ],
+      "answer": 1,
+      "why": "5000 × 1.03² = 5304.50; $5300 is simple interest and $304.50 is only the interest."
+    },
+    {
+      "type": "short",
+      "q": "A mass is 250 g, correct to the nearest 10 g. Write down the lower bound.",
+      "model": "245 g",
+      "points": [
+        "245",
+        "half of 10 g subtracted"
+      ]
+    }
+  ]
+}

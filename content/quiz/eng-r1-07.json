@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which Q3 form needs a formal, objective tone, a title and recommendations at the end?",
+      "options": [
+        "Report",
+        "Journal entry",
+        "Speech",
+        "Letter to a friend"
+      ],
+      "answer": 0,
+      "why": "A report is formal and neutral, often with a title, subheadings and recommendations."
+    },
+    {
+      "type": "mcq",
+      "q": "How are the 25 marks for Paper 1 Question 3 split?",
+      "options": [
+        "10 reading + 15 writing",
+        "25 reading",
+        "15 reading + 10 writing",
+        "20 reading + 5 writing"
+      ],
+      "answer": 2,
+      "why": "Q3 rewards using and developing the text's ideas (15) and the quality of writing (10)."
+    },
+    {
+      "type": "mcq",
+      "q": "What does it mean to \"develop\" ideas from Text C in Q3?",
+      "options": [
+        "Invent new events for the character",
+        "Draw inferences grounded in the text, e.g. explain why or predict consequences",
+        "Copy the key phrases accurately",
+        "Retell the text in order"
+      ],
+      "answer": 1,
+      "why": "Development goes beyond the surface but stays anchored in the text."
+    },
+    {
+      "type": "short",
+      "q": "Give two conventions of a speech.",
+      "model": "Any two: addresses the audience directly (e.g. \"Good morning, everyone\"); uses direct appeals with \"you\"/\"we\"; rhetorical questions; a memorable ending.",
+      "points": [
+        "direct address to audience",
+        "rhetorical questions / direct appeals / memorable ending"
+      ]
+    }
+  ]
+}

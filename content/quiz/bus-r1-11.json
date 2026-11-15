@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-11",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A country's exchange rate appreciates. What is the most likely effect on its exporters?",
+      "options": [
+        "Their products become cheaper abroad",
+        "Their products become more expensive abroad, so export sales may fall",
+        "Their imported materials become more expensive",
+        "There is no effect on exporters"
+      ],
+      "answer": 1,
+      "why": "SPICED: Strong Pound, Imports Cheap, Exports Dear."
+    },
+    {
+      "type": "mcq",
+      "q": "A rise in interest rates by the central bank is an example of:",
+      "options": [
+        "fiscal policy",
+        "supply-side policy",
+        "protectionism",
+        "monetary policy"
+      ],
+      "answer": 3,
+      "why": "Monetary policy = interest rates; fiscal policy = taxes and government spending."
+    },
+    {
+      "type": "mcq",
+      "q": "What is a recession?",
+      "options": [
+        "A period of falling GDP lasting six months or more",
+        "A general rise in prices",
+        "A fall in the value of the currency",
+        "An increase in government spending"
+      ],
+      "answer": 0,
+      "why": "A recession is falling GDP for six months or more; a general rise in prices is inflation."
+    },
+    {
+      "type": "short",
+      "q": "Explain one effect of higher interest rates on a business with a large bank loan.",
+      "model": "Interest payments on the loan rise, increasing the business's costs, so profit falls (and there is less cash available).",
+      "points": [
+        "higher interest payments / costs",
+        "lower profit or less cash"
+      ]
+    }
+  ]
+}

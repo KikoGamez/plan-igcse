@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "An aquatic plant is put in hydrogencarbonate indicator in bright light. What colour does the indicator become?",
+      "options": [
+        "yellow",
+        "orange-red",
+        "purple",
+        "colourless"
+      ],
+      "answer": 2,
+      "why": "Photosynthesis is faster than respiration, so CO₂ is taken up and the indicator turns purple."
+    },
+    {
+      "type": "mcq",
+      "q": "What does phloem transport?",
+      "options": [
+        "water and mineral ions",
+        "sucrose and amino acids",
+        "glucose and oxygen",
+        "water and sucrose"
+      ],
+      "answer": 1,
+      "why": "Phloem carries sucrose and amino acids; xylem carries water and mineral ions."
+    },
+    {
+      "type": "mcq",
+      "q": "Which change increases the rate of transpiration?",
+      "options": [
+        "higher humidity",
+        "lower temperature",
+        "closing the stomata",
+        "higher wind speed"
+      ],
+      "answer": 3,
+      "why": "Wind removes water vapour near the leaf, keeping a steep diffusion gradient out of the stomata."
+    },
+    {
+      "type": "short",
+      "q": "Describe how water is lost from a leaf in transpiration.",
+      "model": "Water evaporates from the surfaces of the mesophyll cells into the air spaces, then diffuses out of the leaf through the stomata as water vapour.",
+      "points": [
+        "evaporates from mesophyll cell surfaces into air spaces",
+        "water vapour diffuses out",
+        "through the stomata"
+      ]
+    }
+  ]
+}

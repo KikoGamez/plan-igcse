@@ -1,0 +1,50 @@
+{
+  "id": "spa-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which is the strongest analysis of «la casa suspiraba»?",
+      "options": [
+        "Es una personificación.",
+        "Hace que el texto sea más interesante.",
+        "Da vida a la casa como si estuviera cansada o triste; crea un ambiente melancólico e inquietante.",
+        "Significa que la casa hacía ruido."
+      ],
+      "answer": 2,
+      "why": "Top answers give meaning and effect, not just the device name or a generic comment."
+    },
+    {
+      "type": "mcq",
+      "q": "«Un silencio ensordecedor» is an example of:",
+      "options": [
+        "hipérbole",
+        "oxímoron",
+        "onomatopeya",
+        "anáfora"
+      ],
+      "answer": 1,
+      "why": "Two contradictory ideas (silence / deafening) are joined: an oxymoron."
+    },
+    {
+      "type": "mcq",
+      "q": "What is the main effect of «Se paró. Escuchó. Nada.»?",
+      "options": [
+        "Tension and suspense through a rapid, broken rhythm",
+        "A calm, relaxed pace",
+        "Humour through exaggeration",
+        "A detailed description of the setting"
+      ],
+      "answer": 0,
+      "why": "Short sentences slow the action down beat by beat and build tension."
+    },
+    {
+      "type": "short",
+      "q": "Explain the meaning and effect of «la ciudad era un hormiguero».",
+      "model": "Significa que la ciudad estaba llena de gente que se movía sin parar; la metáfora sugiere una actividad frenética y hace que las personas parezcan diminutas y anónimas.",
+      "points": [
+        "meaning: crowded, constant movement",
+        "effect: connotations of smallness / anonymity / frenetic activity"
+      ]
+    }
+  ]
+}

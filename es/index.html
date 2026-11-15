@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plan IGCSE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="../app.css">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="IGCSE">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#151A31">
+<script>if('serviceWorker' in navigator){addEventListener('load',()=>navigator.serviceWorker.register('../sw.js',{scope:'../'}).catch(()=>{}))}</script>
+</head>
+<body>
+<div class="app" id="app">
+  <aside class="side" id="side">
+    <div class="brand"><img src="../apple-touch-icon.png" alt=""><div><b id="brandT"></b><span id="brandS"></span></div></div>
+    <div class="cd"><b class="num" id="cdNum"></b><span id="cdTxt"></span></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="side-foot"><a id="langLink" href="#"></a><p class="install-hint" id="installHint" hidden></p></div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+  <div class="main">
+    <header class="topbar"><button type="button" class="burger" id="burger" aria-expanded="false" aria-controls="side"></button><h1 id="viewTitle"></h1><span class="cd-mini" id="cdMini"></span></header>
+    <div class="views">
+      <section class="view" id="v-hoy"><section id="dash" class="dash" aria-live="polite"></section></section>
+      <section class="view" id="v-calendario" hidden>
+        <div class="view-head" data-vh="calendario"></div>
+        <div class="chips" id="legend"></div>
+        <div class="cal" id="cal"></div>
+        <div class="toolbar"><div class="chips" id="filters" role="group"></div><button class="btn" id="goToday" type="button"></button></div>
+        <div id="plan" style="display:flex;flex-direction:column;gap:28px"></div>
+      </section>
+      <section class="view" id="v-reparto" hidden>
+        <div class="view-head" data-vh="reparto"></div>
+        <div class="stats" id="stats"></div>
+        <div class="panel"><h3 id="phasesTitle"></h3><div class="route scroll-x" id="route"></div></div>
+        <div class="charts">
+          <div class="panel"><h3 id="weeklyTitle"></h3><div id="weekly"></div><p class="note" id="weeklyNote"></p></div>
+          <div class="panel"><h3 id="subjTitle"></h3><div id="bysubj"></div><div class="legend-phase"><span><i class="sw" style="background:var(--ink)"></i><span id="legR1"></span></span><span><i class="sw" style="background:var(--ink);opacity:.35"></i><span id="legR2"></span></span></div></div>
+        </div>
+        <p class="assume" id="assume"></p>
+      </section>
+      <section class="view" id="v-asignaturas" hidden><div class="view-head" data-vh="asignaturas"></div><div class="subjects" id="subjects"></div></section>
+      <section class="view" id="v-metodo" hidden><div class="view-head" data-vh="metodo"></div><div id="method" style="display:flex;flex-direction:column;gap:18px"></div></section>
+      <section class="view" id="v-recursos" hidden><div class="view-head" data-vh="recursos"></div><div class="res" id="res"></div></section>
+      <section class="view" id="v-ajustes" hidden><div class="view-head" data-vh="ajustes"></div><div id="settings"></div></section>
+    </div>
+  </div>
+</div>
+<div id="cfm" hidden role="dialog" aria-modal="true"><div class="box"><b id="cfmQ"></b><p id="cfmT"></p><div class="row"><button type="button" class="no" id="cfmNo"></button><button type="button" class="yes" id="cfmYes"></button></div></div></div>
+<div id="quiz" hidden role="dialog" aria-modal="true"><div class="qbox"></div></div>
+<script src="../data-es.js"></script>
+<script src="../app.js"></script>
+<script src="../dashboard.js"></script>
+<script>(function(){var ios=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);var st=navigator.standalone||matchMedia('(display-mode: standalone)').matches;var h=document.getElementById('installHint');if(h&&ios&&!st)h.hidden=false})();</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Complete: Si j'avais assez d'argent, j'___ une moto.",
+      "options": [
+        "achèterai",
+        "achète",
+        "achèterais",
+        "achetais"
+      ],
+      "answer": 2,
+      "why": "Si + imparfait is followed by the conditionnel (-ais)."
+    },
+    {
+      "type": "mcq",
+      "q": "Replace the underlined words with a pronoun: « Je parle à ma mère. »",
+      "options": [
+        "Je lui parle.",
+        "Je la parle.",
+        "Je le parle.",
+        "Je leur parle."
+      ],
+      "answer": 0,
+      "why": "Parler à takes an indirect object pronoun; à ma mère (singular) = lui."
+    },
+    {
+      "type": "mcq",
+      "q": "Complete: « Tu as des frères ? — Oui, j'___ ai deux. »",
+      "options": [
+        "y",
+        "en",
+        "les",
+        "leur"
+      ],
+      "answer": 1,
+      "why": "En replaces des + noun, and is needed with a number."
+    },
+    {
+      "type": "short",
+      "q": "Give the je form of the futur simple of aller and of faire.",
+      "model": "j'irai ; je ferai",
+      "points": [
+        "j'irai (stem ir-)",
+        "je ferai (stem fer-)"
+      ]
+    }
+  ]
+}

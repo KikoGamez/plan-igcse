@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Title: \"Describe a market at closing time.\" Which response best fits the task?",
+      "options": [
+        "A story about a theft and a chase through the stalls",
+        "A list beginning \"I can see… I can hear…\"",
+        "An argument about why markets matter",
+        "Sensory detail of stallholders packing up as the light fades"
+      ],
+      "answer": 3,
+      "why": "Description builds a picture and atmosphere; drifting into a plot limits the content mark."
+    },
+    {
+      "type": "mcq",
+      "q": "How are the 40 composition marks split?",
+      "options": [
+        "24 content and structure + 16 style and accuracy",
+        "16 content and structure + 24 style and accuracy",
+        "20 + 20",
+        "15 reading + 25 writing"
+      ],
+      "answer": 1,
+      "why": "Style and accuracy carry the larger share (24)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence best avoids cliché and uses a precise verb?",
+      "options": [
+        "Rain needled the windscreen.",
+        "The rain was as cold as ice.",
+        "It was a dark and stormy night.",
+        "The big, wet, cold, heavy rain fell."
+      ],
+      "answer": 0,
+      "why": "A precise verb is fresher than clichés or chains of adjectives."
+    },
+    {
+      "type": "short",
+      "q": "Name two structures you could use for a descriptive composition.",
+      "model": "Any two: zoom (wide view to close-up detail); time shift (same place at different times); walk-through; circular (ending echoes the opening).",
+      "points": [
+        "two named structures",
+        "e.g. zoom, time shift, walk-through, circular"
+      ]
+    }
+  ]
+}

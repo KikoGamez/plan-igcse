@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A sound wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is its speed?",
+      "options": [
+        "735 m/s",
+        "0.0014 m/s",
+        "34 m/s",
+        "340 m/s"
+      ],
+      "answer": 3,
+      "why": "v = fλ = 500 × 0.68 = 340 m/s."
+    },
+    {
+      "type": "mcq",
+      "q": "Which of these is a longitudinal wave?",
+      "options": [
+        "sound wave in air",
+        "light wave",
+        "water wave",
+        "seismic S-wave"
+      ],
+      "answer": 0,
+      "why": "In sound the air particles vibrate parallel to the direction the wave travels; the others are transverse."
+    },
+    {
+      "type": "mcq",
+      "q": "Water waves pass through a gap in a barrier. When is the diffraction greatest?",
+      "options": [
+        "when the gap is much wider than the wavelength",
+        "when the gap is about the same size as the wavelength",
+        "when the waves have a large amplitude",
+        "when the waves travel faster"
+      ],
+      "answer": 1,
+      "why": "Diffraction is most noticeable when the gap width is similar to the wavelength."
+    },
+    {
+      "type": "short",
+      "q": "A student stands 85 m from a tall wall and claps. She hears the echo 0.50 s later. Calculate the speed of sound.",
+      "model": "distance = 2 × 85 = 170 m; v = s ÷ t = 170 ÷ 0.50 = 340 m/s",
+      "points": [
+        "distance doubled (to the wall and back) = 170 m",
+        "v = s ÷ t",
+        "340 m/s"
+      ]
+    }
+  ]
+}

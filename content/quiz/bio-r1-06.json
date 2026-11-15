@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which blood vessel carries blood from the heart to the lungs?",
+      "options": [
+        "pulmonary vein",
+        "aorta",
+        "pulmonary artery",
+        "vena cava"
+      ],
+      "answer": 2,
+      "why": "Arteries carry blood away from the heart; the pulmonary artery takes it to the lungs."
+    },
+    {
+      "type": "mcq",
+      "q": "Why does the left ventricle have a thicker muscular wall than the right ventricle?",
+      "options": [
+        "It pumps blood at higher pressure around the whole body.",
+        "It pumps blood only to the lungs.",
+        "It receives blood from the vena cava.",
+        "It must hold a larger volume of blood."
+      ],
+      "answer": 0,
+      "why": "The left ventricle pumps blood into the aorta, all round the body, so it needs more pressure."
+    },
+    {
+      "type": "mcq",
+      "q": "What is the function of lymphocytes?",
+      "options": [
+        "transporting oxygen",
+        "phagocytosis",
+        "blood clotting",
+        "antibody production"
+      ],
+      "answer": 3,
+      "why": "Lymphocytes produce antibodies; phagocytes engulf pathogens by phagocytosis."
+    },
+    {
+      "type": "short",
+      "q": "State one advantage of a double circulation in a mammal.",
+      "model": "Blood is pumped again after the lungs, so it reaches the body at high pressure, giving faster delivery of oxygen and glucose to respiring tissues.",
+      "points": [
+        "blood reaches the body at high pressure (pumped twice)",
+        "faster delivery of oxygen / glucose to tissues",
+        "accept: lower pressure to lungs protects capillaries, or oxygenated and deoxygenated blood kept separate"
+      ]
+    }
+  ]
+}

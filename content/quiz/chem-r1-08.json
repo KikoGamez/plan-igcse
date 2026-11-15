@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which of these is a chemical change?",
+      "options": [
+        "dissolving salt in water",
+        "melting ice",
+        "rusting of iron",
+        "distilling sea water"
+      ],
+      "answer": 2,
+      "why": "Rusting forms a new substance; the others can be reversed and form no new substance."
+    },
+    {
+      "type": "mcq",
+      "q": "CuO + H₂ → Cu + H₂O. Which substance is oxidised?",
+      "options": [
+        "copper(II) oxide",
+        "hydrogen",
+        "copper",
+        "water"
+      ],
+      "answer": 1,
+      "why": "Hydrogen gains oxygen, so it is oxidised; copper(II) oxide loses oxygen and is reduced."
+    },
+    {
+      "type": "mcq",
+      "q": "Zn + Cu²⁺ → Zn²⁺ + Cu. Which statement is correct?",
+      "options": [
+        "Zinc gains electrons and is reduced",
+        "Cu²⁺ ions lose electrons and are oxidised",
+        "Zinc loses electrons and is reduced",
+        "Cu²⁺ ions gain electrons and are reduced"
+      ],
+      "answer": 3,
+      "why": "OIL RIG: Cu²⁺ gains 2 electrons (reduction) while zinc loses 2 electrons (oxidation)."
+    },
+    {
+      "type": "short",
+      "q": "Describe a chemical test for the presence of water, giving the result.",
+      "model": "Add anhydrous copper(II) sulfate: it turns from white to blue. (Or anhydrous cobalt(II) chloride: blue to pink.)",
+      "points": [
+        "anhydrous copper(II) sulfate OR anhydrous cobalt(II) chloride",
+        "colour change with both colours: white → blue OR blue → pink"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which moving average should be used for quarterly sales data?",
+      "options": [
+        "3-point",
+        "12-point",
+        "4-point",
+        "2-point"
+      ],
+      "answer": 2,
+      "why": "The number of points must match the cycle: 4 quarters a year."
+    },
+    {
+      "type": "mcq",
+      "q": "Termly values are 14, 20, 11, 17. Find the first 3-point moving average.",
+      "options": [
+        "16",
+        "45",
+        "14",
+        "15"
+      ],
+      "answer": 3,
+      "why": "(14 + 20 + 11) ÷ 3 = 45 ÷ 3 = 15."
+    },
+    {
+      "type": "mcq",
+      "q": "The actual value is 48 and the trend value is 52. Find the seasonal variation.",
+      "options": [
+        "4",
+        "−4",
+        "100",
+        "50"
+      ],
+      "answer": 1,
+      "why": "Seasonal variation = actual − trend = 48 − 52 = −4."
+    },
+    {
+      "type": "short",
+      "q": "The trend line gives 140 for Quarter 1 of next year. The mean seasonal variation for Quarter 1 is −12. Predict the value.",
+      "model": "140 + (−12) = 128",
+      "points": [
+        "trend + mean seasonal variation",
+        "128"
+      ]
+    }
+  ]
+}

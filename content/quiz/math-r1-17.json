@@ -1,0 +1,52 @@
+{
+  "id": "math-r1-17",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "The point (3, 5) is reflected in the line y = x. Find its image.",
+      "options": [
+        "(5, 3)",
+        "(−3, 5)",
+        "(3, −5)",
+        "(−5, −3)"
+      ],
+      "answer": 0,
+      "why": "Reflecting in y = x swaps the coordinates."
+    },
+    {
+      "type": "mcq",
+      "q": "The point (2, 1) is rotated 90° clockwise about the origin. Find its image.",
+      "options": [
+        "(−1, 2)",
+        "(1, −2)",
+        "(−2, 1)",
+        "(−2, −1)"
+      ],
+      "answer": 1,
+      "why": "90° clockwise about O maps (x, y) to (y, −x); (−1, 2) is anticlockwise."
+    },
+    {
+      "type": "mcq",
+      "q": "The point (3, −1) is enlarged with scale factor −2, centre the origin. Find its image.",
+      "options": [
+        "(6, −2)",
+        "(−6, −2)",
+        "(−6, 2)",
+        "(1, −3)"
+      ],
+      "answer": 2,
+      "why": "Multiply both coordinates by −2; the image is on the opposite side of the centre."
+    },
+    {
+      "type": "short",
+      "q": "What must you state to describe fully a single rotation?",
+      "model": "Rotation, the centre (as coordinates), the angle, and the direction (clockwise or anticlockwise)",
+      "points": [
+        "the word rotation",
+        "centre",
+        "angle",
+        "direction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "On a reaction pathway diagram, reactants are at 80 kJ, the peak at 230 kJ and products at 30 kJ. What are Ea and ΔH?",
+      "options": [
+        "Ea = 150 kJ, ΔH = −50 kJ",
+        "Ea = 230 kJ, ΔH = −50 kJ",
+        "Ea = 150 kJ, ΔH = +50 kJ",
+        "Ea = 200 kJ, ΔH = −50 kJ"
+      ],
+      "answer": 0,
+      "why": "Ea = 230 − 80 = 150 kJ; ΔH = 30 − 80 = −50 kJ (exothermic)."
+    },
+    {
+      "type": "mcq",
+      "q": "How does a catalyst increase the rate of a reaction?",
+      "options": [
+        "It gives the particles more kinetic energy",
+        "It increases the concentration of the reactants",
+        "It makes ΔH more negative",
+        "It decreases the activation energy"
+      ],
+      "answer": 3,
+      "why": "A lower Ea means a greater proportion of collisions are successful; the catalyst is unchanged at the end."
+    },
+    {
+      "type": "mcq",
+      "q": "Marble lumps react with excess acid. The experiment is repeated with the same mass of marble powder. How does the gas-volume graph change?",
+      "options": [
+        "less steep at the start; same final volume",
+        "steeper at the start; same final volume",
+        "steeper at the start; larger final volume",
+        "same gradient; larger final volume"
+      ],
+      "answer": 1,
+      "why": "Larger surface area gives a faster rate, but the same mass of limiting marble gives the same volume of gas."
+    },
+    {
+      "type": "short",
+      "q": "Explain, using collision theory, why increasing the temperature increases the rate of reaction.",
+      "model": "Particles have more kinetic energy and move faster, so they collide more frequently, and a greater proportion of collisions have energy greater than or equal to the activation energy, so there are more frequent successful collisions.",
+      "points": [
+        "more kinetic energy / move faster → more frequent collisions",
+        "greater proportion of particles/collisions with energy ≥ Ea (more successful collisions)"
+      ]
+    }
+  ]
+}

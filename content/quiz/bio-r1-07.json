@@ -1,0 +1,50 @@
+{
+  "id": "bio-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which describes antibodies?",
+      "options": [
+        "proteins that bind to specific antigens",
+        "cells that engulf pathogens",
+        "molecules on the surface of pathogens",
+        "drugs that kill bacteria"
+      ],
+      "answer": 0,
+      "why": "Antibodies are proteins with complementary shapes that bind to specific antigens."
+    },
+    {
+      "type": "mcq",
+      "q": "A patient has an infection caused by a virus. Why are antibiotics not prescribed?",
+      "options": [
+        "Viruses are resistant to all drugs.",
+        "Antibiotics only work against fungi.",
+        "Antibiotics kill bacteria but do not affect viruses.",
+        "Antibiotics destroy the patient's antibodies."
+      ],
+      "answer": 2,
+      "why": "Antibiotics treat bacterial infections only; using them unnecessarily also selects resistant bacteria."
+    },
+    {
+      "type": "mcq",
+      "q": "Why is a vaccinated person protected for many years?",
+      "options": [
+        "The vaccine contains antibodies that stay in the blood for life.",
+        "The vaccine contains antibiotics.",
+        "The pathogen can no longer enter the body.",
+        "Memory cells quickly produce antibodies on later infection."
+      ],
+      "answer": 3,
+      "why": "Vaccination produces memory cells, giving long-term active immunity."
+    },
+    {
+      "type": "short",
+      "q": "Describe what is meant by a transmissible disease.",
+      "model": "A disease in which the pathogen can be passed from one host to another.",
+      "points": [
+        "pathogen",
+        "passed from one host to another"
+      ]
+    }
+  ]
+}

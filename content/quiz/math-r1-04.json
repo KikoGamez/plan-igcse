@@ -1,0 +1,51 @@
+{
+  "id": "math-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Expand and simplify (x − 4)².",
+      "options": [
+        "x² + 16",
+        "x² − 16",
+        "x² − 8x + 16",
+        "x² − 8x − 16"
+      ],
+      "answer": 2,
+      "why": "(x − 4)(x − 4) = x² − 4x − 4x + 16; there are two middle terms."
+    },
+    {
+      "type": "mcq",
+      "q": "Factorise completely 6x²y − 9xy².",
+      "options": [
+        "3xy(2x − 3y)",
+        "3(2x²y − 3xy²)",
+        "xy(6x − 9y)",
+        "3x(2xy − 3y²)"
+      ],
+      "answer": 0,
+      "why": "The highest common factor is 3xy; the other answers are only partly factorised."
+    },
+    {
+      "type": "mcq",
+      "q": "Factorise 2x² + 5x − 3.",
+      "options": [
+        "(2x + 1)(x − 3)",
+        "(2x − 3)(x + 1)",
+        "(2x + 3)(x − 1)",
+        "(2x − 1)(x + 3)"
+      ],
+      "answer": 3,
+      "why": "Expanding (2x − 1)(x + 3) gives 2x² + 6x − x − 3 = 2x² + 5x − 3."
+    },
+    {
+      "type": "short",
+      "q": "Simplify (x² − 9) / (x² + 3x).",
+      "model": "(x − 3)(x + 3) / x(x + 3) = (x − 3)/x",
+      "points": [
+        "(x − 3)(x + 3)",
+        "x(x + 3)",
+        "(x − 3)/x"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which statement describes enzymes?",
+      "options": [
+        "carbohydrates that speed up digestion only",
+        "living cells that make reactions faster",
+        "proteins that function as biological catalysts",
+        "fats that are used up in metabolic reactions"
+      ],
+      "answer": 2,
+      "why": "Enzymes are proteins involved in all metabolic reactions, acting as biological catalysts."
+    },
+    {
+      "type": "mcq",
+      "q": "Why does an enzyme stop working at 70 °C?",
+      "options": [
+        "The active site changes shape, so the substrate no longer fits.",
+        "The enzyme has been killed by the heat.",
+        "The molecules move too slowly to collide.",
+        "The substrate becomes complementary to the product."
+      ],
+      "answer": 0,
+      "why": "High temperature denatures the enzyme: the active site shape changes permanently."
+    },
+    {
+      "type": "mcq",
+      "q": "Why does the rate of an enzyme reaction increase from 20 °C to 35 °C?",
+      "options": [
+        "More enzyme molecules are made.",
+        "The active site becomes a better shape.",
+        "The enzyme is partly denatured.",
+        "Molecules have more kinetic energy, so more frequent effective collisions."
+      ],
+      "answer": 3,
+      "why": "Below the optimum, more kinetic energy gives more enzyme–substrate collisions per second."
+    },
+    {
+      "type": "short",
+      "q": "Explain why an enzyme acts on only one type of substrate.",
+      "model": "The active site has a shape that is complementary to the substrate, so only that substrate fits and forms an enzyme–substrate complex.",
+      "points": [
+        "active site",
+        "complementary shape to the substrate",
+        "only that substrate fits / forms an enzyme–substrate complex"
+      ]
+    }
+  ]
+}

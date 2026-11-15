@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What type of data is shoe size?",
+      "options": [
+        "discrete",
+        "continuous",
+        "qualitative",
+        "bivariate"
+      ],
+      "answer": 0,
+      "why": "Shoe size can only take particular values (e.g. 7, 7.5), so it is discrete."
+    },
+    {
+      "type": "mcq",
+      "q": "A school has 1200 students; 300 are in Year 10. A stratified sample of 80 is taken. How many from Year 10?",
+      "options": [
+        "25",
+        "40",
+        "20",
+        "30"
+      ],
+      "answer": 2,
+      "why": "(300 ÷ 1200) × 80 = 20."
+    },
+    {
+      "type": "mcq",
+      "q": "An interviewer is told to ask 20 men and 20 women, and chooses whom to ask. This sampling method is",
+      "options": [
+        "systematic",
+        "stratified",
+        "simple random",
+        "quota"
+      ],
+      "answer": 3,
+      "why": "Quota sampling fixes numbers per group but the interviewer chooses, so it is not random."
+    },
+    {
+      "type": "short",
+      "q": "Give one reason for carrying out a pilot study before a survey.",
+      "model": "To check that the questions are clear and easy to understand, so that any problems can be put right before the main survey.",
+      "points": [
+        "check questions are clear / method works",
+        "fix problems before the main survey"
+      ]
+    }
+  ]
+}

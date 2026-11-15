@@ -1,0 +1,51 @@
+{
+  "id": "fr-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "In a role play you are at a hotel reception. How do you address the receptionist?",
+      "options": [
+        "tu, to sound friendly",
+        "on",
+        "either; it does not matter",
+        "vous"
+      ],
+      "answer": 3,
+      "why": "Use vous with adults you don't know (hotel, shop, tourist office)."
+    },
+    {
+      "type": "mcq",
+      "q": "You did not understand the examiner's question. What is the best thing to say?",
+      "options": [
+        "Je ne sais pas.",
+        "Quoi ?",
+        "Pouvez-vous répéter, s'il vous plaît ?",
+        "Répète !"
+      ],
+      "answer": 2,
+      "why": "Asking politely for a repetition is allowed and keeps the exchange going."
+    },
+    {
+      "type": "mcq",
+      "q": "« Qu'est-ce que tu fais pendant ton temps libre ? » Which answer would score highest?",
+      "options": [
+        "Je joue au foot.",
+        "Je joue au foot parce que c'est amusant. Samedi dernier, j'ai marqué un but et l'année prochaine, je voudrais jouer dans un club.",
+        "J'aime le foot. J'aime le tennis. J'aime le basket.",
+        "Le foot."
+      ],
+      "answer": 1,
+      "why": "Opinion + reason + past + future gives development and range."
+    },
+    {
+      "type": "short",
+      "q": "Role play: ask the receptionist (a) the price per night and (b) whether breakfast is included.",
+      "model": "C'est combien par nuit ? Le petit-déjeuner est compris ?",
+      "points": [
+        "combien … par nuit",
+        "petit-déjeuner … compris",
+        "a question form (intonation, est-ce que or inversion)"
+      ]
+    }
+  ]
+}

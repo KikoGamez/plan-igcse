@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-15",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A right-angled triangle has hypotenuse 13 cm and another side 5 cm. Find the third side.",
+      "options": [
+        "12 cm",
+        "8 cm",
+        "13.9 cm",
+        "18 cm"
+      ],
+      "answer": 0,
+      "why": "For a shorter side subtract: √(13² − 5²) = √144 = 12 cm."
+    },
+    {
+      "type": "mcq",
+      "q": "The bearing of B from A is 070°. Find the bearing of A from B.",
+      "options": [
+        "110°",
+        "290°",
+        "250°",
+        "070°"
+      ],
+      "answer": 2,
+      "why": "The back bearing is 070° + 180° = 250°."
+    },
+    {
+      "type": "mcq",
+      "q": "In a right-angled triangle, the side opposite angle x is 7 cm and the adjacent side is 10 cm. Which gives x?",
+      "options": [
+        "sin⁻¹(7/10)",
+        "tan⁻¹(10/7)",
+        "cos⁻¹(7/10)",
+        "tan⁻¹(7/10)"
+      ],
+      "answer": 3,
+      "why": "Opposite and adjacent give tan x = 7/10."
+    },
+    {
+      "type": "short",
+      "q": "A 5 m ladder leans against a vertical wall. Its foot is 1.4 m from the wall on horizontal ground. How high up the wall does it reach?",
+      "model": "√(5² − 1.4²) = √23.04 = 4.8 m",
+      "points": [
+        "5² − 1.4²",
+        "4.8 m"
+      ]
+    }
+  ]
+}

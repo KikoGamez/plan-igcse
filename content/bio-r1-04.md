@@ -1,122 +1,160 @@
 # Plant nutrition and transport in plants
 
-> **In the exam:** a big topic. Paper 2 has 4–6 questions (leaf structure, limiting factors, xylem/phloem, transpiration factors). Paper 4 usually has one full question (10–15 marks) on photosynthesis or transpiration, often with a graph of limiting factors or potometer data. Paper 6 often tests the starch-in-leaf test, hydrogencarbonate indicator experiments, pondweed bubble counts or potometer readings.
+> **In the exam:** a big topic. In Co-ordinated Sciences 0654, Biology questions appear alongside Chemistry and Physics in the same papers. **Paper 2** (Multiple Choice, Extended: 45 min, 40 four-option questions across all three sciences, 30 %) is likely to include items on leaf structure, the photosynthesis equation, xylem/phloem or transpiration factors. **Paper 4** (Theory, Extended: 2 h, 120 marks, 50 %; in the 2025 specimen Questions 1–4 are Biology, about 40 marks) often builds a Biology question around photosynthesis or transport in plants — the specimen paper's first question mixes a pondweed rate graph, enzymes, sources and sinks, and uses of glucose. **Paper 6** (Alternative to Practical: 1 h 30 min, 60 marks, 20 %, all three sciences) lists photosynthesis (rate and limiting factors), hydrogencarbonate indicator and transpiration among its Biology contexts.
 
 ## What you need to know
 
-- Define photosynthesis; state the word equation and (Extended) the balanced symbol equation.
-- State that chlorophyll is a green pigment in chloroplasts that absorbs light energy; Extended: it transfers light energy into chemical energy for the synthesis of carbohydrates.
-- Outline the uses of carbohydrates made in photosynthesis; explain the importance of nitrate ions (amino acids) and magnesium ions (chlorophyll).
-- Investigate the need for chlorophyll, light and carbon dioxide; investigate the effects of light intensity, CO₂ concentration and temperature on the rate of photosynthesis.
-- Extended: identify and explain limiting factors.
-- Identify leaf structures and explain how the leaf is adapted for photosynthesis.
-- State the functions of xylem and phloem; identify their positions in roots, stems and leaves; Extended: relate the structure of xylem to its functions.
-- Describe the pathway of water through the plant; define transpiration; investigate the effects of temperature and wind speed (Extended: and humidity) on transpiration.
-- Extended: explain the mechanism of water movement (transpiration pull, cohesion); explain wilting; define translocation, source and sink.
+**B6.1 Photosynthesis**
+- Describe photosynthesis as the process by which plants synthesise carbohydrates from raw materials using energy from light (Core).
+- State the word equation: carbon dioxide + water → glucose + oxygen, in the presence of light and chlorophyll (Core).
+- State that chlorophyll is a green pigment that is found in chloroplasts (Core).
+- Investigate and understand the need for chlorophyll, light and carbon dioxide for photosynthesis (Core).
+- State the balanced symbol equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (Supplement).
+- State that chlorophyll transfers energy from light into energy in chemicals, for the synthesis of carbohydrates (Supplement).
+- Outline the subsequent use and storage of the carbohydrates made: starch as an energy store; cellulose to build cell walls; glucose used in respiration to provide energy; sucrose for transport in the phloem; nectar to attract insects for pollination (Supplement).
+- Explain the importance of nitrate ions for making amino acids and magnesium ions for making chlorophyll (Supplement).
+- Understand and describe the effects of varying light intensity, carbon dioxide concentration and temperature on the rate of photosynthesis (Supplement).
+- Understand and describe the effect of light and dark conditions on gas exchange in an aquatic plant using hydrogencarbonate indicator solution (Supplement).
+
+**B6.2 Leaf structure**
+- State that most leaves have a large surface area and are thin, and explain how these features are adaptations for photosynthesis (Core).
+- Identify in diagrams and images: chloroplasts, cuticle, guard cells and stomata, upper and lower epidermis, palisade mesophyll, spongy mesophyll, air spaces, vascular bundles, xylem and phloem (Core).
+- Explain how these structures adapt leaves for photosynthesis (Supplement).
+
+**B8 Transport in plants**
+- State the functions of xylem (transport of water and mineral ions, and support) and phloem (transport of sucrose and amino acids) (Core).
+- Identify the position of xylem and phloem in sections of roots, stems and leaves of non-woody dicotyledonous plants (Core).
+- Identify root hair cells and state their functions; state that their large surface area increases the uptake of water and mineral ions (Core).
+- Outline the pathway taken by water: root hair cells, root cortex cells, xylem, mesophyll cells (Core).
+- Describe transpiration as the loss of water vapour from leaves; state that water evaporates from the surfaces of the mesophyll cells into the air spaces and then diffuses out of the leaves through the stomata as water vapour (Core).
+- Investigate and describe the effects of variation of temperature and wind speed on transpiration rate (Core).
+- Explain the effects on the rate of transpiration of varying temperature, wind speed and humidity; explain how and why wilting occurs (Supplement).
+- Describe translocation as the movement of sucrose and amino acids in phloem from sources to sinks; describe sources and sinks (Supplement).
 
 ## Notes
 
 ### Photosynthesis
 
 - **Photosynthesis**: the process by which plants synthesise carbohydrates from raw materials using energy from light.
-- Word equation: carbon dioxide + water → glucose + oxygen (in the presence of light and chlorophyll).
-- Symbol equation (Extended): **6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂**
-- **Chlorophyll** is a green pigment found in chloroplasts; it absorbs light energy. Extended: it transfers light energy into chemical energy in molecules, for the synthesis of carbohydrates.
+- Word equation: **carbon dioxide + water → glucose + oxygen** (in the presence of light and chlorophyll).
+- Balanced symbol equation (Supplement): **6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂**
+- **Chlorophyll** is a green pigment found in **chloroplasts**. Supplement: chlorophyll **transfers energy from light into energy in chemicals**, for the synthesis of carbohydrates.
 
-### Uses of the glucose made
+### Uses of the carbohydrates made (Supplement)
 
-- **starch** — energy store (insoluble, so no osmotic effect)
-- **cellulose** — cell walls
-- **respiration** — to release energy
+- **starch** — energy store (insoluble)
+- **cellulose** — to build cell walls
+- **glucose** — used in respiration to provide energy
 - **sucrose** — for transport in the phloem
 - **nectar** — to attract insects for pollination
-- with **nitrate ions** → **amino acids** → proteins
-- fats and oils (e.g. seed storage)
 
-Mineral ions: **nitrate** for making amino acids (deficiency → poor growth, yellow older leaves); **magnesium** for making chlorophyll (deficiency → yellow leaves, chlorosis).
+Mineral ions (Supplement):
+- **Nitrate ions** — for making **amino acids** (and so proteins); without them the plant cannot grow well.
+- **Magnesium ions** — for making **chlorophyll**; without them leaves turn yellow and photosynthesis falls.
 
-### Limiting factors (Extended)
+### Factors affecting the rate of photosynthesis (Supplement)
 
-A **limiting factor** is something present in the environment in such short supply that it restricts life processes.
+| Factor increased | Effect on rate | Why |
+|---|---|---|
+| Light intensity | rises, then levels off | more energy from light for photosynthesis; levels off when another factor is in short supply |
+| Carbon dioxide concentration | rises, then levels off | more raw material; levels off when another factor is in short supply |
+| Temperature | rises to an optimum, then falls | enzymes controlling photosynthesis: more kinetic energy and effective collisions; above the optimum, enzymes denature |
 
-- On a graph of rate against light intensity: where the line rises, **light** is limiting; where it levels off, something else (CO₂ concentration or temperature) is limiting.
-- Higher CO₂ or temperature curves level off higher.
-- Temperature affects the **enzymes** in photosynthesis; very high temperatures denature them.
-- Glasshouse growers raise CO₂ (paraffin heaters), temperature and light (lamps) to increase yield — but only up to the point where it pays.
+Reading graphs: where the line is **rising**, the factor on the x-axis is limiting the rate; where it **levels off**, something else (e.g. CO₂ concentration or temperature) is limiting. A curve for higher CO₂ or a warmer temperature levels off higher.
 
-### Investigating photosynthesis
+### Investigating photosynthesis (Core)
 
 | Investigation | Key points |
 |---|---|
-| Starch test on a leaf | boil leaf in water (kills cells, breaks membranes, stops reactions); put in hot **ethanol** in a water bath — no flame (removes chlorophyll); rinse in water (softens leaf); spread on tile and add **iodine** — blue-black = starch |
-| Need for light | **destarch** the plant (keep in dark 48 h); cover part of a leaf with foil; uncovered part goes blue-black |
-| Need for chlorophyll | use a **variegated** leaf; only the green parts go blue-black |
-| Need for CO₂ | put leaf/plant in a bag with sodium hydroxide / soda lime (absorbs CO₂); control has no absorber |
-| Rate with pondweed | count bubbles (or collect gas volume) per minute; vary distance of lamp; keep temperature constant (use a heat shield / water tank) and add sodium hydrogencarbonate for constant CO₂ |
-| Hydrogencarbonate indicator | high CO₂ → **yellow**; atmospheric CO₂ → **orange/red**; low CO₂ → **purple/magenta**. In light, a leaf makes CO₂ fall (photosynthesis > respiration) → purple; in dark → yellow |
+| Starch test on a leaf | boil leaf in water (kills cells, makes them permeable to iodine); put in hot **ethanol** in a water bath — no flame (removes chlorophyll); rinse in water (softens leaf); spread on a tile and add **iodine** — blue-black = starch present, so photosynthesis happened |
+| Need for light | **destarch** the plant (keep in the dark for about 48 h); cover part of a leaf with foil; only the uncovered part goes blue-black |
+| Need for chlorophyll | use a **variegated** (green and white) leaf; only the green parts go blue-black |
+| Need for CO₂ | put a leaf/plant in a sealed bag or flask with **soda lime / sodium hydroxide** (absorbs CO₂); control without the absorber |
+| Rate with pondweed (Supplement factors) | count bubbles (or collect gas volume) per minute; vary distance of a lamp (light intensity) or the concentration of sodium hydrogencarbonate (CO₂) or the water temperature; keep the other factors constant |
 
-### Leaf structure and adaptations
+### Hydrogencarbonate indicator (Supplement)
 
-From top to bottom: waxy **cuticle** → **upper epidermis** (transparent) → **palisade mesophyll** (many chloroplasts) → **spongy mesophyll** with **air spaces** → **lower epidermis** with **stomata** and **guard cells**. **Vascular bundles** (veins) contain **xylem** (upper side) and **phloem** (lower side).
-
-| Feature | Adaptation |
+| CO₂ concentration | Colour |
 |---|---|
-| Broad, flat lamina | large surface area to absorb light |
-| Thin | short diffusion distance for CO₂ |
-| Palisade cells near top, many chloroplasts | absorb most light |
-| Air spaces in spongy mesophyll | CO₂ diffuses to cells; large internal surface area |
-| Stomata (opened by guard cells) | let CO₂ in and O₂ out |
-| Xylem | brings water and mineral ions |
-| Phloem | carries away sucrose |
-| Transparent epidermis, waxy cuticle | lets light through; reduces water loss |
+| higher than air | **yellow** |
+| same as air (at start) | **orange / red** |
+| lower than air | **purple / magenta** |
+
+- Aquatic plant in **bright light**: photosynthesis faster than respiration → net uptake of CO₂ → indicator turns **purple**.
+- In the **dark**: only respiration → CO₂ released → **yellow**.
+- Dim light: photosynthesis rate = respiration rate → no net change → stays **orange-red**.
+- Control: tube with indicator but no plant (shows the colour change is caused by the plant).
+
+### Leaf structure
+
+From top to bottom: waxy **cuticle** → **upper epidermis** → **palisade mesophyll** → **spongy mesophyll** with **air spaces** → **lower epidermis** with **stomata** (each between two **guard cells**). **Vascular bundles** (veins) contain **xylem** (upper side) and **phloem** (lower side).
+
+Core: most leaves have a **large surface area** (to absorb more light) and are **thin** (short distance for CO₂ to diffuse to the mesophyll cells; light reaches all cells).
+
+Supplement — how the structures adapt the leaf for photosynthesis:
+
+| Structure | Adaptation |
+|---|---|
+| Cuticle and upper epidermis | transparent, so light passes through to the mesophyll |
+| Palisade mesophyll | tightly packed cells with many chloroplasts, near the upper surface, absorb most light |
+| Chloroplasts | contain chlorophyll that absorbs light |
+| Spongy mesophyll with air spaces | CO₂ diffuses through air spaces to all cells; large internal surface area for gas exchange |
+| Stomata and guard cells | allow CO₂ to diffuse in and O₂ out; guard cells open and close the stomata |
+| Xylem | brings water (a raw material) and mineral ions to the leaf |
+| Phloem | carries sucrose (and amino acids) away from the leaf |
+| Vascular bundles | branch throughout the leaf so no cell is far from a vein |
 
 ### Xylem and phloem
 
-- **Xylem**: transports **water and mineral ions**; also gives **support**. Extended: thick walls strengthened with **lignin**; cells have **no cell contents** (dead); joined end to end with **no cross walls** to form a continuous hollow tube.
-- **Phloem**: transports **sucrose and amino acids**.
-- Positions: in the **root**, xylem is in the centre (star/cross shape) with phloem between its arms; in the **stem**, vascular bundles are in a ring, xylem on the inside, phloem on the outside.
+- **Xylem**: transport of **water and mineral ions**, and **support**.
+- **Phloem**: transport of **sucrose and amino acids**.
+- Positions in a non-woody dicotyledonous plant:
+  - **Root**: xylem in the **centre** (star/cross shape), phloem in groups **between** the arms of the xylem.
+  - **Stem**: vascular bundles in a **ring** near the outside; in each bundle, xylem towards the **inside**, phloem towards the **outside**.
+  - **Leaf**: in the veins (midrib), xylem on the **upper** side, phloem on the **lower** side.
 
-### Water uptake and transpiration
+### Water uptake
 
-- **Root hair cells**: large surface area for uptake of water (osmosis) and mineral ions (active transport).
-- Pathway: root hair cells → root cortex cells → xylem → mesophyll cells.
+- **Root hair cells** absorb water (by osmosis) and mineral ions. The **large surface area** of root hairs increases the uptake of water and mineral ions.
+- Pathway of water: **root hair cells → root cortex cells → xylem → mesophyll cells**.
+
+### Transpiration
+
 - **Transpiration**: the loss of water vapour from leaves.
-- Extended: water evaporates from the surfaces of **mesophyll cells** into the **air spaces**, then water vapour **diffuses** out through the **stomata**. Large internal surface area of interconnecting air spaces speeds this up.
-- Extended — **transpiration pull**: water lost from the leaf pulls water up the xylem as a continuous column, because water molecules are attracted to each other (**cohesion**).
-- **Wilting** (Extended): when water loss is greater than uptake, cells lose water, become flaccid, turgor pressure falls and the plant droops.
+- Water **evaporates** from the surfaces of the **mesophyll cells** into the **air spaces**, then **diffuses** out of the leaf through the **stomata** as water vapour.
 
-| Factor | Effect on transpiration | Explanation |
+| Factor | Effect on rate | Explanation (Supplement) |
 |---|---|---|
-| Higher temperature | increases | more kinetic energy → faster evaporation and diffusion |
-| Higher wind speed | increases | water vapour blown away, steeper concentration gradient |
-| Higher humidity (Extended) | decreases | less steep concentration gradient of water vapour between leaf and air |
-| Higher light intensity | increases | stomata open wider |
+| Higher temperature | increases | water molecules have more kinetic energy → faster evaporation and diffusion |
+| Higher wind speed | increases | water vapour is blown away from the leaf surface → steeper concentration gradient |
+| Higher humidity (Supplement) | decreases | more water vapour in the air → smaller concentration gradient between air spaces and air → slower diffusion |
 
-### Translocation (Extended)
+**Wilting** (Supplement): when water is lost by transpiration faster than it is taken up by the roots, cells lose water, become **flaccid**, **turgor pressure** falls and the leaves and stem droop. Likely on hot, dry, windy days.
+
+### Translocation (Supplement)
 
 - **Translocation**: the movement of sucrose and amino acids in phloem from sources to sinks.
-- **Source**: part of a plant that releases sucrose or amino acids (e.g. leaves photosynthesising; a storage organ in spring).
-- **Sink**: part of a plant that uses or stores sucrose or amino acids (e.g. roots, growing shoots, fruits, seeds).
-- A part can be a source at one time and a sink at another (e.g. potato tuber: sink in summer, source when shoots grow in spring).
+- **Sources**: the parts of plants that release sucrose or amino acids (e.g. photosynthesising leaves; a storage organ when it is being used).
+- **Sinks**: the parts of plants that use or store sucrose or amino acids (e.g. roots, growing shoots, fruits, seeds, storage organs).
 
 ### Paper 6 skills on this topic
 
-- **Potometer**: measures water **uptake** (which is close to the rate of transpiration). Set up under water to avoid air bubbles; seal joints with petroleum jelly; let it equilibrate; measure distance the bubble moves in a set time; reset with the reservoir.
-- Variables: independent (e.g. wind speed — fan at different distances), dependent (distance bubble moves per minute), controlled (same shoot, temperature, light, humidity, time).
-- **Pondweed**: count bubbles at different lamp distances; limitations — bubble size varies, counting is hard; improvement — collect gas in a syringe/capillary tube and measure volume.
-- Risks: hot ethanol is flammable (use water bath, no Bunsen); lamps get hot.
-- Light intensity is proportional to 1 ÷ distance² (only if a question asks).
+- **Potometer**: measures water **uptake** (close to the rate of transpiration). Cut and fit the shoot under water to avoid air bubbles; seal joints; let it settle; measure the distance the bubble moves in a set time; reset with the reservoir.
+- Transpiration variables: independent (e.g. wind speed — fan at different distances, or temperature), dependent (distance bubble moves per minute), controlled (same shoot, light, humidity, time).
+- Simpler method: weigh a potted plant or leafy shoot before and after a set time; mass lost ≈ water lost.
+- **Pondweed**: limitations — bubble size varies, counting fast bubbles is hard; improvement — collect gas in a syringe or measuring cylinder and measure its volume; repeat and calculate a mean.
+- Risks: hot ethanol is flammable (heat in a water bath, no Bunsen flame); lamps get hot.
 
 ## Key terms and definitions
 
 | Term | Definition |
 |---|---|
 | Photosynthesis | the process by which plants synthesise carbohydrates from raw materials using energy from light |
-| Limiting factor | something present in the environment in such short supply that it restricts life processes |
+| Chlorophyll | a green pigment found in chloroplasts; (Supplement) it transfers energy from light into energy in chemicals, for the synthesis of carbohydrates |
 | Transpiration | the loss of water vapour from leaves |
-| Translocation | the movement of sucrose and amino acids in phloem from sources to sinks |
-| Source | part of a plant that releases sucrose or amino acids |
-| Sink | part of a plant that uses or stores sucrose or amino acids |
+| Translocation (Supplement) | the movement of sucrose and amino acids in phloem from sources to sinks |
+| Source (Supplement) | the parts of plants that release sucrose or amino acids |
+| Sink (Supplement) | the parts of plants that use or store sucrose or amino acids |
 
 ## Worked examples
 
@@ -126,55 +164,56 @@ From top to bottom: waxy **cuticle** → **upper epidermis** (transparent) → *
 - = 35.3 mm³ (1)
 - rate = 35.3 ÷ 5 = **7.1 mm³ per minute** (1)
 
-**2.** Extended: explain why the rate of transpiration decreases when humidity increases. [3]
+**2.** Explain why the rate of transpiration decreases when humidity increases. [3]
 
 - more water vapour in the air outside the leaf (1)
-- smaller concentration gradient (of water vapour) between air spaces and air (1)
-- slower diffusion (of water vapour) out through stomata (1)
+- smaller concentration gradient (of water vapour) between the air spaces and the air (1)
+- slower diffusion (of water vapour) out through the stomata (1)
 
 **3.** A leaf was tested for starch. Explain why it was placed in hot ethanol. [2]
 
 - removes chlorophyll / decolourises the leaf (1)
 - so the colour change of iodine can be seen (1)
 
-**4.** Extended: describe the structure of xylem vessels and relate it to their function. [4]
+**4.** A tube of hydrogencarbonate indicator containing pondweed is kept in the dark for 4 hours. Predict and explain the colour. [3]
 
-- lignin in walls — strength/support, withstands pressure (1)
-- no cell contents — water flows freely (1)
-- no cross walls / cells joined end to end — continuous tube (1)
-- narrow tube helps water column (cohesion) (1)
+- yellow (1)
+- no photosynthesis in the dark; the plant only respires (1)
+- CO₂ is released, so CO₂ concentration rises (1)
 
 ## Common mistakes
 
-- Saying plants "get energy from photosynthesis" or "chlorophyll makes food" — chlorophyll **absorbs light energy**.
+- Saying plants "get energy from photosynthesis" or "chlorophyll makes food" — chlorophyll **transfers energy from light** into energy in chemicals.
 - Saying transpiration is "loss of water" — it is loss of **water vapour** from leaves.
-- Writing that water "evaporates out of the stomata" — it **evaporates** from mesophyll cell surfaces, then water vapour **diffuses** out of stomata.
-- Mixing up xylem and phloem contents, or saying phloem carries glucose (it carries **sucrose**).
+- Writing that water "evaporates out of the stomata" — it **evaporates** from mesophyll cell surfaces, then water vapour **diffuses** out through the stomata.
+- Mixing up xylem and phloem contents, or saying phloem carries glucose (it carries **sucrose** and amino acids).
 - Reading limiting factor graphs wrongly: the factor on the x-axis is limiting only where the line is rising.
-- Forgetting to destarch plants before light/CO₂ experiments.
+- Forgetting to destarch plants before light/CO₂ experiments, or forgetting the control tube in indicator experiments.
 
 ## Practice questions
 
 1. State the balanced symbol equation for photosynthesis. [2]
-2. Explain why a plant lacking magnesium ions has yellow leaves. [2]
-3. Hydrogencarbonate indicator with a leaf in bright light turns from orange to purple. Explain. [3]
+2. Explain why a plant lacking magnesium ions has yellow leaves and grows poorly. [2]
+3. Hydrogencarbonate indicator with pondweed in bright light turns from orange to purple. Explain. [3]
 4. Name the tissue that transports sucrose and state **one** sink. [2]
-5. Extended: on a graph, the rate of photosynthesis levels off above a light intensity of 40 units. Suggest **two** factors that may be limiting above this point. [2]
-6. Describe the pathway of water from soil to the atmosphere. [4]
-7. A student uses a potometer to compare transpiration with and without a fan. State **two** variables to keep constant and **one** source of error. [3]
+5. On a graph, the rate of photosynthesis levels off above a light intensity of 40 units. Suggest **two** factors that may be limiting above this point. [2]
+6. Describe the pathway of water from the soil to the atmosphere. [4]
+7. State the position of the xylem in a root and in a stem of a non-woody dicotyledonous plant. [2]
+8. Explain why a plant wilts on a hot, windy afternoon. [3]
 
 <details><summary>Answers</summary>
 
 1. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (formulae 1, balancing 1).
-2. Magnesium needed to make chlorophyll (1); less chlorophyll so leaves not green (1).
-3. Photosynthesis faster than respiration (1); leaf takes in / uses more CO₂ than it releases (1); CO₂ concentration falls, indicator turns purple (1).
-4. Phloem (1); any sink: roots, fruits, seeds, growing shoot tips, storage organs (1).
+2. Magnesium needed to make chlorophyll (1); less chlorophyll so less light absorbed / less photosynthesis, so less carbohydrate for growth (1).
+3. Photosynthesis faster than respiration (1); plant takes in / uses more CO₂ than it releases (1); CO₂ concentration falls, so indicator turns purple (1).
+4. Phloem (1); any sink: roots, fruits, seeds, growing shoots, storage organs (1).
 5. Carbon dioxide concentration (1); temperature (1).
-6. Into root hair cells by osmosis (1); through root cortex cells to xylem (1); up xylem in stem to leaf / mesophyll cells (1); evaporates from mesophyll cells and water vapour diffuses out through stomata (1).
-7. Any two constants: same shoot / temperature / light intensity / humidity / time measured (2); error: air leaks or bubbles in the apparatus / timing the bubble start / potometer measures uptake not loss (1).
+6. Into root hair cells (by osmosis) (1); through root cortex cells to the xylem (1); up the xylem in the stem to the mesophyll cells of the leaf (1); evaporates from mesophyll cell surfaces into air spaces, then water vapour diffuses out through stomata (1).
+7. Root: in the centre (1); stem: in vascular bundles in a ring, on the inner side of each bundle (1).
+8. High temperature and wind increase the rate of transpiration (1); water lost faster than it is taken up by the roots (1); cells lose water / become flaccid / lose turgor pressure, so the plant droops (1).
 
 </details>
 
 ## Plan for this hour
 
-10 min read notes · 10 min draw and label a leaf cross-section and a stem/root showing xylem and phloem · 10 min learn the transpiration factor table and the starch-test method · 25 min worked examples and practice questions · 5 min error log.
+10 min read notes · 10 min draw and label a leaf cross-section and a root and stem showing xylem and phloem · 10 min learn the transpiration factor table and the hydrogencarbonate indicator colours · 25 min worked examples and practice questions · 5 min error log.

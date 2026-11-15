@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What most separates a top-level writer's effect answer from a middle-level one?",
+      "options": [
+        "More devices are named",
+        "Effects of individual words are explained and linked into an overall impression",
+        "Longer quotations are used",
+        "The meaning of every choice is given"
+      ],
+      "answer": 1,
+      "why": "Middle answers explain meanings with general effects; top answers explore specific words and how images work together."
+    },
+    {
+      "type": "mcq",
+      "q": "\"The old station slept under a blanket of snow.\" Which word is personification?",
+      "options": [
+        "slept",
+        "old",
+        "blanket",
+        "snow"
+      ],
+      "answer": 0,
+      "why": "\"Slept\" gives the station a human action; \"blanket\" is a metaphor, not personification."
+    },
+    {
+      "type": "mcq",
+      "q": "A student writes: \"The simile creates a vivid image.\" What is the best way to improve it?",
+      "options": [
+        "Name the device more precisely",
+        "Add a longer quotation",
+        "Add \"and makes the reader want to read on\"",
+        "Explain what the comparison makes the reader picture or feel, and why"
+      ],
+      "answer": 3,
+      "why": "General comments that fit any text earn little; explain the specific effect."
+    },
+    {
+      "type": "short",
+      "q": "\"Waves gnawed at the foot of the cliff.\" Explain the meaning and effect of \"gnawed\".",
+      "model": "Meaning: the waves wear away the cliff slowly and constantly. Effect: \"gnawed\" suggests a hungry animal chewing, so the sea seems persistent and destructive and the cliff seems vulnerable.",
+      "points": [
+        "meaning: gradual, constant erosion",
+        "effect: animal / hunger connotations – relentless, destructive sea"
+      ]
+    }
+  ]
+}

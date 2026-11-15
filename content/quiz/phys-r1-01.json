@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which quantity is a vector?",
+      "options": [
+        "speed",
+        "mass",
+        "velocity",
+        "energy"
+      ],
+      "answer": 2,
+      "why": "Velocity is speed in a given direction, so it has magnitude and direction."
+    },
+    {
+      "type": "mcq",
+      "q": "A car accelerates uniformly from rest to 24 m/s in 8.0 s. What is its acceleration?",
+      "options": [
+        "192 m/s²",
+        "3.0 m/s²",
+        "0.33 m/s²",
+        "32 m/s²"
+      ],
+      "answer": 1,
+      "why": "a = Δv ÷ Δt = 24 ÷ 8.0 = 3.0 m/s²."
+    },
+    {
+      "type": "mcq",
+      "q": "A section of a speed–time graph is a horizontal straight line above the time axis. What is the object doing?",
+      "options": [
+        "at rest",
+        "accelerating uniformly",
+        "decelerating",
+        "moving at constant speed"
+      ],
+      "answer": 3,
+      "why": "Speed is not changing, so the speed is constant (it would only be at rest on a distance–time graph)."
+    },
+    {
+      "type": "short",
+      "q": "A cyclist accelerates uniformly from rest to 12 m/s in 5.0 s. Calculate the distance travelled in this time.",
+      "model": "distance = area under speed–time graph = ½ × 12 × 5.0 = 30 m",
+      "points": [
+        "area under speed–time graph (triangle)",
+        "½ × 12 × 5.0",
+        "30 m"
+      ]
+    }
+  ]
+}

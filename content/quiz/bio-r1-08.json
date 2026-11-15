@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What is the approximate percentage of carbon dioxide in expired air?",
+      "options": [
+        "0.04 %",
+        "4 %",
+        "16 %",
+        "21 %"
+      ],
+      "answer": 1,
+      "why": "Expired air has about 4 % CO₂; 0.04 % is inspired air and 16 % is oxygen in expired air."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the word equation for anaerobic respiration in muscles?",
+      "options": [
+        "glucose + oxygen → lactic acid",
+        "glucose → lactic acid + carbon dioxide",
+        "glucose → lactic acid",
+        "glucose → ethanol + carbon dioxide"
+      ],
+      "answer": 2,
+      "why": "Anaerobic respiration in muscles makes lactic acid only, with no oxygen used and no CO₂."
+    },
+    {
+      "type": "mcq",
+      "q": "Why do breathing rate and depth increase during exercise?",
+      "options": [
+        "Low oxygen in the blood is detected by the lungs.",
+        "The heart detects more lactic acid.",
+        "The muscles need more carbon dioxide.",
+        "Higher carbon dioxide concentration in the blood is detected by the brain."
+      ],
+      "answer": 3,
+      "why": "The syllabus explanation: increased blood CO₂ concentration is detected by the brain."
+    },
+    {
+      "type": "short",
+      "q": "After a sprint, a runner keeps breathing faster and deeper for several minutes. Explain why.",
+      "model": "To supply oxygen for the aerobic respiration of lactic acid in the liver, removing the oxygen debt.",
+      "points": [
+        "oxygen supplied",
+        "aerobic respiration of lactic acid",
+        "in the liver / repays oxygen debt"
+      ]
+    }
+  ]
+}

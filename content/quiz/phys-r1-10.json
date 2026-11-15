@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which material is best for the core of an electromagnet?",
+      "options": [
+        "steel",
+        "soft iron",
+        "copper",
+        "aluminium"
+      ],
+      "answer": 1,
+      "why": "Soft iron is magnetised easily and loses its magnetism when the current is switched off (temporary magnet)."
+    },
+    {
+      "type": "mcq",
+      "q": "What is the shape of the magnetic field around a long straight wire carrying a current?",
+      "options": [
+        "concentric circles around the wire",
+        "straight lines parallel to the wire",
+        "straight lines pointing away from the wire",
+        "the same shape as a bar magnet's field"
+      ],
+      "answer": 0,
+      "why": "The field lines are concentric circles centred on the wire; a solenoid gives the bar-magnet shape."
+    },
+    {
+      "type": "mcq",
+      "q": "Which change does NOT increase the turning effect on the coil of a d.c. motor?",
+      "options": [
+        "more turns on the coil",
+        "a larger current",
+        "a stronger magnet",
+        "reversing the current"
+      ],
+      "answer": 3,
+      "why": "Reversing the current reverses the direction of rotation; it does not make the turning effect larger."
+    },
+    {
+      "type": "short",
+      "q": "State the function of the split-ring commutator in a d.c. motor.",
+      "model": "It reverses the current in the coil every half turn, so the coil keeps rotating in the same direction.",
+      "points": [
+        "reverses the current in the coil",
+        "every half turn",
+        "so the coil keeps turning the same way"
+      ]
+    }
+  ]
+}

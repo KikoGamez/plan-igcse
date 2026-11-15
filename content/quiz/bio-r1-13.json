@@ -1,0 +1,49 @@
+{
+  "id": "bio-r1-13",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "In the food chain oak leaves → caterpillar → blue tit → sparrowhawk, which is the secondary consumer?",
+      "options": [
+        "oak leaves",
+        "caterpillar",
+        "blue tit",
+        "sparrowhawk"
+      ],
+      "answer": 2,
+      "why": "Producer, then primary consumer (caterpillar), then secondary consumer (blue tit)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which process in the carbon cycle removes carbon dioxide from the atmosphere?",
+      "options": [
+        "respiration",
+        "combustion",
+        "decomposition",
+        "photosynthesis"
+      ],
+      "answer": 3,
+      "why": "Photosynthesis takes in CO₂; respiration, combustion and decomposition release it."
+    },
+    {
+      "type": "mcq",
+      "q": "Why do food chains usually have fewer than five trophic levels?",
+      "options": [
+        "Energy is lost at each level, so too little is left for higher levels.",
+        "Energy is recycled at each trophic level.",
+        "Top predators eat all the producers.",
+        "Carbon is lost from the food chain."
+      ],
+      "answer": 0,
+      "why": "Energy is lost at each transfer (respiration, heat, faeces, uneaten parts)."
+    },
+    {
+      "type": "short",
+      "q": "State two undesirable effects of deforestation.",
+      "model": "Any two: reducing biodiversity; extinction; loss of soil; flooding; increase of carbon dioxide in the atmosphere.",
+      "points": [
+        "two from: reduced biodiversity, extinction, loss of soil, flooding, more CO₂ in the atmosphere"
+      ]
+    }
+  ]
+}

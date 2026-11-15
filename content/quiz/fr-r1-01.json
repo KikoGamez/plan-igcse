@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "In a 0520 paper, what does the instruction « Cochez la bonne case » mean?",
+      "options": [
+        "Write the correct letter",
+        "Correct the false sentences",
+        "Tick the correct box",
+        "Complete the sentences"
+      ],
+      "answer": 2,
+      "why": "Cocher = to tick; la case = the box."
+    },
+    {
+      "type": "mcq",
+      "q": "You hear: « D'habitude, je vais à la piscine le samedi, mais ce samedi, je vais au cinéma. » Où va-t-il ce samedi ?",
+      "options": [
+        "à la piscine",
+        "au cinéma",
+        "au stade",
+        "chez lui"
+      ],
+      "answer": 1,
+      "why": "« D'habitude… à la piscine » is the distractor; « mais ce samedi » gives the answer."
+    },
+    {
+      "type": "mcq",
+      "q": "Under which topic area does a part-time job belong?",
+      "options": [
+        "A – Everyday activities",
+        "B – Personal and social life",
+        "C – The world around us",
+        "D – The world of work"
+      ],
+      "answer": 3,
+      "why": "Part-time work, careers and further education are all in area D."
+    },
+    {
+      "type": "short",
+      "q": "Name the four components of Cambridge IGCSE French 0520 and the weighting of each.",
+      "model": "Listening, Reading, Speaking and Writing — each worth 25%.",
+      "points": [
+        "all four skills named",
+        "25% each"
+      ]
+    }
+  ]
+}

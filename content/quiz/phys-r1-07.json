@@ -1,0 +1,50 @@
+{
+  "id": "phys-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which describes the image in a plane mirror?",
+      "options": [
+        "real, same size, laterally inverted",
+        "virtual, same size, laterally inverted",
+        "virtual, magnified, upright",
+        "real, diminished, inverted"
+      ],
+      "answer": 1,
+      "why": "A plane-mirror image is virtual (cannot be formed on a screen), the same size and laterally inverted."
+    },
+    {
+      "type": "mcq",
+      "q": "A ray in glass hits the glass–air boundary at an angle of incidence greater than the critical angle. What happens?",
+      "options": [
+        "it refracts along the boundary",
+        "it refracts away from the normal",
+        "it is totally internally reflected",
+        "it passes straight through"
+      ],
+      "answer": 2,
+      "why": "Above the critical angle all the light is totally internally reflected (as in optical fibres)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which list is in order of increasing wavelength?",
+      "options": [
+        "radio, microwaves, infrared, visible",
+        "visible, ultraviolet, X-rays, gamma",
+        "X-rays, gamma, ultraviolet, visible",
+        "gamma, X-rays, ultraviolet, visible"
+      ],
+      "answer": 3,
+      "why": "Wavelength increases from gamma through X-rays, ultraviolet, visible, infrared, microwaves to radio."
+    },
+    {
+      "type": "short",
+      "q": "A ray of light enters a glass block with an angle of incidence of 40°. The angle of refraction is 25°. Calculate the refractive index of the glass.",
+      "model": "n = sin i ÷ sin r = sin 40° ÷ sin 25° = 0.643 ÷ 0.423 = 1.52",
+      "points": [
+        "n = sin i ÷ sin r",
+        "1.52 (no unit)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "spa-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which opening is correct for a formal letter to a newspaper editor?",
+      "options": [
+        "Estimado señor director,",
+        "Hola, señor director:",
+        "Estimado señor director:",
+        "Querido director,"
+      ],
+      "answer": 2,
+      "why": "Spanish letters use dos puntos after the greeting, and a formal register."
+    },
+    {
+      "type": "mcq",
+      "q": "What earns the highest reading marks in directed writing?",
+      "options": [
+        "Repeating the ideas of both texts in order",
+        "Using only the more convincing text",
+        "Copying key sentences from the texts",
+        "Evaluating and developing ideas from both texts"
+      ],
+      "answer": 3,
+      "why": "Examiners reward ideas from both texts that are evaluated, not just repeated."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the best opening for a speech to a school assembly?",
+      "options": [
+        "Buenos días, señora directora, profesores y compañeros:",
+        "Hola a todos, ¿qué pasa?",
+        "Estimado señor:",
+        "Querida Marta:"
+      ],
+      "answer": 0,
+      "why": "A speech addresses the audience directly in a register suited to them."
+    },
+    {
+      "type": "short",
+      "q": "Text A says: «Todos los jóvenes prefieren estudiar con música.» Write one sentence in Spanish that evaluates this idea.",
+      "model": "Es una generalización sin pruebas: el texto no cita ningún estudio y seguramente no es cierto para todos los jóvenes.",
+      "points": [
+        "judges the idea (generalización / exagerado / sin pruebas)",
+        "gives a reason",
+        "own words"
+      ]
+    }
+  ]
+}

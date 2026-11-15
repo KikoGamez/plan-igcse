@@ -1,78 +1,92 @@
-# Mark Paper 4
+# Mark Paper 4 (second paper)
 
-> **Goal:** Mark the Paper 4 you sat last session strictly against the official mark scheme, use the examiner report to see why marks were lost, and turn every lost mark into an action.
+> **Goal:** Mark your second 0654 Paper 4 strictly against the official mark scheme, compare the result with your first Paper 4 attempt science by science, and turn every lost mark into an error-log action.
 
 ## Before you start
 
-- Your completed Paper 4 script from the previous session (Past paper · Paper 4 timed).
-- The **mark scheme** for exactly that paper and variant (e.g. 0625/42 May/June 2025 — check the code matches).
-- The **Principal Examiner Report for Teachers** for that series (one report covers all variants; find the section for your variant of Paper 4).
-- A red or green pen, your error log, a calculator.
+- Your completed second Paper 4 script (from the two "Paper 4 second paper" sessions).
+- The **mark scheme** for exactly that paper (e.g. 0654/42 May/June 2026 — check the component and series match).
+- The **examiner report** (Principal Examiner Report for Teachers) for that series — one report covers all variants; find the section for your variant of Paper 4.
+- Your **first Paper 4 attempt** with its marked score, and your error log.
+- Red or green pen, calculator.
 
 ## Exam format reminder
 
-Paper 4: 1 hour 15 minutes, 80 marks, 50% of the qualification; compulsory structured questions across the whole syllabus. The mark scheme lists, for each part, the acceptable answers and the type of each mark.
+Paper 4 (Theory, Extended): **2 hours, 120 marks, 50% of the qualification**; compulsory structured questions on Biology, Chemistry and Physics mixed through the paper. The mark scheme lists, for each part, the acceptable answers and the type of each mark.
 
 **How to read the mark scheme abbreviations:**
 
 | Code | Meaning |
 |---|---|
 | **B1** | independent mark for a correct statement or value |
-| **C1** | compensation mark — for the correct equation or substitution; given automatically if the final answer is correct |
+| **C1** | compensatory mark — for the correct equation or substitution; given automatically if the final answer is correct |
 | **A1** | final answer mark (correct value with correct unit) |
 | **M1** | method mark — a necessary step |
-| **/** | alternative acceptable answers |
+| **/** or **OR** | alternative acceptable answers |
 | **( )** | words in brackets are not needed for the mark |
 | underlined | the word or idea is essential |
-| **ecf / e.c.f.** | error carried forward — a wrong earlier answer used correctly later still gains later marks |
+| **ecf** | error carried forward — a wrong earlier answer used correctly later still gains later marks |
 | **owtte** | "or words to that effect" |
 | **ignore / allow / do not allow** | instructions about borderline answers |
 
 ## How to do it
 
-1. **0–30 min — mark question by question.** Tick each credited point in the margin and write the mark type (B1, C1, A1). Be strict: if the mark scheme says a word is essential and you didn't write it, no mark. A correct answer with a wrong or missing unit usually loses the A1.
-2. **30–35 min — total.** Add up per question and overall. Write the score and percentage on the front. Compare with the grade thresholds for that series (published by Cambridge) for a rough grade — remember this is one of three papers.
-3. **35–50 min — examiner report.** For each question where you lost two or more marks, read that question's section in the report. Note the common errors the examiners describe and whether you made them.
-4. **50–60 min — error log and corrections.** Rewrite each lost-mark answer correctly in a different colour, in full mark-scheme style, then fill in the error log.
+1. **0–30 min — mark the whole paper**, question by question. Tick each credited point and write the mark type in the margin. Be strict: if the scheme says a word is essential and you did not write it, no mark. A correct number with a wrong or missing unit usually loses the A1.
+2. **30–35 min — total and split.** Add up per question, then split the total into **Biology / Chemistry / Physics** (write the science next to each question number). Record: total /120, percentage, and the three sub-totals. Compare with the grade thresholds for that series for a rough idea (remember Paper 4 is only one of three papers).
+3. **35–45 min — compare with your first attempt.** Fill in the comparison table below. Did the Physics marks go up? Did you finish in time this time? Are the same topics or the same mistake types coming back?
+4. **45–55 min — examiner report.** For each Physics question where you lost two or more marks, read that question's comments. Note the common errors described and whether you made them.
+5. **55–60 min — error log.** Rewrite each lost-mark Physics answer correctly in a different colour, in mark-scheme style, and log it. (Do the same for Biology and Chemistry in their own revision time.)
+
+**Comparison with the first attempt:**
+
+| | First Paper 4 | Second Paper 4 | Change |
+|---|---|---|---|
+| Total /120 | | | |
+| Physics marks / Physics total | | | |
+| Biology marks / Biology total | | | |
+| Chemistry marks / Chemistry total | | | |
+| Marks lost to time (T) | | | |
+| Marks lost to units / calculation (C) | | | |
+| Marks lost to definitions / knowledge (K) | | | |
+| Marks lost to incomplete explanations (E) | | | |
 
 ## Exam technique for this paper
 
-What the mark scheme and examiner reports reward again and again:
+What 0654 mark schemes and examiner reports reward in Physics:
 
-- **Equations first.** Many students lose C1 marks because they write only numbers. Write "v = fλ", then substitute.
-- **Units.** Final answers without units, or with wrong units (e.g. N for pressure, J for power), lose the A1.
-- **Significant figures:** usually 2 or 3; an answer like "0.3" when 0.33 was expected can lose a mark; don't round in intermediate steps.
-- **Explanations as chains:** "speed increases → air resistance increases → resultant force decreases → acceleration decreases." Each link is a mark.
-- **Particle explanations** must mention particles and their motion/collisions — not just "it gets hotter".
-- **Precise vocabulary:** examiners penalise "heat rises", "electricity" (say current or energy), "energy is lost" (say transferred to the surroundings as thermal energy), "the forces cancel" when the question needs "resultant force is zero".
-- **Diagrams:** rays must have arrows and be drawn with a ruler; field lines must not touch or cross; circuit symbols must be standard.
-- **Graph sketches:** correct shape plus key features (through the origin? levels off? axes labelled?).
-- **Read the whole question:** many lost marks come from answering a different question (e.g. describing when asked to explain; giving one factor when two are asked for).
+- **Equations first.** Students who write only numbers lose the C1 when the answer is wrong. Write "P = IV", then substitute.
+- **Units.** Answers without units, or with wrong units (e.g. N for pressure, J for power), lose the A1.
+- **Significant figures:** usually 2 or 3; do not round in intermediate steps.
+- **Explanations as chains:** "speed increases → air resistance increases → resultant force decreases → acceleration decreases". Each link is a mark.
+- **Particle explanations** must mention particles and their motion or collisions — not just "it gets hotter".
+- **Precise vocabulary:** examiners penalise "heat rises", "electricity" when they mean current or energy, "energy is lost" (say "transferred to the surroundings as thermal energy").
+- **Only what the syllabus asks:** 0654 does not need momentum, specific heat capacity, pV = constant, potential dividers or the Hubble constant — if your answer relies on them you have probably misread the question.
+- **Diagrams:** rays with arrows and a ruler; field lines not touching or crossing; standard circuit symbols.
 
 ## Checklist while marking
 
 - [ ] Mark scheme code matches the paper exactly (component and series).
 - [ ] Every numerical answer checked for equation (C1), working, value and unit (A1).
-- [ ] Error-carried-forward applied fairly where you used your own wrong earlier answer correctly.
-- [ ] Definitions compared word-for-word with the mark scheme.
-- [ ] Unattempted parts recorded as zero and marked **T** (time) or **K** (knowledge) in the log.
+- [ ] Error carried forward applied fairly.
+- [ ] Definitions compared word for word with the mark scheme.
+- [ ] Unattempted parts recorded as zero and labelled **T** (time) or **K** (knowledge).
+- [ ] Comparison table filled in.
 
 **Error log entry for each lost mark:**
 
-| Q / part | Topic | Marks lost | Type (K knowledge · C calculation/unit · R misread · E explanation incomplete · T time) | Correct answer in mark-scheme wording | Action |
+| Q / part | Science and topic | Marks lost | Type (K knowledge · C calculation/unit · R misread · E explanation incomplete · T time) | Correct answer in mark-scheme wording | Action |
 |---|---|---|---|---|---|
 
-Afterwards, list the **three topics** where you lost most marks — these go straight into the weak-topics session (phys-r2-05).
+Afterwards, list the **three Physics topics** where you lost most marks across **both** Paper 4 attempts — they go straight into the next session (Physics: weak topics and equations).
 
 ## Quick-fire revision
 
-Equations that cost the most marks when forgotten on Paper 4 (no formula sheet):
+The 0654 Physics equations that cost marks when forgotten (no equation sheet):
 
-- a = Δv/Δt · F = ma · W = mg · ρ = m/V · k = F/x
-- moment = F × d · p = mv · impulse = FΔt = Δ(mv) · F = Δp/Δt
-- Ek = ½mv² · ΔEp = mgΔh · W = Fd = ΔE · P = W/t = ΔE/t · efficiency = useful output ÷ total input × 100%
-- p = F/A · Δp = ρgΔh · pV = constant · c = ΔE/(mΔθ) · T = θ + 273
-- v = fλ · n = sin i/sin r · n = 1/sin c
-- I = Q/t · V = W/Q · E = W/Q · R = V/I · P = IV · E = IVt · R₁/R₂ = V₁/V₂ · 1/R = 1/R₁ + 1/R₂
-- Vp/Vs = Np/Ns · IpVp = IsVs · P = I²R
-- v = 2πr/T · H₀ = v/d · age ≈ 1/H₀
+- v = s ÷ t · average speed = total distance ÷ total time · a = Δv ÷ Δt
+- W = mg (g = W ÷ m) · ρ = m ÷ V · F = ma · k = F ÷ x · moment = F × d · p = F ÷ A
+- Ek = ½mv² · ΔEp = mgΔh · W = Fd = ΔE · P = W ÷ t = ΔE ÷ t · efficiency = useful output ÷ total input × 100%
+- v = fλ · n = sin i ÷ sin r
+- R = V ÷ I · I = Q ÷ t · P = IV · E = IVt · R = R₁ + R₂ · 1/R = 1/R₁ + 1/R₂ · cost = kW h × price
+- Vp ÷ Vs = Np ÷ Ns · IpVp = IsVs · P = I²R
+- neutrons = A − Z · v = 2πr ÷ T · light travel time = distance ÷ (3.0 × 10⁸ m/s)

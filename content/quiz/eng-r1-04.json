@@ -1,0 +1,51 @@
+{
+  "id": "eng-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Roughly how long should you spend on the summary in the Paper 1 exam?",
+      "options": [
+        "About 10 minutes",
+        "About 45 minutes",
+        "About 25 minutes",
+        "About 60 minutes"
+      ],
+      "answer": 2,
+      "why": "The summary is worth 15 marks; about 25 minutes keeps time for Q2 and Q3."
+    },
+    {
+      "type": "mcq",
+      "q": "Focus: problems of living near an airport. Which sentence is best for the summary?",
+      "options": [
+        "Residents suffer constant noise, poor sleep and dirty air.",
+        "Another thing the text says is that residents suffer from noise.",
+        "\"I haven't slept properly in years,\" says Mr Lee.",
+        "In my view, airports should close at night."
+      ],
+      "answer": 0,
+      "why": "Concise, own words, several ideas in one sentence; no padding, quotations or opinion."
+    },
+    {
+      "type": "mcq",
+      "q": "Your plan has only five ideas, but Text B usually has 10–15. What should you do?",
+      "options": [
+        "Write longer sentences to reach 120 words",
+        "Reread for points hidden inside examples",
+        "Add ideas of your own",
+        "Copy the examples in full"
+      ],
+      "answer": 1,
+      "why": "Ideas are often embedded in examples; generalise them to widen your range."
+    },
+    {
+      "type": "short",
+      "q": "Rewrite concisely in your own words for a summary: \"Commuters who cycle arrive at work feeling more alert and in a better mood.\"",
+      "model": "Cycling to work improves concentration and makes people happier.",
+      "points": [
+        "both ideas: alertness and mood",
+        "key words changed (not 'alert' / 'better mood')",
+        "concise"
+      ]
+    }
+  ]
+}

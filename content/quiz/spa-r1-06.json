@@ -1,0 +1,50 @@
+{
+  "id": "spa-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which word is spelled correctly?",
+      "options": [
+        "arbol",
+        "lapiz",
+        "cancion",
+        "país"
+      ],
+      "answer": 3,
+      "why": "País: hiato with a stressed í always takes a tilde; the others need one too (árbol, lápiz, canción)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "options": [
+        "No se que hacer.",
+        "No sé que hacer.",
+        "No sé qué hacer.",
+        "No se qué hacer."
+      ],
+      "answer": 2,
+      "why": "Sé (saber) takes a diacritic tilde; qué takes a tilde in indirect questions."
+    },
+    {
+      "type": "mcq",
+      "q": "According to the current RAE rules (2010), which is correct?",
+      "options": [
+        "Solo tengo un hermano.",
+        "Sólo tengo un hermano.",
+        "Fué a casa.",
+        "Le dió el guión."
+      ],
+      "answer": 0,
+      "why": "Solo, fue, dio and guion are written without a tilde."
+    },
+    {
+      "type": "short",
+      "q": "Explain why «camión» has a tilde but «camiones» does not.",
+      "model": "Camión es aguda terminada en -n, así que lleva tilde; camiones es llana terminada en -s, así que no la lleva.",
+      "points": [
+        "camión: aguda ending in -n",
+        "camiones: llana ending in -s"
+      ]
+    }
+  ]
+}

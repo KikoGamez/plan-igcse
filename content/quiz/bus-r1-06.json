@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A product costs $20 to make. The business uses cost-plus pricing with a 30% mark-up. What is the price?",
+      "options": [
+        "$26",
+        "$50",
+        "$23",
+        "$28.57"
+      ],
+      "answer": 0,
+      "why": "Mark-up is 30% of cost: 20 × 0.30 = 6, so price = 20 + 6 = $26."
+    },
+    {
+      "type": "mcq",
+      "q": "Setting a high price when a new product is first launched is called:",
+      "options": [
+        "penetration pricing",
+        "competitive pricing",
+        "price skimming",
+        "promotional pricing"
+      ],
+      "answer": 2,
+      "why": "Skimming = high launch price; penetration = low price to enter a market."
+    },
+    {
+      "type": "mcq",
+      "q": "Demand for a product is price-inelastic. If the price rises by 10%, quantity demanded will:",
+      "options": [
+        "fall by more than 10%",
+        "fall by less than 10%",
+        "not change at all",
+        "rise"
+      ],
+      "answer": 1,
+      "why": "Inelastic: % change in quantity demanded is smaller than the % change in price, so revenue rises."
+    },
+    {
+      "type": "short",
+      "q": "Identify two extension strategies for a product in the maturity stage of its life cycle.",
+      "model": "Any two: new packaging or design; selling in new markets; adding new features or versions; increased advertising or sales promotions / lower price.",
+      "points": [
+        "two different extension strategies",
+        "e.g. new packaging, new markets, new version, more promotion"
+      ]
+    }
+  ]
+}

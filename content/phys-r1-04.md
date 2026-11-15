@@ -1,18 +1,22 @@
 # Energy, work and power
 
-> **In the exam:** Paper 2: 3–4 items (energy stores, efficiency, power, energy resources). Paper 4: nearly every paper has a question using Ek = ½mv² and ΔEp = mgΔh together (falling objects, roller coasters, ramps), plus efficiency/power; energy resources appear as describe/explain questions (4–6 marks). Paper 6: power or efficiency from measured data, sometimes ramps or bouncing balls.
+> **In the exam:** In Co-ordinated Sciences 0654 (Extended) Physics questions appear alongside Biology and Chemistry. Paper 2 (Multiple Choice, 45 min, 40 questions across all three sciences): typically 1–3 items here (energy stores, work, power, efficiency, energy resources). Paper 4 (Theory, 2 h, 120 marks): a very common Physics part using Ek = ½mv² and ΔEp = mgΔh together (falling objects, ramps), plus work, power and efficiency; energy resources appear as describe/compare questions (3–5 marks). Paper 6 (Alternative to Practical, 1 h 30 min, 60 marks): power or efficiency from measured data (stair climbing, bouncing ball, motor lifting a load).
 
 ## What you need to know
 
+Syllabus section P1.6 (Core, then *Supplement* for Extended).
+
 - Energy may be stored as kinetic, gravitational potential, chemical, elastic (strain), nuclear, electrostatic and internal (thermal).
-- Energy is transferred between stores by forces (mechanical work done), electrical currents (electrical work done), heating, and by electromagnetic, sound and other waves.
-- Conservation of energy, simple flow diagrams. *Extended:* complex, multi-stage examples and Sankey diagrams.
-- *Extended:* Ek = ½mv²; ΔEp = mgΔh.
-- Work done = energy transferred; W = Fd = ΔE.
-- Energy resources: fossil fuels, biofuels, water (waves, tides, hydroelectric dams), geothermal, nuclear fuel, solar cells, solar panels, wind — including boiler, turbine and generator; advantages and disadvantages (renewability, availability, reliability, scale, environmental impact).
-- Efficiency qualitatively. *Extended:* efficiency = useful energy output ÷ total energy input (× 100%) and the power version.
-- *Extended:* the Sun's radiation is the main source of all our energy resources except geothermal, nuclear and tidal; energy is released by nuclear fusion in the Sun; research into fusion for large-scale electricity.
-- Power is work done per unit time and energy transferred per unit time: P = W ÷ t, P = ΔE ÷ t.
+- Describe how energy is transferred between stores by forces (mechanical work done), electrical currents (electrical work done), heating, and by electromagnetic, sound and other waves.
+- Know the principle of conservation of energy and apply it to simple examples, including interpreting simple flow diagrams (**Sankey diagrams are not required** in 0654).
+- *Supplement:* recall and use Ek = ½mv² and ΔEp = mgΔh.
+- Mechanical or electrical work done is equal to the energy transferred; W = Fd = ΔE.
+- Describe how useful energy may be obtained, or electrical power generated, from: fossil fuels; biofuels; water (waves, tides, hydroelectric dams); geothermal resources; nuclear fission; light from the Sun (solar cells); infrared and other EM waves from the Sun to heat water (solar thermal collectors); wind (wind turbines) — including references to a boiler, turbine and generator where used.
+- Give advantages and disadvantages of each in terms of renewability, availability, reliability, scale and environmental impact.
+- Understand qualitatively the concept of efficiency of energy transfer.
+- *Supplement:* radiation from the Sun is the main source of energy for all our energy resources except geothermal, nuclear and tidal; energy is released by nuclear fusion in the Sun and by nuclear fission in nuclear reactors (no detail of the processes needed).
+- *Supplement:* define efficiency as useful energy output ÷ total energy input × 100% and useful power output ÷ total power input × 100%; recall and use these.
+- Define power as work done per unit time and as energy transferred per unit time; P = W ÷ t and P = ΔE ÷ t.
 
 ## Notes
 
@@ -20,12 +24,12 @@
 
 | Equation | Symbols and units |
 |---|---|
-| Ek = ½mv² *(Extended)* | Ek kinetic energy (J), m mass (kg), v speed (m/s) |
-| ΔEp = mgΔh *(Extended)* | ΔEp change in gravitational potential energy (J), g = 9.8 N/kg, Δh change in height (m) |
+| Ek = ½mv² *(Supplement)* | Ek kinetic energy (J), m mass (kg), v speed (m/s) |
+| ΔEp = mgΔh *(Supplement)* | ΔEp change in gravitational potential energy (J), g = 9.8 N/kg, Δh change in height (m) |
 | W = Fd = ΔE | W work done (J), F force (N), d distance moved in the direction of the force (m), ΔE energy transferred (J) |
 | P = W ÷ t and P = ΔE ÷ t | P power (W), t time (s) |
-| efficiency = useful energy output ÷ total energy input (× 100%) *(Extended)* | no unit (or %) |
-| efficiency = useful power output ÷ total power input (× 100%) *(Extended)* | no unit (or %) |
+| efficiency = useful energy output ÷ total energy input (× 100%) *(Supplement)* | no unit (or %) |
+| efficiency = useful power output ÷ total power input (× 100%) *(Supplement)* | no unit (or %) |
 
 Prefixes: 1 kJ = 10³ J, 1 MJ = 10⁶ J; 1 kW = 10³ W, 1 MW = 10⁶ W; 1 J = 1 N m; 1 W = 1 J/s.
 
@@ -39,9 +43,9 @@ Describe events as **store → transfer → store**. Examples:
 
 **Conservation of energy:** energy cannot be created or destroyed, only transferred between stores. Total energy is constant; "wasted" energy usually ends up as internal (thermal) energy of the surroundings.
 
-**Sankey diagrams (Extended):** arrow width proportional to energy; input on the left, useful output continues straight, wasted output bends away. Input = sum of outputs.
+**Simple flow diagrams:** boxes for stores joined by arrows labelled with the transfer; total energy in = useful energy out + wasted energy out. (Sankey diagrams drawn to scale are not required in 0654.)
 
-### Using Ek and Ep together (Extended)
+### Using Ek and Ep together (Supplement)
 
 If air resistance/friction is negligible, loss in Ep = gain in Ek, so mgΔh = ½mv² and v = √(2gΔh) — mass cancels. If friction acts, work done against friction = loss in Ep − gain in Ek.
 
@@ -71,9 +75,9 @@ Most power stations: energy source heats water in a **boiler** → steam → tur
 | Geothermal | hot rocks heat water → steam | Yes | reliable | only in volcanic/thin-crust areas |
 | Wind | wind turns turbine directly (no boiler) | Yes | no fuel or emissions | unreliable (wind varies), visual/noise impact, small output per turbine |
 | Solar cells | light → electricity directly | Yes | no emissions, good for remote places | only in daytime, depends on weather, large area for large output |
-| Solar panels | infrared heats water directly | Yes | cheap hot water | only heats water, needs sunshine |
+| Solar thermal collectors | infrared (and other EM waves) from the Sun heat water directly | Yes | cheap hot water, no emissions | only heats water, needs sunshine |
 
-*Extended:* The Sun's radiation is the original source for fossil fuels, biofuels, hydroelectric (evaporation → rain), waves and wind (uneven heating of the atmosphere) and solar. **Not** from the Sun: geothermal, nuclear, tidal (mainly the Moon's gravity). The Sun releases energy by **nuclear fusion** of hydrogen into helium; research continues into fusion reactors for large-scale electricity.
+*Supplement:* The Sun's radiation is the original source for fossil fuels, biofuels, hydroelectric (evaporation → rain), waves and wind (uneven heating of the atmosphere) and solar. **Not** from the Sun: geothermal, nuclear, tidal (mainly the Moon's gravity). The Sun releases energy by **nuclear fusion**; nuclear power stations release energy by **nuclear fission** (detail of either process not required here).
 
 ### Paper 6 skills for this topic
 
@@ -90,7 +94,8 @@ Most power stations: energy source heats water in a **boiler** → steam → tur
 | Efficiency | Useful energy output ÷ total energy input (or useful power output ÷ total power input) |
 | Conservation of energy | Energy cannot be created or destroyed; it is transferred from one store to another, and the total remains constant |
 | Renewable resource | A resource that is replaced (by natural processes) as it is used / will not run out |
-| Nuclear fusion | Joining of light nuclei to form a heavier nucleus, releasing energy (powers the Sun) |
+| Nuclear fusion | Joining of nuclei, releasing energy (the energy source of the Sun) |
+| Nuclear fission | Splitting of a nucleus, releasing energy (used in nuclear reactors) |
 
 ## Worked examples
 

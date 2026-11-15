@@ -1,0 +1,50 @@
+{
+  "id": "bio-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which organ secretes lipase?",
+      "options": [
+        "pancreas",
+        "liver",
+        "gall bladder",
+        "salivary glands"
+      ],
+      "answer": 0,
+      "why": "Lipase is secreted by the pancreas and acts in the small intestine; bile is not an enzyme."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is a function of bile?",
+      "options": [
+        "digests fats into fatty acids and glycerol",
+        "emulsifies fats to increase the surface area for lipase",
+        "kills harmful microorganisms in food",
+        "gives an acidic pH for proteases"
+      ],
+      "answer": 1,
+      "why": "Bile emulsifies fats (physical, not chemical) and neutralises acid entering the duodenum."
+    },
+    {
+      "type": "mcq",
+      "q": "A lack of which nutrient causes rickets?",
+      "options": [
+        "vitamin C",
+        "iron",
+        "fibre",
+        "vitamin D"
+      ],
+      "answer": 3,
+      "why": "Rickets is caused by a lack of vitamin D; a lack of vitamin C causes scurvy."
+    },
+    {
+      "type": "short",
+      "q": "Describe chemical digestion.",
+      "model": "The breakdown of large insoluble molecules into small soluble molecules.",
+      "points": [
+        "large insoluble molecules",
+        "broken down into small soluble molecules"
+      ]
+    }
+  ]
+}

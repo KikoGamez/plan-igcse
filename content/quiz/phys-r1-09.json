@@ -1,0 +1,50 @@
+{
+  "id": "phys-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Two 6.0 Ω resistors are connected in parallel. What is their combined resistance?",
+      "options": [
+        "12 Ω",
+        "6.0 Ω",
+        "0.33 Ω",
+        "3.0 Ω"
+      ],
+      "answer": 3,
+      "why": "1 ÷ R = 1 ÷ 6.0 + 1 ÷ 6.0, so R = 3.0 Ω (less than either resistor)."
+    },
+    {
+      "type": "mcq",
+      "q": "A 2.3 kW kettle is connected to the 230 V mains. Which fuse should be fitted?",
+      "options": [
+        "3 A",
+        "5 A",
+        "13 A",
+        "30 A"
+      ],
+      "answer": 2,
+      "why": "I = P ÷ V = 2300 ÷ 230 = 10 A; choose the fuse rating just above the normal current."
+    },
+    {
+      "type": "mcq",
+      "q": "A lamp and a resistor are in series with a 6.0 V battery. The p.d. across the lamp is 2.5 V. What is the p.d. across the resistor?",
+      "options": [
+        "3.5 V",
+        "2.5 V",
+        "6.0 V",
+        "8.5 V"
+      ],
+      "answer": 0,
+      "why": "In series the p.d.s add up to the source p.d.: 6.0 − 2.5 = 3.5 V."
+    },
+    {
+      "type": "short",
+      "q": "A 2.0 kW heater is used for 3.0 hours. Electricity costs €0.25 per kW h. Calculate the cost.",
+      "model": "energy = 2.0 kW × 3.0 h = 6.0 kW h; cost = 6.0 × 0.25 = €1.50",
+      "points": [
+        "energy in kW h = kW × h = 6.0 kW h",
+        "cost = 6.0 × €0.25 = €1.50"
+      ]
+    }
+  ]
+}

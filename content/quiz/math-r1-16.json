@@ -1,0 +1,51 @@
+{
+  "id": "math-r1-16",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Triangle ABC has a = 7 cm, b = 10 cm and angle C = 30°. Find its area.",
+      "options": [
+        "35 cm²",
+        "17.5 cm²",
+        "70 cm²",
+        "30.3 cm²"
+      ],
+      "answer": 1,
+      "why": "Area = ½ab sin C = ½ × 7 × 10 × 0.5 = 17.5 cm²."
+    },
+    {
+      "type": "mcq",
+      "q": "Two sides of a triangle and the angle between them are known. To find the third side, use",
+      "options": [
+        "the sine rule",
+        "Pythagoras' theorem",
+        "½ab sin C",
+        "the cosine rule"
+      ],
+      "answer": 3,
+      "why": "Two sides and the included angle: a² = b² + c² − 2bc cos A."
+    },
+    {
+      "type": "mcq",
+      "q": "sin x = 0.5 and x is obtuse. Find x.",
+      "options": [
+        "30°",
+        "120°",
+        "150°",
+        "210°"
+      ],
+      "answer": 2,
+      "why": "sin x = sin(180° − x), so x = 180° − 30° = 150°."
+    },
+    {
+      "type": "short",
+      "q": "A triangle has sides 5 cm, 7 cm and 8 cm. Find the angle opposite the 7 cm side.",
+      "model": "cos θ = (5² + 8² − 7²)/(2 × 5 × 8) = 40/80 = 0.5, so θ = 60°",
+      "points": [
+        "cosine rule with 7 opposite the angle",
+        "cos θ = 0.5",
+        "60°"
+      ]
+    }
+  ]
+}

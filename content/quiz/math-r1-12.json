@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Find the interior angle of a regular decagon (10 sides).",
+      "options": [
+        "36°",
+        "1440°",
+        "140°",
+        "144°"
+      ],
+      "answer": 3,
+      "why": "Exterior angle = 360 ÷ 10 = 36°, so interior angle = 180 − 36 = 144°."
+    },
+    {
+      "type": "mcq",
+      "q": "The angle at the centre of a circle is 130°. Find the angle at the circumference subtended by the same arc.",
+      "options": [
+        "65°",
+        "130°",
+        "260°",
+        "50°"
+      ],
+      "answer": 0,
+      "why": "The angle at the centre is twice the angle at the circumference, so 130 ÷ 2 = 65°."
+    },
+    {
+      "type": "mcq",
+      "q": "ABCD is a cyclic quadrilateral with angle ABC = 74°. Find angle ADC.",
+      "options": [
+        "74°",
+        "16°",
+        "106°",
+        "148°"
+      ],
+      "answer": 2,
+      "why": "Opposite angles of a cyclic quadrilateral add up to 180°: 180 − 74 = 106°."
+    },
+    {
+      "type": "short",
+      "q": "PT is a tangent to a circle, centre O, touching it at T. Write down angle OTP and give a geometrical reason.",
+      "model": "90°; the tangent is perpendicular to the radius (at the point of contact)",
+      "points": [
+        "90°",
+        "tangent perpendicular to radius"
+      ]
+    }
+  ]
+}

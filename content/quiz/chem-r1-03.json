@@ -1,0 +1,51 @@
+{
+  "id": "chem-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What is the formula of iron(III) sulfate?",
+      "options": [
+        "FeSO₄",
+        "Fe₃(SO₄)₂",
+        "Fe₂SO₄₃",
+        "Fe₂(SO₄)₃"
+      ],
+      "answer": 3,
+      "why": "Fe³⁺ and SO₄²⁻: two Fe³⁺ (+6) balance three SO₄²⁻ (−6), with brackets round the compound ion."
+    },
+    {
+      "type": "mcq",
+      "q": "C₃H₈ + xO₂ → 3CO₂ + 4H₂O. What is x when the equation is balanced?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "10"
+      ],
+      "answer": 0,
+      "why": "Right side has 3 × 2 + 4 × 1 = 10 O atoms, so 5 O₂ molecules are needed."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the ionic equation for the reaction of aqueous silver nitrate with aqueous sodium chloride?",
+      "options": [
+        "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+        "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)",
+        "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)",
+        "AgNO₃(aq) + Cl⁻(aq) → AgCl(s) + NO₃⁻(aq)"
+      ],
+      "answer": 2,
+      "why": "Na⁺ and NO₃⁻ are spectator ions; silver chloride is a precipitate, so (s)."
+    },
+    {
+      "type": "short",
+      "q": "Lithium reacts with water to form an alkaline solution of lithium hydroxide and hydrogen gas. Write the balanced symbol equation, including state symbols.",
+      "model": "2Li(s) + 2H₂O(l) → 2LiOH(aq) + H₂(g)",
+      "points": [
+        "correct formulae Li, H₂O, LiOH, H₂",
+        "balanced 2 : 2 : 2 : 1",
+        "state symbols (s), (l), (aq), (g)"
+      ]
+    }
+  ]
+}

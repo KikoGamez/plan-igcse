@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Text: « Ma mère voulait organiser une grande fête, mais finalement on fera juste un pique-nique. » Qu'est-ce qu'ils vont faire ?",
+      "options": [
+        "une grande fête",
+        "un pique-nique",
+        "rien",
+        "un repas au restaurant"
+      ],
+      "answer": 1,
+      "why": "« Finalement » gives the final plan; the party was the original idea."
+    },
+    {
+      "type": "mcq",
+      "q": "Text: « Je vais souvent au cinéma, mais je n'aime pas les films d'horreur. » Which statement is true?",
+      "options": [
+        "Il ne va jamais au cinéma.",
+        "Il aime tous les films.",
+        "Il n'aime pas les films d'horreur.",
+        "Il va au cinéma seulement le samedi."
+      ],
+      "answer": 2,
+      "why": "Only this is stated; watch absolute words like jamais, tous, seulement."
+    },
+    {
+      "type": "mcq",
+      "q": "In a text, « bon marché » is closest in meaning to:",
+      "options": [
+        "cher",
+        "au marché",
+        "très bon",
+        "pas cher"
+      ],
+      "answer": 3,
+      "why": "Bon marché = cheap; questions often use a synonym of the text's words."
+    },
+    {
+      "type": "short",
+      "q": "Text: « N'oublie pas ton vélo ; par contre, ce n'est pas la peine d'apporter un casque, on en a plein. » Répondez en français : Qu'est-ce qu'il ne doit pas apporter ?",
+      "model": "un casque",
+      "points": [
+        "un casque",
+        "not le vélo (that must be brought)"
+      ]
+    }
+  ]
+}

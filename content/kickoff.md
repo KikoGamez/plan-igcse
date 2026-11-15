@@ -1,26 +1,24 @@
 # Kick-off: get organised
 
-> **Goal:** by the end of this hour you have every syllabus and a bank of past papers saved in tidy folders, an error log ready to fill in, Anki installed with one deck per subject, and you understand how the whole plan runs until the mocks on 11 January 2027.
+> **Goal:** by the end of this hour you have every syllabus (seven, because one Co-ordinated Sciences syllabus covers Biology, Chemistry and Physics) and a bank of past papers saved in tidy folders, an error log ready to fill in, Anki installed with one deck per subject, and you understand how the whole plan runs until the mocks on 11 January 2027.
 
 ## What to do (60 minutes)
 
 | Time | Task |
 |---|---|
-| 0–15 min | Download the nine syllabuses (official sources below) |
+| 0–15 min | Download the seven syllabuses (official sources below) |
 | 15–30 min | Collect past papers, mark schemes and examiner reports; save them into folders |
 | 30–40 min | Set up the error log |
 | 40–55 min | Install Anki, create the decks, make your first 5 cards |
 | 55–60 min | Read "How the plan works" and put the key dates in your calendar |
 
-## 1. Your nine subjects
+## 1. Your subjects
 
 | Subject | Board and code | Tier / notes |
 |---|---|---|
 | Mathematics | Cambridge IGCSE 0580 | Extended (Paper 2 non-calculator, Paper 4 calculator) |
 | Statistics | Pearson Edexcel International GCSE 4ST1 | Not Cambridge: different website |
-| Biology | Cambridge IGCSE 0610 | Extended |
-| Chemistry | Cambridge IGCSE 0620 | Extended |
-| Physics | Cambridge IGCSE 0625 | Extended |
+| Co-ordinated Sciences (Biology, Chemistry, Physics) | Cambridge IGCSE 0654 | Extended (Paper 2 Multiple Choice 45 min, Paper 4 Theory 2 h, Paper 6 Alternative to Practical 1 h 30 min; every paper mixes all three sciences). One syllabus and one set of past papers for the three sciences |
 | Business Studies | Cambridge IGCSE 0450 | |
 | English – First Language | Cambridge IGCSE 0500 | |
 | French – Foreign Language | Cambridge IGCSE 0520 | |
@@ -28,7 +26,7 @@
 
 ## 2. Where the official material lives
 
-**Syllabuses (Cambridge).** Go to **cambridgeinternational.org**, search for the subject code (e.g. "0610"), open the subject page and download the syllabus **for the year of your real exam** (the page lists syllabuses by exam years, e.g. "2026–2028"). Also download the **specimen papers** and any **example candidate responses** listed there.
+**Syllabuses (Cambridge).** Go to **cambridgeinternational.org**, search for the subject code (e.g. "0654"), open the subject page and download the syllabus **for the year of your real exam** (the page lists syllabuses by exam years, e.g. "2026–2028"). Also download the **specimen papers** and any **example candidate responses** listed there.
 
 **Past papers (Cambridge).** Full past papers, mark schemes, examiner reports and audio files (French listening) are on the **School Support Hub**, which your school accesses with a teacher login. Ask your teachers for them now — they are used to this request. A limited selection is public on the subject pages of cambridgeinternational.org. Avoid random sites that rename or edit papers; if you use them, check the paper code and series on the front page.
 
@@ -51,11 +49,11 @@ IGCSE Mocks 2027/
 │   ├── Round 2 – do not open/
 │   └── My notes/
 ├── Statistics 4ST1/
-├── Biology 0610/
+├── Co-ordinated Sciences 0654/
 ... (same four subfolders for every subject)
 ```
 
-Name files the Cambridge way: **code_series_type_paper**. Series: s = May/June, w = Oct/Nov, m = Feb/March. So `0620_w23_qp_42` = Chemistry, Oct/Nov 2023, question paper, Paper 4 variant 2.
+Name files the Cambridge way: **code_series_type_paper**. Series: s = May/June, w = Oct/Nov, m = Feb/March. So `0654_w23_qp_42` = Co-ordinated Sciences, Oct/Nov 2023, question paper, Paper 4 variant 2.
 
 Paper folder: one ring binder or plastic folder per subject for printed papers you have done and marked.
 
@@ -65,7 +63,7 @@ The error log is the most valuable document you will make. Every mark you lose g
 
 | Date | Paper / question | Topic | What I wrote | Correct answer / method | Type of error | Fix (rule to remember) | Anki card made? | Re-tested (date, ✓/✗) |
 |---|---|---|---|---|---|---|---|---|
-| 18 Nov | 0625_s23_42 Q3(b) | Specific heat capacity | Used 25 °C not Δθ = 15 °C | ΔE = mcΔθ with temperature *change* | Method | Always calculate Δθ first and write it down | ✓ | 25 Nov ✓ |
+| 18 Nov | 0654_s23_42 Q9(b) | Kinetic energy | Forgot to square v | Eₖ = ½mv², square the speed first | Method | Write the equation in symbols, then square v before multiplying | ✓ | 25 Nov ✓ |
 
 **Error types** (use exactly these four so you can filter):
 - **Knowledge** – I did not know the fact or definition.
@@ -95,8 +93,8 @@ Anki is a free flashcard app that uses spaced repetition: cards you get wrong co
 |---|---|---|
 | One fact per card | "Everything about osmosis" | "Osmosis: define it (3 marks)" |
 | Use mark-scheme wording on the back | "water moves" | "net movement of water molecules from a region of higher water potential to lower water potential through a partially permeable membrane" |
-| Ask in the direction the exam asks | "Ba²⁺ → ?" only | Front: "Flame test colour for barium ions?" Back: "light green" |
-| Make cards from your mistakes | — | Front: "Specific heat capacity: what temperature goes in the equation?" Back: "the change Δθ, not the final temperature" |
+| Ask in the direction the exam asks | "K⁺ → ?" only | Front: "Flame test colour for potassium ions?" Back: "lilac" |
+| Make cards from your mistakes | — | Front: "Kinetic energy: which quantity is squared?" Back: "the speed v (Eₖ = ½mv²)" |
 | Use cloze for lists and equations | — | "Moment = {{c1::force}} × {{c2::perpendicular distance from pivot}}" |
 | For languages, both directions | "la mairie" only | Front: "town hall (FR)" Back: "la mairie" |
 
@@ -118,11 +116,11 @@ Keep cards short. If you cannot answer in 10 seconds, split the card.
 
 ## Checklist
 
-- [ ] Nine syllabuses downloaded (correct exam years)
+- [ ] Seven syllabuses downloaded (correct exam years), including Co-ordinated Sciences 0654 for 2025–2027
 - [ ] Past papers + mark schemes + examiner reports collected for every subject (asked teachers for School Support Hub material)
 - [ ] French listening audio files saved
 - [ ] Two most recent series put aside in "Round 2 – do not open"
 - [ ] Folders created and backed up in the cloud
-- [ ] Error log spreadsheet with nine tabs and the columns above
+- [ ] Error log spreadsheet with one tab per subject (Biology, Chemistry and Physics can share one Co-ordinated Sciences tab or have one each) and the columns above
 - [ ] Anki installed, synced to phone, decks created, first 5 cards made
 - [ ] Key dates (28 Dec, 9 Jan, 11 Jan) in your calendar

@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Aqueous bromine is shaken with an alkene. What is the colour change?",
+      "options": [
+        "colourless to orange",
+        "orange to colourless",
+        "orange to clear brown",
+        "no change; stays orange"
+      ],
+      "answer": 1,
+      "why": "Bromine adds across the C=C, so the orange colour disappears; an alkane would stay orange."
+    },
+    {
+      "type": "mcq",
+      "q": "Which petroleum fraction is used as a chemical feedstock?",
+      "options": [
+        "refinery gas",
+        "bitumen",
+        "diesel oil",
+        "naphtha"
+      ],
+      "answer": 3,
+      "why": "Naphtha is the feedstock; refinery gas is for heating and cooking, bitumen for roads, diesel for diesel engines."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the repeat unit of the addition polymer made from propene, CH₂=CHCH₃?",
+      "options": [
+        "–CH₂–CH(CH₃)–",
+        "–CH₂=CH(CH₃)–",
+        "–CH₂–CH₂–CH₂–",
+        "–CH=CH–CH₃–"
+      ],
+      "answer": 0,
+      "why": "The C=C becomes C–C in the main chain and the CH₃ group becomes a side group."
+    },
+    {
+      "type": "short",
+      "q": "Write the balanced symbol equation for the complete combustion of ethanol.",
+      "model": "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O",
+      "points": [
+        "products CO₂ and H₂O only",
+        "balanced: 3O₂, 2CO₂, 3H₂O"
+      ]
+    }
+  ]
+}

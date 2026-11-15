@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Task: a speech to your class about banning phones at lunch. Which opening fits best?",
+      "options": [
+        "Dear Sir or Madam,",
+        "Good morning, everyone. Should our school really ban phones at lunch?",
+        "Phone Ban: A Report",
+        "Text A and Text B are both about phones."
+      ],
+      "answer": 1,
+      "why": "A speech addresses its audience directly; a rhetorical question engages listeners."
+    },
+    {
+      "type": "mcq",
+      "q": "Where should your overall position first be made clear in directed writing?",
+      "options": [
+        "In the opening paragraph",
+        "Only in the conclusion",
+        "Nowhere – stay neutral",
+        "In the middle paragraph"
+      ],
+      "answer": 0,
+      "why": "State your position at the start, build the argument, and confirm it in a clear final judgement."
+    },
+    {
+      "type": "mcq",
+      "q": "What should you do in the last 10 minutes of the hour?",
+      "options": [
+        "Start a new argument paragraph",
+        "Reread both texts from the start",
+        "Check both texts are used, evaluation, register and accuracy",
+        "Write a second neat draft"
+      ],
+      "answer": 2,
+      "why": "Proofreading protects the 25 writing marks, where accuracy counts."
+    },
+    {
+      "type": "short",
+      "q": "What two things do the bullet points in the directed writing task require?",
+      "model": "Evaluate the ideas and opinions in both texts, and give your own views based on what you have read.",
+      "points": [
+        "evaluate ideas in BOTH texts",
+        "give your own views based on the texts"
+      ]
+    }
+  ]
+}

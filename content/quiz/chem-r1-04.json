@@ -1,0 +1,51 @@
+{
+  "id": "chem-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What is the mass of 0.200 mol of magnesium chloride, MgCl₂? (Ar: Mg = 24, Cl = 35.5)",
+      "options": [
+        "11.9 g",
+        "19.0 g",
+        "18.8 g",
+        "475 g"
+      ],
+      "answer": 1,
+      "why": "Mr = 24 + 2 × 35.5 = 95, so mass = 0.200 × 95 = 19.0 g."
+    },
+    {
+      "type": "mcq",
+      "q": "What volume does 0.88 g of carbon dioxide occupy at r.t.p.? (Mr CO₂ = 44; molar gas volume 24 dm³)",
+      "options": [
+        "21.1 dm³",
+        "48 cm³",
+        "0.48 cm³",
+        "480 cm³"
+      ],
+      "answer": 3,
+      "why": "0.88 ÷ 44 = 0.0200 mol; 0.0200 × 24 = 0.480 dm³ = 480 cm³."
+    },
+    {
+      "type": "mcq",
+      "q": "How many molecules are in 9.0 g of water? (Mr H₂O = 18; Avogadro constant 6.02 × 10²³)",
+      "options": [
+        "3.01 × 10²³",
+        "6.02 × 10²³",
+        "5.42 × 10²⁴",
+        "1.08 × 10²⁵"
+      ],
+      "answer": 0,
+      "why": "9.0 ÷ 18 = 0.50 mol; 0.50 × 6.02 × 10²³ = 3.01 × 10²³."
+    },
+    {
+      "type": "short",
+      "q": "CaCO₃ → CaO + CO₂. Calculate the mass of calcium oxide formed when 25 g of calcium carbonate is heated. (Ar: Ca = 40, C = 12, O = 16)",
+      "model": "n(CaCO₃) = 25 ÷ 100 = 0.25 mol; 1 : 1 ratio so n(CaO) = 0.25 mol; mass = 0.25 × 56 = 14 g",
+      "points": [
+        "Mr CaCO₃ = 100 and Mr CaO = 56",
+        "0.25 mol",
+        "14 g"
+      ]
+    }
+  ]
+}

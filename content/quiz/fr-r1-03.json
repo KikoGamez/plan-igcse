@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Complete: Hier, ma sœur ___ au marché.",
+      "options": [
+        "a allé",
+        "est allé",
+        "est allée",
+        "allait allé"
+      ],
+      "answer": 2,
+      "why": "Aller takes être, and the participle agrees with the feminine subject (-e)."
+    },
+    {
+      "type": "mcq",
+      "q": "Complete: Quand j'étais petit, je ___ au parc tous les jours.",
+      "options": [
+        "jouais",
+        "ai joué",
+        "jouerai",
+        "joue"
+      ],
+      "answer": 0,
+      "why": "A repeated habit in the past (tous les jours) uses the imparfait."
+    },
+    {
+      "type": "mcq",
+      "q": "What is the past participle of prendre?",
+      "options": [
+        "prendu",
+        "prit",
+        "prené",
+        "pris"
+      ],
+      "answer": 3,
+      "why": "Prendre is irregular: j'ai pris."
+    },
+    {
+      "type": "short",
+      "q": "Translate into French: While I was reading, the phone rang.",
+      "model": "Pendant que je lisais, le téléphone a sonné.",
+      "points": [
+        "je lisais (imparfait: action in progress)",
+        "a sonné (passé composé: interrupting event)"
+      ]
+    }
+  ]
+}

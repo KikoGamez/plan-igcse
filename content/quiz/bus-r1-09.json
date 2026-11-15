@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Opening balance is $2,000, cash inflows $5,000 and cash outflows $7,500. What is the closing balance?",
+      "options": [
+        "($500)",
+        "$500",
+        "$4,500",
+        "($2,500)"
+      ],
+      "answer": 0,
+      "why": "Closing balance = opening + net cash flow = 2,000 + (5,000 − 7,500) = −500."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the most suitable source of finance to buy a new factory building?",
+      "options": [
+        "A bank overdraft",
+        "Trade credit",
+        "Debt factoring",
+        "A long-term bank loan"
+      ],
+      "answer": 3,
+      "why": "Long-term assets need long-term finance; the others are short-term sources."
+    },
+    {
+      "type": "mcq",
+      "q": "Which source of finance is NOT available to a sole trader?",
+      "options": [
+        "A bank loan",
+        "Issuing shares",
+        "An overdraft",
+        "The owner's savings"
+      ],
+      "answer": 1,
+      "why": "Only limited companies can issue shares."
+    },
+    {
+      "type": "short",
+      "q": "Explain why a profitable business can still run out of cash.",
+      "model": "Sales may be made on credit, so cash from customers arrives later, while suppliers and wages must be paid now; outflows come before inflows.",
+      "points": [
+        "credit sales / time lag before cash is received",
+        "payments (outflows) must be made before cash comes in"
+      ]
+    }
+  ]
+}

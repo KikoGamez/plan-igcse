@@ -1,153 +1,156 @@
 # Excretion and homeostasis
 
-> **In the exam:** Paper 2 has 2–4 questions (what the kidney removes, insulin/glucagon, sweating/vasodilation). Paper 4 often has an Extended question (8–14 marks) on the nephron (filtration and reabsorption), blood glucose control with a graph, or temperature control. Paper 6 links mainly through data handling (tables of urine/plasma composition) and temperature-loss experiments with insulated flasks or tubes.
+> **In the exam:** In Co-ordinated Sciences 0654 the kidney is **not** on the syllabus — no kidney structure, nephron, urea formation (deamination) or dialysis. From "excretion" you only need the **definition** (B1). This page is mainly **B13.3 Homeostasis**, which is all **Supplement** content, so it only appears on the Extended papers. **Paper 2** (Multiple Choice, 45 min, 40 four-option questions on Biology, Chemistry and Physics, 30 %) may have a question on insulin/glucagon or on sweating, shivering and vasodilation. **Paper 4** (Theory, 2 h, 120 marks, 50 %): Biology questions sit alongside Chemistry and Physics questions (in the 2025 specimen, Q1–4 are Biology, each about 9–11 marks and often mixing topics); a part on blood glucose control or temperature control (2–5 marks), sometimes with a graph, is a likely type. **Paper 6** (Alternative to Practical, 1 h 30 min, 60 marks, 20 %, all three sciences) can use temperature, time and graph skills in a cooling/insulation experiment.
 
 ## What you need to know
 
-- State that carbon dioxide is excreted through the lungs and that the kidneys excrete urea, excess water and excess ions.
-- Identify the kidneys, ureters, bladder, urethra, and the cortex and medulla of the kidney.
-- Outline the role of the kidneys in removing urea and excess water and reabsorbing glucose and some salts.
-- Extended: state that urea is formed in the liver from excess amino acids (deamination) and explain the need for excretion (toxicity of urea); describe the structure and function of a nephron (glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, collecting duct): filtration, reabsorption of glucose, salts and water.
-- Define homeostasis; explain the concept of control by negative feedback.
-- Describe the control of blood glucose by the liver and insulin; Extended: glucagon; outline the treatment of Type 1 diabetes.
-- Identify skin structures; describe the maintenance of constant body temperature: insulation, sweating, shivering, the role of the brain; Extended: vasodilation and vasoconstriction of arterioles in the skin.
+**Core (B1.1)**
+- Describe the characteristics of living organisms by defining excretion as the removal of waste products of metabolism and substances in excess of requirements.
+
+**Supplement (B13.3 Homeostasis, B13.2 Hormones)**
+- Describe homeostasis as the maintenance of a constant internal environment.
+- Explain the concept of homeostatic control by negative feedback with reference to a set point.
+- Describe the control of blood glucose concentration by the liver and the roles of insulin and glucagon.
+- State that glucagon is secreted by the pancreas.
+- Identify in diagrams and images of the skin: hairs, hair erector muscles, sweat glands, receptors, sensory neurones, blood vessels and fatty tissue.
+- Describe the maintenance of a constant internal body temperature in mammals in terms of: insulation, sweating, shivering, the role of the brain; and vasodilation and vasoconstriction of arterioles supplying skin surface capillaries.
+
+(Core link from B13.2: a hormone is a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs; the pancreas secretes insulin.)
 
 ## Notes
 
-### Excretion
+### Excretion (definition only)
 
 - **Excretion**: the removal of waste products of metabolism and substances in excess of requirements.
-- **Lungs** excrete CO₂ (from respiration). **Kidneys** excrete **urea, excess water and excess ions**.
-- Urinary system: **kidneys** → **ureters** → **bladder** → **urethra**. Kidney regions: outer **cortex**, inner **medulla**.
-
-Extended:
-- **Deamination**: the removal of the nitrogen-containing part of amino acids to form urea. It happens in the **liver** with excess amino acids. The rest of the molecule is used in respiration or stored.
-- Excretion is needed because **urea is toxic**; it must be removed before it builds up and damages cells.
-- Liver also: assimilation of amino acids by converting them to proteins (e.g. plasma proteins).
-
-### The nephron (Extended)
-
-| Part | What happens |
-|---|---|
-| **Glomerulus** (capillary knot) in **Bowman's capsule** | **filtration**: high blood pressure forces small molecules out — **water, glucose, urea, salts (ions)**; blood cells and proteins are too large and stay in the blood |
-| **Proximal convoluted tubule** | **reabsorption** of **all glucose**, some salts and much water back into the blood |
-| **Loop of Henle** and **collecting duct** | reabsorption of **water** (and some salts) — controls how concentrated the urine is |
-| **Collecting duct** | carries urine (urea, excess water, excess ions) to the ureter |
-
-Compare blood plasma, filtrate and urine:
-
-| Substance | Plasma | Filtrate | Urine |
-|---|---|---|---|
-| Protein | present | absent (too large to filter) | absent |
-| Glucose | present | present | absent (all reabsorbed) |
-| Urea | low | low | high (water reabsorbed, so concentrated) |
+- Example you may meet in other topics: carbon dioxide, a waste product of respiration, is removed from the body through the lungs (B11 gas exchange).
+- Do not spend time on the kidney, urine or the nephron for 0654.
 
 ### Homeostasis and negative feedback
 
 - **Homeostasis**: the maintenance of a constant internal environment.
-- **Negative feedback**: when a condition moves away from the **set point**, a change is triggered that brings it back towards the set point.
-- Examples: body temperature (set point about 37 °C), blood glucose concentration, water content of blood.
+- The "internal environment" means the conditions inside the body, e.g. body temperature and blood glucose concentration.
+- Every controlled factor has a **set point** (normal value), e.g. about 37 °C for human body temperature.
+- **Negative feedback**: when a factor moves away from the set point, the change is detected and a response is triggered that **returns it towards the set point**. When it is back to normal the response is switched off.
 
-### Blood glucose
+General loop: change from set point → detected → response (by effectors) → factor returns to set point.
 
-| Glucose too high (after a meal) | Glucose too low (exercise, fasting) |
+### Control of blood glucose
+
+| Blood glucose too high (e.g. after a meal) | Blood glucose too low (e.g. during exercise, fasting) |
 |---|---|
 | detected by the **pancreas** | detected by the **pancreas** |
-| pancreas secretes **insulin** | Extended: pancreas secretes **glucagon** |
-| liver (and muscle) converts glucose → **glycogen** (stored); cells take up more glucose | Extended: liver converts **glycogen → glucose**, released into blood |
-| blood glucose **falls** | blood glucose **rises** |
+| pancreas secretes **insulin** into the blood | pancreas secretes **glucagon** into the blood |
+| insulin causes the **liver** to convert glucose into **glycogen** (stored) | glucagon causes the **liver** to convert **glycogen into glucose** |
+| glucose is removed from the blood | glucose is released into the blood |
+| blood glucose concentration **falls** to the set point | blood glucose concentration **rises** to the set point |
 
-**Type 1 diabetes** (Extended): the immune system destroys the insulin-secreting cells, so little or no insulin is made; blood glucose stays high. Treatment: **insulin injections**, **monitoring blood glucose concentration** regularly, controlling the **diet** (carbohydrate intake), regular exercise.
+- Both hormones travel in the **blood**; the **liver** is the target organ that stores or releases glucose.
+- This is negative feedback: a rise causes a response that lowers glucose; a fall causes a response that raises it.
 
-### Skin and temperature control
+### Skin structures
 
-Skin structures: **hairs**, **sweat glands**, **receptors**, **sensory neurones**, **blood vessels**, **fatty tissue** (insulation).
+Identify on a diagram of the skin:
 
-- The **brain** (hypothalamus) detects the temperature of the blood and coordinates responses; skin receptors also send impulses.
-
-| Too hot | Too cold |
+| Structure | Role in temperature control |
 |---|---|
-| **sweating**: sweat on skin evaporates, transferring heat energy from the skin | **shivering**: muscles contract rapidly, respiration releases heat |
-| Extended **vasodilation**: arterioles supplying skin capillaries **widen**, more blood flows near the surface, more heat lost by radiation | Extended **vasoconstriction**: arterioles supplying skin capillaries **narrow**, less blood near the surface, less heat lost |
-| hairs lie flat | hairs raised (trap a layer of insulating air) |
-| — | fatty tissue under skin insulates |
+| Hairs | can be raised or lowered (trap a layer of air) |
+| Hair erector muscles | contract to raise the hairs |
+| Sweat glands | produce sweat, which reaches the skin surface |
+| Receptors | detect temperature (heat and cold) |
+| Sensory neurones | carry impulses from the receptors to the brain |
+| Blood vessels (arterioles and skin surface capillaries) | control how much blood flows near the surface |
+| Fatty tissue | insulation, reduces heat loss |
 
-Note: it is the **arterioles** that widen and narrow; capillaries do not move up or down.
+### Control of body temperature
+
+- **Role of the brain**: the brain monitors the temperature of the blood (and receives impulses from skin temperature receptors) and coordinates the responses to keep body temperature near the set point.
+- **Insulation**: fatty tissue under the skin and a layer of air trapped by raised hairs reduce heat loss.
+
+| Body too hot | Body too cold |
+|---|---|
+| **sweating**: sweat glands release sweat; water **evaporates** from the skin surface, transferring heat energy away from the skin | **shivering**: muscles contract rapidly and involuntarily; the extra **respiration** releases heat |
+| **vasodilation**: **arterioles** supplying skin surface capillaries **widen**, more blood flows through capillaries near the surface, **more heat is lost** to the surroundings | **vasoconstriction**: **arterioles** supplying skin surface capillaries **narrow**, less blood flows near the surface, **less heat is lost** |
+| hair erector muscles relax, hairs lie flat (less trapped air) | hair erector muscles contract, hairs stand up and trap a layer of **insulating** air |
+| | sweating stops |
+
+Note: it is the **arterioles** that widen or narrow. Capillaries and blood vessels do **not** move closer to or further from the skin surface.
 
 ### Paper 6 skills on this topic
 
-- **Insulation experiment**: tubes/flasks of hot water wrapped in different materials (or different thicknesses, to model fat); measure temperature every minute with a thermometer.
-- Independent variable: insulating material/thickness. Dependent: temperature drop over 10 min (or rate of cooling). Controlled: starting temperature, volume of water, size of tube, room temperature, lid.
-- **Model for sweating**: compare tubes wrapped in wet vs dry paper towels — the wet one cools faster (evaporation).
-- Risk: hot water can scald — use water below about 60 °C, handle tubes in a rack.
-- Graph: temperature (y) against time (x); compare slopes; read off values carefully.
+The 0654 list of practical contexts does not include body temperature directly, but Paper 6 tests skills in unfamiliar procedures, so a model experiment can appear:
+- **Cooling/insulation model**: tubes of hot water wrapped in different thicknesses of material (modelling fatty tissue) or in wet vs dry paper (modelling sweating); measure temperature every minute.
+- Independent variable: thickness/type of covering. Dependent: temperature fall in a set time (or rate of cooling). Controlled: starting temperature, volume of water, size of tube, room temperature.
+- Plot temperature (y-axis) against time (x-axis); compare gradients; quote readings with units.
+- Safety: hot water can scald — use water below about 60 °C and keep tubes in a rack.
 
 ## Key terms and definitions
 
 | Term | Definition |
 |---|---|
 | Excretion | the removal of waste products of metabolism and substances in excess of requirements |
-| Deamination | the removal of the nitrogen-containing part of amino acids to form urea |
 | Homeostasis | the maintenance of a constant internal environment |
-| Negative feedback | a change from the set point triggers a response that returns the condition to the set point |
+| Negative feedback | a change away from the set point is detected and triggers a response that returns the condition to the set point |
 | Hormone | a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs |
+| Vasodilation | widening of arterioles supplying skin surface capillaries |
+| Vasoconstriction | narrowing of arterioles supplying skin surface capillaries |
 
 ## Worked examples
 
-**1.** Extended: explain why there is no glucose in the urine of a healthy person but there is glucose in the filtrate. [3]
+**1.** Describe how blood glucose concentration is returned to normal after a meal rich in carbohydrate. [4]
 
-- glucose is small enough to be filtered at the glomerulus / into Bowman's capsule (1)
-- all glucose is reabsorbed (1)
-- in the proximal convoluted tubule, back into the blood (1)
+- blood glucose concentration rises above the set point; detected by the pancreas (1)
+- pancreas secretes insulin (into the blood) (1)
+- liver converts glucose into glycogen (1)
+- blood glucose concentration falls back to the set point / negative feedback (1)
 
-**2.** Extended: describe how blood glucose concentration is returned to normal after a meal. [4]
+**2.** Explain how vasodilation helps to cool the body. [3]
 
-- pancreas detects rise in glucose concentration (1)
-- secretes insulin (1)
-- liver converts glucose to glycogen (1)
-- blood glucose concentration decreases (negative feedback) (1)
-
-**3.** Extended: explain how vasodilation helps cool the body. [3]
-
-- arterioles (supplying skin capillaries) widen (1)
+- arterioles supplying skin surface capillaries widen (1)
 - more blood flows through capillaries near the skin surface (1)
-- more heat lost (by radiation) to the surroundings (1)
+- more heat is lost to the surroundings (1)
 
-**4.** In a urine sample the urea concentration is 20 g dm⁻³; in plasma it is 0.3 g dm⁻³. Calculate how many times more concentrated urea is in urine. [1]
+**3.** Explain why the control of body temperature is an example of negative feedback. [2]
 
-- 20 ÷ 0.3 = **67 times** (66.7) (1)
+- a change from the set point (about 37 °C) is detected (by the brain) (1)
+- the response reverses the change / returns temperature to the set point (1)
+
+**4.** Two tubes of water at 60 °C were wrapped, one in dry paper and one in wet paper. After 10 minutes the dry tube was at 50 °C and the wet tube at 44 °C. Calculate the mean rate of cooling of the wet tube and explain why it cooled faster. [3]
+
+- (60 − 44) ÷ 10 = **1.6 °C per minute** (1)
+- water evaporates from the wet paper (1)
+- transferring heat energy away from the tube, as sweat does from skin (1)
 
 ## Common mistakes
 
-- Saying the kidney "filters out urea" only — it filters water, glucose, salts and urea, then **reabsorbs** what is needed.
-- Saying "blood vessels move closer to the skin" — **arterioles dilate** and blood flow changes; vessels do not move.
-- Saying insulin "converts glucose to glycogen" — insulin is a hormone that **causes the liver** to convert it.
-- Confusing **glucagon** (hormone) with **glycogen** (storage carbohydrate).
-- Saying sweat "cools you because it is cold" — heat is lost when sweat **evaporates**.
-- Forgetting that urea is made in the **liver**, not the kidney.
+- Saying "blood vessels move closer to the skin" — **arterioles dilate**; vessels do not move.
+- Saying insulin "turns glucose into glycogen" — insulin is a hormone that **causes the liver** to convert glucose into glycogen.
+- Confusing **glucagon** (hormone) with **glycogen** (storage carbohydrate). Spell them carefully.
+- Saying sweat cools you "because it is cold" — heat is lost when sweat **evaporates**.
+- Saying shivering "makes heat" without linking it to **muscle contraction and respiration releasing heat**.
+- Revising the kidney and nephron — they are not in 0654; use the time on homeostasis instead.
 
 ## Practice questions
 
-1. Name **three** substances excreted by the kidneys. [3]
-2. Extended: name the part of the nephron where filtration occurs and explain why proteins are not filtered. [2]
-3. Define *homeostasis*. [1]
-4. Extended: explain what happens when blood glucose concentration falls. [3]
-5. Describe **two** ways the body responds to cold. [2]
-6. Extended: outline how Type 1 diabetes is treated. [3]
-7. Two tubes of water at 60 °C were wrapped in dry and wet paper towels. After 10 min the dry tube was 50 °C and the wet tube 44 °C. Calculate the mean rate of cooling for each and explain the difference. [4]
+1. Define *homeostasis*. [1]
+2. Define *excretion*. [2]
+3. Explain what happens when blood glucose concentration falls below the set point. [3]
+4. Name **four** structures in the skin that are involved in temperature control and state the role of each. [4]
+5. Describe **three** ways a mammal responds when its body temperature falls. [3]
+6. State the role of the brain in temperature control. [1]
+7. A student says: "Insulin and glucagon both act on the liver, but have opposite effects." Explain this statement. [2]
 
 <details><summary>Answers</summary>
 
-1. Urea (1); excess water (1); excess ions / salts (1).
-2. Glomerulus / Bowman's capsule (1); protein molecules too large to pass through (1).
-3. The maintenance of a constant internal environment.
-4. Pancreas secretes glucagon (1); liver converts glycogen into glucose (1); glucose released into blood, concentration rises (1).
-5. Any two: shivering; vasoconstriction; hairs raised; sweating stops.
-6. Insulin injections (1); monitoring blood glucose concentration (1); controlled diet / regular meals, limiting carbohydrate (1).
-7. Dry: 10 ÷ 10 = 1.0 °C per min (1); wet: 16 ÷ 10 = 1.6 °C per min (1); water evaporates from wet towel (1) transferring heat energy away, like sweat (1).
+1. The maintenance of a constant internal environment.
+2. The removal of waste products of metabolism (1) and substances in excess of requirements (1).
+3. Pancreas secretes glucagon (1); liver converts glycogen into glucose (1); glucose released into blood, so concentration rises (back to set point) (1).
+4. Any four, each with role: hairs (trap air / insulation); hair erector muscles (raise hairs); sweat glands (produce sweat, evaporation cools); receptors (detect temperature); sensory neurones (carry impulses to brain); arterioles/blood vessels (vasodilation/vasoconstriction); fatty tissue (insulation).
+5. Any three: shivering (muscle contraction, respiration releases heat); vasoconstriction of arterioles supplying skin capillaries (less heat lost); hairs raised by hair erector muscles, trapping insulating air; sweating stops.
+6. Monitors / detects blood temperature and coordinates the responses (1).
+7. Insulin causes the liver to convert glucose into glycogen, lowering blood glucose (1); glucagon causes the liver to convert glycogen into glucose, raising blood glucose (1).
 
 </details>
 
 ## Plan for this hour
 
-10 min read notes · 10 min draw and label a nephron and annotate where filtration and reabsorption happen · 10 min draw the negative feedback loops for glucose and temperature · 25 min worked examples and practice questions · 5 min error log.
+10 min read the notes · 10 min draw the two negative feedback loops (glucose and temperature) from memory · 10 min sketch and label a skin diagram, then learn the definitions word for word · 25 min worked examples and practice questions · 5 min error log.

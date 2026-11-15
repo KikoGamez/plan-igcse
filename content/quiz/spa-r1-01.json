@@ -1,0 +1,50 @@
+{
+  "id": "spa-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A question says « Explique con sus propias palabras… ». What must you do?",
+      "options": [
+        "Copy the sentence that contains the answer",
+        "Paraphrase the idea without copying it",
+        "Give your own opinion of the text",
+        "Quote and name the literary device"
+      ],
+      "answer": 1,
+      "why": "Own words prove understanding; copying usually earns nothing."
+    },
+    {
+      "type": "mcq",
+      "q": "Text: «Al ver la carta, a Elena se le hizo un nudo en la garganta.» What does this suggest?",
+      "options": [
+        "Se emocionó y estaba a punto de llorar",
+        "Le dolía la garganta por un resfriado",
+        "Se enfadó y empezó a gritar",
+        "Se atragantó mientras comía"
+      ],
+      "answer": 0,
+      "why": "It is a figurative expression for a sudden strong emotion, not a literal throat problem."
+    },
+    {
+      "type": "mcq",
+      "q": "A comprehension question is worth [2]. What does this usually require?",
+      "options": [
+        "One idea explained at length",
+        "A long quotation from the text",
+        "Your opinion plus one fact",
+        "Two separate, distinct points"
+      ],
+      "answer": 3,
+      "why": "Look at the marks: [2] usually means two different ideas, not the same one repeated."
+    },
+    {
+      "type": "short",
+      "q": "Text: «El camarero le sirvió su café de siempre sin preguntarle nada.» What does this suggest about the customer? Answer in Spanish.",
+      "model": "Que es un cliente habitual / va a menudo, porque el camarero ya sabe lo que toma sin preguntar.",
+      "points": [
+        "cliente habitual / va con frecuencia",
+        "evidence: el camarero ya sabe lo que pide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "spa-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A descriptive composition should:",
+      "options": [
+        "tell a story with a surprising twist",
+        "include plenty of dialogue",
+        "create an atmosphere through precise sensory detail, with little or no plot",
+        "end by revealing it was all a dream"
+      ],
+      "answer": 2,
+      "why": "Turning a descriptive task into a story loses content marks."
+    },
+    {
+      "type": "mcq",
+      "q": "Which line of dialogue is punctuated correctly?",
+      "options": [
+        "\"Ven aquí\", dijo mi madre.",
+        "—Ven aquí —dijo mi madre.",
+        "—Ven aquí, dijo mi madre.",
+        "-Ven aquí- dijo mi madre."
+      ],
+      "answer": 1,
+      "why": "Spanish dialogue uses the raya to open the speech and to frame the narrator's comment."
+    },
+    {
+      "type": "mcq",
+      "q": "Complete: Mientras ___ (llover), Ana ___ (abrir) la puerta de golpe.",
+      "options": [
+        "llovió / abría",
+        "llueve / abrió",
+        "llovía / abría",
+        "llovía / abrió"
+      ],
+      "answer": 3,
+      "why": "Imperfecto for the background (llovía), indefinido for the single action (abrió)."
+    },
+    {
+      "type": "short",
+      "q": "Rewrite «Pablo estaba nervioso» so that it shows the feeling instead of telling it.",
+      "model": "A Pablo le temblaban las manos y no dejaba de mirar el reloj.",
+      "points": [
+        "a physical action or detail",
+        "the word «nervioso» is not used"
+      ]
+    }
+  ]
+}

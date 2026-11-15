@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Aqueous sodium hydroxide is added to a solution. A white precipitate forms that dissolves in excess, giving a colourless solution. Which ion is present?",
+      "options": [
+        "Ca²⁺",
+        "Cu²⁺",
+        "Zn²⁺",
+        "Fe³⁺"
+      ],
+      "answer": 2,
+      "why": "Zn²⁺ gives a white ppt. soluble in excess; the Ca²⁺ white ppt. is insoluble in excess."
+    },
+    {
+      "type": "mcq",
+      "q": "Which oxide is amphoteric?",
+      "options": [
+        "ZnO",
+        "CaO",
+        "SO₂",
+        "CuO"
+      ],
+      "answer": 0,
+      "why": "ZnO reacts with both acids and bases to give a salt and water; CaO and CuO are basic, SO₂ is acidic."
+    },
+    {
+      "type": "mcq",
+      "q": "Which test shows that a solution contains sulfate ions?",
+      "options": [
+        "acidify with dilute nitric acid, add aqueous silver nitrate: white ppt.",
+        "acidify with dilute sulfuric acid, add aqueous barium nitrate: white ppt.",
+        "add dilute acid: effervescence",
+        "acidify with dilute nitric acid, add aqueous barium nitrate: white ppt."
+      ],
+      "answer": 3,
+      "why": "Sulfuric acid would add sulfate ions itself; silver nitrate is the test for halides."
+    },
+    {
+      "type": "short",
+      "q": "Copper(II) sulfate crystals are made from dilute sulfuric acid and excess copper(II) oxide. Why is excess copper(II) oxide used, and how is the excess removed?",
+      "model": "To make sure all the acid has reacted (so the salt is not contaminated with acid); the excess solid is removed by filtration.",
+      "points": [
+        "all the acid used up / reacts",
+        "filter (remove excess as residue)"
+      ]
+    }
+  ]
+}

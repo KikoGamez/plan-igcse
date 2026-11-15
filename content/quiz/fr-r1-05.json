@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What does « passer un examen » mean?",
+      "options": [
+        "to pass an exam",
+        "to sit an exam",
+        "to fail an exam",
+        "to revise for an exam"
+      ],
+      "answer": 1,
+      "why": "False friend: passer = sit; réussir = pass."
+    },
+    {
+      "type": "mcq",
+      "q": "« Il est huit heures moins le quart. » What time is it?",
+      "options": [
+        "8.15",
+        "8.45",
+        "7.15",
+        "7.45"
+      ],
+      "answer": 3,
+      "why": "Moins le quart = a quarter to, so a quarter to eight."
+    },
+    {
+      "type": "mcq",
+      "q": "How do you say 'I play the piano'?",
+      "options": [
+        "Je joue le piano.",
+        "Je joue au piano.",
+        "Je joue du piano.",
+        "Je fais le piano."
+      ],
+      "answer": 2,
+      "why": "Instruments take jouer de (du piano); sports take jouer à (au foot)."
+    },
+    {
+      "type": "short",
+      "q": "Translate into French: I have a sore throat.",
+      "model": "J'ai mal à la gorge.",
+      "points": [
+        "j'ai mal",
+        "à la gorge"
+      ]
+    }
+  ]
+}

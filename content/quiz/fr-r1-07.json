@@ -1,0 +1,51 @@
+{
+  "id": "fr-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "You hear: « Le bus de neuf heures quarante-cinq aura un quart d'heure de retard. » À quelle heure partira le bus ?",
+      "options": [
+        "9h45",
+        "9h30",
+        "10h00",
+        "10h15"
+      ],
+      "answer": 2,
+      "why": "9h45 + 15 minutes = 10h00; 9h45 alone ignores the delay."
+    },
+    {
+      "type": "mcq",
+      "q": "You hear: « Avant, je voulais devenir avocat, mais maintenant je pense plutôt devenir professeur. » Quel métier veut-il faire maintenant ?",
+      "options": [
+        "avocat",
+        "médecin",
+        "avocat et professeur",
+        "professeur"
+      ],
+      "answer": 3,
+      "why": "« Avant » marks the old plan; « maintenant… plutôt » gives the answer. Giving both scores 0."
+    },
+    {
+      "type": "mcq",
+      "q": "You hear: « L'entrée coûte six euros, mais c'est gratuit pour les moins de douze ans. » Combien paie un enfant de dix ans ?",
+      "options": [
+        "rien, c'est gratuit",
+        "six euros",
+        "douze euros",
+        "trois euros"
+      ],
+      "answer": 0,
+      "why": "Under twelve is free; six euros is the adult price."
+    },
+    {
+      "type": "short",
+      "q": "You hear: « Il n'y a pas de piscine dans mon village, alors je vais nager en ville. » Répondez en français : Pourquoi va-t-il nager en ville ?",
+      "model": "Il n'y a pas de piscine dans son village.",
+      "points": [
+        "keeps the negative (pas de piscine)",
+        "dans son/le village",
+        "answer in French"
+      ]
+    }
+  ]
+}

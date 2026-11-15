@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-19",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A bag has 5 red and 3 blue counters. Two are taken without replacement. Find P(both red).",
+      "options": [
+        "5/14",
+        "25/64",
+        "5/8",
+        "3/28"
+      ],
+      "answer": 0,
+      "why": "5/8 × 4/7 = 20/56 = 5/14; 25/64 would be with replacement."
+    },
+    {
+      "type": "mcq",
+      "q": "n(ξ) = 30, n(A) = 18, n(B) = 15 and n(A ∩ B) = 8. Find n(A ∪ B).",
+      "options": [
+        "33",
+        "25",
+        "10",
+        "5"
+      ],
+      "answer": 1,
+      "why": "n(A ∪ B) = 18 + 15 − 8 = 25; the intersection must not be counted twice."
+    },
+    {
+      "type": "mcq",
+      "q": "n(ξ) = 30, n(A) = 18, n(B) = 15 and n(A ∩ B) = 8. A member of B is chosen. Find the probability it is in A.",
+      "options": [
+        "8/30",
+        "8/18",
+        "8/15",
+        "15/30"
+      ],
+      "answer": 2,
+      "why": "Given B, the denominator is n(B) = 15, so the answer is 8/15."
+    },
+    {
+      "type": "short",
+      "q": "The probability that a spinner lands on red is 0.35. It is spun 200 times. Find the expected number of reds.",
+      "model": "0.35 × 200 = 70",
+      "points": [
+        "probability × number of trials",
+        "70"
+      ]
+    }
+  ]
+}

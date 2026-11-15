@@ -1,0 +1,51 @@
+{
+  "id": "chem-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Concentrated aqueous sodium chloride is electrolysed with carbon electrodes. What forms at each electrode?",
+      "options": [
+        "cathode: sodium; anode: chlorine",
+        "cathode: hydrogen; anode: chlorine",
+        "cathode: hydrogen; anode: oxygen",
+        "cathode: chlorine; anode: hydrogen"
+      ],
+      "answer": 1,
+      "why": "Sodium is more reactive than hydrogen, so hydrogen forms at the cathode; chloride gives chlorine at the anode."
+    },
+    {
+      "type": "mcq",
+      "q": "Aqueous copper(II) sulfate is electrolysed using copper electrodes. What is observed?",
+      "options": [
+        "anode loses mass; blue colour stays the same",
+        "anode gains mass; blue colour fades",
+        "bubbles at the anode; blue colour fades",
+        "bubbles at the cathode; anode gains mass"
+      ],
+      "answer": 0,
+      "why": "The copper anode dissolves and copper is deposited on the cathode, so the Cu²⁺ concentration stays the same."
+    },
+    {
+      "type": "mcq",
+      "q": "During electrolysis, how is charge carried through the external circuit (the wires)?",
+      "options": [
+        "by ions moving towards the cathode",
+        "by electrons moving through the electrolyte",
+        "by electrons moving from the anode to the cathode",
+        "by positive ions moving to the anode"
+      ],
+      "answer": 2,
+      "why": "Electrons flow in the wires; ions carry the charge in the electrolyte."
+    },
+    {
+      "type": "short",
+      "q": "Write the ionic half-equation for the reaction at the cathode during the electrolysis of molten lead(II) bromide.",
+      "model": "Pb²⁺ + 2e⁻ → Pb",
+      "points": [
+        "Pb²⁺ on the left",
+        "2e⁻ gained (on the left)",
+        "Pb on the right"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "chem-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Substance X has a high melting point. It does not conduct when solid but conducts when molten. What is X?",
+      "options": [
+        "a giant ionic compound",
+        "a simple molecular compound",
+        "a metal",
+        "a giant covalent substance"
+      ],
+      "answer": 0,
+      "why": "Ions are fixed in the solid lattice but free to move when molten."
+    },
+    {
+      "type": "mcq",
+      "q": "How many electrons are shared between the two atoms in a nitrogen molecule, N₂?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "why": "N₂ has a triple bond: three shared pairs, which is 6 electrons."
+    },
+    {
+      "type": "mcq",
+      "q": "Why is graphite used as a lubricant?",
+      "options": [
+        "It has delocalised electrons",
+        "Its layers are held by weak forces and can slide over each other",
+        "Each carbon atom forms four strong covalent bonds",
+        "It has a low melting point"
+      ],
+      "answer": 1,
+      "why": "Weak forces between the layers let them slide; delocalised electrons explain conduction, not lubrication."
+    },
+    {
+      "type": "short",
+      "q": "Explain why sodium chloride has a high melting point.",
+      "model": "It has a giant lattice with strong electrostatic attractions between oppositely charged ions, so a lot of energy is needed to overcome them.",
+      "points": [
+        "giant (ionic) lattice",
+        "strong electrostatic attraction between oppositely charged ions",
+        "a lot of energy needed to overcome them"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which structure is found in a bacterial cell but not in an animal cell?",
+      "options": [
+        "nucleus",
+        "mitochondrion",
+        "plasmid",
+        "ribosome"
+      ],
+      "answer": 2,
+      "why": "Bacteria have plasmids (and a cell wall) but no nucleus or mitochondria; both have ribosomes."
+    },
+    {
+      "type": "mcq",
+      "q": "Which of these is an organ?",
+      "options": [
+        "xylem",
+        "leaf",
+        "palisade mesophyll",
+        "root hair cell"
+      ],
+      "answer": 1,
+      "why": "A leaf is made of several tissues working together; xylem and palisade mesophyll are tissues."
+    },
+    {
+      "type": "mcq",
+      "q": "A cell image is 12 mm long at a magnification of ×400. What is its actual length?",
+      "options": [
+        "3 µm",
+        "300 µm",
+        "4800 µm",
+        "30 µm"
+      ],
+      "answer": 3,
+      "why": "Actual size = 12 ÷ 400 = 0.03 mm = 30 µm (× 1000 to convert mm to µm)."
+    },
+    {
+      "type": "short",
+      "q": "Define growth.",
+      "model": "A permanent increase in size and dry mass.",
+      "points": [
+        "permanent",
+        "increase in size",
+        "and dry mass"
+      ]
+    }
+  ]
+}

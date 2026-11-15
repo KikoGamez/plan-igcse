@@ -1,0 +1,51 @@
+{
+  "id": "math-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "After a 15% increase, a price is $69. Find the original price.",
+      "options": [
+        "$58.65",
+        "$60",
+        "$54",
+        "$79.35"
+      ],
+      "answer": 1,
+      "why": "Reverse percentage: divide by the multiplier, 69 ÷ 1.15 = 60."
+    },
+    {
+      "type": "mcq",
+      "q": "$72 is shared in the ratio 2 : 3 : 4. Find the largest share.",
+      "options": [
+        "$24",
+        "$18",
+        "$36",
+        "$32"
+      ],
+      "answer": 3,
+      "why": "There are 9 parts, so 1 part = $8 and the largest share is 4 × 8 = $32."
+    },
+    {
+      "type": "mcq",
+      "q": "A price falls from $80 to $68. Find the percentage decrease.",
+      "options": [
+        "15%",
+        "12%",
+        "17.6%",
+        "85%"
+      ],
+      "answer": 0,
+      "why": "Decrease ÷ original = 12 ÷ 80 = 0.15 = 15%; never divide by the new value."
+    },
+    {
+      "type": "short",
+      "q": "Without a calculator, work out 1¾ ÷ 2⅓. Give your answer in its simplest form.",
+      "model": "7/4 ÷ 7/3 = 7/4 × 3/7 = 21/28 = 3/4",
+      "points": [
+        "improper fractions 7/4 and 7/3",
+        "multiply by the reciprocal",
+        "3/4"
+      ]
+    }
+  ]
+}

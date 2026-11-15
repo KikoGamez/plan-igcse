@@ -1,63 +1,61 @@
-# Past paper · Paper 2 (multiple choice)
+# Co-ordinated Sciences · Paper 2 (multiple choice) — 45 min + marking
 
-> **Goal:** Complete one full Paper 2 in 45 minutes under exam conditions, mark it, and log every wrong answer by topic.
+> **Goal:** Sit one complete 0654 Paper 2 in 45 minutes under exam conditions, mark it, and log every wrong answer by science and topic.
 
 ## Before you start
 
-- **Paper:** a Cambridge IGCSE Chemistry 0620 **Paper 2 (Multiple Choice, Extended)** from a recent series — ideally 2024 or 2025 (May/June or Oct/Nov), which match the current syllabus content. Pick a variant (21, 22 or 23) you have **not** done before.
-- **Mark scheme** (a single answer key) — keep it face down until you finish.
+- **Paper:** a Cambridge IGCSE **Co-ordinated Sciences (Double Award) 0654 Paper 2 (Multiple Choice, Extended)** — variant 21, 22 or 23 — from the most recent series you have **not** done (e.g. May/June 2025, Oct/Nov 2025 or May/June 2026; the 2025 syllabus papers onwards match your syllabus exactly). Different variants of the same series contain different questions, so another variant counts as a new paper. Do **not** use a Chemistry 0620 paper: it tests content (equilibrium, esters, empirical formulae…) that is not in 0654 and has no biology or physics.
+- **Mark scheme** (just the answer key). Keep it face down until you finish.
 - **Timer** set to 45 minutes.
-- **Calculator** allowed. The Periodic Table is printed on the back page of the paper — use it for Ar values.
-- Pencil (answers in the real exam are on an answer sheet), eraser, scrap paper for working.
+- **Calculator** allowed. The Periodic Table is printed in the paper — use it for Ar values. The cover tells you to take the weight of 1.0 kg as 9.8 N.
+- Soft pencil and eraser (the real exam uses an answer sheet), scrap paper for working. Phone away, no notes.
 
 ## Exam format reminder
 
-- 45 minutes, **40 questions, 40 marks**, 30% of the qualification.
-- Four options (A–D), one correct; no penalty for wrong answers — **never leave a blank**.
-- Questions roughly follow syllabus order: states of matter and atoms first, organic chemistry and experimental techniques last.
-- About **1 minute per question**: aim to reach question 20 by 22 minutes and question 40 by 42 minutes, leaving 3 minutes to check.
+- **45 minutes, 40 questions, 40 marks, 30% of the qualification.** Four options A–D, one correct; no penalty for wrong answers — **never leave a blank**.
+- All three sciences are in **one paper**, roughly a third each. The questions are grouped by subject and follow the syllabus order within each science (for chemistry: states of matter and atoms first, organic chemistry and analysis last). Check the order in your paper in the first minute.
+- Paper 2 is the Extended paper: Core **and** Supplement content can be tested.
+- **Timing:** just over 1 minute per question. Aim to reach question 20 by about 22 minutes and finish with 3–5 minutes to revisit starred questions.
 
 ## How to do it
 
-1. **0–45 min — sit the paper.** No notes, no phone. Mark any question you are unsure of with a star in the margin and move on after 90 seconds.
-2. **45–50 min — mark** with the answer key. Score out of 40.
-3. **50–58 min — analyse.** For each wrong or starred question, write in your error log: question number, topic, your answer, correct answer, and **why** you were wrong (knowledge gap, misread, calculation slip, careless).
-4. **58–60 min** — note your top two weak topics for the next revision session.
+1. **0–45 min — sit the paper.** Circle your answer letter clearly. Star any question you are unsure about, choose your best answer anyway, and move on after about 90 seconds.
+2. **45–52 min — mark** with the answer key. Write the total out of 40 and a separate score for biology, chemistry and physics.
+3. **52–58 min — analyse.** For each wrong or starred question, write in your error log: question number, science and topic, your answer, correct answer, and **why** (knowledge gap, misread, calculation slip, careless).
+4. **58–60 min** — choose your two weakest chemistry topics for the next session (the *Chemistry: weak topics* session uses this list).
 
-Rough guide (grade thresholds change every series): 30+ / 40 is strong; under 25 usually means content gaps — go back to the Round 1 notes for those topics.
+Grade thresholds change every series — compare your score with the published threshold table for that exact paper. A low score in one science only is a revision target, not a reason to panic.
 
 ## Exam technique for this paper
 
-- **Read all four options before choosing.** Distractors are built from common mistakes (e.g. using Mr 35.5 for Cl₂, or swapping anode and cathode).
-- **Cover the options** for factual questions: decide the answer first, then find it.
-- **Eliminate** clearly wrong options and cross them out on the paper.
-- **Calculations:** do the working on paper — don't guess. Mole questions often have answers that differ by a factor of 2 (mole ratio) or 1000 (cm³/dm³). Check your unit.
-- **"Which statement is correct / not correct?"** — underline NOT, NEVER, ONLY, ALL.
-- **Grid questions** (tick/cross tables with options 1, 2, 3): decide each statement independently, then find the matching row.
-- **Diagrams of apparatus:** check every detail — condenser water direction, thermometer position, delivery tube in or out of liquid.
-- **Ion tests:** these come up every paper; the options often differ only in "soluble/insoluble in excess" — use the syllabus tables exactly.
-- **Don't change answers** unless you find a clear reason; first instincts are usually better than second guesses.
+- **Cover the options** for factual questions: decide your answer first, then find it among A–D.
+- **Distractors are built from common mistakes**: using Mr 35.5 for Cl₂, swapping anode and cathode, forgetting the mole ratio, mixing up "soluble/insoluble in excess" in ion tests.
+- **Calculations:** write the working in the margin. Mole questions often have options that differ by a factor of 2 (mole ratio) or 1000 (cm³ ↔ dm³). Gas volumes use 24 dm³ at r.t.p.
+- **"Which statement is correct / not correct?"** — underline NOT, ONLY, ALL, ALWAYS; test each option separately.
+- **Grid questions** (ticks and crosses for statements 1, 2, 3): decide each statement independently, then find the matching row.
+- **Diagrams of apparatus:** check every detail — condenser water direction, thermometer bulb position, delivery tube above or below the liquid, solvent level below the baseline in chromatography.
+- **Switching science:** when the paper moves from biology to chemistry or chemistry to physics, take one breath and reset — different vocabulary (e.g. "diffusion" has slightly different definitions in biology and chemistry).
+- **Change an answer only** if you find a clear error.
 
 ## Checklist while marking
 
-- Was the mistake **content** (didn't know the fact), **application** (knew it but couldn't use it), or **process** (misread, arithmetic, rushed)?
-- For calculation errors, redo the question fully with working on the error log.
-- For every factual error, write the correct fact as a one-line flashcard (e.g. "Zn²⁺: white ppt, soluble in excess NaOH **and** NH₃").
-- Tally wrong answers by syllabus topic (1–12). Topics with 2+ errors go on the weak-topics list.
-- Note how long you took. If you finished with more than 10 minutes spare, you were probably rushing.
+- Classify each mistake as **content** (didn't know the fact), **application** (knew it but couldn't use it) or **process** (misread, arithmetic, rushed).
+- For calculation errors, redo the question in full in the error log.
+- For every factual error, write a one-line flashcard (e.g. "Zn²⁺: white ppt., soluble in excess with NaOH **and** with NH₃").
+- Tally chemistry errors by syllabus topic (C1–C12). Topics with 2+ errors go on the weak-topics list.
+- Check the timing: if you finished with more than 10 minutes spare, you were probably rushing.
 
-## Quick-fire revision
+## Quick-fire revision (chemistry)
 
-- Isotopes: same protons, different neutrons; same chemical properties (same electronic configuration).
-- Moles: n = m ÷ M; n = c × V(dm³); gas n = V(dm³) ÷ 24; 6.02 × 10²³ particles per mole.
-- Electrolysis: cathode — metal less reactive than H, otherwise H₂; anode — halogen if concentrated halide, otherwise O₂.
-- Exothermic: ΔH negative, temperature of surroundings rises. Bond breaking endothermic, bond making exothermic.
-- Catalyst lowers Ea, does not change yield or ΔH.
-- Haber 450 °C, 200 atm, Fe; Contact 450 °C, 2 atm, V₂O₅.
-- OIL RIG; oxidising agent is itself reduced.
-- Amphoteric oxides: Al₂O₃, ZnO.
-- Halogens: reactivity decreases down the group; Group I reactivity increases down.
-- Rusting needs oxygen **and** water; galvanising = zinc coating.
-- Alkenes decolourise bromine water (orange → colourless).
-- Rf = distance moved by substance ÷ distance moved by solvent.
-- Impurities lower melting point and raise boiling point.
+- Isotopes: same number of protons, different numbers of neutrons; same chemical properties (same electronic configuration).
+- Moles (Supplement): n = m ÷ M; gas n = V(dm³) ÷ 24; 6.02 × 10²³ particles per mole. Limiting reactant runs out first.
+- Electrolysis: cathode — metal if less reactive than hydrogen (e.g. copper), otherwise hydrogen; concentrated NaCl(aq) gives Cl₂ at the anode; dilute H₂SO₄ gives H₂ : O₂ = 2 : 1.
+- Exothermic: ΔH negative, surroundings get hotter. Bond breaking endothermic, bond making exothermic.
+- A catalyst increases rate, is unchanged, and lowers Ea.
+- Oxidation = gain of oxygen / loss of electrons; reduction = loss of oxygen / gain of electrons (OIL RIG).
+- Acidic oxides: CO₂, SO₂; basic: CuO, CaO; amphoteric: Al₂O₃, ZnO.
+- Group I reactivity increases down; Group VII reactivity decreases down. Cl₂ pale yellow-green gas, Br₂ red-brown liquid, I₂ grey-black solid.
+- Rusting needs oxygen **and** water; galvanising = zinc coating (barrier + sacrificial).
+- Blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂; slag CaO + SiO₂ → CaSiO₃.
+- Alkenes turn aqueous bromine orange → colourless; cracking = high temperature + catalyst.
+- Rf = distance travelled by substance ÷ distance travelled by solvent; impurities lower the melting point and make it melt over a range.

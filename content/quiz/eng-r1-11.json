@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-11",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which plan best suits a 350–450 word narrative?",
+      "options": [
+        "Five characters over several years",
+        "A war story across three countries",
+        "Two characters, one setting, one evening, one central problem",
+        "A mystery with many suspects"
+      ],
+      "answer": 2,
+      "why": "Keep it small so the story is developed, not summarised."
+    },
+    {
+      "type": "mcq",
+      "q": "Which line of dialogue is punctuated correctly?",
+      "options": [
+        "\"Wait\" she whispered.",
+        "\"Wait,\" she whispered.",
+        "\"Wait.\" She whispered.",
+        "Wait, she whispered."
+      ],
+      "answer": 1,
+      "why": "Punctuation goes inside the speech marks, with a lower-case tag after a comma."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence shows nervousness rather than telling it?",
+      "options": [
+        "He was very nervous.",
+        "He felt extremely anxious and scared.",
+        "He was nervous because he was worried.",
+        "His fingers drummed on the table as the phone stayed silent."
+      ],
+      "answer": 3,
+      "why": "Showing uses action and detail so the reader infers the feeling."
+    },
+    {
+      "type": "short",
+      "q": "Give two ways to build tension in a narrative.",
+      "model": "Any two: short sentences or fragments at the crisis; slowing the pace with detail at key moments; delaying the answer; foreshadowing; focusing on small sensory details.",
+      "points": [
+        "two distinct techniques",
+        "e.g. short sentences, pace, delay, foreshadowing, sensory detail"
+      ]
+    }
+  ]
+}

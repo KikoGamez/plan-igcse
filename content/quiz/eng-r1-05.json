@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "How long should your quotations be in the writer's effect answer?",
+      "options": [
+        "Short: about 1–5 words",
+        "A whole sentence",
+        "A whole paragraph",
+        "No quotations are needed"
+      ],
+      "answer": 0,
+      "why": "Short quotations show exactly which words you are analysing."
+    },
+    {
+      "type": "mcq",
+      "q": "\"Rain hammered on the tin roof.\" Which comment would earn most credit?",
+      "options": [
+        "This is a metaphor",
+        "It creates a vivid image and makes the reader want to read on",
+        "It means it was raining",
+        "\"Hammered\" suggests heavy, violent blows, so the rain seems loud and relentless"
+      ],
+      "answer": 3,
+      "why": "Top answers unpack the connotations of a specific word, not just name a device or give meaning."
+    },
+    {
+      "type": "mcq",
+      "q": "How many choices does the writer's effect question ask for?",
+      "options": [
+        "Six from one paragraph",
+        "Two from each of three paragraphs",
+        "Three from each of two named paragraphs",
+        "One from each paragraph in the text"
+      ],
+      "answer": 2,
+      "why": "Choose three from each named paragraph, including imagery."
+    },
+    {
+      "type": "short",
+      "q": "\"Fog crept along the river.\" Explain the meaning and the effect of \"crept\".",
+      "model": "Meaning: the fog moved slowly and quietly along the river. Effect: \"crept\" personifies the fog as someone sneaking up unseen, making it seem secretive and threatening and creating a sense of unease.",
+      "points": [
+        "meaning: slow, quiet movement",
+        "effect: connotations of sneaking / sinister, creating unease"
+      ]
+    }
+  ]
+}

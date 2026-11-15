@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "According to Herzberg, which of these is a hygiene factor?",
+      "options": [
+        "Pay",
+        "Recognition",
+        "Responsibility",
+        "Achievement"
+      ],
+      "answer": 0,
+      "why": "Herzberg saw pay as a hygiene factor: poor pay causes dissatisfaction but more pay does not motivate in itself."
+    },
+    {
+      "type": "mcq",
+      "q": "A worker is given tasks that need more skill and responsibility. This is called:",
+      "options": [
+        "job enlargement",
+        "job rotation",
+        "piece rate",
+        "job enrichment"
+      ],
+      "answer": 3,
+      "why": "Enrichment adds challenge/responsibility; enlargement adds tasks at the same level."
+    },
+    {
+      "type": "mcq",
+      "q": "Which of these is a non-financial reward?",
+      "options": [
+        "Commission",
+        "A company car",
+        "A bonus",
+        "Profit sharing"
+      ],
+      "answer": 1,
+      "why": "A company car is a fringe benefit (non-financial); the others are paid as money."
+    },
+    {
+      "type": "short",
+      "q": "Explain one disadvantage to a business of paying factory workers by piece rate.",
+      "model": "Workers may rush to produce as many units as possible, so quality falls and more products are wasted or rejected.",
+      "points": [
+        "workers rush to increase output",
+        "quality falls / more waste"
+      ]
+    }
+  ]
+}

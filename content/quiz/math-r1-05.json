@@ -1,0 +1,51 @@
+{
+  "id": "math-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Solve (x + 4)/3 = x − 2.",
+      "options": [
+        "x = 1",
+        "x = 5",
+        "x = 3",
+        "x = −1"
+      ],
+      "answer": 1,
+      "why": "Multiply both sides by 3: x + 4 = 3x − 6, so 2x = 10 and x = 5."
+    },
+    {
+      "type": "mcq",
+      "q": "Solve the simultaneous equations 3x + 2y = 16 and x − 2y = 0.",
+      "options": [
+        "x = 2, y = 5",
+        "x = 4, y = −2",
+        "x = 4, y = 2",
+        "x = 8, y = 4"
+      ],
+      "answer": 2,
+      "why": "Adding the equations gives 4x = 16, so x = 4 and then 4 − 2y = 0 gives y = 2."
+    },
+    {
+      "type": "mcq",
+      "q": "Make x the subject of y = (x + a)/(x − 1).",
+      "options": [
+        "(y − a)/(y − 1)",
+        "(a + y)/(y + 1)",
+        "(a − y)/(1 − y)",
+        "(a + y)/(y − 1)"
+      ],
+      "answer": 3,
+      "why": "xy − y = x + a, so xy − x = a + y, x(y − 1) = a + y."
+    },
+    {
+      "type": "short",
+      "q": "Make r the subject of V = πr²h (r > 0).",
+      "model": "r² = V/(πh), so r = √(V/(πh))",
+      "points": [
+        "divide by πh",
+        "square root",
+        "r = √(V/(πh))"
+      ]
+    }
+  ]
+}

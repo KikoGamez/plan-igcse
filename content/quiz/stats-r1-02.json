@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "In a pie chart of 72 people, 15 chose tennis. Find the angle for tennis.",
+      "options": [
+        "15°",
+        "75°",
+        "72°",
+        "54°"
+      ],
+      "answer": 1,
+      "why": "360 ÷ 72 = 5° per person, so 15 × 5 = 75°."
+    },
+    {
+      "type": "mcq",
+      "q": "A pie chart for 100 people has radius 4 cm. Find the radius of a comparative pie chart for 225 people.",
+      "options": [
+        "9 cm",
+        "4 cm",
+        "6 cm",
+        "2.67 cm"
+      ],
+      "answer": 2,
+      "why": "Areas are in proportion to totals: r = 4 × √(225/100) = 4 × 1.5 = 6 cm."
+    },
+    {
+      "type": "mcq",
+      "q": "A population pyramid has a wide base and a narrow top. This suggests",
+      "options": [
+        "an ageing population",
+        "a low birth rate and long life expectancy",
+        "equal numbers in each age group",
+        "a high birth rate and short life expectancy"
+      ],
+      "answer": 3,
+      "why": "Many young people and few old people indicate high birth and death rates."
+    },
+    {
+      "type": "short",
+      "q": "The vertical axis of a bar chart starts at 50. Explain why the chart may be misleading.",
+      "model": "The axis does not start at zero, so the differences between the bars look bigger than they really are.",
+      "points": [
+        "axis does not start at 0",
+        "differences look exaggerated"
+      ]
+    }
+  ]
+}

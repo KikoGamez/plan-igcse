@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "For 5 pairs of ranks, Σd² = 4. Find Spearman's rank correlation coefficient.",
+      "options": [
+        "0.04",
+        "0.8",
+        "0.2",
+        "−0.8"
+      ],
+      "answer": 1,
+      "why": "rs = 1 − (6 × 4) ÷ (5 × 24) = 1 − 0.2 = 0.8."
+    },
+    {
+      "type": "mcq",
+      "q": "Line of best fit: y = 12 + 3.5x, where x = hours of revision and y = test mark. What does 3.5 mean?",
+      "options": [
+        "a student with no revision scores 3.5",
+        "3.5 hours gives 12 marks",
+        "each extra hour of revision adds about 3.5 marks",
+        "the correlation is 3.5"
+      ],
+      "answer": 2,
+      "why": "The gradient is the increase in y for each extra unit of x, in context."
+    },
+    {
+      "type": "mcq",
+      "q": "Using a line of best fit to predict outside the range of the data is called",
+      "options": [
+        "interpolation",
+        "correlation",
+        "causation",
+        "extrapolation"
+      ],
+      "answer": 3,
+      "why": "Extrapolation is unreliable because the pattern may not continue."
+    },
+    {
+      "type": "short",
+      "q": "Ice-cream sales and sunburn cases show strong positive correlation. Does eating ice cream cause sunburn? Explain.",
+      "model": "No. Correlation does not show causation; both are likely caused by a third factor, such as hot sunny weather.",
+      "points": [
+        "correlation does not imply causation",
+        "third factor e.g. hot/sunny weather"
+      ]
+    }
+  ]
+}

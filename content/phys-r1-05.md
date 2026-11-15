@@ -1,160 +1,161 @@
 # Thermal physics
 
-> **In the exam:** A big topic: Paper 2 usually has 4–6 items (particle model, gas pressure, expansion, conduction/convection/radiation). Paper 4 normally has one or two thermal questions, 6–10 marks each (specific heat capacity calculation, pV = constant, explaining gas pressure or evaporation with particles). Paper 6: heating and cooling experiments are among the most common contexts — reading thermometers, cooling curves, comparing insulation or surfaces.
+> **Important for 0654:** Thermal physics in Co-ordinated Sciences 0654 has **no equations**. Specific heat capacity (c = ΔE ÷ mΔθ), pV = constant, the kelvin scale/absolute zero and the measurement of temperature are only in Physics 0625 and are **not examined**. Everything here is explaining with particles and with conduction, convection and radiation.
+
+> **In the exam:** In 0654 (Extended) Physics questions appear alongside Biology and Chemistry. Paper 2 (Multiple Choice, 45 min, 40 questions across all three sciences): typically 1–3 items here (particle diagrams, gas pressure, expansion, evaporation, conduction/convection/radiation). Paper 4 (Theory, 2 h, 120 marks): describe/explain parts of 2–5 marks (gas pressure with particles, Brownian motion, evaporation and cooling, boiling vs evaporation, radiation and surface colour). Paper 6 (Alternative to Practical, 1 h 30 min, 60 marks): "cooling and heating, including measurement of temperature" is a named practical context — cooling curves, comparing insulation or surfaces, reading thermometers.
 
 ## What you need to know
 
-- Properties of solids, liquids and gases; names of changes of state (melting, boiling, evaporation, condensation, solidification).
-- Particle structure of the three states (arrangement, separation, motion) with simple particle diagrams. *Extended:* forces and distances between particles and their motion affect the properties.
-- Motion of particles and temperature; absolute zero (−273 °C) where particles have least kinetic energy.
-- Gas pressure in terms of particles colliding with surfaces. *Extended:* collisions exert forces, creating a force per unit area.
-- Brownian motion: random motion of microscopic particles in a suspension, caused by random collisions with particles of the gas or liquid. *Extended:* microscopic particles are moved by collisions with light, fast-moving molecules.
-- Effect on gas pressure of changing temperature (constant volume) and changing volume (constant temperature). T (K) = θ (°C) + 273. *Extended:* pV = constant for a fixed mass of gas at constant temperature, including its graph.
-- Thermal expansion of solids, liquids, gases; applications and consequences. *Extended:* explain relative order of expansion using particles.
-- A temperature rise increases internal energy. *Extended:* average kinetic energy of particles increases; specific heat capacity c = ΔE ÷ (mΔθ); experiments for a solid and a liquid.
-- Melting and boiling: energy input without temperature change; melting and boiling points of water; condensation, solidification; evaporation as escape of more-energetic particles; evaporation causes cooling. *Extended:* boiling vs evaporation; factors affecting evaporation; cooling of an object in contact with an evaporating liquid.
-- Conduction, convection, radiation (infrared), effect of surface colour and texture; everyday applications. *Extended:* lattice vibrations and free electrons; constant temperature needs equal rates of absorbing and emitting; Earth's temperature balance; rate of emission depends on surface temperature and area; complex applications (fire, car radiator).
+Syllabus sections P2.1–P2.3 (Core, then *Supplement* for Extended).
+
+- State the distinguishing properties of solids, liquids and gases; know the terms for changes of state between them (gas → solid and solid → gas not required).
+- Describe the structure of solids, liquids and gases in terms of the arrangement, separation and motion of the particles; draw simple particle diagrams.
+- Describe the relationship between the motion of particles and temperature.
+- The random motion of microscopic particles in a suspension (e.g. smoke particles or pollen grains seen with a light microscope) is evidence for the kinetic particle model.
+- *Supplement:* the forces and distances between particles and the motion of the particles affect the properties of solids, liquids and gases.
+- *Supplement:* describe and explain this (Brownian) motion in terms of random collisions between the particles in the suspension and the much smaller, fast-moving particles of the gas or liquid.
+- *Supplement:* describe the pressure of a gas in terms of the forces exerted by particles colliding with surfaces, creating a force per unit area; describe qualitatively, in terms of particles, the effect on the pressure of a fixed mass of gas of a change of temperature at constant volume and a change of volume at constant temperature.
+- Describe qualitatively the thermal expansion of solids, liquids and gases at constant pressure. *Supplement:* explain some everyday applications and consequences of thermal expansion.
+- Know the melting and boiling temperatures of water at standard atmospheric pressure (°C). Describe condensation and solidification (freezing) in terms of particles; describe evaporation as the escape of the more energetic particles from the surface of a liquid; evaporation causes cooling of a liquid; describe melting and boiling as energy input without a change in temperature.
+- *Supplement:* describe the differences between boiling and evaporation; describe how temperature, surface area and air movement over a surface affect evaporation.
+- Identify typical good and bad thermal conductors. *Supplement:* describe conduction in solids by lattice vibrations and by movement of delocalised (mobile) electrons in metals.
+- Convection is an important method of energy transfer in liquids and gases; describe it. *Supplement:* explain it in terms of density changes.
+- Thermal radiation needs no medium and is mainly infrared; describe the effect of surface colour (black or white) and texture (dull or shiny) on emission, absorption and reflection.
+- *Supplement:* the temperature of the Earth is affected by the radiation absorbed by the Earth and the radiation emitted by the Earth; describe experiments to distinguish between good and bad emitters and between good and bad absorbers of thermal radiation.
+- Identify and explain some basic everyday applications and consequences of conduction, convection and radiation.
 
 ## Notes
-
-### Equations
-
-| Equation | Symbols and units |
-|---|---|
-| T (in K) = θ (in °C) + 273 | T thermodynamic temperature (K), θ temperature (°C) |
-| pV = constant, i.e. p₁V₁ = p₂V₂ *(Extended; fixed mass, constant temperature)* | p pressure (Pa), V volume (m³ or cm³ — same unit on both sides) |
-| c = ΔE ÷ (mΔθ) *(Extended)* | c specific heat capacity (J/(kg °C) or J/(g °C)), ΔE energy (J), m mass (kg), Δθ temperature change (°C) |
-| Useful with it: ΔE = P × t (electric heater) | P power (W), t time (s) |
-
-**Specific latent heat calculations are not in the 2026–2028 syllabus.** You must explain *qualitatively* why temperature stays constant while a substance melts or boils (latent heat).
 
 ### States and the particle model
 
 | | Solid | Liquid | Gas |
 |---|---|---|---|
 | Arrangement | regular, fixed positions (lattice) | irregular, touching | random, far apart |
-| Separation | very close | close | far apart (about 10× further) |
+| Separation | very close | close | far apart |
 | Motion | vibrate about fixed positions | move around each other (slide past) | move fast in random directions |
 | Shape/volume | fixed shape and volume | fixed volume, takes shape of container | fills container; easily compressed |
-| Forces between particles (Extended) | strong | weaker | very weak/negligible |
+| Forces between particles *(S)* | strong | weaker | very weak |
 
-**Temperature:** higher temperature → higher average kinetic energy of particles. At **absolute zero** (−273 °C = 0 K) particles have the least possible kinetic energy.
+- Changes of state: melting (s → l), boiling/evaporation (l → g), condensation (g → l), solidification/freezing (l → s).
+- **Temperature:** the higher the temperature, the faster the particles move (the greater their average kinetic energy).
+- *Supplement:* properties follow from forces and distances — solids keep their shape because strong forces hold particles in fixed positions; gases are easily compressed because particles are far apart with negligible forces between them.
 
-**Brownian motion:** smoke particles in air (seen in a smoke cell under a microscope) move in a random, jerky way, because they are hit unevenly by many fast-moving, much smaller air molecules (that are too small to see). This is evidence for the kinetic particle model.
+### Brownian motion
 
-### Gases
+Smoke particles in air (in a smoke cell under a light microscope) move in a random, jerky, zig-zag way. *Supplement explanation:* they are hit by many much smaller, fast-moving air molecules that are too small to see; at any instant there are more hits on one side than the other, so the smoke particle is pushed in a random direction. This is evidence for the kinetic particle model.
 
-- **Pressure:** gas particles collide with the container walls; each collision exerts a force; pressure = total force per unit area.
-- **Heat at constant volume:** particles move faster → hit walls more often and with more force → pressure increases.
-- **Compress at constant temperature:** same speed, but particles hit the walls more often (more collisions per unit area per second) → pressure increases.
-- *Extended:* pV = constant. Graph of p against V is a curve (inverse proportion); p against 1/V is a straight line through the origin.
+### Gas pressure (Supplement)
+
+- Gas particles collide with the container walls; each collision exerts a force; pressure = total force per unit area.
+- **Heat at constant volume:** particles move faster → hit the walls more often and with more force → pressure increases.
+- **Compress at constant temperature:** same particle speed, but the particles are closer together, so they hit each unit area of wall more often → pressure increases. Expanding the gas does the opposite.
 
 ### Thermal expansion
 
-- Expansion increases from solid to liquid to gas (gases expand most). *Extended:* in solids particles are held strongly and only vibrate slightly further apart; in liquids the forces are weaker; in gases forces are negligible so particles move much further apart.
-- Particles do not get bigger — they move further apart.
-- Applications/consequences: gaps in railway tracks and bridges, liquid-in-glass thermometers, bimetallic strips (thermostats), overhead cables sag in summer, fitting metal tyres on wheels.
-
-### Specific heat capacity (Extended)
-
-- A temperature rise means an increase in the average kinetic energy of all the particles (internal energy rises).
-- **Experiment (solid block):** measure mass of aluminium block; insert immersion heater and thermometer (oil in hole for good contact); wrap in insulation; record start temperature; switch on heater of known power for a measured time (or use joulemeter / V and I: ΔE = IVt); record maximum temperature reached. c = ΔE ÷ (mΔθ). For a liquid: water in an insulated beaker, stir.
-- Calculated c is usually **too high** because some energy is transferred to the surroundings, so Δθ is smaller than it should be.
+- At constant pressure, gases expand most, liquids less, solids least. Particles do not get bigger — they move further apart (they vibrate or move more).
+- *Supplement — applications and consequences:* gaps in railway tracks and bridges (expansion joints); overhead cables sag in summer; liquid-in-glass thermometers; bimetallic strips in thermostats and fire alarms; fitting a metal tyre or lid (heat it so it expands, then it grips as it cools); cracking of thick glass when hot water is poured in.
 
 ### Melting, boiling and evaporation
 
-- Melting and boiling need energy input but the **temperature stays constant**: the energy breaks/weakens the forces between particles (increases their separation) rather than increasing kinetic energy. Water: melts at 0 °C, boils at 100 °C (at standard atmospheric pressure).
-- Condensation (gas → liquid) and solidification (liquid → solid): particles lose energy, move closer, forces pull them together; energy is released.
-- **Evaporation:** the more energetic particles escape from the liquid surface; the remaining particles have a lower average kinetic energy, so the liquid cools.
-- *Extended — boiling vs evaporation:* evaporation happens at any temperature, only at the surface; boiling happens at one temperature (boiling point), throughout the liquid (bubbles form).
-- *Extended — faster evaporation with:* higher temperature, larger surface area, more air movement (removes vapour above the surface, so escaped particles don't return).
-- *Extended:* an object in contact with an evaporating liquid (sweat on skin) cools because energy is transferred from the object to the liquid to replace energy taken away by escaping particles.
+- Water melts at **0 °C** and boils at **100 °C** at standard atmospheric pressure.
+- Melting and boiling need energy input but the **temperature stays constant**: the energy is used to overcome the forces between particles (separating them), not to make them move faster.
+- Condensation and solidification: particles lose energy, slow down, and the forces pull them closer together; energy is released to the surroundings.
+- **Evaporation:** the more energetic particles escape from the liquid surface; the particles left behind have a lower average kinetic energy, so the liquid cools.
+- *Supplement — boiling vs evaporation:* evaporation happens at any temperature and only at the surface; boiling happens only at the boiling point and throughout the liquid (bubbles of vapour form).
+- *Supplement — faster evaporation with:* higher temperature (more particles have enough energy to escape), larger surface area (more particles at the surface), more air movement (vapour is carried away so fewer particles return).
 
 ### Conduction, convection, radiation
 
-- **Conduction:** good conductors are metals; poor conductors (insulators): plastic, wood, air, glass. *Extended:* in all solids, vibrating particles pass vibrations to neighbours (lattice vibrations); in metals, also free (delocalised) electrons move and transfer energy quickly. Gases and most liquids conduct badly: particles are far apart, so collisions transferring energy are infrequent.
-- **Convection:** liquids and gases only. Heated fluid expands, its density decreases, it rises; cooler, denser fluid sinks to replace it → convection current. Demo: potassium permanganate crystal in water heated at one side; smoke above a candle.
-- **Radiation:** thermal radiation is infrared; all objects emit it; needs no medium (travels through vacuum).
-  - Dull black surfaces are the best emitters and absorbers; shiny white/silver surfaces are the worst emitters and absorbers (best reflectors).
-  - *Extended:* rate of emission increases with higher surface temperature and larger surface area.
-  - *Extended:* an object stays at constant temperature when it absorbs and emits energy at the same rate; if it absorbs faster it warms up, if it emits faster it cools. Earth's temperature depends on this balance: greenhouse gases absorb infrared emitted by the Earth's surface, reducing the rate at which energy is lost to space, so Earth warms.
-- Applications: pans with metal base and plastic handle; heater near floor (convection current heats room); fridge freezing compartment at the top; vacuum flask (vacuum stops conduction and convection, silvered walls reduce radiation, stopper reduces convection/evaporation). *Extended:* car radiator (coolant conducts energy from engine, thin fins with large surface area, air flow by convection/fan, radiation); fire (radiation from flames, convection carries hot gases up chimney, conduction through grate).
+- **Conduction:** good conductors are metals; bad conductors (insulators): plastic, wood, glass, air, fibreglass. *Supplement:* in all solids, hotter particles vibrate more and pass the vibrations on to neighbours (lattice vibrations); in metals, delocalised (mobile) electrons also move through the metal and carry energy quickly, which is why metals are the best conductors.
+- **Convection:** in liquids and gases. Heated fluid expands, its density decreases, so it rises; cooler, denser fluid sinks to replace it → a convection current. *Supplement:* always explain in terms of **density**.
+- **Radiation:** thermal radiation is mainly infrared; it needs no medium (travels through a vacuum, e.g. from the Sun).
+  - Dull black surfaces are the best emitters and the best absorbers; shiny white/silver surfaces are the worst emitters and absorbers (best reflectors).
+  - *Supplement — Earth's temperature:* the Earth absorbs radiation from the Sun and emits infrared radiation into space. If it absorbs energy faster than it emits it, its temperature rises; if absorption and emission rates are equal, its temperature stays constant.
+- **Experiments (Supplement):**
+  - *Emitters:* a Leslie cube (metal cube with dull black, shiny silver, white and dull grey faces) filled with hot water; place an infrared detector/thermometer the same distance from each face; the dull black face gives the highest reading.
+  - *Absorbers:* two identical metal plates, one dull black and one shiny, the same distance either side of a radiant heater; a thermometer (or a coin stuck on with wax) on the back of each; the black plate's temperature rises faster (its wax melts first).
+- **Everyday applications:** saucepans with metal base and plastic handle; a heater near the floor (convection current heats the room); the freezer compartment at the top of a fridge; double glazing and loft insulation (trapped air is a poor conductor and cannot form convection currents); vacuum flask (vacuum stops conduction and convection, silvered walls reduce radiation); white clothes and buildings in hot countries; black solar thermal collectors.
 
 ### Paper 6 skills for this topic
 
-- Read thermometers to the nearest 0.5 °C, at eye level (avoid parallax); stir before reading; wait for the reading to stop rising.
-- **Cooling experiments** (e.g. effect of insulation, lid, surface colour, volume of water): control starting temperature, volume of water, room conditions; take readings at regular intervals (e.g. every 30 s); plot temperature against time; compare temperature drop in the same time interval.
-- Typical evaluation: start temperatures not identical; thermometer takes time to respond; draughts; suggest repeats, same starting temperature, lids.
-- Safety: hot water — handle with care, use a beaker on a heatproof mat.
+- Read thermometers to the nearest half division (e.g. 0.5 °C), at eye level (avoid parallax); stir before reading; wait for the reading to stop changing.
+- **Cooling experiments** (effect of insulation, a lid, surface colour, volume of water): control starting temperature, volume of water, container, room conditions; take readings at regular intervals (e.g. every 30 s); plot temperature against time; compare the temperature drop in the same time interval.
+- Typical evaluation: start temperatures not identical; thermometer takes time to respond; draughts. Improvements: repeat, same starting temperature, lids, more readings.
+- Safety: hot water — handle with care, beaker on a heatproof mat.
 
 ## Key terms and definitions
 
 | Term | Definition |
 |---|---|
-| Absolute zero | The lowest possible temperature, −273 °C (0 K), where particles have least kinetic energy |
-| Specific heat capacity | The energy required per unit mass per unit temperature increase |
-| Internal energy | The total energy of the particles (kinetic and potential) in an object |
-| Evaporation | Escape of more-energetic particles from the surface of a liquid |
-| Melting point / boiling point | Temperature at which a solid melts / liquid boils (at constant temperature while it changes state) |
-| Conduction | Transfer of thermal energy through a material by particle vibrations (and free electrons in metals) without the material moving |
-| Convection | Transfer of thermal energy in a fluid by movement of the fluid itself, caused by density changes |
-| Thermal radiation | Infrared radiation emitted by all objects; needs no medium |
+| Evaporation | Escape of the more energetic particles from the surface of a liquid |
+| Boiling | Change from liquid to gas at the boiling point, throughout the liquid |
+| Melting point / boiling point | Temperature at which a solid melts / a liquid boils; the temperature stays constant while the state changes |
+| Conduction | Transfer of thermal energy through a material by particle (lattice) vibrations, and by delocalised electrons in metals, without the material moving |
+| Convection | Transfer of thermal energy in a liquid or gas by movement of the fluid itself, caused by density changes |
+| Thermal radiation | Energy transfer mainly by infrared radiation; needs no medium |
+| Brownian motion *(S)* | Random motion of microscopic particles in a fluid caused by collisions with the much smaller, fast-moving particles of the fluid |
+| Gas pressure *(S)* | Force per unit area exerted by gas particles colliding with a surface |
 
 ## Worked examples
 
-**1.** A 50 W heater is placed in a 1.0 kg aluminium block for 300 s. The temperature rises from 20.0 °C to 36.5 °C. (a) Calculate the specific heat capacity of aluminium. [3] (b) Suggest why this value is higher than the accepted value. [1]
-
-- (a) ΔE = P × t = 50 × 300 = 15 000 J (C1); Δθ = 16.5 °C (C1); c = 15 000 ÷ (1.0 × 16.5) = **910 J/(kg °C)** (A1)
-- (b) Some energy is transferred to the surroundings, so the temperature rise is less than it would be. (B1)
-
-**2.** A fixed mass of gas has a volume of 300 cm³ at a pressure of 100 kPa. It is compressed at constant temperature to 75 cm³. Calculate the new pressure. [2]
-
-- p₁V₁ = p₂V₂: 100 × 300 = p₂ × 75 (C1)
-- p₂ = **400 kPa** (A1)
-
-**3.** Using ideas about particles, explain why the pressure of a gas in a sealed rigid container increases when it is heated. [3]
+**1.** Using ideas about particles, explain why the pressure of a gas in a sealed rigid container increases when it is heated. [3]
 
 - Particles gain kinetic energy / move faster. (B1)
 - They collide with the walls more frequently. (B1)
-- Each collision exerts a larger force, so force per unit area (pressure) increases. (B1)
+- Each collision exerts a larger force, so the force per unit area (pressure) increases. (B1)
 
-**4.** Explain why water in a kettle stays at 100 °C while it boils, even though the heater is still on. [2]
+**2.** Smoke particles in a smoke cell are seen through a microscope moving in a random, jerky way. Explain this observation. [3]
 
-- The energy supplied is used to separate the particles / overcome forces of attraction between molecules. (B1)
+- Air molecules move fast and randomly. (B1)
+- They collide with the (much larger) smoke particles. (B1)
+- Collisions on different sides are unequal at any instant, so the smoke particle is pushed in changing, random directions. (B1)
+
+**3.** Explain why water in a kettle stays at 100 °C while it boils, even though the heater is still on. [2]
+
+- The energy supplied is used to overcome the forces between the water particles / separate the particles. (B1)
 - It does not increase the kinetic energy of the particles, so the temperature does not rise. (B1)
+
+**4.** Describe an experiment to show that a dull black surface is a better emitter of thermal radiation than a shiny silver surface. [4]
+
+- Use a container (Leslie cube) with one dull black face and one shiny silver face, filled with hot water. (B1)
+- Place an infrared detector / thermometer with a blackened bulb at the same distance from each face. (B1)
+- Control: same water temperature for both faces / same distance / same time. (B1)
+- The detector facing the black surface gives the higher reading. (B1)
 
 ## Common mistakes
 
 - Saying particles "expand" or "get bigger" when heated.
 - Explaining gas pressure without mentioning collisions with the walls, or saying collisions between particles cause pressure.
-- Forgetting to add/subtract 273 consistently, or using °C in pV calculations involving temperature changes (pV = constant only applies at constant temperature).
 - Calling the particles in Brownian motion "smoke molecules" — they are smoke particles; the air molecules hit them.
 - Writing "heat rises" — hot fluid rises because it is less dense.
-- Saying shiny surfaces "reflect heat" in a conduction question, or saying radiation needs a medium.
-- Confusing evaporation and boiling; not mentioning that the **more energetic** particles escape.
+- Saying radiation needs a medium, or that shiny surfaces are good emitters.
+- Confusing evaporation and boiling; not saying that the **more energetic** particles escape.
+- Writing an answer about specific heat capacity or kelvin — these are not in 0654 and earn nothing unless the question gives you what you need.
 
 ## Practice questions
 
-1. Convert (a) 27 °C to kelvin, (b) 400 K to °C. [2]
-2. Calculate the energy needed to heat 0.50 kg of water from 20 °C to 80 °C (c = 4200 J/(kg °C)). How long does a 2.0 kW kettle take to supply this energy? [4]
-3. Air in a syringe has volume 60 cm³ at 1.0 × 10⁵ Pa. The plunger is pushed in slowly until the pressure is 1.5 × 10⁵ Pa. Calculate the new volume. [2]
-4. State two differences between boiling and evaporation. [2]
-5. Explain why the heating element of an electric kettle is at the bottom. [3]
-6. Describe how the motion of smoke particles in air provides evidence for the kinetic particle model. [3]
-7. Two identical cans, one dull black and one shiny silver, contain equal volumes of hot water at the same temperature. Predict which cools faster and explain. [2]
+1. State two differences between boiling and evaporation. [2]
+2. Wet clothes dry faster on a warm, windy day. Explain why, using ideas about particles. [3]
+3. Explain why the heating element of an electric kettle is at the bottom. [3]
+4. Air in a sealed syringe is pushed slowly into a smaller volume at constant temperature. Explain, in terms of particles, why its pressure increases. [3]
+5. Two identical cans, one dull black and one shiny silver, contain equal volumes of hot water at the same temperature. Predict which cools faster and explain. [2]
+6. Explain why gaps are left between sections of railway track. [2]
+7. Explain why metals are better thermal conductors than plastics. [2]
+8. State what must be true about the radiation absorbed and emitted by the Earth for its average temperature to stay constant. [1]
 
 <details><summary>Answers</summary>
 
-1. (a) **300 K** (b) **127 °C**
-2. ΔE = 0.50 × 4200 × 60 = **126 000 J**; t = 126 000 ÷ 2000 = **63 s**.
-3. V₂ = (1.0 × 10⁵ × 60) ÷ 1.5 × 10⁵ = **40 cm³**.
-4. Evaporation at any temperature, boiling only at the boiling point; evaporation only at the surface, boiling throughout the liquid (bubbles).
-5. Water near the element is heated, expands, becomes less dense and rises; cooler, denser water sinks to the element; a convection current heats all the water.
-6. Particles move randomly / jerkily; caused by collisions with fast-moving (invisible) air molecules; unequal numbers of collisions on different sides.
-7. **Dull black** cools faster: it is a better emitter of infrared radiation.
+1. Evaporation at any temperature, boiling only at the boiling point; evaporation only at the surface, boiling throughout the liquid (bubbles).
+2. Higher temperature: more water particles have enough energy to escape from the surface; wind: moves water vapour away from the surface so fewer particles return; so the rate of evaporation is greater.
+3. Water near the element is heated, expands, becomes less dense and rises; cooler, denser water sinks to the element; a convection current heats all the water.
+4. Same number of particles in a smaller volume (closer together); they hit the walls more often / more collisions per unit area per second; greater force per unit area, so greater pressure.
+5. **Dull black** cools faster: it is a better emitter of (infrared) radiation.
+6. In hot weather the rails expand; without gaps they would push against each other and buckle.
+7. Both conduct by lattice vibrations, but metals also have delocalised (mobile) electrons that move through the metal and transfer energy quickly.
+8. The rate of absorbing radiation equals the rate of emitting radiation.
 
 </details>
 
 ## Plan for this hour
 
-15 min read Notes (it is a long topic — skim states and expansion, focus on gases, c, evaporation) · 10 min make particle-explanation flashcards (gas pressure, evaporation, conduction) · 25 min worked examples + practice · 10 min mark, log errors.
+5 min read the box at the top · 10 min read Notes · 10 min particle-explanation flashcards (gas pressure, Brownian motion, evaporation, conduction, convection) · 25 min worked examples + practice · 10 min mark, log errors.

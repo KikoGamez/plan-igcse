@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-11",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which conditions are both needed for iron to rust?",
+      "options": [
+        "oxygen and water",
+        "oxygen and carbon dioxide",
+        "water and salt",
+        "water and heat"
+      ],
+      "answer": 0,
+      "why": "Iron only rusts when both oxygen (air) and water are present; barrier methods exclude both."
+    },
+    {
+      "type": "mcq",
+      "q": "Why does zinc protect steel from rusting even when the zinc coating is scratched?",
+      "options": [
+        "Zinc is less reactive than iron so it does not corrode",
+        "Zinc forms an alloy with iron",
+        "Zinc is more reactive, so it loses electrons more readily than iron",
+        "Zinc gains electrons from the iron"
+      ],
+      "answer": 2,
+      "why": "Sacrificial protection: zinc is oxidised (Zn → Zn²⁺ + 2e⁻) instead of the iron."
+    },
+    {
+      "type": "mcq",
+      "q": "Which pollutant is matched with its source?",
+      "options": [
+        "carbon monoxide: incomplete combustion of carbon-containing fuels",
+        "methane: complete combustion of fossil fuels",
+        "oxides of nitrogen: decomposition of vegetation",
+        "sulfur dioxide: digestion in animals"
+      ],
+      "answer": 0,
+      "why": "CO comes from incomplete combustion; methane from vegetation and animal digestion; NOₓ from car engines; SO₂ from burning fuels containing sulfur."
+    },
+    {
+      "type": "short",
+      "q": "Explain, in terms of structure, why an alloy is harder and stronger than the pure metal.",
+      "model": "The alloy contains atoms of different sizes, which disrupt the regular layers, so the layers can no longer slide over each other.",
+      "points": [
+        "different sized atoms",
+        "layers can no longer slide over each other"
+      ]
+    }
+  ]
+}

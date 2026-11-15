@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Revenue is $400,000 and gross profit is $100,000. What is the gross profit margin?",
+      "options": [
+        "4%",
+        "75%",
+        "25%",
+        "400%"
+      ],
+      "answer": 2,
+      "why": "Gross profit margin = 100,000 ÷ 400,000 × 100 = 25%."
+    },
+    {
+      "type": "mcq",
+      "q": "Current assets $60,000 (including inventories $20,000); current liabilities $40,000. What is the acid test ratio?",
+      "options": [
+        "1.0",
+        "1.5",
+        "2.0",
+        "0.5"
+      ],
+      "answer": 0,
+      "why": "Acid test = (60,000 − 20,000) ÷ 40,000 = 1.0; 1.5 is the current ratio."
+    },
+    {
+      "type": "mcq",
+      "q": "Which statement shows a business's assets and liabilities at one point in time?",
+      "options": [
+        "Income statement",
+        "Cash-flow forecast",
+        "Marketing budget",
+        "Statement of financial position"
+      ],
+      "answer": 3,
+      "why": "The income statement covers a period; the statement of financial position is a snapshot."
+    },
+    {
+      "type": "short",
+      "q": "Define retained profit.",
+      "model": "The profit left after tax and dividends have been paid, which is kept in the business.",
+      "points": [
+        "after tax and dividends",
+        "kept / reinvested in the business"
+      ]
+    }
+  ]
+}

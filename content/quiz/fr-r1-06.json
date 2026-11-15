@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Complete: L'année prochaine, je vais ___ Canada.",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "why": "Masculine countries take au; feminine take en; plural take aux."
+    },
+    {
+      "type": "mcq",
+      "q": "What does « le car » mean?",
+      "options": [
+        "car",
+        "coach",
+        "train",
+        "lorry"
+      ],
+      "answer": 1,
+      "why": "False friend: le car = coach; a car is la voiture."
+    },
+    {
+      "type": "mcq",
+      "q": "How do you say 'My mother is a nurse'?",
+      "options": [
+        "Ma mère est infirmière.",
+        "Ma mère est une infirmière.",
+        "Ma mère est infirmier.",
+        "Ma mère est la infirmière."
+      ],
+      "answer": 0,
+      "why": "No article with a job after être, and the feminine form is infirmière."
+    },
+    {
+      "type": "short",
+      "q": "Give the French for (a) unemployment and (b) work experience / placement.",
+      "model": "(a) le chômage (b) le stage (en entreprise)",
+      "points": [
+        "le chômage",
+        "le stage"
+      ]
+    }
+  ]
+}

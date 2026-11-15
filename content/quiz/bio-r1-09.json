@@ -1,0 +1,50 @@
+{
+  "id": "bio-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which describes homeostasis?",
+      "options": [
+        "the maintenance of a constant internal environment",
+        "the removal of waste products of metabolism",
+        "the maintenance of a constant external environment",
+        "the conversion of glucose to glycogen"
+      ],
+      "answer": 0,
+      "why": "Homeostasis is the maintenance of a constant internal environment, by negative feedback."
+    },
+    {
+      "type": "mcq",
+      "q": "Blood glucose concentration rises after a meal. What happens next?",
+      "options": [
+        "The pancreas secretes glucagon.",
+        "The liver converts glycogen into glucose.",
+        "The pancreas secretes insulin; the liver converts glucose into glycogen.",
+        "The liver secretes insulin into the blood."
+      ],
+      "answer": 2,
+      "why": "Insulin from the pancreas causes the liver to store glucose as glycogen, lowering blood glucose."
+    },
+    {
+      "type": "mcq",
+      "q": "On a hot day, what happens in the skin?",
+      "options": [
+        "Arterioles supplying skin capillaries constrict.",
+        "Arterioles supplying skin capillaries dilate, so more heat is lost.",
+        "Blood vessels move closer to the skin surface.",
+        "Hair erector muscles contract."
+      ],
+      "answer": 1,
+      "why": "Vasodilation of arterioles sends more blood through surface capillaries; vessels do not move."
+    },
+    {
+      "type": "short",
+      "q": "Explain how sweating cools the body.",
+      "model": "Water in sweat evaporates from the skin surface, transferring heat energy away from the skin.",
+      "points": [
+        "water / sweat evaporates",
+        "heat energy transferred away from the skin"
+      ]
+    }
+  ]
+}

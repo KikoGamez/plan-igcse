@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Solve x² − 5x − 14 = 0.",
+      "options": [
+        "x = −7 or x = 2",
+        "x = 7 or x = −2",
+        "x = 7 or x = 2",
+        "x = 14 or x = −1"
+      ],
+      "answer": 1,
+      "why": "(x − 7)(x + 2) = 0, so x = 7 or x = −2; take care with the signs."
+    },
+    {
+      "type": "mcq",
+      "q": "Write x² + 6x + 2 in the form (x + p)² + q.",
+      "options": [
+        "(x + 3)² + 2",
+        "(x + 6)² − 34",
+        "(x + 3)² − 7",
+        "(x + 3)² + 11"
+      ],
+      "answer": 2,
+      "why": "Halve 6 to get (x + 3)², which gives 9, so subtract 9: 2 − 9 = −7."
+    },
+    {
+      "type": "mcq",
+      "q": "Solve x² = 3x.",
+      "options": [
+        "x = 0 or x = 3",
+        "x = 3",
+        "x = √3",
+        "x = 0 or x = −3"
+      ],
+      "answer": 0,
+      "why": "x² − 3x = 0 gives x(x − 3) = 0; dividing by x loses x = 0."
+    },
+    {
+      "type": "short",
+      "q": "Write x² − 8x + 21 in the form (x − p)² + q and write down the coordinates of the minimum point of y = x² − 8x + 21.",
+      "model": "(x − 4)² + 5; minimum point (4, 5)",
+      "points": [
+        "(x − 4)² + 5",
+        "(4, 5)"
+      ]
+    }
+  ]
+}

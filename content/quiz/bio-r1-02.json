@@ -1,0 +1,51 @@
+{
+  "id": "bio-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Potato cylinders are left in a concentrated sugar solution for an hour. What happens?",
+      "options": [
+        "They gain mass and the cells become turgid.",
+        "They lose mass and the cells become flaccid.",
+        "They lose mass and the cells burst.",
+        "Their mass does not change."
+      ],
+      "answer": 1,
+      "why": "Water leaves by osmosis to the lower water potential outside; the wall stops cells bursting."
+    },
+    {
+      "type": "mcq",
+      "q": "Root hair cells take in nitrate ions from soil where the concentration is lower than inside the cell. Which process is this?",
+      "options": [
+        "diffusion",
+        "osmosis",
+        "transpiration",
+        "active transport"
+      ],
+      "answer": 3,
+      "why": "Moving ions against a concentration gradient needs active transport, using energy from respiration."
+    },
+    {
+      "type": "mcq",
+      "q": "Which food test must be heated to give a positive result?",
+      "options": [
+        "biuret test",
+        "iodine test",
+        "Benedict's test",
+        "ethanol emulsion test"
+      ],
+      "answer": 2,
+      "why": "Benedict's solution is heated with the sample; reducing sugar gives a brick-red colour."
+    },
+    {
+      "type": "short",
+      "q": "Describe osmosis.",
+      "model": "The net movement of water molecules from a region of higher water potential (dilute solution) to a region of lower water potential (concentrated solution), through a partially permeable membrane.",
+      "points": [
+        "net movement of water molecules",
+        "higher to lower water potential (dilute to concentrated)",
+        "through a partially permeable membrane"
+      ]
+    }
+  ]
+}

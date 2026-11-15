@@ -1,0 +1,51 @@
+{
+  "id": "math-r1-18",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Find the magnitude of the column vector (5 over −12).",
+      "options": [
+        "7",
+        "17",
+        "13",
+        "−13"
+      ],
+      "answer": 2,
+      "why": "√(5² + (−12)²) = √169 = 13; a magnitude is never negative."
+    },
+    {
+      "type": "mcq",
+      "q": "OA = a and OB = b. Find AB.",
+      "options": [
+        "a + b",
+        "a − b",
+        "−a − b",
+        "b − a"
+      ],
+      "answer": 3,
+      "why": "AB = AO + OB = −a + b."
+    },
+    {
+      "type": "mcq",
+      "q": "OA = a, OB = b and P lies on AB with AP : PB = 1 : 3. Find AP.",
+      "options": [
+        "⅓(b − a)",
+        "¼(b − a)",
+        "¼(a − b)",
+        "¾(b − a)"
+      ],
+      "answer": 1,
+      "why": "AP is 1 part out of 1 + 3 = 4, so AP = ¼AB = ¼(b − a)."
+    },
+    {
+      "type": "short",
+      "q": "PQ = 2a − b and PR = 6a − 3b. What does this show about P, Q and R? Give a reason.",
+      "model": "PR = 3(2a − b) = 3PQ, so PQ and PR are parallel and share the point P, so P, Q and R are collinear",
+      "points": [
+        "PR = 3PQ",
+        "parallel and common point P",
+        "collinear"
+      ]
+    }
+  ]
+}

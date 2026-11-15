@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Complete: Mes cousins ___ (faire) du ski en hiver.",
+      "options": [
+        "fait",
+        "faisent",
+        "font",
+        "vont"
+      ],
+      "answer": 2,
+      "why": "Faire is irregular: ils/elles font."
+    },
+    {
+      "type": "mcq",
+      "q": "How do you say 'I am 15' in French?",
+      "options": [
+        "J'ai 15 ans.",
+        "Je suis 15 ans.",
+        "Je suis quinze.",
+        "J'ai 15 années."
+      ],
+      "answer": 0,
+      "why": "Age uses avoir + ans."
+    },
+    {
+      "type": "mcq",
+      "q": "Make negative: « J'ai un chien. »",
+      "options": [
+        "Je n'ai pas un chien.",
+        "Je ne pas ai de chien.",
+        "Je n'ai un chien pas.",
+        "Je n'ai pas de chien."
+      ],
+      "answer": 3,
+      "why": "ne… pas wraps the verb, and un/une/des become de after a negative."
+    },
+    {
+      "type": "short",
+      "q": "Translate into French: I have been learning French for five years.",
+      "model": "J'apprends le français depuis cinq ans.",
+      "points": [
+        "present tense: j'apprends (not a past tense)",
+        "depuis cinq ans"
+      ]
+    }
+  ]
+}

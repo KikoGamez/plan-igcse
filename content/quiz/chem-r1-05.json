@@ -1,0 +1,51 @@
+{
+  "id": "chem-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "20 cm³ of hydrogen is exploded with 20 cm³ of oxygen. 2H₂ + O₂ → 2H₂O. What gas remains at r.t.p.?",
+      "options": [
+        "10 cm³ of hydrogen",
+        "10 cm³ of oxygen",
+        "no gas",
+        "20 cm³ of oxygen"
+      ],
+      "answer": 1,
+      "why": "20 cm³ H₂ needs only 10 cm³ O₂, so hydrogen is limiting and 10 cm³ O₂ is left over."
+    },
+    {
+      "type": "mcq",
+      "q": "Which describes a hydrated substance?",
+      "options": [
+        "a substance dissolved in water",
+        "a substance containing no water",
+        "a substance chemically combined with water",
+        "a substance that absorbs water from the air"
+      ],
+      "answer": 2,
+      "why": "This is the syllabus definition; anhydrous means containing no water."
+    },
+    {
+      "type": "mcq",
+      "q": "2.8 g of iron is heated with 2.0 g of sulfur. Fe + S → FeS. What mass of FeS forms? (Ar: Fe = 56, S = 32)",
+      "options": [
+        "2.2 g",
+        "4.8 g",
+        "5.5 g",
+        "4.4 g"
+      ],
+      "answer": 3,
+      "why": "n(Fe) = 0.050, n(S) = 0.0625, so iron is limiting: 0.050 × 88 = 4.4 g."
+    },
+    {
+      "type": "short",
+      "q": "4.8 g of magnesium is added to 0.30 mol of hydrochloric acid. Mg + 2HCl → MgCl₂ + H₂. Identify the limiting reactant and calculate the volume of hydrogen at r.t.p. (Ar Mg = 24)",
+      "model": "n(Mg) = 4.8 ÷ 24 = 0.20 mol, which needs 0.40 mol HCl; only 0.30 mol, so HCl is limiting. n(H₂) = 0.30 ÷ 2 = 0.15 mol; V = 0.15 × 24 = 3.6 dm³",
+      "points": [
+        "hydrochloric acid is limiting (with reason)",
+        "0.15 mol H₂",
+        "3.6 dm³ (3600 cm³)"
+      ]
+    }
+  ]
+}

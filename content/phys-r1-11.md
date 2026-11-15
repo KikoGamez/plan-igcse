@@ -1,14 +1,19 @@
 # Electromagnetic induction and transformers
 
-> **In the exam:** Paper 2: 2–4 items (factors affecting induced e.m.f., generator graphs, transformer turns ratio, why high voltage transmission). Paper 4: transformers appear very often (6–9 marks: turns-ratio calculation, IpVp = IsVs, P = I²R power loss, explaining how a transformer works); induction or the a.c. generator is the alternative. Paper 6: rarely a whole question, but you may need to describe an induction experiment.
+> **In the exam:** In Co-ordinated Sciences 0654 this whole topic (P4.5.1, P4.5.2, P4.5.6) is **Supplement**, so it is only tested on the Extended papers. Physics questions appear alongside Biology and Chemistry. Paper 2 (Multiple Choice, 45 min, 40 questions across all three sciences): typically 1–2 items here (factors affecting induced e.m.f., generator e.m.f.–time graphs, turns ratio, why transmission is at high voltage). Paper 4 (Theory, 2 h, 120 marks): a common Physics part of 4–8 marks (Vp ÷ Vs = Np ÷ Ns, IpVp = IsVs, P = I²R power loss, the a.c. generator and its graph). Paper 6: rarely tested directly.
 
 ## What you need to know
 
-- A conductor moving across a magnetic field, or a changing magnetic field linking a conductor, can induce an e.m.f. in the conductor; experiment to show this; factors affecting the size of the induced e.m.f.
-- *Extended:* the induced e.m.f. opposes the change causing it; relative directions of force, field and induced current.
-- A simple a.c. generator (rotating coil or rotating magnet), slip rings and brushes; graphs of e.m.f. against time related to coil position (peaks, troughs, zeros).
-- Transformer construction with a soft-iron core; primary, secondary, step-up, step-down; Vp/Vs = Np/Ns; use of transformers in high-voltage transmission; advantages of high-voltage transmission.
-- *Extended:* principle of operation of a transformer; IpVp = IsVs for 100% efficiency; P = I²R to explain why power losses in cables are smaller at higher voltage.
+Syllabus sections P4.5.1, P4.5.2 and P4.5.6 (all *Supplement*).
+
+- A conductor moving across a magnetic field, or a changing magnetic field linking with a conductor, can induce an e.m.f. across the conductor.
+- State the factors affecting the magnitude of an induced e.m.f.
+- Describe a simple a.c. generator (rotating coil) and the use of slip rings and brushes where needed; sketch and interpret graphs of e.m.f. against time for simple a.c. generators.
+- Describe the construction of a basic transformer with a soft-iron core, as used for voltage transformations; use the terms primary, secondary, step-up and step-down.
+- Recall and use Vp ÷ Vs = Np ÷ Ns and, for a 100% efficient transformer, IpVp = IsVs.
+- Describe the use of transformers in high-voltage transmission of electricity; recall and use P = I²R to explain why power losses in cables are smaller when the voltage is greater.
+
+**Not in 0654** (they are in Physics 0625): the direction of the induced e.m.f. (Lenz's law, right-hand dynamo rule) and a detailed "principle of operation" of the transformer. A short how-it-works summary is included below because it helps you describe construction and use, but the marks are for the objectives above.
 
 ## Notes
 
@@ -17,66 +22,53 @@
 | Equation | Symbols and units |
 |---|---|
 | Vp ÷ Vs = Np ÷ Ns | Vp, Vs primary and secondary voltages (V); Np, Ns numbers of turns (no unit) |
-| IpVp = IsVs *(Extended; 100% efficient transformer)* | Ip, Is primary and secondary currents (A) |
-| P = I²R *(Extended)* | P power lost as heat in cables (W), I current in cables (A), R resistance of cables (Ω) |
+| IpVp = IsVs (100% efficient transformer) | Ip, Is primary and secondary currents (A) |
+| P = I²R | P power lost as heat in the cables (W), I current in the cables (A), R resistance of the cables (Ω) |
 | P = IV | power transmitted (W) — used to find the current in the cables |
 
 ### Electromagnetic induction
 
-- Moving a wire across a magnetic field (cutting field lines), or moving a magnet into/out of a coil, induces an e.m.f. If the circuit is complete, an induced current flows (shown on a sensitive centre-zero ammeter/galvanometer).
-- **No relative movement → no e.m.f.** (magnet held still inside the coil gives zero reading). Moving the wire parallel to the field lines → no e.m.f.
-- **Size of induced e.m.f. increases with:** faster movement (faster rate of change of field), stronger magnet, more turns on the coil. (Also: soft-iron core in the coil.)
-- **Direction:** reverses if the direction of motion reverses or the magnet is turned round. Pushing magnet in gives one direction; pulling out gives the opposite.
-- **Experiment:** connect a coil to a sensitive centre-zero meter; push a bar magnet into the coil — needle deflects; hold still — zero; pull out — deflects the other way; faster → bigger deflection.
-
-### Direction of induced e.m.f. (Extended)
-
-- **The induced e.m.f. opposes the change causing it** (Lenz's law). Pushing a N pole into a coil: the induced current makes the near end of the coil a N pole, repelling the magnet. Pulling it out: the near end becomes a S pole, attracting it. You must do work to move the magnet — that work becomes electrical energy (conservation of energy).
-- For a straight wire moving through a field, use the right-hand rule: thu**M**b = **M**otion, **F**irst finger = **F**ield, se**C**ond finger = induced **C**urrent. (Field, motion and current are mutually at right angles.)
+- Moving a wire across a magnetic field (cutting field lines), or moving a magnet into or out of a coil, induces an e.m.f. If the circuit is complete, a current flows (seen on a sensitive centre-zero meter).
+- **No relative movement / no change in the field → no e.m.f.** (a magnet held still inside a coil gives zero). A wire moving parallel to the field lines → no e.m.f.
+- **Factors — the induced e.m.f. is larger with:** faster movement (faster rate of change of the field), a stronger magnet (field), more turns on the coil.
+- The e.m.f. reverses if the motion reverses (pushing a magnet in gives one direction; pulling it out gives the other).
 
 ### The a.c. generator
 
-- A coil rotates in a magnetic field (or a magnet rotates inside a coil). The coil cuts field lines, inducing an e.m.f. that reverses every half turn → alternating current.
-- **Slip rings and brushes:** each end of the coil is connected to its own continuous ring; carbon brushes press on the rings and connect the rotating coil to the external circuit without the wires twisting. (Not needed in a rotating-magnet generator, where the coil is fixed.)
-- **Graph of e.m.f. against time** — a sine-shaped curve:
-  - **Zero e.m.f.:** coil plane **perpendicular** to the field (vertical, with the magnet poles to the sides) — the sides move parallel to the field lines, not cutting them.
-  - **Peak (maximum) e.m.f.:** coil plane **parallel** to the field (horizontal) — sides cut field lines fastest.
-  - Peak then trough every half turn (one complete cycle per revolution).
-- **Rotating faster:** peaks become higher **and** closer together (higher frequency). More turns or a stronger magnet: higher peaks, same frequency.
+- A coil rotates in a magnetic field. Its sides cut the field lines, inducing an e.m.f. that reverses every half turn → alternating e.m.f. (a.c.).
+- **Slip rings and brushes:** each end of the coil is connected to its own complete ring; carbon brushes press on the rings and connect the rotating coil to the external circuit without the wires twisting.
+- **Graph of e.m.f. against time** — a smooth wave (sine shape):
+  - **Zero e.m.f.:** coil plane **perpendicular** to the field — the sides move parallel to the field lines, not cutting them.
+  - **Maximum e.m.f.:** coil plane **parallel** to the field — the sides cut the field lines fastest.
+  - One complete cycle (peak and trough) per revolution.
+- **Rotating faster:** peaks higher **and** closer together (higher frequency, shorter period). More turns or a stronger magnet: higher peaks, same frequency.
 
 ### The transformer
 
-- **Construction:** two coils of insulated wire (primary and secondary) wound on a laminated **soft-iron core**.
-- **Step-up:** more turns on secondary → Vs > Vp. **Step-down:** fewer turns on secondary → Vs < Vp.
-- **Principle of operation (Extended):**
-  1. Alternating current in the primary coil produces an alternating (changing) magnetic field in the core.
-  2. The soft-iron core concentrates and links this changing field to the secondary coil.
-  3. The changing magnetic field in the secondary coil induces an alternating e.m.f. across it.
-- Transformers only work with **a.c.** — a steady d.c. gives an unchanging field, so no e.m.f. is induced in the secondary (except momentarily when switching).
-- Soft iron is used because it is easily magnetised and demagnetised as the field alternates.
-- *Extended:* for a 100% efficient transformer, power in = power out: IpVp = IsVs. Step-up voltage → current is stepped **down** by the same factor.
+- **Construction:** two coils of insulated wire, the primary (input) and the secondary (output), wound on the same **soft-iron core**.
+- **Step-up:** more turns on the secondary → Vs > Vp. **Step-down:** fewer turns on the secondary → Vs < Vp.
+- How it works (background): an alternating current in the primary makes an alternating magnetic field in the soft-iron core; this changing field passes through the secondary and induces an alternating e.m.f. in it. Soft iron is used because it is easily magnetised and demagnetised.
+- For a 100% efficient transformer, power in = power out: IpVp = IsVs. If the voltage is stepped up, the current is stepped **down** by the same factor.
 
 ### High-voltage transmission
 
-- Power stations generate at about 25 kV; a step-up transformer raises it to very high voltages (e.g. 132 kV–400 kV) for transmission through the national grid; step-down transformers reduce it for homes (about 230 V).
-- **Advantages (all students):** less energy/power lost in the cables; thinner (cheaper, lighter) cables can be used; pylons can be further apart.
-- *Extended explanation:* for a given power P = IV, a higher voltage means a smaller current. Power lost as heat in the cables = I²R. Halving the current reduces the power loss to one quarter.
+- Power stations generate at about 25 kV; a step-up transformer raises this to a very high voltage (e.g. 132 kV–400 kV) for the transmission cables; step-down transformers reduce it for homes (about 230 V).
+- **Why:** for a given power P = IV, a higher voltage means a smaller current. The power lost as heat in the cables is P = I²R, so a smaller current means much less power lost. Halving the current reduces the loss to one quarter.
+- So less energy is wasted, and thinner (cheaper, lighter) cables can be used.
 
 ### Paper 6 skills for this topic
 
-- Describe the magnet-and-coil experiment: what to vary (speed, number of turns, magnet strength), what to keep constant, what to observe (maximum deflection of a centre-zero meter).
-- Transformer data tables: check whether Vs/Vp equals Ns/Np within ±10%; real transformers give slightly less output than predicted (energy losses — heating of coils and core).
+- Transformer data tables: check whether Vs ÷ Vp equals Ns ÷ Np within ±10%; real transformers give slightly less output than predicted (energy is wasted heating the coils and core).
 
 ## Key terms and definitions
 
 | Term | Definition |
 |---|---|
-| Electromagnetic induction | Production of an e.m.f. in a conductor when it moves across a magnetic field or when the magnetic field linking it changes |
-| Lenz's law *(Ext)* | The direction of the induced e.m.f. (current) opposes the change causing it |
-| Slip rings | Rings on an a.c. generator coil that, with brushes, keep a continuous connection to the external circuit as the coil rotates |
-| Step-up transformer | Transformer with more turns on the secondary coil than the primary, so output voltage > input voltage |
-| Step-down transformer | Transformer with fewer turns on the secondary coil, so output voltage < input voltage |
+| Electromagnetic induction | Production of an e.m.f. across a conductor when it moves across a magnetic field or when the magnetic field linking it changes |
+| Slip rings and brushes | Rings on the coil of an a.c. generator that, with brushes pressing on them, keep a continuous connection to the external circuit as the coil rotates |
 | Primary / secondary coil | Input coil / output coil of a transformer |
+| Step-up transformer | Transformer with more turns on the secondary coil than the primary, so output voltage > input voltage |
+| Step-down transformer | Transformer with fewer turns on the secondary coil than the primary, so output voltage < input voltage |
 
 ## Worked examples
 
@@ -96,41 +88,40 @@
 - The sides of the coil are moving parallel to the field lines (B1)
 - so they are not cutting field lines, and no e.m.f. is induced. (B1)
 
-**4.** Explain why a transformer does not work with a steady d.c. supply. [3]
+**4.** The coil of an a.c. generator is made to rotate twice as fast. Describe how the graph of e.m.f. against time changes. [2]
 
-- A steady direct current produces a constant magnetic field in the core. (B1)
-- The field linking the secondary does not change. (B1)
-- An e.m.f. is only induced by a changing field, so there is no output. (B1)
+- The peak e.m.f. is larger (about twice as large). (B1)
+- The frequency doubles / the period halves — peaks closer together. (B1)
 
 ## Common mistakes
 
 - Putting the turns ratio upside down: check that a step-down transformer gives a smaller voltage.
-- Saying a transformer "changes a.c. to d.c." or "changes power" — it changes voltage (and current); power out ≤ power in.
-- Writing that the core "carries current" or "conducts electricity" to the secondary — it carries the changing **magnetic field**.
-- Explaining high-voltage transmission without mentioning **current**: high voltage → low current → less heating (I²R).
+- Saying a transformer "changes a.c. to d.c." or "increases power" — it changes voltage (and current); power out ≤ power in.
+- Writing that the core "carries current" to the secondary — it carries the changing **magnetic field**.
+- Explaining high-voltage transmission without mentioning **current**: high voltage → low current → less heating (P = I²R).
 - Saying an e.m.f. is induced when the magnet is stationary inside the coil.
-- Confusing slip rings (generator, a.c. output) with split-ring commutator (d.c. motor).
-- Saying the e.m.f. is maximum when the coil is vertical (perpendicular to the field) — it is zero there.
+- Confusing slip rings (a.c. generator) with the split-ring commutator (d.c. motor).
+- Saying the e.m.f. is maximum when the coil is perpendicular to the field — it is zero there.
 
 ## Practice questions
 
 1. State three ways to increase the e.m.f. induced when a magnet is pushed into a coil. [3]
 2. A step-up transformer has 100 turns on the primary and 4000 on the secondary. The input is 12 V a.c. Calculate the output voltage. [2]
 3. A 100% efficient transformer has input 230 V, 0.50 A and output 46 V. Calculate the output current. [2]
-4. A N pole is pushed into a coil. State the polarity of the end of the coil nearest the magnet and explain why. [2]
-5. Sketch the e.m.f.–time graph for a simple a.c. generator. On the same axes, sketch the graph if the coil rotates twice as fast. [3]
-6. Explain how a transformer works. [3]
-7. State two advantages of transmitting electricity at high voltage. [2]
+4. State the purpose of the slip rings and brushes in an a.c. generator. [2]
+5. Sketch the e.m.f.–time graph for a simple a.c. generator and mark one point where the coil is parallel to the field. [3]
+6. Describe the construction of a step-down transformer. [3]
+7. Use P = I²R to explain why electricity is transmitted at high voltage. [3]
 
 <details><summary>Answers</summary>
 
-1. Move the magnet faster; use a stronger magnet; use more turns on the coil (soft-iron core also accepted).
+1. Move the magnet faster; use a stronger magnet; use more turns on the coil.
 2. Vs = 12 × 4000 ÷ 100 = **480 V**.
 3. Is = (230 × 0.50) ÷ 46 = **2.5 A**.
-4. **N pole**; the induced current opposes the change (the approaching magnet), so it repels the magnet.
-5. Sine-shaped curve starting at zero; faster graph has twice the peak height and twice the frequency (period halved).
-6. a.c. in primary produces a changing magnetic field in the soft-iron core; the core links the field to the secondary; changing field induces an alternating e.m.f. in the secondary.
-7. Smaller current so less power lost (as heat) in cables; thinner/cheaper cables can be used.
+4. They connect the rotating coil to the external circuit (B1) without the wires twisting / keeping continuous contact (B1).
+5. Smooth wave (sine shape) starting at zero, alternating positive and negative; coil parallel to the field at any peak or trough (maximum e.m.f.).
+6. Two coils of insulated wire (primary and secondary) wound on a soft-iron core; the secondary has fewer turns than the primary.
+7. For the same power, higher voltage means smaller current (P = IV); power loss in cables = I²R, so a smaller current gives much smaller loss (e.g. half the current → one quarter of the loss).
 
 </details>
 

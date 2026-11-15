@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "P(A) = 0.4, P(B) = 0.5 and P(A ∩ B) = 0.2. Find P(A ∪ B).",
+      "options": [
+        "0.7",
+        "0.9",
+        "0.2",
+        "0.5"
+      ],
+      "answer": 0,
+      "why": "P(A ∪ B) = 0.4 + 0.5 − 0.2 = 0.7; 0.9 forgets to subtract the overlap."
+    },
+    {
+      "type": "mcq",
+      "q": "P(A) = 0.3, P(B) = 0.6 and P(A ∩ B) = 0.18. Which statement is true?",
+      "options": [
+        "A and B are mutually exclusive",
+        "A and B are neither",
+        "A and B are mutually exclusive and independent",
+        "A and B are independent but not mutually exclusive"
+      ],
+      "answer": 3,
+      "why": "0.3 × 0.6 = 0.18 = P(A ∩ B), so independent; P(A ∩ B) ≠ 0, so not mutually exclusive."
+    },
+    {
+      "type": "mcq",
+      "q": "P(A ∩ B) = 0.12 and P(B) = 0.4. Find P(A | B).",
+      "options": [
+        "0.048",
+        "0.52",
+        "0.3",
+        "0.12"
+      ],
+      "answer": 2,
+      "why": "P(A | B) = P(A ∩ B) ÷ P(B) = 0.12 ÷ 0.4 = 0.3."
+    },
+    {
+      "type": "short",
+      "q": "P(rain) = 0.3. If it rains, P(Ali is late) = 0.4; if it does not rain, P(Ali is late) = 0.1. Find P(Ali is late).",
+      "model": "0.3 × 0.4 + 0.7 × 0.1 = 0.12 + 0.07 = 0.19",
+      "points": [
+        "multiply along branches, add the two paths",
+        "0.19"
+      ]
+    }
+  ]
+}

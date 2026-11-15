@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Using the case-study business's name, facts and figures in your answer shows which skill?",
+      "options": [
+        "Application",
+        "Knowledge",
+        "Analysis",
+        "Evaluation"
+      ],
+      "answer": 0,
+      "why": "AO2 Application = using the context and data of the case."
+    },
+    {
+      "type": "mcq",
+      "q": "Which command word requires you to make a decision and support it?",
+      "options": [
+        "Identify",
+        "Outline",
+        "Justify",
+        "Define"
+      ],
+      "answer": 2,
+      "why": "Justify needs a judgement with reasons why it is better than the alternatives (evaluation)."
+    },
+    {
+      "type": "mcq",
+      "q": "For top marks in a 12-mark 'Recommend… justify your answer' question you must:",
+      "options": [
+        "list the advantages of every option",
+        "decide and explain why your choice beats the other options",
+        "define all the key terms",
+        "conclude that all options have merits"
+      ],
+      "answer": 1,
+      "why": "Evaluation means a clear, reasoned decision that compares options; sitting on the fence limits marks."
+    },
+    {
+      "type": "short",
+      "q": "Develop this point into analysis: \"Training will improve workers' skills.\"",
+      "model": "…so workers make fewer mistakes, which reduces waste and lowers costs, so the business's profit increases.",
+      "points": [
+        "chain of consequences using 'so / therefore / which leads to'",
+        "ends with an effect on the business (costs, sales, profit, quality)"
+      ]
+    }
+  ]
+}

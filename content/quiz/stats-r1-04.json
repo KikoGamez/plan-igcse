@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Q₁ = 20 and Q₃ = 32. Above what value is a data value an outlier?",
+      "options": [
+        "44",
+        "50",
+        "38",
+        "68"
+      ],
+      "answer": 1,
+      "why": "IQR = 12, so the upper limit is Q₃ + 1.5 × IQR = 32 + 18 = 50."
+    },
+    {
+      "type": "mcq",
+      "q": "A distribution has Q₁ = 12, median = 15 and Q₃ = 24. Describe its skewness.",
+      "options": [
+        "negative skew",
+        "symmetrical",
+        "cannot tell",
+        "positive skew"
+      ],
+      "answer": 3,
+      "why": "Q₃ − Q₂ = 9 is greater than Q₂ − Q₁ = 3, so it is positively skewed."
+    },
+    {
+      "type": "mcq",
+      "q": "A cumulative frequency graph shows 120 values. At what cumulative frequency do you read the 90th percentile?",
+      "options": [
+        "90",
+        "12",
+        "108",
+        "120"
+      ],
+      "answer": 2,
+      "why": "(90/100) × 120 = 108."
+    },
+    {
+      "type": "short",
+      "q": "A distribution has mean 42, median 38 and mode 35. Describe its skewness and give a reason.",
+      "model": "Positive skew, because mean > median > mode.",
+      "points": [
+        "positive skew",
+        "mean > median > mode"
+      ]
+    }
+  ]
+}

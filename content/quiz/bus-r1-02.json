@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which is NOT a suitable way to measure the size of a business?",
+      "options": [
+        "Number of employees",
+        "Capital employed",
+        "Value of output",
+        "Profit"
+      ],
+      "answer": 3,
+      "why": "Profit depends on costs and prices as well as size, so it is not a measure of size."
+    },
+    {
+      "type": "mcq",
+      "q": "A car manufacturer takes over a company that supplies its tyres. What type of integration is this?",
+      "options": [
+        "Backward vertical integration",
+        "Forward vertical integration",
+        "Horizontal integration",
+        "Conglomerate integration"
+      ],
+      "answer": 0,
+      "why": "Buying a supplier (an earlier stage of production) is backward vertical integration."
+    },
+    {
+      "type": "mcq",
+      "q": "Which of these is an external stakeholder?",
+      "options": [
+        "Managers",
+        "Employees",
+        "Suppliers",
+        "Shareholders"
+      ],
+      "answer": 2,
+      "why": "Suppliers are outside the business; managers, employees and owners are internal stakeholders."
+    },
+    {
+      "type": "short",
+      "q": "Explain one difference between a merger and a takeover.",
+      "model": "In a merger the owners of two businesses agree to join together to form one business; in a takeover one business buys out the owners of another, which becomes part of it.",
+      "points": [
+        "merger = owners agree to join",
+        "takeover = one business buys the other"
+      ]
+    }
+  ]
+}

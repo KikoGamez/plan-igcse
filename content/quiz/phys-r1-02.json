@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "An object has a mass of 2.0 kg. What is its weight on Earth? (g = 9.8 N/kg)",
+      "options": [
+        "19.6 N",
+        "2.0 N",
+        "0.20 N",
+        "2.0 kg"
+      ],
+      "answer": 0,
+      "why": "W = mg = 2.0 × 9.8 = 19.6 N; weight is a force, measured in newtons."
+    },
+    {
+      "type": "mcq",
+      "q": "A 4.0 kg box is pushed with a force of 20 N against a friction force of 8.0 N. What is its acceleration?",
+      "options": [
+        "5.0 m/s²",
+        "7.0 m/s²",
+        "3.0 m/s²",
+        "48 m/s²"
+      ],
+      "answer": 2,
+      "why": "Resultant force = 20 − 8.0 = 12 N, so a = F ÷ m = 12 ÷ 4.0 = 3.0 m/s²."
+    },
+    {
+      "type": "mcq",
+      "q": "A stone has a mass of 60 g. It is lowered into a measuring cylinder and the water level rises from 50 cm³ to 70 cm³. What is its density?",
+      "options": [
+        "1.2 g/cm³",
+        "0.86 g/cm³",
+        "0.33 g/cm³",
+        "3.0 g/cm³"
+      ],
+      "answer": 3,
+      "why": "Volume = 70 − 50 = 20 cm³ (displacement), so ρ = 60 ÷ 20 = 3.0 g/cm³."
+    },
+    {
+      "type": "short",
+      "q": "A load of 2.0 N stretches a spring by 4.0 cm (within the limit of proportionality). Calculate the spring constant.",
+      "model": "k = F ÷ x = 2.0 ÷ 0.040 = 50 N/m (or 0.50 N/cm)",
+      "points": [
+        "k = F ÷ x",
+        "50 N/m or 0.50 N/cm",
+        "unit consistent with the value"
+      ]
+    }
+  ]
+}

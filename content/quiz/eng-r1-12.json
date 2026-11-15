@@ -1,0 +1,51 @@
+{
+  "id": "eng-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which sentence contains a comma splice?",
+      "options": [
+        "The bus was late, we missed the start.",
+        "The bus was late; we missed the start.",
+        "Because the bus was late, we missed the start.",
+        "The bus was late, so we missed the start."
+      ],
+      "answer": 0,
+      "why": "Two complete sentences joined only by a comma is a comma splice."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "options": [
+        "The team celebrated it's victory.",
+        "The team celebrated its' victory.",
+        "The team celebrated its victory.",
+        "The team celebrated it is victory."
+      ],
+      "answer": 2,
+      "why": "\"Its\" (possessive) has no apostrophe; \"it's\" means \"it is\"."
+    },
+    {
+      "type": "mcq",
+      "q": "Several players left their boots in the changing room. Which is correct?",
+      "options": [
+        "The player's boots",
+        "The players boot's",
+        "The players's boots",
+        "The players' boots"
+      ],
+      "answer": 3,
+      "why": "Plural ending in s: apostrophe after the s."
+    },
+    {
+      "type": "short",
+      "q": "Correct the errors: \"Their going to the beach tomorrow, they're car is ready.\"",
+      "model": "They're going to the beach tomorrow. Their car is ready.",
+      "points": [
+        "They're (= they are)",
+        "Their (possessive)",
+        "full stop or semicolon instead of the comma splice"
+      ]
+    }
+  ]
+}

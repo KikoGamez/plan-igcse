@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A manager has 12 workers reporting directly to her. This number is her:",
+      "options": [
+        "chain of command",
+        "span of control",
+        "level of hierarchy",
+        "delegation"
+      ],
+      "answer": 1,
+      "why": "Span of control = the number of subordinates working directly under a manager."
+    },
+    {
+      "type": "mcq",
+      "q": "Which document lists the qualifications, experience and qualities of the ideal applicant?",
+      "options": [
+        "Job description",
+        "Job advertisement",
+        "Person specification",
+        "Contract of employment"
+      ],
+      "answer": 2,
+      "why": "A job description is about the job; a person specification is about the person."
+    },
+    {
+      "type": "mcq",
+      "q": "A factory closes a production line and its workers lose their jobs. This is:",
+      "options": [
+        "redundancy",
+        "dismissal",
+        "resignation",
+        "retirement"
+      ],
+      "answer": 0,
+      "why": "Redundancy: the job is no longer needed, not because the worker's performance was unsatisfactory."
+    },
+    {
+      "type": "short",
+      "q": "Outline one benefit of a democratic leadership style.",
+      "model": "Employees are involved in decisions, so they feel valued and become more motivated (and may contribute useful ideas).",
+      "points": [
+        "workers involved in decision-making",
+        "feel valued / more motivated / better ideas"
+      ]
+    }
+  ]
+}

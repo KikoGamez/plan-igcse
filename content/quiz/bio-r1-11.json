@@ -1,0 +1,50 @@
+{
+  "id": "bio-r1-11",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which describes pollination?",
+      "options": [
+        "transfer of pollen grains from a stigma to an anther",
+        "fusion of a pollen nucleus with a nucleus in an ovule",
+        "transfer of pollen grains from an anther to a stigma",
+        "transfer of pollen grains from an anther to an ovary"
+      ],
+      "answer": 2,
+      "why": "Pollination is anther → stigma; fertilisation is the fusion of nuclei."
+    },
+    {
+      "type": "mcq",
+      "q": "Where does fertilisation usually occur in humans?",
+      "options": [
+        "oviduct",
+        "uterus",
+        "ovary",
+        "vagina"
+      ],
+      "answer": 0,
+      "why": "The egg is released into the oviduct, where it meets sperm; the embryo then implants in the uterus."
+    },
+    {
+      "type": "mcq",
+      "q": "Which condition is not needed for seeds to germinate?",
+      "options": [
+        "water",
+        "oxygen",
+        "light",
+        "a suitable temperature"
+      ],
+      "answer": 2,
+      "why": "Germination needs water, oxygen and a suitable temperature, but not light."
+    },
+    {
+      "type": "short",
+      "q": "State one adaptive feature of a sperm cell and explain how it helps.",
+      "model": "Flagellum – to swim to the egg. (Or: many mitochondria – release energy for swimming; acrosome enzymes – digest the jelly coat of the egg.)",
+      "points": [
+        "a correct feature (flagellum, mitochondria or acrosome enzymes)",
+        "its function correctly linked"
+      ]
+    }
+  ]
+}

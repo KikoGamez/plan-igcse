@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "What is the maximum length of the Paper 1 summary?",
+      "options": [
+        "100 words",
+        "120 words",
+        "150 words",
+        "250 words"
+      ],
+      "answer": 1,
+      "why": "The summary must be no more than 120 words of continuous prose."
+    },
+    {
+      "type": "mcq",
+      "q": "How are the 40 marks for Paper 2 Section A (directed writing) split?",
+      "options": [
+        "15 reading + 25 writing",
+        "25 reading + 15 writing",
+        "20 reading + 20 writing",
+        "16 content + 24 style"
+      ],
+      "answer": 0,
+      "why": "Directed writing: 15 for reading, 25 for writing; 16 + 24 is the composition split."
+    },
+    {
+      "type": "mcq",
+      "q": "In Paper 2 Section B, the composition titles offered are:",
+      "options": [
+        "two argumentative and two narrative",
+        "one descriptive and one narrative",
+        "four narrative",
+        "two descriptive and two narrative"
+      ],
+      "answer": 3,
+      "why": "You choose one of four titles: two descriptive, two narrative."
+    },
+    {
+      "type": "short",
+      "q": "What is the difference between R1 and R2 in the reading objectives?",
+      "model": "R1 tests understanding of explicit meanings (what the text states directly); R2 tests implicit meanings and attitudes (what you must infer).",
+      "points": [
+        "R1 = explicit / stated directly",
+        "R2 = implicit / inferred meanings and attitudes"
+      ]
+    }
+  ]
+}

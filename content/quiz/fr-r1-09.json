@@ -1,0 +1,50 @@
+{
+  "id": "fr-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A bullet point says « Décrivez ce que vous avez fait le week-end dernier ». Which tense is needed?",
+      "options": [
+        "the present",
+        "the future",
+        "a past tense (passé composé / imparfait)",
+        "the conditional"
+      ],
+      "answer": 2,
+      "why": "Avez fait / le week-end dernier signal the past; wrong tense weakens communication."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is the correct opening for a formal email to a hotel?",
+      "options": [
+        "Madame, Monsieur,",
+        "Salut Paul !",
+        "Coucou !",
+        "Grosses bises,"
+      ],
+      "answer": 0,
+      "why": "Formal emails open with Madame, Monsieur, and use vous."
+    },
+    {
+      "type": "mcq",
+      "q": "Which mistake costs the most marks in a 0520 writing task?",
+      "options": [
+        "Writing ten words over the guide",
+        "Missing out one of the bullet points",
+        "Using only simple connectives",
+        "Not using the subjunctive"
+      ],
+      "answer": 1,
+      "why": "Every bullet must be covered; missing one caps the communication mark."
+    },
+    {
+      "type": "short",
+      "q": "Correct the error: « Samedi, j'ai allé au cinéma avec ma sœur. »",
+      "model": "Samedi, je suis allé(e) au cinéma avec ma sœur.",
+      "points": [
+        "je suis (aller takes être)",
+        "allé(e) agreeing with the writer"
+      ]
+    }
+  ]
+}

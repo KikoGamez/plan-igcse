@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-20",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Estimate the mean: 0 < t ≤ 10 has frequency 4, 10 < t ≤ 20 has frequency 6.",
+      "options": [
+        "16",
+        "55",
+        "11",
+        "10"
+      ],
+      "answer": 2,
+      "why": "Use midpoints: (5 × 4 + 15 × 6) ÷ 10 = 110 ÷ 10 = 11."
+    },
+    {
+      "type": "mcq",
+      "q": "A histogram bar has class width 5 and frequency density 3.2. Find the frequency.",
+      "options": [
+        "3.2",
+        "16",
+        "1.56",
+        "8.2"
+      ],
+      "answer": 1,
+      "why": "Frequency = frequency density × class width = 3.2 × 5 = 16."
+    },
+    {
+      "type": "mcq",
+      "q": "A cumulative frequency graph shows 80 values. At what cumulative frequency do you read the lower quartile?",
+      "options": [
+        "20",
+        "20.25",
+        "40",
+        "60"
+      ],
+      "answer": 0,
+      "why": "For a cumulative frequency graph use n/4 = 80 ÷ 4 = 20."
+    },
+    {
+      "type": "short",
+      "q": "Find the median of 3, 7, 7, 9, 12, 15.",
+      "model": "The middle two values are 7 and 9, so median = (7 + 9) ÷ 2 = 8",
+      "points": [
+        "(7 + 9) ÷ 2",
+        "8"
+      ]
+    }
+  ]
+}

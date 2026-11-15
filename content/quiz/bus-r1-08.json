@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Fixed costs are $6,000. Price is $10 and variable cost is $4 per unit. What is the break-even output?",
+      "options": [
+        "600 units",
+        "1,000 units",
+        "429 units",
+        "1,500 units"
+      ],
+      "answer": 1,
+      "why": "Break-even = fixed costs ÷ contribution = 6,000 ÷ (10 − 4) = 1,000."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is a fixed cost for a bakery?",
+      "options": [
+        "Flour",
+        "Packaging for each loaf",
+        "Rent of the shop",
+        "Piece-rate wages"
+      ],
+      "answer": 2,
+      "why": "Rent does not change with output; the others rise with each loaf produced."
+    },
+    {
+      "type": "mcq",
+      "q": "Break-even output is 1,000 units and the business sells 1,400 units. What is the margin of safety?",
+      "options": [
+        "400 units",
+        "1,400 units",
+        "2,400 units",
+        "$400"
+      ],
+      "answer": 0,
+      "why": "Margin of safety = actual output − break-even output = 1,400 − 1,000."
+    },
+    {
+      "type": "short",
+      "q": "Explain one limitation of break-even analysis.",
+      "model": "It assumes all output is sold, but in reality some products may be unsold, so the break-even point may not be accurate. (Or: costs and prices change, so the break-even point changes.)",
+      "points": [
+        "valid limitation (all output sold / costs or prices change / fixed costs may change)",
+        "why it makes the result inaccurate"
+      ]
+    }
+  ]
+}

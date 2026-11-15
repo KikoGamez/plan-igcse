@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A price was $40 in the base year and $46 now. Find the index number.",
+      "options": [
+        "86.96",
+        "15",
+        "115",
+        "46"
+      ],
+      "answer": 2,
+      "why": "(46 ÷ 40) × 100 = 115."
+    },
+    {
+      "type": "mcq",
+      "q": "Chain base index numbers are 106 for 2022 and 103 for 2023. What does 103 show?",
+      "options": [
+        "the price fell from 2022 to 2023",
+        "the price rose 3% since the base year",
+        "the price is $103",
+        "the price rose 3% from 2022 to 2023"
+      ],
+      "answer": 3,
+      "why": "A chain base index compares each year with the previous year; 103 > 100 is still a rise."
+    },
+    {
+      "type": "mcq",
+      "q": "Item A has index 110 and weight 3; item B has index 130 and weight 1. Find the weighted index.",
+      "options": [
+        "120",
+        "115",
+        "460",
+        "117.5"
+      ],
+      "answer": 1,
+      "why": "(110 × 3 + 130 × 1) ÷ (3 + 1) = 460 ÷ 4 = 115."
+    },
+    {
+      "type": "short",
+      "q": "Why is a standardised death rate better than a crude death rate for comparing two towns?",
+      "model": "It applies each town's age-group rates to the same standard population, so it allows for the towns' different age structures.",
+      "points": [
+        "standard population",
+        "allows for different age structures"
+      ]
+    }
+  ]
+}

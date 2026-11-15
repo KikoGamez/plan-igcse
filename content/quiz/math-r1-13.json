@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-13",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Two similar triangles have corresponding sides 4 cm and 10 cm. The smaller has area 12 cm². Find the area of the larger.",
+      "options": [
+        "30 cm²",
+        "75 cm²",
+        "187.5 cm²",
+        "48 cm²"
+      ],
+      "answer": 1,
+      "why": "Length factor 2.5, so area factor 2.5² = 6.25 and 12 × 6.25 = 75 cm²."
+    },
+    {
+      "type": "mcq",
+      "q": "Two similar bottles have heights 10 cm and 20 cm. The smaller holds 300 cm³. How much does the larger hold?",
+      "options": [
+        "600 cm³",
+        "1200 cm³",
+        "2400 cm³",
+        "900 cm³"
+      ],
+      "answer": 2,
+      "why": "Length factor 2, so volume factor 2³ = 8 and 300 × 8 = 2400 cm³."
+    },
+    {
+      "type": "mcq",
+      "q": "A map has scale 1 : 25 000. What real distance is 4 cm on the map?",
+      "options": [
+        "100 m",
+        "10 km",
+        "0.4 km",
+        "1 km"
+      ],
+      "answer": 3,
+      "why": "4 × 25 000 = 100 000 cm = 1000 m = 1 km."
+    },
+    {
+      "type": "short",
+      "q": "Two similar solids have surface areas 18 cm² and 50 cm². Find the ratio of their volumes.",
+      "model": "Area ratio 9 : 25, so length ratio 3 : 5, so volume ratio 27 : 125",
+      "points": [
+        "length ratio 3 : 5 (square root)",
+        "27 : 125"
+      ]
+    }
+  ]
+}

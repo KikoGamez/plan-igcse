@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-10",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Rubidium is below potassium in Group I. Which prediction about rubidium is correct?",
+      "options": [
+        "higher melting point than potassium; reacts more slowly with water",
+        "lower melting point than potassium; reacts more vigorously with water",
+        "lower density than potassium; does not react with water",
+        "higher melting point than potassium; reacts more vigorously with water"
+      ],
+      "answer": 1,
+      "why": "Down Group I melting point decreases and reactivity with water increases."
+    },
+    {
+      "type": "mcq",
+      "q": "Which pair reacts when mixed?",
+      "options": [
+        "aqueous iodine + aqueous potassium bromide",
+        "aqueous bromine + aqueous potassium chloride",
+        "aqueous iodine + aqueous potassium chloride",
+        "aqueous bromine + aqueous potassium iodide"
+      ],
+      "answer": 3,
+      "why": "A more reactive halogen displaces a less reactive one: Br₂ + 2I⁻ → 2Br⁻ + I₂ (brown solution)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which property is typical of transition elements?",
+      "options": [
+        "low density",
+        "low melting point",
+        "form coloured compounds",
+        "react vigorously with cold water"
+      ],
+      "answer": 2,
+      "why": "Transition elements have high densities and melting points, form coloured compounds and often act as catalysts."
+    },
+    {
+      "type": "short",
+      "q": "Explain, in terms of electronic configuration, why the noble gases are unreactive.",
+      "model": "They have a full outer shell of electrons (a stable electronic configuration), so they do not need to lose, gain or share electrons.",
+      "points": [
+        "full outer shell (of electrons)",
+        "do not lose, gain or share electrons"
+      ]
+    }
+  ]
+}

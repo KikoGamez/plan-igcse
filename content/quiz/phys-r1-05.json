@@ -1,0 +1,50 @@
+{
+  "id": "phys-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Smoke particles in air are seen to move randomly under a microscope. What causes this motion?",
+      "options": [
+        "convection currents in the air",
+        "the smoke particles repelling each other",
+        "light from the microscope heating the particles",
+        "collisions with fast-moving air molecules"
+      ],
+      "answer": 3,
+      "why": "Brownian motion: tiny, fast, randomly moving air molecules hit the larger smoke particles unevenly."
+    },
+    {
+      "type": "mcq",
+      "q": "A sealed gas cylinder of fixed volume is heated. Why does the gas pressure increase?",
+      "options": [
+        "the particles get bigger",
+        "the particles move faster and hit the walls more often and harder",
+        "there are more particles in the cylinder",
+        "the particles expand and push on the walls"
+      ],
+      "answer": 1,
+      "why": "Higher temperature means faster particles, so more frequent and harder collisions give more force per unit area."
+    },
+    {
+      "type": "mcq",
+      "q": "Which surface is the best emitter of thermal radiation?",
+      "options": [
+        "shiny white",
+        "shiny black",
+        "dull black",
+        "dull white"
+      ],
+      "answer": 2,
+      "why": "Dull black surfaces are the best emitters (and absorbers) of infrared radiation."
+    },
+    {
+      "type": "short",
+      "q": "State two differences between evaporation and boiling.",
+      "model": "Evaporation happens at any temperature, boiling only at the boiling point; evaporation happens only at the surface, boiling happens throughout the liquid (bubbles form).",
+      "points": [
+        "evaporation at any temperature / boiling at a fixed temperature (boiling point)",
+        "evaporation only at the surface / boiling throughout the liquid"
+      ]
+    }
+  ]
+}

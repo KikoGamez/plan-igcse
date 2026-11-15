@@ -1,0 +1,51 @@
+{
+  "id": "eng-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Summary focus: the advantages of cycling to school. Which detail should be left out?",
+      "options": [
+        "\"It improves fitness.\"",
+        "\"It is cheaper than the bus.\"",
+        "\"It reduces traffic near schools.\"",
+        "\"My cousin cycled to school for ten years.\""
+      ],
+      "answer": 3,
+      "why": "A personal anecdote adds no new idea about the focus."
+    },
+    {
+      "type": "mcq",
+      "q": "Text: \"Foxes, hedgehogs and owls have been seen in the park at night.\" Best summary point?",
+      "options": [
+        "Foxes, hedgehogs and owls are seen there",
+        "The park provides a habitat for wildlife",
+        "Animals come out at night",
+        "The park is beautiful"
+      ],
+      "answer": 1,
+      "why": "Generalise the example into the point it illustrates, in your own words."
+    },
+    {
+      "type": "mcq",
+      "q": "How are the 15 summary marks split?",
+      "options": [
+        "10 reading + 5 writing",
+        "15 reading",
+        "5 reading + 10 writing",
+        "12 reading + 3 writing"
+      ],
+      "answer": 0,
+      "why": "10 for selecting relevant ideas, 5 for concise, organised own-words writing."
+    },
+    {
+      "type": "short",
+      "q": "State two rules about the form of the Paper 1 summary.",
+      "model": "Any two: continuous prose (not notes or bullet points); own words as far as possible; no more than 120 words.",
+      "points": [
+        "continuous writing, not note form",
+        "own words",
+        "maximum 120 words"
+      ]
+    }
+  ]
+}

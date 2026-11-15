@@ -1,0 +1,51 @@
+{
+  "id": "spa-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "You must summarise the benefits of urban gardens. Which should you include?",
+      "options": [
+        "A teacher's quotation copied from the text",
+        "The criticism about lack of water",
+        "A relevant benefit, in your own words",
+        "An opening: «En este texto el autor habla de…»"
+      ],
+      "answer": 2,
+      "why": "Only relevant points, reworded; no quotations, off-focus points or introductions."
+    },
+    {
+      "type": "mcq",
+      "q": "The most concise way to summarise «correr, nadar e ir en bicicleta» is:",
+      "options": [
+        "correr, nadar e ir en bicicleta",
+        "el ejercicio aeróbico",
+        "actividades como correr y nadar",
+        "varios deportes, por ejemplo nadar"
+      ],
+      "answer": 1,
+      "why": "A general word (hypernym) replaces a list of examples."
+    },
+    {
+      "type": "mcq",
+      "q": "Which format is correct for the summary?",
+      "options": [
+        "Bullet points, one per idea",
+        "An introduction, the ideas and a personal conclusion",
+        "Notes with quotations from the text",
+        "Continuous prose, ideas linked, no opinion"
+      ],
+      "answer": 3,
+      "why": "The summary is continuous, neutral prose; lists and opinions lower the mark."
+    },
+    {
+      "type": "short",
+      "q": "Rewrite concisely in your own words: «Las personas que caminan todos los días sufren menos problemas de corazón y además duermen mejor por la noche.»",
+      "model": "Caminar a diario protege el corazón y mejora el descanso.",
+      "points": [
+        "beneficio cardiaco",
+        "mejor sueño",
+        "own words, shorter than the original"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "20 boys have a mean mark of 60 and 30 girls have a mean mark of 70. Find the mean mark of all 50 students.",
+      "options": [
+        "65",
+        "66",
+        "64",
+        "130"
+      ],
+      "answer": 1,
+      "why": "(20 × 60 + 30 × 70) ÷ 50 = 3300 ÷ 50 = 66; don't just average the two means."
+    },
+    {
+      "type": "mcq",
+      "q": "A data set contains one extreme value. Which average is most suitable?",
+      "options": [
+        "mean",
+        "mode",
+        "median",
+        "range"
+      ],
+      "answer": 2,
+      "why": "The median is not affected by extreme values."
+    },
+    {
+      "type": "mcq",
+      "q": "For 10 values, Σx = 90 and Σx² = 1060. Find the standard deviation.",
+      "options": [
+        "5",
+        "25",
+        "1.30",
+        "9.85"
+      ],
+      "answer": 0,
+      "why": "x̄ = 9, so σ = √(1060 ÷ 10 − 9²) = √25 = 5 (25 is the variance)."
+    },
+    {
+      "type": "short",
+      "q": "A test worth 40% is scored 55, and a project worth 60% is scored 80. Find the weighted mean mark.",
+      "model": "0.4 × 55 + 0.6 × 80 = 22 + 48 = 70",
+      "points": [
+        "0.4 × 55 + 0.6 × 80",
+        "70"
+      ]
+    }
+  ]
+}

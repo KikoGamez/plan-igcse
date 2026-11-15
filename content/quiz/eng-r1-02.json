@@ -1,0 +1,51 @@
+{
+  "id": "eng-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "\"He checked his watch for the fourth time and tapped his foot.\" What does this suggest?",
+      "options": [
+        "He is relaxed",
+        "He has lost his watch",
+        "He is impatient for something to happen",
+        "He is late for work"
+      ],
+      "answer": 2,
+      "why": "Repeated checking and tapping imply impatience; 'late for work' is not supported by the text."
+    },
+    {
+      "type": "mcq",
+      "q": "A question says \"Using your own words, explain…\". What must you do?",
+      "options": [
+        "Replace the key words with your own, keeping the meaning",
+        "Quote the exact phrase from the text",
+        "Only change the word order",
+        "Give your personal opinion"
+      ],
+      "answer": 0,
+      "why": "Lifting the key words earns no mark on own-words questions."
+    },
+    {
+      "type": "mcq",
+      "q": "A short-answer question is worth 2 marks. What does it usually need?",
+      "options": [
+        "One point with a long quotation",
+        "A named literary device",
+        "A full paragraph",
+        "Two separate points"
+      ],
+      "answer": 3,
+      "why": "Marks are point-based: one mark per correct idea."
+    },
+    {
+      "type": "short",
+      "q": "\"The shop had stood empty for years, its windows grey with dust.\" Using your own words, explain what this suggests about the shop. [2]",
+      "model": "It has been abandoned / unused for a long time (1) and nobody has cleaned or cared for it, so it is neglected (1).",
+      "points": [
+        "unused / abandoned for a long time",
+        "neglected / dirty, not looked after",
+        "own words (not 'empty' / 'dust' copied)"
+      ]
+    }
+  ]
+}

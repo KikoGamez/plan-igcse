@@ -1,24 +1,23 @@
 # The Periodic Table
 
-> **In the exam:** Paper 2 has 2–4 questions (trends, predicting properties, displacement). Paper 4 usually has a question on Group I or Group VII (4–8 marks), often asking you to **predict** the properties of an element you have not studied (rubidium, astatine) from a data table, to write displacement equations, or to describe transition element properties. Paper 6 can include halogen displacement observations.
+> **In the exam:** **Paper 2** (Multiple Choice, 45 min, 40 questions across the three sciences) usually has 1–2 questions here (trends, predicting properties, displacement). **Paper 4** (Theory, 2 h, 120 marks) often has a Group I or Group VII part inside a chemistry question (typically 3–7 marks), asking you to **predict** the properties of an element you have not studied (rubidium, astatine) from a data table, to explain a halogen displacement, or to describe transition element properties. **Paper 6** (Alternative to Practical, 1 h 30 min, 60 marks) lists "displacement reactions of metals and halogens" as a practical context, so halogen displacement observations can appear.
 
 ## What you need to know
 
 - Describe the Periodic Table as an arrangement of elements in periods and groups and in order of increasing proton number/atomic number.
 - Describe the change from metallic to non-metallic character across a period.
-- Describe the relationship between group number and the charge of the ions formed from elements in that group.
 - Explain similarities in the chemical properties of elements in the same group of the Periodic Table in terms of their electronic configuration.
-- Explain how the position of an element in the Periodic Table can be used to predict its properties.
-- Identify trends in groups, given information about the elements.
-- Describe the Group I alkali metals lithium, sodium and potassium as relatively soft metals with general trends down the group, limited to: decreasing melting point, increasing density, increasing reactivity.
-- Predict the properties of other elements in Group I, given information about the elements.
-- Describe the Group VII halogens chlorine, bromine and iodine as diatomic non-metals with general trends down the group, limited to: increasing density, decreasing reactivity.
-- State the appearance of the halogens at r.t.p. as: chlorine, a pale yellow-green gas; bromine, a red-brown liquid; iodine, a grey-black solid.
-- Describe and explain the displacement reactions of halogens with other halide ions.
-- Predict the properties of other elements in Group VII, given information about the elements.
-- Describe the transition elements as metals that have high densities, have high melting points, form coloured compounds, and often act as catalysts as elements and in compounds.
-- *Extended:* describe transition elements as having ions with variable oxidation numbers, including iron(II) and iron(III).
-- Describe the noble gases, in Group VIII or 0, as unreactive, monatomic gases and explain this in terms of electronic configuration.
+- *Supplement:* identify trends in groups, given information about the elements.
+- Describe the Group I alkali metals, lithium, sodium and potassium, as relatively soft metals with general trends down the group, limited to: decreasing melting point; increasing density; increasing reactivity with water.
+- *Supplement:* predict the properties of other elements in Group I, given information about the elements.
+- Describe the Group VII halogens, chlorine, bromine and iodine, as diatomic non-metals with general trends down the group, limited to: increasing density; decreasing reactivity.
+- State the appearance of the halogens at room temperature and pressure, r.t.p., as: chlorine, a pale yellow-green gas; bromine, a red-brown liquid; iodine, a grey-black solid.
+- *Supplement:* describe and explain the displacement reactions of halogens with other halide ions.
+- *Supplement:* predict the properties of other elements in Group VII, given information about the elements.
+- Describe the transition elements as metals that: have high densities; have high melting points; form coloured compounds; often act as catalysts as elements and in compounds.
+- Describe the Group VIII noble gases as unreactive, monatomic gases and explain this in terms of electronic configuration.
+
+*Not in 0654:* variable oxidation numbers of transition element ions as a learning objective (you still use Roman numerals such as iron(II)/iron(III) to name ions).
 
 ## Notes
 
@@ -76,7 +75,7 @@ Trends down the group:
 
 All exist as **diatomic** molecules; all have **seven outer-shell electrons** and gain one electron to form −1 halide ions.
 
-### Displacement reactions
+### Displacement reactions (Supplement)
 
 A **more reactive** halogen displaces a **less reactive** halogen from an aqueous solution of its halide.
 
@@ -89,7 +88,7 @@ A **more reactive** halogen displaces a **less reactive** halogen from an aqueou
 Cl₂ + 2KBr → 2KCl + Br₂    ionic: Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂
 Br₂ + 2KI → 2KBr + I₂    ionic: Br₂ + 2I⁻ → 2Br⁻ + I₂
 
-These are **redox** reactions: the halogen is reduced (gains electrons; oxidising agent), the halide ion is oxidised (loses electrons).
+These are **redox** reactions: the halogen is reduced (gains electrons), the halide ion is oxidised (loses electrons).
 
 **Predicting (fluorine, astatine):** fluorine — pale yellow gas, most reactive, displaces all other halogens. Astatine — black solid, highest density, least reactive, does not displace iodine; At⁻ ion is displaced by all the other halogens.
 
@@ -99,8 +98,9 @@ Found in the central block (e.g. Cr, Mn, Fe, Ni, Cu, Zn area). Compared with Gro
 - high densities
 - high melting points
 - form **coloured compounds** (e.g. CuSO₄ blue, Fe³⁺ compounds red-brown/yellow)
-- often act as **catalysts**, as elements and in compounds (iron in the Haber process; vanadium(V) oxide in the Contact process; nickel for hydrogenation)
-- *Extended:* ions with **variable oxidation numbers**, e.g. iron(II), Fe²⁺, and iron(III), Fe³⁺; copper(I) and copper(II). This is why Roman numerals are used in their names.
+- often act as **catalysts**, as elements and in compounds (e.g. nickel in the addition of hydrogen to alkenes; transition metals in catalytic converters)
+
+Their ions are named with Roman numerals, e.g. iron(II), Fe²⁺, and iron(III), Fe³⁺; copper(II), Cu²⁺.
 
 ### Noble gases (Group VIII / 0)
 
@@ -124,7 +124,7 @@ Exam questions give data (melting point, density, radius) for some elements and 
 | Monatomic | Exists as single atoms |
 | Diatomic | Molecules containing two atoms |
 | Displacement reaction | A more reactive element takes the place of a less reactive element in a compound |
-| Transition element (properties) | Metal with high density and high melting point, forming coloured compounds and acting as a catalyst; *(Ext)* ions with variable oxidation numbers |
+| Transition element (properties) | Metal with high density and high melting point, forming coloured compounds and often acting as a catalyst |
 
 ## Worked examples
 
@@ -171,7 +171,7 @@ Exam questions give data (melting point, density, radius) for some elements and 
 2. Fizzing/bubbles (1); lithium floats and moves/gradually disappears (1); indicator turns from green to blue/purple (1).
 3. 2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g) — equation (1), states (1).
 4. With KCl: no change (1) because bromine is less reactive than chlorine (1). With KI: colourless/orange solution turns brown (1) because bromine is more reactive than iodine and displaces it (1).
-5. Any two: high density; high melting point; coloured compounds; act as catalysts; variable oxidation numbers.
+5. Any two: high density; high melting point; form coloured compounds; act as catalysts.
 6. FeCl₂, iron(II) chloride (1); FeCl₃, iron(III) chloride (1).
 7. Solid (1); no reaction — astatine is less reactive than iodine (1).
 

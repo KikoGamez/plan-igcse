@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-09",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Find the gradient of the line 2x + 3y = 12.",
+      "options": [
+        "2",
+        "−2/3",
+        "−2",
+        "3/2"
+      ],
+      "answer": 1,
+      "why": "Rearrange to y = −(2/3)x + 4, so the gradient is −2/3."
+    },
+    {
+      "type": "mcq",
+      "q": "Which equation has a graph with asymptotes on both axes and two separate branches?",
+      "options": [
+        "y = x³",
+        "y = 3ˣ",
+        "y = 3/x",
+        "y = x² − 3"
+      ],
+      "answer": 2,
+      "why": "Reciprocal graphs y = k/x never meet the x- or y-axis."
+    },
+    {
+      "type": "mcq",
+      "q": "Find the y-intercept of the graph of y = 3 × 2ˣ + 1.",
+      "options": [
+        "1",
+        "3",
+        "7",
+        "4"
+      ],
+      "answer": 3,
+      "why": "At x = 0, 2⁰ = 1, so y = 3 × 1 + 1 = 4."
+    },
+    {
+      "type": "short",
+      "q": "The graph of y = x² − 3x has been drawn. Write down the equation of the line you would draw to solve x² − 3x − 5 = 0.",
+      "model": "x² − 3x = 5, so draw y = 5",
+      "points": [
+        "rearrange to x² − 3x = 5",
+        "y = 5"
+      ]
+    }
+  ]
+}

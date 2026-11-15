@@ -1,0 +1,50 @@
+{
+  "id": "chem-r1-13",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which apparatus measures exactly 25.0 cm³ of alkali into a conical flask for a titration?",
+      "options": [
+        "measuring cylinder",
+        "volumetric pipette",
+        "beaker",
+        "gas syringe"
+      ],
+      "answer": 1,
+      "why": "A volumetric pipette delivers a fixed volume accurately; the burette is used for the acid."
+    },
+    {
+      "type": "mcq",
+      "q": "In a chromatogram a spot travels 3.0 cm and the solvent front 7.5 cm from the baseline. What is the Rf value?",
+      "options": [
+        "2.5",
+        "0.60",
+        "0.40",
+        "4.5"
+      ],
+      "answer": 2,
+      "why": "Rf = distance travelled by substance ÷ distance travelled by solvent = 3.0 ÷ 7.5 = 0.40."
+    },
+    {
+      "type": "mcq",
+      "q": "Which method separates ethanol from a mixture of ethanol and water?",
+      "options": [
+        "filtration",
+        "crystallisation",
+        "simple distillation",
+        "fractional distillation"
+      ],
+      "answer": 3,
+      "why": "They are miscible liquids with different boiling points, so a fractionating column is needed."
+    },
+    {
+      "type": "short",
+      "q": "In paper chromatography, why is the baseline drawn in pencil and not in ink?",
+      "model": "Pencil (graphite) is insoluble in the solvent, so it does not move up the paper; ink would dissolve and separate, interfering with the results.",
+      "points": [
+        "pencil does not dissolve / does not move with the solvent",
+        "ink would dissolve / run / separate"
+      ]
+    }
+  ]
+}

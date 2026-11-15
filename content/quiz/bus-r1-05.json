@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which of these is primary research?",
+      "options": [
+        "A questionnaire given to customers",
+        "Government population statistics",
+        "Newspaper articles about the market",
+        "The business's past sales records"
+      ],
+      "answer": 0,
+      "why": "Primary research collects original, first-hand data; the others already exist."
+    },
+    {
+      "type": "mcq",
+      "q": "A company's sales are $2 million in a market with total sales of $8 million. What is its market share?",
+      "options": [
+        "4%",
+        "25%",
+        "40%",
+        "75%"
+      ],
+      "answer": 1,
+      "why": "Market share = 2 ÷ 8 × 100 = 25%."
+    },
+    {
+      "type": "mcq",
+      "q": "Which describes a quota sample?",
+      "options": [
+        "Every person has an equal chance of being chosen",
+        "Only existing customers are asked",
+        "Data already collected by another organisation",
+        "People chosen because they have certain characteristics, e.g. age"
+      ],
+      "answer": 3,
+      "why": "A quota sample selects people by characteristics; equal chance describes a random sample."
+    },
+    {
+      "type": "short",
+      "q": "Define market segment.",
+      "model": "An identifiable sub-group of a whole market in which consumers have similar characteristics or preferences.",
+      "points": [
+        "sub-group of a market",
+        "consumers with similar characteristics / preferences"
+      ]
+    }
+  ]
+}

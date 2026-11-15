@@ -1,0 +1,50 @@
+{
+  "id": "phys-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which radiation is stopped by a sheet of paper and is the most strongly ionising?",
+      "options": [
+        "gamma",
+        "beta",
+        "alpha",
+        "X-rays"
+      ],
+      "answer": 2,
+      "why": "Alpha particles are highly ionising but have very low penetration (stopped by paper or a few cm of air)."
+    },
+    {
+      "type": "mcq",
+      "q": "The count rate from a sample falls from 800 counts/min to 100 counts/min in 6 hours. What is the half-life?",
+      "options": [
+        "2 hours",
+        "3 hours",
+        "0.75 hours",
+        "8 hours"
+      ],
+      "answer": 0,
+      "why": "800 → 400 → 200 → 100 is 3 half-lives in 6 hours, so the half-life is 2 hours."
+    },
+    {
+      "type": "mcq",
+      "q": "A star with about the same mass as the Sun reaches the end of its life. What does it become?",
+      "options": [
+        "a neutron star",
+        "a black hole",
+        "a red supergiant",
+        "a white dwarf and a planetary nebula"
+      ],
+      "answer": 3,
+      "why": "Small-mass stars: red giant → white dwarf + planetary nebula; supernovae happen only for large-mass stars."
+    },
+    {
+      "type": "short",
+      "q": "The Sun is 1.5 × 10¹¹ m from the Earth. The speed of light is 3.0 × 10⁸ m/s. Calculate the time for light to travel from the Sun to the Earth.",
+      "model": "t = s ÷ v = 1.5 × 10¹¹ ÷ 3.0 × 10⁸ = 500 s",
+      "points": [
+        "t = distance ÷ speed",
+        "500 s (about 8.3 minutes)"
+      ]
+    }
+  ]
+}

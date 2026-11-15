@@ -1,0 +1,50 @@
+{
+  "id": "eng-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which sentence evaluates rather than reports?",
+      "options": [
+        "Text A says uniforms save families money.",
+        "Text B thinks uniforms are uncomfortable.",
+        "Text A's claim that uniforms save money rests on one shop's prices, so the evidence is weak.",
+        "I agree with Text B."
+      ],
+      "answer": 2,
+      "why": "Evaluation judges how convincing an idea is, e.g. by testing its evidence."
+    },
+    {
+      "type": "mcq",
+      "q": "What register suits a directed writing letter to your headteacher?",
+      "options": [
+        "Formal and polite, ending \"Yours sincerely\"",
+        "Chatty, with slang to sound friendly",
+        "Report style with subheadings",
+        "Note form with bullet points"
+      ],
+      "answer": 0,
+      "why": "Register must match the audience: a headteacher needs a formal, respectful letter."
+    },
+    {
+      "type": "mcq",
+      "q": "A student summarises Text A, then Text B, with no judgement. What is the likely result?",
+      "options": [
+        "Full reading marks if every idea is included",
+        "Only writing marks are lost",
+        "No effect if the summary is accurate",
+        "The reading mark is capped in the middle levels"
+      ],
+      "answer": 3,
+      "why": "Top reading marks need evaluation of both texts, not just reporting."
+    },
+    {
+      "type": "short",
+      "q": "Give two questions you could ask to evaluate an idea in one of the texts.",
+      "model": "Any two: What evidence supports it, and is it enough? Could the writer be biased? Is it exaggerated or one-sided? Does it apply to everyone? Does the other text support or contradict it?",
+      "points": [
+        "evidence / reliability",
+        "bias, exaggeration, limits, or comparison with the other text"
+      ]
+    }
+  ]
+}

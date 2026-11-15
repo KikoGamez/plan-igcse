@@ -1,0 +1,50 @@
+{
+  "id": "math-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Find the value of 27^(−2/3).",
+      "options": [
+        "−9",
+        "1/9",
+        "9",
+        "−1/9"
+      ],
+      "answer": 1,
+      "why": "Cube root of 27 is 3, squared is 9, and the negative index gives the reciprocal 1/9."
+    },
+    {
+      "type": "mcq",
+      "q": "Simplify (2x³)⁴.",
+      "options": [
+        "8x⁷",
+        "2x¹²",
+        "16x¹²",
+        "16x⁷"
+      ],
+      "answer": 2,
+      "why": "Raise the 2 to the power 4 (16) and multiply the indices 3 × 4 = 12."
+    },
+    {
+      "type": "mcq",
+      "q": "Simplify √50 + √18.",
+      "options": [
+        "√68",
+        "2√17",
+        "15√2",
+        "8√2"
+      ],
+      "answer": 3,
+      "why": "√50 = 5√2 and √18 = 3√2, so the sum is 8√2; you cannot add under the root."
+    },
+    {
+      "type": "short",
+      "q": "Find the lowest common multiple (LCM) of 24 and 60.",
+      "model": "24 = 2³ × 3, 60 = 2² × 3 × 5, so LCM = 2³ × 3 × 5 = 120",
+      "points": [
+        "prime factors (or listing multiples)",
+        "120"
+      ]
+    }
+  ]
+}

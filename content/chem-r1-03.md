@@ -1,16 +1,19 @@
 # Stoichiometry: formulae and equations
 
-> **In the exam:** Equations are everywhere. Paper 2 tests formulae and balancing directly (2–3 questions). In Paper 4 almost every question contains "write a balanced symbol equation" or "write an ionic equation" (usually 1–2 marks each, often 6–10 marks per paper in total), and state symbols are sometimes required. Paper 6 asks you to write equations for reactions you observe in tests.
+> **In the exam:** Equations run through all the chemistry in 0654. **Paper 2** (Multiple Choice, 45 min, 40 questions, about a third of them chemistry) usually tests formulae and balancing directly in 1–2 questions. In **Paper 4** (Theory, 2 h, 120 marks across biology, chemistry and physics) most chemistry questions contain "write a balanced symbol equation" or "write an ionic equation" (usually 1–2 marks each), and state symbols are sometimes required. **Paper 6** (Alternative to Practical, 1 h 30 min, 60 marks) may ask you to write an equation for a reaction you observe in a test.
 
 ## What you need to know
 
-- State the formulae of the elements and compounds named in the subject content.
-- Define the molecular formula of a compound as the number and type of different atoms in one molecule.
-- Deduce the formula of a simple compound from the relative numbers of atoms present in a model or a diagrammatic representation.
-- Construct word equations and symbol equations to show how reactants form products, including state symbols.
-- *Extended:* deduce the formula of an ionic compound from the relative numbers of the ions present in a model or a diagrammatic representation, or from the charges on the ions.
-- *Extended:* construct symbol equations with state symbols, including ionic equations.
-- *Extended:* deduce the symbol equation with state symbols for a chemical reaction, given relevant information.
+- State the formulas of the elements and compounds named in the subject content.
+- Define the molecular formula of a compound as the number and type of atoms in one molecule.
+- Deduce the formula of a simple molecular compound from the relative numbers of atoms present in a model or a diagrammatic representation.
+- Construct word equations to show how reactants form products.
+- Balance and interpret simple symbol equations, including state symbols.
+- *Supplement:* deduce the formula of an ionic compound from the relative numbers of the ions present in a model or a diagrammatic representation or from the charges on the ions.
+- *Supplement:* construct symbol equations with state symbols, including ionic equations.
+- *Supplement:* deduce the symbol equation with state symbols for a chemical reaction, given relevant information.
+
+*Not in 0654:* empirical formulae (separate Chemistry 0620 only).
 
 ## Notes
 
@@ -21,8 +24,8 @@ The total positive charge must equal the total negative charge.
 | Positive ions | Negative ions |
 |---|---|
 | H⁺, Na⁺, K⁺, Li⁺, Ag⁺, NH₄⁺ | Cl⁻, Br⁻, I⁻, OH⁻, NO₃⁻ |
-| Mg²⁺, Ca²⁺, Ba²⁺, Zn²⁺, Cu²⁺, Fe²⁺, Pb²⁺ | O²⁻, S²⁻, SO₄²⁻, CO₃²⁻, SO₃²⁻ |
-| Al³⁺, Fe³⁺, Cr³⁺ | N³⁻, PO₄³⁻ |
+| Mg²⁺, Ca²⁺, Ba²⁺, Zn²⁺, Cu²⁺, Fe²⁺, Pb²⁺ | O²⁻, S²⁻, SO₄²⁻, CO₃²⁻ |
+| Al³⁺, Fe³⁺ | N³⁻, PO₄³⁻ (charge usually given in the question) |
 
 Method ("swap and drop"): Al³⁺ and O²⁻ → Al₂O₃. Ca²⁺ and NO₃⁻ → Ca(NO₃)₂ (brackets around compound ions when there is more than one). (NH₄)₂SO₄, Fe₂(SO₄)₃, Mg₃N₂.
 
@@ -35,7 +38,7 @@ Roman numerals give the charge on the metal ion: iron(III) chloride = FeCl₃; c
 | hydrochloric acid | HCl | sodium hydroxide | NaOH |
 | sulfuric acid | H₂SO₄ | ammonia | NH₃ |
 | nitric acid | HNO₃ | calcium carbonate | CaCO₃ |
-| ethanoic acid | CH₃COOH | calcium hydroxide (limewater) | Ca(OH)₂ |
+| ethene | C₂H₄ | calcium hydroxide (limewater) | Ca(OH)₂ |
 | carbon dioxide | CO₂ | sulfur dioxide | SO₂ |
 | carbon monoxide | CO | nitrogen dioxide | NO₂ |
 | methane | CH₄ | ethanol | C₂H₅OH |
@@ -43,7 +46,7 @@ Roman numerals give the charge on the metal ion: iron(III) chloride = FeCl₃; c
 
 ### Formulae from diagrams
 
-Count each type of atom in **one** molecule for a simple molecule (e.g. a ball-and-stick model with 2 C, 6 H, 1 O → C₂H₆O). For a giant ionic lattice diagram (Extended), find the **ratio** of ions (e.g. equal numbers of Na⁺ and Cl⁻ → NaCl).
+Count each type of atom in **one** molecule for a simple molecule (e.g. a ball-and-stick model with 2 C, 6 H, 1 O → C₂H₆O). For a giant ionic lattice diagram (Supplement), find the **ratio** of ions (e.g. equal numbers of Na⁺ and Cl⁻ → NaCl).
 
 ### Balancing equations
 
@@ -61,9 +64,9 @@ Combustion of propane: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O.
 (s) solid, (l) liquid, (g) gas, (aq) aqueous (dissolved in water).
 
 - Water is (l). Precipitates are (s). Acids and soluble salts in solution are (aq).
-- Use the solubility rules (Topic 7) to decide (s) or (aq) for salts.
+- The general solubility rules are not required in 0654: a question will tell you, or describe a precipitate (s) forming.
 
-### Ionic equations (Extended)
+### Ionic equations (Supplement)
 
 An ionic equation shows only the particles that take part. **Spectator ions** (ions that are unchanged) are left out.
 
@@ -91,7 +94,7 @@ Ionic equations to know:
 
 (For an insoluble carbonate such as CaCO₃(s), write CaCO₃(s) + 2H⁺(aq) → Ca²⁺(aq) + CO₂(g) + H₂O(l).)
 
-### Deducing equations from information (Extended)
+### Deducing equations from information (Supplement)
 
 Read the question for reactants, products and states. Example: "Lithium reacts with water to form an alkaline solution and a gas that pops with a lighted splint." → 2Li(s) + 2H₂O(l) → 2LiOH(aq) + H₂(g).
 
@@ -104,8 +107,7 @@ Read the question for reactants, products and states. Example: "Lithium reacts w
 
 | Term | Definition |
 |---|---|
-| Molecular formula | The number and type of different atoms in one molecule |
-| Empirical formula | The simplest whole number ratio of the different atoms or ions in a compound |
+| Molecular formula | The number and type of atoms in one molecule |
 | Spectator ion | An ion present in the reaction mixture that does not take part in the reaction |
 | Aqueous | Dissolved in water |
 

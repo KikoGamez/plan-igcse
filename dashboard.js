@@ -2,7 +2,7 @@
 (function(){
 const P=window.PLAN;if(!P)return;
 const ES=P.lang==='es';
-const NAME='Carlota';
+const NAME=P.name||'Carlota';const REC=(window.DATA&&DATA.T.rec)||null;
 const T=ES?{
   hello:`Hola, ${NAME}`,
   pre1:`Mañana empieza el plan, ${NAME}. ¡A por ello!`,preN:d=>`El plan empieza el ${d}.`,pre2:'Hoy no toca nada: deja preparado el material para mañana.',
@@ -28,6 +28,7 @@ const T=ES?{
   riskRd:'Al ritmo actual no llegas a todo. Reagenda y añade tiempo extra.',
   load:p=>`Carga pendiente: ${p}% del tiempo que queda`,
   subjTitle:'Por asignatura',sOk:'Al día',sResch:n=>`${n} reagendada${n===1?'':'s'}`,moreLoad:'Con lo reagendado tienes más carga diaria: no te relajes.',sLate:n=>`${n} retrasada${n===1?'':'s'}`,sGap:'Temario sin terminar',
+  prep:'Preparación según mini tests',prepNone:'Aún no hay mini tests: aparecen al marcar un tema como hecho.',weak:'Temas a reforzar',weakNone:'Ningún tema flojo por ahora.',avg:p=>`media ${p}%`,todayH:'Lo que tienes hoy',
   legend:'Semáforo general: verde si la carga pendiente cabe en el tiempo que queda; ámbar hasta un 10% por encima; rojo si se pasa más. Por asignatura: ámbar con 1–2 retrasadas o reagendadas; rojo con 3 o más, o con temario sin ver al empezar la Ronda 2.'
 }:{
   hello:`Hi ${NAME}`,
@@ -54,13 +55,18 @@ const T=ES?{
   riskRd:'At this pace you will not cover everything. Reschedule and add extra time.',
   load:p=>`Workload left: ${p}% of the time left`,
   subjTitle:'By subject',sOk:'On track',sResch:n=>`${n} rescheduled`,moreLoad:'With the rescheduled sessions your daily load is higher: don’t relax.',sLate:n=>`${n} overdue`,sGap:'Syllabus not finished',
+  prep:'Preparation from mini tests',prepNone:'No mini tests yet: they appear when you tick a topic as done.',weak:'Topics to reinforce',weakNone:'No weak topics so far.',avg:p=>`average ${p}%`,todayH:'Your sessions today',
   legend:'Overall light: green if the work left fits in the time left; amber up to 10% over; red beyond that. By subject: amber with 1–2 overdue or rescheduled; red with 3 or more, or topics not covered when Round 2 starts.'
 };
 
 const css=`
 .dash{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,290px);gap:16px;align-items:start}
+@media (max-width:1180px) and (min-width:1024px){.dash{grid-template-columns:minmax(0,1fr) minmax(0,250px)}}
 @media (max-width:900px){.dash{grid-template-columns:minmax(0,1fr) minmax(0,240px);gap:12px}.dash .card{padding:14px}}
 @media (max-width:700px){.dash{grid-template-columns:minmax(0,1fr)}}
+.dash .today{border:none;padding:0;background:transparent;grid-template-columns:minmax(0,160px) minmax(0,1fr)}
+@media (max-width:900px){.dash .today{grid-template-columns:minmax(0,1fr)}}
+.dash aside.card{position:sticky;top:calc(var(--topbar-h) + 16px)}
 .dash .card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:14px;min-width:0}
 .dash .msg{border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:4px;border-left:5px solid var(--st)}
 .dash .msg b{font-family:var(--f-display);font-size:1.25rem;line-height:1.2}
@@ -110,8 +116,9 @@ let ui={confirm:null};
 
 function compute(){
   const K=P.todayK,days=P.days,first=days[0].k,last=days[days.length-1].k;
-  const items=[];days.forEach(x=>x.slots.forEach((s,i)=>items.push({s,x,i,k:x.k,done:!!P.done[s.uid]})));
-  const total=items.length,n=items.filter(t=>t.done).length;
+  const items=[];days.forEach(x=>x.slots.forEach((s,i)=>{if(s.id)items.push({s,x,i,k:x.k,done:!!P.done[s.uid]})}));
+  const over=(P.overflow||[]).filter(s=>!P.done[s.uid]).length;
+  const total=items.length+over,n=items.filter(t=>t.done).length;
   const ph={};['r1','r2','f'].forEach(p=>{const a=items.filter(t=>t.s.ph===p);ph[p]={t:a.length,d:a.filter(t=>t.done).length,e:a.filter(t=>t.k<K).length}});
   const overdue=items.filter(t=>t.k<K&&!t.done).sort((a,b)=>a.k<b.k?-1:a.k>b.k?1:a.i-b.i);
   const todayIt=items.filter(t=>t.k===K),todayLeft=todayIt.filter(t=>!t.done).length;
@@ -120,6 +127,10 @@ function compute(){
   // risk: remaining work vs remaining planned time (from today)
   const capacity=days.filter(x=>x.k>=K).reduce((a,x)=>a+x.base,0);
   const remaining=total-n;
+  // recommendation
+  let rec=null;if(remaining>capacity&&K<=last){const def=remaining-capacity;const r=(P.HS&&P.HS.rules&&P.HS.rules.slice(-1)[0])||P.DEF_RULE;
+    const Dleft=days.filter(x=>x.k>K&&x.base>0).length||1;const perWeek=Math.ceil(def/(Dleft/7));
+    rec=perWeek<=7?{def,wd:perWeek}:{def,wd:0,perDay:Math.ceil(def/Dleft)}}
   const ratio=capacity>0?remaining/capacity:(remaining>0?9:0);
   let risk='g';
   if(K>=first){risk=ratio<=1.0001?'g':ratio<=1.1?'a':'r';if(capacity===0&&remaining>0)risk='r'}
@@ -128,11 +139,14 @@ function compute(){
   const subs=P.ORDER.map(k=>{const late=overdue.filter(t=>t.s.s===k).length;
     const r1left=items.filter(t=>t.s.s===k&&t.s.ph==='r1'&&!t.done).length;
     const resch=items.filter(t=>t.s.s===k&&t.s.moved&&!t.done&&t.k>=K).length;
-    let lv=late===0?(resch?'a':'g'):late<=2?'a':'r';if(r2Started&&r1left>0)lv='r';
-    return {k,late,resch,lv,gap:r2Started&&r1left>0}});
+    const qz=Object.entries(P.quiz||{}).filter(([id])=>id.startsWith(k+'-')).map(([,v])=>v.p);const avg=qz.length?Math.round(qz.reduce((a,b)=>a+b,0)/qz.length):null;
+    let lv=late===0?(resch?'a':'g'):late<=2?'a':'r';if(avg!==null&&qz.length>=2){if(avg<35)lv='r';else if(avg<50&&lv==='g')lv='a'}if(r2Started&&r1left>0)lv='r';
+    return {k,late,resch,lv,avg,gap:r2Started&&r1left>0}});
   let state='on';
   if(K<first)state='pre';else if(K>last)state='end';else if(overdue.length)state='behind';else if(ahead>0)state='ahead';
-  return {K,first,last,items,total,n,ph,overdue,todayLeft,ahead,expectedAll,capacity,remaining,ratio,risk,subs,state};
+  const weak=Object.entries(P.quiz||{}).filter(([,v])=>v.p<60).sort((a,b)=>a[1].p-b[1].p).slice(0,6).map(([id,v])=>{const it=items.find(t=>t.s.id===id);return it?{id,p:v.p,it}:null}).filter(Boolean);
+  const allQ=Object.values(P.quiz||{}).map(v=>v.p);const qAvg=allQ.length?Math.round(allQ.reduce((a,b)=>a+b,0)/allQ.length):null;
+  return {K,first,last,items,total,n,ph,overdue,todayLeft,ahead,expectedAll,capacity,remaining,ratio,risk,subs,state,weak,qAvg,rec,over};
 }
 
 function planMoves(c){
@@ -182,26 +196,30 @@ function render(){
       <div class="kpi"><b class="num">${c.todayLeft}</b><span>${T.kToday}</span></div>
       <div class="kpi ${c.ahead?'good':''}"><b class="num">${c.ahead}</b><span>${T.kAhead}</span></div>
     </div>
+    <h4>${T.todayH}</h4><div class="today" id="today"></div>
     <div class="prog">${bar(T.r1,c.ph.r1,true)}${bar(T.r2,c.ph.r2,true)}${bar(T.f,c.ph.f,false)}${bar(T.all,all,true)}</div>
     <div class="over"><h4>${T.overTitle}</h4>${c.overdue.length?`<ul class="slots">${ov}</ul>${c.overdue.length>10?`<p class="note">${T.more(c.overdue.length-10)}</p>`:''}`:`<p class="note">${T.overNone}</p>`}</div>
     ${actions}
+    <div class="over"><h4>${T.weak}</h4>${c.weak.length?`<ul class="slots">${c.weak.map(w=>P.slotHTML(w.it.x,w.it.s,w.it.i)).join('')}</ul>`:`<p class="note">${c.qAvg===null?T.prepNone:T.weakNone}</p>`}</div>
   </div>
   <aside class="card" aria-label="${T.riskTitle}">
     <h4>${T.riskTitle}</h4>
     <div class="light"><div class="lamps" aria-hidden="true"><i class="r ${c.risk==='r'?'on':''}"></i><i class="a ${c.risk==='a'?'on':''}"></i><i class="g ${c.risk==='g'?'on':''}"></i></div>
       <div><b>${lvl[0]}</b><span>${lvl[1]}</span>${c.K>=c.first&&c.K<=c.last?`<span class="note" style="display:block;margin-top:6px">${T.load(Math.round(100*c.ratio))}</span>`:''}</div></div>
+    ${c.qAvg!==null?`<p class="note">${T.prep}: <b>${c.qAvg}%</b></p>`:''}
+    ${c.rec&&REC?`<div class="rec"><b>${REC.title}</b><span>${c.rec.wd?REC.short(c.rec.def,c.rec.wd):REC.short2(c.rec.def,c.rec.perDay)}</span>${c.over?`<span>${REC.over(c.over)}</span>`:''}<a href="#ajustes">${REC.btn} →</a></div>`:''}
     <h4>${T.subjTitle}</h4>
-    <ul class="subs">${c.subs.map(s=>`<li><i class="dot ${s.lv}"></i><span>${P.S[s.k].es}</span><em>${s.gap?T.sGap:s.late?T.sLate(s.late):s.resch?T.sResch(s.resch):T.sOk}</em></li>`).join('')}</ul>
+    <ul class="subs">${c.subs.map(s=>`<li><i class="dot ${s.lv}"></i><span>${P.S[s.k].es}</span><em>${s.gap?T.sGap:s.late?T.sLate(s.late):s.resch?T.sResch(s.resch):T.sOk}${s.avg!==null?' · '+s.avg+'%':''}</em></li>`).join('')}</ul>
     <p class="note">${T.legend}</p>
   </aside>`;
 }
 box.addEventListener('click',e=>{const b=e.target.closest('button[data-a]');if(!b)return;const a=b.dataset.a;
-  if(a==='res'){ui.confirm='res';render()}
-  else if(a==='undo'){ui.confirm='undo';render()}
-  else if(a==='cancel'){ui.confirm=null;render()}
+  if(a==='res'){ui.confirm='res';window.dashRefresh()}
+  else if(a==='undo'){ui.confirm='undo';window.dashRefresh()}
+  else if(a==='cancel'){ui.confirm=null;window.dashRefresh()}
   else if(a==='res-yes'){const c=compute();const pm=planMoves(c);if(pm)persist(Object.assign({},P.moves||{},pm.mv))}
   else if(a==='undo-yes'){persist({})}
 });
-window.dashRefresh=render;
-render();
+window.dashRefresh=function(){render();P.renderToday&&P.renderToday()};
+window.dashRefresh();
 })();

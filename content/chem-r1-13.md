@@ -1,18 +1,21 @@
 # Experimental techniques
 
-> **In the exam:** This topic is the backbone of **Paper 6** (40 marks): naming apparatus, separation methods, chromatography with Rf values, titration readings, planning, errors and improvements. Paper 2 has 2–3 questions; Paper 4 usually has a chromatography or purification part (2–5 marks) and a titration calculation.
+> **In the exam:** This topic is the chemistry backbone of **Paper 6** (Alternative to Practical, 1 h 30 min, 60 marks, 20% — shared with biology and physics experiments): naming apparatus, separation methods, chromatography with Rf values, titration readings, planning, errors and improvements. **Paper 2** (Multiple Choice, 45 min, 40 questions) usually has 1–2 questions here; **Paper 4** (Theory, 2 h, 120 marks) may have a chromatography or purification part (2–5 marks). There are no titration calculations in 0654.
 
 ## What you need to know
 
-- Name appropriate apparatus for the measurement of time, temperature, mass and volume, including burettes, volumetric pipettes, measuring cylinders and gas syringes.
-- Suggest advantages and disadvantages of experimental methods and apparatus.
-- Describe an acid–alkali titration; know the terms solvent, solute, solution, saturated solution, residue, filtrate.
-- Identify an end-point of a titration using an indicator (methyl orange and thymolphthalein).
-- Describe how paper chromatography is used to separate mixtures of soluble coloured substances, using a suitable solvent; interpret simple chromatograms, including Rf values.
-- *Extended:* describe the use of a locating agent when separating colourless substances; state and use the equation Rf = distance travelled by substance ÷ distance travelled by solvent.
+- Name appropriate apparatus for the measurement of time, temperature, mass and volume, including stop-watches, thermometers, balances, burettes, volumetric pipettes, measuring cylinders and gas syringes.
+- Describe a solvent, solute, solution, saturated solution, residue and filtrate (definitions in the table below).
+- Describe an acid–base titration to include the use of a burette, a volumetric pipette and a suitable indicator; describe how to identify the end-point of a titration using an indicator.
+- Describe how paper chromatography is used to separate mixtures of soluble coloured substances, using a suitable solvent.
+- Interpret simple chromatograms to identify unknown substances by comparison with known substances, and pure and impure substances.
+- *Supplement:* state and use the equation Rf = distance travelled by substance ÷ distance travelled by solvent.
 - Describe and explain methods of separation and purification using: a suitable solvent, filtration, crystallisation, simple distillation, fractional distillation.
 - Suggest suitable separation and purification techniques, given information about the substances involved.
-- Identify substances and assess their purity using melting point and boiling point information.
+- Identify substances and assess their purity from melting point and boiling point information.
+- Describe tests to identify ions and gases (C12.5) — covered in the *Acids, bases and salts* session.
+
+*Not in 0654:* locating agents for colourless substances, thymolphthalein, titration calculations.
 
 ## Notes
 
@@ -64,8 +67,7 @@ Interpreting:
 - A **pure** substance gives **one spot**. A mixture gives two or more.
 - Spots at the same height (same Rf, same solvent) as a known substance → same substance.
 - A spot on the baseline: insoluble in that solvent.
-- **Rf = distance travelled by substance ÷ distance travelled by solvent** (both from the baseline; measure to the centre of the spot). Rf has no units and is always less than 1.
-- *Extended:* **Locating agent** — sprayed onto the dried chromatogram to make **colourless** substances (e.g. amino acids) visible as coloured spots.
+- *Supplement:* **Rf = distance travelled by substance ÷ distance travelled by solvent** (both from the baseline; measure to the centre of the spot). Rf has no units and is always less than 1.
 
 ### Titration (acid–alkali)
 
@@ -73,13 +75,13 @@ Interpreting:
 2. Use a **volumetric pipette** (with pipette filler) to transfer 25.0 cm³ of alkali into a conical flask.
 3. Add a few drops of indicator.
 4. Add acid from the burette, swirling, dropwise near the end-point, until the indicator **just** changes colour (permanent change). Record the final reading.
-5. Repeat until you have **concordant** results (within 0.20 cm³ of each other); calculate the mean of the concordant titres.
+5. Repeat until you have **concordant** results (within 0.20 cm³ of each other); in Paper 6 you may be asked to calculate the mean of the concordant titres.
 - A white tile under the flask makes the colour change easier to see.
 
 | Indicator | In acid | In alkali |
 |---|---|---|
 | Methyl orange | red | yellow (end-point orange) |
-| Thymolphthalein | colourless | blue |
+| Litmus | red | blue |
 
 ### Purity
 
@@ -92,7 +94,7 @@ Interpreting:
 
 - **Tables:** headings with quantity and unit (e.g. "temperature / °C"); consistent decimal places (burette 2 d.p., thermometer 1 d.p. or whole numbers as the scale allows).
 - **Graphs:** label both axes with units; scales that use more than half the grid and are linear; plot points accurately (±½ small square); best-fit straight line or smooth curve; circle anomalies.
-- **Variables:** independent (what you change), dependent (what you measure), controlled (kept the same).
+- **Variables:** independent (what you change), dependent (what you measure), controlled (kept the same). See the *Mark Paper 6* session for the full practical-skills review across all three sciences.
 - **Errors and improvements:** heat loss (insulate, lid); gas escaping (use gas syringe, add solid quickly / in a separate container inside the flask); measuring cylinder imprecise (use a burette or pipette); reaction timing subjective (repeat, take averages).
 - **Planning:** state apparatus with sizes, quantities, what to measure, how to make it fair, how to process results, safety.
 - **Safety:** eye protection; fume cupboard for toxic gases (chlorine, bromine, SO₂, NO₂); water bath for flammable liquids; never heat a closed system.
@@ -108,8 +110,7 @@ Interpreting:
 | Saturated solution | A solution containing the maximum concentration of a solute dissolved in the solvent at a specified temperature |
 | Residue | A substance that remains after evaporation, distillation, filtration or any similar process |
 | Filtrate | A liquid or solution that has passed through a filter |
-| Rf value | Distance travelled by substance ÷ distance travelled by solvent |
-| Locating agent (Ext) | A substance sprayed on a chromatogram to make colourless spots visible |
+| Rf value (Supp) | Distance travelled by substance ÷ distance travelled by solvent |
 
 ## Worked examples
 
@@ -149,7 +150,7 @@ Interpreting:
 1. Name the best apparatus to measure (a) exactly 25.0 cm³ of a solution, (b) the volume of gas given off in a reaction, (c) a variable volume of acid added in a titration. [3]
 2. Describe how to separate a mixture of salt and sand to obtain dry salt crystals. [4]
 3. A spot has Rf = 0.62. The solvent front is 9.5 cm from the baseline. How far did the spot travel? [1]
-4. Amino acids are colourless. Explain how a chromatogram of amino acids is made visible. [2]
+4. A food colouring gives three spots on a chromatogram. Two of the spots are at the same heights as spots from dyes E102 and E133 run on the same paper. What can you conclude? [2]
 5. Ethanol boils at 78 °C and water at 100 °C. Name the method to separate them and explain why the thermometer reading stays at 78 °C for some time. [3]
 6. A sample of aspirin melts between 128 °C and 133 °C. Pure aspirin melts at 136 °C. What does this show? Explain. [2]
 7. Define (a) saturated solution, (b) residue. [2]
@@ -160,7 +161,7 @@ Interpreting:
 1. (a) volumetric pipette (b) gas syringe (c) burette.
 2. Add water and stir to dissolve the salt (1); filter to remove sand (1); heat the filtrate to evaporate some water until saturated, then leave to cool and crystallise (1); filter off and dry crystals between filter papers (1).
 3. 0.62 × 9.5 = 5.9 cm (5.89 cm).
-4. Spray with a locating agent after drying (1); the amino acids show up as coloured spots (1).
+4. The food colouring is a mixture / impure (three spots) (1); it contains E102 and E133 (plus one other substance) (1).
 5. Fractional distillation (1); ethanol is distilling over / temperature stays at the boiling point of ethanol (1) until all the ethanol has been collected (1).
 6. It is impure (1); melts over a range and below the melting point of the pure substance (1).
 7. (a) A solution containing the maximum concentration of a solute dissolved in the solvent at a specified temperature (1). (b) A substance that remains after evaporation, distillation, filtration or a similar process (1).

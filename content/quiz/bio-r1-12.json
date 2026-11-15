@@ -1,0 +1,50 @@
+{
+  "id": "bio-r1-12",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A heterozygous tall plant (Tt) is crossed with a short plant (tt). What is the expected ratio of tall : short offspring?",
+      "options": [
+        "1 : 1",
+        "3 : 1",
+        "1 : 0",
+        "1 : 3"
+      ],
+      "answer": 0,
+      "why": "Gametes T, t × t give Tt and tt in equal numbers: 1 tall : 1 short."
+    },
+    {
+      "type": "mcq",
+      "q": "What is an allele?",
+      "options": [
+        "a length of DNA that codes for a protein",
+        "an alternative form of a gene",
+        "the observable features of an organism",
+        "a genetic change"
+      ],
+      "answer": 1,
+      "why": "An allele is an alternative form of a gene; the first option defines a gene."
+    },
+    {
+      "type": "mcq",
+      "q": "Which describes meiosis?",
+      "options": [
+        "nuclear division giving genetically identical cells",
+        "the division used for growth and repair",
+        "the division used in asexual reproduction",
+        "reduction division giving genetically different haploid cells"
+      ],
+      "answer": 3,
+      "why": "Meiosis halves the chromosome number (diploid → haploid) and makes gametes; the rest describe mitosis."
+    },
+    {
+      "type": "short",
+      "q": "How many chromosomes are in a human sperm cell? Explain your answer.",
+      "model": "23; gametes are haploid, containing a single set of chromosomes (half of the 46 in a diploid cell), because they are made by meiosis.",
+      "points": [
+        "23",
+        "haploid / single set of chromosomes (made by meiosis)"
+      ]
+    }
+  ]
+}

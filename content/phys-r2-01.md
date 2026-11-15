@@ -1,67 +1,63 @@
-# Past paper · Paper 2 (multiple choice)
+# Co-ordinated Sciences · Paper 4 second paper (1/2)
 
-> **Goal:** Sit a complete Paper 2 under exam conditions in 45 minutes, mark it, and turn every wrong answer into an error-log entry.
+> **Goal:** Start a second complete 0654 Paper 4 (Theory, Extended) from a different series under exam conditions and work for exactly the first 60 minutes of its 2 hours, so you can finish it in the next session.
 
 ## Before you start
 
-- **Paper:** a Cambridge IGCSE Physics 0625 **Paper 2 (Multiple Choice, Extended)** — component 21, 22 or 23 — from the most recent series you have not done (e.g. May/June 2025, Oct/Nov 2024, or Feb/March 2025 which only has variant 22). Variants of the same series contain different questions, so a different variant counts as a new paper.
-- **Mark scheme:** the matching one (for MCQ it is just the answer key). Keep it out of sight until the end.
-- **Timer:** set to 45 minutes.
-- **Calculator:** allowed (scientific, non-programmable). Also a pencil, ruler and rubber. There is no formula sheet — you must know every equation.
-- Quiet room, phone away, no notes.
+- **Paper:** Cambridge IGCSE Co-ordinated Sciences (Double Award) **0654 Paper 4 (Theory, Extended)** — component 41, 42 or 43 — from a **different series from your first Paper 4** and one you have not seen. Use a paper from the current syllabus (first exams 2025): e.g. May/June 2026, Oct/Nov 2025, May/June 2025 or Feb/March 2025/2026 (the March series, for India, has variant 42 only). A different variant of the same series is a different paper. Older 0654 Paper 4s (2024 and before) have the same length but some questions are on topics no longer in the syllabus — skip those parts if you have to use one.
+- **Mark scheme and examiner report** for the same paper: download them now but put them away until the marking session.
+- **Timer:** 60 minutes for today. The real paper is **2 hours**, so this is half of it.
+- **Equipment:** black pen, pencil (diagrams and graphs), ruler, protractor, scientific calculator, rubber. There is no equation sheet; the front cover reminds you to take the weight of 1.0 kg as 9.8 N (g = 9.8 m/s²), and a Periodic Table is printed in the paper.
+- An envelope or folder to seal the paper in at the end of the hour. Quiet room, phone off, no notes.
 
 ## Exam format reminder
 
-- **45 minutes, 40 marks, 40 compulsory questions**, each with four options A–D. 30% of your total grade.
-- No negative marking: never leave a question blank.
-- Questions roughly follow the syllabus order: motion, forces, energy, pressure → thermal → waves, light, sound → electricity and magnetism → nuclear → space.
-- **Timing:** about 1 minute per question. Aim to reach question 20 by about 20 minutes and finish with 5 minutes spare to review flagged questions.
+- **Paper 4 (Theory, Extended): 2 hours, 120 marks, 50% of the qualification.** Compulsory short-answer and structured questions on Biology, Chemistry and Physics; the sciences are mixed through the paper, and roughly a third of the marks are Physics.
+- The other papers: Paper 2 (Multiple Choice, Extended) 45 min, 40 marks, 30%; Paper 6 (Alternative to Practical) 1 h 30 min, 60 marks, 20%.
+- **Timing:** 120 marks in 120 minutes = **1 mark per minute**. In today's 60 minutes aim to complete about **55–60 marks**, i.e. roughly the first half of the questions.
+- **Why the split:** the real paper is 2 hours and your sessions are 1 hour, so you sit it in two halves: today the first hour, next session the second hour. If you can, run both sessions back-to-back with only a 5-minute break — that is closest to the real exam.
 
 ## How to do it
 
-1. **0–45 min — sit the paper.** Write your answer letter clearly next to each question (or on an answer grid). Flag (circle) any question you are not sure about, choose your best answer anyway, and move on. At the end, revisit flagged questions.
-2. **45–55 min — mark.** Use the answer key. Write the total out of 40 and a percentage.
-3. **55–60 min — sort the mistakes** into the error log (see checklist below). For each wrong answer, redo it with the answer known until you understand why the key is right.
-
-Rough guide to your level (thresholds change every series, check the grade thresholds for that paper): around 30+/40 is a strong A-grade performance on Paper 2.
+1. **0–3 min:** flick through the whole paper. Write the mark total for each question in the margin and mark the **halfway point** (the question where the running total reaches about 60 marks). Write target times: e.g. 15 marks done by 0:15, 30 by 0:30, 45 by 0:45, 60 by 1:00.
+2. **3–58 min:** answer in order. If a part stalls you for more than a minute, star it and move on — later parts often stand alone. Do not skip the Biology or Chemistry questions: this is a full Co-ordinated Sciences paper.
+3. **58–60 min:** check units and significant figures on the Physics calculations you have done.
+4. **Stop at 60 minutes exactly.** Draw a line under the last thing you wrote and write "1:00". Put the paper in the envelope without reading ahead. Do not look anything up between the sessions.
+5. Note on the envelope: series, variant, how many marks' worth of questions you completed, which questions you starred.
 
 ## Exam technique for this paper
 
-- **Cover the options.** Read the stem, work out your own answer, then look at A–D. Distractors are built from typical mistakes (forgetting to square, wrong units, halving instead of doubling).
-- **Calculation questions:** write the working in the margin. Check units and powers of ten (kW vs W, cm vs m, minutes vs seconds) before choosing. If your answer isn't an option, check for a unit conversion.
-- **Graph questions:** check what is on each axis. Gradient of distance–time = speed; gradient of speed–time = acceleration; area under speed–time = distance.
-- **"Which statement is correct?"** Test each option independently and cross out wrong ones. Watch for words like *always*, *only*, *never*.
-- **Diagram questions** (ray diagrams, field lines, circuits): sketch on the question paper. For circuits, redraw if confusing; trace the current path.
-- **Two-variable questions** (e.g. "what happens to current and p.d.?"): decide each separately, then pick the option that matches both.
-- **Elimination:** two options can usually be removed quickly; then decide between the remaining two by checking one specific fact.
-- **Don't change answers** on a whim at the end — only if you find a clear error.
-- **Never leave a blank** — a guess has a 25% chance.
+**Physics calculations**
+- Write the equation in symbols, substitute, then answer with a unit. Mark schemes award **C1** for the correct equation or substitution even if the final answer is wrong, and **A1** for the answer with its unit.
+- Convert first: cm → m, g → kg, minutes → s, kW → W, cm² → m², hours → s (but hours for kW h).
+- Keep full calculator values; round only the final answer (2–3 significant figures).
+- If you could not get an earlier answer, use your own value in later parts — error carried forward is usually allowed.
+
+**Command words** (Cambridge list)
+- **State** — short answer, no reason. **Describe** — say what happens / the features. **Explain** — give reasons with *because / so / therefore*. **Calculate** — numerical answer with working. **Suggest** — apply knowledge to a new situation. **Sketch** — correct shape and key features. **Determine** — get a value from data or a graph. **Define** — exact syllabus wording.
+
+**Mixed-science paper**
+- Change gear deliberately at each new question: read the stem twice, underline what the question asks (e.g. "in terms of particles", "use the graph").
+- Physics explanations are marked as chains of points; one mark per point. Use precise words: *resultant force, perpendicular distance, more energetic particles, collisions with the walls, changing magnetic field, current*.
+- Draw ray diagrams, field lines and graph lines with a ruler/sharp pencil; arrows on rays and field lines.
 
 ## Checklist while marking
 
-For every wrong (or lucky) answer, record in your error log:
+You will mark the whole paper in the session after next (Mark Paper 4, second paper). Before you leave today:
 
-| Column | What to write |
-|---|---|
-| Question no. + topic | e.g. Q17 – refraction / critical angle |
-| Type of error | **K** knowledge gap (didn't know the fact/equation) · **C** calculation/unit slip · **R** misread the question/graph · **T** ran out of time / guessed |
-| Correct reasoning | One line explaining why the right answer is right |
-| Action | e.g. "learn n = 1/sin c", "always convert cm² → m²" |
-
-- Count errors by type. If most are **K**, revisit those Round 1 topic pages. If most are **C** or **R**, slow down and write working in the margin.
-- Count errors by topic. Three or more in one topic → add it to your weak-topics list for session phys-r2-05.
-- Also look at the questions you got right but flagged — they are weak spots too.
+- [ ] Paper code, series and variant written on the envelope.
+- [ ] Every guessed or unsure answer starred — it goes in the error log even if it turns out right.
+- [ ] The slowest question noted (time lost here costs marks in the second hour).
 
 ## Quick-fire revision
 
-- Vectors: force, weight, velocity, acceleration, momentum, electric and gravitational field strength. Scalars: distance, speed, time, mass, energy, temperature.
-- W = mg (g = 9.8 N/kg); ρ = m/V; k = F/x; F = ma; p = mv; FΔt = Δ(mv); moment = F × d.
-- Ek = ½mv²; ΔEp = mgΔh; W = Fd; P = W/t; efficiency = useful output ÷ total input.
-- p = F/A; Δp = ρgΔh; pV = constant; T(K) = θ(°C) + 273; c = ΔE/(mΔθ).
-- v = fλ; n = sin i/sin r; n = 1/sin c; EM speed 3.0 × 10⁸ m/s; sound in air 330–350 m/s; hearing 20 Hz–20 kHz.
-- I = Q/t; V = W/Q; R = V/I; P = IV; E = IVt; series R add; parallel 1/R = 1/R₁ + 1/R₂; R₁/R₂ = V₁/V₂.
-- Vp/Vs = Np/Ns; IpVp = IsVs; P = I²R.
-- α: ⁴₂He, A −4, Z −2; β: ⁰₋₁e, Z +1; γ: no change. Half-life: subtract background first.
-- v = 2πr/T; H₀ = v/d = 2.2 × 10⁻¹⁸ s⁻¹; age ≈ 1/H₀; 1 light-year = 9.5 × 10¹⁵ m.
-- EM order (increasing f): radio, microwave, infrared, visible, UV, X-ray, gamma.
-- Planet order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+Physics definitions Paper 4 often asks for (0654 wording):
+
+- **Speed:** distance travelled per unit time. **Acceleration:** change in velocity per unit time.
+- **Weight:** gravitational force on an object that has mass. **Gravitational field strength:** force per unit mass.
+- **Density:** mass per unit volume. **Pressure:** force per unit area. **Spring constant:** force per unit extension.
+- **Moment:** force × perpendicular distance from the pivot. **Equilibrium:** no resultant force and no resultant moment.
+- **Power:** work done (energy transferred) per unit time. **Efficiency:** useful energy (power) output ÷ total energy (power) input × 100%.
+- **Current:** charge passing a point per unit time. **E.m.f.:** electrical work done by a source in moving a unit charge around a complete circuit. **P.d.:** work done by a unit charge passing between two points in a circuit.
+- **Refractive index:** ratio of the speeds of a wave in two different regions. **Critical angle:** angle of incidence at which the angle of refraction is 90°.
+- **Half-life:** time taken for half the nuclei of that isotope in any sample to decay. **Light-year:** distance light travels in space in one year.

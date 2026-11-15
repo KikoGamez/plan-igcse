@@ -1,0 +1,50 @@
+{
+  "id": "stats-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "The class 10 < a ≤ 25 has frequency 30. Find its frequency density.",
+      "options": [
+        "2",
+        "3",
+        "30",
+        "0.5"
+      ],
+      "answer": 0,
+      "why": "Frequency density = 30 ÷ class width 15 = 2."
+    },
+    {
+      "type": "mcq",
+      "q": "A mark of 68 is from a test with mean 60 and standard deviation 5. Find the standardised score.",
+      "options": [
+        "8",
+        "−1.6",
+        "1.6",
+        "13.6"
+      ],
+      "answer": 2,
+      "why": "(68 − 60) ÷ 5 = 1.6."
+    },
+    {
+      "type": "mcq",
+      "q": "In a histogram with unequal class widths, the modal class is the class with the highest",
+      "options": [
+        "frequency",
+        "class width",
+        "area",
+        "frequency density"
+      ],
+      "answer": 3,
+      "why": "The modal class is the tallest bar, i.e. the highest frequency density."
+    },
+    {
+      "type": "short",
+      "q": "Amy scored 62 in French (mean 50, s.d. 8) and 70 in German (mean 64, s.d. 3). In which test did she do better relative to the group? Show your working.",
+      "model": "French: (62 − 50) ÷ 8 = 1.5; German: (70 − 64) ÷ 3 = 2. German, because its standardised score is higher.",
+      "points": [
+        "1.5 and 2",
+        "German, higher standardised score"
+      ]
+    }
+  ]
+}

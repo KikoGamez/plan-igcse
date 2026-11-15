@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A force of 30 N acts at a perpendicular distance of 40 cm from a pivot. What is the moment of the force?",
+      "options": [
+        "1200 N m",
+        "75 N m",
+        "0.75 N m",
+        "12 N m"
+      ],
+      "answer": 3,
+      "why": "Moment = F × d = 30 × 0.40 m = 12 N m (convert cm to m)."
+    },
+    {
+      "type": "mcq",
+      "q": "A uniform beam is pivoted at its centre. A 6.0 N weight hangs 50 cm left of the pivot. What weight 20 cm right of the pivot balances it?",
+      "options": [
+        "2.4 N",
+        "15 N",
+        "6.0 N",
+        "36 N"
+      ],
+      "answer": 1,
+      "why": "Clockwise moment = anticlockwise moment: W × 20 = 6.0 × 50, so W = 15 N."
+    },
+    {
+      "type": "mcq",
+      "q": "Which change makes a table lamp most stable?",
+      "options": [
+        "lower centre of gravity and wider base",
+        "higher centre of gravity and wider base",
+        "lower centre of gravity and narrower base",
+        "higher centre of gravity and narrower base"
+      ],
+      "answer": 0,
+      "why": "A low centre of gravity and wide base mean it must tilt further before its weight acts outside the base."
+    },
+    {
+      "type": "short",
+      "q": "A crate weighing 600 N rests on a base of area 0.030 m². Calculate the pressure it exerts on the floor.",
+      "model": "p = F ÷ A = 600 ÷ 0.030 = 20 000 Pa (N/m²)",
+      "points": [
+        "p = F ÷ A",
+        "20 000",
+        "Pa or N/m²"
+      ]
+    }
+  ]
+}

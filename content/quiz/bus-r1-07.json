@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-07",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "25 workers produce 3,000 units a week. What is labour productivity?",
+      "options": [
+        "12 units per worker per week",
+        "1,200 units per worker per week",
+        "75,000 units per week",
+        "120 units per worker per week"
+      ],
+      "answer": 3,
+      "why": "Labour productivity = output ÷ number of workers = 3,000 ÷ 25 = 120."
+    },
+    {
+      "type": "mcq",
+      "q": "Checking quality standards throughout the production process is called:",
+      "options": [
+        "quality assurance",
+        "quality control",
+        "just-in-time",
+        "kaizen"
+      ],
+      "answer": 0,
+      "why": "Quality control checks at the end; quality assurance checks throughout."
+    },
+    {
+      "type": "mcq",
+      "q": "Which production method best suits a business making wedding dresses to each customer's design?",
+      "options": [
+        "Batch production",
+        "Flow production",
+        "Job production",
+        "Cell production"
+      ],
+      "answer": 2,
+      "why": "One-off products made to a customer's specification use job production."
+    },
+    {
+      "type": "short",
+      "q": "State one disadvantage of just-in-time (JIT) inventory management.",
+      "model": "It depends on reliable suppliers: a late delivery stops production because there is no buffer inventory.",
+      "points": [
+        "relies on reliable suppliers",
+        "delay / sudden rise in demand stops production (no buffer)"
+      ]
+    }
+  ]
+}

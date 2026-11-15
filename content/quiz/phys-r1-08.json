@@ -1,0 +1,51 @@
+{
+  "id": "phys-r1-08",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A polythene rod is rubbed with a cloth and becomes negatively charged. Why?",
+      "options": [
+        "electrons move from the cloth to the rod",
+        "protons move from the rod to the cloth",
+        "electrons move from the rod to the cloth",
+        "protons move from the cloth to the rod"
+      ],
+      "answer": 0,
+      "why": "Charging by friction only transfers electrons; the rod gains electrons, so it is negative."
+    },
+    {
+      "type": "mcq",
+      "q": "The p.d. across a resistor is 6.0 V and the current in it is 0.30 A. What is its resistance?",
+      "options": [
+        "1.8 Ω",
+        "0.050 Ω",
+        "20 Ω",
+        "2.0 Ω"
+      ],
+      "answer": 2,
+      "why": "R = V ÷ I = 6.0 ÷ 0.30 = 20 Ω."
+    },
+    {
+      "type": "mcq",
+      "q": "A metal wire is replaced by one of the same metal with twice the length and twice the cross-sectional area. Its resistance is:",
+      "options": [
+        "halved",
+        "unchanged",
+        "doubled",
+        "four times larger"
+      ],
+      "answer": 1,
+      "why": "R ∝ length doubles R, and R ∝ 1 ÷ area halves it, so overall R stays the same."
+    },
+    {
+      "type": "short",
+      "q": "A current of 0.50 A flows in a lamp for 2.0 minutes. Calculate the charge that passes through the lamp.",
+      "model": "Q = It = 0.50 × 120 = 60 C",
+      "points": [
+        "Q = It",
+        "time in seconds: 2.0 min = 120 s",
+        "60 C"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bus-r1-01",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A carpenter buys wood for $40 and sells a finished chair for $150. What is the added value?",
+      "options": [
+        "$150",
+        "$190",
+        "$110",
+        "$40"
+      ],
+      "answer": 2,
+      "why": "Added value = selling price − cost of bought-in materials = 150 − 40."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is a feature of a private limited company?",
+      "options": [
+        "Shareholders have limited liability",
+        "Shares are sold on the stock exchange",
+        "It is owned by the government",
+        "The owner has unlimited liability"
+      ],
+      "answer": 0,
+      "why": "Only a plc can sell shares on the stock exchange; a private limited company's shareholders have limited liability."
+    },
+    {
+      "type": "mcq",
+      "q": "Which business operates in the secondary sector?",
+      "options": [
+        "A supermarket",
+        "A bakery that makes bread",
+        "A fishing company",
+        "A bank"
+      ],
+      "answer": 1,
+      "why": "Secondary sector = manufacturing/processing; retail and banking are tertiary, fishing is primary."
+    },
+    {
+      "type": "short",
+      "q": "Define opportunity cost.",
+      "model": "The next best alternative given up when a choice is made.",
+      "points": [
+        "next best alternative",
+        "given up / forgone"
+      ]
+    }
+  ]
+}

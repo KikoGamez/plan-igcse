@@ -136,6 +136,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .slot .rail{align-self:stretch;border-radius:2px}
 .slot label{cursor:pointer;display:flex;flex-direction:column;gap:1px;min-width:0}
 .slot .sn{font:600 .7rem var(--f-mono);letter-spacing:.05em;text-transform:uppercase}
+.slot a.tp{color:inherit;text-decoration:none;border-bottom:1px solid var(--line)}.slot a.tp:hover{color:var(--accent);border-color:var(--accent)}
 .slot .tp{font-weight:600;font-size:.9rem;line-height:1.3}
 .slot .dt{font-size:.8rem;color:var(--muted);line-height:1.35}
 .slot input:checked + .rail + label .tp{text-decoration:line-through;color:var(--muted)}
@@ -164,8 +165,18 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .method{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:14px}
 .rules{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.9rem;max-width:75ch}
 footer{font-size:.8rem;color:var(--muted)}
+.install-hint{font-size:.85rem;background:var(--accent-soft);border-radius:8px;padding:8px 12px;margin:0}
+
 </style>
 <style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="IGCSE">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#151A31">
+<script>if('serviceWorker' in navigator){addEventListener('load',()=>navigator.serviceWorker.register('../sw.js',{scope:'../'}).catch(()=>{}))}</script>
 </head>
 <body>
 
@@ -175,12 +186,13 @@ footer{font-size:.8rem;color:var(--muted)}
       <div>
         <p class="eyebrow">IGCSE · Mocks · 11 January 2027 · <a href="../">Versión en español</a></p>
         <h1>Study plan<br>for the mocks</h1>
-        <p class="lead" style="margin-top:10px">From 15 November to 10 January, day by day. First a full round of the syllabus; then revision with timed past papers. Everything will have been covered twice by the 11th.</p>
+        <p class="lead" style="margin-top:10px">From 16 November to 10 January, day by day. First a full round of the syllabus; then revision with timed past papers. Everything will have been covered twice by the 11th.</p>
       </div>
-      <div class="count" aria-live="polite"><b class="num" id="countdown">57</b><span>days until the first mock</span></div>
+      <div class="count" aria-live="polite"><b class="num" id="countdown">56</b><span>days until the first mock</span></div>
     </div>
     <div class="stats" id="stats"></div>
     <div class="route scroll-x" id="route" aria-label="Plan phases"></div>
+    <p class="install-hint" id="installHint" hidden><b>On iPad:</b> tap Safari’s Share button and choose <b>Add to Home Screen</b>. It opens like an app, full screen and also offline.</p>
     <p class="assume"><b>Assumptions:</b> nine subjects, at <i>Extended</i> level where it exists. Cambridge (CAIE): Maths 0580, Biology 0610, Chemistry 0620, Physics 0625, Business Studies 0450, English First Language 0500, French 0520 and Spanish First Language 0502. Statistics is Pearson Edexcel (4ST1), as Cambridge has no IGCSE Statistics. If any code differs from yours, the plan can be recalculated with the same days and hours.</p>
   </div>
 </header>
@@ -217,7 +229,7 @@ footer{font-size:.8rem;color:var(--muted)}
     <div class="sec-head">
       <p class="eyebrow">Detailed plan</p>
       <h2 id="plan-t">Day by day</h2>
-      <p class="lead">Tick each session when you finish it. Progress is saved in this browser.</p>
+      <p class="lead">Tap a session title to open its study page. Tick each session when you finish it; progress is saved in this browser.</p>
     </div>
     <div class="toolbar">
       <div class="chips" id="filters" role="group" aria-label="Filter by subject"></div>
@@ -262,7 +274,7 @@ footer{font-size:.8rem;color:var(--muted)}
     <div class="res" id="res"></div>
   </section>
 
-  <footer>Plan created on 15 November 2026. Total: <span id="ftot" class="num"></span> hours of study between 15 Nov and 10 Jan.</footer>
+  <footer>Plan created on 15 November 2026. Total: <span id="ftot" class="num"></span> hours of study between 16 Nov and 10 Jan.</footer>
 </main>
 
 <script>
@@ -465,38 +477,41 @@ const DIA=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
 const D=(y,m,d)=>new Date(Date.UTC(y,m,d));
 const iso=d=>d.toISOString().slice(0,10);
 const add=(d,n)=>{const x=new Date(d);x.setUTCDate(x.getUTCDate()+n);return x};
-const START=D(2026,10,15), END=D(2027,0,10), EXAM=D(2027,0,11);
-const R1_END='2026-12-27', R2_END='2027-01-08';
+const START=D(2026,10,16), END=D(2027,0,10), EXAM=D(2027,0,11);
+const R1_END='2026-12-28', R2_END='2027-01-08';
 const SPECIAL={'2026-12-24':2,'2026-12-25':0,'2026-12-31':2,'2027-01-01':0};
 const fmt=d=>`${DIA[d.getUTCDay()]} ${d.getUTCDate()} ${MES[d.getUTCMonth()]}`;
 
 function hoursFor(d){const k=iso(d);if(k in SPECIAL)return SPECIAL[k];if(k>='2026-12-22')return 4;const w=d.getUTCDay();return (w===0||w===6)?4:2}
 
 /* ----- Generador ----- */
-function makeQueues(key){const q={},tot={},pass={};ORDER.forEach(k=>{q[k]=S[k][key].slice();tot[k]=q[k].length;pass[k]=.5/tot[k]});return {q,tot,pass}}
+['bio','chem','phys','bus'].forEach(k=>S[k].r2.pop());
+function makeQueues(key){const q={},tot={},pass={};ORDER.forEach(k=>{q[k]=S[k][key].slice();tot[k]=q[k].length;pass[k]=.5/tot[k]});return {q,tot,pass,key}}
 const isPair=t=>/\(1\/2\)/.test(t);
 function pick(st,used,room){let b=null;for(const k of ORDER){if(!st.q[k].length||used.has(k)||(room<2&&isPair(st.q[k][0][0])))continue;if(b===null||st.pass[k]<st.pass[b]-1e-9)b=k}
   if(b===null)for(const k of ORDER){if(st.q[k].length&&(b===null||st.pass[k]<st.pass[b]-1e-9))b=k}
-  if(b===null)return null;st.pass[b]+=1/st.tot[b];const [t,dt]=st.q[b].shift();return {s:b,t,dt}}
+  if(b===null)return null;st.pass[b]+=1/st.tot[b];const [t,dt]=st.q[b].shift();return {s:b,t,dt,id:`${b}-${st.key}-${String(st.tot[b]-st.q[b].length).padStart(2,'0')}`}}
 const R1=makeQueues('r1'), R2=makeQueues('r2');
 const FINAL={
  '2027-01-09':[{s:'math',t:'Quick Maths mock',dt:'25 mixed questions from Paper 2 and 4, timed.'},{s:'bio',t:'Biology and Chemistry: summary sheets',dt:'Definitions, moles and ion tests from the error log.'},{s:'phys',t:'Physics: equations and error log',dt:'All formulae from memory.'},{s:'bus',t:'Business and Statistics: formulae and definitions',dt:'Break-even, ratios, Spearman, index numbers and moving averages.'}],
  '2027-01-10':[{s:'eng',t:'English and Spanish: writing technique',dt:'Structures for directed writing, composition and summary.'},{s:'fr',t:'French: verbs and key vocabulary',dt:'Tenses and prepared speaking answers.'},{s:'math',t:'Maths: formulae and common mistakes',dt:'Review only, nothing new.'},{s:'mix',t:'Get ready for exam day',dt:'Equipment, mock timetable and an early night.'}]
 };
+Object.entries(FINAL).forEach(([k,a])=>a.forEach((s,i)=>s.id=`f-${k}-${i+1}`));
 const days=[];let firstSunday=true;
 for(let d=new Date(START);d<=END;d=add(d,1)){
   const k=iso(d),h=hoursFor(d),phase=k<=R1_END?'r1':k<=R2_END?'r2':'f',slots=[];
   if(phase==='f'){slots.push(...FINAL[k].slice(0,h))}
   else{
     let n=h;const st=phase==='r1'?R1:R2,used=new Set(),tail=[];
-    if(k==='2026-11-15'){slots.push({s:'mix',t:'Kick-off: get organised',dt:'Download syllabuses and past papers, set up folders, the error log and Anki.',kick:true});n--}
-    if(phase==='r1'&&d.getUTCDay()===0&&k!=='2026-11-15'&&n>0){tail.push({s:'mix',t:'Weekly review',dt:'Flashcards for the whole week + 10 mixed questions. Update the error log.'});n--}
+    if(k==='2026-11-16'){slots.push({s:'mix',t:'Kick-off: get organised',dt:'Download syllabuses and past papers, set up folders, the error log and Anki.',kick:true,id:'kickoff'});n--}
+    if(phase==='r1'&&d.getUTCDay()===0&&k!=='2026-11-15'&&n>0){tail.push({s:'mix',t:'Weekly review',dt:'Flashcards for the whole week + 10 mixed questions. Update the error log.',id:'weekly-review'});n--}
     for(let i=0;i<n;i++){const p=pick(st,used,n-i);if(!p){slots.push({s:'mix',t:'Free review',dt:'Unfinished or weakest topics.'});continue}used.add(p.s);slots.push(p);
-      if(isPair(p.t)&&st.q[p.s].length){const [t,dt]=st.q[p.s].shift();st.pass[p.s]+=1/st.tot[p.s];slots.push({s:p.s,t,dt});i++}}
+      if(isPair(p.t)&&st.q[p.s].length){const [t,dt]=st.q[p.s].shift();st.pass[p.s]+=1/st.tot[p.s];slots.push({s:p.s,t,dt,id:`${p.s}-${st.key}-${String(st.tot[p.s]-st.q[p.s].length).padStart(2,'0')}`});i++}}
     slots.push(...tail);
   }
   days.push({d:new Date(d),k,h,phase,slots});
 }
+days.forEach(x=>x.slots.forEach(s=>{if(s.id==='weekly-review'){s.topics=days.filter(y=>y.d<=x.d&&y.d>add(x.d,-7)).flatMap(y=>y.slots.filter(z=>z.id&&/-r1-/.test(z.id)).map(z=>z.id)).join(',')}}));
 const TOTAL=days.reduce((a,x)=>a+x.h,0);
 
 /* ----- Hoy ----- */
@@ -514,7 +529,7 @@ const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(done))}catch(e){}};
 /* ----- Stats ----- */
 const r1h=days.filter(x=>x.phase==='r1').reduce((a,x)=>a+x.h,0), r2h=days.filter(x=>x.phase!=='r1').reduce((a,x)=>a+x.h,0);
 document.getElementById('stats').innerHTML=[
- [TOTAL+' h','of study in total'],[days.length+' days','from 15 Nov to 10 Jan'],[r1h+' h','Round 1: whole syllabus'],[r2h+' h','Round 2 and final sprint']
+ [TOTAL+' h','of study in total'],[days.length+' days','from 16 Nov to 10 Jan'],[r1h+' h','Round 1: whole syllabus'],[r2h+' h','Round 2 and final sprint']
 ].map(([b,s])=>`<div class="stat"><b class="num">${b}</b><span>${s}</span></div>`).join('');
 
 /* ----- Ruta (portada) ----- */
@@ -524,11 +539,11 @@ document.getElementById('stats').innerHTML=[
   const seg=(a,b,c,label,sub)=>`<rect x="${X(a)}" y="58" width="${X(b)-X(a)-3}" height="26" rx="6" style="fill:${c}"/>
     <text x="${X(a)+8}" y="76" style="fill:var(--surface);font:700 13px var(--f-display)">${label}</text>
     <text x="${X(a)}" y="104" style="fill:var(--muted);font:11px var(--f-mono)">${sub}</text>`;
-  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Phases: Round 1 from 15 Nov to 27 Dec, Round 2 from 28 Dec to 8 Jan, final sprint 9 and 10 January, mocks on 11 January">`;
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Phases: Round 1 from 16 Nov to 28 Dec, Round 2 from 29 Dec to 8 Jan, final sprint 9 and 10 January, mocks on 11 January">`;
   // marcas semanales
   for(let d=new Date(START);d<=EXAM;d=add(d,1)){ if(d.getUTCDay()===1){s+=`<line x1="${X(d)}" x2="${X(d)}" y1="44" y2="52" style="stroke:var(--line)"/><text x="${X(d)}" y="38" text-anchor="middle" style="fill:var(--muted);font:10px var(--f-mono)">${d.getUTCDate()} ${MES[d.getUTCMonth()]}</text>`} }
-  s+=seg(START,D(2026,11,28),'var(--accent)','ROUND 1 · whole syllabus','15 Nov → 27 Dec · '+r1h+' h');
-  s+=seg(D(2026,11,28),D(2027,0,9),'var(--warn)','ROUND 2 · past papers','28 Dec → 8 Jan');
+  s+=seg(START,D(2026,11,29),'var(--accent)','ROUND 1 · whole syllabus','16 Nov → 28 Dec · '+r1h+' h');
+  s+=seg(D(2026,11,29),D(2027,0,9),'var(--warn)','ROUND 2 · past papers','29 Dec → 8 Jan');
   s+=`<rect x="${X(D(2027,0,9))}" y="58" width="${X(EXAM)-X(D(2027,0,9))-3}" height="26" rx="6" style="fill:var(--ok)"/>`;
   s+=`<text x="${X(D(2027,0,9))}" y="120" style="fill:var(--muted);font:11px var(--f-mono)">sprint</text>`;
   // vacaciones
@@ -595,7 +610,7 @@ document.getElementById('legend').innerHTML=[...ORDER,'mix'].map(k=>chip(k,'tabi
 /* ----- Plan día a día ----- */
 const PH={r1:['Round 1','p-r1'],r2:['Round 2','p-r2'],f:['Final sprint','p-f']};
 function slotHTML(x,s,i){const id=`c-${x.k}-${i}`;const name=s.s==='mix'?(s.kick?'Kick-off':'Review'):S[s.s].es;
-  return `<li class="slot" data-s="${s.s}"><input type="checkbox" id="${id}" data-id="${id}" ${done[id]?'checked':''}><span class="rail" style="background:${COL(s.s)}"></span><label for="${id}"><span class="sn" style="color:${COL(s.s)}">${name} · 1 h</span><span class="tp">${s.t}</span><span class="dt">${s.dt}</span></label></li>`}
+  return `<li class="slot" data-s="${s.s}"><input type="checkbox" id="${id}" data-id="${id}" ${done[id]?'checked':''}><span class="rail" style="background:${COL(s.s)}"></span><label for="${id}"><span class="sn" style="color:${COL(s.s)}">${name} · 1 h</span>${s.id?`<a class="tp" href="../session.html?id=${s.id}&d=${x.k}&lang=en${s.topics?'&topics='+s.topics:''}">${s.t} →</a>`:`<span class="tp">${s.t}</span>`}<span class="dt">${s.dt}</span></label></li>`}
 function dayHTML(x){
   const body=x.h?`<ul class="slots">${x.slots.map((s,i)=>slotHTML(x,s,i)).join('')}</ul>`:`<p class="rest-note">Day off. ${x.k==='2026-12-25'?'Merry Christmas.':'Happy New Year.'}</p>`;
   return `<article class="day${x.k===todayK?' is-today':''}" id="d-${x.k}"><div class="day-h"><b>${fmt(x.d)}</b><span>${x.h} h</span></div>${body}</article>`}
@@ -666,5 +681,6 @@ const RES=[
 document.getElementById('res').innerHTML=RES.map(([n,u,f,d,m])=>`<a href="${u}" target="_blank" rel="noopener"><b>${n}${m?'<span class="must">essential</span>':''}</b><span class="for">${f}</span><p>${d}</p></a>`).join('');
 })();
 </script>
+<script>(function(){var ios=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);var standalone=navigator.standalone||matchMedia('(display-mode: standalone)').matches;var h=document.getElementById('installHint');if(h&&ios&&!standalone)h.hidden=false})();</script>
 </body>
 </html>

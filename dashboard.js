@@ -4,7 +4,7 @@ const P=window.PLAN;if(!P)return;
 const ES=P.lang==='es';
 const NAME=P.name||'Carlota';const REC=(window.DATA&&DATA.T.rec)||null;
 const T=ES?{
-  hello:`Hola, ${NAME}`,
+  hello:`Hola, ${NAME}`,hi:`¡Hola, ${NAME}!`,daysTo:'días para los mocks',doneW:'completado',streak:n=>`${n} ${n===1?'día':'días'} de racha`,xp:'puntos',level:n=>`Nivel ${n}`,toNext:n=>`${n} pts para el siguiente nivel`,mission:'Misión de hoy',missionFirst:d=>`Tu primera misión · ${d}`,missionDone:'¡Misión cumplida! Hoy ya lo has hecho todo. 🎉',missionOff:'Hoy es día libre. Descansa y recarga pilas.',open:'Abrir',doneBtn:'Hecho',sessionsLeft:n=>`${n} ${n===1?'sesión':'sesiones'} · ${n} h`,
   pre1:`Mañana empieza el plan, ${NAME}. ¡A por ello!`,preN:d=>`El plan empieza el ${d}.`,pre2:'Hoy no toca nada: deja preparado el material para mañana.',
   end1:'Plan terminado. ¡Mucha suerte en los mocks!',end2:'Ahora toca descansar y confiar en todo lo que has trabajado.',
   ahead1:`¡Vas por encima de tu plan, ${NAME}! Sigue así.`,ahead2:n=>`Has adelantado ${n} ${n===1?'sesión':'sesiones'} de los próximos días.`,
@@ -31,7 +31,7 @@ const T=ES?{
   prep:'Preparación según mini tests',prepNone:'Aún no hay mini tests: aparecen al marcar un tema como hecho.',weak:'Temas a reforzar',weakNone:'Ningún tema flojo por ahora.',avg:p=>`media ${p}%`,todayH:'Lo que tienes hoy',
   legend:'Semáforo general: verde si la carga pendiente cabe en el tiempo que queda; ámbar hasta un 10% por encima; rojo si se pasa más. Por asignatura: ámbar con 1–2 retrasadas o reagendadas; rojo con 3 o más, o con temario sin ver al empezar la Ronda 2.'
 }:{
-  hello:`Hi ${NAME}`,
+  hello:`Hi ${NAME}`,hi:`Hi ${NAME}!`,daysTo:'days to the mocks',doneW:'complete',streak:n=>`${n}-day streak`,xp:'points',level:n=>`Level ${n}`,toNext:n=>`${n} pts to the next level`,mission:'Today’s mission',missionFirst:d=>`Your first mission · ${d}`,missionDone:'Mission complete! You’ve done everything for today. 🎉',missionOff:'Day off today. Rest and recharge.',open:'Open',doneBtn:'Done',sessionsLeft:n=>`${n} session${n===1?'':'s'} · ${n} h`,
   pre1:`The plan starts tomorrow, ${NAME}. Let’s go!`,preN:d=>`The plan starts on ${d}.`,pre2:'Nothing to do today: get your materials ready for tomorrow.',
   end1:'Plan finished. Good luck in the mocks!',end2:'Time to rest and trust all the work you have done.',
   ahead1:`You’re ahead of your plan, ${NAME}! Keep it up.`,ahead2:n=>`You’ve done ${n} session${n===1?'':'s'} from the coming days.`,
@@ -109,7 +109,46 @@ const css=`
 .dash .dot.g{background:#30A46C}.dash .dot.a{background:#F5A524}.dash .dot.r{background:#E5484D}
 .dash .subs em{font-style:normal;color:var(--muted);font-size:.78rem;text-align:right}
 `;
-const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
+const st=document.createElement('style');st.textContent=css+`
+.dash .hero2{grid-column:1/-1;position:relative;overflow:hidden;border-radius:22px;padding:26px 28px;color:#fff;background:radial-gradient(120% 140% at 0% 0%,#24306B 0%,#151A31 55%);border:1px solid rgba(255,255,255,.08);display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;align-items:center;box-shadow:0 18px 40px rgba(21,26,49,.25)}
+.dash .h-deco{position:absolute;right:-10px;bottom:-14px;display:flex;align-items:flex-end;gap:10px;opacity:.22;pointer-events:none}
+.dash .h-deco i{width:30px;border-radius:8px 8px 0 0}
+.dash .h-deco i:nth-child(1){height:70px;background:#2F5BE0}.dash .h-deco i:nth-child(2){height:120px;background:#3C8C2C}.dash .h-deco i:nth-child(3){height:95px;background:#8A4BD6}.dash .h-deco i:nth-child(4){height:150px;background:#C98200}.dash .h-deco i:nth-child(5){height:190px;background:#0E8585}.dash .h-deco i:nth-child(6){height:130px;background:#D0393E}
+.dash .h-main{position:relative;display:flex;flex-direction:column;gap:6px;min-width:0}
+.dash .h-brand{display:flex;align-items:center;gap:10px;font:600 .75rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:#AEB6E8}
+.dash .h-brand img{width:40px;height:40px;border-radius:10px;box-shadow:0 0 0 1px rgba(255,255,255,.15)}
+.dash .hero2 h1{font:800 clamp(2rem,5vw,3rem)/1.02 var(--f-display);margin:8px 0 2px;color:#fff;letter-spacing:-.02em}
+.dash .h-m1{font:700 1.15rem/1.3 var(--f-display);margin:0;color:#fff;border-left:4px solid var(--st);padding-left:10px}
+.dash .h-m2{margin:0;color:#C8CDEA;font-size:.95rem;padding-left:14px}
+.dash .h-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.dash .h-chips>span{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15);border-radius:99px;padding:7px 12px;font:600 .88rem var(--f-body)}
+.dash .lv{display:inline-block;width:60px;height:6px;border-radius:99px;background:rgba(255,255,255,.2);overflow:hidden}
+.dash .lv i{display:block;height:100%;background:#F5A524}
+.dash .h-rings{position:relative;display:flex;gap:16px}
+.dash .ring{position:relative;width:132px;height:132px}
+.dash .ring svg{width:100%;height:100%}
+.dash .ring>div{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 18px}
+.dash .ring b{font:800 2rem/1 var(--f-display);color:#fff}
+.dash .ring span{font-size:.7rem;line-height:1.15;color:#C8CDEA;margin-top:3px}
+.dash .m-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.dash .m-head h3{font:800 1.35rem var(--f-display);margin:0}
+.dash .m-done{margin:0;padding:12px 14px;border-radius:12px;background:color-mix(in srgb,var(--ok) 15%,transparent);font-weight:600}
+.dash .mcards{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,230px),1fr));gap:12px}
+.dash .mc{position:relative;border-radius:16px;padding:14px 14px 12px;background:color-mix(in srgb,var(--c) 12%,var(--surface));border:1.5px solid color-mix(in srgb,var(--c) 45%,transparent);display:flex;flex-direction:column;gap:6px;min-width:0}
+.dash .mc.is-done{opacity:.6}
+.dash .mc.is-done .mc-title{text-decoration:line-through}
+.dash .mc-top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.dash .mc-sub{font:700 .72rem var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.dash .mc-title{font:700 1.08rem/1.25 var(--f-display);color:var(--ink);text-decoration:none}
+.dash .mc-dt{margin:0;font-size:.85rem;color:var(--muted);flex:1}
+.dash .mc-act{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:4px}
+.dash .mc-open{display:inline-flex;align-items:center;min-height:44px;padding:0 14px;border-radius:12px;background:var(--c);color:#fff;font:700 .9rem var(--f-body);text-decoration:none}
+.dash .mc-done{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--surface);font:700 .9rem var(--f-body);cursor:pointer}
+.dash .mc-done input{position:absolute;opacity:0;width:1px;height:1px}
+.dash .mc.is-done .mc-done{background:var(--ok);border-color:var(--ok);color:#fff}
+.dash .mc-done:focus-within{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:760px){.dash .hero2{grid-template-columns:minmax(0,1fr);padding:22px 18px}.dash .h-rings{justify-content:center}.dash .ring{width:118px;height:118px}}
+`;document.head.appendChild(st);
 
 const box=document.getElementById('dash');if(!box)return;
 let ui={confirm:null};
@@ -146,7 +185,12 @@ function compute(){
   if(K<first)state='pre';else if(K>last)state='end';else if(overdue.length)state='behind';else if(ahead>0)state='ahead';
   const weak=Object.entries(P.quiz||{}).filter(([,v])=>v.p<60).sort((a,b)=>a[1].p-b[1].p).slice(0,6).map(([id,v])=>{const it=items.find(t=>t.s.id===id);return it?{id,p:v.p,it}:null}).filter(Boolean);
   const allQ=Object.values(P.quiz||{}).map(v=>v.p);const qAvg=allQ.length?Math.round(allQ.reduce((a,b)=>a+b,0)/allQ.length):null;
-  return {K,first,last,items,total,n,ph,overdue,todayLeft,ahead,expectedAll,capacity,remaining,ratio,risk,subs,state,weak,qAvg,rec,over};
+  let streak=0;{const todayDay=days.find(x=>x.k===K);const req=x=>x.slots.filter(s=>s.id);
+    const past=days.filter(x=>x.k<K&&x.k>=first).reverse();
+    if(todayDay&&req(todayDay).length&&req(todayDay).every(s=>P.done[s.uid]))streak++;
+    for(const x of past){const r=req(x);if(!r.length)continue;if(r.every(s=>P.done[s.uid]))streak++;else break}}
+  const xp=n*10+Math.round(Object.values(P.quiz||{}).reduce((a,v)=>a+v.p,0)/10);const lvl=Math.floor(xp/250)+1,lvlP=Math.round(100*(xp%250)/250);
+  return {K,first,last,items,total,n,ph,overdue,todayLeft,ahead,expectedAll,capacity,remaining,ratio,risk,subs,state,weak,qAvg,rec,over,streak,xp,lvl,lvlP};
 }
 
 function planMoves(c){
@@ -188,15 +232,37 @@ function render(){
   else if(ui.confirm==='undo'){actions=`<div class="confirm" role="alertdialog"><span>${T.undoQ}</span><b>${T.undoSure}</b><div class="actions"><button class="b warn" data-a="undo-yes" type="button">${T.undoYes}</button><button class="b ghost" data-a="cancel" type="button">${T.resNo}</button></div></div>`}
   else {actions=`<div class="actions">${c.overdue.length?`<button class="b" data-a="res" type="button">${T.resBtn}</button>`:''}${movedCount?`<button class="b ghost" data-a="undo" type="button">${T.undoBtn}</button><span class="note">${T.movedNote(movedCount)}</span>`:''}</div>`}
   const lvl={g:[T.riskG,T.riskGd],a:[T.riskA,T.riskAd],r:[T.riskR,T.riskRd]}[c.risk];
+  const daysTotal=Math.round((new Date('2027-01-11')-new Date('2026-11-16'))/864e5);const left=Math.max(0,Math.round((new Date('2027-01-11')-new Date(c.K))/864e5));
+  const pctAll=c.total?Math.round(100*c.n/c.total):0;
+  const ring=(pct,col,big,small)=>{const r=42,C=2*Math.PI*r;return `<div class="ring"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:rgba(255,255,255,.14);stroke-width:10"/><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:${col};stroke-width:10;stroke-linecap:round;stroke-dasharray:${C*Math.max(0,Math.min(100,pct))/100} ${C};transform:rotate(-90deg);transform-origin:50% 50%"/></svg><div><b class="num">${big}</b><span>${small}</span></div></div>`};
+  const days=P.days;let mDay=days.find(x=>x.k===c.K),mLabel=T.mission;if(!mDay&&c.K<c.first){mDay=days[0];mLabel=T.missionFirst(P.fmt(mDay.d))}
+  const mItems=mDay?mDay.slots.map((s,i)=>({s,i,x:mDay})):[];
+  const mLeft=mItems.filter(t=>!P.done[t.s.uid]).length;
+  const href=(s,x)=>`${P.base}session.html?id=${s.id}&d=${x.k}&lang=${P.lang}${s.topics?'&topics='+s.topics:''}`;
+  const card=({s,x})=>{const dn=!!P.done[s.uid];const q=P.quiz&&P.quiz[s.uid];const nm=s.s==='mix'?(s.kick?(P.lang==='es'?'Arranque':'Kick-off'):(P.lang==='es'?'Repaso':'Review')):P.S[s.s].es;
+    return `<li class="mc${dn?' is-done':''}" style="--c:${P.COL(s.s)}"><div class="mc-top"><span class="mc-sub">${nm} · 1 h</span>${q?`<span class="qb ${P.level(q.p)}">${q.p}%</span>`:''}</div>
+      ${s.id?`<a class="mc-title" href="${href(s,x)}">${s.t}</a>`:`<span class="mc-title">${s.t}</span>`}<p class="mc-dt">${s.dt}</p>
+      <div class="mc-act">${s.id?`<a class="mc-open" href="${href(s,x)}">${T.open} →</a>`:'<span></span>'}<label class="mc-done"><input type="checkbox" data-id="${s.uid}" aria-label="${T.doneBtn}: ${s.t}" ${dn?'checked':''}><span>${dn?'✓ ':''}${T.doneBtn}</span></label></div></li>`};
+  const mission=mDay?(mDay.h?(mLeft===0&&mDay.k===c.K?`<p class="m-done">${T.missionDone}</p>`:'')+`<ul class="mcards">${mItems.map(card).join('')}</ul>`:`<p class="m-done">${T.missionOff}</p>`):`<p class="m-done">${T.end1}</p>`;
   box.innerHTML=`
+  <header class="hero2" style="--st:${stColor}">
+    <div class="h-deco" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+    <div class="h-main">
+      <div class="h-brand"><img src="${P.base}apple-touch-icon.png" alt=""><span>IGCSE · Mocks 11.01.27</span></div>
+      <h1>${T.hi}</h1>
+      <p class="h-m1">${m1}</p><p class="h-m2">${m2}</p>
+      <div class="h-chips"><span>🔥 ${T.streak(c.streak)}</span><span>⭐ ${c.xp} ${T.xp}</span><span title="${T.toNext(250-(c.xp%250))}">🏅 ${T.level(c.lvl)}<i class="lv"><i style="width:${c.lvlP}%"></i></i></span></div>
+    </div>
+    <div class="h-rings">${ring(100*(daysTotal-left)/daysTotal,'#F5A524',left,T.daysTo)}${ring(pctAll,'#30A46C',pctAll+'%',T.doneW)}</div>
+  </header>
   <div class="card">
-    <div class="msg" style="--st:${stColor};background:color-mix(in srgb, ${stColor} 9%, transparent)"><span class="hello">${T.hello}</span><b>${m1}</b><span>${m2}</span></div>
+    <div class="m-head"><h3>${mLabel}</h3>${mDay&&mDay.h?`<span class="note">${T.sessionsLeft(mDay.h)}</span>`:''}</div>
+    ${mission}
     <div class="kpis">
       <div class="kpi ${c.overdue.length?'bad':''}"><b class="num">${c.overdue.length}</b><span>${T.kOver}</span></div>
       <div class="kpi"><b class="num">${c.todayLeft}</b><span>${T.kToday}</span></div>
       <div class="kpi ${c.ahead?'good':''}"><b class="num">${c.ahead}</b><span>${T.kAhead}</span></div>
     </div>
-    <h4>${T.todayH}</h4><div class="today" id="today"></div>
     <div class="prog">${bar(T.r1,c.ph.r1,true)}${bar(T.r2,c.ph.r2,true)}${bar(T.f,c.ph.f,false)}${bar(T.all,all,true)}</div>
     <div class="over"><h4>${T.overTitle}</h4>${c.overdue.length?`<ul class="slots">${ov}</ul>${c.overdue.length>10?`<p class="note">${T.more(c.overdue.length-10)}</p>`:''}`:`<p class="note">${T.overNone}</p>`}</div>
     ${actions}
@@ -220,6 +286,6 @@ box.addEventListener('click',e=>{const b=e.target.closest('button[data-a]');if(!
   else if(a==='res-yes'){const c=compute();const pm=planMoves(c);if(pm)persist(Object.assign({},P.moves||{},pm.mv))}
   else if(a==='undo-yes'){persist({})}
 });
-window.dashRefresh=function(){render();P.renderToday&&P.renderToday()};
+window.dashRefresh=function(){render()};
 window.dashRefresh();
 })();

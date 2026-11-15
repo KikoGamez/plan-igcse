@@ -116,7 +116,7 @@ function show(v,dayK){
   if(!VIEWS.includes(v))v='hoy';
   VIEWS.forEach(x=>{$('v-'+x).hidden=x!==v});
   document.querySelectorAll('#nav a').forEach(a=>a.setAttribute('aria-current',a.dataset.v===v?'page':'false'));
-  $('viewTitle').textContent=T.nav[v];document.title=`${T.nav[v]} · ${T.brand}`;
+  $('viewTitle').textContent=v==='hoy'?T.brand:T.nav[v];document.title=`${T.nav[v]} · ${T.brand}`;
   openMenu(false);
   if(v!==current){window.scrollTo(0,0);current=v}
   if(dayK)setTimeout(()=>go(dayK),60);

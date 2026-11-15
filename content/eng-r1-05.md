@@ -1,4 +1,4 @@
-# Writer's effect: technique
+# Writer’s effect: technique
 
 > **In the exam:** Paper 1, the last part of Question 2, on Text C. 15 marks, one level-marked answer of about 200–300 words, roughly 25 minutes. You are asked to explain how the writer uses language to convey meaning and create effect in **two named paragraphs**, choosing **three examples from each**, including imagery. On every paper.
 

@@ -42,7 +42,7 @@ Check in (2): 15 − 14 = 1 ✓.
 2x + 3y = 12 and 3x − y = 7 → y = 3x − 7 → 2x + 3(3x − 7) = 12 → 11x = 33 → x = 3, y = 2.
 
 **Word problems:** choose letters, write two equations, solve, answer in context with units.
-3 pens and 2 rulers cost $4.30; 5 pens and 1 ruler cost $4.60 → 3p + 2r = 4.30, 5p + r = 4.60.
+3 pens and 2 rulers cost £4.30; 5 pens and 1 ruler cost £4.60 → 3p + 2r = 4.30, 5p + r = 4.60.
 
 The solution of a pair of simultaneous equations is the **point of intersection** of their graphs.
 
@@ -124,7 +124,7 @@ Roots and squares: square both sides to remove a square root; square-root both s
 
 1. Solve 7 − 2x = 3(x + 4). [2]
 2. Solve the simultaneous equations 2x + 3y = 12 and 3x − y = 7. [3]
-3. 3 pens and 2 rulers cost $4.30. 5 pens and 1 ruler cost $4.60. Find the cost of one pen and of one ruler. [4]
+3. 3 pens and 2 rulers cost £4.30. 5 pens and 1 ruler cost £4.60. Find the cost of one pen and of one ruler. [4]
 4. Make L the subject of T = 2π√(L/g). [3]
 5. Make x the subject of 3x + a = bx − 5. [3]
 6. Solve 5/(x + 1) = 2. [2]
@@ -135,7 +135,7 @@ Roots and squares: square both sides to remove a square root; square-root both s
 
 1. 7 − 2x = 3x + 12 → −5 = 5x → **x = −1**
 2. y = 3x − 7 → 2x + 9x − 21 = 12 → **x = 3, y = 2**
-3. 3p + 2r = 4.30, 5p + r = 4.60 → 10p + 2r = 9.20 → 7p = 4.90 → **pen $0.70, ruler $1.10**
+3. 3p + 2r = 4.30, 5p + r = 4.60 → 10p + 2r = 9.20 → 7p = 4.90 → **pen £0.70, ruler £1.10**
 4. T/(2π) = √(L/g) → T²/(4π²) = L/g → **L = gT²/(4π²)**
 5. 3x − bx = −5 − a → x(3 − b) = −5 − a → **x = (a + 5)/(b − 3)** (or (−5 − a)/(3 − b))
 6. 5 = 2x + 2 → **x = 1.5**

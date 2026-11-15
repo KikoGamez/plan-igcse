@@ -53,7 +53,7 @@ Most Text B passages contain roughly **10–15 creditable ideas**. Including mos
 **Plan:** sleep less / poorer quality (body clock) · weight gain – slower digestion at night · poor food options · heart disease · little time with family · miss social events · feel unnoticed/undervalued.
 *Excluded:* who the workers are, why they are needed, higher pay and quiet (benefits), the quotation (keep only the point).
 
-**Model answer (72 words):**
+**Model answer (76 words):**
 > People who work at night struggle to sleep well, because the body's natural rhythm is controlled by light, so daytime sleep is shorter and lighter. They are more likely to become overweight, since food is digested less effectively at night and healthy meals are hard to find. Over many years, their risk of heart disease increases. Their working hours also leave little time for family and make social life difficult, and some feel ignored by society.
 
 *Why it scores highly:* seven distinct relevant ideas (wide range, top reading level); generalises the quotation into "little time for family"; own words throughout ("body's natural rhythm" for "internal clock"; "feel ignored" for "invisible"); one focused paragraph with linking words ("also", "since"); well under 120 words.
@@ -85,7 +85,7 @@ Creditable ideas: growth of online shopping/home deliveries · bikes can carry h
 
 Not relevant: the history in the 1990s and email (background); low pay for riders (a problem for riders, not a business reason – unless you argue "low wages are cheap for companies", which goes beyond the text; leave it out).
 
-Model answer (about 85 words): *The boom in internet shopping has created demand for local deliveries, and cargo bikes can carry heavy loads. In busy city centres they are frequently quicker than vans, as they avoid traffic jams and parking problems. Because they cause no pollution, they can operate freely where cities penalise dirty vehicles. They are much cheaper to purchase and run than vans, and firms find riders easier to hire since no driving licence is needed. Bikes are also quieter and less intimidating, and some customers actively prefer firms that use them.*
+Model answer (about 90 words): *The boom in internet shopping has created demand for local deliveries, and cargo bikes can carry heavy loads. In busy city centres they are frequently quicker than vans, as they avoid traffic jams and parking problems. Because they cause no pollution, they can operate freely where cities penalise dirty vehicles. They are much cheaper to purchase and run than vans, and firms find riders easier to hire since no driving licence is needed. Bikes are also quieter and less intimidating, and some customers actively prefer firms that use them.*
 
 Rough guide: 8–10 ideas well expressed → 9–10 reading marks; 6–7 → 7–8; 4–5 → 5–6.
 

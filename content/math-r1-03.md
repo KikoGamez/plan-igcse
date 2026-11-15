@@ -61,10 +61,10 @@ Show the bounds you are using (e.g. "205 ÷ 24.55") — the method mark depends 
 ### Simple and compound interest
 
 - **Simple interest**: the same amount each year. I = P × r × n ÷ 100.
-  $3000 at 2.5% for 4 years: I = 3000 × 2.5 × 4 ÷ 100 = $300.
+  £3000 at 2.5% for 4 years: I = 3000 × 2.5 × 4 ÷ 100 = £300.
 - **Compound interest**: interest is added on, then earns interest itself.
   **Value = P × (1 + r/100)ⁿ**
-  $5000 at 3.2% for 6 years: 5000 × 1.032⁶ = $6040.16. Interest = $1040.16.
+  £5000 at 3.2% for 6 years: 5000 × 1.032⁶ = £6040.16. Interest = £1040.16.
 - Read the question: "total amount" or "value" (the whole thing) vs "interest" (value − P).
 
 ### Exponential growth and decay
@@ -72,10 +72,10 @@ Show the bounds you are using (e.g. "205 ÷ 24.55") — the method mark depends 
 Same idea, with a multiplier each time period:
 
 - Growth by r% → multiplier (1 + r/100); decay (depreciation) by r% → multiplier (1 − r/100).
-- Car worth $18 000 loses 12% per year: after 3 years 18 000 × 0.88³ = $12 266.50.
+- Car worth £18 000 loses 12% per year: after 3 years 18 000 × 0.88³ = £12 266.50.
 - Population of 2400 grows by 15% each hour: after 3 hours 2400 × 1.15³ = 3650.1 → about 3650.
 - **"After how many years…?"**: try values of n (trial and improvement) and show each trial. State the first whole number that works.
-- **Reverse compound:** original = final ÷ multiplierⁿ. After 2 years at 5%: 4410 ÷ 1.05² = $4000.
+- **Reverse compound:** original = final ÷ multiplierⁿ. After 2 years at 5%: 4410 ÷ 1.05² = £4000.
 
 ## Worked examples
 
@@ -95,11 +95,11 @@ Same idea, with a multiplier each time period:
 - 205 ÷ 24.55 — **M1**
 - **8.35 m/s** (8.350…) — **A1**
 
-**4.** Sam invests $5000 at 3.2% per year compound interest. Calculate the interest earned after 6 years. [3]
+**4.** Sam invests £5000 at 3.2% per year compound interest. Calculate the interest earned after 6 years. [3]
 
 - 5000 × 1.032⁶ — **M1**
 - = 6040.156… — **A1**
-- interest = **$1040.16** — **A1**
+- interest = **£1040.16** — **A1**
 
 ## Common mistakes
 
@@ -110,7 +110,7 @@ Same idea, with a multiplier each time period:
 - Rounding bounds (or intermediate values) too early.
 - Compound interest: using simple interest, using the multiplier 0.032 instead of 1.032, or giving the total when the question asks for the interest.
 - Depreciation: subtracting 12% of the original value each year (that is simple, not compound).
-- Not giving money to the nearest cent ($6040.2 should be $6040.16).
+- Not giving money to the nearest cent (£6040.2 should be £6040.16).
 
 ## Practice questions
 
@@ -119,10 +119,10 @@ Same idea, with a multiplier each time period:
 3. Work out 3.2 × 10⁴ + 5 × 10³, giving your answer in standard form. [2]
 4. The population of a town is 3400, correct to 2 significant figures. Write down the lower and upper bounds. [2]
 5. A = 25 kg, correct to the nearest kilogram. B = 13.6 kg, correct to the nearest 0.1 kg. Calculate the upper bound of A − B. [2]
-6. A car costs $18 000. Its value decreases by 12% each year. Calculate its value after 3 years. [2]
-7. $2000 is invested at 4% per year compound interest. After how many complete years will the value first be more than $2500? [3]
-8. An investment earns 5% per year compound interest. After 2 years it is worth $4410. Find the original amount invested. [2]
-9. Calculate the simple interest on $3000 at 2.5% per year for 4 years. [2]
+6. A car costs £18 000. Its value decreases by 12% each year. Calculate its value after 3 years. [2]
+7. £2000 is invested at 4% per year compound interest. After how many complete years will the value first be more than £2500? [3]
+8. An investment earns 5% per year compound interest. After 2 years it is worth £4410. Find the original amount invested. [2]
+9. Calculate the simple interest on £3000 at 2.5% per year for 4 years. [2]
 
 <details><summary>Answers</summary>
 
@@ -131,10 +131,10 @@ Same idea, with a multiplier each time period:
 3. 32 000 + 5000 = 37 000 = **3.7 × 10⁴**
 4. **3350 ≤ p < 3450**
 5. 25.5 − 13.55 = **11.95 kg**
-6. 18 000 × 0.88³ = **$12 266.50**
+6. 18 000 × 0.88³ = **£12 266.50**
 7. 2000 × 1.04⁵ = 2433.31 (not enough); 2000 × 1.04⁶ = 2530.64 → **6 years**
-8. 4410 ÷ 1.05² = **$4000**
-9. 3000 × 2.5 × 4 ÷ 100 = **$300**
+8. 4410 ÷ 1.05² = **£4000**
+9. 3000 × 2.5 × 4 ÷ 100 = **£300**
 
 </details>
 

@@ -87,12 +87,11 @@ r = 5 × √(625 ÷ 400) M1 = **6.25 cm** A1
 | | Walk | Bus | Car | Total |
 |---|---|---|---|---|
 | Boys | 12 | ? | 8 | 35 |
-| Girls | ? | 10 | ? | ? |
+| Girls | ? | 8 | ? | ? |
 | Total | 27 | ? | 20 | 70 |
 
-Boys bus = 35 − 12 − 8 = **15**; girls walk = 27 − 12 = **15**; girls car = 20 − 8 = **12**; girls total = 70 − 35 = **35**; bus total = 15 + 10 = **25**. Check girls: 15 + 10 + 12 = 37 ≠ 35? — see below.
-
-Check carefully: girls total from the row = 15 + 10 + 12 = 37, but 70 − 35 = 35. So the column totals must be checked: 27 + 25 + 20 = 72 ≠ 70. This means the table as printed is inconsistent — in an exam this never happens, so recheck the question. With a girls' bus value of **8** instead of 10, everything works: bus total 23, girls total 35, grand total 27 + 23 + 20 = 70 ✓. Lesson: **always check rows and columns both add to the grand total.**
+Boys bus = 35 − 12 − 8 = **15** B1; girls walk = 27 − 12 = **15**, girls car = 20 − 8 = **12** B1; girls total = 70 − 35 = **35**, bus total = 15 + 8 = **23** B1.
+Check: girls row 15 + 8 + 12 = 35 ✓; column totals 27 + 23 + 20 = 70 ✓. Always check that rows and columns both add up to the grand total.
 
 ## Common mistakes
 

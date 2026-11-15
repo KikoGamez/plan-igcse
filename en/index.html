@@ -199,6 +199,8 @@ footer{font-size:.8rem;color:var(--muted)}
 
 <main class="wrap" style="margin-top:40px">
 
+  <section id="dash" class="dash" aria-live="polite"></section>
+
   <section aria-labelledby="hoy-t">
     <div class="today" id="today"></div>
   </section>
@@ -512,10 +514,13 @@ for(let d=new Date(START);d<=END;d=add(d,1)){
   days.push({d:new Date(d),k,h,phase,slots});
 }
 days.forEach(x=>x.slots.forEach(s=>{if(s.id==='weekly-review'){s.topics=days.filter(y=>y.d<=x.d&&y.d>add(x.d,-7)).flatMap(y=>y.slots.filter(z=>z.id&&/-r1-/.test(z.id)).map(z=>z.id)).join(',')}}));
+days.forEach(x=>{x.base=x.slots.length;x.slots.forEach((s,i)=>{s.uid=s.id==='weekly-review'?'weekly-review@'+x.k:(s.id||('x@'+x.k+'-'+i));s.orig=x.k;s.ph=x.phase})});
+const MOVES_KEY='igcse-moves-v1';let moves={};try{moves=JSON.parse(localStorage.getItem(MOVES_KEY)||'{}')||{}}catch(e){moves={}}
+(function(){const byK=Object.fromEntries(days.map(x=>[x.k,x]));const add2={};days.forEach(x=>{x.slots=x.slots.filter(s=>{const t=moves[s.uid];if(t&&t!==x.k&&byK[t]){s.moved=true;(add2[t]=add2[t]||[]).push(s);return false}return true})});days.forEach(x=>{if(add2[x.k])x.slots=x.slots.concat(add2[x.k]);x.h=x.slots.length})})();
 const TOTAL=days.reduce((a,x)=>a+x.h,0);
 
 /* ----- Hoy ----- */
-const now=new Date();const todayK=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
+const now=(()=>{let q=null;try{q=new URLSearchParams(location.search).get('today')}catch(e){}return q&&/^\d{4}-\d\d-\d\d$/.test(q)?new Date(q+'T12:00:00'):new Date()})();const todayK=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
 const todayUTC=D(now.getFullYear(),now.getMonth(),now.getDate());
 const left=Math.max(0,Math.round((EXAM-todayUTC)/864e5));
 document.getElementById('countdown').textContent=left;
@@ -609,8 +614,8 @@ document.getElementById('legend').innerHTML=[...ORDER,'mix'].map(k=>chip(k,'tabi
 
 /* ----- Plan día a día ----- */
 const PH={r1:['Round 1','p-r1'],r2:['Round 2','p-r2'],f:['Final sprint','p-f']};
-function slotHTML(x,s,i){const id=`c-${x.k}-${i}`;const name=s.s==='mix'?(s.kick?'Kick-off':'Review'):S[s.s].es;
-  return `<li class="slot" data-s="${s.s}"><input type="checkbox" id="${id}" data-id="${id}" ${done[id]?'checked':''}><span class="rail" style="background:${COL(s.s)}"></span><label for="${id}"><span class="sn" style="color:${COL(s.s)}">${name} · 1 h</span>${s.id?`<a class="tp" href="../session.html?id=${s.id}&d=${x.k}&lang=en${s.topics?'&topics='+s.topics:''}">${s.t} →</a>`:`<span class="tp">${s.t}</span>`}<span class="dt">${s.dt}</span></label></li>`}
+function slotHTML(x,s,i){const uid=s.uid,id='c-'+uid.replace(/[^a-zA-Z0-9-]/g,'_');const name=s.s==='mix'?(s.kick?'Kick-off':'Review'):S[s.s].es;
+  return `<li class="slot" data-s="${s.s}"><input type="checkbox" id="${id}" data-id="${uid}" ${done[uid]?'checked':''}><span class="rail" style="background:${COL(s.s)}"></span><label for="${id}"><span class="sn" style="color:${COL(s.s)}">${name} · 1 h${s.moved?' · ↻ rescheduled':''}</span>${s.id?`<a class="tp" href="../session.html?id=${s.id}&d=${x.k}&lang=en${s.topics?'&topics='+s.topics:''}">${s.t} →</a>`:`<span class="tp">${s.t}</span>`}<span class="dt">${s.dt}</span></label></li>`}
 function dayHTML(x){
   const body=x.h?`<ul class="slots">${x.slots.map((s,i)=>slotHTML(x,s,i)).join('')}</ul>`:`<p class="rest-note">Day off. ${x.k==='2026-12-25'?'Merry Christmas.':'Happy New Year.'}</p>`;
   return `<article class="day${x.k===todayK?' is-today':''}" id="d-${x.k}"><div class="day-h"><b>${fmt(x.d)}</b><span>${x.h} h</span></div>${body}</article>`}
@@ -632,10 +637,11 @@ function renderToday(){
     <div style="margin-top:10px;display:flex;flex-direction:column;gap:6px"><span style="font-size:.82rem;color:var(--muted)" class="num">Overall progress: ${n} of ${total} sessions</span><div class="bar"><i style="width:${(100*n/total).toFixed(1)}%"></i></div></div></div><div style="min-width:0">${list}</div>`;
 }
 renderToday();
+window.PLAN={days,S,ORDER,COL,fmt,todayK,done,save,PH,moves,MOVES_KEY,slotHTML,lang:'en',base:'../'};
 
 /* ----- Interacción ----- */
 document.addEventListener('change',e=>{const t=e.target;if(t.matches('input[type=checkbox][data-id]')){done[t.dataset.id]=t.checked;if(!t.checked)delete done[t.dataset.id];save();
-  document.querySelectorAll(`input[data-id="${t.dataset.id}"]`).forEach(c=>c.checked=t.checked);renderToday()}});
+  document.querySelectorAll(`input[data-id="${t.dataset.id}"]`).forEach(c=>c.checked=t.checked);renderToday();window.dashRefresh&&window.dashRefresh()}});
 function go(k){const el=document.getElementById('d-'+k);if(!el)return;el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'center'});el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash')}
 document.getElementById('cal').addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b)go(b.dataset.go)});
 document.getElementById('goToday').addEventListener('click',()=>go(days.some(d=>d.k===todayK)?todayK:days[0].k));
@@ -682,5 +688,6 @@ document.getElementById('res').innerHTML=RES.map(([n,u,f,d,m])=>`<a href="${u}" 
 })();
 </script>
 <script>(function(){var ios=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);var standalone=navigator.standalone||matchMedia('(display-mode: standalone)').matches;var h=document.getElementById('installHint');if(h&&ios&&!standalone)h.hidden=false})();</script>
+<script src="../dashboard.js"></script>
 </body>
 </html>

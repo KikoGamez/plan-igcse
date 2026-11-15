@@ -61,7 +61,7 @@ Turn specific examples into the general point they make.
 **Plan (ideas):** absorb rain → fewer floods · insulate → lower energy bills · cooler in summer → cooler neighbourhood · habitat for wildlife · grow local food → less transport · reduce stress for workers.
 *Not included:* the uncle (anecdote), the critics (drawbacks – not the focus), the hospital and Rotterdam names (examples).
 
-**Model answer (82 words):**
+**Model answer (90 words):**
 > Rooftop gardens offer several advantages. The soil and plants absorb heavy rainfall, so less water floods the drains and streets below. They also protect buildings from heat loss, which can significantly reduce the cost of heating, and in hot weather they stay cooler than ordinary roofs, helping to keep the surrounding area at a lower temperature. In addition, they provide a habitat for insects and birds in otherwise built-up places. Food can be grown close to where it is sold, reducing transport, and employees who relax there feel less stressed.
 
 *Why it scores highly:*
@@ -100,7 +100,7 @@ Turn specific examples into the general point they make.
 1. "the advantages of walking".
 2. Ideas: costs nothing / no equipment or membership needed · strengthens heart / lowers blood pressure · reduces risk of diabetes · gentle on joints so suits older people · reduces stress · improves creativity / helps problem-solving · reduces traffic and pollution. (Seven ideas; "simplest form of exercise / easy" may be credited as part of the first.)
 3. The grandmother anecdote (personal example, no new idea); the named writers and Japan (examples – keep only the point); the pavement problem (a disadvantage, not the focus).
-4. Model (about 75 words): *Walking is a cheap and simple way to exercise, since it requires nothing except suitable shoes. It improves heart health, lowers blood pressure and reduces the chance of developing diabetes. Because it puts little strain on the joints, it is ideal for older people. Time spent walking, particularly in natural surroundings, makes people less stressed, and it also stimulates creative thinking. Finally, choosing to walk rather than drive reduces congestion and air pollution.* – All ideas, generalised, own words, organised with connectives.
+4. Model (about 73 words): *Walking is a cheap and simple way to exercise, since it requires nothing except suitable shoes. It improves heart health, lowers blood pressure and reduces the chance of developing diabetes. Because it puts little strain on the joints, it is ideal for older people. Time spent walking, particularly in natural surroundings, makes people less stressed, and it also stimulates creative thinking. Finally, choosing to walk rather than drive reduces congestion and air pollution.* – All ideas, generalised, own words, organised with connectives.
 5. "It is free, as you only need suitable footwear." (Any version that changes the key words and keeps both ideas: no cost, no equipment.)
 
 </details>

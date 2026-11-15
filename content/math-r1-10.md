@@ -17,7 +17,7 @@
 Gradient = change in y ÷ change in x. It has **units**: (y-unit) per (x-unit).
 - Distance (km) against time (h) → gradient in km/h = speed.
 - Speed (m/s) against time (s) → gradient in m/s² = acceleration.
-- Cost ($) against number of items → gradient = cost per item.
+- Cost (£) against number of items → gradient = cost per item.
 
 ### Distance–time graphs
 

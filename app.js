@@ -249,16 +249,66 @@ document.addEventListener('click',e=>{const t=e.target.closest&&e.target.closest
   const val=!done[t.dataset.id];const li=t.closest('li');cfPending={id:t.dataset.id,val,title:li?(li.querySelector('.tp')||{}).textContent||'':''};
   $('cfmQ').textContent=val?T.CF.q1:T.CF.q0;$('cfmT').textContent=cfPending.title.replace(/\s*→.*$/,'');
   $('cfmYes').textContent=val?T.CF.y1:T.CF.y0;$('cfmNo').textContent=T.CF.n;cfm.hidden=false;$('cfmYes').focus()});
-cfm.addEventListener('click',e=>{if(e.target.id==='cfmYes'&&cfPending){const p=cfPending;cfClose();if(p.val&&/-r1-\d\d$/.test(p.id))startQuiz(p.id,p.title);else setDone(p.id,p.val)}else if(e.target.id==='cfmNo'||e.target===cfm)cfClose()});
+cfm.addEventListener('click',e=>{if(e.target.id==='cfmYes'&&cfPending){const p=cfPending;cfClose();if(p.val&&/-r1-\d\d$/.test(p.id))startQuiz(p.id,p.title);else if(p.val)finishTask(p.id);else setDone(p.id,false)}else if(e.target.id==='cfmNo'||e.target===cfm)cfClose()});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(!cfm.hidden)cfClose();if(!$('quiz').hidden)closeQuiz()}});
 
+
+/* ----- Well done! → next task (shown after every completed session) ----- */
+const CL=LANG==='es'?{
+  w:['¡Bien hecho!','¡Genial!','¡Una menos!','¡Así se hace!','¡Crack!'],
+  left:n=>n===1?'Solo te queda 1 por hoy. ¡A por ella!':`Te quedan ${n} por hoy. Vamos con la siguiente:`,quizS:p=>`Mini test: ${p}%`,
+  dayT:'¡Día completado!',dayS:'Enhorabuena: hoy has cumplido el plan entero. Así es como llegas preparada al 11 de enero.',
+  extraQ:'¿Te quedan 30 minutos y energía?',extraS:'Adelanta la siguiente sesión: cada una que haces antes es un colchón para los días complicados y te pone por encima del plan.',
+  extraTag:d=>`De ${d}`,go:'Empezar ahora →',goX:'Adelantar esta →',later:'En un rato',enough:'Por hoy suficiente 😌',
+  endT:'¡Plan completado entero!',endS:'Has hecho todas las sesiones. Repasa tus temas flojos y descansa antes de los mocks.',ok:'Cerrar',pts:'+10 puntos'
+}:{
+  w:['Well done!','Great job!','One down!','Nailed it!','Awesome!'],
+  left:n=>n===1?'Just 1 left for today. Go for it!':`${n} left for today. On to the next one:`,quizS:p=>`Mini test: ${p}%`,
+  dayT:'Day complete!',dayS:'Congratulations: you did the whole plan for today. This is exactly how you walk into 11 January ready.',
+  extraQ:'Got 30 more minutes and some energy?',extraS:'Get ahead with the next session: every one you do early is a cushion for busy days and puts you ahead of the plan.',
+  extraTag:d=>`From ${d}`,go:'Start now →',goX:'Get ahead →',later:'In a bit',enough:'Enough for today 😌',
+  endT:'Whole plan complete!',endS:'You’ve done every session. Review your weak topics and rest before the mocks.',ok:'Close',pts:'+10 points'
+};
+const celEl=document.createElement('div');celEl.id='cel';celEl.hidden=true;celEl.setAttribute('role','dialog');celEl.setAttribute('aria-modal','true');document.body.appendChild(celEl);
+function celClose(){celEl.hidden=true;celEl.innerHTML=''}
+celEl.addEventListener('click',e=>{if(e.target===celEl||e.target.closest('[data-cel=close]'))celClose()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!celEl.hidden)celClose()});
+function nextTasks(){
+  const first=days[0].k,K=todayK<first?first:todayK;
+  const pend=[];days.forEach(x=>x.slots.forEach((s,i)=>{if(s.id&&!done[s.uid])pend.push({s,x,i})}));
+  const tDay=days.find(x=>x.k===K);const tReq=tDay?tDay.slots.filter(s=>s.id):[];
+  return {K,today:pend.filter(t=>t.x.k<=K),ahead:pend.filter(t=>t.x.k>K),tTot:tReq.length,tDone:tReq.filter(s=>done[s.uid]).length}
+}
+function taskCard(t,tag){const s=t.s,nm=s.s==='mix'?(s.kick?T.kick:T.rev):S[s.s].es;
+  return `<a class="cel-card" href="${sessionHref(s,t.x)}" style="--c:${COL(s.s)}"><span class="cel-ic">${ic(s.s)}</span><span class="cel-tx"><span class="cel-sub">${esc(nm)} · 1 h${tag?' · '+esc(tag):''}</span><b>${esc(s.t)}</b><span class="cel-dt">${esc(s.dt)}</span></span></a>`}
+function confetti(){const cols=['#FFB020','#2F5BE0','#30A46C','#E5484D','#8A4BD6','#0A94C2'];let h='<div class="cel-conf" aria-hidden="true">';
+  for(let i=0;i<28;i++)h+=`<i style="left:${Math.random()*100}%;background:${cols[i%cols.length]};animation-delay:${(Math.random()*.4).toFixed(2)}s;--r:${Math.round(Math.random()*720-360)}deg;--x:${Math.round(Math.random()*120-60)}px"></i>`;
+  return h+'</div>'}
+function celebrate(uid,qp){
+  const n=nextTasks();const qs2=qp!=null?`<span class="cel-chip">${CL.quizS(qp)}</span>`:'';const pts=`<span class="cel-chip">⭐ ${CL.pts}</span>`;
+  let h;
+  if(n.today.length){const t=n.today[0];
+    const w=CL.w[Math.floor(Math.random()*CL.w.length)];
+    const dots=`<div class="cel-dots">${'<i class="on"></i>'.repeat(Math.min(n.tDone,8))}${'<i></i>'.repeat(Math.min(n.today.length,8))}</div>`;
+    h=`<div class="cel-box"><div class="cel-em">💪</div><h3>${w}</h3><div class="cel-chips">${pts}${qs2}</div>${dots}<p>${CL.left(n.today.length)}</p>
+      ${taskCard(t)}<div class="cel-row"><button type="button" class="cel-sec" data-cel="close">${CL.later}</button><a class="cel-pri" href="${sessionHref(t.s,t.x)}">${CL.go}</a></div></div>`;
+  }else if(n.ahead.length){const t=n.ahead[0];
+    h=`${confetti()}<div class="cel-box"><div class="cel-em">🎉</div><h3>${CL.dayT}</h3><div class="cel-chips">${pts}${qs2}</div><p>${CL.dayS}</p>
+      <div class="cel-extra"><b>${CL.extraQ}</b><p>${CL.extraS}</p>${taskCard(t,CL.extraTag(fmt(t.x.d)))}</div>
+      <div class="cel-row"><button type="button" class="cel-sec" data-cel="close">${CL.enough}</button><a class="cel-pri" href="${sessionHref(t.s,t.x)}">${CL.goX}</a></div></div>`;
+  }else{
+    h=`${confetti()}<div class="cel-box"><div class="cel-em">🏆</div><h3>${CL.endT}</h3><div class="cel-chips">${pts}${qs2}</div><p>${CL.endS}</p><div class="cel-row"><button type="button" class="cel-pri" data-cel="close">${CL.ok}</button></div></div>`;
+  }
+  celEl.innerHTML=h;celEl.hidden=false;const f=celEl.querySelector('.cel-pri');if(f)f.focus({preventScroll:true});
+}
+function finishTask(uid,qp){setDone(uid,true);celebrate(uid,qp)}
 const QZ=$('quiz');let qs=null;
 function closeQuiz(){QZ.hidden=true;qs=null}
 function startQuiz(id,title){
   fetch(`${BASE}content/quiz/${id}.json`,{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(data=>{
     qs={id,title:title.replace(/\s*→.*$/,''),qq:data.questions||[],i:0,score:0,max:(data.questions||[]).length,answered:false};
-    if(!qs.max){setDone(id,true);return}
-    QZ.hidden=false;renderQ()}).catch(()=>setDone(id,true));
+    if(!qs.max){finishTask(id);return}
+    QZ.hidden=false;renderQ()}).catch(()=>finishTask(id));
 }
 function qHead(){return `<div class="qhead"><span>${T.quiz.title}</span><span>${T.quiz.of(Math.min(qs.i+1,qs.max),qs.max)}</span></div><div class="qbar"><i style="width:${100*qs.i/qs.max}%"></i></div><div class="why">${esc(qs.title)}</div>`}
 function renderQ(){
@@ -280,8 +330,8 @@ QZ.addEventListener('click',e=>{if(!qs)return;const b=e.target.closest('button')
   if(b.dataset.q==='next'){qs.i++;renderQ();return}
   if(b.dataset.q==='show'){$('qmodel').hidden=false;$('qshow').hidden=true;return}
   if(b.dataset.self!==undefined){qs.score+=+b.dataset.self;qs.i++;renderQ();return}
-  if(b.dataset.q==='skip'){const id=qs.id;closeQuiz();setDone(id,true);return}
-  if(b.dataset.q==='finish'){const id=qs.id,p=Math.round(100*qs.score/qs.max);quiz[id]={p,d:todayK,n:(quiz[id]?quiz[id].n:0)+1};store(QKEY,quiz);closeQuiz();setDone(id,true);return}
+  if(b.dataset.q==='skip'){const id=qs.id;closeQuiz();finishTask(id);return}
+  if(b.dataset.q==='finish'){const id=qs.id,p=Math.round(100*qs.score/qs.max);quiz[id]={p,d:todayK,n:(quiz[id]?quiz[id].n:0)+1};store(QKEY,quiz);closeQuiz();finishTask(id,p);return}
 });
 
 

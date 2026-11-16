@@ -6,7 +6,7 @@ DATA.T={
  nav:{hoy:'Today',calendario:'Calendar',reparto:'Time split',asignaturas:'Subjects',metodo:'Method',recursos:'Resources'},
  navSub:{hoy:'Your day and progress',calendario:'Every day of the plan',reparto:'Hours and phases',asignaturas:'Syllabus and study pages',metodo:'How to study',recursos:'Where to practise'},
  brand:'IGCSE Plan',brandSub:'Carlota · Mocks 11 Jan 2027',daysLeft:'days to the mock',lang:'Versión en español',langHref:'es/',menu:'Menu',close:'Close menu',
- install:'<b>Install it on the iPad:</b> Safari’s Share button → <b>Add to Home Screen</b>.',
+ install:'<b>Install it on your iPhone or iPad:</b> Safari’s Share button → <b>Add to Home Screen</b>.',
  MES:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
  MESL:['January','February','March','April','May','June','July','August','September','October','November','December'],
  DIA:['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],DOWS:['M','T','W','T','F','S','S'],

@@ -115,6 +115,7 @@ let current=null;
 function show(v,dayK){
   if(!VIEWS.includes(v))v='hoy';
   VIEWS.forEach(x=>{$('v-'+x).hidden=x!==v});
+  if(v==='reparto'&&typeof renderReparto==='function'&&$('weekly'))renderReparto();
   document.querySelectorAll('#nav a').forEach(a=>a.setAttribute('aria-current',a.dataset.v===v?'page':'false'));
   $('viewTitle').textContent=v==='hoy'?T.brand:T.nav[v];document.title=`${T.nav[v]} · ${T.brand}`;
   openMenu(false);
@@ -156,19 +157,24 @@ function renderReparto(){
   const ex=X(EXAM);s+=`<circle cx="${ex-6}" cy="71" r="12" style="fill:var(--ink)"/><path d="M${ex-11} 71l4 4 7-8" style="fill:none;stroke:var(--bg);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"/><text x="${ex-6}" y="104" text-anchor="end" style="fill:var(--ink);font:700 12px var(--f-mono)">${T.examL}</text>`;
   if(todayUTC>=START&&todayUTC<=EXAM){const tx=X(todayUTC);s+=`<path d="M${tx} 56l-5-8h10z" style="fill:var(--ink)"/><text x="${tx+8}" y="18" style="fill:var(--ink);font:700 11px var(--f-mono)">${T.todayL}</text><line x1="${tx}" x2="${tx}" y1="22" y2="48" style="stroke:var(--ink)"/>`}
   $('route').innerHTML=s+'</svg>';
+  {let m=$('routeM');if(!m){m=document.createElement('div');m.id='routeM';m.className='route-m';$('route').after(m)}
+   const pct=Math.max(0,Math.min(100,100*((todayUTC-START)/864e5)/N));
+   const row=(c,l,sub)=>`<li style="--c:${c}"><b>${l}</b><span>${sub}</span></li>`;
+   m.innerHTML=`<div class="rm-bar"><i style="width:${pct}%"></i>${todayUTC>=START&&todayUTC<=EXAM?`<em style="left:${pct}%">${T.todayL}</em>`:''}</div><ol>`+
+     row('var(--accent)',T.r1Label,T.r1Sub+r1h+' h')+row('var(--warn)',T.r2Label,T.r2Sub)+row('var(--ok)',T.sprint.toUpperCase(),LANG==='es'?'9 – 10 ene':'9 – 10 Jan')+row('var(--ink)',T.examL,'')+`</ol><p class="note">${T.holidays}</p>`}
   // weekly
   {const weeks=[];const mon=d=>add(d,-((d.getUTCDay()+6)%7));
   days.forEach(x=>{const m=iso(mon(x.d));let w=weeks.find(w=>w.m===m);if(!w){w={m,d:mon(x.d),c:{}};weeks.push(w)}x.slots.forEach(s=>w.c[s.s]=(w.c[s.s]||0)+1)});
-  const W=560,H=250,L=34,B=36,Tp=12,R=8,max=Math.max(28,Math.ceil(Math.max(...weeks.map(w=>Object.values(w.c).reduce((a,b)=>a+b,0)))/7)*7),bw=(W-L-R)/weeks.length;const Y=v=>H-B-(H-B-Tp)*v/max;
+  const cw=($('weekly').clientWidth||560),W=Math.max(300,Math.min(560,cw)),H=cw<480?230:250,L=34,B=36,Tp=26,R=8,max=Math.max(28,Math.ceil(Math.max(...weeks.map(w=>Object.values(w.c).reduce((a,b)=>a+b,0)))/7)*7),bw=(W-L-R)/weeks.length;const Y=v=>H-B-(H-B-Tp)*v/max;
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${T.weeklyAria}">`;
   for(let v=0;v<=max;v+=7)s+=`<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" style="stroke:var(--line)"/><text x="${L-6}" y="${Y(v)+4}" text-anchor="end">${v}h</text>`;
   weeks.forEach((w,i)=>{let acc=0;const x=L+i*bw+bw*.18,ww=bw*.64;
     [...ORDER,'mix'].forEach(k=>{const v=w.c[k]||0;if(!v)return;s+=`<rect x="${x}" y="${Y(acc+v)}" width="${ww}" height="${Y(acc)-Y(acc+v)-1}" style="fill:${COL(k)}"><title>${k==='mix'?T.review:S[k].es}: ${v} h</title></rect>`;acc+=v});
-    s+=`<text x="${x+ww/2}" y="${Y(acc)-5}" text-anchor="middle" style="fill:var(--ink);font-weight:600">${acc}</text><text x="${x+ww/2}" y="${H-B+16}" text-anchor="middle">${w.d.getUTCDate()} ${MES[w.d.getUTCMonth()]}</text>`});
+    s+=`<text x="${x+ww/2}" y="${Y(acc)-5}" text-anchor="middle" style="fill:var(--ink);font-weight:600">${acc}</text>${bw>=44||i%2===0?`<text x="${x+ww/2}" y="${H-B+16}" text-anchor="middle">${w.d.getUTCDate()} ${MES[w.d.getUTCMonth()]}</text>`:''}`});
   $('weekly').innerHTML=s+`<text x="${L}" y="${H-4}">${T.weekStart}</text></svg>`;}
   // by subject
   {const c={};ORDER.forEach(k=>c[k]={a:0,b:0});days.forEach(x=>x.slots.forEach(s=>{if(c[s.s])s.ph==='r1'?c[s.s].a++:c[s.s].b++}));
-  const W=440,rowH=30,L=110,R=34,Tp=8,max=Math.ceil(Math.max(...ORDER.map(k=>c[k].a+c[k].b))/10)*10,H=Tp+ORDER.length*rowH+24;const X=v=>L+(W-L-R)*v/max;
+  const W=Math.max(320,Math.min(440,$('bysubj').clientWidth||440)),rowH=30,L=96,R=34,Tp=8,max=Math.ceil(Math.max(...ORDER.map(k=>c[k].a+c[k].b))/10)*10,H=Tp+ORDER.length*rowH+24;const X=v=>L+(W-L-R)*v/max;
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${T.subjAria}">`;
   for(let v=0;v<=max;v+=10)s+=`<line x1="${X(v)}" x2="${X(v)}" y1="${Tp}" y2="${H-22}" style="stroke:var(--line)"/><text x="${X(v)}" y="${H-6}" text-anchor="middle">${v}h</text>`;
   ORDER.forEach((k,i)=>{const y=Tp+i*rowH+5,{a,b}=c[k];
@@ -224,9 +230,14 @@ function renderSubjects(){
     return `<article class="subj" id="s-${k}"><div class="subj-h"><span class="badge" style="background:${COL(k)}">${ic(k)}</span><div><h3>${s.es}</h3><small>${s.en} · ${s.code}</small></div></div>
     <div class="papers">${s.papers.map(([a,b])=>`<div><span>${a}</span><span>${b}</span></div>`).join('')}</div>
     <p class="tip">${s.tip}</p><small class="num" style="color:var(--muted)">${T.doneOf(nd,all.length)}</small>
+    <details class="subj-more" data-k="${k}" ${subjOpen(k)?'open':''}><summary>${LANG==='es'?`Ver temas y sesiones (${all.length})`:`See topics and sessions (${all.length})`}</summary>
     <h4>${T.r1Topics}</h4><ol class="subj-topics">${s.r1.map((t,i)=>row('r1',i,t)).join('')}</ol>
-    <h4>${T.r2Topics}</h4><ol class="subj-topics">${s.r2.map((t,i)=>row('r2',i,t)).join('')}</ol></article>`}).join('');
+    <h4>${T.r2Topics}</h4><ol class="subj-topics">${s.r2.map((t,i)=>row('r2',i,t)).join('')}</ol></details></article>`}).join('');
 }
+const SO='igcse-subj-open';
+function subjOpen(k){let o=null;try{o=JSON.parse(sessionStorage.getItem(SO)||'null')}catch(e){}return o?o.includes(k):innerWidth>=900}
+document.addEventListener('toggle',e=>{const d=e.target;if(!d.classList||!d.classList.contains('subj-more'))return;
+  const o=[...document.querySelectorAll('details.subj-more[open]')].map(x=>x.dataset.k);try{sessionStorage.setItem(SO,JSON.stringify(o))}catch(err){}},true);
 
 /* ----- Method and resources ----- */
 function sessBar(parts){const W=440,H=78;let x=0,s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${T.sessAria}">`;
@@ -246,7 +257,7 @@ function refreshAll(){if(window.dashRefresh)window.dashRefresh();else renderToda
 function setDone(id,val){if(val)done[id]=true;else delete done[id];save();refreshAll()}
 function cfClose(){cfm.hidden=true;cfPending=null}
 document.addEventListener('click',e=>{const t=e.target.closest&&e.target.closest('input[type=checkbox][data-id]');if(!t)return;e.preventDefault();
-  const val=!done[t.dataset.id];const li=t.closest('li');cfPending={id:t.dataset.id,val,title:li?(li.querySelector('.tp')||{}).textContent||'':''};
+  const val=!done[t.dataset.id];const li=t.closest('li');cfPending={id:t.dataset.id,val,title:li?(li.querySelector('.tp,.mc-title')||{}).textContent||'':''};
   $('cfmQ').textContent=val?T.CF.q1:T.CF.q0;$('cfmT').textContent=cfPending.title.replace(/\s*→.*$/,'');
   $('cfmYes').textContent=val?T.CF.y1:T.CF.y0;$('cfmNo').textContent=T.CF.n;cfm.hidden=false;$('cfmYes').focus()});
 cfm.addEventListener('click',e=>{if(e.target.id==='cfmYes'&&cfPending){const p=cfPending;cfClose();if(p.val&&/-r1-\d\d$/.test(p.id))startQuiz(p.id,p.title);else if(p.val)finishTask(p.id);else setDone(p.id,false)}else if(e.target.id==='cfmNo'||e.target===cfm)cfClose()});
@@ -370,6 +381,8 @@ function renderSettings(){
 /* ----- Expose for the dashboard ----- */
 window.PLAN={overflow,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
 renderReparto();renderCalendar();renderSubjects();renderSettings();
+{let rw=innerWidth,rt;addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{if(Math.abs(innerWidth-rw)>40){rw=innerWidth;renderReparto()}},250)})}
+
 window.addEventListener('DOMContentLoaded',()=>{});
 /* ----- Return to the exact place after visiting a session page ----- */
 const RET='igcse-return';

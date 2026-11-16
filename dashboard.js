@@ -236,7 +236,7 @@ function render(){
   const pctAll=c.total?Math.round(100*c.n/c.total):0;
   const ring=(pct,col,big,small)=>{const r=42,C=2*Math.PI*r;return `<div class="ring"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:rgba(255,255,255,.14);stroke-width:10"/><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:${col};stroke-width:10;stroke-linecap:round;stroke-dasharray:${C*Math.max(0,Math.min(100,pct))/100} ${C};transform:rotate(-90deg);transform-origin:50% 50%"/></svg><div><b class="num">${big}</b><span>${small}</span></div></div>`};
   const days=P.days;let mDay=days.find(x=>x.k===c.K),mLabel=T.mission;if(!mDay&&c.K<c.first){mDay=days[0];mLabel=T.missionFirst(P.fmt(mDay.d))}
-  const mItems=mDay?mDay.slots.map((s,i)=>({s,i,x:mDay})):[];
+  const mItems=mDay?mDay.slots.map((s,i)=>({s,i,x:mDay})).sort((a,b)=>(!!P.done[a.s.uid])-(!!P.done[b.s.uid])||a.i-b.i):[];
   const mLeft=mItems.filter(t=>!P.done[t.s.uid]).length;
   const href=(s,x)=>`${P.base}session.html?id=${s.id}&d=${x.k}&lang=${P.lang}${s.topics?'&topics='+s.topics:''}`;
   const card=({s,x})=>{const dn=!!P.done[s.uid];const q=P.quiz&&P.quiz[s.uid];const nm=s.s==='mix'?(s.kick?(P.lang==='es'?'Arranque':'Kick-off'):(P.lang==='es'?'Repaso':'Review')):P.S[s.s].es;

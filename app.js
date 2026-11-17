@@ -67,7 +67,7 @@ days.forEach(x=>{x.base=x.slots.length;x.slots.forEach((s,i)=>{s.uid=s.id==='wee
 const now=(()=>{let q=null;try{q=new URLSearchParams(location.search).get('today')}catch(e){}return q&&/^\d{4}-\d\d-\d\d$/.test(q)?new Date(q+'T12:00:00'):new Date()})();
 const todayK=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
 const load=k=>{try{return JSON.parse(localStorage.getItem(k)||'{}')||{}}catch(e){return {}}};
-const store=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
+const store=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}if(window.IGSync)IGSync.push()};
 const KEY='igcse-plan-v1',QKEY='igcse-quiz-v1',HKEY='igcse-hours-v1';
 const done=load(KEY),quiz=load(QKEY),HS=load(HKEY);
 const DEF_RULE={wd:[2,2,2,2,2,4,4],hol:4,holFrom:'2026-12-22',holTo:'2027-01-10',xmasOff:true,half:true};
@@ -105,7 +105,7 @@ const VIEWS=['hoy','calendario','reparto','asignaturas','metodo','recursos','aju
 $('nav').innerHTML=VIEWS.map(v=>`<a href="#${v}" data-v="${v}">${ic(v)}<b>${T.nav[v]}</b><small>${T.navSub[v]}</small></a>`).join('');
 $('cdNum').textContent=left;$('cdTxt').textContent=T.daysLeft;$('cdMini').textContent=`${left} ${T.daysLeft}`;
 $('langLink').textContent=T.lang;$('langLink').href=T.langHref;
-$('brandT').textContent=T.brand;$('brandS').textContent=T.brandSub;$('installHint').innerHTML=T.install;$('nav').setAttribute('aria-label',T.menu);
+$('brandT').textContent=T.brand;$('brandS').textContent=T.brandSub.replace(/^Carlota/,(load('igcse-hours-v1').name)||'Carlota');$('installHint').innerHTML=T.install;$('nav').setAttribute('aria-label',T.menu);
 $('burger').innerHTML=ic('menu');$('burger').setAttribute('aria-label',T.menu);
 const app=$('app');
 function openMenu(o){app.classList.toggle('open',o);$('burger').setAttribute('aria-expanded',String(o))}
@@ -379,7 +379,7 @@ function renderSettings(){
     else if(a==='reset-yes'){delete HS.rules;store(HKEY,HS);store(MOVES_KEY,{});location.hash='hoy';location.reload()}};
 }
 /* ----- Expose for the dashboard ----- */
-window.PLAN={overflow,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
+window.PLAN={overflow,mandatory,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
 renderReparto();renderCalendar();renderSubjects();renderSettings();
 {let rw=innerWidth,rt;addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{if(Math.abs(innerWidth-rw)>40){rw=innerWidth;renderReparto()}},250)})}
 

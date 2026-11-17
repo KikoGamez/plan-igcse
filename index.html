@@ -49,12 +49,14 @@
       <section class="view" id="v-asignaturas" hidden><div class="view-head" data-vh="asignaturas"></div><div class="subjects" id="subjects"></div></section>
       <section class="view" id="v-metodo" hidden><div class="view-head" data-vh="metodo"></div><div id="method" style="display:flex;flex-direction:column;gap:18px"></div></section>
       <section class="view" id="v-recursos" hidden><div class="view-head" data-vh="recursos"></div><div class="res" id="res"></div></section>
-      <section class="view" id="v-ajustes" hidden><div class="view-head" data-vh="ajustes"></div><div id="settings"></div></section>
+      <section class="view" id="v-ajustes" hidden><div class="view-head" data-vh="ajustes"></div><div id="settings"></div><div id="account"></div></section>
     </div>
   </div>
 </div>
 <div id="cfm" hidden role="dialog" aria-modal="true"><div class="box"><b id="cfmQ"></b><p id="cfmT"></p><div class="row"><button type="button" class="no" id="cfmNo"></button><button type="button" class="yes" id="cfmYes"></button></div></div></div>
 <div id="quiz" hidden role="dialog" aria-modal="true"><div class="qbox"></div></div>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="auth.js"></script>
 <script src="data-en.js"></script>
 <script src="app.js"></script>
 <script src="dashboard.js"></script>

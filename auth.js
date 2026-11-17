@@ -14,7 +14,7 @@ if(!CFG.url||!CFG.key||!window.supabase)return;
 const L=ES?{
   hi:'Entra en tu plan',sub:'Usa el usuario y la contraseña que te han enviado.',user:'Email',pass:'Contraseña',enter:'Entrar',wait:'Entrando…',
   bad:'Email o contraseña incorrectos.',net:'No hay conexión. Prueba otra vez.',lang:'English',
-  acct:'Tu cuenta',as:n=>`Has entrado como <b>${n}</b>`,inv:'Crear usuario nuevo',adm:'Alumnas (administrador)',admS:'Avance de cada cuenta.',admNone:'Aún no hay nadie con avance guardado. Las cuentas aparecen aquí cuando entran por primera vez.',ses:(a,b)=>`${a} de ${b} sesiones`,last:'Última actividad',never:'sin actividad',quizN:n=>`${n} quizzes hechos`,pw:'Cambiar contraseña',out:'Cerrar sesión',
+  acct:'Tu cuenta',as:n=>`Has entrado como <b>${n}</b>`,inv:'Crear usuario nuevo',adm:'Alumnas (administrador)',admS:'Avance de cada cuenta.',admNone:'Aún no hay nadie con avance guardado. Las cuentas aparecen aquí cuando entran por primera vez.',ses:(a,b)=>`${a} de ${b} sesiones`,open:'Ver detalle →',viewing:n=>`Viendo a <b>${n}</b>`,ro:'solo lectura',act:'su última actividad',chk:'comprobado',exit:'Salir',ago:s=>s<5?'ahora':`hace ${s} s`,last:'Última actividad',never:'sin actividad',quizN:n=>`${n} quizzes hechos`,pw:'Cambiar contraseña',out:'Cerrar sesión',
   invH:'Crear usuario nuevo',invS:'Se crea la cuenta y te damos el mensaje con su usuario y contraseña para mandárselo.',name:'Nombre',mail:'Su email',newpw:'Contraseña',
   create:'Crear cuenta',creating:'Creando…',cancel:'Cancelar',close:'Cerrar',exists:'Ese email ya tiene cuenta.',badmail:'Revisa el email.',err:'No se pudo crear la cuenta: ',
   readyH:n=>`Cuenta de ${n} creada ✅`,readyS:'Mándale este mensaje:',byMail:'📧 Enviar por email',byWa:'💬 Abrir WhatsApp',copy:'Copiar mensaje',copied:'¡Copiado!',
@@ -25,7 +25,7 @@ const L=ES?{
 }:{
   hi:'Sign in to your plan',sub:'Use the username and password you were sent.',user:'Email',pass:'Password',enter:'Sign in',wait:'Signing in…',
   bad:'Wrong email or password.',net:'No connection. Try again.',lang:'Español',
-  acct:'Your account',as:n=>`Signed in as <b>${n}</b>`,inv:'Create new user',adm:'Students (admin)',admS:'Progress of each account.',admNone:'Nobody has saved progress yet. Accounts show up here after their first sign-in.',ses:(a,b)=>`${a} of ${b} sessions`,last:'Last activity',never:'no activity',quizN:n=>`${n} quizzes done`,pw:'Change password',out:'Sign out',
+  acct:'Your account',as:n=>`Signed in as <b>${n}</b>`,inv:'Create new user',adm:'Students (admin)',admS:'Progress of each account.',admNone:'Nobody has saved progress yet. Accounts show up here after their first sign-in.',ses:(a,b)=>`${a} of ${b} sessions`,open:'See details →',viewing:n=>`Viewing <b>${n}</b>`,ro:'read-only',act:'her last activity',chk:'checked',exit:'Exit',ago:s=>s<5?'just now':`${s} s ago`,last:'Last activity',never:'no activity',quizN:n=>`${n} quizzes done`,pw:'Change password',out:'Sign out',
   invH:'Create new user',invS:'This creates the account and gives you a message with the username and password to send.',name:'Name',mail:'Their email',newpw:'Password',
   create:'Create account',creating:'Creating…',cancel:'Cancel',close:'Close',exists:'That email already has an account.',badmail:'Check the email.',err:'Could not create the account: ',
   readyH:n=>`${n}'s account is ready ✅`,readyS:'Send this message:',byMail:'📧 Send by email',byWa:'💬 Open WhatsApp',copy:'Copy message',copied:'Copied!',
@@ -39,6 +39,34 @@ const sb=supabase.createClient(CFG.url,CFG.key,{auth:{persistSession:true,autoRe
 const ref=new URL(CFG.url).hostname.split('.')[0];
 const hasTok=!!ls.get('sb-'+ref+'-auth-token');
 if(!hasTok)document.documentElement.classList.add('locked');
+const VKEY='igcse-view',VY='igcse-view-y';
+let VIEW=null;try{VIEW=JSON.parse(sessionStorage.getItem(VKEY)||'null')}catch(e){}
+if(VIEW&&hasTok){window.IGVIEW=VIEW.data||{};document.documentElement.classList.add('viewas');
+  document.addEventListener('click',e=>{const t=e.target.closest&&e.target.closest('input[type=checkbox][data-id],#dash button[data-a],#settings button,#account button');
+    if(t){e.preventDefault();e.stopImmediatePropagation()}},true)}
+else VIEW=null;
+const ss={set:(k,v)=>{try{sessionStorage.setItem(k,v)}catch(e){}},del:k=>{try{sessionStorage.removeItem(k)}catch(e){}}};
+async function openView(id){
+  const {data:r,error}=await sb.from('progress').select('user_id,email,name,data,updated_at').eq('user_id',id).maybeSingle();
+  if(error||!r)return;
+  ss.set(VKEY,JSON.stringify({id:r.user_id,name:r.name||(r.data&&r.data['igcse-hours-v1']&&r.data['igcse-hours-v1'].name)||r.email,data:r.data||{},updated_at:r.updated_at}));
+  ss.del(VY);location.hash='hoy';location.reload()}
+function exitView(){ss.del(VKEY);ss.del(VY);location.hash='ajustes';location.reload()}
+function viewBar(){
+  const bar=document.createElement('div');bar.id='viewBar';
+  const main=document.querySelector('.main');main.insertBefore(bar,main.querySelector('.views'));
+  let checked=Date.now();
+  const t=x=>new Date(x).toLocaleString(ES?'es-ES':'en-GB',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+  const paint=()=>{bar.innerHTML=`<span class="vb-eye">👁</span><div class="vb-txt"><span>${L.viewing(esc(VIEW.name))} · ${L.ro}</span><small>${L.act}: ${t(VIEW.updated_at)} · ${L.chk} ${L.ago(Math.round((Date.now()-checked)/1000))}</small></div><button type="button" id="vbX">${L.exit}</button>`;
+    bar.querySelector('#vbX').onclick=exitView};
+  paint();setInterval(paint,5000);
+  let y=null;try{y=+sessionStorage.getItem(VY)}catch(e){}if(y)setTimeout(()=>scrollTo(0,y),50);ss.del(VY);
+  const poll=async()=>{if(document.visibilityState!=='visible')return;
+    const {data:r,error}=await sb.from('progress').select('data,updated_at').eq('user_id',VIEW.id).maybeSingle();
+    if(error||!r)return;checked=Date.now();paint();
+    if(r.updated_at!==VIEW.updated_at){VIEW.data=r.data||{};VIEW.updated_at=r.updated_at;ss.set(VKEY,JSON.stringify(VIEW));ss.set(VY,String(Math.round(scrollY)));location.reload()}};
+  setInterval(poll,10000);document.addEventListener('visibilitychange',poll);
+}
 
 /* ---------- data blob ---------- */
 const localBlob=()=>{const o={};KEYS.forEach(k=>{const v=ls.get(k);if(v)try{o[k]=JSON.parse(v)}catch(e){}});return o};
@@ -122,9 +150,10 @@ async function adminPanel(box){
   list.innerHTML=rows.map(r=>{const p=(r.data&&r.data['igcse-plan-v1'])||{};const n=Object.values(p).filter(Boolean).length;
     const q=Object.keys((r.data&&r.data['igcse-quiz-v1'])||{}).length;const pct=tot?Math.min(100,Math.round(100*n/tot)):0;
     const nm=r.name||(r.data&&r.data['igcse-hours-v1']&&r.data['igcse-hours-v1'].name)||r.email;
-    return `<div class="adm-row"><div class="adm-top"><b>${esc(nm)}</b><span class="num">${pct}%</span></div>
+    return `<button type="button" class="adm-row" data-view="${esc(r.user_id)}"><div class="adm-top"><b>${esc(nm)}</b><span class="num">${pct}%</span></div>
       <div class="adm-bar"><i style="width:${pct}%"></i></div>
-      <div class="adm-meta"><span>${L.ses(n,tot||'?')} · ${L.quizN(q)}</span><span>${L.last}: ${when(r.updated_at)}</span><span class="note">${esc(r.email||'')}</span></div></div>`}).join('');
+      <div class="adm-meta"><span>${L.ses(n,tot||'?')} · ${L.quizN(q)}</span><span>${L.last}: ${when(r.updated_at)}</span><span class="note">${esc(r.email||'')}</span></div><span class="adm-open">${L.open}</span></button>`}).join('');
+  list.onclick=e=>{const b=e.target.closest('[data-view]');if(b){b.disabled=true;openView(b.dataset.view)}};
 }
 function invite(me){
   const m=modal(`<b class="acm-t">${L.invH}</b><p>${L.invS}</p>
@@ -172,7 +201,9 @@ function signOut(){
 async function start(){
   const {data}=await sb.auth.getSession();const u=data&&data.session&&data.session.user;
   if(!u){document.documentElement.classList.add('locked');showLogin();return}
+  if(VIEW&&u.email!==ADMIN){exitView();return}
   if(await adopt(u)){location.reload();return}
+  if(VIEW){user=u;viewBar();return}
   accountPanel(u);
   let last=Date.now();
   document.addEventListener('visibilitychange',async()=>{if(document.visibilityState!=='visible'||Date.now()-last<30000||busy)return;last=Date.now();if(await adopt(u))location.reload()});

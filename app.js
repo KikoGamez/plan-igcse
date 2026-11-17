@@ -66,8 +66,9 @@ days.forEach(x=>{x.base=x.slots.length;x.slots.forEach((s,i)=>{s.uid=s.id==='wee
 /* ----- Custom study hours ("Regenerate plan") ----- */
 const now=(()=>{let q=null;try{q=new URLSearchParams(location.search).get('today')}catch(e){}return q&&/^\d{4}-\d\d-\d\d$/.test(q)?new Date(q+'T12:00:00'):new Date()})();
 const todayK=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
-const load=k=>{try{return JSON.parse(localStorage.getItem(k)||'{}')||{}}catch(e){return {}}};
-const store=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}if(window.IGSync)IGSync.push()};
+const VIEW=window.IGVIEW||null;
+const load=k=>{if(VIEW)return JSON.parse(JSON.stringify(VIEW[k]||{}));try{return JSON.parse(localStorage.getItem(k)||'{}')||{}}catch(e){return {}}};
+const store=(k,v)=>{if(VIEW)return;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}if(window.IGSync)IGSync.push()};
 const KEY='igcse-plan-v1',QKEY='igcse-quiz-v1',HKEY='igcse-hours-v1';
 const done=load(KEY),quiz=load(QKEY),HS=load(HKEY);
 const DEF_RULE={wd:[2,2,2,2,2,4,4],hol:4,holFrom:'2026-12-22',holTo:'2027-01-10',xmasOff:true,half:true};
@@ -89,7 +90,7 @@ function applyRule(r){
   overflow=queue.slice(qi);
 }
 (HS.rules||[]).forEach(applyRule);
-const MOVES_KEY='igcse-moves-v1';let moves={};try{moves=JSON.parse(localStorage.getItem(MOVES_KEY)||'{}')||{}}catch(e){moves={}}
+const MOVES_KEY='igcse-moves-v1';let moves={};try{moves=VIEW?JSON.parse(JSON.stringify(VIEW[MOVES_KEY]||{})):(JSON.parse(localStorage.getItem(MOVES_KEY)||'{}')||{})}catch(e){moves={}}
 (function(){const byK=Object.fromEntries(days.map(x=>[x.k,x]));const add2={};days.forEach(x=>{x.slots=x.slots.filter(s=>{const t=moves[s.uid];if(t&&t!==x.k&&byK[t]){s.moved=true;(add2[t]=add2[t]||[]).push(s);return false}return true})});days.forEach(x=>{if(add2[x.k])x.slots=x.slots.concat(add2[x.k]);x.h=x.slots.length})})();
 const TOTAL=days.reduce((a,x)=>a+x.h,0);
 const slotDate={};days.forEach(x=>x.slots.forEach(s=>{if(s.id)slotDate[s.id]=slotDate[s.id]||x.k}));

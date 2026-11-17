@@ -202,7 +202,7 @@ function planMoves(c){
   return {mv,days:targets.length,max:Math.max(...Object.values(load))};
 }
 
-function persist(m){try{localStorage.setItem(P.MOVES_KEY,JSON.stringify(m))}catch(e){}if(window.IGSync)IGSync.push();location.reload()}
+function persist(m){if(window.IGVIEW)return;try{localStorage.setItem(P.MOVES_KEY,JSON.stringify(m))}catch(e){}if(window.IGSync)IGSync.push();location.reload()}
 
 function bar(label,o,showExp){
   const p=o.t?Math.round(100*o.d/o.t):0,e=o.t?Math.round(100*o.e/o.t):0;

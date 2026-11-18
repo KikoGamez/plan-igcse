@@ -91,7 +91,7 @@ function applyRule(r){
 }
 (HS.rules||[]).forEach(applyRule);
 const MOVES_KEY='igcse-moves-v1';let moves={};try{moves=VIEW?JSON.parse(JSON.stringify(VIEW[MOVES_KEY]||{})):(JSON.parse(localStorage.getItem(MOVES_KEY)||'{}')||{})}catch(e){moves={}}
-(function(){const byK=Object.fromEntries(days.map(x=>[x.k,x]));const add2={};days.forEach(x=>{x.slots=x.slots.filter(s=>{const t=moves[s.uid];if(t&&t!==x.k&&byK[t]){s.moved=true;(add2[t]=add2[t]||[]).push(s);return false}return true})});days.forEach(x=>{if(add2[x.k])x.slots=x.slots.concat(add2[x.k]);x.h=x.slots.length})})();
+(function(){const byK=Object.fromEntries(days.map(x=>[x.k,x]));const add2={};days.forEach(x=>{x.slots=x.slots.filter(s=>{const t=moves[s.uid];if(t&&t!==x.k&&byK[t]){s.moved=true;(add2[t]=add2[t]||[]).push(s);return false}return true})});days.forEach(x=>{if(add2[x.k]){let n=Math.max(0,x.slots.length+add2[x.k].length-x.base);x.slots=x.slots.filter(s=>{if(n>0&&!s.id&&!s.kick){n--;return false}return true}).concat(add2[x.k])}x.h=x.slots.length})})();
 const TOTAL=days.reduce((a,x)=>a+x.h,0);
 const slotDate={};days.forEach(x=>x.slots.forEach(s=>{if(s.id)slotDate[s.id]=slotDate[s.id]||x.k}));
 
@@ -397,4 +397,11 @@ function restoreScroll(){let r=null;try{r=JSON.parse(sessionStorage.getItem(RET)
 window.addEventListener('pageshow',e=>{if(e.persisted)restoreScroll()});
 route();
 restoreScroll();
+/* ----- New day or back to the app: reload so 'today' is never stale ----- */
+if(!/[?&]today=/.test(location.search)){
+  const curK=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`};
+  const check=()=>{if(curK()!==todayK){try{sessionStorage.setItem(RET,JSON.stringify({url:location.href,y:0}))}catch(e){}location.reload()}};
+  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')check()});
+  addEventListener('focus',check);addEventListener('pageshow',check);setInterval(check,60000);
+}
 })();

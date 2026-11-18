@@ -29,6 +29,10 @@ const T=ES?{
   load:p=>`Carga pendiente: ${p}% del tiempo que queda`,
   subjTitle:'Por asignatura',sOk:'Al día',sResch:n=>`${n} reagendada${n===1?'':'s'}`,moreLoad:'Con lo reagendado tienes más carga diaria: no te relajes.',sLate:n=>`${n} retrasada${n===1?'':'s'}`,sGap:'Temario sin terminar',
   prep:'Preparación según mini tests',prepNone:'Aún no hay mini tests: aparecen al marcar un tema como hecho.',weak:'Temas a reforzar',weakNone:'Ningún tema flojo por ahora.',avg:p=>`media ${p}%`,todayH:'Lo que tienes hoy',
+  sgK:(i,n)=>`💡 Sugerencia${n>1?` · ${i} de ${n}`:''}`,sgWas:(nm,d)=>`<b>${nm}</b> se quedó sin hacer el ${d}.`,
+  sgTo:d=>`Te sugiero hacerla el <b>${d}</b>`,sgToday:'Te sugiero hacerla <b>hoy</b>',sgAdv:nm=>`: ese día tienes hueco porque ya adelantaste ${nm}.`,sgFree:': ese día tienes hueco sin estudiar más horas.',
+  sgMore:(a,b)=>`, pero ese día tendrás que estudiar <b>${b} h en vez de ${a}</b>.`,sgQ:'¿Te parece bien?',sgYes:d=>`Sí, pásala al ${d}`,sgPick:'Otro día',sgNo:'No, déjala',
+  sgOpt:(d,a,b)=>b>a?`${d} · ${b} h en vez de ${a}`:`${d} · cabe sin más horas`,sgMove:'Mover a ese día',sgNone:'No queda ningún día antes del examen donde moverla.',
   legend:'Semáforo general: verde si la carga pendiente cabe en el tiempo que queda; ámbar hasta un 10% por encima; rojo si se pasa más. Por asignatura: ámbar con 1–2 retrasadas o reagendadas; rojo con 3 o más, o con temario sin ver al empezar la Ronda 2.'
 }:{
   hello:`Hi ${NAME}`,hi:`Hi ${NAME}!`,daysTo:'days to the mocks',doneW:'complete',streak:n=>`${n}-day streak`,xp:'points',level:n=>`Level ${n}`,toNext:n=>`${n} pts to the next level`,mission:'Today’s mission',missionFirst:d=>`Your first mission · ${d}`,missionDone:'Mission complete! You’ve done everything for today. 🎉',missionOff:'Day off today. Rest and recharge.',open:'Open',doneBtn:'Done',sessionsLeft:n=>`${n} session${n===1?'':'s'} · ${n} h`,
@@ -56,6 +60,10 @@ const T=ES?{
   load:p=>`Workload left: ${p}% of the time left`,
   subjTitle:'By subject',sOk:'On track',sResch:n=>`${n} rescheduled`,moreLoad:'With the rescheduled sessions your daily load is higher: don’t relax.',sLate:n=>`${n} overdue`,sGap:'Syllabus not finished',
   prep:'Preparation from mini tests',prepNone:'No mini tests yet: they appear when you tick a topic as done.',weak:'Topics to reinforce',weakNone:'No weak topics so far.',avg:p=>`average ${p}%`,todayH:'Your sessions today',
+  sgK:(i,n)=>`💡 Suggestion${n>1?` · ${i} of ${n}`:''}`,sgWas:(nm,d)=>`<b>${nm}</b> was not done on ${d}.`,
+  sgTo:d=>`I suggest doing it on <b>${d}</b>`,sgToday:'I suggest doing it <b>today</b>',sgAdv:nm=>`: that day has room because you already did ${nm} early.`,sgFree:': that day has room without studying longer.',
+  sgMore:(a,b)=>`, but that day you would study <b>${b} h instead of ${a}</b>.`,sgQ:'Is that OK?',sgYes:d=>`Yes, move it to ${d}`,sgPick:'Another day',sgNo:'No, leave it',
+  sgOpt:(d,a,b)=>b>a?`${d} · ${b} h instead of ${a}`:`${d} · fits, no extra time`,sgMove:'Move to that day',sgNone:'There is no day left before the exam to move it to.',
   legend:'Overall light: green if the work left fits in the time left; amber up to 10% over; red beyond that. By subject: amber with 1–2 overdue or rescheduled; red with 3 or more, or topics not covered when Round 2 starts.'
 };
 
@@ -90,6 +98,9 @@ const css=`
 .dash .over{display:flex;flex-direction:column;gap:6px}
 .dash .over .ago{font:.72rem var(--f-mono);color:var(--c-spa)}
 .dash .over ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.dash .sug{border:2px solid var(--accent);background:var(--accent-soft);border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;font-size:.92rem;margin:4px 0 14px}
+.dash .sug p{margin:0}.dash .sug .sug-k{font:700 .72rem var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.dash .sug select{font:inherit;font-size:16px;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);max-width:100%}
 .dash .actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .dash button.b{font:600 .85rem var(--f-body);padding:9px 14px;border-radius:8px;cursor:pointer;border:1px solid var(--ink);background:var(--ink);color:var(--bg)}
 .dash button.b.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
@@ -202,6 +213,35 @@ function planMoves(c){
   return {mv,days:targets.length,max:Math.max(...Object.values(load))};
 }
 
+const fd=d=>ES?P.fmt(d).replace(/^./,ch=>ch.toLowerCase()):P.fmt(d);
+function nmOf(s){return s.s==='mix'?(s.kick?(ES?'Arranque':'Kick-off'):(ES?'Repaso':'Review')):P.S[s.s].es}
+function options(t,K){
+  const nm=t.s.s;
+  return P.days.filter(x=>x.k>=K&&x.k<='2027-01-08'&&x.base>0).map(x=>{
+    const open=x.slots.filter(s=>!P.done[s.uid]);const work=open.length,filler=open.some(s=>!s.id);
+    const after=work-(filler?1:0)+1,extra=after-x.base;
+    const adv=x.k>K?x.slots.find(s=>s.id&&P.done[s.uid]):null;
+    const dd=Math.round((new Date(x.k)-new Date(K))/864e5);
+    const score=Math.max(0,extra)*100+dd+(x.slots.some(s=>s.s===nm&&!P.done[s.uid])?6:0)+(x.k===K&&extra>0?1000:0);
+    return {x,k:x.k,from:x.base,to:Math.max(after,x.base),extra,adv,filler,score}}).sort((a,b)=>a.score-b.score);
+}
+function suggestion(c){
+  if(window.IGVIEW)return null;const keep=(P.HS&&P.HS.keep)||[];
+  const list=c.overdue.filter(t=>!keep.includes(t.s.uid));if(!list.length)return null;
+  const t=list[0];return {t,n:list.length,opts:options(t,c.K)};
+}
+function sugHTML(c){
+  const g=suggestion(c);if(!g)return '';const t=g.t,o=g.opts[0];
+  let h=`<div class="sug" role="region" aria-label="${T.sgQ}"><p class="sug-k">${T.sgK(1,g.n)}</p><p>${T.sgWas(nmOf(t.s)+' · '+t.s.t,fd(t.x.d))}</p>`;
+  if(!o)return h+`<p>${T.sgNone}</p><div class="actions"><button class="b ghost" data-a="sg-no" data-u="${t.s.uid}" type="button">${T.sgNo}</button></div></div>`;
+  const dl=fd(o.x.d);
+  h+=`<p>${o.k===c.K?T.sgToday:T.sgTo(dl)}${o.extra>0?T.sgMore(o.from,o.to):o.adv?T.sgAdv(nmOf(o.adv)):T.sgFree}</p><p><b>${T.sgQ}</b></p>`;
+  if(ui.pick){h+=`<select data-sel="1" aria-label="${T.sgPick}">${g.opts.slice(0,12).sort((a,b)=>a.k<b.k?-1:1).map(p=>`<option value="${p.k}"${p.k===o.k?' selected':''}>${T.sgOpt(P.fmt(p.x.d),p.from,p.to)}</option>`).join('')}</select>
+    <div class="actions"><button class="b" data-a="sg-sel" data-u="${t.s.uid}" type="button">${T.sgMove}</button><button class="b ghost" data-a="cancel" type="button">${T.resNo}</button></div>`}
+  else h+=`<div class="actions"><button class="b" data-a="sg-yes" data-u="${t.s.uid}" data-k="${o.k}" type="button">${T.sgYes(o.k===c.K?(ES?'hoy':'today'):dl)}</button><button class="b ghost" data-a="sg-pick" type="button">${T.sgPick}</button><button class="b ghost" data-a="sg-no" data-u="${t.s.uid}" type="button">${T.sgNo}</button></div>`;
+  return h+'</div>';
+}
+function keepAsIs(uid){if(window.IGVIEW)return;const HS=P.HS||{};HS.keep=(HS.keep||[]).concat(uid);try{localStorage.setItem('igcse-hours-v1',JSON.stringify(HS))}catch(e){}if(window.IGSync)IGSync.push();ui.pick=false;render()}
 function persist(m){if(window.IGVIEW)return;try{localStorage.setItem(P.MOVES_KEY,JSON.stringify(m))}catch(e){}if(window.IGSync)IGSync.push();location.reload()}
 
 function bar(label,o,showExp){
@@ -258,6 +298,7 @@ function render(){
   <div class="card">
     <div class="m-head"><h3>${mLabel}</h3>${mDay&&mDay.h?`<span class="note">${T.sessionsLeft(mDay.h)}</span>`:''}</div>
     ${mission}
+    ${sugHTML(c)}
     <div class="kpis">
       <div class="kpi ${c.overdue.length?'bad':''}"><b class="num">${c.overdue.length}</b><span>${T.kOver}</span></div>
       <div class="kpi"><b class="num">${c.todayLeft}</b><span>${T.kToday}</span></div>
@@ -282,7 +323,10 @@ function render(){
 box.addEventListener('click',e=>{const b=e.target.closest('button[data-a]');if(!b)return;const a=b.dataset.a;
   if(a==='res'){ui.confirm='res';window.dashRefresh()}
   else if(a==='undo'){ui.confirm='undo';window.dashRefresh()}
-  else if(a==='cancel'){ui.confirm=null;window.dashRefresh()}
+  else if(a==='cancel'){ui.confirm=null;ui.pick=false;window.dashRefresh()}
+  else if(a==='sg-pick'){ui.pick=true;window.dashRefresh()}
+  else if(a==='sg-no'){keepAsIs(b.dataset.u)}
+  else if(a==='sg-yes'||a==='sg-sel'){const k=a==='sg-yes'?b.dataset.k:(box.querySelector('select[data-sel]')||{}).value;if(k)persist(Object.assign({},P.moves||{},{[b.dataset.u]:k}))}
   else if(a==='res-yes'){const c=compute();const pm=planMoves(c);if(pm)persist(Object.assign({},P.moves||{},pm.mv))}
   else if(a==='undo-yes'){persist({})}
 });

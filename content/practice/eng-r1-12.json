@@ -1,0 +1,162 @@
+{
+ "id": "eng-r1-12",
+ "cards": [
+  {
+   "f": "Timed composition routine: first 5 minutes?",
+   "b": "Read all four titles and choose the one you can plan fastest."
+  },
+  {
+   "f": "Minutes 5-12?",
+   "b": "Plan: five paragraphs, key images or turning point, opening line, final line."
+  },
+  {
+   "f": "Minutes 12-50?",
+   "b": "Write about 400 words, watching paragraphs and tense."
+  },
+  {
+   "f": "Last 10 minutes?",
+   "b": "Proofread with the checklist."
+  },
+  {
+   "f": "Comma splice?",
+   "b": "Two full sentences joined only by a comma. It is wrong; use a full stop, semicolon or conjunction."
+  },
+  {
+   "f": "Semicolon use?",
+   "b": "Joins two closely linked complete sentences."
+  },
+  {
+   "f": "Colon use?",
+   "b": "Introduces an explanation, list or example after a complete clause."
+  },
+  {
+   "f": "Dash use?",
+   "b": "Adds an interruption or dramatic afterthought; use sparingly."
+  },
+  {
+   "f": "It's vs its?",
+   "b": "It's = it is. Its = possessive with no apostrophe."
+  },
+  {
+   "f": "Apostrophe of possession: singular and plural?",
+   "b": "the girl's bag (one girl); the girls' bags (several girls)."
+  },
+  {
+   "f": "Practice vs practise (British)?",
+   "b": "Practice is the noun; practise is the verb."
+  },
+  {
+   "f": "Affect vs effect?",
+   "b": "Affect is usually a verb; effect is usually a noun."
+  },
+  {
+   "f": "Question mark rule?",
+   "b": "Direct questions only; not 'I wondered if he was coming?'."
+  },
+  {
+   "f": "Sentence variety for effect?",
+   "b": "Simple, compound, complex, and minor sentences such as 'Darkness.' for impact."
+  },
+  {
+   "f": "Name four spelling traps.",
+   "b": "necessary, separate, definitely, environment (also embarrass, rhythm, conscience)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Two full sentences joined only by a comma is a comma ___.",
+   "a": [
+    "splice"
+   ]
+  },
+  {
+   "s": "Its with no apostrophe shows ___.",
+   "a": [
+    "possession",
+    "ownership",
+    "possessive"
+   ]
+  },
+  {
+   "s": "A ___ introduces a list or explanation after a complete clause.",
+   "a": [
+    "colon"
+   ]
+  },
+  {
+   "s": "The British verb is 'practise' and the noun is '___'.",
+   "a": [
+    "practice"
+   ]
+  },
+  {
+   "s": "A deliberate short fragment such as 'Darkness.' is a ___ sentence.",
+   "a": [
+    "minor"
+   ]
+  },
+  {
+   "s": "The accuracy assessment objective is ___.",
+   "a": [
+    "W5"
+   ]
+  },
+  {
+   "s": "A semicolon joins two closely linked complete ___.",
+   "a": [
+    "sentences",
+    "clauses"
+   ]
+  },
+  {
+   "s": "Do not switch ___ mid-paragraph; choose past or present.",
+   "a": [
+    "tense",
+    "tenses"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Correct: 'The door was open, nobody was inside.' Give two ways. [2]",
+   "model": "The door was open; nobody was inside. Or The door was open. Nobody was inside.",
+   "points": [
+    "Semicolon or full stop",
+    "Comma splice identified"
+   ]
+  },
+  {
+   "q": "Explain the difference between its and it's. [2]",
+   "model": "It's means it is. Its is possessive and has no apostrophe.",
+   "points": [
+    "It's = it is",
+    "Its = possessive"
+   ]
+  },
+  {
+   "q": "List four items from the proofreading checklist. [4]",
+   "model": "Full stops, capitals, apostrophes, homophones, tense, dialogue, paragraphs.",
+   "points": [
+    "Any valid checklist item",
+    "Four different items named"
+   ]
+  },
+  {
+   "q": "Punctuate possession: the bags belonging to several girls. [1]",
+   "model": "The girls' bags.",
+   "points": [
+    "Girls spelled with s",
+    "Apostrophe after the s"
+   ]
+  },
+  {
+   "q": "Give timing for a 60-minute composition. [3]",
+   "model": "5 minutes choose, 7 plan, 38 write, 10 proofread.",
+   "points": [
+    "Choose and plan first 12 min",
+    "Write 12-50",
+    "Proofread 50-60"
+   ]
+  }
+ ]
+}

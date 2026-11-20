@@ -1,0 +1,165 @@
+{
+ "id": "chem-r1-05",
+ "cards": [
+  {
+   "f": "Limiting reactant",
+   "b": "The reactant that is completely used up first; it determines how much product forms."
+  },
+  {
+   "f": "Excess reactant",
+   "b": "The reactant left over when the reaction stops."
+  },
+  {
+   "f": "Steps to find the limiting reactant",
+   "b": "Convert both masses to moles, divide each by its coefficient in the equation; the smaller value is limiting."
+  },
+  {
+   "f": "Why use the limiting reactant to find the product?",
+   "b": "Reaction stops when it runs out, so product amount is set by it, not by the excess."
+  },
+  {
+   "f": "Hydrated substance",
+   "b": "A substance chemically combined with water (water of crystallisation), e.g. CuSO₄·5H₂O."
+  },
+  {
+   "f": "Anhydrous substance",
+   "b": "A substance containing no water."
+  },
+  {
+   "f": "Colour change: hydrated to anhydrous copper(II) sulfate",
+   "b": "Blue (hydrated) becomes white (anhydrous) on heating."
+  },
+  {
+   "f": "Reacting masses in simple proportions (Core)",
+   "b": "Use the ratio of masses from Ar values and the equation, scaled up or down, e.g. 24 g Mg gives 40 g MgO."
+  },
+  {
+   "f": "Volume of gas from moles at r.t.p.",
+   "b": "volume (dm³) = moles × 24; cm³ = moles × 24 000."
+  },
+  {
+   "f": "Moles from gas volume",
+   "b": "moles = volume (dm³) ÷ 24, or volume (cm³) ÷ 24 000."
+  },
+  {
+   "f": "Mr of CuSO₄·5H₂O (Cu 64, S 32, O 16, H 1)",
+   "b": "250: 160 + 5 × 18."
+  },
+  {
+   "f": "Use of excess reagent",
+   "b": "To make sure all of the other (limiting) reactant reacts, e.g. excess acid so all metal reacts."
+  },
+  {
+   "f": "Where do 'extra' atoms go in a mass calculation?",
+   "b": "Nowhere: mass is conserved. Total mass of reactants = total mass of products."
+  },
+  {
+   "f": "Mole ratio in 2H₂ + O₂ → 2H₂O",
+   "b": "H₂ : O₂ : H₂O = 2 : 1 : 2."
+  },
+  {
+   "f": "Common exam trap: units",
+   "b": "Check cm³ vs dm³ and g vs kg; divide cm³ by 1000 to get dm³."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The reactant that is completely used up is the ___ reactant.",
+   "a": [
+    "limiting"
+   ]
+  },
+  {
+   "s": "The reactant that remains after the reaction has finished is in ___ .",
+   "a": [
+    "excess"
+   ]
+  },
+  {
+   "s": "A substance containing no water is called ___ .",
+   "a": [
+    "anhydrous"
+   ]
+  },
+  {
+   "s": "Anhydrous copper(II) sulfate turns from white to ___ when water is added.",
+   "a": [
+    "blue"
+   ]
+  },
+  {
+   "s": "0.05 mol of CO₂ at r.t.p. has a volume of ___ dm³.",
+   "a": [
+    "1.2",
+    "1.20"
+   ]
+  },
+  {
+   "s": "The volume of 0.1 mol of hydrogen at r.t.p. is ___ cm³.",
+   "a": [
+    "2400",
+    "2,400"
+   ]
+  },
+  {
+   "s": "In 2Mg + O₂ → 2MgO, the mole ratio of Mg to MgO is ___ to 1.",
+   "a": [
+    "1",
+    "one"
+   ]
+  },
+  {
+   "s": "Water that is chemically combined in a crystal is the water of ___ .",
+   "a": [
+    "crystallisation",
+    "crystallization"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "12 g of Mg burns in 4 g of O₂: 2Mg + O₂ → 2MgO. Identify the limiting reactant and the mass of MgO formed. (Mg 24, O 16) [4]",
+   "model": "O₂ is limiting: 4 g = 0.125 mol needs 0.25 mol Mg, but 0.5 mol Mg is present. MgO formed = 0.25 mol × 40 = 10 g.",
+   "points": [
+    "moles Mg = 0.5, moles O₂ = 0.125",
+    "O₂ needs only 0.25 mol Mg so O₂ limiting",
+    "0.25 mol MgO",
+    "mass = 10 g"
+   ]
+  },
+  {
+   "q": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. Calculate the volume of CO₂ at r.t.p. from 5 g CaCO₃ in excess acid. (Ca 40, C 12, O 16) [3]",
+   "model": "5 g = 0.05 mol; 1:1 ratio so 0.05 mol CO₂; volume = 0.05 × 24 = 1.2 dm³ (1200 cm³).",
+   "points": [
+    "moles = 0.05",
+    "ratio 1:1",
+    "1.2 dm³ / 1200 cm³"
+   ]
+  },
+  {
+   "q": "Describe a test for water and give the result. [2]",
+   "model": "Add the liquid to anhydrous copper(II) sulfate, which turns from white to blue (or anhydrous cobalt(II) chloride, blue to pink).",
+   "points": [
+    "anhydrous copper(II) sulfate or cobalt(II) chloride",
+    "white to blue / blue to pink"
+   ]
+  },
+  {
+   "q": "Calculate the mass of copper(II) oxide formed when 6.4 g of copper reacts completely with oxygen: 2Cu + O₂ → 2CuO. (Cu 64, O 16) [3]",
+   "model": "6.4 g Cu = 0.1 mol; 0.1 mol CuO; Mr = 80; mass = 8 g.",
+   "points": [
+    "moles Cu = 0.1",
+    "0.1 mol CuO",
+    "mass = 8 g"
+   ]
+  },
+  {
+   "q": "Explain why an excess of metal is used when preparing a salt from a metal and an acid. [2]",
+   "model": "Excess metal ensures all the acid reacts; the unreacted metal is then removed by filtration.",
+   "points": [
+    "ensures all acid reacted",
+    "excess is solid so filtered off"
+   ]
+  }
+ ]
+}

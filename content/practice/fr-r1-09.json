@@ -1,0 +1,165 @@
+{
+ "id": "fr-r1-09",
+ "cards": [
+  {
+   "f": "CAGE checklist",
+   "b": "Conjugation, Agreement, Gender, Extras (accents, negatives, missing words)."
+  },
+  {
+   "f": "Writing method",
+   "b": "Read twice, underline bullets and tenses, plan, write one paragraph per bullet, check, count."
+  },
+  {
+   "f": "Long task length",
+   "b": "130–150 words, about 30–35 words per bullet for four bullets."
+  },
+  {
+   "f": "Informal email opening and closing",
+   "b": "Salut Marie ! / Cher Paul, … À bientôt ! Grosses bises. Use tu."
+  },
+  {
+   "f": "Formal email opening and closing",
+   "b": "Madame, Monsieur, … Cordialement or Je vous prie d'agréer… Use vous."
+  },
+  {
+   "f": "Formal first line",
+   "b": "Je vous écris pour…"
+  },
+  {
+   "f": "Informal first line",
+   "b": "Merci pour ton message."
+  },
+  {
+   "f": "Range toolkit: connectives",
+   "b": "d'abord, ensuite, puis, enfin, cependant, par contre, donc, en plus."
+  },
+  {
+   "f": "Range toolkit: reasons",
+   "b": "parce que, car, puisque, comme."
+  },
+  {
+   "f": "Structure: après avoir / après être",
+   "b": "après avoir mangé, après être arrivé(e)."
+  },
+  {
+   "f": "Biggest Writing mistake",
+   "b": "Missing a bullet point."
+  },
+  {
+   "f": "a / à, ou / où",
+   "b": "a = has, à = to; ou = or, où = where."
+  },
+  {
+   "f": "Translate: Tengo que…",
+   "b": "Je dois… (not J'ai que)."
+  },
+  {
+   "f": "Translate: Me gusta",
+   "b": "J'aime."
+  },
+  {
+   "f": "Don't mix…",
+   "b": "tu and vous in the same email."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In a formal email use ___ , not tu.",
+   "a": [
+    "vous"
+   ]
+  },
+  {
+   "s": "CAGE: the G stands for ___ .",
+   "a": [
+    "gender"
+   ]
+  },
+  {
+   "s": "Missing a bullet point caps the ___ mark.",
+   "a": [
+    "communication"
+   ]
+  },
+  {
+   "s": "Je suis allée en Bretagne: allée agrees with a ___ writer.",
+   "a": [
+    "female",
+    "feminine",
+    "girl",
+    "woman"
+   ]
+  },
+  {
+   "s": "Ou means or and ___ means where.",
+   "a": [
+    "où",
+    "ou"
+   ]
+  },
+  {
+   "s": "Formal email opening: Madame, ___ .",
+   "a": [
+    "Monsieur"
+   ]
+  },
+  {
+   "s": "Informal closing: ___ bises.",
+   "a": [
+    "Grosses",
+    "grosses",
+    "Bises"
+   ]
+  },
+  {
+   "s": "The long task has about ___ to 150 words (lower figure).",
+   "a": [
+    "130"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write a short email (3 sentences) to a friend about last weekend. [3]",
+   "model": "Salut Léa ! Samedi, je suis allée au cinéma avec ma cousine. Nous avons mangé une pizza. Le week-end prochain, je vais rester à la maison.",
+   "points": [
+    "Past events with correct auxiliary (1)",
+    "Who/what covered (1)",
+    "Future plan (1)"
+   ]
+  },
+  {
+   "q": "Explain the CAGE checking method. [2]",
+   "model": "Check Conjugation, Agreement, Gender and Extras (accents, negatives) after writing.",
+   "points": [
+    "Letters named correctly (1)",
+    "Meaning of each (1)"
+   ]
+  },
+  {
+   "q": "Correct: (a) J'ai que faire mes devoirs. (b) Je suis allé à la plage avec mes amis; il fait beau. [2]",
+   "model": "(a) Je dois faire mes devoirs. (b) Il faisait beau (imparfait for description).",
+   "points": [
+    "Je dois (1)",
+    "faisait (1)"
+   ]
+  },
+  {
+   "q": "Give three features of a high-scoring long task. [3]",
+   "model": "Every bullet covered, three time frames, opinions with reasons and connectives, accurate.",
+   "points": [
+    "All bullets covered (1)",
+    "Three time frames with opinions (1)",
+    "Accurate grammar with connectives (1)"
+   ]
+  },
+  {
+   "q": "Why shouldn't you memorise one perfect paragraph? [2]",
+   "model": "It may not answer the actual task, so bullets are missed.",
+   "points": [
+    "It might not match the question (1)",
+    "Missing bullets lose communication marks (1)"
+   ]
+  }
+ ]
+}

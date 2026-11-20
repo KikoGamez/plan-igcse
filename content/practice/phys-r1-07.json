@@ -1,0 +1,166 @@
+{
+ "id": "phys-r1-07",
+ "cards": [
+  {
+   "f": "Law of reflection",
+   "b": "Angle of incidence = angle of reflection, both measured from the normal."
+  },
+  {
+   "f": "The normal",
+   "b": "A line at 90° to the surface at the point where the ray hits."
+  },
+  {
+   "f": "Properties of an image in a plane mirror",
+   "b": "Same size, same distance behind the mirror as the object is in front, upright, laterally inverted, virtual."
+  },
+  {
+   "f": "Virtual image",
+   "b": "Rays only appear to come from it; no light actually reaches it, so it cannot be formed on a screen."
+  },
+  {
+   "f": "Refraction",
+   "b": "Change in direction of a light ray as it passes from one medium to another (because its speed changes)."
+  },
+  {
+   "f": "Light enters glass from air: which way does it bend?",
+   "b": "Towards the normal (it slows down). Leaving glass it bends away from the normal."
+  },
+  {
+   "f": "Refractive index equation",
+   "b": "n = sin i ÷ sin r (i in air); also n = speed in air ÷ speed in material. No unit."
+  },
+  {
+   "f": "Critical angle",
+   "b": "The angle of incidence (inside the denser material) at which the angle of refraction is 90°."
+  },
+  {
+   "f": "Conditions for total internal reflection",
+   "b": "Light travels from a denser medium (glass/water) towards air AND the angle of incidence is greater than the critical angle."
+  },
+  {
+   "f": "Uses of total internal reflection in optical fibres",
+   "b": "Telecommunications (phone, cable TV, broadband) and endoscopes."
+  },
+  {
+   "f": "Principal focus of a converging lens",
+   "b": "The point on the principal axis where rays parallel to the axis meet after refraction."
+  },
+  {
+   "f": "Image when object is beyond 2F of a converging lens",
+   "b": "Real, inverted, diminished, between F and 2F (camera)."
+  },
+  {
+   "f": "Image when object is closer than F",
+   "b": "Virtual, upright, enlarged, same side as the object: a magnifying glass."
+  },
+  {
+   "f": "EM spectrum in order of increasing frequency",
+   "b": "Radio, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays."
+  },
+  {
+   "f": "Speed of all EM waves in a vacuum",
+   "b": "3.0 × 10⁸ m/s."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Angles in reflection are measured from the ___ .",
+   "a": [
+    "normal"
+   ]
+  },
+  {
+   "s": "A plane mirror image is the same distance behind the mirror as the object is in ___ of it.",
+   "a": [
+    "front"
+   ]
+  },
+  {
+   "s": "Total internal reflection happens only if the angle of incidence is greater than the ___ angle.",
+   "a": [
+    "critical"
+   ]
+  },
+  {
+   "s": "Of the visible colours, ___ light is refracted most by a prism.",
+   "a": [
+    "violet"
+   ]
+  },
+  {
+   "s": "Ultraviolet radiation is used to detect fake bank ___ .",
+   "a": [
+    "notes",
+    "banknotes",
+    "bank notes"
+   ]
+  },
+  {
+   "s": "Gamma rays and X-rays can damage cells and cause ___ .",
+   "a": [
+    "mutations",
+    "mutation",
+    "cancer"
+   ]
+  },
+  {
+   "s": "Light enters glass of refractive index 1.5 and travels at ___ × 10⁸ m/s (speed in air 3.0 × 10⁸ m/s).",
+   "a": [
+    "2",
+    "2.0"
+   ]
+  },
+  {
+   "s": "The EM waves with the longest wavelength are ___ waves.",
+   "a": [
+    "radio"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A ray enters glass with angle of incidence 45° and angle of refraction 28°. Calculate the refractive index.",
+   "model": "n = sin 45° ÷ sin 28° = 0.707 ÷ 0.469 = 1.5.",
+   "points": [
+    "n = sin i ÷ sin r",
+    "substitution sin 45 / sin 28",
+    "1.5"
+   ]
+  },
+  {
+   "q": "Explain how light is transmitted along an optical fibre.",
+   "model": "Light enters at one end and hits the fibre wall at an angle greater than the critical angle, so it undergoes total internal reflection again and again along the fibre.",
+   "points": [
+    "angle of incidence greater than critical angle",
+    "repeated total internal reflection",
+    "little light escapes"
+   ]
+  },
+  {
+   "q": "An object is placed 3.0 cm from a converging lens of focal length 5.0 cm. Describe the image.",
+   "model": "The object is inside F, so the image is virtual, upright and enlarged, on the same side as the object.",
+   "points": [
+    "object closer than F",
+    "virtual and upright",
+    "enlarged"
+   ]
+  },
+  {
+   "q": "State two uses and one harmful effect of ultraviolet radiation.",
+   "model": "Uses: detecting fake bank notes (and sterilising / security marking). Harmful: damage to surface cells and eyes, leading to skin cancer and eye conditions.",
+   "points": [
+    "use: detecting fake bank notes",
+    "second correct use or second effect",
+    "harm: skin cancer / eye damage"
+   ]
+  },
+  {
+   "q": "State what happens to a ray travelling along the normal into a glass block. Explain.",
+   "model": "It passes straight through without changing direction, though its speed decreases, because the change of direction only occurs when the ray meets the boundary at an angle.",
+   "points": [
+    "no change in direction",
+    "speed still changes"
+   ]
+  }
+ ]
+}

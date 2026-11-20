@@ -152,6 +152,7 @@ const st=document.createElement('style');st.textContent=css+`
 .dash .mc-sub{font:700 .72rem var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
 .dash .mc-title{font:700 1.08rem/1.25 var(--f-display);color:var(--ink);text-decoration:none}
 .dash .mc-dt{margin:0;font-size:.85rem;color:var(--muted);flex:1}
+.dash .mc-prc{all:unset;box-sizing:border-box;cursor:pointer;display:inline-flex;align-items:center;min-height:44px;padding:0 12px;border-radius:12px;border:1px solid var(--c);color:var(--ink);font:700 .85rem var(--f-body)}
 .dash .mc-act{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:4px}
 .dash .mc-open{display:inline-flex;align-items:center;min-height:44px;padding:0 14px;border-radius:12px;background:var(--c);color:#fff;font:700 .9rem var(--f-body);text-decoration:none}
 .dash .mc-done{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--surface);font:700 .9rem var(--f-body);cursor:pointer}
@@ -282,7 +283,7 @@ function render(){
   const card=({s,x})=>{const dn=!!P.done[s.uid];const q=P.quiz&&P.quiz[s.uid];const nm=s.s==='mix'?(s.kick?(P.lang==='es'?'Arranque':'Kick-off'):(P.lang==='es'?'Repaso':'Review')):P.S[s.s].es;
     return `<li class="mc${dn?' is-done':''}" style="--c:${P.COL(s.s)}"><div class="mc-top"><span class="mc-sub">${nm} · 1 h</span>${q?`<span class="qb ${P.level(q.p)}">${q.p}%</span>`:''}</div>
       ${s.id?`<a class="mc-title" href="${href(s,x)}">${s.t}</a>`:`<span class="mc-title">${s.t}</span>`}<p class="mc-dt">${s.dt}</p>
-      <div class="mc-act">${s.id?`<a class="mc-open" href="${href(s,x)}">${T.open} →</a>`:'<span></span>'}<label class="mc-done"><input type="checkbox" data-id="${s.uid}" aria-label="${T.doneBtn}: ${s.t}" ${dn?'checked':''}><span>${dn?'✓ ':''}${T.doneBtn}</span></label></div></li>`};
+      <div class="mc-act">${s.id?`<a class="mc-open" href="${href(s,x)}">${T.open} →</a>`:'<span></span>'}${/-r1-\d\d$/.test(s.id||'')?`<button type="button" class="mc-prc" data-practice="${s.id}" data-title="${String(s.t).replace(/"/g,'&quot;')}">🃏 ${ES?'Practicar':'Practice'}</button>`:''}<label class="mc-done"><input type="checkbox" data-id="${s.uid}" aria-label="${T.doneBtn}: ${s.t}" ${dn?'checked':''}><span>${dn?'✓ ':''}${T.doneBtn}</span></label></div></li>`};
   const mission=mDay?(mDay.h?(mLeft===0&&mDay.k===c.K?`<p class="m-done">${T.missionDone}</p>`:'')+`<ul class="mcards">${mItems.map(card).join('')}</ul>`:`<p class="m-done">${T.missionOff}</p>`):`<p class="m-done">${T.end1}</p>`;
   box.innerHTML=`
   <header class="hero2" style="--st:${stColor}">

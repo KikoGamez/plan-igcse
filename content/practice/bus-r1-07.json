@@ -1,0 +1,164 @@
+{
+ "id": "bus-r1-07",
+ "cards": [
+  {
+   "f": "Production vs productivity",
+   "b": "Production: total output made. Productivity: efficiency of inputs, e.g. output per worker."
+  },
+  {
+   "f": "Labour productivity formula",
+   "b": "Output in a time period ÷ number of employees."
+  },
+  {
+   "f": "Ways to increase productivity",
+   "b": "Training, better motivation, automation, quality control to cut waste, lean production, better inventory management."
+  },
+  {
+   "f": "Problems of holding too much inventory",
+   "b": "High storage and insurance costs, cash tied up, risk of waste, damage, theft or going out of date."
+  },
+  {
+   "f": "Problems of holding too little inventory",
+   "b": "Production may stop, orders unmet (lost sales), no bulk-buying discounts."
+  },
+  {
+   "f": "Buffer inventory",
+   "b": "Minimum inventory kept for emergencies such as late delivery or sudden demand."
+  },
+  {
+   "f": "Re-order level formula",
+   "b": "Buffer inventory + (daily usage × lead time). Lead time = time between ordering and delivery."
+  },
+  {
+   "f": "Lean production",
+   "b": "Techniques that reduce waste (time, materials, movement, inventory, faults) and raise efficiency."
+  },
+  {
+   "f": "Kaizen",
+   "b": "Continuous improvement through small, frequent changes suggested by workers, often in teams."
+  },
+  {
+   "f": "Just-in-time (JIT)",
+   "b": "Little or no inventory held; materials arrive as needed. Saves storage and cash, but needs reliable suppliers."
+  },
+  {
+   "f": "Cell production",
+   "b": "Production line split into cells, each team making a complete part. Improves teamworking and multi-skilling."
+  },
+  {
+   "f": "Job, batch and flow production",
+   "b": "Job: one product to order. Batch: group of identical products, then switch. Flow: continuous, large-scale production line."
+  },
+  {
+   "f": "Disadvantages of flow production",
+   "b": "Very high set-up cost, boring repetitive work, one breakdown stops the line, no variety."
+  },
+  {
+   "f": "Quality control vs quality assurance",
+   "b": "Control: checking at the end of production. Assurance: standards agreed and checked throughout the process."
+  },
+  {
+   "f": "Total quality management (TQM)",
+   "b": "Every employee is responsible for quality and customer satisfaction at each stage, including the next worker in the process."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Output per worker is called labour ___ .",
+   "a": [
+    "productivity"
+   ]
+  },
+  {
+   "s": "40 workers produce 4,800 units a week, so productivity is ___ units per worker.",
+   "a": [
+    "120"
+   ]
+  },
+  {
+   "s": "The time between placing an order and receiving it is the ___ time.",
+   "a": [
+    "lead"
+   ]
+  },
+  {
+   "s": "Little or no inventory held, with materials arriving as needed, is ___ production.",
+   "a": [
+    "just-in-time",
+    "jit",
+    "just in time"
+   ]
+  },
+  {
+   "s": "Making one product at a time to a customer's order is ___ production.",
+   "a": [
+    "job"
+   ]
+  },
+  {
+   "s": "Cars and soft drinks are usually made by ___ production.",
+   "a": [
+    "flow"
+   ]
+  },
+  {
+   "s": "Continuous improvement through small changes suggested by workers is called ___ .",
+   "a": [
+    "kaizen"
+   ]
+  },
+  {
+   "s": "CAM stands for computer-aided ___ .",
+   "a": [
+    "manufacturing",
+    "manufacture"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the labour productivity of a factory with 50 workers producing 6,500 units a week. [2]",
+   "model": "6,500 ÷ 50 = 130 units per worker per week.",
+   "points": [
+    "output ÷ workers",
+    "130 units"
+   ]
+  },
+  {
+   "q": "Maximum inventory is 1,000 units, buffer is 200 units, usage is 100 units per day and lead time is 2 days. Calculate the re-order level. [2]",
+   "model": "200 + (100 × 2) = 400 units.",
+   "points": [
+    "usage × lead time = 200",
+    "plus buffer = 400"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one risk of using just-in-time production. [4]",
+   "model": "Advantage: little inventory is held, so storage costs fall and less cash is tied up. Risk: a late delivery from a supplier stops production.",
+   "points": [
+    "advantage: lower storage costs/cash tied up",
+    "development",
+    "risk: needs reliable suppliers",
+    "development: production stops"
+   ]
+  },
+  {
+   "q": "Explain why flow production is not suitable for a business making hand-made wedding dresses. [3]",
+   "model": "Each dress is unique and made to order, so job production is needed. Flow production suits identical products in large quantities and has very high set-up costs.",
+   "points": [
+    "products are unique/made to order",
+    "flow needs identical mass-produced items",
+    "high set-up cost would not be justified"
+   ]
+  },
+  {
+   "q": "Distinguish between quality control and quality assurance. [3]",
+   "model": "Quality control checks products at the end of production. Quality assurance sets standards and checks them at every stage, so faults are found earlier and waste is lower.",
+   "points": [
+    "control: checks at the end",
+    "assurance: checks throughout",
+    "assurance reduces waste"
+   ]
+  }
+ ]
+}

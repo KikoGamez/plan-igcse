@@ -57,6 +57,8 @@ article hr{border:none;border-top:1px solid var(--line);margin:2em 0}
 .week{margin-top:2em;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
 .week h2{margin-top:0;border:none;padding:0}
 .state{color:var(--muted);padding:40px 0}
+.prbtn{all:unset;box-sizing:border-box;cursor:pointer;display:block;width:100%;margin:6px 0 18px;padding:14px 16px;border-radius:14px;background:var(--accent);color:#fff;font:700 .98rem/1.35 var(--f-body);text-align:left}
+@media (prefers-color-scheme: dark){.prbtn{color:#0E1120}}
 footer{max-width:820px;margin:48px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:600 .9rem var(--f-body)}
 footer a{text-decoration:none;border:1px solid var(--line);background:var(--surface);padding:10px 14px;border-radius:10px;max-width:48%}
 footer span{display:block;font:500 .72rem var(--f-mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
@@ -76,12 +78,14 @@ footer span{display:block;font:500 .72rem var(--f-mono);color:var(--muted);text-
 <header class="top"><div class="top-in"><a id="back" href="./">← Back to the plan</a><div class="nav" id="nav"></div></div></header>
 <main>
   <div class="meta" id="meta"></div>
+  <button type="button" id="prBtn" class="prbtn" hidden></button>
   <article id="doc"><p class="state">Loading…</p></article>
   <section id="weekTopics" hidden></section>
 </main>
 <footer id="pager"></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="practice.js"></script>
 <script>
 (function(){
 const SUBJ={math:['Maths',20,7],stats:['Statistics',9,4],bio:['Biology',13,4],chem:['Chemistry',13,4],phys:['Physics',12,4],bus:['Business',12,4],eng:['English',12,5],fr:['French',10,4],spa:['Spanish',6,2]};
@@ -105,6 +109,7 @@ else meta.push(`<span class="pill" style="background:var(--c-mix)">${id.startsWi
 if(/^\d{4}-\d\d-\d\d$/.test(d)){const x=new Date(d+'T12:00:00');meta.push(`<span class="pill ghost">${DOW[x.getDay()]} ${x.getDate()} ${MON[x.getMonth()]} ${x.getFullYear()}</span>`)}
 meta.push('<span class="pill ghost">60 min</span>');
 document.getElementById('meta').innerHTML=meta.join('');
+if(m&&m[2]==='r1'){const pb=document.getElementById('prBtn');pb.hidden=false;pb.dataset.practice=id;pb.textContent=lang==='es'?'🃏 Practicar este tema: flashcards, huecos y respuestas cortas':'🃏 Practise this topic: flashcards, gaps and short answers'}
 
 function render(md){
   const html=marked.parse(md,{gfm:true});

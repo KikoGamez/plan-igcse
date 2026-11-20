@@ -1,0 +1,162 @@
+{
+ "id": "fr-r1-03",
+ "cards": [
+  {
+   "f": "Passé composé formation",
+   "b": "Present of avoir/être + past participle: j'ai joué, je suis allé."
+  },
+  {
+   "f": "Regular participles",
+   "b": "-er → é (joué), -ir → i (fini), -re → u (vendu)."
+  },
+  {
+   "f": "Participles: avoir, être, faire, prendre",
+   "b": "eu, été, fait, pris."
+  },
+  {
+   "f": "Participles: voir, lire, boire, mettre",
+   "b": "vu, lu, bu, mis."
+  },
+  {
+   "f": "Participles: pouvoir, vouloir, devoir, savoir",
+   "b": "pu, voulu, dû, su."
+  },
+  {
+   "f": "Which verbs take être?",
+   "b": "DR & MRS VANDERTRAMP verbs (aller, venir, partir, arriver, sortir, rester, tomber…) and all reflexive verbs."
+  },
+  {
+   "f": "Agreement with être",
+   "b": "Participle agrees with the subject: elle est allée, ils sont partis, elles sont arrivées."
+  },
+  {
+   "f": "Negative in the passé composé",
+   "b": "ne… pas wraps the auxiliary: Je n'ai pas mangé."
+  },
+  {
+   "f": "Imparfait formation",
+   "b": "nous form of present minus -ons + -ais, -ais, -ait, -ions, -iez, -aient."
+  },
+  {
+   "f": "Imparfait stem of être",
+   "b": "ét-: j'étais, tu étais, il était, nous étions."
+  },
+  {
+   "f": "Imparfait of manger / commencer, je form",
+   "b": "je mangeais, je commençais (keeps the soft sound)."
+  },
+  {
+   "f": "Use of the passé composé",
+   "b": "Single finished events, sequences, interrupting actions, defined periods."
+  },
+  {
+   "f": "Use of the imparfait",
+   "b": "Descriptions, habits, actions in progress, feelings and opinions."
+  },
+  {
+   "f": "Plus-que-parfait",
+   "b": "Imparfait of avoir/être + participle = had done: j'avais déjà mangé."
+  },
+  {
+   "f": "Best exam phrase for opinions in the past",
+   "b": "C'était + adjective: c'était génial, ennuyeux, délicieux."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Hier, je ___ allé au cinéma. (aller, être)",
+   "a": [
+    "suis"
+   ]
+  },
+  {
+   "s": "Elle est ___ en retard. (arriver, feminine)",
+   "a": [
+    "arrivée",
+    "arrivee"
+   ]
+  },
+  {
+   "s": "J'ai ___ le train. (prendre)",
+   "a": [
+    "pris"
+   ]
+  },
+  {
+   "s": "Quand j'___ petit, je jouais au parc. (être)",
+   "a": [
+    "étais",
+    "etais"
+   ]
+  },
+  {
+   "s": "Nous nous sommes ___ à minuit. (se coucher, feminine plural)",
+   "a": [
+    "couchées",
+    "couchees"
+   ]
+  },
+  {
+   "s": "Il ___ beau et il y avait du soleil. (faire, imparfait)",
+   "a": [
+    "faisait"
+   ]
+  },
+  {
+   "s": "J'ai ___ un livre hier. (lire)",
+   "a": [
+    "lu"
+   ]
+  },
+  {
+   "s": "Je n'ai ___ mangé ce matin.",
+   "a": [
+    "pas"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Put into the passé composé: (a) Je (prendre) le train. (b) Elle (partir) tôt. [2]",
+   "model": "(a) J'ai pris le train. (b) Elle est partie tôt.",
+   "points": [
+    "J'ai pris (1)",
+    "Elle est partie with agreement (1)"
+   ]
+  },
+  {
+   "q": "Explain why « J'ai allé à Paris » is wrong and correct it. [2]",
+   "model": "Aller takes être, not avoir: Je suis allé(e) à Paris.",
+   "points": [
+    "Aller is a movement verb that takes être (1)",
+    "Je suis allé(e) (1)"
+   ]
+  },
+  {
+   "q": "Complete with the correct tense: Quand j'(être) petite, j'(habiter) à la campagne. Un jour, mon chien (disparaître). [3]",
+   "model": "j'étais, j'habitais, a disparu.",
+   "points": [
+    "étais, imparfait for description (1)",
+    "habitais, imparfait for ongoing situation (1)",
+    "a disparu, passé composé for single event (1)"
+   ]
+  },
+  {
+   "q": "Explain when to use the imparfait and when to use the passé composé. Give one example of each. [3]",
+   "model": "Imparfait for descriptions and habits (Il faisait beau). Passé composé for completed events (Je suis allé au cinéma).",
+   "points": [
+    "Imparfait: description or habit (1)",
+    "Passé composé: single completed event (1)",
+    "Suitable example (1)"
+   ]
+  },
+  {
+   "q": "Translate: 'We didn't see the film.' [2]",
+   "model": "Nous n'avons pas vu le film.",
+   "points": [
+    "Correct auxiliary avoir (1)",
+    "ne… pas around the auxiliary, participle vu (1)"
+   ]
+  }
+ ]
+}

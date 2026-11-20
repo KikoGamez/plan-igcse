@@ -1,0 +1,167 @@
+{
+ "id": "math-r1-03",
+ "cards": [
+  {
+   "f": "Standard form: what must be true?",
+   "b": "A × 10ⁿ with 1 ≤ A < 10 and n an integer."
+  },
+  {
+   "f": "Sign of the power in standard form",
+   "b": "Large numbers: positive power. Numbers less than 1: negative power."
+  },
+  {
+   "f": "Multiply numbers in standard form",
+   "b": "Multiply the A parts, add the powers, then adjust so 1 ≤ A < 10."
+  },
+  {
+   "f": "Divide numbers in standard form",
+   "b": "Divide the A parts, subtract the powers."
+  },
+  {
+   "f": "Add or subtract numbers in standard form",
+   "b": "Convert to the same power of 10 (or to ordinary numbers) first. Do not add the powers."
+  },
+  {
+   "f": "Bounds of a value rounded to a given accuracy",
+   "b": "Half a unit either side. 7 cm to the nearest cm: 6.5 ≤ l < 7.5."
+  },
+  {
+   "f": "Bounds for a + b and a × b",
+   "b": "Upper: both upper bounds. Lower: both lower bounds."
+  },
+  {
+   "f": "Bounds for a − b",
+   "b": "Upper = a(max) − b(min). Lower = a(min) − b(max)."
+  },
+  {
+   "f": "Bounds for a ÷ b",
+   "b": "Upper = a(max) ÷ b(min). Lower = a(min) ÷ b(max)."
+  },
+  {
+   "f": "Lower and upper bound of 3400 (2 s.f.)",
+   "b": "3350 and 3450."
+  },
+  {
+   "f": "Compound interest formula",
+   "b": "Value = P × (1 + r/100)ⁿ."
+  },
+  {
+   "f": "Simple interest formula",
+   "b": "I = P × r × n ÷ 100 (the same interest each year)."
+  },
+  {
+   "f": "Multiplier for depreciation of 12% per year",
+   "b": "0.88 per year, so value after n years = P × 0.88ⁿ."
+  },
+  {
+   "f": "Reverse compound: find the original amount",
+   "b": "Original = final value ÷ multiplierⁿ."
+  },
+  {
+   "f": "Common compound interest trap",
+   "b": "Check if the question asks for the total value or the interest (value − P). Do not round early."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "0.0072 in standard form is 7.2 × 10^___.",
+   "a": [
+    "-3",
+    "−3"
+   ]
+  },
+  {
+   "s": "5 600 000 in standard form is 5.6 × 10^___.",
+   "a": [
+    "6"
+   ]
+  },
+  {
+   "s": "(3 × 10⁴) × (2 × 10³) = 6 × 10^___.",
+   "a": [
+    "7"
+   ]
+  },
+  {
+   "s": "A length of 8 cm is correct to the nearest cm. Its upper bound is ___ cm.",
+   "a": [
+    "8.5"
+   ]
+  },
+  {
+   "s": "A distance of 450 m is correct to the nearest 10 m. Its lower bound is ___ m.",
+   "a": [
+    "445"
+   ]
+  },
+  {
+   "s": "To find the upper bound of a ÷ b, use the upper bound of a and the ___ bound of b.",
+   "a": [
+    "lower",
+    "minimum",
+    "smallest"
+   ]
+  },
+  {
+   "s": "£800 invested at 5% compound interest for 2 years is worth £___.",
+   "a": [
+    "882",
+    "882.00"
+   ]
+  },
+  {
+   "s": "The simple interest on £2000 at 3% per year for 5 years is £___.",
+   "a": [
+    "300",
+    "300.00"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Work out (4 × 10⁻³) × (5 × 10⁶). Give your answer in standard form.",
+   "model": "20 × 10³ = 2 × 10⁴.",
+   "points": [
+    "Multiply A parts and add powers: 20 × 10³",
+    "Convert to standard form",
+    "2 × 10⁴"
+   ]
+  },
+  {
+   "q": "A rectangle has length 9.2 cm (nearest 0.1 cm) and width 5 cm (nearest cm). Calculate the lower bound of its area.",
+   "model": "Lower bounds are 9.15 and 4.5, so area = 9.15 × 4.5 = 41.175 cm².",
+   "points": [
+    "Lower bounds 9.15 and 4.5 seen",
+    "9.15 × 4.5",
+    "41.175 cm²"
+   ]
+  },
+  {
+   "q": "A runner covers 120 m (nearest 10 m) in 15 s (nearest second). Calculate the lower bound of her speed, to 2 decimal places.",
+   "model": "Lowest distance 115, highest time 15.5: 115 ÷ 15.5 = 7.42 m/s.",
+   "points": [
+    "115 and 15.5 seen",
+    "115 ÷ 15.5",
+    "7.42 m/s"
+   ]
+  },
+  {
+   "q": "A car worth £25 000 loses 10% of its value each year. Find its value after 4 years.",
+   "model": "25 000 × 0.9⁴ = £16 402.50.",
+   "points": [
+    "Multiplier 0.9 used",
+    "25 000 × 0.9⁴",
+    "£16 402.50"
+   ]
+  },
+  {
+   "q": "£6000 is invested at 2.5% per year compound interest. Calculate the interest earned in 3 years.",
+   "model": "6000 × 1.025³ = 6461.34, so interest = £461.34.",
+   "points": [
+    "Multiplier 1.025",
+    "6000 × 1.025³ = 6461.34…",
+    "Interest = £461.34"
+   ]
+  }
+ ]
+}

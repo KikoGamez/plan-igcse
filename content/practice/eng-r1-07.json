@@ -1,0 +1,161 @@
+{
+ "id": "eng-r1-07",
+ "cards": [
+  {
+   "f": "Q3 extended response: marks and length?",
+   "b": "25 marks (15 reading + 10 writing). 250-350 words, about 35 minutes."
+  },
+  {
+   "f": "What forms can Q3 take?",
+   "b": "Letter, report, journal, speech, interview or article."
+  },
+  {
+   "f": "What does 'develop' mean?",
+   "b": "Go beyond what the text states: explain why, imagine consequences, link details, always grounded in the text."
+  },
+  {
+   "f": "Top level reading looks like?",
+   "b": "Many ideas from text, developed with convincing inferences, stays in role, all bullets covered."
+  },
+  {
+   "f": "Low level reading looks like?",
+   "b": "Retells the text, little inference, bullets missing, may copy."
+  },
+  {
+   "f": "Writing marks reward?",
+   "b": "Voice and register, clear paragraph structure, own words, varied vocabulary and sentences, accuracy."
+  },
+  {
+   "f": "Letter conventions?",
+   "b": "Greeting (Dear...), purpose in first paragraph, sign-off matching register."
+  },
+  {
+   "f": "Journal conventions?",
+   "b": "First person, mixed tenses, reflective, honest feelings."
+  },
+  {
+   "f": "Speech conventions?",
+   "b": "Address audience, direct appeals, rhetorical questions, memorable ending."
+  },
+  {
+   "f": "Report conventions?",
+   "b": "Title, formal tone, perhaps subheadings, objective, recommendations at end."
+  },
+  {
+   "f": "Interview conventions?",
+   "b": "Question-and-answer layout with names; developed answers in voice."
+  },
+  {
+   "f": "Article conventions?",
+   "b": "Headline, engaging opening, aimed at readers."
+  },
+  {
+   "f": "35-minute method?",
+   "b": "5 min label details to bullets, 5 min plan, 22 min write, 3 min check."
+  },
+  {
+   "f": "Which bullet usually needs most development?",
+   "b": "Bullet 3, usually opinion or prediction needing development."
+  },
+  {
+   "f": "Common error: inventing events?",
+   "b": "Do not add events unsupported by the text (e.g. a secret love affair)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Q3 asks for ___ to 350 words.",
+   "a": [
+    "250"
+   ]
+  },
+  {
+   "s": "Q3 is worth ___ marks.",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "To go beyond what the text states while staying grounded in it is to ___ ideas.",
+   "a": [
+    "develop"
+   ]
+  },
+  {
+   "s": "A private, reflective form written in first person is a ___ entry.",
+   "a": [
+    "journal",
+    "diary"
+   ]
+  },
+  {
+   "s": "A formal, objective form with a title and recommendations is a ___.",
+   "a": [
+    "report"
+   ]
+  },
+  {
+   "s": "Staying in the character you are given is staying in ___.",
+   "a": [
+    "role"
+   ]
+  },
+  {
+   "s": "A speech should include rhetorical ___ to engage listeners.",
+   "a": [
+    "questions",
+    "question"
+   ]
+  },
+  {
+   "s": "In Q3 you must not ___ from Text C but use your own words.",
+   "a": [
+    "copy"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "What does 'develop' mean in Q3? [2]",
+   "model": "Develop means going beyond the text by explaining why, imagining consequences or giving reactions, while staying grounded in the text.",
+   "points": [
+    "Beyond what is stated",
+    "Grounded in text"
+   ]
+  },
+  {
+   "q": "State two conventions of a speech. [2]",
+   "model": "Address the audience directly and use rhetorical questions or direct appeals; end memorably.",
+   "points": [
+    "Address audience",
+    "Rhetorical questions/appeals/ending"
+   ]
+  },
+  {
+   "q": "State two errors that cap a Q3 answer at low reading levels. [2]",
+   "model": "Retelling the text in order and copying phrases from it.",
+   "points": [
+    "Retelling",
+    "Copying"
+   ]
+  },
+  {
+   "q": "Plan how to use the 35 minutes. [4]",
+   "model": "5 minutes labelling details, 5 planning, 22 writing about 300 words, 3 checking.",
+   "points": [
+    "5 min label",
+    "5 min plan",
+    "22 min write",
+    "3 min check"
+   ]
+  },
+  {
+   "q": "Why is bullet 3 important? [2]",
+   "model": "It usually needs inference and development, which carry the most reading marks. One sentence is too little.",
+   "points": [
+    "Needs development",
+    "Carries most marks"
+   ]
+  }
+ ]
+}

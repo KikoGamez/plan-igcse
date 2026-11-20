@@ -1,0 +1,164 @@
+{
+ "id": "eng-r1-04",
+ "cards": [
+  {
+   "f": "How long should the summary take in the exam?",
+   "b": "About 25 minutes."
+  },
+  {
+   "f": "Timing plan: first 2 minutes of the summary?",
+   "b": "Read the question and underline the focus. Is it one part or two?"
+  },
+  {
+   "f": "Timing plan: minutes 2-7?",
+   "b": "Read Text B and highlight relevant ideas only."
+  },
+  {
+   "f": "Timing plan: minutes 7-11?",
+   "b": "Plan: list ideas in 2-4 words of your own, remove repeats and examples, group related points."
+  },
+  {
+   "f": "Timing plan: minutes 11-21?",
+   "b": "Write the summary from the plan, once (no draft and neat copy)."
+  },
+  {
+   "f": "Timing plan: last 4 minutes?",
+   "b": "Count words, replace lifted key words, check spelling and full stops."
+  },
+  {
+   "f": "How many creditable ideas does Text B usually have?",
+   "b": "About 10-15. If your plan has only 4-5, reread for ideas hidden in examples."
+  },
+  {
+   "f": "Why plan in notes and write once?",
+   "b": "Writing a draft then a neat copy wastes time you do not have."
+  },
+  {
+   "f": "Concise pattern: list in one sentence.",
+   "b": "e.g. 'Night workers often suffer from poor sleep, weight gain and heart problems.'"
+  },
+  {
+   "f": "Concise pattern: cause-effect.",
+   "b": "e.g. 'Because they sleep in the day, they see less of their families.'"
+  },
+  {
+   "f": "Concise pattern: contrast.",
+   "b": "e.g. 'Although better paid, the work isolates them.'"
+  },
+  {
+   "f": "Wasteful phrase to avoid?",
+   "b": "'Another thing that the text says is that...' (7 wasted words)."
+  },
+  {
+   "f": "What if the focus has two parts (reasons for... and problems with...)?",
+   "b": "You need both parts. Include ideas for each."
+  },
+  {
+   "f": "Should you copy a quotation from a person in the text?",
+   "b": "No. Rephrase the point in your own words."
+  },
+  {
+   "f": "What should you do with the best practice resource?",
+   "b": "Use an unseen real 0500 Paper 1 summary and its official mark scheme, then mark yourself."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The summary should take about ___ minutes in the exam.",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "The summary limit is no more than ___ words.",
+   "a": [
+    "120"
+   ]
+  },
+  {
+   "s": "Most Text B passages have roughly 10 to ___ creditable ideas.",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "In the exam you should plan in notes and write ___ , not draft then copy neatly.",
+   "a": [
+    "once",
+    "one draft",
+    "one time"
+   ]
+  },
+  {
+   "s": "Top level writing marks reward answers that are concise and in ___ words throughout.",
+   "a": [
+    "own"
+   ]
+  },
+  {
+   "s": "Final minutes should be used to ___ your words.",
+   "a": [
+    "count"
+   ]
+  },
+  {
+   "s": "A summary should not include an ___ such as 'This text is about...'.",
+   "a": [
+    "introduction",
+    "intro"
+   ]
+  },
+  {
+   "s": "If the question asks for benefits, you should leave out ___.",
+   "a": [
+    "problems",
+    "drawbacks",
+    "disadvantages",
+    "negatives"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why the focus must be underlined first. [2]",
+   "model": "It tells you which ideas are relevant, so you only select material that answers the question.",
+   "points": [
+    "Identifies relevant ideas",
+    "Avoids irrelevant material"
+   ]
+  },
+  {
+   "q": "Shorten: 'Another thing the text says is that night workers often have poor sleep, and also weight gain.' [2]",
+   "model": "Night workers often suffer poor sleep and weight gain.",
+   "points": [
+    "Removes wasted words",
+    "Keeps both ideas"
+   ]
+  },
+  {
+   "q": "Why is writing a draft and a neat copy a mistake in the summary? [2]",
+   "model": "It uses up time. Plan in notes and write once so you can count words and check.",
+   "points": [
+    "Wastes time",
+    "Plan then write once"
+   ]
+  },
+  {
+   "q": "Your plan has only four ideas. What should you do? [2]",
+   "model": "Reread Text B because you are probably missing ideas inside examples. Aim for 10-15 ideas.",
+   "points": [
+    "Reread",
+    "Look inside examples for ideas"
+   ]
+  },
+  {
+   "q": "State what the top level for reading and writing needs. [3]",
+   "model": "Reading: wide range of relevant ideas, clearly understood. Writing: concise, well organised, own words throughout.",
+   "points": [
+    "Wide range of relevant ideas",
+    "Concise and well organised",
+    "Own words"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "id": "bus-r1-12",
+ "cards": [
+  {
+   "f": "Four levels of response in long answers",
+   "b": "Knowledge, application, analysis, evaluation. Top marks need a justified judgement."
+  },
+  {
+   "f": "Knowledge vs application",
+   "b": "Knowledge: correct but generic points. Application: points linked to the case business, using its facts and figures."
+  },
+  {
+   "f": "Analysis",
+   "b": "A developed chain of reasoning: point, because, which means, effect on the business."
+  },
+  {
+   "f": "Evaluation",
+   "b": "A clear decision or judgement, justified with case evidence and compared with the alternatives."
+  },
+  {
+   "f": "Command word: Identify / State",
+   "b": "Give a short answer with no explanation."
+  },
+  {
+   "f": "Command word: Define",
+   "b": "Give the precise meaning of a term."
+  },
+  {
+   "f": "Command word: Outline",
+   "b": "Set out the main points briefly (point plus brief development)."
+  },
+  {
+   "f": "Command word: Calculate",
+   "b": "Work out from the data; show working and give units."
+  },
+  {
+   "f": "Command word: Explain",
+   "b": "Give reasons; say why or how, with supporting detail."
+  },
+  {
+   "f": "Command word: Justify / Recommend",
+   "b": "Make a decision and support it with evidence, explaining why it is better than the alternatives."
+  },
+  {
+   "f": "Reading the case: first steps",
+   "b": "Read the questions first, then the case; underline business type, legal form, objectives, problems; note the key fact in each appendix."
+  },
+  {
+   "f": "Structure of an Explain paragraph",
+   "b": "Point (K) → Apply to the case (App) → Develop the consequence (An)."
+  },
+  {
+   "f": "Structure of a Recommend answer",
+   "b": "Each option: one advantage and one disadvantage applied to the case. Then a decision paragraph: why best, why others are worse, what it depends on."
+  },
+  {
+   "f": "Timing rule",
+   "b": "About 1 mark per minute after reading; 8 marks ≈ 8–9 min, 12 marks ≈ 14–15 min. Always write the decision paragraph."
+  },
+  {
+   "f": "Analysis connectives",
+   "b": "This means that…, As a result…, This leads to…, Therefore…, Because… Each moves the chain one step towards an outcome."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Using the facts and figures of the case study business in your answer is called ___ .",
+   "a": [
+    "application"
+   ]
+  },
+  {
+   "s": "A developed chain of cause and effect reasoning is called ___ .",
+   "a": [
+    "analysis"
+   ]
+  },
+  {
+   "s": "A justified judgement that weighs up alternatives is ___ .",
+   "a": [
+    "evaluation"
+   ]
+  },
+  {
+   "s": "The command word ___ means give the precise meaning of a term.",
+   "a": [
+    "define"
+   ]
+  },
+  {
+   "s": "In a 'justify' answer you must make a clear ___ .",
+   "a": [
+    "decision",
+    "judgement",
+    "judgment",
+    "recommendation"
+   ]
+  },
+  {
+   "s": "The Explain structure is point, apply, then develop the ___ .",
+   "a": [
+    "consequence",
+    "consequences"
+   ]
+  },
+  {
+   "s": "You should read the ___ first, before the case study.",
+   "a": [
+    "questions",
+    "question"
+   ]
+  },
+  {
+   "s": "An answer that is correct but could apply to any business reaches only the ___ level.",
+   "a": [
+    "knowledge"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State two ways of showing application in a case study answer. [2]",
+   "model": "Use the business's name, products or workers, and quote or calculate with figures from the appendix.",
+   "points": [
+    "use case facts such as name/product",
+    "use figures from the data"
+   ]
+  },
+  {
+   "q": "Explain why a list of advantages and disadvantages with no development scores few marks. [3]",
+   "model": "Lists show only knowledge. Analysis marks need a chain of reasoning explaining the effect on the business.",
+   "points": [
+    "lists show knowledge only",
+    "analysis needs developed reasoning",
+    "effect on the business"
+   ]
+  },
+  {
+   "q": "A 12-mark question asks you to recommend one of three options. Outline how to structure the answer. [4]",
+   "model": "Consider one advantage and one disadvantage of each option, applied to the case. Then write a decision paragraph saying which is best, why the others are worse and what it depends on.",
+   "points": [
+    "each option with advantage and disadvantage",
+    "applied to the case",
+    "decision stating why best",
+    "comparison and condition"
+   ]
+  },
+  {
+   "q": "Explain why a recommendation that only repeats earlier points does not earn evaluation marks. [2]",
+   "model": "Evaluation needs a justified judgement that compares alternatives with case evidence. Repeating points does not show why the choice is better.",
+   "points": [
+    "needs justified judgement",
+    "comparison with alternatives"
+   ]
+  },
+  {
+   "q": "Describe how you should use your reading time on a Paper 2 case study. [3]",
+   "model": "Read the questions first, then the case, underlining key facts. Note what each appendix shows and do any calculations needed.",
+   "points": [
+    "read questions first",
+    "underline key facts",
+    "note appendix points / calculations"
+   ]
+  }
+ ]
+}

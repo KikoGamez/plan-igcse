@@ -1,0 +1,165 @@
+{
+ "id": "stats-r1-05",
+ "cards": [
+  {
+   "f": "Frequency density",
+   "b": "Frequency ÷ class width. It is the vertical axis of a histogram."
+  },
+  {
+   "f": "Frequency from a histogram bar",
+   "b": "Frequency = frequency density × class width. The area of the bar represents the frequency."
+  },
+  {
+   "f": "Why use frequency density?",
+   "b": "Class widths are unequal. Frequency density stops wide classes looking artificially tall."
+  },
+  {
+   "f": "Histogram axes and bars",
+   "b": "Vertical: frequency density. Horizontal: continuous scale, no gaps. Bars drawn from boundary to boundary."
+  },
+  {
+   "f": "Class width of 10 < a ≤ 15",
+   "b": "5 (upper boundary − lower boundary). Common mistake: using 4."
+  },
+  {
+   "f": "Modal class in a histogram",
+   "b": "The class with the highest frequency density (tallest bar), not the highest frequency."
+  },
+  {
+   "f": "Estimating part of a class",
+   "b": "Assume values are evenly spread: part of class = part width × frequency density."
+  },
+  {
+   "f": "Finding an unlabelled scale",
+   "b": "Use a bar of known frequency: work out its frequency density, then match to its height."
+  },
+  {
+   "f": "Standardised score",
+   "b": "(value − mean) ÷ standard deviation."
+  },
+  {
+   "f": "What a standardised score means",
+   "b": "The number of standard deviations the value is above (+) or below (−) the mean. 0 means exactly the mean."
+  },
+  {
+   "f": "Finding a value from a standardised score",
+   "b": "Value = mean + standardised score × standard deviation."
+  },
+  {
+   "f": "Comparing performance in two tests",
+   "b": "Compare standardised scores, not raw marks. The higher score is the better relative performance."
+  },
+  {
+   "f": "Standardised scores for race times",
+   "b": "Lower time is better, so the more negative standardised score is the better performance."
+  },
+  {
+   "f": "Common mistake with standardised scores",
+   "b": "Using (mean − value) instead of (value − mean), which gives the wrong sign."
+  },
+  {
+   "f": "Frequency density for 10 < x ≤ 30 with frequency 50",
+   "b": "50 ÷ 20 = 2.5."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Frequency density = frequency ÷ ___ .",
+   "a": [
+    "class width",
+    "width",
+    "the class width"
+   ]
+  },
+  {
+   "s": "A class 20 < x ≤ 30 has frequency 45. Its frequency density is ___ .",
+   "a": [
+    "4.5"
+   ]
+  },
+  {
+   "s": "In a histogram, the ___ of each bar represents the frequency.",
+   "a": [
+    "area"
+   ]
+  },
+  {
+   "s": "A bar of width 5 has frequency density 3. Its frequency is ___ .",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "A mark of 85 in a test with mean 70 and standard deviation 5 has a standardised score of ___ .",
+   "a": [
+    "3",
+    "3.0"
+   ]
+  },
+  {
+   "s": "A standardised score of 0 means the value is equal to the ___ .",
+   "a": [
+    "mean",
+    "average"
+   ]
+  },
+  {
+   "s": "In a test with mean 40 and standard deviation 6, a standardised score of 1.5 means a mark of ___ .",
+   "a": [
+    "49"
+   ]
+  },
+  {
+   "s": "The modal class of a histogram is the class with the highest frequency ___ .",
+   "a": [
+    "density"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Ages: 0 < a ≤ 5 has 10 people, 5 < a ≤ 10 has 25, 10 < a ≤ 20 has 30, 20 < a ≤ 40 has 40. Calculate the frequency densities and estimate the number of people aged between 15 and 30. [4]",
+   "model": "Frequency densities: 2, 5, 3, 2. 15 to 20: 5 × 3 = 15; 20 to 30: 10 × 2 = 20. Total = 35.",
+   "points": [
+    "frequency densities 2, 5, 3, 2",
+    "15–20: 5 × 3 = 15",
+    "20–30: 10 × 2 = 20",
+    "35"
+   ]
+  },
+  {
+   "q": "In a histogram, the bar for 30 < x ≤ 40 has height 2.4 and the bar for 40 < x ≤ 60 has height 1.5 (frequency density axis). Find the frequency of each class. [2]",
+   "model": "30 < x ≤ 40: 2.4 × 10 = 24. 40 < x ≤ 60: 1.5 × 20 = 30.",
+   "points": [
+    "24",
+    "30"
+   ]
+  },
+  {
+   "q": "Chemistry: Ana scored 58 (mean 50, sd 4). Physics: she scored 70 (mean 60, sd 8). In which subject did she do better compared with the other students? [3]",
+   "model": "Chemistry: (58 − 50) ÷ 4 = 2. Physics: (70 − 60) ÷ 8 = 1.25. Chemistry, because the standardised score is higher.",
+   "points": [
+    "Chemistry score 2",
+    "Physics score 1.25",
+    "Chemistry, higher standardised score"
+   ]
+  },
+  {
+   "q": "Sam ran 100 m in 12.8 s (mean 14.0 s, sd 0.8 s) and 200 m in 26.0 s (mean 28.0 s, sd 1.6 s). In which race did he perform better relative to the others? [3]",
+   "model": "100 m: (12.8 − 14.0) ÷ 0.8 = −1.5. 200 m: (26.0 − 28.0) ÷ 1.6 = −1.25. The 100 m, because a lower (more negative) standardised score means a faster time.",
+   "points": [
+    "−1.5 and −1.25",
+    "lower time is better",
+    "100 m race"
+   ]
+  },
+  {
+   "q": "In a test with mean 64 and standard deviation 7, Mia has a standardised score of −1.2. Find her mark. [2]",
+   "model": "64 + (−1.2) × 7 = 64 − 8.4 = 55.6.",
+   "points": [
+    "64 + (−1.2) × 7",
+    "55.6"
+   ]
+  }
+ ]
+}

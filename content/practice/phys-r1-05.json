@@ -1,0 +1,166 @@
+{
+ "id": "phys-r1-05",
+ "cards": [
+  {
+   "f": "Arrangement and motion of particles in a solid",
+   "b": "Regular lattice, very close together; particles vibrate about fixed positions."
+  },
+  {
+   "f": "Arrangement and motion of particles in a liquid",
+   "b": "Irregular, touching; particles slide past each other."
+  },
+  {
+   "f": "Arrangement and motion of particles in a gas",
+   "b": "Random, far apart; particles move fast in random directions."
+  },
+  {
+   "f": "Brownian motion",
+   "b": "Random, jerky motion of small visible particles (e.g. smoke) in a fluid, caused by collisions with much smaller, fast-moving fluid particles."
+  },
+  {
+   "f": "Gas pressure in terms of particles",
+   "b": "Particles colliding with the container walls; total force per unit area."
+  },
+  {
+   "f": "Heating a gas at constant volume: effect on pressure",
+   "b": "Particles move faster, hit walls harder and more often, so pressure increases."
+  },
+  {
+   "f": "Compressing a gas at constant temperature",
+   "b": "Particles closer together so more collisions per unit area per second; pressure increases."
+  },
+  {
+   "f": "Melting and boiling point of water",
+   "b": "0 °C and 100 °C at standard atmospheric pressure."
+  },
+  {
+   "f": "Why does temperature stay constant during melting?",
+   "b": "Energy input is used to overcome the forces between particles, not to increase their speed."
+  },
+  {
+   "f": "Evaporation",
+   "b": "Escape of the more energetic particles from the surface of a liquid; it cools the liquid."
+  },
+  {
+   "f": "Boiling vs evaporation",
+   "b": "Boiling: only at the boiling point, throughout the liquid (bubbles). Evaporation: any temperature, only at the surface."
+  },
+  {
+   "f": "Three ways to speed up evaporation",
+   "b": "Higher temperature, larger surface area, air movement over the surface."
+  },
+  {
+   "f": "Conduction in metals",
+   "b": "Lattice vibrations plus delocalised (mobile) electrons carrying energy; metals are the best conductors."
+  },
+  {
+   "f": "Explain convection using density",
+   "b": "Heated fluid expands and becomes less dense, so it rises; cooler, denser fluid sinks to replace it."
+  },
+  {
+   "f": "Best and worst surfaces for thermal radiation",
+   "b": "Dull black: best emitter and absorber. Shiny white/silver: worst emitter and absorber, best reflector."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In a solid, particles ___ about fixed positions.",
+   "a": [
+    "vibrate"
+   ]
+  },
+  {
+   "s": "Thermal radiation is mainly ___ radiation.",
+   "a": [
+    "infrared",
+    "infra-red",
+    "infra red"
+   ]
+  },
+  {
+   "s": "Convection happens only in liquids and ___ .",
+   "a": [
+    "gases",
+    "gas"
+   ]
+  },
+  {
+   "s": "Water boils at ___ °C at standard atmospheric pressure.",
+   "a": [
+    "100"
+   ]
+  },
+  {
+   "s": "Evaporation causes ___ of the liquid left behind.",
+   "a": [
+    "cooling",
+    "cooling down"
+   ]
+  },
+  {
+   "s": "A Leslie cube face that is dull and ___ emits the most infrared radiation.",
+   "a": [
+    "black"
+   ]
+  },
+  {
+   "s": "Smoke particles in air show ___ motion under a microscope.",
+   "a": [
+    "brownian",
+    "Brownian motion"
+   ]
+  },
+  {
+   "s": "Gaps are left in railway tracks to allow for thermal ___ .",
+   "a": [
+    "expansion"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain, in terms of particles, why a gas exerts a larger pressure when heated in a fixed-volume container.",
+   "model": "Particles gain kinetic energy and move faster. They hit the walls more often and with more force, so the force per unit area increases.",
+   "points": [
+    "faster particles",
+    "more frequent collisions",
+    "greater force per collision / pressure increases"
+   ]
+  },
+  {
+   "q": "Explain why a vacuum flask keeps liquids hot.",
+   "model": "The vacuum between the double walls stops conduction and convection; the silvered surfaces reduce radiation; the stopper reduces heat loss by convection.",
+   "points": [
+    "vacuum stops conduction and convection",
+    "silvered walls reduce radiation"
+   ]
+  },
+  {
+   "q": "Explain why sweating cools the body.",
+   "model": "The more energetic particles escape from the sweat by evaporation, leaving the remaining liquid with lower average kinetic energy, so it cools.",
+   "points": [
+    "evaporation: most energetic particles escape",
+    "remaining particles lower average kinetic energy",
+    "temperature falls"
+   ]
+  },
+  {
+   "q": "Describe an experiment to show that a dull black surface is a better emitter than a shiny one.",
+   "model": "Use a Leslie cube filled with hot water. Place a detector the same distance from each face and compare readings; the dull black face gives the highest reading.",
+   "points": [
+    "Leslie cube with hot water",
+    "same distance for each face",
+    "black face gives highest reading"
+   ]
+  },
+  {
+   "q": "Explain how a convection current heats a room from a radiator.",
+   "model": "Air next to the radiator is heated, expands and becomes less dense so it rises. Cooler denser air sinks to take its place, setting up a circulation.",
+   "points": [
+    "warm air expands, less dense, rises",
+    "cooler denser air sinks",
+    "current circulates"
+   ]
+  }
+ ]
+}

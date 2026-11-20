@@ -1,0 +1,168 @@
+{
+ "id": "phys-r1-03",
+ "cards": [
+  {
+   "f": "Moment of a force",
+   "b": "Force × perpendicular distance from the pivot; a measure of its turning effect."
+  },
+  {
+   "f": "Unit of moment",
+   "b": "N m (or N cm)."
+  },
+  {
+   "f": "Principle of moments",
+   "b": "For an object in equilibrium, the clockwise moment about a pivot = the anticlockwise moment about the same pivot."
+  },
+  {
+   "f": "Two conditions for equilibrium",
+   "b": "No resultant force and no resultant moment."
+  },
+  {
+   "f": "What does 'perpendicular distance' mean?",
+   "b": "Distance from the pivot at right angles to the line of action of the force."
+  },
+  {
+   "f": "Why is a door handle far from the hinges?",
+   "b": "Bigger distance from the pivot gives a bigger moment for the same force, so the door is easier to turn."
+  },
+  {
+   "f": "Centre of gravity",
+   "b": "The point through which the weight of an object acts."
+  },
+  {
+   "f": "Where is the centre of gravity of a uniform block, sphere or cylinder?",
+   "b": "At its geometric centre."
+  },
+  {
+   "f": "Find the centre of gravity of an irregular lamina",
+   "b": "Hang it from a pin at three holes in turn with a plumb line; mark each vertical line; the lines cross at the centre of gravity."
+  },
+  {
+   "f": "What makes an object topple?",
+   "b": "The vertical line through its centre of gravity falls outside its base."
+  },
+  {
+   "f": "How to make an object more stable",
+   "b": "Lower the centre of gravity and widen the base."
+  },
+  {
+   "f": "Pressure",
+   "b": "Force per unit area: p = F ÷ A. Unit Pa = N/m²."
+  },
+  {
+   "f": "Convert 1 N/cm² to pascals",
+   "b": "1 m² = 10 000 cm², so 1 N/cm² = 10 000 Pa."
+  },
+  {
+   "f": "Why do knives and drawing pins have a small area at the tip?",
+   "b": "Small area gives a large pressure for the same force."
+  },
+  {
+   "f": "Why does a pivot reaction force not appear when taking moments about the pivot?",
+   "b": "Its distance from the pivot is zero, so its moment is zero."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Moment = force × ___ distance from the pivot.",
+   "a": [
+    "perpendicular"
+   ]
+  },
+  {
+   "s": "The principle of moments says that the clockwise moment equals the ___ moment.",
+   "a": [
+    "anticlockwise",
+    "anti-clockwise",
+    "counterclockwise",
+    "counter-clockwise"
+   ]
+  },
+  {
+   "s": "A force of 20 N acts 0.30 m from a pivot. The moment is ___ N m.",
+   "a": [
+    "6",
+    "6.0"
+   ]
+  },
+  {
+   "s": "A 4.0 N weight is 15 cm left of a pivot. A weight 10 cm right of the pivot balances the beam, so it is ___ N.",
+   "a": [
+    "6",
+    "6.0"
+   ]
+  },
+  {
+   "s": "Pressure is force per unit ___ .",
+   "a": [
+    "area"
+   ]
+  },
+  {
+   "s": "A force of 200 N acts on an area of 0.50 m², giving a pressure of ___ Pa.",
+   "a": [
+    "400"
+   ]
+  },
+  {
+   "s": "A tall object with a high centre of gravity is ___ stable than a low one of the same base.",
+   "a": [
+    "less"
+   ]
+  },
+  {
+   "s": "A plumb line hangs in a straight ___ line when at rest.",
+   "a": [
+    "vertical",
+    "vertical line"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A uniform beam is balanced with a 30 N weight 0.40 m from the pivot on one side. Calculate the force that balances it at 0.60 m on the other side.",
+   "model": "Moments: 30 × 0.40 = F × 0.60, so F = 12 ÷ 0.60 = 20 N.",
+   "points": [
+    "clockwise = anticlockwise moment",
+    "30 × 0.40 = 12 N m",
+    "F = 20 N"
+   ]
+  },
+  {
+   "q": "Describe how to find the centre of gravity of an irregular cardboard lamina.",
+   "model": "Make holes near the edge. Hang the lamina from a pin through one hole with a plumb line, mark the vertical line, and repeat for other holes. The centre of gravity is where the lines cross.",
+   "points": [
+    "suspend freely from a pin through a hole",
+    "use plumb line and mark the vertical",
+    "repeat for other holes",
+    "lines cross at centre of gravity"
+   ]
+  },
+  {
+   "q": "Explain why a racing car is designed with a low centre of gravity and a wide wheelbase.",
+   "model": "This makes it hard to topple: the line from the centre of gravity must move further to fall outside the base.",
+   "points": [
+    "low centre of gravity",
+    "wide base",
+    "vertical line stays within base"
+   ]
+  },
+  {
+   "q": "A box weighs 60 N and rests on a face of area 0.20 m². Calculate the pressure on the table.",
+   "model": "p = F ÷ A = 60 ÷ 0.20 = 300 Pa.",
+   "points": [
+    "p = F ÷ A",
+    "300 Pa (N/m²)"
+   ]
+  },
+  {
+   "q": "Explain why snowshoes stop a person sinking into snow.",
+   "model": "Snowshoes spread the weight over a larger area, so the pressure (force ÷ area) on the snow is smaller.",
+   "points": [
+    "same weight / force",
+    "larger area",
+    "smaller pressure"
+   ]
+  }
+ ]
+}

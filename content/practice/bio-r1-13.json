@@ -1,0 +1,35 @@
+{"id":"bio-r1-13",
+"cards":[
+{"f":"Principal source of energy for biological systems","b":"The Sun. Producers transfer light energy into chemical energy; eventually energy is transferred to the environment as heat."},
+{"f":"What does a food chain show?","b":"The transfer of energy from one organism to the next, beginning with a producer. Arrows point in the direction of energy flow."},
+{"f":"What is a food web?","b":"A network of interconnected food chains."},
+{"f":"Define producer, consumer, decomposer","b":"Producer: makes its own organic nutrients by photosynthesis. Consumer: gets energy by feeding on other organisms. Decomposer: gets energy from dead or waste material."},
+{"f":"Define herbivore and carnivore","b":"Herbivore: eats plants. Carnivore: eats other animals."},
+{"f":"What is a trophic level?","b":"The position of an organism in a food chain or food web (producer, primary, secondary, tertiary, quaternary consumer)."},
+{"f":"Why is energy transfer between trophic levels inefficient?","b":"Not all is eaten or digested (faeces); much is lost as heat from respiration and in excretory products. About 10% passes on."},
+{"f":"Why do food chains have fewer than five trophic levels?","b":"Energy is lost at each level, so too little energy remains at the top to support another population."},
+{"f":"Why is eating crops more energy efficient than eating livestock?","b":"Humans are at a lower trophic level, so there is one less transfer and less energy is lost; more people can be fed."},
+{"f":"Carbon cycle: processes removing and returning CO₂","b":"Removed: photosynthesis. Returned: respiration, decomposition, combustion. Fossil fuel formation locks carbon away."},
+{"f":"Define ecosystem and biodiversity","b":"Ecosystem: community of organisms and their environment interacting together. Biodiversity: number of different species in an area."},
+{"f":"Reasons for habitat destruction","b":"Housing, crop and livestock production, extraction of natural resources, freshwater and marine pollution."},
+{"f":"Effects of deforestation","b":"Reduced biodiversity, extinction, loss of soil, flooding, increased CO₂ in the atmosphere."},
+{"f":"Why do species become endangered or extinct?","b":"Climate change, habitat destruction, hunting, overharvesting, pollution and introduced species."},
+{"f":"Ways to conserve endangered species","b":"Monitoring and protecting species and habitats, education, captive breeding programmes, seed banks."}
+],
+"gaps":[
+{"s":"Organisms that make their own food by photosynthesis are called ___ .","a":["producers","producer"]},
+{"s":"An organism that gets energy from dead or waste organic material is a ___ .","a":["decomposer","decomposers"]},
+{"s":"A rabbit that eats grass is a ___ consumer.","a":["primary","1st","first"]},
+{"s":"Most energy is lost between trophic levels as ___ from respiration.","a":["heat"]},
+{"s":"The burning of fossil fuels is called ___ .","a":["combustion"]},
+{"s":"Seeds of endangered plants can be stored in a ___ bank.","a":["seed"]},
+{"s":"The number of different species living in an area is its ___ .","a":["biodiversity"]},
+{"s":"A grass-to-eagle chain has grass, grasshopper, frog, snake and eagle, so the eagle is the ___ consumer.","a":["quaternary","4th","fourth"]}
+],
+"short":[
+{"q":"Explain why only about 10% of energy passes from one trophic level to the next. [3]","model":"Not all of an organism is eaten or digested, so some is lost in faeces, and much is used in respiration and lost as heat.","points":["not all eaten / some lost in faeces","energy used in respiration","lost as heat to the environment"]},
+{"q":"Explain why more people can be fed by eating crops than by eating livestock fed on crops. [3]","model":"Eating crops removes a trophic level, so less energy is lost in respiration, heat and faeces of the animals and more energy reaches humans.","points":["one fewer trophic level / transfer","less energy lost from animals","more energy reaches humans"]},
+{"q":"Describe the carbon cycle with reference to photosynthesis, respiration and combustion. [3]","model":"Photosynthesis removes CO₂ from the air; respiration and combustion of fossil fuels and wood return CO₂ to the air.","points":["photosynthesis removes CO₂","respiration releases CO₂","combustion releases CO₂"]},
+{"q":"Explain how deforestation can cause flooding and loss of soil. [3]","model":"Without trees, less water is absorbed and water runs quickly into rivers causing flooding; roots no longer hold the soil, so rain washes it away.","points":["fewer trees to absorb water so rapid run-off / flooding","no roots to hold soil","soil washed away by rain"]},
+{"q":"Explain how introducing a foreign predator to a habitat could affect a food web. [3]","model":"The new predator eats native species, reducing their populations, and the animals that feed on them lose food, so the food web is disrupted.","points":["eats native species / populations fall","other consumers that depend on them lose food","food web disrupted"]}
+]}

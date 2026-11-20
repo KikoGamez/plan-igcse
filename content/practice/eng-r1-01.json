@@ -1,0 +1,164 @@
+{
+ "id": "eng-r1-01",
+ "cards": [
+  {
+   "f": "How long is each IGCSE English First Language (0500) paper, and how many marks?",
+   "b": "2 hours, 80 marks. Each paper is worth 50% of the grade."
+  },
+  {
+   "f": "What does Paper 1 test?",
+   "b": "Reading, with some marks for writing. Three texts (A, B, C) in a reading booklet insert."
+  },
+  {
+   "f": "What does Paper 2 test?",
+   "b": "Writing, with some marks for reading in Section A. Directed writing then composition."
+  },
+  {
+   "f": "Paper 1 summary: word limit and form?",
+   "b": "No more than 120 words, in continuous prose. Marked 10 reading + 5 writing = 15."
+  },
+  {
+   "f": "Which text is Q1 summary based on, and which text is Q2 and Q3 based on?",
+   "b": "Summary: Text B. Q2 and Q3: Text C. Q1 short answers use Text A."
+  },
+  {
+   "f": "Paper 1 Q3 (extended response): marks, length and split?",
+   "b": "25 marks: 15 reading + 10 writing. 250-350 words in a set form such as letter, speech or article."
+  },
+  {
+   "f": "Paper 2 Section A: marks, length and split?",
+   "b": "40 marks: 15 reading + 25 writing. 250-350 words, argumentative or discursive, using two texts."
+  },
+  {
+   "f": "Paper 2 Section B: what choice do you get, and marks?",
+   "b": "One of four titles: two descriptive, two narrative. 40 marks: 16 content and structure + 24 style and accuracy. 350-450 words."
+  },
+  {
+   "f": "What do R1 and R2 test?",
+   "b": "R1: explicit meanings (what is stated). R2: implicit meanings and attitudes (what is implied)."
+  },
+  {
+   "f": "What does R4 test?",
+   "b": "Understanding how writers achieve effects and influence readers (the writer's effect question)."
+  },
+  {
+   "f": "What does W5 test?",
+   "b": "Accurate spelling, punctuation and grammar."
+  },
+  {
+   "f": "How are long answers marked?",
+   "b": "By levels: the examiner reads the whole answer and picks the best-fit level, then a mark within it."
+  },
+  {
+   "f": "How are short-answer questions marked?",
+   "b": "Point-based: one mark per correct idea. Own-words questions give no mark for copied key words."
+  },
+  {
+   "f": "Why is writing 600 words for a 350-450 word composition risky?",
+   "b": "Loose structure, loss of control, more errors (W5) and less time to check. Length is guidance, not a target."
+  },
+  {
+   "f": "Common timing mistake on Paper 1?",
+   "b": "Spending too long on Q1 and rushing Q3, which is worth 25 marks."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The Paper 1 summary must be no more than ___ words.",
+   "a": [
+    "120"
+   ]
+  },
+  {
+   "s": "Paper 1 contains ___ texts in the reading booklet insert.",
+   "a": [
+    "3",
+    "three"
+   ]
+  },
+  {
+   "s": "Each paper lasts ___ hours.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "In Paper 2 Section B you choose ___ of four titles.",
+   "a": [
+    "1",
+    "one"
+   ]
+  },
+  {
+   "s": "Assessment objective R2 tests understanding of ___ meanings and attitudes.",
+   "a": [
+    "implicit"
+   ]
+  },
+  {
+   "s": "Paper 1 Q3 is worth ___ marks in total.",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "Long answers are marked using ___ descriptors rather than collecting marks for features.",
+   "a": [
+    "level",
+    "levels"
+   ]
+  },
+  {
+   "s": "The summary must be written in ___ prose, not note form.",
+   "a": [
+    "continuous"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State the five question types on Paper 1 in order (Q1 short answers, Q1 summary, ...). [3]",
+   "model": "Q1 short answers on Text A, Q1 summary on Text B, Q2 short answers on Text C, Q2 writer's effect on Text C, Q3 extended response on Text C.",
+   "points": [
+    "Q1 short answers (Text A) and summary (Text B)",
+    "Q2 short answers and writer's effect (Text C)",
+    "Q3 extended response (Text C)"
+   ]
+  },
+  {
+   "q": "How are the 40 marks split in Paper 2 Section A, and what is the task? [3]",
+   "model": "15 marks for reading and 25 for writing. You write an argumentative or discursive piece evaluating the ideas in two texts.",
+   "points": [
+    "15 reading, 25 writing",
+    "Argumentative/discursive piece",
+    "Evaluates ideas in both texts"
+   ]
+  },
+  {
+   "q": "Explain the difference between R1 and R2, with an example. [2]",
+   "model": "R1 is explicit: the text says there was no electricity. R2 is implicit: children did homework by candlelight, so you infer life was hard.",
+   "points": [
+    "R1 = stated directly",
+    "R2 = inferred from clues"
+   ]
+  },
+  {
+   "q": "A student writes a summary as bullet points. Why does this lose marks? [2]",
+   "model": "The summary must be continuous prose. Note form or lists lower the writing mark because ideas are not organised or linked.",
+   "points": [
+    "Must be continuous writing",
+    "Lists reduce organisation/fluency marks"
+   ]
+  },
+  {
+   "q": "Why does a student's 600-word composition risk a low style and accuracy mark? [3]",
+   "model": "Longer answers often lose control and contain more errors, and structure becomes loose, and less time is left for checking.",
+   "points": [
+    "More errors (W5)",
+    "Loose structure (W2)",
+    "No time to proofread"
+   ]
+  }
+ ]
+}

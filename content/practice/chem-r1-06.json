@@ -1,0 +1,171 @@
+{
+ "id": "chem-r1-06",
+ "cards": [
+  {
+   "f": "Electrolysis",
+   "b": "Decomposition of an ionic compound, when molten or in aqueous solution, by passing an electric current."
+  },
+  {
+   "f": "Anode and cathode",
+   "b": "Anode = positive electrode; cathode = negative electrode."
+  },
+  {
+   "f": "Electrolyte",
+   "b": "The molten or aqueous substance that is decomposed by electrolysis."
+  },
+  {
+   "f": "Why must ionic solids be molten or dissolved?",
+   "b": "Ions must be free to move to the electrodes; in a solid lattice they are fixed."
+  },
+  {
+   "f": "Inert electrodes",
+   "b": "Platinum or graphite/carbon; they do not react or take part."
+  },
+  {
+   "f": "Products at each electrode (general)",
+   "b": "Cathode: metals or hydrogen. Anode: non-metals (other than hydrogen), e.g. chlorine, bromine, oxygen."
+  },
+  {
+   "f": "Electrolysis of molten PbBr₂: products",
+   "b": "Cathode: lead; anode: bromine (red-brown fumes)."
+  },
+  {
+   "f": "Electrolysis of concentrated NaCl(aq): products",
+   "b": "Cathode: hydrogen; anode: chlorine; NaOH(aq) left in solution."
+  },
+  {
+   "f": "Electrolysis of dilute H₂SO₄: products",
+   "b": "Cathode: hydrogen; anode: oxygen (volume ratio H₂ : O₂ = 2 : 1)."
+  },
+  {
+   "f": "CuSO₄(aq) with carbon electrodes",
+   "b": "Cathode: copper deposited (brown); anode: oxygen. Blue colour fades."
+  },
+  {
+   "f": "CuSO₄(aq) with copper electrodes",
+   "b": "Cathode gains copper; anode dissolves (loses mass). Blue colour stays the same."
+  },
+  {
+   "f": "Half-equation at the cathode: Cu²⁺",
+   "b": "Cu²⁺ + 2e⁻ → Cu (reduction: gain of electrons)."
+  },
+  {
+   "f": "Movement of charge in electrolysis",
+   "b": "Electrons move in the wire from anode to cathode; ions move in the electrolyte; cations to cathode, anions to anode."
+  },
+  {
+   "f": "Hydrogen–oxygen fuel cell: product and advantage",
+   "b": "Only product is water, so no pollution at use; hydrogen and oxygen react to produce electricity."
+  },
+  {
+   "f": "Fuel cell disadvantages vs petrol engine",
+   "b": "Hydrogen is difficult to store and make (often from fossil fuels); fewer refuelling stations; high cost."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In electrolysis the positive electrode is called the ___ .",
+   "a": [
+    "anode"
+   ]
+  },
+  {
+   "s": "Negative ions move towards the ___ during electrolysis.",
+   "a": [
+    "anode",
+    "positive electrode"
+   ]
+  },
+  {
+   "s": "During electrolysis of molten lead(II) bromide, lead forms at the ___ .",
+   "a": [
+    "cathode",
+    "negative electrode"
+   ]
+  },
+  {
+   "s": "The gas formed at the anode in concentrated sodium chloride solution is ___ .",
+   "a": [
+    "chlorine",
+    "cl2",
+    "Cl₂"
+   ]
+  },
+  {
+   "s": "The only chemical product of a hydrogen–oxygen fuel cell is ___ .",
+   "a": [
+    "water",
+    "h2o",
+    "H₂O"
+   ]
+  },
+  {
+   "s": "Reduction at the cathode involves the ___ of electrons.",
+   "a": [
+    "gain",
+    "gaining"
+   ]
+  },
+  {
+   "s": "In the electrolysis of dilute sulfuric acid, hydrogen forms at the ___ .",
+   "a": [
+    "cathode",
+    "negative electrode"
+   ]
+  },
+  {
+   "s": "When copper electrodes are used with copper(II) sulfate solution, the anode ___ in mass.",
+   "a": [
+    "decreases",
+    "decrease",
+    "loses",
+    "reduces",
+    "goes down"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State the products at each electrode when molten lead(II) bromide is electrolysed, and give one observation. [3]",
+   "model": "Cathode: lead; anode: bromine. Red-brown fumes seen at the anode.",
+   "points": [
+    "cathode: lead",
+    "anode: bromine",
+    "red-brown fumes / silvery bead of lead"
+   ]
+  },
+  {
+   "q": "Why does solid sodium chloride not conduct but aqueous sodium chloride does? [2]",
+   "model": "In the solid the ions cannot move. In solution they are free to move and carry charge.",
+   "points": [
+    "solid: ions fixed",
+    "aqueous: ions free to move"
+   ]
+  },
+  {
+   "q": "Describe the changes seen when copper(II) sulfate solution is electrolysed with carbon electrodes. [3]",
+   "model": "Brown copper deposits on the cathode, bubbles of oxygen form at the anode, and the blue colour of the solution fades.",
+   "points": [
+    "copper at cathode",
+    "oxygen bubbles at anode",
+    "blue fades"
+   ]
+  },
+  {
+   "q": "Write the half-equation for the formation of sodium at the cathode and say whether it is oxidation or reduction. [2]",
+   "model": "Na⁺ + e⁻ → Na; reduction (gain of electrons).",
+   "points": [
+    "correct half-equation",
+    "reduction/gain of electrons"
+   ]
+  },
+  {
+   "q": "State two advantages of hydrogen–oxygen fuel cells compared with petrol engines. [2]",
+   "model": "The only product is water so there are no pollutant gases (no CO₂, CO or NOx at the point of use); they are also more efficient.",
+   "points": [
+    "only water/no carbon dioxide or toxic products",
+    "no pollution/more efficient"
+   ]
+  }
+ ]
+}

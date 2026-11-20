@@ -1,0 +1,35 @@
+{"id":"bio-r1-08",
+"cards":[
+{"f":"Path of air through the breathing system","b":"Nose/mouth → larynx → trachea → bronchi → bronchioles → alveoli (surrounded by capillaries)."},
+{"f":"Four features of a gas exchange surface","b":"Large surface area, thin surface, good blood supply, good ventilation with air."},
+{"f":"Composition of inspired versus expired air","b":"Inspired: O₂ about 21%, CO₂ about 0.04%, less water vapour. Expired: O₂ about 16%, CO₂ about 4%, more water vapour."},
+{"f":"Why does expired air have more water vapour?","b":"Water evaporates from the moist lining of the alveoli."},
+{"f":"Test for carbon dioxide","b":"Limewater turns from colourless to milky / cloudy."},
+{"f":"Effect of exercise on breathing","b":"Rate (breaths per minute) and depth (volume per breath) both increase."},
+{"f":"Explain why breathing speeds up during exercise","b":"More CO₂ made, so CO₂ in the blood rises; the brain detects this and causes faster, deeper breathing."},
+{"f":"Is respiration the same as breathing?","b":"No. Respiration is chemical reactions in all living cells releasing energy; breathing is ventilation of the lungs."},
+{"f":"Uses of energy in living organisms","b":"Muscle contraction, protein synthesis, cell division, growth, nerve impulses, keeping body temperature constant."},
+{"f":"Define aerobic respiration, with equation","b":"Reactions in cells using oxygen to break down nutrient molecules and release energy. Glucose + oxygen → carbon dioxide + water."},
+{"f":"Balanced equation for aerobic respiration","b":"C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O"},
+{"f":"Define anaerobic respiration and give the muscle equation","b":"Reactions releasing energy without oxygen. In muscles: glucose → lactic acid. Releases much less energy per glucose."},
+{"f":"What is oxygen debt?","b":"Oxygen needed after vigorous exercise to deal with the lactic acid built up in muscles and blood."},
+{"f":"How is the oxygen debt removed after exercise?","b":"Fast heart rate carries lactic acid to the liver; deeper, faster breathing supplies oxygen; lactic acid is respired aerobically in the liver."},
+{"f":"Hydrogencarbonate indicator in a tube of germinating seeds","b":"Turns from red/orange to yellow, because respiration produces CO₂. Control: dead (boiled) seeds."}
+],
+"gaps":[
+{"s":"The sheet of muscle underneath the lungs is the ___ .","a":["diaphragm"]},
+{"s":"The tiny air sacs where gas exchange happens are the ___ .","a":["alveoli","alveolus"]},
+{"s":"Limewater turns ___ when carbon dioxide is bubbled through it.","a":["milky","cloudy","milky white","cloudy white"]},
+{"s":"Anaerobic respiration in muscles produces ___ acid.","a":["lactic"]},
+{"s":"Glucose + oxygen → carbon dioxide + ___ .","a":["water"]},
+{"s":"The balanced equation for aerobic respiration is C₆H₁₂O₆ + ___ O₂ → 6CO₂ + 6H₂O.","a":["6"]},
+{"s":"A rise in carbon dioxide in the blood is detected by the ___ .","a":["brain"]},
+{"s":"Lactic acid is broken down by aerobic respiration in the ___ .","a":["liver"]}
+],
+"short":[
+{"q":"Explain how the alveoli are adapted for gas exchange. [3]","model":"There are millions of alveoli giving a large surface area; walls are one cell thick for a short diffusion distance; a dense capillary network keeps a steep concentration gradient.","points":["large surface area (many alveoli)","thin walls, short diffusion distance","good blood supply maintains concentration gradient"]},
+{"q":"Explain why expired air contains more carbon dioxide than inspired air. [2]","model":"Cells produce carbon dioxide in respiration, which diffuses into the blood and then from the blood into the alveoli.","points":["CO₂ made in respiration","diffuses from blood into alveoli"]},
+{"q":"Explain why breathing rate stays high for some time after vigorous exercise. [3]","model":"Anaerobic respiration made lactic acid and caused an oxygen debt; extra oxygen is needed for aerobic respiration of lactic acid in the liver.","points":["lactic acid built up (oxygen debt)","extra oxygen needed","for aerobic respiration of lactic acid in the liver"]},
+{"q":"State two differences between aerobic and anaerobic respiration in muscles. [2]","model":"Aerobic uses oxygen and releases much more energy, producing CO₂ and water; anaerobic uses no oxygen and produces lactic acid.","points":["oxygen used in aerobic only","anaerobic releases much less energy","products differ (CO₂ and water versus lactic acid)"]},
+{"q":"Describe how you could show that expired air contains more carbon dioxide than inspired air. [3]","model":"Breathe in through one tube of limewater and out through another; the limewater with expired air turns milky faster.","points":["use two tubes of limewater","one for inspired air, one for expired air","expired air turns limewater milky faster"]}
+]}

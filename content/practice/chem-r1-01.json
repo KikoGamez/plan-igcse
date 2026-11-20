@@ -1,0 +1,166 @@
+{
+ "id": "chem-r1-01",
+ "cards": [
+  {
+   "f": "Solid: particle arrangement and motion",
+   "b": "Close together in a regular pattern; particles only vibrate about fixed positions."
+  },
+  {
+   "f": "Liquid: particle arrangement and motion",
+   "b": "Close together but irregular; particles slide past each other."
+  },
+  {
+   "f": "Gas: particle arrangement and motion",
+   "b": "Far apart, random arrangement; particles move quickly in all directions."
+  },
+  {
+   "f": "Which states have a fixed volume?",
+   "b": "Solids and liquids. Gases have no fixed shape or volume and are easily compressed."
+  },
+  {
+   "f": "Why can gases be compressed but liquids cannot?",
+   "b": "Gas particles are far apart with lots of space; liquid particles are already touching."
+  },
+  {
+   "f": "Why does a gas's volume increase when heated (at constant pressure)?",
+   "b": "Particles gain kinetic energy, move faster and hit the walls harder and more often, so the gas expands."
+  },
+  {
+   "f": "Why does gas pressure rise when volume is decreased (constant temperature)?",
+   "b": "Particles are closer together so they collide with the walls more frequently."
+  },
+  {
+   "f": "Define diffusion",
+   "b": "Net movement of particles from a region of higher concentration to lower concentration, due to random motion."
+  },
+  {
+   "f": "Which gas diffuses faster: NH₃ or HCl? Why?",
+   "b": "NH₃: lower relative molecular mass (17 vs 36.5), so lighter particles move faster."
+  },
+  {
+   "f": "Flat part of a heating curve: what is happening?",
+   "b": "A change of state; energy is used to overcome forces between particles, so temperature stays constant."
+  },
+  {
+   "f": "Element, compound, mixture",
+   "b": "Element: one type of atom. Compound: different elements chemically bonded. Mixture: substances not chemically joined."
+  },
+  {
+   "f": "Relative charge and mass: proton, neutron, electron",
+   "b": "Proton +1, mass 1. Neutron 0, mass 1. Electron −1, mass 1/1840 (negligible)."
+  },
+  {
+   "f": "Proton number vs nucleon number",
+   "b": "Proton number = number of protons. Nucleon (mass) number = protons + neutrons."
+  },
+  {
+   "f": "Define isotopes",
+   "b": "Atoms of the same element with the same number of protons but different numbers of neutrons."
+  },
+  {
+   "f": "Why do isotopes have the same chemical properties?",
+   "b": "Same number of electrons, so the same electronic configuration (neutrons do not affect chemistry)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In an atom, protons and neutrons are found in the central ___ .",
+   "a": [
+    "nucleus"
+   ]
+  },
+  {
+   "s": "The number of neutrons in ¹⁴₆C is ___ .",
+   "a": [
+    "8"
+   ]
+  },
+  {
+   "s": "An atom of an element in Group VI has ___ electrons in its outer shell.",
+   "a": [
+    "6",
+    "six"
+   ]
+  },
+  {
+   "s": "The electronic configuration of aluminium (proton number 13) is 2,8,___ .",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "The change of state from gas to liquid is called ___ .",
+   "a": [
+    "condensation",
+    "condensing"
+   ]
+  },
+  {
+   "s": "Elements in the same ___ of the Periodic Table have the same number of outer-shell electrons.",
+   "a": [
+    "group"
+   ]
+  },
+  {
+   "s": "The number of occupied electron shells in an atom equals its ___ number.",
+   "a": [
+    "period"
+   ]
+  },
+  {
+   "s": "Gas particles move randomly in all directions, so a gas will ___ to fill its container.",
+   "a": [
+    "diffuse",
+    "spread out",
+    "expand"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how the particles are arranged and move in a liquid. [2]",
+   "model": "Particles are close together in an irregular arrangement and can slide past one another.",
+   "points": [
+    "close together/touching",
+    "irregular/random arrangement",
+    "move/slide past each other"
+   ]
+  },
+  {
+   "q": "Explain, using kinetic particle theory, why increasing the temperature of a gas in a sealed syringe increases its volume if the pressure is constant. [3]",
+   "model": "Particles gain kinetic energy and move faster, hitting the walls harder and more often, so the volume must increase to keep pressure constant.",
+   "points": [
+    "particles gain kinetic energy/move faster",
+    "collide with walls more often and with greater force",
+    "so gas expands"
+   ]
+  },
+  {
+   "q": "Sodium ion ²³₁₁Na⁺: state the number of protons, neutrons and electrons. [3]",
+   "model": "11 protons, 12 neutrons, 10 electrons.",
+   "points": [
+    "protons = 11",
+    "neutrons = 23 − 11 = 12",
+    "electrons = 10 (one lost)"
+   ]
+  },
+  {
+   "q": "Cotton wool soaked in ammonia and one in hydrochloric acid are placed at opposite ends of a glass tube. A white ring forms nearer the HCl end. Explain. [3]",
+   "model": "NH₃ has a lower Mr than HCl so its particles diffuse faster and travel further, meeting HCl nearer the HCl end.",
+   "points": [
+    "gases diffuse/random movement",
+    "NH₃ lower relative molecular mass/lighter",
+    "diffuses faster so ring forms nearer HCl"
+   ]
+  },
+  {
+   "q": "Chlorine has two isotopes, ³⁵Cl and ³⁷Cl. State two similarities and one difference. [3]",
+   "model": "Same number of protons and electrons (same chemical properties); they differ in the number of neutrons (18 and 20).",
+   "points": [
+    "same number of protons",
+    "same number of electrons/same electronic configuration",
+    "different number of neutrons"
+   ]
+  }
+ ]
+}

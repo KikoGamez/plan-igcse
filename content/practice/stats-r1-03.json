@@ -1,0 +1,173 @@
+{
+ "id": "stats-r1-03",
+ "cards": [
+  {
+   "f": "Mean of raw data and of a frequency table",
+   "b": "Raw: Σx ÷ n. Table: Σfx ÷ Σf (divide by total frequency, not number of classes)."
+  },
+  {
+   "f": "Median position",
+   "b": "The (n + 1)/2 th value of the ordered data. Give the value, not the position."
+  },
+  {
+   "f": "Mode",
+   "b": "Most frequent value. May not exist, or there may be several. Can be used for qualitative data."
+  },
+  {
+   "f": "Advantage and disadvantage of the mean",
+   "b": "Uses all the data, but is affected by extreme values (outliers)."
+  },
+  {
+   "f": "Why use the median?",
+   "b": "It is not affected by extreme values, so it is best when there are outliers (e.g. house prices)."
+  },
+  {
+   "f": "Mean from grouped data",
+   "b": "Use class midpoints: Σfx ÷ Σf. The answer is only an estimate."
+  },
+  {
+   "f": "Quartile positions (n values)",
+   "b": "Q₁ = (n + 1)/4 th, Q₂ = (n + 1)/2 th, Q₃ = 3(n + 1)/4 th value. On a cumulative frequency graph use n/4, n/2, 3n/4."
+  },
+  {
+   "f": "Interquartile range",
+   "b": "IQR = Q₃ − Q₁. Spread of the middle 50%; not affected by extreme values."
+  },
+  {
+   "f": "Range",
+   "b": "Largest − smallest value. Affected by outliers."
+  },
+  {
+   "f": "Standard deviation formula (raw data)",
+   "b": "σ = √(Σx² ÷ n − x̄²)"
+  },
+  {
+   "f": "Standard deviation formula (frequency table)",
+   "b": "σ = √(Σfx² ÷ Σf − (Σfx ÷ Σf)²). For grouped data x = midpoint."
+  },
+  {
+   "f": "Variance",
+   "b": "Variance = σ², the square of the standard deviation."
+  },
+  {
+   "f": "Combined mean of two groups",
+   "b": "(n₁x̄₁ + n₂x̄₂) ÷ (n₁ + n₂). Never just average the two means unless the groups are equal in size."
+  },
+  {
+   "f": "Weighted mean",
+   "b": "Σ(weight × value) ÷ Σweights."
+  },
+  {
+   "f": "How to compare two data sets",
+   "b": "Make two comparisons in context, with values: location (mean or median) and spread (sd or IQR). Pair mean with sd, median with IQR."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The mean of 4, 6, 8, 10 and 12 is ___ .",
+   "a": [
+    "8"
+   ]
+  },
+  {
+   "s": "The median of 3, 5, 9 and 12 is ___ .",
+   "a": [
+    "7",
+    "7.0"
+   ]
+  },
+  {
+   "s": "The range of 7, 2, 15 and 9 is ___ .",
+   "a": [
+    "13"
+   ]
+  },
+  {
+   "s": "The average that is not affected by extreme values is the ___ .",
+   "a": [
+    "median"
+   ]
+  },
+  {
+   "s": "For a frequency table, the mean = Σfx ÷ ___ .",
+   "a": [
+    "Σf",
+    "sum of f",
+    "sum of frequencies",
+    "total frequency",
+    "the total frequency",
+    "the sum of the frequencies",
+    "the sum of f"
+   ]
+  },
+  {
+   "s": "For 15 ordered values, the lower quartile is the ___ th value.",
+   "a": [
+    "4",
+    "4th",
+    "fourth"
+   ]
+  },
+  {
+   "s": "The variance of a data set is 16, so its standard deviation is ___ .",
+   "a": [
+    "4",
+    "4.0"
+   ]
+  },
+  {
+   "s": "10 students have a mean mark of 50 and 30 students have a mean mark of 70. The mean mark of all 40 students is ___ .",
+   "a": [
+    "65",
+    "65.0"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "For the data 2, 5, 5, 7, 9, 12, 14, find the mean (to 3 s.f.), the median and the interquartile range. [4]",
+   "model": "Mean = 54 ÷ 7 = 7.71. Median = 4th value = 7. Q₁ = 2nd value = 5, Q₃ = 6th value = 12, so IQR = 12 − 5 = 7.",
+   "points": [
+    "mean 7.71",
+    "median 7",
+    "Q₁ = 5 and Q₃ = 12",
+    "IQR = 7"
+   ]
+  },
+  {
+   "q": "The table shows x: 0, 1, 2, 3 with frequencies f: 5, 8, 4, 3. Calculate the mean and the standard deviation. [4]",
+   "model": "Σf = 20, Σfx = 25, mean = 1.25. Σfx² = 51. σ = √(51 ÷ 20 − 1.25²) = √0.9875 = 0.994.",
+   "points": [
+    "Σfx = 25 and Σf = 20",
+    "mean 1.25",
+    "Σfx² = 51",
+    "σ = 0.994"
+   ]
+  },
+  {
+   "q": "Times: 0 < t ≤ 10 has frequency 4, 10 < t ≤ 20 has 8, 20 < t ≤ 30 has 8. Estimate the mean time and explain why it is only an estimate. [3]",
+   "model": "Midpoints 5, 15, 25: Σfx = 20 + 120 + 200 = 340; mean = 340 ÷ 20 = 17. It is an estimate because the exact values in each class are not known.",
+   "points": [
+    "use midpoints 5, 15, 25",
+    "340 ÷ 20 = 17",
+    "exact data values not known"
+   ]
+  },
+  {
+   "q": "Group A: median 45, IQR 10. Group B: median 52, IQR 18. Make two comparisons. [2]",
+   "model": "B's median is higher (52 vs 45), so B generally scored higher. A's IQR is smaller (10 vs 18), so A's scores are more consistent.",
+   "points": [
+    "compare medians with values in context",
+    "compare IQRs with values in context"
+   ]
+  },
+  {
+   "q": "12 students in group A have a mean mark of 80 and 8 students in group B have a mean mark of 65. Find the mean mark of all 20 students. [2]",
+   "model": "(12 × 80 + 8 × 65) ÷ 20 = (960 + 520) ÷ 20 = 74.",
+   "points": [
+    "12 × 80 + 8 × 65 = 1480",
+    "1480 ÷ 20 = 74"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{"id":"bio-r1-04",
+"cards":[
+{"f":"Define photosynthesis","b":"The process by which plants synthesise carbohydrates from raw materials using energy from light."},
+{"f":"Word equation and balanced equation for photosynthesis","b":"Carbon dioxide + water → glucose + oxygen (light, chlorophyll). 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂."},
+{"f":"What does chlorophyll do?","b":"Green pigment in chloroplasts; transfers energy from light into energy in chemicals for making carbohydrates."},
+{"f":"Uses of carbohydrates made in photosynthesis","b":"Starch: energy store. Cellulose: cell walls. Glucose: respiration. Sucrose: transport in phloem. Nectar: attracts pollinators."},
+{"f":"Why do plants need nitrate and magnesium ions?","b":"Nitrate: to make amino acids (proteins). Magnesium: to make chlorophyll."},
+{"f":"How do you read a limiting factor graph?","b":"Where the line rises, the factor on the x-axis is limiting. Where it levels off, another factor (CO₂, temperature, light) is limiting."},
+{"f":"Hydrogencarbonate indicator colours","b":"Yellow: more CO₂ than air. Orange/red: same as air. Purple: less CO₂ than air (photosynthesis faster than respiration)."},
+{"f":"Steps of the leaf starch test","b":"Boil in water; hot ethanol in a water bath (removes chlorophyll); rinse; add iodine. Blue-black means starch present."},
+{"f":"Leaf layers from top to bottom","b":"Cuticle, upper epidermis, palisade mesophyll, spongy mesophyll (air spaces), lower epidermis with stomata and guard cells."},
+{"f":"How are palisade cells adapted for photosynthesis?","b":"Tightly packed, many chloroplasts, near the upper surface where most light is absorbed."},
+{"f":"Functions of xylem and phloem","b":"Xylem: water and mineral ions, and support. Phloem: sucrose and amino acids."},
+{"f":"Position of xylem and phloem in a stem and a leaf","b":"Stem: bundles in a ring, xylem inside, phloem outside. Leaf: xylem upper side, phloem lower side."},
+{"f":"Pathway of water through a plant","b":"Root hair cells → root cortex cells → xylem → mesophyll cells."},
+{"f":"Define transpiration, and how does it happen?","b":"Loss of water vapour from leaves: water evaporates from mesophyll cells into air spaces, then diffuses out through the stomata."},
+{"f":"Define translocation, source and sink","b":"Movement of sucrose and amino acids in phloem from sources (e.g. leaves) to sinks (e.g. roots, fruits, growing shoots)."}
+],
+"gaps":[
+{"s":"The green pigment found in chloroplasts is called ___ .","a":["chlorophyll"]},
+{"s":"To destarch a plant before an experiment, it is kept in the ___ for about 48 hours.","a":["dark","darkness"]},
+{"s":"In the leaf starch test, ___ is used to remove chlorophyll.","a":["ethanol","hot ethanol","alcohol"]},
+{"s":"Each stoma is surrounded by two ___ cells.","a":["guard"]},
+{"s":"The loss of water vapour from leaves is called ___ .","a":["transpiration"]},
+{"s":"Increasing humidity ___ the rate of transpiration.","a":["decreases","reduces","lowers","slows"]},
+{"s":"When leaves droop because cells lose turgor pressure, the plant is ___ .","a":["wilting","wilted","wilts"]},
+{"s":"In the hydrogencarbonate indicator test, a plant in the dark turns the indicator ___ .","a":["yellow"]}
+],
+"short":[
+{"q":"Explain how the structure of a leaf is adapted for photosynthesis. [3]","model":"The leaf is thin and flat with a large surface area to absorb light and let CO₂ diffuse in quickly; palisade cells contain many chloroplasts; air spaces allow gas diffusion.","points":["large surface area to absorb light","thin so short diffusion distance for CO₂","palisade cells with many chloroplasts near upper surface","air spaces / stomata for gas exchange"]},
+{"q":"A variegated leaf is kept in light and then tested for starch. Describe and explain the result. [2]","model":"Only the green parts turn blue-black, because only they contain chlorophyll and photosynthesise.","points":["green parts blue-black, white parts stay orange-brown","chlorophyll is needed for photosynthesis"]},
+{"q":"Explain why the rate of photosynthesis levels off as light intensity increases. [2]","model":"Another factor, such as carbon dioxide concentration or temperature, becomes limiting, so more light does not increase the rate.","points":["another factor is limiting","e.g. CO₂ concentration or temperature"]},
+{"q":"Explain why a plant wilts on a hot, windy day. [3]","model":"Water is lost by transpiration faster than roots take it up, so cells lose water and become flaccid, turgor pressure falls and the leaves droop.","points":["transpiration faster than water uptake","cells lose water and become flaccid","turgor pressure falls"]},
+{"q":"State what happens to the rate of transpiration as wind speed increases, and explain why. [2]","model":"It increases, because the wind blows water vapour away from the leaf, keeping a steeper concentration gradient.","points":["rate increases","water vapour removed, steeper concentration gradient"]}
+]}

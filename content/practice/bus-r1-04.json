@@ -1,0 +1,163 @@
+{
+ "id": "bus-r1-04",
+ "cards": [
+  {
+   "f": "Organisation chart",
+   "b": "A diagram showing a business's internal structure: levels of hierarchy, departments and who reports to whom."
+  },
+  {
+   "f": "Span of control",
+   "b": "The number of subordinates working directly under a manager."
+  },
+  {
+   "f": "Chain of command",
+   "b": "The route through which instructions pass down from senior management to lower levels."
+  },
+  {
+   "f": "Flat vs tall structure",
+   "b": "Flat: few levels, wide spans, faster communication, more delegation. Tall: many levels, narrow spans, close supervision, slow communication."
+  },
+  {
+   "f": "Delegation",
+   "b": "Giving a subordinate the authority to perform particular tasks. The manager is still responsible for the result."
+  },
+  {
+   "f": "Autocratic leadership",
+   "b": "Manager decides alone with one-way communication. Suits emergencies, quick decisions and unskilled or new staff."
+  },
+  {
+   "f": "Democratic vs laissez-faire",
+   "b": "Democratic: workers involved in decisions, two-way communication. Laissez-faire: broad objectives, workers decide, little direction."
+  },
+  {
+   "f": "Trade union",
+   "b": "A group of workers who join together to protect their interests (pay, conditions, job security) through collective bargaining."
+  },
+  {
+   "f": "Job description vs person specification",
+   "b": "Job description: duties and responsibilities of the job. Person specification: qualifications, skills and qualities needed in the person."
+  },
+  {
+   "f": "Internal vs external recruitment",
+   "b": "Internal: existing employee; cheaper, quicker, motivating but narrow choice. External: wider choice and new ideas but costlier and slower."
+  },
+  {
+   "f": "Induction training",
+   "b": "Introduction for a new employee to the business: layout, policies, health and safety, colleagues."
+  },
+  {
+   "f": "On-the-job vs off-the-job training",
+   "b": "On-the-job: at the workplace with an experienced worker; cheap but bad habits. Off-the-job: away from work; wider skills but costly and work time lost."
+  },
+  {
+   "f": "Dismissal vs redundancy",
+   "b": "Dismissal: sacked for poor work or behaviour. Redundancy: job no longer needed; not the worker's fault."
+  },
+  {
+   "f": "Communication process",
+   "b": "Sender, message, medium, receiver, then feedback. Two-way communication includes feedback."
+  },
+  {
+   "f": "Barriers to communication",
+   "b": "Jargon, long or unclear message, wrong medium, long chain of command, no feedback, noise or technology failure."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The levels of management in a business from highest to lowest are called the ___ .",
+   "a": [
+    "hierarchy"
+   ]
+  },
+  {
+   "s": "A wide span of control usually means a ___ organisation structure.",
+   "a": [
+    "flat"
+   ]
+  },
+  {
+   "s": "A job ___ lists the duties and responsibilities of a job.",
+   "a": [
+    "description"
+   ]
+  },
+  {
+   "s": "A worker who loses their job because they are no longer needed has been made ___ .",
+   "a": [
+    "redundant"
+   ]
+  },
+  {
+   "s": "Training that introduces a new employee to the business is called ___ training.",
+   "a": [
+    "induction"
+   ]
+  },
+  {
+   "s": "Giving a subordinate authority to do tasks is called ___ .",
+   "a": [
+    "delegation"
+   ]
+  },
+  {
+   "s": "A manager who makes all decisions alone has an ___ leadership style.",
+   "a": [
+    "autocratic"
+   ]
+  },
+  {
+   "s": "Email and intranet are examples of ___ communication.",
+   "a": [
+    "electronic"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State two benefits of a flat organisation structure. [2]",
+   "model": "Faster communication and fewer managers (lower costs); more delegation motivates workers.",
+   "points": [
+    "benefit 1",
+    "benefit 2"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of recruiting externally. [4]",
+   "model": "Advantage: wider choice of candidates and new ideas. Disadvantage: more expensive (advertising) and slower, with a longer induction.",
+   "points": [
+    "advantage",
+    "development",
+    "disadvantage",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain the difference between dismissal and redundancy. [3]",
+   "model": "Dismissal is when a worker is sacked for unsatisfactory work or behaviour. Redundancy is when the job is no longer needed, not due to the worker's performance.",
+   "points": [
+    "dismissal due to worker's conduct/standard",
+    "redundancy: job no longer needed",
+    "not the worker's fault"
+   ]
+  },
+  {
+   "q": "Explain why a democratic leadership style may suit a team of experienced designers. [3]",
+   "model": "Skilled designers have ideas worth hearing. Involving them in decisions raises motivation and commitment through two-way communication.",
+   "points": [
+    "skilled staff with useful ideas",
+    "involvement motivates",
+    "two-way communication"
+   ]
+  },
+  {
+   "q": "Explain two problems of a long chain of command for communication. [4]",
+   "model": "Messages pass through many levels, so they are slow. They can also be distorted, which means workers misunderstand instructions.",
+   "points": [
+    "slow communication",
+    "message distorted",
+    "consequence for business",
+    "solution/flatter structure"
+   ]
+  }
+ ]
+}

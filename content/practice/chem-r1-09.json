@@ -1,0 +1,168 @@
+{
+ "id": "chem-r1-09",
+ "cards": [
+  {
+   "f": "Acids + metal",
+   "b": "Salt + hydrogen (for metals above hydrogen in the reactivity series)."
+  },
+  {
+   "f": "Acid + base",
+   "b": "Salt + water (neutralisation)."
+  },
+  {
+   "f": "Acid + carbonate",
+   "b": "Salt + water + carbon dioxide."
+  },
+  {
+   "f": "Litmus colours",
+   "b": "Red in acid, blue in alkali."
+  },
+  {
+   "f": "Methyl orange colours",
+   "b": "Red in acid, yellow in alkali."
+  },
+  {
+   "f": "Universal indicator colours",
+   "b": "Red pH 1–2, orange/yellow pH 3–6, green pH 7, blue pH 8–11, purple pH 12–14."
+  },
+  {
+   "f": "Base vs alkali",
+   "b": "Base: oxide or hydroxide of a metal. Alkali: a base that is soluble in water."
+  },
+  {
+   "f": "Neutralisation",
+   "b": "Reaction between an acid and an alkali to produce a salt and water."
+  },
+  {
+   "f": "Acidic oxides and basic oxides",
+   "b": "Acidic: non-metal oxides (CO₂, SO₂). Basic: metal oxides (CuO, CaO)."
+  },
+  {
+   "f": "Amphoteric oxide",
+   "b": "Reacts with both acids and bases to form a salt and water, e.g. Al₂O₃, ZnO."
+  },
+  {
+   "f": "Making a soluble salt from an insoluble base or carbonate",
+   "b": "Add excess solid to warm acid, filter off excess, evaporate part of filtrate, crystallise, dry."
+  },
+  {
+   "f": "Making an insoluble salt",
+   "b": "Precipitation: mix two solutions, filter, wash residue with distilled water, dry."
+  },
+  {
+   "f": "Test for carbonate / gas test for CO₂",
+   "b": "Add dilute acid: effervescence; CO₂ turns limewater milky."
+  },
+  {
+   "f": "Test for chloride, bromide, iodide",
+   "b": "Acidify with dilute nitric acid, add aqueous silver nitrate: white, cream, yellow precipitate."
+  },
+  {
+   "f": "Test for sulfate",
+   "b": "Acidify with dilute nitric acid, add aqueous barium nitrate: white precipitate."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The salt formed when sulfuric acid reacts with a base is a ___ .",
+   "a": [
+    "sulfate"
+   ]
+  },
+  {
+   "s": "The gas given off when an acid reacts with a metal is ___ .",
+   "a": [
+    "hydrogen",
+    "h2",
+    "H₂"
+   ]
+  },
+  {
+   "s": "Aqueous copper(II) ions give a light blue precipitate with sodium hydroxide that is ___ in excess.",
+   "a": [
+    "insoluble"
+   ]
+  },
+  {
+   "s": "Damp red litmus paper turns blue in ammonia, showing that ammonia is ___ .",
+   "a": [
+    "alkaline",
+    "an alkali",
+    "basic"
+   ]
+  },
+  {
+   "s": "Sodium ions give a ___ flame colour.",
+   "a": [
+    "yellow"
+   ]
+  },
+  {
+   "s": "Iron(II) hydroxide is a ___ precipitate.",
+   "a": [
+    "green"
+   ]
+  },
+  {
+   "s": "Zinc oxide is an ___ oxide because it reacts with both acids and bases.",
+   "a": [
+    "amphoteric"
+   ]
+  },
+  {
+   "s": "The test for hydrogen is a lighted splint that gives a ___ .",
+   "a": [
+    "pop",
+    "squeaky pop",
+    "popping sound"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how to prepare pure, dry crystals of copper(II) sulfate from copper(II) oxide and dilute sulfuric acid. [4]",
+   "model": "Add excess CuO to warm acid, filter off excess, heat filtrate to concentrate, leave to crystallise, filter and dry crystals.",
+   "points": [
+    "excess copper oxide added to warm acid",
+    "filter off excess",
+    "evaporate to saturation / crystallise",
+    "dry crystals"
+   ]
+  },
+  {
+   "q": "Describe how aqueous sodium hydroxide can distinguish between aqueous Zn²⁺ and Ca²⁺. [3]",
+   "model": "Both give a white precipitate. In excess NaOH the Zn²⁺ precipitate dissolves to a colourless solution; the Ca²⁺ precipitate does not.",
+   "points": [
+    "both white precipitate",
+    "Zn²⁺ dissolves in excess",
+    "Ca²⁺ does not dissolve"
+   ]
+  },
+  {
+   "q": "State the test and result for sulfate ions. [3]",
+   "model": "Add dilute nitric acid, then aqueous barium nitrate; a white precipitate shows sulfate.",
+   "points": [
+    "acidify with dilute nitric acid",
+    "add barium nitrate",
+    "white precipitate"
+   ]
+  },
+  {
+   "q": "Write a word equation for sulfuric acid reacting with sodium hydroxide, and name the type of reaction. [2]",
+   "model": "Sulfuric acid + sodium hydroxide → sodium sulfate + water; neutralisation.",
+   "points": [
+    "correct word equation",
+    "neutralisation"
+   ]
+  },
+  {
+   "q": "Classify SO₂ and CaO as acidic or basic oxides and explain how you can tell. [3]",
+   "model": "SO₂ is acidic (non-metal oxide, reacts with bases); CaO is basic (metal oxide, reacts with acids).",
+   "points": [
+    "SO₂ acidic and CaO basic",
+    "SO₂ non-metal/CaO metal",
+    "reacts with bases/acids"
+   ]
+  }
+ ]
+}

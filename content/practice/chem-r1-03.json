@@ -1,0 +1,167 @@
+{
+ "id": "chem-r1-03",
+ "cards": [
+  {
+   "f": "Formula of water, ammonia, methane",
+   "b": "H₂O, NH₃, CH₄."
+  },
+  {
+   "f": "Formula of carbon dioxide and carbon monoxide",
+   "b": "CO₂ and CO."
+  },
+  {
+   "f": "Formulas of hydrochloric, sulfuric and nitric acid",
+   "b": "HCl, H₂SO₄, HNO₃."
+  },
+  {
+   "f": "Formulas of NaOH, Ca(OH)₂ and ammonia solution",
+   "b": "NaOH, Ca(OH)₂, NH₃(aq)."
+  },
+  {
+   "f": "Diatomic elements",
+   "b": "H₂, N₂, O₂, F₂, Cl₂, Br₂, I₂."
+  },
+  {
+   "f": "Charge on Group I, II and III ions",
+   "b": "Group I: 1+; Group II: 2+; Group III: 3+ (e.g. Na⁺, Mg²⁺, Al³⁺)."
+  },
+  {
+   "f": "Charges on OH⁻, NO₃⁻, SO₄²⁻, CO₃²⁻, NH₄⁺",
+   "b": "Hydroxide 1−, nitrate 1−, sulfate 2−, carbonate 2−, ammonium 1+."
+  },
+  {
+   "f": "Method to find an ionic formula from charges",
+   "b": "Balance the charges so total positive equals total negative; use brackets for polyatomic ions, e.g. Al₂(SO₄)₃."
+  },
+  {
+   "f": "Formula of aluminium oxide",
+   "b": "Al₂O₃ (2 × 3+ balances 3 × 2−)."
+  },
+  {
+   "f": "Formula of iron(III) hydroxide",
+   "b": "Fe(OH)₃: Fe³⁺ needs three OH⁻."
+  },
+  {
+   "f": "What do state symbols (s), (l), (g), (aq) mean?",
+   "b": "Solid, liquid, gas, aqueous (dissolved in water)."
+  },
+  {
+   "f": "Rules for balancing equations",
+   "b": "Change only the big numbers in front of formulas; never change subscripts. Atoms of each element must match on both sides."
+  },
+  {
+   "f": "What is an ionic equation?",
+   "b": "Shows only the ions/substances that change; spectator ions are left out. Charges must balance too."
+  },
+  {
+   "f": "Write the ionic equation for forming silver chloride",
+   "b": "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)"
+  },
+  {
+   "f": "Define molecular formula",
+   "b": "The number and type of atoms in one molecule, e.g. C₂H₆ for ethane."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The formula of calcium hydroxide is Ca(OH)___ .",
+   "a": [
+    "2",
+    "₂"
+   ]
+  },
+  {
+   "s": "In the equation 2H₂ + O₂ → 2H₂O, the number of molecules of water formed from two H₂ molecules is ___ .",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "The formula of magnesium nitrate is Mg(NO₃)___ .",
+   "a": [
+    "2",
+    "₂"
+   ]
+  },
+  {
+   "s": "The state symbol for a substance dissolved in water is ___ .",
+   "a": [
+    "aq",
+    "(aq)"
+   ]
+  },
+  {
+   "s": "In CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂, the gas produced is ___ .",
+   "a": [
+    "carbon dioxide",
+    "co2",
+    "CO₂"
+   ]
+  },
+  {
+   "s": "The ionic formula of sodium sulfate has ___ sodium ions for each sulfate ion.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "Ions that are present but do not change in a reaction are called ___ ions.",
+   "a": [
+    "spectator"
+   ]
+  },
+  {
+   "s": "The charge on an aluminium ion is ___ .",
+   "a": [
+    "3+",
+    "+3"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Deduce the formula of aluminium sulfate. [2]",
+   "model": "Al₂(SO₄)₃",
+   "points": [
+    "Al³⁺ and SO₄²⁻ identified",
+    "charges balanced: 2 Al and 3 SO₄"
+   ]
+  },
+  {
+   "q": "Balance: Fe₂O₃ + CO → Fe + CO₂ [2]",
+   "model": "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+   "points": [
+    "3 in front of CO and CO₂",
+    "2 in front of Fe"
+   ]
+  },
+  {
+   "q": "Write a balanced symbol equation with state symbols for magnesium reacting with dilute hydrochloric acid. [3]",
+   "model": "Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)",
+   "points": [
+    "correct formulas",
+    "balanced",
+    "state symbols"
+   ]
+  },
+  {
+   "q": "Write the ionic equation for the reaction of aqueous silver nitrate with aqueous sodium chloride. [2]",
+   "model": "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)",
+   "points": [
+    "correct species",
+    "state symbols and balanced charges"
+   ]
+  },
+  {
+   "q": "Write a word equation and a symbol equation for the complete combustion of methane. [3]",
+   "model": "Methane + oxygen → carbon dioxide + water; CH₄ + 2O₂ → CO₂ + 2H₂O",
+   "points": [
+    "word equation correct",
+    "correct formulas",
+    "balanced"
+   ]
+  }
+ ]
+}

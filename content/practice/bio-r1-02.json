@@ -1,0 +1,35 @@
+{"id":"bio-r1-02",
+"cards":[
+{"f":"Define diffusion","b":"The net movement of particles from a region of higher concentration to a region of lower concentration (down a concentration gradient), as a result of their random movement."},
+{"f":"Is diffusion active or passive?","b":"Passive: no energy from respiration is needed."},
+{"f":"Four factors that increase the rate of diffusion","b":"Larger surface area, higher temperature, steeper concentration gradient, shorter distance."},
+{"f":"Define osmosis (Supplement)","b":"Net movement of water molecules from a region of higher water potential (dilute solution) to lower water potential (concentrated solution) through a partially permeable membrane."},
+{"f":"Which solution has the highest water potential?","b":"Pure water. The more solute dissolved, the lower the water potential."},
+{"f":"Define active transport","b":"Movement of particles through a cell membrane from lower to higher concentration (against the gradient) using energy from respiration."},
+{"f":"Why do root hair cells use active transport?","b":"To take up ions such as nitrate and magnesium that are at a lower concentration in soil water than in the cell."},
+{"f":"What is a turgid cell?","b":"A plant cell swollen with water, its contents pushing against the cell wall (turgor pressure). The wall stops it bursting."},
+{"f":"What is plasmolysis?","b":"The cell membrane and cytoplasm pull away from the cell wall as the cell loses water by osmosis."},
+{"f":"What happens to a red blood cell in pure water?","b":"Water enters by osmosis; the cell swells and bursts because it has no cell wall."},
+{"f":"Elements in carbohydrates, proteins and fats","b":"Carbohydrates and fats: C, H, O. Proteins: C, H, O, N (some also S)."},
+{"f":"What are these large molecules made from: starch, protein, fats?","b":"Starch: glucose. Protein: amino acids. Fats and oils: fatty acids and glycerol."},
+{"f":"Iodine test and Benedict's test results","b":"Iodine: starch turns blue-black. Benedict's (heat in water bath): reducing sugar goes green → yellow → orange → brick-red; stays blue if absent."},
+{"f":"Biuret test and ethanol emulsion test results","b":"Biuret: protein turns purple/violet (stays blue if absent). Ethanol emulsion: fats/oils give a cloudy white emulsion."},
+{"f":"Formula for percentage change in mass","b":"(final mass − initial mass) ÷ initial mass × 100. Use this because cylinders start with different masses."}
+],
+"gaps":[
+{"s":"Diffusion is the net movement of particles ___ a concentration gradient.","a":["down"]},
+{"s":"Water moves by osmosis through a ___ permeable membrane.","a":["partially","partially (selectively)","selectively"]},
+{"s":"Loss of turgor pressure in non-woody plants causes ___ .","a":["wilting","wilt"]},
+{"s":"A plant cell that has lost water and is soft is described as ___ .","a":["flaccid"]},
+{"s":"Active transport needs energy from ___ .","a":["respiration","aerobic respiration"]},
+{"s":"In the Benedict's test the mixture must be ___ in a water bath.","a":["heated","warmed"]},
+{"s":"A positive iodine test for starch gives a ___ colour.","a":["blue-black","blue black","black","blue/black"]},
+{"s":"A cylinder of 4.00 g that gains 0.50 g has a percentage change in mass of ___ %.","a":["12.5","+12.5","12.50"]}
+],
+"short":[
+{"q":"Explain why the rate of diffusion is faster at a higher temperature. [2]","model":"At higher temperature particles have more kinetic energy and move faster, so there is a greater net movement down the concentration gradient.","points":["particles have more kinetic energy / move faster","so more net movement / diffusion is quicker"]},
+{"q":"Potato cylinders are placed in concentrated sucrose solution and lose mass. Explain why. [3]","model":"The solution has a lower water potential than the potato cells, so water leaves the cells by osmosis through the partially permeable membrane.","points":["solution has lower water potential than cells","water leaves by osmosis","through a partially permeable membrane"]},
+{"q":"A potato cylinder of 2.80 g becomes 2.52 g. Calculate the percentage change in mass. [2]","model":"Change = −0.28 g; −0.28 ÷ 2.80 × 100 = −10 %.","points":["change = 2.52 − 2.80 = −0.28 g","−0.28 ÷ 2.80 × 100 = −10 %"]},
+{"q":"Explain how a root hair cell takes up nitrate ions from soil with a lower nitrate concentration than the cell. [3]","model":"By active transport against the concentration gradient, using energy from respiration in mitochondria.","points":["active transport","against the concentration gradient","uses energy from respiration"]},
+{"q":"Describe how to test a food for protein and state the positive result. [2]","model":"Add biuret reagent to the food sample; it turns purple/violet if protein is present.","points":["add biuret reagent (or NaOH then copper sulfate)","purple / violet colour"]}
+]}

@@ -1,0 +1,35 @@
+{"id":"bio-r1-05",
+"cards":[
+{"f":"What is a balanced diet?","b":"A diet containing all the nutrients (carbohydrates, fats, proteins, vitamins, minerals, fibre, water) in the correct proportions, giving the right amount of energy."},
+{"f":"Cause and symptoms of scurvy","b":"Lack of vitamin C. Bleeding gums and poor wound healing."},
+{"f":"Cause and symptoms of rickets","b":"Lack of vitamin D or calcium. Soft, weak, bent bones."},
+{"f":"Why is iron needed?","b":"To make haemoglobin in red blood cells, which carries oxygen. Sources: red meat, liver, spinach."},
+{"f":"Why is fibre needed?","b":"Adds bulk so food moves easily through the gut (peristalsis) and prevents constipation."},
+{"f":"Define ingestion and digestion","b":"Ingestion: taking food and drink into the body. Digestion: the breakdown of food."},
+{"f":"Define absorption, assimilation and egestion","b":"Absorption: nutrients move from intestines into blood. Assimilation: uptake and use of nutrients by cells. Egestion: removal of undigested food as faeces."},
+{"f":"Physical versus chemical digestion","b":"Physical: food broken into smaller pieces, no chemical change; increases surface area. Chemical: enzymes break large insoluble molecules into small soluble ones."},
+{"f":"Amylase: substrate, product, where made","b":"Starch → simple reducing sugars. Made in salivary glands and pancreas; acts in mouth and small intestine."},
+{"f":"Protease: substrate, product, where made","b":"Protein → amino acids. Made in stomach and pancreas; acts in stomach and small intestine."},
+{"f":"Lipase: substrate, product, where made","b":"Fats and oils → fatty acids and glycerol. Made in pancreas; acts in small intestine."},
+{"f":"Two roles of hydrochloric acid in the stomach","b":"Kills harmful microorganisms in food; gives acidic pH for optimum protease activity."},
+{"f":"Two roles of bile","b":"Alkaline: neutralises stomach acid entering the duodenum. Emulsifies fats into small droplets, increasing surface area for lipase."},
+{"f":"Where is bile made and stored?","b":"Made in the liver; stored in the gall bladder; released into the duodenum. It contains no enzymes."},
+{"f":"Functions of the large intestine and the rectum","b":"Colon: absorbs water. Rectum: stores faeces. Anus: egestion."}
+],
+"gaps":[
+{"s":"Vitamin C deficiency causes the disease ___ .","a":["scurvy"]},
+{"s":"Vitamin D helps the body absorb ___ for strong bones and teeth.","a":["calcium"]},
+{"s":"The first part of the small intestine, where bile enters, is the ___ .","a":["duodenum"]},
+{"s":"Most absorption of nutrients into the blood happens in the ___ .","a":["ileum"]},
+{"s":"Emulsification by bile increases the ___ of fat droplets for lipase.","a":["surface area"]},
+{"s":"Chemical digestion changes large ___ molecules into small soluble molecules.","a":["insoluble"]},
+{"s":"Lipase breaks down fats into fatty acids and ___ .","a":["glycerol"]},
+{"s":"Bile is stored in the ___ .","a":["gall bladder","gallbladder"]}
+],
+"short":[
+{"q":"State why large insoluble molecules must be digested before they can be absorbed. [2]","model":"Only small soluble molecules can pass through the wall of the intestine into the blood, so large insoluble ones are broken down by enzymes.","points":["only small soluble molecules can be absorbed","enzymes break large insoluble molecules into small soluble ones"]},
+{"q":"Explain how bile helps the digestion of fats. [3]","model":"Bile emulsifies fat into small droplets, giving a larger surface area for lipase. It is alkaline and neutralises stomach acid so lipase works at a suitable pH.","points":["emulsifies fats into small droplets","increases surface area for lipase","alkaline, neutralises stomach acid giving suitable pH"]},
+{"q":"Describe the role of the stomach in digestion. [3]","model":"It churns food (physical digestion) and secretes protease and hydrochloric acid; the acid kills microorganisms and gives the right pH for protease to break proteins into amino acids.","points":["churning is physical digestion","protease digests protein","hydrochloric acid kills microorganisms / provides acid pH"]},
+{"q":"State the products of digestion of starch, protein and fats. [3]","model":"Starch gives simple reducing sugars, protein gives amino acids, fats give fatty acids and glycerol.","points":["starch → reducing sugars","protein → amino acids","fats → fatty acids and glycerol"]},
+{"q":"A child has bent legs. Name the condition and give two dietary causes. [2]","model":"Rickets, caused by lack of vitamin D or lack of calcium.","points":["rickets","lack of vitamin D / calcium"]}
+]}

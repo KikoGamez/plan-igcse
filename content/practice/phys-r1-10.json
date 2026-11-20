@@ -1,0 +1,165 @@
+{
+ "id": "phys-r1-10",
+ "cards": [
+  {
+   "f": "Magnetic poles: attraction and repulsion",
+   "b": "Like poles repel; unlike poles attract."
+  },
+  {
+   "f": "Which test proves an object is a magnet?",
+   "b": "Repulsion with another magnet. Attraction could be to an unmagnetised magnetic material."
+  },
+  {
+   "f": "Name four magnetic materials",
+   "b": "Iron, steel, nickel, cobalt."
+  },
+  {
+   "f": "Soft iron vs steel",
+   "b": "Soft iron is easily magnetised and demagnetised (temporary magnet, cores). Steel keeps its magnetism (permanent magnet)."
+  },
+  {
+   "f": "Permanent magnet vs electromagnet",
+   "b": "Electromagnet is magnetic only while current flows and its strength can be changed; permanent magnet is always magnetic with fixed strength."
+  },
+  {
+   "f": "Magnetic field",
+   "b": "A region in which a magnetic pole experiences a force."
+  },
+  {
+   "f": "Direction of a magnetic field line",
+   "b": "The direction of the force on a N pole: from N to S outside a magnet. Lines never cross; closest where field is strongest."
+  },
+  {
+   "f": "Induced magnetism",
+   "b": "A magnetic material in a magnetic field becomes a magnet; the end nearest a N pole becomes a S pole, so it is attracted."
+  },
+  {
+   "f": "Field around a straight current-carrying wire",
+   "b": "Concentric circles around the wire; direction by right-hand grip rule; stronger with larger current and closer to wire."
+  },
+  {
+   "f": "Field inside a solenoid",
+   "b": "Strong and uniform (parallel, evenly spaced lines); outside it resembles a bar magnet's field."
+  },
+  {
+   "f": "Ways to strengthen a solenoid's field",
+   "b": "Larger current, more turns, soft-iron core."
+  },
+  {
+   "f": "Fleming's left-hand rule",
+   "b": "First finger = Field (N to S), seCond finger = Current (+ to −), thuMb = Motion (force)."
+  },
+  {
+   "f": "How to reverse the force on a current-carrying wire in a field",
+   "b": "Reverse the current or reverse the field (reversing both leaves the force unchanged)."
+  },
+  {
+   "f": "Why does a d.c. motor coil rotate?",
+   "b": "Current in the two sides is in opposite directions, so forces are opposite, producing a turning effect."
+  },
+  {
+   "f": "Role of split-ring commutator",
+   "b": "Reverses the current in the coil every half turn so the coil keeps turning the same way."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Unlike magnetic poles ___ each other.",
+   "a": [
+    "attract"
+   ]
+  },
+  {
+   "s": "Outside a magnet, field lines go from the north pole to the ___ pole.",
+   "a": [
+    "south",
+    "s"
+   ]
+  },
+  {
+   "s": "___ is easily magnetised and demagnetised, so is used in electromagnet cores.",
+   "a": [
+    "soft iron",
+    "iron"
+   ]
+  },
+  {
+   "s": "A wire carrying a current in a magnetic field experiences a ___ .",
+   "a": [
+    "force"
+   ]
+  },
+  {
+   "s": "In Fleming's left-hand rule the thumb shows the direction of ___ (force).",
+   "a": [
+    "motion",
+    "force",
+    "movement"
+   ]
+  },
+  {
+   "s": "A d.c. motor uses a split-ring ___ to reverse the current every half turn.",
+   "a": [
+    "commutator"
+   ]
+  },
+  {
+   "s": "There is no force on a wire if the current is ___ to the magnetic field.",
+   "a": [
+    "parallel"
+   ]
+  },
+  {
+   "s": "Increasing the number of turns on a motor coil ___ its turning effect.",
+   "a": [
+    "increases",
+    "increase"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how to show that a force acts on a current-carrying wire in a magnetic field.",
+   "model": "Place a wire (or rod on rails) between the poles of a U-shaped magnet and connect it to a d.c. supply. When the current flows the wire moves; reversing the current or the field reverses the movement.",
+   "points": [
+    "wire between magnet poles with d.c. supply",
+    "wire moves when current flows",
+    "reversing current or field reverses force"
+   ]
+  },
+  {
+   "q": "State three ways of increasing the turning effect of a d.c. motor.",
+   "model": "Increase the current, use a stronger magnetic field, increase the number of turns on the coil.",
+   "points": [
+    "larger current",
+    "stronger field",
+    "more turns"
+   ]
+  },
+  {
+   "q": "Explain the function of the brushes and split-ring commutator in a d.c. motor.",
+   "model": "Brushes connect the rotating coil to the supply. The commutator reverses the current every half turn, so the forces keep the coil turning in the same direction.",
+   "points": [
+    "brushes make contact with the supply",
+    "commutator reverses current each half turn",
+    "coil continues turning same way"
+   ]
+  },
+  {
+   "q": "Explain why a soft-iron core is used in an electromagnet while a steel core is not.",
+   "model": "Soft iron is easily magnetised and loses its magnetism when the current is switched off. Steel would stay magnetised.",
+   "points": [
+    "soft iron easily magnetised/demagnetised",
+    "steel retains magnetism"
+   ]
+  },
+  {
+   "q": "A magnet attracts a nail. Explain why this does not prove the nail is a magnet, and how to test it.",
+   "model": "The nail may be an unmagnetised piece of iron or steel, which is attracted by induced magnetism. Only repulsion of a magnet's pole proves it is a magnet.",
+   "points": [
+    "attraction also happens with unmagnetised magnetic material",
+    "only repulsion confirms a magnet"
+   ]
+  }
+ ]
+}

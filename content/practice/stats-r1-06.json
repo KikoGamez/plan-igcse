@@ -1,0 +1,166 @@
+{
+ "id": "stats-r1-06",
+ "cards": [
+  {
+   "f": "Positive, negative and no correlation",
+   "b": "Positive: points rise left to right. Negative: points fall. None: no pattern."
+  },
+  {
+   "f": "Strong vs weak correlation",
+   "b": "Strong: points close to a straight line. Weak: widely scattered."
+  },
+  {
+   "f": "Correlation and causation",
+   "b": "Correlation does not prove one variable causes the other. A third factor may cause both (e.g. temperature, ice cream and drowning)."
+  },
+  {
+   "f": "Outlier on a scatter diagram",
+   "b": "A point that clearly does not fit the pattern. It may be an error and can be ignored when drawing the line."
+  },
+  {
+   "f": "Drawing a line of best fit",
+   "b": "Plot the mean point (x̄, ȳ), draw a straight line through it following the trend with points balanced either side."
+  },
+  {
+   "f": "Equation of a line of best fit",
+   "b": "y = a + bx. b = gradient = change in y ÷ change in x (use points far apart). a = y-intercept."
+  },
+  {
+   "f": "Interpreting the gradient",
+   "b": "In context: for each extra unit of x, y increases (or decreases) by about b."
+  },
+  {
+   "f": "Interpreting the intercept",
+   "b": "The expected y when x = 0. Only meaningful if x = 0 makes sense."
+  },
+  {
+   "f": "Interpolation",
+   "b": "Predicting within the range of the data. Reliable if the correlation is strong."
+  },
+  {
+   "f": "Extrapolation",
+   "b": "Predicting outside the range of the data. Unreliable because the pattern may not continue."
+  },
+  {
+   "f": "Spearman's rank formula",
+   "b": "rs = 1 − 6Σd² ÷ (n(n² − 1)), where d = difference in ranks and n = number of pairs."
+  },
+  {
+   "f": "Ranking rule for Spearman's",
+   "b": "Rank both variables the same way (both from highest, or both from lowest). Rank each separately."
+  },
+  {
+   "f": "Meaning of rs = 1 and rs = −1",
+   "b": "1: rankings agree exactly (perfect positive). −1: rankings exactly reversed (perfect negative)."
+  },
+  {
+   "f": "Range of rs",
+   "b": "Always between −1 and 1. If you get a value outside, recheck Σd²."
+  },
+  {
+   "f": "Interpreting rs in context",
+   "b": "Say strength and direction with context, e.g. 'strong positive: students good at maths tend to be good at science'."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "If y decreases as x increases, there is ___ correlation.",
+   "a": [
+    "negative"
+   ]
+  },
+  {
+   "s": "For 5 pairs of data, Σd² = 10. Spearman's rank correlation coefficient is ___ .",
+   "a": [
+    "0.5",
+    "1/2",
+    "0.50"
+   ]
+  },
+  {
+   "s": "Spearman's rank correlation coefficient always lies between −1 and ___ .",
+   "a": [
+    "1",
+    "+1"
+   ]
+  },
+  {
+   "s": "A line of best fit should pass through the ___ point.",
+   "a": [
+    "mean"
+   ]
+  },
+  {
+   "s": "Predicting a value outside the range of the data is called ___ .",
+   "a": [
+    "extrapolation"
+   ]
+  },
+  {
+   "s": "For the line y = 5 + 2x, when x = 10 the predicted value of y is ___ .",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "In the equation y = 8 + 2.5x, the y-intercept is ___ .",
+   "a": [
+    "8"
+   ]
+  },
+  {
+   "s": "A Spearman's coefficient of −1 means the rankings are exactly ___ .",
+   "a": [
+    "reversed",
+    "opposite",
+    "reverse",
+    "inverted"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Six students are ranked in two subjects. Ranks in Maths: 1, 2, 3, 4, 5, 6. Ranks in Art: 2, 1, 4, 3, 6, 5. Calculate Spearman's rank correlation coefficient and interpret it. [4]",
+   "model": "d = 1, −1, 1, −1, 1, −1 so Σd² = 6. rs = 1 − (6 × 6) ÷ (6 × 35) = 1 − 36/210 = 0.829. Strong positive correlation: students ranked high in Maths tend to be ranked high in Art.",
+   "points": [
+    "Σd² = 6",
+    "1 − 36/210",
+    "rs = 0.829",
+    "strong positive correlation in context"
+   ]
+  },
+  {
+   "q": "A line of best fit passes through (4, 30) and (10, 48). Find its equation in the form y = a + bx. [3]",
+   "model": "Gradient b = (48 − 30) ÷ (10 − 4) = 3. Then 30 = a + 3 × 4, so a = 18. y = 18 + 3x.",
+   "points": [
+    "gradient = 3",
+    "a = 18",
+    "y = 18 + 3x"
+   ]
+  },
+  {
+   "q": "The number of fire engines at a fire and the damage caused show strong positive correlation. Does sending more fire engines cause more damage? Explain. [2]",
+   "model": "No. Correlation does not prove causation. A third factor, the size of the fire, causes both more engines to be sent and more damage.",
+   "points": [
+    "correlation does not imply causation",
+    "size of fire is a third factor"
+   ]
+  },
+  {
+   "q": "A line of best fit is y = 20 + 3x, drawn from data with x between 2 and 9. Use it to predict y when x = 20 and comment on the reliability. [2]",
+   "model": "y = 20 + 3 × 20 = 80. This is extrapolation (20 is outside 2 to 9), so it is unreliable.",
+   "points": [
+    "80",
+    "extrapolation so unreliable"
+   ]
+  },
+  {
+   "q": "State two things you should do when drawing a line of best fit on a scatter diagram. [2]",
+   "model": "Plot the mean point and draw a straight line (with a ruler) through it, following the trend with roughly equal numbers of points either side.",
+   "points": [
+    "pass through the mean point",
+    "straight line following trend, points balanced either side"
+   ]
+  }
+ ]
+}

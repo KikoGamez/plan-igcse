@@ -1,0 +1,167 @@
+{
+ "id": "bus-r1-09",
+ "cards": [
+  {
+   "f": "Capital vs revenue expenditure",
+   "b": "Capital: spending on non-current assets lasting over a year (machinery). Revenue: day-to-day expenses (wages, rent, materials)."
+  },
+  {
+   "f": "Internal sources of finance",
+   "b": "Retained profit, sale of existing assets, owner's savings."
+  },
+  {
+   "f": "Retained profit",
+   "b": "No interest or repayment and no loss of control, but not available to new or loss-making businesses."
+  },
+  {
+   "f": "Issue of shares",
+   "b": "Long-term finance only for limited companies. No interest or repayment, but shareholders expect dividends and control may be diluted."
+  },
+  {
+   "f": "Bank loan",
+   "b": "Medium to long-term, repaid with interest over a set period. Needs security (collateral); owners keep control."
+  },
+  {
+   "f": "Overdraft",
+   "b": "Short-term: bank lets the business withdraw more than it has, up to a limit. Flexible but high interest and repayable on demand."
+  },
+  {
+   "f": "Trade credit",
+   "b": "Suppliers let the business pay later (30–60 days). No interest, but discounts for early payment may be lost."
+  },
+  {
+   "f": "Debt factoring",
+   "b": "Selling trade receivables to a debt factor for immediate cash. The business receives less than the full amount."
+  },
+  {
+   "f": "Hire purchase vs leasing",
+   "b": "Hire purchase: deposit plus instalments, then the business owns the asset. Leasing: renting an asset, never owned."
+  },
+  {
+   "f": "Microfinance and crowdfunding",
+   "b": "Microfinance: very small loans to people who cannot get bank loans. Crowdfunding: many people each invest a small amount, usually online."
+  },
+  {
+   "f": "Matching finance to purpose",
+   "b": "Long-term assets (factory) need long-term finance (loan, shares). Short-term needs (wages) use overdraft or trade credit."
+  },
+  {
+   "f": "What lenders look for",
+   "b": "Business plan, cash-flow forecast, collateral, existing debts, owner's experience and own investment."
+  },
+  {
+   "f": "Why profit is not cash",
+   "b": "A profitable business can run out of cash if customers pay late or money is tied up in inventory or assets."
+  },
+  {
+   "f": "Cash-flow forecast formulas",
+   "b": "Net cash flow = inflows − outflows. Closing balance = opening balance + net cash flow. Next month's opening = this closing."
+  },
+  {
+   "f": "Working capital",
+   "b": "Current assets − current liabilities. Finance to pay day-to-day expenses. Too little means debts cannot be paid."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Money spent on machinery that lasts several years is ___ expenditure.",
+   "a": [
+    "capital"
+   ]
+  },
+  {
+   "s": "Wages and rent are examples of ___ expenditure.",
+   "a": [
+    "revenue"
+   ]
+  },
+  {
+   "s": "Selling trade receivables for immediate cash is called debt ___ .",
+   "a": [
+    "factoring"
+   ]
+  },
+  {
+   "s": "Taking more money from a bank account than it holds, up to a limit, is an ___ .",
+   "a": [
+    "overdraft"
+   ]
+  },
+  {
+   "s": "Net cash flow is cash inflows minus cash ___ .",
+   "a": [
+    "outflows",
+    "outflow"
+   ]
+  },
+  {
+   "s": "An opening balance of €2,000 and net cash flow of €700 give a closing balance of € ___ .",
+   "a": [
+    "2700",
+    "2,700",
+    "€2,700"
+   ]
+  },
+  {
+   "s": "Working capital equals current assets minus current ___ .",
+   "a": [
+    "liabilities"
+   ]
+  },
+  {
+   "s": "A sole trader cannot raise finance by issuing ___ .",
+   "a": [
+    "shares",
+    "share"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why a profitable business might run out of cash. [3]",
+   "model": "Customers may pay late on credit, or cash may be spent on inventory or equipment. The business then cannot pay wages or suppliers even though it is profitable.",
+   "points": [
+    "credit sales not yet paid / cash spent on assets",
+    "cannot pay bills on time",
+    "may have to close"
+   ]
+  },
+  {
+   "q": "Calculate the closing balance when opening balance is €1,000, inflows €12,000 and outflows €9,500. [2]",
+   "model": "Net cash flow = 12,000 − 9,500 = €2,500. Closing = 1,000 + 2,500 = €3,500.",
+   "points": [
+    "net cash flow €2,500",
+    "closing balance €3,500"
+   ]
+  },
+  {
+   "q": "Explain why an overdraft is not suitable for buying a new factory. [3]",
+   "model": "An overdraft is short-term and repayable on demand with high interest. A factory is a long-term asset, so long-term finance such as a loan or shares is better.",
+   "points": [
+    "overdraft is short-term",
+    "high interest/repayable on demand",
+    "factory needs long-term finance"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of leasing a machine rather than buying it. [4]",
+   "model": "Advantage: no large outlay, which protects cash flow. Disadvantage: the business never owns the asset and total cost is higher.",
+   "points": [
+    "advantage: no large outlay",
+    "development: cash flow",
+    "disadvantage: never owned/higher total cost",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain two ways a business could improve a short-term cash-flow problem. [4]",
+   "model": "It could ask customers to pay sooner, which brings cash in faster. It could delay buying equipment, which reduces outflows.",
+   "points": [
+    "method 1",
+    "consequence/drawback",
+    "method 2",
+    "consequence/drawback"
+   ]
+  }
+ ]
+}

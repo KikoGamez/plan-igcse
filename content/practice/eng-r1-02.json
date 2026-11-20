@@ -1,0 +1,161 @@
+{
+ "id": "eng-r1-02",
+ "cards": [
+  {
+   "f": "Which Paper 1 questions test short-answer comprehension?",
+   "b": "Q1 short answers (Text A) and Q2 short answers (Text C). Worth 1-3 marks each."
+  },
+  {
+   "f": "What first steps should you take with a short-answer question?",
+   "b": "Underline the command and the line/paragraph reference, check the marks, then find the exact lines."
+  },
+  {
+   "f": "How many points for a 2-mark question?",
+   "b": "Two separate points (or a point plus explanation). 1 mark = 1 point, 3 marks = 3 points."
+  },
+  {
+   "f": "What is an explicit meaning?",
+   "b": "Something stated directly in the text, e.g. 'The shop closed because rents doubled.'"
+  },
+  {
+   "f": "What is an implicit meaning?",
+   "b": "Something suggested but not stated, which you infer, e.g. checking a lock three times implies anxiety."
+  },
+  {
+   "f": "What does 'using your own words' mean?",
+   "b": "Change the key words that carry the meaning. Do not just reorder or swap one word."
+  },
+  {
+   "f": "Can you keep technical words like 'volcano' in own-words answers?",
+   "b": "Yes. If there is no sensible synonym, keep it. Small words (the, house) are fine too."
+  },
+  {
+   "f": "What is 'lifting'?",
+   "b": "Copying phrases from the text instead of using your own words. It gains no marks on own-words questions."
+  },
+  {
+   "f": "How should you answer 'Give a word or phrase that suggests...'?",
+   "b": "Quote only the exact word or phrase. A whole sentence is often not credited."
+  },
+  {
+   "f": "How do you make an inference?",
+   "b": "Ask what a detail tells you about feelings, attitude or situation. It must be based on the text, not a guess."
+  },
+  {
+   "f": "What does 'What does the writer suggest/imply...' ask for?",
+   "b": "The implicit meaning (R2): the inference, not what is stated."
+  },
+  {
+   "f": "How to answer 'Explain why...' questions?",
+   "b": "Use 'because' plus the reason in your own words (cause or reason)."
+  },
+  {
+   "f": "Translate 'reluctant' into own words.",
+   "b": "'Did not want to'. Explain the meaning, don't just swap one word."
+  },
+  {
+   "f": "Why avoid long paragraphs for 1-mark questions?",
+   "b": "They waste time. Give one precise point and save time for later questions."
+  },
+  {
+   "f": "Common error when answering outside the reference?",
+   "b": "Answering from outside the paragraph referenced. The answer is almost always inside the given lines."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A meaning that is stated directly in a text is called ___.",
+   "a": [
+    "explicit"
+   ]
+  },
+  {
+   "s": "A meaning that is suggested but not stated is called ___.",
+   "a": [
+    "implicit"
+   ]
+  },
+  {
+   "s": "Copying key phrases from the text in an own-words answer is called ___.",
+   "a": [
+    "lifting",
+    "lifting phrases"
+   ]
+  },
+  {
+   "s": "A 2-mark question usually needs ___ separate points.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "When asked for a word or phrase that suggests an idea, quote ___ the exact word or phrase needed.",
+   "a": [
+    "only",
+    "just"
+   ]
+  },
+  {
+   "s": "To work out what is implied, you make an ___.",
+   "a": [
+    "inference"
+   ]
+  },
+  {
+   "s": "The assessment objective for explicit meanings is ___.",
+   "a": [
+    "R1"
+   ]
+  },
+  {
+   "s": "Short-answer questions are marked on a ___ basis: one mark per correct idea.",
+   "a": [
+    "point",
+    "point-based"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain what 'own words' means in an exam question. [2]",
+   "model": "You must replace the key words that carry the meaning with different words. Rearranging the text or changing one word is not enough.",
+   "points": [
+    "Change key words",
+    "Do not just reorder or swap one word"
+   ]
+  },
+  {
+   "q": "Rewrite in your own words: 'the crowd grew restless'. [1]",
+   "model": "The people waiting became impatient.",
+   "points": [
+    "Key word restless changed (e.g. impatient)",
+    "Crowd changed (e.g. people waiting)"
+   ]
+  },
+  {
+   "q": "'She checked the lock three times before she could walk away.' What does this suggest about her? [2]",
+   "model": "She is anxious or worried about security, because she cannot stop checking and leave.",
+   "points": [
+    "Anxious/worried (inference)",
+    "Evidence: repeated checking"
+   ]
+  },
+  {
+   "q": "Why does copying a whole sentence for a 'give a phrase' question lose the mark? [2]",
+   "model": "It does not show you know which part answers the question, so the answer is often not credited.",
+   "points": [
+    "Must select the relevant words",
+    "Whole sentence hides understanding"
+   ]
+  },
+  {
+   "q": "State two common mistakes in short-answer comprehension. [2]",
+   "model": "Giving one point for a 2-mark question, and lifting key words from the text when asked for own words.",
+   "points": [
+    "One valid mistake",
+    "Second valid mistake, e.g. outside reference, invented inference"
+   ]
+  }
+ ]
+}

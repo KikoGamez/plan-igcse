@@ -1,0 +1,165 @@
+{
+ "id": "math-r1-20",
+ "cards": [
+  {
+   "f": "Mean, median, mode, range",
+   "b": "Mean = total ÷ number; median = middle value in order; mode = most common; range = largest − smallest."
+  },
+  {
+   "f": "Position of the median",
+   "b": "The (n + 1)/2 th value when the data is in order."
+  },
+  {
+   "f": "Mean from a frequency table",
+   "b": "Σfx ÷ Σf."
+  },
+  {
+   "f": "Estimated mean from grouped data",
+   "b": "Use the class midpoints: Σ(midpoint × f) ÷ Σf. It is an estimate."
+  },
+  {
+   "f": "Modal class",
+   "b": "The class with the highest frequency (for equal class widths)."
+  },
+  {
+   "f": "Which average is not affected by extreme values?",
+   "b": "The median (the mean and the range are affected)."
+  },
+  {
+   "f": "Plotting a cumulative frequency graph",
+   "b": "Plot running totals at the upper class boundary; start at the lowest boundary with 0."
+  },
+  {
+   "f": "Reading quartiles from a cumulative frequency graph",
+   "b": "Median at n/2, LQ at n/4, UQ at 3n/4, p-th percentile at p% of n."
+  },
+  {
+   "f": "Interquartile range",
+   "b": "UQ − LQ: the spread of the middle 50% of the data."
+  },
+  {
+   "f": "Frequency density",
+   "b": "Frequency ÷ class width (vertical axis of a histogram)."
+  },
+  {
+   "f": "Area of a histogram bar",
+   "b": "Represents frequency; frequency = frequency density × class width."
+  },
+  {
+   "f": "Types of correlation",
+   "b": "Positive: both increase together. Negative: one increases as the other decreases. Zero: no relationship."
+  },
+  {
+   "f": "Line of best fit rules",
+   "b": "Straight, by eye, following the trend, roughly equal points either side; need not pass through the origin."
+  },
+  {
+   "f": "Extrapolation",
+   "b": "Estimating outside the range of the data: may be unreliable."
+  },
+  {
+   "f": "Correlation and causation",
+   "b": "Correlation does not prove that one variable causes the other."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The median of 3, 9, 4, 7, 12 is ___ .",
+   "a": [
+    "7"
+   ]
+  },
+  {
+   "s": "The range of 4, 11, 7, 2 is ___ .",
+   "a": [
+    "9"
+   ]
+  },
+  {
+   "s": "The midpoint of the class 20 < t ≤ 30 is ___ .",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "A class of width 5 has frequency 15, so its frequency density is ___ .",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "A histogram bar has frequency density 2.4 and width 10, so its frequency is ___ .",
+   "a": [
+    "24"
+   ]
+  },
+  {
+   "s": "Cumulative frequency is plotted at the ___ class boundary.",
+   "a": [
+    "upper",
+    "top",
+    "highest"
+   ]
+  },
+  {
+   "s": "For 80 values, the upper quartile is read at the ___ th value.",
+   "a": [
+    "60",
+    "60th"
+   ]
+  },
+  {
+   "s": "Estimating values outside the range of the data is called ___ .",
+   "a": [
+    "extrapolation"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Estimate the mean: 0 < x ≤ 10 frequency 5; 10 < x ≤ 20 frequency 10; 20 < x ≤ 40 frequency 5.",
+   "model": "Midpoints 5, 15, 30: Σfx = 25 + 150 + 150 = 325; Σf = 20; mean = 16.25.",
+   "points": [
+    "Uses midpoints 5, 15 and 30",
+    "Σfx = 325",
+    "325 ÷ 20 = 16.25"
+   ]
+  },
+  {
+   "q": "A histogram has a class 20 < x ≤ 40 with frequency 30. Find the frequency density.",
+   "model": "Frequency density = 30 ÷ 20 = 1.5.",
+   "points": [
+    "Class width = 20",
+    "30 ÷ 20",
+    "1.5"
+   ]
+  },
+  {
+   "q": "A cumulative frequency graph has 120 values. State the cumulative frequencies at which you read the median and the quartiles. If LQ = 22 and UQ = 41, find the IQR.",
+   "model": "Median at 60, LQ at 30, UQ at 90. IQR = 41 − 22 = 19.",
+   "points": [
+    "Median at 60",
+    "LQ at 30 and UQ at 90",
+    "IQR = 19"
+   ]
+  },
+  {
+   "q": "A scatter diagram shows revision hours against test score with positive correlation. Interpret this, and explain why predicting the score for 20 hours may be unreliable.",
+   "model": "Students who revise for longer tend to score higher. 20 hours is outside the range of the data (extrapolation), so the trend may not continue.",
+   "points": [
+    "Positive correlation in context",
+    "Outside the data range (extrapolation)",
+    "Prediction may be unreliable"
+   ]
+  },
+  {
+   "q": "Pets owned by 20 students: 0 pets 4, 1 pet 6, 2 pets 5, 3 pets 5. Find the mean and the median.",
+   "model": "Σfx = 0 + 6 + 10 + 15 = 31, mean = 31 ÷ 20 = 1.55. The 10th and 11th values are 1 and 2, so the median is 1.5.",
+   "points": [
+    "Σfx = 31",
+    "Mean = 1.55",
+    "Median = 1.5"
+   ]
+  }
+ ]
+}

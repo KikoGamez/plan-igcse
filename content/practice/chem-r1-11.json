@@ -1,0 +1,167 @@
+{
+ "id": "chem-r1-11",
+ "cards": [
+  {
+   "f": "Metals vs non-metals: physical",
+   "b": "Metals: good thermal and electrical conductors, malleable, ductile, high melting points. Non-metals: poor conductors, brittle (solids)."
+  },
+  {
+   "f": "Reactivity series (most to least)",
+   "b": "Potassium, sodium, calcium, magnesium, aluminium, carbon, zinc, iron, hydrogen, copper, silver, gold."
+  },
+  {
+   "f": "Reactions with cold water",
+   "b": "K, Na, Ca react (hydroxide + hydrogen). Mg reacts with steam to give oxide + hydrogen."
+  },
+  {
+   "f": "Metal + dilute acid",
+   "b": "Reactive metals give salt + hydrogen. Copper, silver and gold do not react."
+  },
+  {
+   "f": "Displacement reaction",
+   "b": "A more reactive metal displaces a less reactive metal from its salt solution."
+  },
+  {
+   "f": "Alloy",
+   "b": "A mixture of a metal with other elements. Brass: copper + zinc. Stainless steel: iron + chromium, nickel, carbon."
+  },
+  {
+   "f": "Why are alloys harder than pure metals?",
+   "b": "Different sized atoms stop the layers sliding over each other easily."
+  },
+  {
+   "f": "Conditions for rusting",
+   "b": "Both oxygen and water must be present."
+  },
+  {
+   "f": "Barrier methods to prevent rust",
+   "b": "Paint, grease/oil, plastic coating: exclude oxygen and water."
+  },
+  {
+   "f": "Sacrificial protection",
+   "b": "A more reactive metal (e.g. zinc) corrodes instead of iron because it loses electrons more easily."
+  },
+  {
+   "f": "Galvanising",
+   "b": "Coating iron/steel with zinc: barrier plus sacrificial protection."
+  },
+  {
+   "f": "Extraction of metals and reactivity",
+   "b": "Metals below carbon are reduced with carbon; metals above carbon need electrolysis."
+  },
+  {
+   "f": "Blast furnace raw materials",
+   "b": "Hematite (Fe₂O₃), coke, limestone, hot air."
+  },
+  {
+   "f": "Blast furnace key equation",
+   "b": "Fe₂O₃ + 3CO → 2Fe + 3CO₂. Limestone forms slag (CaSiO₃) with impurities."
+  },
+  {
+   "f": "Composition of clean dry air",
+   "b": "About 78% nitrogen, 21% oxygen; rest noble gases and carbon dioxide."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Aluminium is extracted from its ore, ___ , by electrolysis.",
+   "a": [
+    "bauxite"
+   ]
+  },
+  {
+   "s": "The main ore of iron is ___ .",
+   "a": [
+    "hematite",
+    "haematite"
+   ]
+  },
+  {
+   "s": "Rusting requires oxygen and ___ .",
+   "a": [
+    "water"
+   ]
+  },
+  {
+   "s": "Brass is an alloy of copper and ___ .",
+   "a": [
+    "zinc"
+   ]
+  },
+  {
+   "s": "Carbon monoxide is formed by ___ combustion of fuels.",
+   "a": [
+    "incomplete"
+   ]
+  },
+  {
+   "s": "Chlorination of water is used to kill ___ .",
+   "a": [
+    "microbes",
+    "bacteria",
+    "pathogens",
+    "microorganisms",
+    "micro-organisms"
+   ]
+  },
+  {
+   "s": "Zinc protects iron by sacrificial protection because it is more ___ than iron.",
+   "a": [
+    "reactive"
+   ]
+  },
+  {
+   "s": "Sulfur dioxide in the air can cause ___ rain.",
+   "a": [
+    "acid"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why alloys are harder than pure metals. [2]",
+   "model": "The atoms in an alloy are different sizes, so the layers cannot slide over each other easily.",
+   "points": [
+    "different sized atoms",
+    "layers cannot slide"
+   ]
+  },
+  {
+   "q": "Write the equation for the reduction of iron(III) oxide in the blast furnace and state the role of limestone. [3]",
+   "model": "Fe₂O₃ + 3CO → 2Fe + 3CO₂; limestone removes impurities by forming slag.",
+   "points": [
+    "correct equation",
+    "limestone removes impurities",
+    "forms slag/calcium silicate"
+   ]
+  },
+  {
+   "q": "Explain how galvanising protects steel even when the zinc coating is scratched. [3]",
+   "model": "Zinc is more reactive than iron, so it loses electrons in preference and corrodes instead of iron (sacrificial protection).",
+   "points": [
+    "zinc more reactive than iron",
+    "zinc loses electrons/corrodes first",
+    "iron protected"
+   ]
+  },
+  {
+   "q": "State the source and one adverse effect of sulfur dioxide and carbon monoxide. [4]",
+   "model": "SO₂: burning fossil fuels containing sulfur; acid rain. CO: incomplete combustion of carbon-containing fuels; toxic.",
+   "points": [
+    "SO₂ source",
+    "acid rain",
+    "CO source",
+    "toxic"
+   ]
+  },
+  {
+   "q": "Describe how water is treated to make it safe for the domestic supply. [3]",
+   "model": "Sedimentation and filtration remove solids; carbon removes tastes and odours; chlorine kills microbes.",
+   "points": [
+    "filtration/sedimentation",
+    "carbon for taste/odour",
+    "chlorination"
+   ]
+  }
+ ]
+}

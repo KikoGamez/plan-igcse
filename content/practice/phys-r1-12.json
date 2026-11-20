@@ -1,0 +1,163 @@
+{
+ "id": "phys-r1-12",
+ "cards": [
+  {
+   "f": "Relative charges of proton, neutron, electron",
+   "b": "+1, 0, −1."
+  },
+  {
+   "f": "Proton number Z and nucleon number A",
+   "b": "Z = number of protons; A = number of protons + neutrons. Neutrons = A − Z."
+  },
+  {
+   "f": "Isotopes",
+   "b": "Atoms of the same element (same protons) with different numbers of neutrons."
+  },
+  {
+   "f": "Sources of background radiation",
+   "b": "Radon gas in the air, rocks and buildings, food and drink, cosmic rays."
+  },
+  {
+   "f": "Nature of α, β and γ",
+   "b": "α: helium nucleus (2 protons, 2 neutrons). β: fast electron from the nucleus. γ: electromagnetic radiation."
+  },
+  {
+   "f": "Ionising power and penetration of α, β, γ",
+   "b": "α: most ionising, stopped by paper/few cm of air. β: medium, stopped by few mm of aluminium. γ: least ionising, reduced by thick lead/concrete."
+  },
+  {
+   "f": "Radioactive decay: spontaneous and random",
+   "b": "Spontaneous: not affected by temperature or chemical reactions. Random: can't predict which nucleus decays or when."
+  },
+  {
+   "f": "What happens in α-decay?",
+   "b": "A decreases by 4 and Z decreases by 2; the nucleus becomes a different element."
+  },
+  {
+   "f": "What happens in β-decay?",
+   "b": "A neutron changes into a proton and an electron (emitted). A unchanged, Z increases by 1."
+  },
+  {
+   "f": "Half-life",
+   "b": "The time taken for half the nuclei of that isotope in any sample to decay."
+  },
+  {
+   "f": "Why use γ to sterilise equipment?",
+   "b": "It penetrates packaging and kills bacteria."
+  },
+  {
+   "f": "Why is α used in smoke alarms?",
+   "b": "α ionises air between plates giving a small current; smoke absorbs α, the current drops and the alarm sounds."
+  },
+  {
+   "f": "Safe handling of radioactive sources",
+   "b": "Short time, large distance (tongs), shielding (lead-lined containers)."
+  },
+  {
+   "f": "Order of the planets from the Sun",
+   "b": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+  },
+  {
+   "f": "Light-year",
+   "b": "Distance light travels in space in one year (about 9.5 × 10¹⁵ m). A unit of distance, not time."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "An atom of carbon-14 (Z = 6) has ___ neutrons.",
+   "a": [
+    "8",
+    "eight"
+   ]
+  },
+  {
+   "s": "An α particle is the same as a ___ nucleus.",
+   "a": [
+    "helium"
+   ]
+  },
+  {
+   "s": "The most penetrating of the three types of nuclear radiation is ___ radiation.",
+   "a": [
+    "gamma",
+    "γ"
+   ]
+  },
+  {
+   "s": "A sample has a half-life of 4.0 days. After 12 days the fraction remaining is 1/___ .",
+   "a": [
+    "8"
+   ]
+  },
+  {
+   "s": "The Sun's energy comes from nuclear ___ of hydrogen into helium.",
+   "a": [
+    "fusion"
+   ]
+  },
+  {
+   "s": "Light takes 500 s to reach Earth from the Sun. At 3.0 × 10⁸ m/s the distance is 1.5 × 10___ m.",
+   "a": [
+    "11"
+   ]
+  },
+  {
+   "s": "The planet between Mars and Saturn is ___ .",
+   "a": [
+    "jupiter"
+   ]
+  },
+  {
+   "s": "A star much larger than the Sun ends its life as a neutron star or a ___ hole.",
+   "a": [
+    "black"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A radioactive source has a count rate of 640 counts/min. Its half-life is 3.0 h. Calculate the count rate after 12 h.",
+   "model": "12 h = 4 half-lives: 640 → 320 → 160 → 80 → 40 counts/min.",
+   "points": [
+    "4 half-lives",
+    "halving each time",
+    "40 counts/min"
+   ]
+  },
+  {
+   "q": "Complete the decay equation for uranium-238 (Z = 92) emitting an α-particle: ²³⁸₉₂U → ?Th + ⁴₂He. State the nucleon and proton numbers of thorium.",
+   "model": "Thorium has nucleon number 234 and proton number 90 (²³⁴₉₀Th), since 238 − 4 = 234 and 92 − 2 = 90.",
+   "points": [
+    "A = 234",
+    "Z = 90"
+   ]
+  },
+  {
+   "q": "Explain why a gamma source is used to sterilise surgical instruments sealed in plastic packaging.",
+   "model": "Gamma radiation penetrates the packaging and kills bacteria on the instruments, so they are sterilised without opening.",
+   "points": [
+    "γ is highly penetrating",
+    "kills bacteria"
+   ]
+  },
+  {
+   "q": "Describe the life cycle of a star with about the mass of the Sun.",
+   "model": "A cloud of gas and dust collapses under gravity to a protostar, then a stable star (hydrogen fusion). It becomes a red giant, then a white dwarf with a planetary nebula.",
+   "points": [
+    "cloud of gas and dust → protostar",
+    "stable star",
+    "red giant",
+    "white dwarf + planetary nebula"
+   ]
+  },
+  {
+   "q": "Mars orbits the Sun at radius 2.3 × 10¹¹ m with period 5.9 × 10⁷ s. Calculate its orbital speed.",
+   "model": "v = 2πr ÷ T = 2π × 2.3 × 10¹¹ ÷ 5.9 × 10⁷ = 2.4 × 10⁴ m/s.",
+   "points": [
+    "v = 2πr ÷ T",
+    "substitution",
+    "2.4 × 10⁴ m/s"
+   ]
+  }
+ ]
+}

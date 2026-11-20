@@ -1,0 +1,163 @@
+{
+ "id": "spa-r1-01",
+ "cards": [
+  {
+   "f": "¿Cuáles son los dos exámenes del IGCSE Spanish First Language (0502)?",
+   "b": "Paper 1 Reading y Paper 2 Writing."
+  },
+  {
+   "f": "¿Qué se evalúa en el Paper 1?",
+   "b": "Lectura: comprensión, resumen, análisis del lenguaje del autor y respuesta extensa a la lectura."
+  },
+  {
+   "f": "¿Qué se evalúa en el Paper 2?",
+   "b": "Escritura: escritura dirigida (a partir de textos) y una composición descriptiva o narrativa."
+  },
+  {
+   "f": "Significado explícito",
+   "b": "Lo que el texto dice directamente."
+  },
+  {
+   "f": "Significado implícito / inferencia",
+   "b": "Lo que el texto sugiere sin decirlo; se deduce (sentimientos, actitud)."
+  },
+  {
+   "f": "«con sus propias palabras»",
+   "b": "Parafrasear: no copiar frases del texto."
+  },
+  {
+   "f": "«identifique» / «señale»",
+   "b": "Encontrar y dar la información; una cita breve puede valer."
+  },
+  {
+   "f": "«explique»",
+   "b": "Dar razones o significado, mostrando comprensión."
+  },
+  {
+   "f": "¿Qué significa «actitud»?",
+   "b": "El sentimiento u opinión del autor o del personaje."
+  },
+  {
+   "f": "Pregunta con [2] puntos",
+   "b": "Normalmente exige dos ideas distintas."
+  },
+  {
+   "f": "Regla de párrafo",
+   "b": "Si la pregunta dice «en el párrafo 2», responde solo con ese párrafo."
+  },
+  {
+   "f": "¿Cómo parafrasear rápido?",
+   "b": "Cambia la clase de palabra o explica con una frase sencilla; usa sinónimos."
+  },
+  {
+   "f": "Respuesta circular",
+   "b": "Explicar una palabra con la misma palabra: no gana marca."
+  },
+  {
+   "f": "«a regañadientes»",
+   "b": "Sin ganas, de mala gana."
+  },
+  {
+   "f": "Error frecuente en comprensión",
+   "b": "Copiar frases largas o dar tu opinión cuando no se pide."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "El IGCSE Spanish First Language tiene dos exámenes: Reading y ___ .",
+   "a": [
+    "Writing",
+    "Escritura"
+   ]
+  },
+  {
+   "s": "Lo que el texto dice directamente es el significado ___ .",
+   "a": [
+    "explícito",
+    "explicito"
+   ]
+  },
+  {
+   "s": "Lo que se deduce sin que se diga es el significado ___ .",
+   "a": [
+    "implícito",
+    "implicito"
+   ]
+  },
+  {
+   "s": "«Con sus propias ___ » significa parafrasear.",
+   "a": [
+    "palabras"
+   ]
+  },
+  {
+   "s": "Una pregunta de [2] puntos suele pedir ___ ideas.",
+   "a": [
+    "dos",
+    "2"
+   ]
+  },
+  {
+   "s": "«A regañadientes» significa de mala ___ .",
+   "a": [
+    "gana"
+   ]
+  },
+  {
+   "s": "En una pregunta de comprensión no debes dar tu ___ si no se pide.",
+   "a": [
+    "opinión",
+    "opinion"
+   ]
+  },
+  {
+   "s": "La actitud es el ___ u opinión del autor.",
+   "a": [
+    "sentimiento"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique la diferencia entre una pregunta explícita y una implícita. [2]",
+   "model": "La explícita pide un dato que el texto dice; la implícita exige deducir lo que se sugiere.",
+   "points": [
+    "Explícita: dato directo (1)",
+    "Implícita: deducir lo sugerido (1)"
+   ]
+  },
+  {
+   "q": "¿Por qué copiar una frase del texto suele no dar puntos cuando se pide «con sus propias palabras»? [2]",
+   "model": "Porque no demuestra que has entendido; hay que parafrasear.",
+   "points": [
+    "No demuestra comprensión (1)",
+    "Debe reformularse (1)"
+   ]
+  },
+  {
+   "q": "Parafrasee: «no daba crédito». [1]",
+   "model": "No podía creerlo.",
+   "points": [
+    "No podía creerlo o sinónimo correcto (1)",
+    "Sin copiar la expresión original"
+   ]
+  },
+  {
+   "q": "Texto: «Lucía sacó el móvil y escribió un mensaje que borró dos veces». ¿Qué sugiere esto? [2]",
+   "model": "Estaba nerviosa o avergonzada y no sabía cómo justificar su retraso.",
+   "points": [
+    "Nerviosa o insegura (1)",
+    "Razón con evidencia: borró dos veces (1)"
+   ]
+  },
+  {
+   "q": "Dé tres errores frecuentes al contestar preguntas de comprensión. [3]",
+   "model": "Copiar frases largas, contestar desde otro párrafo y dar solo una idea en una pregunta de dos puntos.",
+   "points": [
+    "Copiar frases largas (1)",
+    "Contestar desde otro párrafo (1)",
+    "Una sola idea en pregunta de dos puntos (1)"
+   ]
+  }
+ ]
+}

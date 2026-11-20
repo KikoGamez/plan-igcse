@@ -1,0 +1,171 @@
+{
+ "id": "math-r1-19",
+ "cards": [
+  {
+   "f": "P(not A)",
+   "b": "1 − P(A). All probabilities of the outcomes add up to 1."
+  },
+  {
+   "f": "Probability of an event (equally likely outcomes)",
+   "b": "Number of favourable outcomes ÷ total number of outcomes."
+  },
+  {
+   "f": "Relative frequency",
+   "b": "Number of times the event happens ÷ number of trials. More trials give a better estimate."
+  },
+  {
+   "f": "Expected frequency",
+   "b": "Probability × number of trials."
+  },
+  {
+   "f": "AND rule (independent events)",
+   "b": "P(A and B) = P(A) × P(B): multiply along the branches."
+  },
+  {
+   "f": "OR rule (mutually exclusive)",
+   "b": "P(A or B) = P(A) + P(B): add the ends of different branches."
+  },
+  {
+   "f": "Without replacement",
+   "b": "The denominator drops by 1, and the numerator of the colour already taken drops by 1."
+  },
+  {
+   "f": "'At least one' probability",
+   "b": "1 − P(none)."
+  },
+  {
+   "f": "n(A ∪ B)",
+   "b": "n(A) + n(B) − n(A ∩ B)."
+  },
+  {
+   "f": "Conditional probability P(A given B)",
+   "b": "P(A and B) ÷ P(B) = n(A ∩ B) ÷ n(B). The denominator is the 'given' group, not the total."
+  },
+  {
+   "f": "Filling in a Venn diagram: order",
+   "b": "Start in the middle (intersection), then 'only' regions, then outside; unknowns as x with an equation from the total."
+  },
+  {
+   "f": "Meaning of ∩, ∪ and A′",
+   "b": "∩ = and (both); ∪ = or (either or both); A′ = not in A (complement)."
+  },
+  {
+   "f": "Meaning of ξ, ∅ and ⊆",
+   "b": "ξ = universal set; ∅ = empty set; ⊆ = is a subset of."
+  },
+  {
+   "f": "Size of the sample space for two dice",
+   "b": "36 equally likely outcomes."
+  },
+  {
+   "f": "How may probabilities be written?",
+   "b": "Fraction, decimal or percentage (never a ratio or in words)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "If P(A) = 0.35, then P(not A) = ___ .",
+   "a": [
+    "0.65",
+    "65%",
+    "13/20"
+   ]
+  },
+  {
+   "s": "A fair die is rolled 120 times. The expected number of sixes is ___ .",
+   "a": [
+    "20"
+   ]
+  },
+  {
+   "s": "n(A) = 12, n(B) = 9 and n(A ∩ B) = 4, so n(A ∪ B) = ___ .",
+   "a": [
+    "17"
+   ]
+  },
+  {
+   "s": "Two fair coins are tossed. P(two heads) = ___ .",
+   "a": [
+    "1/4",
+    "0.25",
+    "25%"
+   ]
+  },
+  {
+   "s": "Two dice are rolled. The sample space has ___ outcomes.",
+   "a": [
+    "36"
+   ]
+  },
+  {
+   "s": "P(at least one) = 1 − P( ___ ).",
+   "a": [
+    "none",
+    "zero",
+    "0"
+   ]
+  },
+  {
+   "s": "The probabilities of all possible outcomes add up to ___ .",
+   "a": [
+    "1",
+    "one"
+   ]
+  },
+  {
+   "s": "The set A ∩ B contains elements in A ___ B.",
+   "a": [
+    "and",
+    "and also in",
+    "as well as"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A bag has 4 red and 6 blue counters. Two are taken without replacement. Find the probability both are blue.",
+   "model": "P = 6/10 × 5/9 = 30/90 = 1/3.",
+   "points": [
+    "6/10 for the first",
+    "5/9 for the second",
+    "1/3"
+   ]
+  },
+  {
+   "q": "In a class of 40, 22 like art (A), 15 like music (M) and 8 like both. Find the number who like neither, and the probability a student likes art only.",
+   "model": "n(A ∪ M) = 22 + 15 − 8 = 29, so neither = 40 − 29 = 11. Art only = 14, so P = 14/40 = 7/20.",
+   "points": [
+    "n(A ∪ M) = 29",
+    "Neither = 11",
+    "P(art only) = 14/40 = 7/20"
+   ]
+  },
+  {
+   "q": "P(rain) = 0.2. If it rains, P(late) = 0.5; if not, P(late) = 0.1. Find P(late).",
+   "model": "0.2 × 0.5 + 0.8 × 0.1 = 0.1 + 0.08 = 0.18.",
+   "points": [
+    "0.2 × 0.5 = 0.1",
+    "0.8 × 0.1 = 0.08",
+    "0.18"
+   ]
+  },
+  {
+   "q": "Using the information in the previous question, find P(rain given late).",
+   "model": "P(rain and late) ÷ P(late) = 0.1 ÷ 0.18 = 5/9.",
+   "points": [
+    "P(rain and late) = 0.1",
+    "Divide by P(late) = 0.18",
+    "5/9 (0.556)"
+   ]
+  },
+  {
+   "q": "A biased coin is thrown 200 times and lands heads 124 times. Find the relative frequency of heads, and the expected number of heads in 500 throws.",
+   "model": "Relative frequency = 124/200 = 0.62. Expected = 0.62 × 500 = 310.",
+   "points": [
+    "0.62",
+    "0.62 × 500",
+    "310"
+   ]
+  }
+ ]
+}

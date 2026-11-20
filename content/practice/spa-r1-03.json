@@ -1,0 +1,168 @@
+{
+ "id": "spa-r1-03",
+ "cards": [
+  {
+   "f": "Fórmula del análisis del lenguaje",
+   "b": "Cita breve + significado + efecto (+ vínculo con el ambiente o propósito)."
+  },
+  {
+   "f": "Nombrar el recurso no basta",
+   "b": "Hay que explicar su significado y su efecto en el lector."
+  },
+  {
+   "f": "Metáfora",
+   "b": "Identifica algo con otra cosa sin «como»: la noche era un pozo."
+  },
+  {
+   "f": "Comparación / símil",
+   "b": "Relaciona con «como»: frío como un cuchillo."
+  },
+  {
+   "f": "Personificación",
+   "b": "Da vida o emociones humanas a objetos: la casa suspiraba."
+  },
+  {
+   "f": "Hipérbole",
+   "b": "Exageración: esperé una eternidad."
+  },
+  {
+   "f": "Enumeración",
+   "b": "Lista que sugiere acumulación o caos."
+  },
+  {
+   "f": "Anáfora / repetición",
+   "b": "Repetir palabras para dar ritmo e insistencia."
+  },
+  {
+   "f": "Antítesis / oxímoron",
+   "b": "Contraste o paradoja: un silencio ensordecedor."
+  },
+  {
+   "f": "Sinestesia",
+   "b": "Mezcla de sentidos: un color chillón."
+  },
+  {
+   "f": "Onomatopeya",
+   "b": "Imita un sonido: el tictac del reloj."
+  },
+  {
+   "f": "Campo semántico",
+   "b": "Grupo de palabras con significado relacionado (grietas, óxido, ruinas)."
+  },
+  {
+   "f": "Connotación",
+   "b": "Asociaciones que una palabra tiene más allá de su significado literal."
+  },
+  {
+   "f": "Denotación",
+   "b": "Significado literal de diccionario."
+  },
+  {
+   "f": "Cómo elegir citas",
+   "b": "Cortas, con connotaciones fuertes, de los párrafos indicados."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Las asociaciones de una palabra se llaman ___ .",
+   "a": [
+    "connotaciones",
+    "connotación",
+    "connotacion"
+   ]
+  },
+  {
+   "s": "«El viento rugía» es un ejemplo de ___ .",
+   "a": [
+    "personificación",
+    "personificacion"
+   ]
+  },
+  {
+   "s": "Esperé una eternidad es una ___ .",
+   "a": [
+    "hipérbole",
+    "hiperbole"
+   ]
+  },
+  {
+   "s": "Un grupo de palabras relacionadas por significado es un campo ___ .",
+   "a": [
+    "semántico",
+    "semantico"
+   ]
+  },
+  {
+   "s": "Un silencio ensordecedor es un ___ .",
+   "a": [
+    "oxímoron",
+    "oximoron"
+   ]
+  },
+  {
+   "s": "El tictac del reloj es una ___ .",
+   "a": [
+    "onomatopeya"
+   ]
+  },
+  {
+   "s": "Hay que explicar el significado y el ___ de cada cita.",
+   "a": [
+    "efecto"
+   ]
+  },
+  {
+   "s": "Las citas deben ser ___ y precisas.",
+   "a": [
+    "breves",
+    "cortas",
+    "corta",
+    "breve"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique por qué «es una metáfora» es una respuesta débil. [2]",
+   "model": "Solo identifica el recurso; no explica su significado ni su efecto.",
+   "points": [
+    "Solo nombra el recurso (1)",
+    "Falta significado y efecto (1)"
+   ]
+  },
+  {
+   "q": "Analice: «las ventanas eran cuencas vacías». [3]",
+   "model": "Compara las ventanas con una calavera, asociando el edificio con la muerte y el abandono, lo que crea una atmósfera inquietante.",
+   "points": [
+    "Cita y recurso (1)",
+    "Significado (1)",
+    "Efecto en el lector (1)"
+   ]
+  },
+  {
+   "q": "Analice: «el mercado despertaba antes que el sol». [3]",
+   "model": "Personifica el mercado como un ser vivo lleno de energía e incansable.",
+   "points": [
+    "Personificación (1)",
+    "Significado: vitalidad (1)",
+    "Efecto: actividad (1)"
+   ]
+  },
+  {
+   "q": "Dé dos errores frecuentes al analizar el lenguaje. [2]",
+   "model": "Citar frases enteras y dar efectos genéricos como «hace el texto más interesante».",
+   "points": [
+    "Primer error válido (1)",
+    "Segundo error válido (1)"
+   ]
+  },
+  {
+   "q": "¿Cómo se elige una buena cita? [2]",
+   "model": "Corta y con fuerte connotación, no una palabra neutra.",
+   "points": [
+    "Corta (1)",
+    "Connotativa (1)"
+   ]
+  }
+ ]
+}

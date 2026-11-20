@@ -1,0 +1,173 @@
+{
+ "id": "math-r1-11",
+ "cards": [
+  {
+   "f": "Gradient formula",
+   "b": "(y₂ − y₁) ÷ (x₂ − x₁): change in y ÷ change in x. Keep the same order on top and bottom."
+  },
+  {
+   "f": "Midpoint of A(x₁, y₁) and B(x₂, y₂)",
+   "b": "((x₁ + x₂) ÷ 2, (y₁ + y₂) ÷ 2): the mean of the x-values and the mean of the y-values."
+  },
+  {
+   "f": "Length of AB",
+   "b": "√((x₂ − x₁)² + (y₂ − y₁)²) (Pythagoras). Surd on Paper 2, 3 s.f. on Paper 4."
+  },
+  {
+   "f": "In y = mx + c, what are m and c?",
+   "b": "m = gradient; c = y-intercept, where the line crosses the y-axis at (0, c)."
+  },
+  {
+   "f": "Gradient of a horizontal line? A vertical line?",
+   "b": "Horizontal (y = k): 0. Vertical (x = k): undefined."
+  },
+  {
+   "f": "Gradients of parallel lines",
+   "b": "Equal: m₁ = m₂."
+  },
+  {
+   "f": "Gradients of perpendicular lines",
+   "b": "m₁ × m₂ = −1, so m₂ = −1 ÷ m₁ (negative reciprocal)."
+  },
+  {
+   "f": "Negative reciprocal of −⅔",
+   "b": "3/2 (flip the fraction and change the sign)."
+  },
+  {
+   "f": "Method for the perpendicular bisector of AB",
+   "b": "Find the midpoint of AB; find the gradient of AB; take its negative reciprocal; use the midpoint to find c."
+  },
+  {
+   "f": "How do you find where a line crosses the x-axis?",
+   "b": "Put y = 0 and solve for x."
+  },
+  {
+   "f": "How do you find where two lines intersect?",
+   "b": "Solve the two equations simultaneously; the solution (x, y) is the point."
+  },
+  {
+   "f": "M is the midpoint of AB. Given A and M, find B",
+   "b": "B = 2 × M − A for each coordinate."
+  },
+  {
+   "f": "Trap: gradient of 4x − 2y = 10",
+   "b": "Make y the subject first: y = 2x − 5, so the gradient is 2 (not 4, not −2)."
+  },
+  {
+   "f": "How do you check that a point lies on a line?",
+   "b": "Substitute its x and y into the equation; both sides must be equal."
+  },
+  {
+   "f": "Equation of a line through two points: steps",
+   "b": "1. Find m. 2. Substitute one point into y = mx + c to find c. 3. Write y = mx + c (or the form asked)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The gradient of the line through (1, 2) and (3, 8) is ___ .",
+   "a": [
+    "3",
+    "3.0"
+   ]
+  },
+  {
+   "s": "The x-coordinate of the midpoint of (−4, 6) and (2, 0) is ___ .",
+   "a": [
+    "−1",
+    "-1"
+   ]
+  },
+  {
+   "s": "A line has gradient 4. A line perpendicular to it has gradient ___ .",
+   "a": [
+    "−1/4",
+    "-1/4",
+    "−0.25",
+    "-0.25"
+   ]
+  },
+  {
+   "s": "The distance from (0, 0) to (5, 12) is ___ .",
+   "a": [
+    "13",
+    "13 units"
+   ]
+  },
+  {
+   "s": "The y-intercept of the line y = 3x − 7 is ___ .",
+   "a": [
+    "−7",
+    "-7"
+   ]
+  },
+  {
+   "s": "The line y = 2x + 6 crosses the x-axis where x = ___ .",
+   "a": [
+    "−3",
+    "-3"
+   ]
+  },
+  {
+   "s": "A line parallel to 5x + y = 3 has gradient ___ .",
+   "a": [
+    "−5",
+    "-5"
+   ]
+  },
+  {
+   "s": "The gradient of the vertical line x = 4 is ___ .",
+   "a": [
+    "undefined",
+    "not defined",
+    "infinite"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A is (1, −2) and B is (7, 6). Find (a) the midpoint of AB, (b) the length of AB.",
+   "model": "(a) (4, 2). (b) √(6² + 8²) = √100 = 10.",
+   "points": [
+    "Midpoint ((1 + 7)/2, (−2 + 6)/2) = (4, 2)",
+    "Length = √(6² + 8²)",
+    "= 10"
+   ]
+  },
+  {
+   "q": "Find the equation of the line through (1, 5) and (4, −1).",
+   "model": "Gradient = (−1 − 5)/(4 − 1) = −2; 5 = −2 + c so c = 7; y = −2x + 7.",
+   "points": [
+    "m = −6/3 = −2",
+    "Substitute a point to get c = 7",
+    "y = −2x + 7"
+   ]
+  },
+  {
+   "q": "Find the equation of the line perpendicular to 2y = x + 6 that passes through (3, 4).",
+   "model": "2y = x + 6 gives gradient ½, so the perpendicular gradient is −2; 4 = −6 + c so c = 10; y = −2x + 10.",
+   "points": [
+    "Rearranges to y = ½x + 3, gradient ½",
+    "Perpendicular gradient −2",
+    "c = 10, y = −2x + 10"
+   ]
+  },
+  {
+   "q": "Show that A(1, 2), B(3, 6) and C(6, 12) lie on a straight line.",
+   "model": "Gradient AB = 4/2 = 2 and gradient BC = 6/3 = 2. The gradients are equal and B is common, so A, B and C are collinear.",
+   "points": [
+    "Gradient AB = 2",
+    "Gradient BC = 2",
+    "Same gradient and common point B, so collinear"
+   ]
+  },
+  {
+   "q": "Find the coordinates of the point where y = x + 1 and 2x + y = 10 intersect.",
+   "model": "Substitute: 2x + x + 1 = 10, so x = 3 and y = 4. The point is (3, 4).",
+   "points": [
+    "Substitute y = x + 1 into 2x + y = 10",
+    "3x = 9 so x = 3",
+    "y = 4, point (3, 4)"
+   ]
+  }
+ ]
+}

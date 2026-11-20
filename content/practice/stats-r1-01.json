@@ -1,0 +1,162 @@
+{
+ "id": "stats-r1-01",
+ "cards": [
+  {
+   "f": "Qualitative data",
+   "b": "Described in words (categories), not numbers, e.g. eye colour, favourite sport."
+  },
+  {
+   "f": "Quantitative data",
+   "b": "Numerical data. Can be discrete or continuous."
+  },
+  {
+   "f": "Discrete vs continuous data",
+   "b": "Discrete: only particular values, often counted (goals, shoe size). Continuous: any value in a range, measured (time, mass, length)."
+  },
+  {
+   "f": "Is shoe size 7.5 continuous?",
+   "b": "No. Shoe size is discrete. Decimals do not make data continuous."
+  },
+  {
+   "f": "Primary vs secondary data",
+   "b": "Primary: collected by you for your purpose. Secondary: already collected by someone else (e.g. census tables)."
+  },
+  {
+   "f": "Advantage and disadvantage of secondary data",
+   "b": "Cheap and quick, often large data sets. But may be out of date, not exactly what you need, or accuracy unknown."
+  },
+  {
+   "f": "Bivariate data",
+   "b": "Two variables recorded for each item, e.g. height and arm span of each student."
+  },
+  {
+   "f": "Census vs sample",
+   "b": "Census: every member of the population (accurate but costly and slow). Sample: a part of the population (cheaper but may be biased)."
+  },
+  {
+   "f": "Sampling frame",
+   "b": "A list of all the members of the population from which the sample is chosen, e.g. the school register."
+  },
+  {
+   "f": "Biased sample",
+   "b": "A sample that does not fairly represent the population, because some members are more likely to be chosen."
+  },
+  {
+   "f": "How to take a simple random sample",
+   "b": "Number everyone in the sampling frame, pick numbers with a random number generator, ignore repeats."
+  },
+  {
+   "f": "How to take a systematic sample",
+   "b": "k = population ÷ sample size. Choose a random start between 1 and k, then take every kth member."
+  },
+  {
+   "f": "Stratified sample size for a group",
+   "b": "(group size ÷ population size) × total sample size. Round and check the totals add to the sample size."
+  },
+  {
+   "f": "Quota sampling",
+   "b": "Interviewer is told how many of each type to ask and chooses them. Quick, no frame needed, but not random so may be biased."
+  },
+  {
+   "f": "Two faults of response boxes",
+   "b": "Overlapping boxes (0–1, 1–2) and not exhaustive (no box for 'more than 5'). Also give a time frame, e.g. per week."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Data collected from every member of the population is called a ___ .",
+   "a": [
+    "census"
+   ]
+  },
+  {
+   "s": "A list of all the members of the population is called the sampling ___ .",
+   "a": [
+    "frame"
+   ]
+  },
+  {
+   "s": "The number of siblings a student has is ___ data (discrete or continuous).",
+   "a": [
+    "discrete"
+   ]
+  },
+  {
+   "s": "To take a systematic sample of 50 from a list of 1000, choose a random start and then take every ___ th member.",
+   "a": [
+    "20",
+    "20th",
+    "twentieth"
+   ]
+  },
+  {
+   "s": "A school has 800 students, 200 of them in Year 9. In a stratified sample of 40, ___ students come from Year 9.",
+   "a": [
+    "10",
+    "ten"
+   ]
+  },
+  {
+   "s": "A small trial run of a questionnaire before the main survey is called a ___ study.",
+   "a": [
+    "pilot"
+   ]
+  },
+  {
+   "s": "A question like 'Don't you agree that homework is too long?' is a ___ question.",
+   "a": [
+    "leading"
+   ]
+  },
+  {
+   "s": "An interviewer is told to ask 15 men and 15 women and chooses whom to ask. This is ___ sampling.",
+   "a": [
+    "quota"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State one advantage and one disadvantage of carrying out a census. [2]",
+   "model": "Advantage: it is accurate/complete as every member is included. Disadvantage: it is expensive and time-consuming (or impossible if testing destroys the items).",
+   "points": [
+    "advantage: accurate / whole population included",
+    "disadvantage: costly / slow / impractical for large populations"
+   ]
+  },
+  {
+   "q": "A school has 250 students in Year 10, 200 in Year 11 and 150 in Year 12. A stratified sample of 60 is taken by year group. Calculate the number from each year. [3]",
+   "model": "Total 600. Year 10: 250/600 × 60 = 25; Year 11: 200/600 × 60 = 20; Year 12: 150/600 × 60 = 15. (25 + 20 + 15 = 60)",
+   "points": [
+    "use group ÷ 600 × 60",
+    "Year 10 = 25",
+    "Year 11 = 20 and Year 12 = 15"
+   ]
+  },
+  {
+   "q": "Describe how to take a systematic sample of 30 students from a register of 450. [3]",
+   "model": "450 ÷ 30 = 15. Pick a random starting number between 1 and 15, then take every 15th student on the register after it.",
+   "points": [
+    "450 ÷ 30 = 15",
+    "random start between 1 and 15",
+    "then every 15th name"
+   ]
+  },
+  {
+   "q": "A questionnaire asks: 'How old are you? 0–20, 20–40, 40–60'. Give two criticisms of the response boxes. [2]",
+   "model": "The boxes overlap (20 and 40 fit two boxes), and there is no box for people over 60, so they are not exhaustive.",
+   "points": [
+    "boxes overlap",
+    "no box for over 60 / not exhaustive"
+   ]
+  },
+  {
+   "q": "A postal questionnaire is sent to 500 customers. Explain why the results may be biased. [2]",
+   "model": "Postal questionnaires often have a low response rate, and the people who reply may have stronger views than those who do not, so the sample is not representative.",
+   "points": [
+    "low response rate",
+    "responders not representative of all customers"
+   ]
+  }
+ ]
+}

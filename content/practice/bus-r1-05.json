@@ -1,0 +1,166 @@
+{
+ "id": "bus-r1-05",
+ "cards": [
+  {
+   "f": "Role of marketing",
+   "b": "Identify, satisfy and anticipate customer needs; maintain customer loyalty; build customer relationships; gain information about customers."
+  },
+  {
+   "f": "Why markets have become more competitive",
+   "b": "Globalisation (foreign firms enter), online selling (easy price comparison), better transport."
+  },
+  {
+   "f": "Mass vs niche marketing",
+   "b": "Mass: same product to the whole market. Niche: a small, specific part of the market; less competition and higher prices."
+  },
+  {
+   "f": "Market segment",
+   "b": "An identifiable sub-group of a market whose consumers have similar characteristics or preferences."
+  },
+  {
+   "f": "Ways to segment a market",
+   "b": "Income/socio-economic group, age, gender, location, lifestyle or use of the product."
+  },
+  {
+   "f": "Market-orientated vs product-orientated",
+   "b": "Market-orientated: research what consumers want, then make it. Product-orientated: make what it can, then try to sell it."
+  },
+  {
+   "f": "Market research",
+   "b": "Gathering, analysing and interpreting information about a market."
+  },
+  {
+   "f": "Primary research",
+   "b": "Original, first-hand data collected for the business's own purpose (questionnaire, interview, focus group, observation, test marketing)."
+  },
+  {
+   "f": "Secondary research",
+   "b": "Using information already collected by someone else (sales records, government statistics, internet). Cheaper but may be out of date."
+  },
+  {
+   "f": "Primary research: pros and cons",
+   "b": "Up to date, specific to needs and not available to competitors; but expensive and time-consuming."
+  },
+  {
+   "f": "Focus group",
+   "b": "A small group led by a researcher who discuss a product. Gives detailed opinions but is costly and members influence each other."
+  },
+  {
+   "f": "Sample",
+   "b": "A group of people selected to respond to a survey because asking the whole population is too costly and slow."
+  },
+  {
+   "f": "Random vs quota sample",
+   "b": "Random: every member of the population has an equal chance. Quota: set numbers chosen by characteristics such as age and gender."
+  },
+  {
+   "f": "Why market research may be inaccurate",
+   "b": "Small or unrepresentative sample, leading questions, bias, out-of-date data. Shows what people say, not always what they do."
+  },
+  {
+   "f": "Percentage change formula",
+   "b": "(New − original) ÷ original × 100. Always divide by the ORIGINAL value."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Collecting original data first-hand is called ___ research.",
+   "a": [
+    "primary",
+    "field"
+   ]
+  },
+  {
+   "s": "Using data that has already been collected by someone else is ___ research.",
+   "a": [
+    "secondary",
+    "desk"
+   ]
+  },
+  {
+   "s": "In a ___ sample, every member of the population has an equal chance of being chosen.",
+   "a": [
+    "random"
+   ]
+  },
+  {
+   "s": "Choosing people in set numbers by age and gender is a ___ sample.",
+   "a": [
+    "quota"
+   ]
+  },
+  {
+   "s": "Selling a product in a small area before a national launch is called test ___ .",
+   "a": [
+    "marketing"
+   ]
+  },
+  {
+   "s": "A business that researches consumer wants before developing a product is ___ -orientated.",
+   "a": [
+    "market"
+   ]
+  },
+  {
+   "s": "240 out of 400 people said yes, which is ___ %.",
+   "a": [
+    "60",
+    "60%"
+   ]
+  },
+  {
+   "s": "Market sales rose from €2.0m to €2.3m, which is a ___ % growth.",
+   "a": [
+    "15",
+    "15%"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Distinguish between a niche market and a mass market. [2]",
+   "model": "A niche market is a small specialised segment of a larger market. A mass market has very large sales with no targeting of particular groups.",
+   "points": [
+    "niche: small specialised segment",
+    "mass: large sales, no targeting"
+   ]
+  },
+  {
+   "q": "Explain two advantages of secondary research. [4]",
+   "model": "It is cheaper and quicker because the data already exists. It also gives overall market data such as size and trends.",
+   "points": [
+    "cheaper",
+    "quicker/already available",
+    "overall market size and trends",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain why the results of a questionnaire might be inaccurate. [3]",
+   "model": "The sample may be too small or unrepresentative. Leading questions can bias answers, and people may say what they will do but not actually do it.",
+   "points": [
+    "small/unrepresentative sample",
+    "leading or poorly worded questions",
+    "what people say vs do"
+   ]
+  },
+  {
+   "q": "Calculate the percentage increase in market sales from $2.5 million to $3.0 million. [2]",
+   "model": "(3.0 − 2.5) ÷ 2.5 × 100 = 20%.",
+   "points": [
+    "correct working",
+    "20%"
+   ]
+  },
+  {
+   "q": "Explain two benefits to a business of segmenting its market. [4]",
+   "model": "It can match products and promotion to each segment's needs, raising sales. It also avoids wasted advertising and can reveal gaps in the market.",
+   "points": [
+    "matches product/promotion to needs",
+    "higher sales",
+    "less wasted advertising",
+    "identifies gaps"
+   ]
+  }
+ ]
+}

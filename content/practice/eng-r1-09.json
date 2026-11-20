@@ -1,0 +1,170 @@
+{
+ "id": "eng-r1-09",
+ "cards": [
+  {
+   "f": "Directed writing hour: minutes 0-10?",
+   "b": "Read the task (form, audience, purpose) and both texts, annotating + (strong), - (weak), ? (bias)."
+  },
+  {
+   "f": "Minutes 10-20?",
+   "b": "Plan: decide your position, group ideas into 3-4 paragraphs, note text ideas to evaluate."
+  },
+  {
+   "f": "Minutes 20-50?",
+   "b": "Write about 300-350 words."
+  },
+  {
+   "f": "Minutes 50-60?",
+   "b": "Check both texts used, evaluation in every body paragraph, register, spelling and punctuation."
+  },
+  {
+   "f": "What do + - ? annotations mean?",
+   "b": "+ strong point, - weak point, ? bias or assumption."
+  },
+  {
+   "f": "Must you address both bullets?",
+   "b": "Yes: evaluate the texts and give your own view."
+  },
+  {
+   "f": "Self-check: position?",
+   "b": "Did I state my position in the first paragraph?"
+  },
+  {
+   "f": "Self-check: evaluation?",
+   "b": "Is there at least one evaluative comment per body paragraph?"
+  },
+  {
+   "f": "Self-check: texts?",
+   "b": "Did I use ideas from both texts, in my own words?"
+  },
+  {
+   "f": "Self-check: conclusion?",
+   "b": "Does it make a clear judgement or recommendation?"
+  },
+  {
+   "f": "Mistake: spending 25 minutes reading and planning.",
+   "b": "You rush the writing. Stick to about 20 minutes for reading and planning."
+  },
+  {
+   "f": "Mistake: a 'speech' with no audience address.",
+   "b": "It reads like an essay. Use direct address and rhetorical questions."
+  },
+  {
+   "f": "Mistake: copying quotable phrases.",
+   "b": "Use your own words to show understanding."
+  },
+  {
+   "f": "Why leave time to proofread?",
+   "b": "Accuracy is part of the 25 writing marks."
+  },
+  {
+   "f": "Which texts to use for practice?",
+   "b": "An unseen real 0500 Paper 2 Section A with its mark scheme."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "You should spend about ___ minutes on Section A in total.",
+   "a": [
+    "60",
+    "sixty"
+   ]
+  },
+  {
+   "s": "In annotation, a question mark can signal ___.",
+   "a": [
+    "bias",
+    "assumption"
+   ]
+  },
+  {
+   "s": "State your ___ in the first paragraph.",
+   "a": [
+    "position",
+    "opinion",
+    "viewpoint",
+    "view"
+   ]
+  },
+  {
+   "s": "Every body paragraph needs at least one ___ comment.",
+   "a": [
+    "evaluative",
+    "evaluation"
+   ]
+  },
+  {
+   "s": "The conclusion should make a clear ___ or recommendation.",
+   "a": [
+    "judgement",
+    "judgment"
+   ]
+  },
+  {
+   "s": "You must use ideas from ___ texts.",
+   "a": [
+    "both",
+    "two",
+    "2"
+   ]
+  },
+  {
+   "s": "Section A requires about 300 to ___ words ideally.",
+   "a": [
+    "350"
+   ]
+  },
+  {
+   "s": "Leave time to ___ because accuracy is marked.",
+   "a": [
+    "proofread",
+    "check"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give the timing plan for Section A. [4]",
+   "model": "0-10 read and annotate, 10-20 plan, 20-50 write, 50-60 check.",
+   "points": [
+    "Read 0-10",
+    "Plan 10-20",
+    "Write 20-50",
+    "Check 50-60"
+   ]
+  },
+  {
+   "q": "Why is a 'speech' with no audience address a problem? [2]",
+   "model": "It does not follow the form and reads like an essay, so register and audience marks suffer.",
+   "points": [
+    "Form not followed",
+    "Audience/register"
+   ]
+  },
+  {
+   "q": "State three items from the self-check list. [3]",
+   "model": "Position stated early, evaluation in each body paragraph, both texts used.",
+   "points": [
+    "Position",
+    "Evaluation",
+    "Both texts/conclusion"
+   ]
+  },
+  {
+   "q": "Why must you not copy quotable phrases? [2]",
+   "model": "The task requires own words, and copying shows no understanding.",
+   "points": [
+    "Own words required",
+    "Lifting shows no understanding"
+   ]
+  },
+  {
+   "q": "What happens if you spend 25 minutes planning? [2]",
+   "model": "You rush the writing and may lose control or finish without a conclusion.",
+   "points": [
+    "Rushed writing",
+    "No time for checking/conclusion"
+   ]
+  }
+ ]
+}

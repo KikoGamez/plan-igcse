@@ -1,0 +1,167 @@
+{
+ "id": "bus-r1-11",
+ "cards": [
+  {
+   "f": "GDP and economic growth",
+   "b": "GDP: total value of goods and services produced in a country in one year. Economic growth: an increase in GDP."
+  },
+  {
+   "f": "Stages of the business cycle",
+   "b": "Growth, boom, recession, slump, then recovery."
+  },
+  {
+   "f": "Recession",
+   "b": "A period of falling GDP lasting six months or more. Sales and profits fall, unemployment rises."
+  },
+  {
+   "f": "Effect of a boom on businesses",
+   "b": "Demand is high, but costs (wages, materials) rise, recruitment is hard and inflation rises."
+  },
+  {
+   "f": "Inflation",
+   "b": "A general rise in prices in an economy. Raises business costs and cuts consumers' real incomes."
+  },
+  {
+   "f": "Fiscal policy",
+   "b": "Changes in taxes and government spending."
+  },
+  {
+   "f": "Monetary policy",
+   "b": "Changes in the interest rate (and money supply), usually set by the central bank."
+  },
+  {
+   "f": "Effect of higher interest rates on business",
+   "b": "Loan costs rise, less borrowing to expand, and consumers spend less (especially on goods bought on credit)."
+  },
+  {
+   "f": "Supply-side policies",
+   "b": "Make the economy more efficient: better education and training, privatisation, more competition, lower profit taxes."
+  },
+  {
+   "f": "External costs and social cost",
+   "b": "External costs are paid by society (pollution, noise). Social cost = private costs + external costs."
+  },
+  {
+   "f": "Sustainable development",
+   "b": "Meeting the needs of the present without reducing the ability of future generations to meet theirs."
+  },
+  {
+   "f": "Pressure group",
+   "b": "A group with a common interest that acts together to change policies of businesses or government (publicity, protests, boycotts)."
+  },
+  {
+   "f": "Globalisation",
+   "b": "The increasing worldwide trade and movement of people and capital between countries."
+  },
+  {
+   "f": "Tariff vs quota",
+   "b": "Tariff: a tax on imports. Quota: a limit on the quantity of a product that can be imported."
+  },
+  {
+   "f": "Exchange rate appreciation (SPICED)",
+   "b": "Strong currency: imports cheaper, exports dearer. A depreciation does the opposite: exports cheaper, imports dearer."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Total value of output of goods and services in a country in a year is ___ .",
+   "a": [
+    "gdp",
+    "gross domestic product"
+   ]
+  },
+  {
+   "s": "A general rise in prices is called ___ .",
+   "a": [
+    "inflation"
+   ]
+  },
+  {
+   "s": "Changes in taxes and government spending are called ___ policy.",
+   "a": [
+    "fiscal"
+   ]
+  },
+  {
+   "s": "Changes in interest rates are called ___ policy.",
+   "a": [
+    "monetary"
+   ]
+  },
+  {
+   "s": "A tax on imported goods is an import ___ .",
+   "a": [
+    "tariff"
+   ]
+  },
+  {
+   "s": "A physical limit on the quantity of imports is an import ___ .",
+   "a": [
+    "quota"
+   ]
+  },
+  {
+   "s": "If a currency rises in value against others, it has ___ .",
+   "a": [
+    "appreciated",
+    "appreciation"
+   ]
+  },
+  {
+   "s": "A 4% interest rate on a €200,000 loan means annual interest of € ___ .",
+   "a": [
+    "8000",
+    "8,000",
+    "€8,000"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how a rise in interest rates could affect a business that sells cars. [4]",
+   "model": "Customers who buy on credit face higher repayments, so demand for cars falls. The business also pays more on any loans, so costs rise and profit falls.",
+   "points": [
+    "customers borrow less / higher repayments",
+    "lower demand for cars",
+    "business loan interest costs rise",
+    "profit falls"
+   ]
+  },
+  {
+   "q": "Explain how a fall in the value of the euro affects a Spanish exporter selling in the USA. [3]",
+   "model": "Each euro buys fewer dollars, so the exporter's goods become cheaper for American customers. This makes the exports more competitive and sales may rise.",
+   "points": [
+    "exports cheaper abroad",
+    "more competitive",
+    "sales may rise"
+   ]
+  },
+  {
+   "q": "A Spanish firm sells a product for €60 in the USA. Calculate the US price when €1 = USD 1.20. [2]",
+   "model": "60 × 1.20 = USD 72.",
+   "points": [
+    "multiply by 1.20",
+    "USD 72"
+   ]
+  },
+  {
+   "q": "Explain one benefit and one cost to a business of reducing its pollution. [4]",
+   "model": "Benefit: better brand image attracts green customers and lowers fines. Cost: cleaner equipment and materials are expensive, which may raise prices.",
+   "points": [
+    "benefit (brand image/avoid fines/lower costs)",
+    "development",
+    "cost (expensive equipment/materials)",
+    "development: higher prices/less competitive"
+   ]
+  },
+  {
+   "q": "Explain how a government tariff on imported steel could affect a car maker that uses imported steel. [3]",
+   "model": "The tariff makes imported steel dearer, so the car maker's costs rise and profit falls unless prices go up. Prices may then reduce sales.",
+   "points": [
+    "steel costs rise",
+    "profit falls or prices rise",
+    "sales may fall"
+   ]
+  }
+ ]
+}

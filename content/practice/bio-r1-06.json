@@ -1,0 +1,35 @@
+{"id":"bio-r1-06",
+"cards":[
+{"f":"What is the circulatory system?","b":"A system of blood vessels with a pump (the heart) and valves to ensure one-way flow of blood."},
+{"f":"Single circulation of a fish","b":"Heart → gills → body → heart. Blood passes through the heart once per circuit, and pressure falls after the gills."},
+{"f":"Double circulation of a mammal","b":"Blood passes through the heart twice per circuit: pulmonary (heart → lungs → heart) and systemic (heart → body → heart)."},
+{"f":"Advantages of a double circulation","b":"Blood reaches the body at high pressure (faster delivery of oxygen and glucose); lungs get lower pressure so capillaries are not damaged."},
+{"f":"Trace the flow of blood through the heart","b":"Vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium → left ventricle → aorta."},
+{"f":"What is the septum, and what do valves do?","b":"Septum: separates left and right sides so blood does not mix. Valves: one-way, prevent backflow."},
+{"f":"What do coronary arteries do?","b":"Supply the heart muscle with oxygen and glucose."},
+{"f":"What causes coronary heart disease?","b":"Coronary arteries become blocked (fatty deposits, clot), so heart muscle gets less oxygen and glucose and may die."},
+{"f":"Risk factors for CHD","b":"Diet (saturated fat, salt), lack of exercise, stress, smoking, genetic predisposition, age, sex (more common in males)."},
+{"f":"Three ways to monitor heart activity","b":"ECG (electrocardiogram), pulse rate, listening to the sounds of valves closing."},
+{"f":"Why does heart rate rise during exercise?","b":"Muscles respire faster and need more oxygen and glucose and produce more CO₂, so the heart beats faster to deliver and remove them."},
+{"f":"Compare artery, vein and capillary","b":"Artery: thick wall, narrow lumen, high pressure. Vein: thin wall, wide lumen, valves. Capillary: one cell thick, very narrow, exchange."},
+{"f":"Pulmonary artery versus pulmonary vein","b":"Pulmonary artery: deoxygenated blood from heart to lungs. Pulmonary vein: oxygenated blood from lungs to heart."},
+{"f":"Functions of red cells, white cells, platelets and plasma","b":"Red: carry oxygen (haemoglobin). White: phagocytosis and antibodies. Platelets: clotting. Plasma: transports cells, ions, nutrients, urea, hormones, CO₂."},
+{"f":"Phagocyte versus lymphocyte","b":"Phagocyte: engulfs pathogens (phagocytosis). Lymphocyte: produces antibodies."}
+],
+"gaps":[
+{"s":"Blood is pumped away from the heart in ___ .","a":["arteries","artery"]},
+{"s":"The chamber with the thickest wall is the left ___ .","a":["ventricle"]},
+{"s":"The blood vessel that carries blood from the heart to the body is the ___ .","a":["aorta"]},
+{"s":"Capillary walls are one ___ thick.","a":["cell"]},
+{"s":"Veins contain ___ to prevent backflow of blood.","a":["valves"]},
+{"s":"The part of blood that carries urea and hormones is the ___ .","a":["plasma"]},
+{"s":"Red blood cells contain the protein ___ , which combines with oxygen.","a":["haemoglobin","hemoglobin"]},
+{"s":"Blood clotting prevents blood loss and the entry of ___ .","a":["pathogens","microorganisms","bacteria"]}
+],
+"short":[
+{"q":"Explain how the structure of an artery is related to the pressure of blood it carries. [3]","model":"Arteries carry blood at high pressure, so they have thick, muscular and elastic walls to withstand it and a narrow lumen.","points":["blood at high pressure","thick muscular / elastic wall withstands pressure","narrow lumen"]},
+{"q":"Explain how a capillary is adapted for exchange of substances. [3]","model":"Its wall is one cell thick, giving a short diffusion distance; there are many capillaries giving a large surface area; narrow lumen slows blood for exchange.","points":["wall one cell thick, short diffusion distance","very many, large surface area","narrow so blood flows slowly"]},
+{"q":"Describe the pathway of blood from the lungs to the body, naming the heart chambers and vessels. [3]","model":"Pulmonary vein → left atrium → left ventricle → aorta → body.","points":["pulmonary vein","left atrium then left ventricle","aorta"]},
+{"q":"Describe how diet and exercise can reduce the risk of coronary heart disease. [3]","model":"Eating less saturated fat and salt means fewer fatty deposits in arteries; regular exercise strengthens the heart, controls body mass and lowers blood pressure.","points":["less saturated fat / salt","fewer fatty deposits blocking coronary arteries","exercise strengthens heart / controls mass / lowers blood pressure"]},
+{"q":"Explain why the heart rate increases during exercise. [3]","model":"Muscles respire faster, needing more oxygen and glucose and producing more CO₂, so the heart beats faster to supply them and remove CO₂.","points":["muscles respire faster","need more oxygen and glucose / produce more CO₂","heart beats faster to deliver and remove"]}
+]}

@@ -1,0 +1,167 @@
+{
+ "id": "bus-r1-01",
+ "cards": [
+  {
+   "f": "Need vs want",
+   "b": "A need is essential for living (food, shelter). A want is something people would like but can live without (smartphone, holiday)."
+  },
+  {
+   "f": "Scarcity",
+   "b": "Unlimited wants but limited resources (factors of production) to produce goods and services."
+  },
+  {
+   "f": "Four factors of production",
+   "b": "Land (natural resources), labour (workers), capital (man-made goods like machines) and enterprise (risk-taking and organising)."
+  },
+  {
+   "f": "Specialisation",
+   "b": "People and businesses concentrate on what they are best at."
+  },
+  {
+   "f": "Division of labour",
+   "b": "Production is split into separate tasks, each done by a different worker."
+  },
+  {
+   "f": "Disadvantages of division of labour",
+   "b": "Repetitive work (boredom, low motivation); if one worker is absent the process can stop; workers less flexible."
+  },
+  {
+   "f": "Added value formula",
+   "b": "Selling price − cost of bought-in materials and components. It is NOT profit (wages and rent still to be paid)."
+  },
+  {
+   "f": "Two ways to increase added value",
+   "b": "Raise the price (branding, packaging, service) or cut the cost of materials (cheaper supplier, less waste)."
+  },
+  {
+   "f": "Primary, secondary, tertiary sectors",
+   "b": "Primary: extracting natural resources. Secondary: manufacturing and construction. Tertiary: services."
+  },
+  {
+   "f": "De-industrialisation",
+   "b": "Decline of the secondary sector in developed economies as the tertiary sector grows (rising incomes, foreign competition)."
+  },
+  {
+   "f": "Mixed economy",
+   "b": "An economy with both a private sector (owned by individuals/shareholders) and a public sector (owned by the government)."
+  },
+  {
+   "f": "Entrepreneur",
+   "b": "A person who organises, operates and takes the risk for a new business venture."
+  },
+  {
+   "f": "Limited vs unlimited liability",
+   "b": "Limited: owners can lose only the amount they invested. Unlimited: owners are personally responsible for all debts."
+  },
+  {
+   "f": "Private limited company vs plc",
+   "b": "Both have limited liability. Only a plc can sell shares to the public on the stock exchange. A plc is still private sector."
+  },
+  {
+   "f": "Franchise",
+   "b": "A business using the brand name, logos and trading methods of an existing successful business; the franchisee pays fees and royalties."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Money spent on a new oven cannot be spent on advertising; the advertising given up is the ___ cost.",
+   "a": [
+    "opportunity"
+   ]
+  },
+  {
+   "s": "A baker buys ingredients for €1.20 and sells the cake for €4.00, so the added value is € ___ .",
+   "a": [
+    "2.80",
+    "2.8",
+    "€2.80"
+   ]
+  },
+  {
+   "s": "Farming, fishing and mining are in the ___ sector.",
+   "a": [
+    "primary"
+   ]
+  },
+  {
+   "s": "The owner of a sole trader business has ___ liability.",
+   "a": [
+    "unlimited"
+   ]
+  },
+  {
+   "s": "A business that is owned by the government and provides a service is a public sector ___ .",
+   "a": [
+    "corporation",
+    "corporations"
+   ]
+  },
+  {
+   "s": "When a business is incorporated it has a separate ___ identity from its owners.",
+   "a": [
+    "legal"
+   ]
+  },
+  {
+   "s": "A joint venture is when two or more businesses work together on a ___ .",
+   "a": [
+    "project",
+    "particular project"
+   ]
+  },
+  {
+   "s": "In a partnership, the written agreement between partners is called a partnership ___ .",
+   "a": [
+    "deed",
+    "agreement"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why added value is not the same as profit. [2]",
+   "model": "Added value is selling price minus the cost of bought-in materials, so it ignores other costs. Wages, rent and other overheads must still be paid from it before profit is reached.",
+   "points": [
+    "added value only deducts materials/components",
+    "other costs (wages, rent) still to be paid"
+   ]
+  },
+  {
+   "q": "State two disadvantages of being a sole trader. [2]",
+   "model": "Unlimited liability and limited capital (also: long hours, no continuity).",
+   "points": [
+    "unlimited liability",
+    "limited finance / long hours / no continuity"
+   ]
+  },
+  {
+   "q": "Explain two reasons why the tertiary sector has grown in developed economies. [4]",
+   "model": "Rising incomes lead people to spend more on services such as tourism. Competition from lower-cost manufacturers abroad cuts secondary jobs, so workers move into services.",
+   "points": [
+    "rising incomes, more spending on services",
+    "foreign competition reduces manufacturing",
+    "workers move to services"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage to a franchisee of buying a franchise. [4]",
+   "model": "Advantage: well-known brand gives sales quickly and lower risk. Disadvantage: pays fees and royalties and has little freedom to change the business.",
+   "points": [
+    "advantage: established brand/support/lower risk",
+    "development of advantage",
+    "disadvantage: fees/royalties or little freedom",
+    "development of disadvantage"
+   ]
+  },
+  {
+   "q": "A business wants to raise $2 million for a new factory. Explain one reason why becoming a plc might help and one reason why it might not. [4]",
+   "model": "As a plc it can sell shares to the public to raise large sums with limited liability. However, it is costly to set up, must publish accounts and owners may lose control through takeover.",
+   "points": [
+    "can sell shares to the public / large capital",
+    "limited liability, no repayment",
+    "costly/publish accounts/takeover risk",
+    "loss of control by original owners"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "id": "eng-r1-03",
+ "cards": [
+  {
+   "f": "Summary: what are the marks and the word limit?",
+   "b": "15 marks (10 reading + 5 writing). No more than 120 words in continuous prose."
+  },
+  {
+   "f": "Which text is the summary based on?",
+   "b": "Text B, in Paper 1 Question 1 (final part)."
+  },
+  {
+   "f": "What is the 'focus' of a summary question?",
+   "b": "The topic you must summarise (e.g. benefits of rooftop gardens). Only ideas relevant to it earn marks."
+  },
+  {
+   "f": "Step-by-step method for the summary?",
+   "b": "Underline focus, read once, highlight ideas, plan in 2-4 words each, write from the plan, count words and cut."
+  },
+  {
+   "f": "Roughly how many ideas should you aim to find?",
+   "b": "10-15 separate relevant ideas."
+  },
+  {
+   "f": "What is 'generalising'?",
+   "b": "Turning a specific example into the general point it illustrates, e.g. 'heating bill fell by a fifth' -> cuts energy costs."
+  },
+  {
+   "f": "What should you leave out of a summary?",
+   "b": "Examples, statistics, names, quotations, anecdotes, repetition, and material outside the focus."
+  },
+  {
+   "f": "Why must you plan from your own notes?",
+   "b": "Writing from the plan, not the text, avoids lifting and helps own-words writing."
+  },
+  {
+   "f": "Should a summary have an introduction like 'This text is about...'?",
+   "b": "No. It wastes words. Start with the first idea; no opinion or conclusion."
+  },
+  {
+   "f": "What does a top level reading mark (10) need?",
+   "b": "A wide range of relevant ideas, clearly understood, focused on the question."
+  },
+  {
+   "f": "What does a top level writing mark (5) need?",
+   "b": "Concise, well organised, consistently own words, fluent."
+  },
+  {
+   "f": "What lowers the writing mark?",
+   "b": "Lifting, list-like writing, padding, repetition or exceeding the limit."
+  },
+  {
+   "f": "Does the writer's anecdote about their uncle count as a relevant idea?",
+   "b": "No. Personal anecdotes are not creditable; keep only the point behind examples."
+  },
+  {
+   "f": "If asked for 'benefits', should you include problems?",
+   "b": "No. Only the stated focus. Including drawbacks wastes words."
+  },
+  {
+   "f": "How can you save words when using own words?",
+   "b": "Use short replacements ('cool cities') and combine ideas in one sentence with a list."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A summary must be in ___ writing, not note form.",
+   "a": [
+    "continuous"
+   ]
+  },
+  {
+   "s": "The summary is based on Text ___.",
+   "a": [
+    "B"
+   ]
+  },
+  {
+   "s": "Turning a specific example into its general point is called ___.",
+   "a": [
+    "generalising",
+    "generalizing"
+   ]
+  },
+  {
+   "s": "The summary word limit is ___ words.",
+   "a": [
+    "120"
+   ]
+  },
+  {
+   "s": "The summary is marked out of ___.",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "Writing a summary from your plan rather than the text helps you avoid ___ phrases.",
+   "a": [
+    "lifting",
+    "lifted",
+    "copying"
+   ]
+  },
+  {
+   "s": "Material that is not about the focus is called ___ material.",
+   "a": [
+    "irrelevant"
+   ]
+  },
+  {
+   "s": "Summary reading marks are out of ___.",
+   "a": [
+    "10"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State two things you should leave out of a summary. [2]",
+   "model": "Examples or statistics, and personal anecdotes or material outside the focus.",
+   "points": [
+    "Any valid omission",
+    "Second valid omission"
+   ]
+  },
+  {
+   "q": "Turn this into a general summary point: 'Office workers report taking lunch among the tomatoes, returning calmer.' [1]",
+   "model": "They reduce stress.",
+   "points": [
+    "Example generalised, not copied",
+    "Idea: reduce stress/calmer"
+   ]
+  },
+  {
+   "q": "Explain why lifting phrases from the text loses marks. [2]",
+   "model": "The question asks for own words, so copying shows no understanding and lowers the writing mark.",
+   "points": [
+    "Own words required",
+    "Lifting hides understanding"
+   ]
+  },
+  {
+   "q": "A summary asks for 'advantages'. The writer includes a paragraph on drawbacks. What should you do with it? [2]",
+   "model": "Leave it out, because it is outside the focus. Including it wastes words.",
+   "points": [
+    "Not relevant to focus",
+    "Wastes words/no marks"
+   ]
+  },
+  {
+   "q": "Describe the five-step method for writing a summary. [4]",
+   "model": "Underline the focus, read once, highlight relevant ideas, make a plan in your own words, write from the plan and count words.",
+   "points": [
+    "Underline focus",
+    "Highlight/plan ideas",
+    "Write from plan in own words",
+    "Count words and cut"
+   ]
+  }
+ ]
+}

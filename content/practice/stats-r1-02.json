@@ -1,0 +1,165 @@
+{
+ "id": "stats-r1-02",
+ "cards": [
+  {
+   "f": "Angle for a pie chart sector",
+   "b": "(frequency ÷ total) × 360°. Shortcut: 360 ÷ total gives degrees per item."
+  },
+  {
+   "f": "Frequency from a pie chart angle",
+   "b": "(angle ÷ 360) × total number of items."
+  },
+  {
+   "f": "What a pie chart shows",
+   "b": "Proportions, not actual numbers. You cannot compare frequencies between two pie charts unless the totals are known."
+  },
+  {
+   "f": "Comparative pie chart radius formula",
+   "b": "Areas are in proportion to totals, so r₂ = r₁ × √(n₂ ÷ n₁)."
+  },
+  {
+   "f": "Common mistake with comparative pie charts",
+   "b": "Using the ratio of totals instead of its square root for the radius."
+  },
+  {
+   "f": "Two-way table check",
+   "b": "Row totals and column totals must both add to the grand total in the bottom-right corner."
+  },
+  {
+   "f": "Multiple (dual) bar chart",
+   "b": "Bars side by side, used to compare groups category by category."
+  },
+  {
+   "f": "Composite (stacked) bar chart",
+   "b": "Each bar is split into parts. Good for comparing totals and proportions."
+  },
+  {
+   "f": "Stem-and-leaf diagram rules",
+   "b": "Leaves in order, one digit per leaf, and always a key, e.g. 3 | 7 = 37."
+  },
+  {
+   "f": "Back-to-back stem-and-leaf",
+   "b": "Two data sets share one stem. Left leaves read right-to-left, so the key must show both sides."
+  },
+  {
+   "f": "Why use a stem-and-leaf diagram?",
+   "b": "It keeps the raw data and makes the median, mode, range and quartiles easy to find."
+  },
+  {
+   "f": "Population pyramid",
+   "b": "Back-to-back bar charts of males and females by age group, usually as percentages."
+  },
+  {
+   "f": "Pyramid with wide base, narrow top",
+   "b": "High birth rate, high death rate, short life expectancy. Typical of a less economically developed country."
+  },
+  {
+   "f": "Pyramid with narrow base, wide top",
+   "b": "Low birth rate, long life expectancy, ageing population. Typical of a more economically developed country."
+  },
+  {
+   "f": "Misleading features of diagrams",
+   "b": "Vertical axis not starting at zero, uneven scales, 3D effects, different-sized pictogram symbols, missing labels or key."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The angle of a pie chart sector = (frequency ÷ total) × ___ degrees.",
+   "a": [
+    "360",
+    "360°"
+   ]
+  },
+  {
+   "s": "In a survey of 90 people, 20 chose swimming. The pie chart angle for swimming is ___ degrees.",
+   "a": [
+    "80",
+    "80°"
+   ]
+  },
+  {
+   "s": "In a pie chart of 60 people, a sector of 90° represents ___ people.",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "The radii of comparative pie charts are in proportion to the square ___ of their totals.",
+   "a": [
+    "root",
+    "roots"
+   ]
+  },
+  {
+   "s": "A comparative pie chart for 50 items has radius 2 cm. A chart for 450 items has radius ___ cm.",
+   "a": [
+    "6",
+    "6 cm"
+   ]
+  },
+  {
+   "s": "A population pyramid with a wide base and a narrow top suggests a ___ birth rate.",
+   "a": [
+    "high"
+   ]
+  },
+  {
+   "s": "Every stem-and-leaf diagram must include a ___ .",
+   "a": [
+    "key"
+   ]
+  },
+  {
+   "s": "A bar chart in which each bar is split into parts is a ___ bar chart.",
+   "a": [
+    "composite",
+    "stacked",
+    "component"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "In a two-way table, 30 boys and 30 girls chose tea or coffee. 14 boys chose tea, 11 girls chose coffee, and 33 students chose tea in total. Find: boys who chose coffee, girls who chose tea, and total students who chose coffee. [3]",
+   "model": "Boys coffee = 30 − 14 = 16. Girls tea = 33 − 14 = 19. Coffee total = 16 + 11 = 27 (check: 33 + 27 = 60).",
+   "points": [
+    "boys coffee = 16",
+    "girls tea = 19",
+    "coffee total = 27"
+   ]
+  },
+  {
+   "q": "80 students chose a favourite subject. 14 chose Art. Calculate the angle for Art on a pie chart. [2]",
+   "model": "360 ÷ 80 = 4.5° per student, so Art = 14 × 4.5 = 63°.",
+   "points": [
+    "360 ÷ 80 or 14/80 × 360",
+    "63°"
+   ]
+  },
+  {
+   "q": "A pie chart for 150 sales in 2020 has radius 4 cm. Calculate the radius of the comparative pie chart for 600 sales in 2021. [2]",
+   "model": "r = 4 × √(600 ÷ 150) = 4 × 2 = 8 cm.",
+   "points": [
+    "4 × √(600/150)",
+    "8 cm"
+   ]
+  },
+  {
+   "q": "Draw an ordered stem-and-leaf diagram with a key for 41, 35, 52, 38, 47, 35, 44. Find the median. [3]",
+   "model": "3 | 5 5 8; 4 | 1 4 7; 5 | 2. Key: 3 | 5 = 35. Median = 4th value = 41.",
+   "points": [
+    "stems 3, 4, 5 with ordered leaves",
+    "key given",
+    "median 41"
+   ]
+  },
+  {
+   "q": "A population pyramid has a narrow base and a wide top. Describe what this shows about the population. [2]",
+   "model": "A small proportion of young people and a large proportion of older people: a low birth rate and long life expectancy (an ageing population).",
+   "points": [
+    "low birth rate / few young people",
+    "long life expectancy / many older people"
+   ]
+  }
+ ]
+}

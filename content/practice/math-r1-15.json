@@ -1,0 +1,169 @@
+{
+ "id": "math-r1-15",
+ "cards": [
+  {
+   "f": "Pythagoras' theorem",
+   "b": "a² + b² = c², where c is the hypotenuse (opposite the right angle, longest side)."
+  },
+  {
+   "f": "Finding the hypotenuse vs a shorter side",
+   "b": "Hypotenuse: add the squares then square root. Shorter side: subtract (c² − b²) then square root."
+  },
+  {
+   "f": "Pythagorean triples to know",
+   "b": "3-4-5, 5-12-13, 8-15-17, 7-24-25 and their multiples."
+  },
+  {
+   "f": "Converse of Pythagoras",
+   "b": "If a² + b² = c² for the sides, the triangle has a right angle."
+  },
+  {
+   "f": "SOHCAHTOA",
+   "b": "sin = opposite ÷ hypotenuse; cos = adjacent ÷ hypotenuse; tan = opposite ÷ adjacent."
+  },
+  {
+   "f": "Method for a trig question",
+   "b": "Label O, A, H; choose the ratio using the two sides involved; write the equation; rearrange."
+  },
+  {
+   "f": "How do you find an angle from two sides?",
+   "b": "Use the inverse function, e.g. θ = tan⁻¹(8 ÷ 11). Calculator in degrees."
+  },
+  {
+   "f": "Angle of elevation vs depression",
+   "b": "Elevation: measured up from the horizontal. Depression: measured down from the horizontal."
+  },
+  {
+   "f": "Link between depression and elevation",
+   "b": "Angle of depression from A to B = angle of elevation from B to A (alternate angles)."
+  },
+  {
+   "f": "Three rules for bearings",
+   "b": "Measured from north, clockwise, written with three figures (e.g. 045°)."
+  },
+  {
+   "f": "Back bearing",
+   "b": "Bearing of A from B = bearing of B from A ± 180°. Example: 125° gives 305°."
+  },
+  {
+   "f": "Bearing of B from A: where do you stand?",
+   "b": "At A, facing north, then turn clockwise to B."
+  },
+  {
+   "f": "East and north components of a journey d on bearing θ",
+   "b": "East = d sin θ, north = d cos θ (for 0° < θ < 90°)."
+  },
+  {
+   "f": "Trap: what if the triangle is not right-angled?",
+   "b": "SOHCAHTOA does not apply; use the sine or cosine rule."
+  },
+  {
+   "f": "Accuracy for scale drawings",
+   "b": "±2 mm for lengths and ±2° for angles."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A right-angled triangle has shorter sides 8 cm and 15 cm. The hypotenuse is ___ cm.",
+   "a": [
+    "17"
+   ]
+  },
+  {
+   "s": "A right-angled triangle has hypotenuse 25 cm and one side 7 cm. The other side is ___ cm.",
+   "a": [
+    "24"
+   ]
+  },
+  {
+   "s": "sin θ = opposite ÷ ___ .",
+   "a": [
+    "hypotenuse",
+    "the hypotenuse",
+    "hyp"
+   ]
+  },
+  {
+   "s": "The bearing of B from A is 130°. The bearing of A from B is ___ degrees.",
+   "a": [
+    "310",
+    "310°"
+   ]
+  },
+  {
+   "s": "A bearing of 45° should be written with three figures as ___ .",
+   "a": [
+    "045",
+    "045°"
+   ]
+  },
+  {
+   "s": "A right-angled triangle has opposite side 6 and adjacent side 8. The angle is ___ degrees (1 d.p.).",
+   "a": [
+    "36.9",
+    "36.9°"
+   ]
+  },
+  {
+   "s": "A ship sails 10 km on a bearing of 030°. It has gone ___ km north (3 s.f.).",
+   "a": [
+    "8.66",
+    "8.66 km"
+   ]
+  },
+  {
+   "s": "tan θ = opposite ÷ ___ .",
+   "a": [
+    "adjacent",
+    "the adjacent",
+    "adj"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Show that a triangle with sides 9 cm, 12 cm and 15 cm is right-angled.",
+   "model": "9² + 12² = 81 + 144 = 225 = 15², so by the converse of Pythagoras it is right-angled.",
+   "points": [
+    "9² + 12² = 225",
+    "15² = 225",
+    "Equal, so right-angled"
+   ]
+  },
+  {
+   "q": "A right-angled triangle has hypotenuse 15 cm. One angle is 40° and x is the side opposite it. Find x to 3 s.f.",
+   "model": "sin 40° = x ÷ 15, so x = 15 sin 40° = 9.64 cm.",
+   "points": [
+    "sin 40° = x/15",
+    "x = 15 sin 40°",
+    "9.64 cm"
+   ]
+  },
+  {
+   "q": "From a point 50 m from the base of a tower on level ground, the angle of elevation of the top is 28°. Find the height of the tower.",
+   "model": "tan 28° = h ÷ 50, so h = 50 tan 28° = 26.6 m.",
+   "points": [
+    "tan 28° = h/50",
+    "h = 50 tan 28°",
+    "26.6 m"
+   ]
+  },
+  {
+   "q": "The bearing of B from A is 125°. Find the bearing of A from B.",
+   "model": "125° + 180° = 305°.",
+   "points": [
+    "Add (or subtract) 180°",
+    "305°"
+   ]
+  },
+  {
+   "q": "A rectangle measures 24 cm by 7 cm. Find the length of a diagonal and the angle it makes with the longer side.",
+   "model": "Diagonal = √(24² + 7²) = 25 cm. Angle = tan⁻¹(7 ÷ 24) = 16.3°.",
+   "points": [
+    "√(576 + 49) = 25 cm",
+    "tan θ = 7/24",
+    "16.3°"
+   ]
+  }
+ ]
+}

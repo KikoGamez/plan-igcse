@@ -1,0 +1,35 @@
+{"id":"bio-r1-11",
+"cards":[
+{"f":"Define asexual reproduction","b":"A process producing genetically identical offspring from one parent. Examples: bacterial division, potato tubers, strawberry runners."},
+{"f":"Define sexual reproduction","b":"Fusion of the nuclei of two gametes to form a zygote; offspring are genetically different from each other."},
+{"f":"Define species","b":"A group of organisms that can reproduce to produce fertile offspring."},
+{"f":"Haploid and diploid nuclei","b":"Gamete nuclei are haploid (one set of chromosomes); the zygote nucleus is diploid (two sets)."},
+{"f":"Functions of anther, stigma, ovary and ovule","b":"Anther: makes pollen. Stigma: receives pollen. Ovary: contains the ovules. Ovule: contains the female gamete."},
+{"f":"Define pollination and fertilisation in plants","b":"Pollination: transfer of pollen from an anther to a stigma. Fertilisation: a pollen nucleus fuses with a nucleus in an ovule."},
+{"f":"Features of an insect-pollinated flower","b":"Large, brightly coloured, scented petals; nectar; anthers and stigma inside the flower; sticky or spiky pollen."},
+{"f":"Features of a wind-pollinated flower","b":"Small dull petals; no nectar or scent; anthers hang outside; large feathery stigmas outside; large amounts of light pollen."},
+{"f":"Three conditions needed for seed germination","b":"Water, oxygen and a suitable temperature. Light is not needed."},
+{"f":"Functions of testes, scrotum, prostate gland, urethra","b":"Testes: make sperm and testosterone. Scrotum: holds testes where it is cooler. Prostate: adds fluid. Urethra: carries semen/urine out."},
+{"f":"Functions of ovary, oviduct, uterus, cervix","b":"Ovary: makes eggs and oestrogen. Oviduct: carries egg; fertilisation site. Uterus: embryo develops. Cervix: muscle ring at base of uterus."},
+{"f":"Adaptations of a sperm cell","b":"Flagellum to swim; many mitochondria for energy; enzymes in the acrosome digest the egg's jelly coat."},
+{"f":"Adaptations of an egg cell","b":"Large cytoplasm with energy stores; jelly coat changes at fertilisation to stop more than one sperm entering."},
+{"f":"Role of testosterone and oestrogen at puberty","b":"Control secondary sexual characteristics: testosterone (testes) in males; oestrogen (ovaries) in females."},
+{"f":"What is an STI, and how is HIV spread?","b":"STI: infection passed on by sexual contact. HIV spreads by sexual contact, blood (shared needles) and mother to baby; it may lead to AIDS."}
+],
+"gaps":[
+{"s":"Asexual reproduction produces offspring that are genetically ___ to the parent.","a":["identical"]},
+{"s":"The fusion of two gametes produces a ___ .","a":["zygote"]},
+{"s":"The male part of a flower made of an anther and a filament is the ___ .","a":["stamen"]},
+{"s":"Pollen is made in the ___ .","a":["anther","anthers"]},
+{"s":"The release of an egg from the ovary is called ___ .","a":["ovulation"]},
+{"s":"Fertilisation in humans happens in the ___ .","a":["oviduct","oviducts","fallopian tube"]},
+{"s":"The testes are held in the ___ , where it is cooler than the body.","a":["scrotum"]},
+{"s":"Sperm cells are haploid and a zygote is ___ .","a":["diploid"]}
+],
+"short":[
+{"q":"Compare the structure of an insect-pollinated flower with a wind-pollinated flower. [3]","model":"Insect-pollinated flowers have large, coloured, scented petals and nectar with anthers inside; wind-pollinated flowers have small petals, anthers hanging outside and large feathery stigmas.","points":["petals large/scented versus small/dull","anthers inside versus hanging outside","stigma sticky inside versus large feathery outside"]},
+{"q":"Explain why oxygen is needed for seed germination. [2]","model":"Oxygen is needed for aerobic respiration, which releases energy for growth of the seedling.","points":["aerobic respiration","releases energy for growth"]},
+{"q":"State one advantage and one disadvantage of sexual reproduction in a wild population. [2]","model":"Advantage: genetic variation, so some survive environmental change or disease. Disadvantage: needs two parents and is slower.","points":["variation helps survival / natural selection","needs two parents / slower"]},
+{"q":"Describe what happens to the uterus lining and ovary during one menstrual cycle. [3]","model":"The lining breaks down in menstruation, then thickens again; an egg is released from the ovary at about day 14 and the lining stays thick, breaking down if the egg is not fertilised.","points":["lining breaks down (menstruation)","lining thickens","ovulation at about day 14"]},
+{"q":"State three ways in which the spread of STIs can be controlled. [3]","model":"Use condoms, limit the number of sexual partners, and test and treat infected people.","points":["condoms","fewer sexual partners","testing and treating / screening blood / no shared needles"]}
+]}

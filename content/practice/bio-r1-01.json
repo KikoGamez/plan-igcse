@@ -1,0 +1,35 @@
+{"id":"bio-r1-01",
+"cards":[
+{"f":"Define movement (characteristic of living organisms)","b":"An action by an organism or part of an organism causing a change of position or place."},
+{"f":"Define respiration","b":"The chemical reactions in cells that break down nutrient molecules and release energy for metabolism. Energy is released, never 'made'."},
+{"f":"Define sensitivity","b":"The ability to detect and respond to changes in the internal or external environment."},
+{"f":"Define growth","b":"A permanent increase in size and dry mass. 'Getting bigger' alone is not enough."},
+{"f":"Define reproduction","b":"The processes that make more of the same kind of organism."},
+{"f":"Define excretion","b":"The removal of waste products of metabolism and substances in excess of requirements."},
+{"f":"Define nutrition","b":"The taking in of materials for energy, growth and development."},
+{"f":"Magnification formula","b":"Magnification = image size ÷ actual size. It has no units; write it as ×400, for example."},
+{"f":"Convert mm to µm, and µm to mm","b":"1 mm = 1000 µm. mm → µm: × 1000. µm → mm: ÷ 1000. Use the same unit for both sizes before dividing."},
+{"f":"Which structures does a bacterial cell have?","b":"Cell wall (not cellulose), cell membrane, cytoplasm, ribosomes, circular DNA and plasmids. No nucleus, mitochondria or chloroplasts."},
+{"f":"Function of the nucleus","b":"Contains the genetic material (chromosomes / DNA) that controls the cell's activities."},
+{"f":"Function of mitochondria and ribosomes","b":"Mitochondria: aerobic respiration (release energy). Ribosomes: protein synthesis."},
+{"f":"Plant cell structures not found in animal cells","b":"Cellulose cell wall, chloroplasts (some cells) and a large permanent vacuole with cell sap. Plant cells DO have mitochondria."},
+{"f":"Order of levels of organisation","b":"Cell → tissue → organ → organ system → organism. Xylem is a tissue; the heart and the leaf are organs."},
+{"f":"How is a red blood cell adapted to carry oxygen?","b":"Contains haemoglobin; no nucleus (more room for haemoglobin); biconcave shape gives a large surface area."}
+],
+"gaps":[
+{"s":"New cells are produced by the division of ___ cells.","a":["existing","pre-existing","other"]},
+{"s":"The plant cell wall is made of ___ .","a":["cellulose"]},
+{"s":"A group of similar cells working together to perform a shared function is called a ___ .","a":["tissue"]},
+{"s":"The small rings of DNA found in bacterial cells are called ___ .","a":["plasmids","plasmid"]},
+{"s":"A drawing that is 60 mm long shows a seed that is really 12 mm long, so the magnification is × ___ .","a":["5"]},
+{"s":"1 mm is equal to ___ micrometres.","a":["1000","1 000","1000 µm","1000 micrometres"]},
+{"s":"Cilia on ciliated cells move ___ in the trachea and bronchi.","a":["mucus"]},
+{"s":"The pigment inside chloroplasts that is needed for photosynthesis is ___ .","a":["chlorophyll"]}
+],
+"short":[
+{"q":"State three structures found in a plant cell but not in an animal cell. [3]","model":"A cellulose cell wall, chloroplasts and a large permanent vacuole containing cell sap.","points":["cell wall (cellulose)","chloroplasts","large permanent vacuole"]},
+{"q":"A white blood cell is 12 µm across. In a diagram it is 36 mm across. Calculate the magnification. [2]","model":"36 mm = 36 000 µm; 36 000 ÷ 12 = ×3000.","points":["convert to the same units (36 mm = 36 000 µm)","36 000 ÷ 12 = ×3000"]},
+{"q":"A bacterium appears 24 mm long in an image with magnification ×12 000. Calculate its actual length in µm. [2]","model":"24 ÷ 12 000 = 0.002 mm, which is 2 µm.","points":["actual size = image size ÷ magnification = 0.002 mm","× 1000 to give 2 µm"]},
+{"q":"State three differences between a bacterial cell and an animal cell. [3]","model":"Bacteria have no nucleus (circular DNA instead), have a cell wall and plasmids, and have no mitochondria.","points":["no nucleus / circular DNA, animal has a nucleus","bacterium has a cell wall, animal cell does not","bacterium has plasmids","no mitochondria in bacterium"]},
+{"q":"A car moves and uses fuel. Explain why a car is not a living organism. [2]","model":"A living organism shows all seven characteristics. A car does not grow, reproduce, respire in cells or respond like an organism does.","points":["living things show all seven characteristics (MRS GREN)","car does not grow / reproduce / excrete / show sensitivity"]}
+]}

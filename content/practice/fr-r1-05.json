@@ -1,0 +1,163 @@
+{
+ "id": "fr-r1-05",
+ "cards": [
+  {
+   "f": "soixante-dix / quatre-vingts / quatre-vingt-dix",
+   "b": "70 / 80 / 90."
+  },
+  {
+   "f": "Il est huit heures et quart / et demie / moins le quart",
+   "b": "8.15 / 8.30 / 7.45."
+  },
+  {
+   "f": "le goûter",
+   "b": "afternoon snack."
+  },
+  {
+   "f": "l'addition (f)",
+   "b": "the bill (in a restaurant)."
+  },
+  {
+   "f": "passer un examen",
+   "b": "to sit an exam (false friend). To pass is réussir."
+  },
+  {
+   "f": "le collège / le lycée",
+   "b": "secondary school (11–15) / sixth-form (15–18). Not 'college'."
+  },
+  {
+   "f": "la librairie",
+   "b": "bookshop (library = la bibliothèque)."
+  },
+  {
+   "f": "sensible",
+   "b": "sensitive (sensible = raisonnable)."
+  },
+  {
+   "f": "actuellement",
+   "b": "currently (actually = en fait)."
+  },
+  {
+   "f": "embarrassé(e)",
+   "b": "embarrassed (not pregnant, unlike Spanish embarazada)."
+  },
+  {
+   "f": "J'ai mal à la tête / au ventre / à la gorge",
+   "b": "I have a headache / stomach ache / sore throat."
+  },
+  {
+   "f": "la malbouffe",
+   "b": "junk food."
+  },
+  {
+   "f": "s'entendre bien avec / se disputer avec",
+   "b": "to get on well with / to argue with."
+  },
+  {
+   "f": "célibataire / divorcé(e) / marié(e)",
+   "b": "single / divorced / married."
+  },
+  {
+   "f": "Opinion phrases: À mon avis, Je pense que, Ce que je préfère, c'est…",
+   "b": "In my opinion, I think that, What I prefer is…"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Quatre-vingt-dix means ___ .",
+   "a": [
+    "90",
+    "ninety"
+   ]
+  },
+  {
+   "s": "Il est huit heures moins le quart = 7.___ .",
+   "a": [
+    "45"
+   ]
+  },
+  {
+   "s": "En français, passer un examen veut dire to ___ an exam.",
+   "a": [
+    "sit",
+    "take"
+   ]
+  },
+  {
+   "s": "Le ___ is the afternoon snack.",
+   "a": [
+    "goûter",
+    "gouter"
+   ]
+  },
+  {
+   "s": "Pour payer au restaurant, on demande l'___ .",
+   "a": [
+    "addition"
+   ]
+  },
+  {
+   "s": "Ma sœur n'a pas de frère ni de sœur: elle est fille ___ .",
+   "a": [
+    "unique"
+   ]
+  },
+  {
+   "s": "Je suis fort en maths = I am ___ at maths.",
+   "a": [
+    "good",
+    "strong"
+   ]
+  },
+  {
+   "s": "Au rez-de-chaussée means on the ___ floor.",
+   "a": [
+    "ground"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the meaning of these false friends: (a) passer un examen (b) la librairie. [2]",
+   "model": "(a) to sit an exam, not to pass it. (b) a bookshop, not a library.",
+   "points": [
+    "(a) sit an exam (1)",
+    "(b) bookshop (1)"
+   ]
+  },
+  {
+   "q": "Listening: « Le matin, je prends des céréales avec du lait. À midi, je mange à la cantine. Le soir, on dîne vers huit heures. » Où mange-t-il à midi ? À quelle heure dîne-t-il ? [2]",
+   "model": "Il mange à la cantine. Il dîne vers huit heures (20 h).",
+   "points": [
+    "À la cantine (1)",
+    "Vers huit heures / 20 h (1)"
+   ]
+  },
+  {
+   "q": "Describe your best friend in French in three sentences. [3]",
+   "model": "Ma meilleure amie s'appelle Lucía. Elle est grande et elle a les cheveux longs et noirs. Elle est drôle et généreuse.",
+   "points": [
+    "Name or relationship (1)",
+    "Physical description with agreement (1)",
+    "Personality adjectives (1)"
+   ]
+  },
+  {
+   "q": "Give two opinion phrases and use one with a reason about school. [3]",
+   "model": "À mon avis, le collège est utile parce que les profs sont sympas.",
+   "points": [
+    "Two opinion phrases (1)",
+    "Opinion about school (1)",
+    "Reason with parce que (1)"
+   ]
+  },
+  {
+   "q": "Translate: 'I have a stomach ache and I am ill.' [2]",
+   "model": "J'ai mal au ventre et je suis malade.",
+   "points": [
+    "J'ai mal au ventre (1)",
+    "je suis malade (1)"
+   ]
+  }
+ ]
+}

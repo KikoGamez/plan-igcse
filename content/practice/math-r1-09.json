@@ -1,0 +1,167 @@
+{
+ "id": "math-r1-09",
+ "cards": [
+  {
+   "f": "Gradient from two points",
+   "b": "m = (y₂ − y₁)/(x₂ − x₁)."
+  },
+  {
+   "f": "Midpoint of two points",
+   "b": "((x₁ + x₂)/2, (y₁ + y₂)/2)."
+  },
+  {
+   "f": "Length of a line segment",
+   "b": "√((x₂ − x₁)² + (y₂ − y₁)²) (Pythagoras)."
+  },
+  {
+   "f": "Parallel and perpendicular gradients",
+   "b": "Parallel: same gradient. Perpendicular: m₁ × m₂ = −1 (negative reciprocal, 2 → −1/2)."
+  },
+  {
+   "f": "Equation of a line through two points",
+   "b": "Find m, substitute one point into y = mx + c to find c."
+  },
+  {
+   "f": "Gradient of 2x + 3y = 12",
+   "b": "Rearrange: y = −(2/3)x + 4, so gradient −2/3 (not 2)."
+  },
+  {
+   "f": "Shape of y = x² − 2x − 3",
+   "b": "Parabola (∪ since a > 0), one turning point, symmetrical."
+  },
+  {
+   "f": "Shape of y = 4/x",
+   "b": "Two separate branches with asymptotes x = 0 and y = 0. Do not join across the asymptote."
+  },
+  {
+   "f": "Shape of y = 2ˣ",
+   "b": "Passes through (0, 1), rises steeply, asymptote y = 0 (the x-axis)."
+  },
+  {
+   "f": "Cubic graph features",
+   "b": "S-shaped with up to two turning points. y = x³ rises left to right; y = −x³ falls."
+  },
+  {
+   "f": "Where is the line of symmetry of a quadratic?",
+   "b": "Halfway between the roots, x = −b/(2a)."
+  },
+  {
+   "f": "Solve f(x) = 0 graphically",
+   "b": "Read the x-coordinates where the curve crosses the x-axis."
+  },
+  {
+   "f": "Solve f(x) = k graphically",
+   "b": "Draw the horizontal line y = k and read the x-coordinates of the intersections."
+  },
+  {
+   "f": "Finding the line to draw to solve a new equation",
+   "b": "Subtract the new equation's left side from the curve's equation. Curve y = x² − 2x − 3, solve x² − 4x + 1 = 0: line y = 2x − 4."
+  },
+  {
+   "f": "Drawing the curve from a table",
+   "b": "Plot every point accurately and join with a smooth curve (not ruled segments). Bracket negatives on the calculator."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The gradient of the line through (1, 2) and (3, 8) is ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "The x-coordinate of the midpoint of (2, 4) and (8, 10) is ___.",
+   "a": [
+    "5"
+   ]
+  },
+  {
+   "s": "A line perpendicular to a line with gradient 4 has gradient ___.",
+   "a": [
+    "-1/4",
+    "−1/4",
+    "-0.25",
+    "−0.25"
+   ]
+  },
+  {
+   "s": "The distance between (0, 0) and (6, 8) is ___.",
+   "a": [
+    "10"
+   ]
+  },
+  {
+   "s": "The graph of y = 3/x has asymptotes x = 0 and y = ___.",
+   "a": [
+    "0"
+   ]
+  },
+  {
+   "s": "The graph of y = x² + 4x − 5 crosses the y-axis at y = ___.",
+   "a": [
+    "-5",
+    "−5"
+   ]
+  },
+  {
+   "s": "The graph of y = 2ˣ passes through (0, ___).",
+   "a": [
+    "1"
+   ]
+  },
+  {
+   "s": "The gradient of the line 2x + y = 8 is ___.",
+   "a": [
+    "-2",
+    "−2"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Find the equation of the line through (2, 3) and (6, 11).",
+   "model": "m = 8/4 = 2, then 3 = 2(2) + c gives c = −1: y = 2x − 1.",
+   "points": [
+    "Gradient 2",
+    "Substitute a point to find c",
+    "y = 2x − 1"
+   ]
+  },
+  {
+   "q": "Find the equation of the line perpendicular to y = 2x + 1 that passes through (4, 1).",
+   "model": "Gradient −1/2; 1 = −2 + c gives c = 3: y = −(1/2)x + 3.",
+   "points": [
+    "Perpendicular gradient −1/2",
+    "Substitute (4, 1)",
+    "y = −(1/2)x + 3"
+   ]
+  },
+  {
+   "q": "A is (−1, 2) and B is (4, 14). Find the length of AB and the midpoint of AB.",
+   "model": "Length = √(5² + 12²) = 13. Midpoint = (1.5, 8).",
+   "points": [
+    "Differences 5 and 12",
+    "Length 13",
+    "Midpoint (1.5, 8)"
+   ]
+  },
+  {
+   "q": "The graph of y = x² − 3x is drawn. Find the equation of the straight line to draw to solve x² − 4x + 2 = 0.",
+   "model": "(x² − 3x) − (x² − 4x + 2) = x − 2, so draw y = x − 2.",
+   "points": [
+    "Subtract the new equation's left side from the curve",
+    "Simplify to x − 2",
+    "y = x − 2"
+   ]
+  },
+  {
+   "q": "A quadratic y = (x + 1)(x − 5) has roots −1 and 5. Find its line of symmetry and its turning point.",
+   "model": "Line of symmetry x = 2. At x = 2, y = 3 × (−3) = −9, so the turning point is (2, −9).",
+   "points": [
+    "Symmetry halfway: x = 2",
+    "Substitute x = 2",
+    "(2, −9)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "id": "phys-r1-06",
+ "cards": [
+  {
+   "f": "Wave motion transfers...",
+   "b": "Energy, without transferring matter."
+  },
+  {
+   "f": "Wavelength",
+   "b": "Distance between a point on one wave and the same point on the next (e.g. crest to crest)."
+  },
+  {
+   "f": "Amplitude",
+   "b": "Maximum displacement from the rest position (centre line to crest, not crest to trough)."
+  },
+  {
+   "f": "Frequency",
+   "b": "Number of waves passing a point per second; unit hertz (Hz)."
+  },
+  {
+   "f": "Wave speed equation",
+   "b": "v = fλ (m/s, Hz, m)."
+  },
+  {
+   "f": "Period and frequency",
+   "b": "T = 1 ÷ f. Time for one complete wave."
+  },
+  {
+   "f": "Transverse wave",
+   "b": "Vibration at right angles to direction of travel; e.g. light, water waves, S-waves."
+  },
+  {
+   "f": "Longitudinal wave",
+   "b": "Vibration parallel to direction of travel; e.g. sound, P-waves. Has compressions and rarefactions."
+  },
+  {
+   "f": "What happens to a water wave entering shallow water?",
+   "b": "It slows down and wavelength decreases; frequency is unchanged."
+  },
+  {
+   "f": "Which quantity never changes when a wave reflects, refracts or diffracts?",
+   "b": "Frequency (set by the source)."
+  },
+  {
+   "f": "When is diffraction greatest?",
+   "b": "When the gap is about the same size as the wavelength (a narrower gap or a longer wavelength gives more spreading)."
+  },
+  {
+   "f": "Audible range of human hearing",
+   "b": "About 20 Hz to 20 000 Hz (20 kHz)."
+  },
+  {
+   "f": "Ultrasound",
+   "b": "Sound with frequency above 20 kHz."
+  },
+  {
+   "f": "Loudness and pitch",
+   "b": "Louder = larger amplitude. Higher pitch = higher frequency."
+  },
+  {
+   "f": "Echo calculation trap",
+   "b": "Sound goes there and back: distance travelled = 2 × distance to the reflector."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A wave with frequency 50 Hz and wavelength 6.0 m has a speed of ___ m/s.",
+   "a": [
+    "300"
+   ]
+  },
+  {
+   "s": "Sound waves are ___ waves, with compressions and rarefactions.",
+   "a": [
+    "longitudinal"
+   ]
+  },
+  {
+   "s": "Sound cannot travel through a ___ .",
+   "a": [
+    "vacuum"
+   ]
+  },
+  {
+   "s": "A higher-pitched note has a higher ___ .",
+   "a": [
+    "frequency"
+   ]
+  },
+  {
+   "s": "Sound travels fastest in a ___ (solid, liquid or gas).",
+   "a": [
+    "solid",
+    "solids"
+   ]
+  },
+  {
+   "s": "The time for one complete wave is called the ___ .",
+   "a": [
+    "period"
+   ]
+  },
+  {
+   "s": "A wave has frequency 4.0 Hz, so its period is ___ s.",
+   "a": [
+    "0.25",
+    "1/4"
+   ]
+  },
+  {
+   "s": "Sound of frequency above 20 kHz is called ___ .",
+   "a": [
+    "ultrasound",
+    "ultrasonic"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Sound travels at 340 m/s. A person hears an echo 0.50 s after clapping. Calculate the distance to the wall.",
+   "model": "Distance there and back = 340 × 0.50 = 170 m, so the wall is 85 m away.",
+   "points": [
+    "total distance = v × t = 170 m",
+    "divide by 2",
+    "85 m"
+   ]
+  },
+  {
+   "q": "Describe how to measure the speed of sound in air using two observers.",
+   "model": "One observer fires a starting pistol; the other, at least 100 m away, times from the flash to hearing the bang. Speed = distance ÷ time. Repeat and average.",
+   "points": [
+    "measured distance (≥100 m)",
+    "time from flash to bang with stopwatch",
+    "speed = distance ÷ time; repeat"
+   ]
+  },
+  {
+   "q": "State two differences between a transverse and a longitudinal wave, giving an example of each.",
+   "model": "Transverse: vibrations perpendicular to travel, has crests and troughs (e.g. light). Longitudinal: vibrations parallel to travel, has compressions and rarefactions (e.g. sound).",
+   "points": [
+    "direction of vibration compared with travel",
+    "crests/troughs vs compressions/rarefactions",
+    "one correct example each"
+   ]
+  },
+  {
+   "q": "Explain why you can hear someone around a corner but not see them.",
+   "model": "Sound has a wavelength similar to the width of the doorway so it diffracts a lot; light has a much smaller wavelength so it hardly diffracts.",
+   "points": [
+    "sound wavelength ≈ gap size, diffracts",
+    "light wavelength much smaller, little diffraction"
+   ]
+  },
+  {
+   "q": "A student sees two traces on an oscilloscope. Trace B is taller with more waves on screen than trace A. Compare the sounds.",
+   "model": "B is louder because its amplitude is larger, and has a higher pitch because its frequency is higher.",
+   "points": [
+    "taller means larger amplitude, louder",
+    "more waves means higher frequency, higher pitch"
+   ]
+  }
+ ]
+}

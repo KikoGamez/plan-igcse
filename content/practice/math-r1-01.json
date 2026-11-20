@@ -1,0 +1,163 @@
+{
+ "id": "math-r1-01",
+ "cards": [
+  {
+   "f": "What is a prime number?",
+   "b": "A number with exactly two factors: 1 and itself. 1 is not prime; 2 is the only even prime."
+  },
+  {
+   "f": "Rational vs irrational number",
+   "b": "Rational: can be written as a/b (integers, b ≠ 0), e.g. 0.125, √16. Irrational: decimal never ends or repeats, e.g. π, √2."
+  },
+  {
+   "f": "How do you find the HCF from prime factors?",
+   "b": "Multiply the primes common to both numbers, using the lowest power of each."
+  },
+  {
+   "f": "How do you find the LCM from prime factors?",
+   "b": "Multiply every prime that appears, using the highest power of each."
+  },
+  {
+   "f": "Triangle number formula and first five",
+   "b": "½n(n + 1): 1, 3, 6, 10, 15."
+  },
+  {
+   "f": "First six cube numbers",
+   "b": "1, 8, 27, 64, 125, 216."
+  },
+  {
+   "f": "a⁰ = ? and a⁻ⁿ = ?",
+   "b": "a⁰ = 1 and a⁻ⁿ = 1/aⁿ (a negative index means reciprocal, not a negative number)."
+  },
+  {
+   "f": "a^(m/n) = ?",
+   "b": "(ⁿ√a)ᵐ : take the root (denominator) first, then the power (numerator)."
+  },
+  {
+   "f": "Order for 16^(−3/4)",
+   "b": "Reciprocal, then root, then power: 1/(⁴√16)³ = 1/2³ = 1/8."
+  },
+  {
+   "f": "(aᵐ)ⁿ and aᵐ × aⁿ",
+   "b": "(aᵐ)ⁿ = aᵐⁿ (multiply indices); aᵐ × aⁿ = aᵐ⁺ⁿ (add indices)."
+  },
+  {
+   "f": "Is √a + √b = √(a + b)?",
+   "b": "No. That is a common mistake. √a × √b = √(ab), but addition does not combine."
+  },
+  {
+   "f": "How do you simplify √72?",
+   "b": "Pull out the largest square factor: √36 × √2 = 6√2."
+  },
+  {
+   "f": "How do you rationalise 5/√3?",
+   "b": "Multiply top and bottom by √3: 5√3/3."
+  },
+  {
+   "f": "What do you multiply by to rationalise 1/(a + √b)?",
+   "b": "The conjugate (a − √b). Then (a + √b)(a − √b) = a² − b, so the surd disappears."
+  },
+  {
+   "f": "Method to turn 0.7777… into a fraction",
+   "b": "x = 0.777…, 10x = 7.777…, subtract: 9x = 7, so x = 7/9."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The only even prime number is ___.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "The highest common factor of 24 and 36 is ___.",
+   "a": [
+    "12"
+   ]
+  },
+  {
+   "s": "The lowest common multiple of 6 and 8 is ___.",
+   "a": [
+    "24"
+   ]
+  },
+  {
+   "s": "81^(3/4) = ___.",
+   "a": [
+    "27"
+   ]
+  },
+  {
+   "s": "√48 simplifies to ___ × √3.",
+   "a": [
+    "4"
+   ]
+  },
+  {
+   "s": "(5/2)⁻² = ___.",
+   "a": [
+    "4/25",
+    "0.16"
+   ]
+  },
+  {
+   "s": "(√7 + 2)(√7 − 2) = ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "The recurring decimal 0.777… written as a fraction is ___.",
+   "a": [
+    "7/9"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write 180 as a product of its prime factors.",
+   "model": "180 = 2² × 3² × 5.",
+   "points": [
+    "Method: factor tree or repeated division by primes",
+    "2² × 3² × 5 written as a product"
+   ]
+  },
+  {
+   "q": "Find the HCF and the LCM of 36 and 90.",
+   "model": "36 = 2² × 3² and 90 = 2 × 3² × 5, so HCF = 18 and LCM = 180.",
+   "points": [
+    "Both prime factorisations",
+    "HCF = 2 × 3² = 18",
+    "LCM = 2² × 3² × 5 = 180"
+   ]
+  },
+  {
+   "q": "Without a calculator, find the value of 125^(−2/3).",
+   "model": "125^(1/3) = 5, squared is 25, and the negative index gives the reciprocal: 1/25.",
+   "points": [
+    "Cube root of 125 = 5",
+    "Squared = 25",
+    "Reciprocal: 1/25"
+   ]
+  },
+  {
+   "q": "Rationalise the denominator of 6/(3 − √3) and simplify.",
+   "model": "Multiply by (3 + √3)/(3 + √3): 6(3 + √3)/(9 − 3) = 3 + √3.",
+   "points": [
+    "Multiply top and bottom by (3 + √3)",
+    "Denominator 9 − 3 = 6",
+    "Answer 3 + √3"
+   ]
+  },
+  {
+   "q": "Show that the recurring decimal 0.7̇2̇ (0.727272…) equals 8/11.",
+   "model": "x = 0.7272…, 100x = 72.7272…, so 99x = 72 and x = 72/99 = 8/11.",
+   "points": [
+    "100x = 72.7272… seen",
+    "Subtract: 99x = 72",
+    "72/99 simplified to 8/11"
+   ]
+  }
+ ]
+}

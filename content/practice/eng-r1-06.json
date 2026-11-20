@@ -1,0 +1,160 @@
+{
+ "id": "eng-r1-06",
+ "cards": [
+  {
+   "f": "Timing for the writer's effect question?",
+   "b": "3 min read, 4 min select, 16 min write, 2 min check. About 25 minutes in total."
+  },
+  {
+   "f": "First step before choosing words?",
+   "b": "Decide each paragraph's main idea or mood in a few words."
+  },
+  {
+   "f": "How many candidate choices to underline per paragraph?",
+   "b": "4-5, then keep the best three, with at least one image."
+  },
+  {
+   "f": "Method for each choice?",
+   "b": "Quote, meaning, effect (connotations of specific words)."
+  },
+  {
+   "f": "How should each paragraph of your answer end?",
+   "b": "With one sentence on the overall impression."
+  },
+  {
+   "f": "Best resource for practice?",
+   "b": "An unseen real 0500 Paper 1 writer's effect question with its official mark scheme."
+  },
+  {
+   "f": "Are mark scheme 'possible choices' a checklist?",
+   "b": "No. They are examples; other well-explained choices also earn credit."
+  },
+  {
+   "f": "Top-level self-check question?",
+   "b": "Did I explain the effect of individual words, not just the whole phrase?"
+  },
+  {
+   "f": "Lower-middle level looks like?",
+   "b": "Mostly explains meanings. Effects are vague ('makes it vivid')."
+  },
+  {
+   "f": "Low level looks like?",
+   "b": "Long quotations or naming techniques with no explanation."
+  },
+  {
+   "f": "Mistake: explaining the simile but not the key word.",
+   "b": "Always zoom in on the key word inside the image and unpack its connotations."
+  },
+  {
+   "f": "Mistake: 'this shows' with nothing after it.",
+   "b": "Say what it shows about mood, character or situation."
+  },
+  {
+   "f": "Mistake with choices from one paragraph only?",
+   "b": "Choosing all six from one paragraph limits your mark."
+  },
+  {
+   "f": "Why keep to about 25 minutes?",
+   "b": "So Q3 (25 marks) is not rushed."
+  },
+  {
+   "f": "Mistake: writing a general essay about the passage.",
+   "b": "Focus on the named paragraphs and specific words."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Before choosing words, decide each paragraph's main idea or ___.",
+   "a": [
+    "mood"
+   ]
+  },
+  {
+   "s": "Aim to underline 4 or ___ candidate choices in each paragraph.",
+   "a": [
+    "5",
+    "five"
+   ]
+  },
+  {
+   "s": "For each choice: quote, meaning, then ___.",
+   "a": [
+    "effect"
+   ]
+  },
+  {
+   "s": "End each answer paragraph with the ___ impression.",
+   "a": [
+    "overall"
+   ]
+  },
+  {
+   "s": "Official mark scheme choices are ___, not a checklist.",
+   "a": [
+    "examples"
+   ]
+  },
+  {
+   "s": "The question is worth ___ marks.",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "You should spend about ___ minutes on it.",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "Vague comments such as 'makes it ___' belong to the lower-middle level.",
+   "a": [
+    "vivid"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State the four self-marking questions for a top-level answer. [3]",
+   "model": "Precise choices from both paragraphs, effect of individual words explained, images explored and linked to an overall impression.",
+   "points": [
+    "Choices from both paragraphs",
+    "Effects of individual words",
+    "Overall impression"
+   ]
+  },
+  {
+   "q": "Why is it a weakness to explain a whole simile but not individual words? [2]",
+   "model": "The examiner wants word-level connotations. Whole-phrase comments stay general.",
+   "points": [
+    "Word-level analysis needed",
+    "Otherwise effect is general"
+   ]
+  },
+  {
+   "q": "Give a timing plan for the 25 minutes. [3]",
+   "model": "3 minutes reading, 4 selecting, 16 writing, 2 checking each choice has an effect.",
+   "points": [
+    "3 read",
+    "4 select",
+    "16 write, 2 check"
+   ]
+  },
+  {
+   "q": "Why must you not treat mark scheme choices as a checklist? [2]",
+   "model": "They are examples only, and other well-explained choices also earn credit.",
+   "points": [
+    "Only examples",
+    "Other choices credited"
+   ]
+  },
+  {
+   "q": "Improve: 'This shows the character is sad.' [2]",
+   "model": "Say what in the word shows sadness and why, e.g. 'drooped' connotes a lack of energy and hope.",
+   "points": [
+    "Name the word",
+    "Explain connotation and effect"
+   ]
+  }
+ ]
+}

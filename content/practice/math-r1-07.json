@@ -1,0 +1,169 @@
+{
+ "id": "math-r1-07",
+ "cards": [
+  {
+   "f": "Rule for multiplying an inequality by a negative",
+   "b": "Reverse the inequality sign. −2x > 6 gives x < −3."
+  },
+  {
+   "f": "Number line circles",
+   "b": "Open circle for < or >. Filled circle for ≤ or ≥."
+  },
+  {
+   "f": "Solving a double inequality",
+   "b": "Do the same operation to all three parts, e.g. −5 < 2n + 1 ≤ 9 gives −3 < n ≤ 4."
+  },
+  {
+   "f": "Final answer to an inequality question",
+   "b": "Give an inequality (x > −4), not an equation (x = −4)."
+  },
+  {
+   "f": "Region on a graph: how to pick the side",
+   "b": "Draw the boundary line, then test a point such as (0, 0) in the inequality."
+  },
+  {
+   "f": "nth term of a linear sequence",
+   "b": "dn + (first term − d), where d is the common difference. 5, 8, 11: 3n + 2."
+  },
+  {
+   "f": "How to show a number is not in a sequence",
+   "b": "Solve for n. If n is not a whole number, it is not a term (e.g. n = 32.67)."
+  },
+  {
+   "f": "Quadratic sequence: finding a",
+   "b": "a = (second difference) ÷ 2. Subtract an² and find the linear remainder."
+  },
+  {
+   "f": "Exponential (geometric) sequence nth term",
+   "b": "a × rⁿ⁻¹, where r is the constant ratio. 3, 6, 12: 3 × 2ⁿ⁻¹."
+  },
+  {
+   "f": "Triangle numbers: nth term",
+   "b": "½n(n + 1): 1, 3, 6, 10, 15."
+  },
+  {
+   "f": "Direct proportion formulae",
+   "b": "y = kx, y = kx², y = kx³, y = k√x."
+  },
+  {
+   "f": "Inverse proportion formulae",
+   "b": "y = k/x, y = k/x², y = k/√x."
+  },
+  {
+   "f": "Four steps for variation questions",
+   "b": "Write the formula with k, find k from the given pair, rewrite with k, then find the unknown."
+  },
+  {
+   "f": "If y = kx³ and x doubles",
+   "b": "y is multiplied by 2³ = 8."
+  },
+  {
+   "f": "If y = k/x² and x doubles",
+   "b": "y is divided by 4."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "If −2x > 6, then x < ___.",
+   "a": [
+    "-3",
+    "−3"
+   ]
+  },
+  {
+   "s": "The next term in 2, 6, 18, 54, … is ___.",
+   "a": [
+    "162"
+   ]
+  },
+  {
+   "s": "The nth term of 7, 11, 15, 19, … is 4n + ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "A sequence with second difference 6 has an n² term with coefficient ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "If y = kx and y = 20 when x = 4, then k = ___.",
+   "a": [
+    "5"
+   ]
+  },
+  {
+   "s": "If y is inversely proportional to x and x is doubled, y is ___.",
+   "a": [
+    "halved",
+    "half",
+    "divided by 2",
+    "÷2",
+    "÷ 2",
+    "multiplied by 1/2",
+    "multiplied by 0.5"
+   ]
+  },
+  {
+   "s": "The integers n with 1 < n ≤ 4 are 2, 3 and ___.",
+   "a": [
+    "4"
+   ]
+  },
+  {
+   "s": "The 10th term of the sequence 3n − 1 is ___.",
+   "a": [
+    "29"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Solve 4 − 3x ≥ 10.",
+   "model": "−3x ≥ 6, so x ≤ −2 (the sign reverses on dividing by −3).",
+   "points": [
+    "−3x ≥ 6",
+    "Reverse the sign",
+    "x ≤ −2"
+   ]
+  },
+  {
+   "q": "List the integers n that satisfy −2 ≤ 3n − 1 < 8.",
+   "model": "−1 ≤ 3n < 9, so −1/3 ≤ n < 3: n = 0, 1, 2.",
+   "points": [
+    "Add 1 to all parts",
+    "Divide by 3: −1/3 ≤ n < 3",
+    "0, 1, 2"
+   ]
+  },
+  {
+   "q": "Find the nth term of 6, 9, 14, 21, 30, …",
+   "model": "Second difference 2, so n²; remainder is 5 each time: n² + 5.",
+   "points": [
+    "Differences 3, 5, 7, 9; second difference 2",
+    "n² seen",
+    "n² + 5"
+   ]
+  },
+  {
+   "q": "Find the nth term of the sequence 80, 40, 20, 10, …",
+   "model": "Common ratio 1/2, first term 80: nth term = 80 × (1/2)ⁿ⁻¹.",
+   "points": [
+    "Ratio 1/2",
+    "First term 80",
+    "80 × (1/2)ⁿ⁻¹"
+   ]
+  },
+  {
+   "q": "y is proportional to √x. y = 6 when x = 9. Find y when x = 25.",
+   "model": "y = k√x, 6 = 3k so k = 2; y = 2√25 = 10.",
+   "points": [
+    "y = k√x",
+    "k = 2",
+    "y = 10"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "id": "chem-r1-07",
+ "cards": [
+  {
+   "f": "Exothermic reaction",
+   "b": "Transfers thermal energy to the surroundings; temperature of surroundings rises. ΔH is negative."
+  },
+  {
+   "f": "Endothermic reaction",
+   "b": "Takes in thermal energy from the surroundings; temperature of surroundings falls. ΔH is positive."
+  },
+  {
+   "f": "Examples of exothermic and endothermic processes",
+   "b": "Exo: combustion, neutralisation, respiration. Endo: thermal decomposition, photosynthesis."
+  },
+  {
+   "f": "Enthalpy change ΔH",
+   "b": "The transfer of thermal energy during a reaction. Negative = exothermic; positive = endothermic."
+  },
+  {
+   "f": "Activation energy, Ea",
+   "b": "The minimum energy colliding particles must have to react."
+  },
+  {
+   "f": "Bond breaking and bond making",
+   "b": "Breaking bonds is endothermic (energy absorbed); making bonds is exothermic (energy released)."
+  },
+  {
+   "f": "Reaction pathway: exothermic",
+   "b": "Products lower than reactants; ΔH arrow points down; Ea is the hump above reactants."
+  },
+  {
+   "f": "Reaction pathway: endothermic",
+   "b": "Products higher than reactants; ΔH arrow points up."
+  },
+  {
+   "f": "Collision theory",
+   "b": "Reactions occur when particles collide with at least the activation energy (and enough frequency)."
+  },
+  {
+   "f": "Effect of raising temperature (collision theory)",
+   "b": "More particles have energy ≥ Ea and they collide more often, so more successful collisions: faster rate."
+  },
+  {
+   "f": "Effect of higher concentration or pressure",
+   "b": "More particles per unit volume, so more frequent collisions: faster rate."
+  },
+  {
+   "f": "Effect of smaller particle size (surface area)",
+   "b": "More exposed surface, so more frequent collisions: faster rate."
+  },
+  {
+   "f": "What does a catalyst do?",
+   "b": "Increases rate by lowering activation energy; it is unchanged chemically at the end."
+  },
+  {
+   "f": "Measuring rate practically",
+   "b": "Measure the volume of gas produced (gas syringe) or the loss of mass over time."
+  },
+  {
+   "f": "Reading a rate graph",
+   "b": "Steeper gradient = faster rate. Curve flattens when a reactant is used up. Same final amount means same amount of limiting reactant."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A reaction that transfers thermal energy to the surroundings is ___ .",
+   "a": [
+    "exothermic"
+   ]
+  },
+  {
+   "s": "ΔH is ___ for an endothermic reaction.",
+   "a": [
+    "positive",
+    "+"
+   ]
+  },
+  {
+   "s": "The minimum energy needed for a collision to be successful is the ___ energy.",
+   "a": [
+    "activation"
+   ]
+  },
+  {
+   "s": "Breaking chemical bonds is an ___ process.",
+   "a": [
+    "endothermic"
+   ]
+  },
+  {
+   "s": "A catalyst ___ the activation energy of a reaction.",
+   "a": [
+    "lowers",
+    "decreases",
+    "reduces"
+   ]
+  },
+  {
+   "s": "On a reaction pathway diagram for an exothermic reaction, the products are ___ in energy than the reactants.",
+   "a": [
+    "lower",
+    "less"
+   ]
+  },
+  {
+   "s": "Powdered marble reacts faster than marble chips because it has a larger ___ .",
+   "a": [
+    "surface area"
+   ]
+  },
+  {
+   "s": "A flat line on a graph of gas volume against time shows the reaction has ___ .",
+   "a": [
+    "stopped",
+    "finished",
+    "ended",
+    "completed"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain, using collision theory, why increasing the temperature increases the rate of reaction. [3]",
+   "model": "Particles move faster so collide more often, and a greater proportion have energy at least equal to Ea, so more collisions are successful.",
+   "points": [
+    "particles have more kinetic energy/move faster",
+    "more frequent collisions",
+    "more collisions have energy ≥ Ea"
+   ]
+  },
+  {
+   "q": "Explain why increasing the concentration of an acid increases the rate with marble chips. [2]",
+   "model": "More acid particles per unit volume, so collisions with the marble happen more often.",
+   "points": [
+    "more particles per unit volume",
+    "more frequent collisions"
+   ]
+  },
+  {
+   "q": "Sketch and label a reaction pathway diagram for an exothermic reaction. State the labels needed. [3]",
+   "model": "Reactants at higher energy than products, a hump labelled Ea, and a downward arrow for ΔH (negative).",
+   "points": [
+    "products lower than reactants",
+    "activation energy Ea labelled",
+    "ΔH arrow downwards"
+   ]
+  },
+  {
+   "q": "State how a catalyst increases the rate of reaction. [2]",
+   "model": "It provides an alternative pathway with a lower activation energy so more particles have enough energy to react.",
+   "points": [
+    "lowers activation energy",
+    "more successful collisions"
+   ]
+  },
+  {
+   "q": "Describe how you would follow the rate of reaction between magnesium and acid. [3]",
+   "model": "Collect hydrogen in a gas syringe and record the volume at set time intervals (or measure loss of mass); plot volume against time.",
+   "points": [
+    "measure gas volume/mass loss",
+    "at regular time intervals with a stopwatch",
+    "plot a graph"
+   ]
+  }
+ ]
+}

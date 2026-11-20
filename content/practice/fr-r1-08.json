@@ -1,0 +1,169 @@
+{
+ "id": "fr-r1-08",
+ "cards": [
+  {
+   "f": "Reading method: first step",
+   "b": "Read the questions first, underline key words, then skim the text for the overall idea."
+  },
+  {
+   "f": "Questions usually follow…",
+   "b": "the order of the text."
+  },
+  {
+   "f": "Synonyms in Reading",
+   "b": "Questions rarely use the text's words: commencer = débuter, pas cher = bon marché."
+  },
+  {
+   "f": "How much to lift",
+   "b": "Only the part that answers the question, never a whole paragraph."
+  },
+  {
+   "f": "True/false: when is it vrai?",
+   "b": "Only if the text says so, not if it seems likely."
+  },
+  {
+   "f": "Watch for absolute words in statements",
+   "b": "toujours, jamais, tous, seulement."
+  },
+  {
+   "f": "Correcting a false statement",
+   "b": "Write the correct fact briefly to earn the second mark."
+  },
+  {
+   "f": "Use cognates and word families",
+   "b": "la boulangerie → le boulanger; le travail ≈ trabajo."
+  },
+  {
+   "f": "le vide-grenier",
+   "b": "car-boot / flea sale."
+  },
+  {
+   "f": "garder des enfants",
+   "b": "to babysit."
+  },
+  {
+   "f": "ce n'est pas la peine",
+   "b": "there is no need."
+  },
+  {
+   "f": "la plupart",
+   "b": "most."
+  },
+  {
+   "f": "un sondage",
+   "b": "a survey."
+  },
+  {
+   "f": "l'apprentissage (m)",
+   "b": "apprenticeship."
+  },
+  {
+   "f": "Read the next sentence after your answer",
+   "b": "The « mais… » that changes the answer often comes next."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In Reading, read the ___ first, then the text.",
+   "a": [
+    "questions",
+    "question",
+    "questions first"
+   ]
+  },
+  {
+   "s": "Questions usually follow the ___ of the text.",
+   "a": [
+    "order"
+   ]
+  },
+  {
+   "s": "Pas cher is a synonym of ___ marché.",
+   "a": [
+    "bon"
+   ]
+  },
+  {
+   "s": "« Garder des enfants » means to ___ .",
+   "a": [
+    "babysit",
+    "baby-sit",
+    "babysit children"
+   ]
+  },
+  {
+   "s": "« La plupart » means ___ .",
+   "a": [
+    "most",
+    "the majority",
+    "most of"
+   ]
+  },
+  {
+   "s": "In true/false, answer vrai only if the text ___ it.",
+   "a": [
+    "says",
+    "states",
+    "tells",
+    "mentions"
+   ]
+  },
+  {
+   "s": "Copying a whole paragraph is bad: lift only the ___ part.",
+   "a": [
+    "relevant",
+    "relevant bit",
+    "right"
+   ]
+  },
+  {
+   "s": "Un ___ is a survey.",
+   "a": [
+    "sondage"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Text: « Ma mère voulait préparer une grande fête, mais finalement on fera juste un repas en famille. » What will the family do? Explain. [2]",
+   "model": "A family meal. The party was the original plan.",
+   "points": [
+    "Un repas en famille (1)",
+    "Fête = cancelled plan (1)"
+   ]
+  },
+  {
+   "q": "True or false? Correct if false: « Les apprentis passent tout leur temps dans une entreprise. » [2]",
+   "model": "False. They spend part of the time in a company and the rest in a training centre.",
+   "points": [
+    "Faux (1)",
+    "Correction: partly company, partly training centre (1)"
+   ]
+  },
+  {
+   "q": "Explain how to answer a Reading question with lifting. [2]",
+   "model": "Copy only the words that answer the question, and change je to il/elle if possible.",
+   "points": [
+    "Lift only the relevant part (1)",
+    "Don't copy extra wrong information (1)"
+   ]
+  },
+  {
+   "q": "« Ce n'est pas la peine de prendre une serviette. » Should he bring a towel? Explain. [2]",
+   "model": "No. They have plenty of towels.",
+   "points": [
+    "No (1)",
+    "Reason: on en a plein (1)"
+   ]
+  },
+  {
+   "q": "Give three Reading strategies for unknown words. [3]",
+   "model": "Use cognates, use word families, use context and skip words not needed.",
+   "points": [
+    "Cognates (1)",
+    "Word families (1)",
+    "Context or skip (1)"
+   ]
+  }
+ ]
+}

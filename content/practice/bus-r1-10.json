@@ -1,0 +1,173 @@
+{
+ "id": "bus-r1-10",
+ "cards": [
+  {
+   "f": "Income statement",
+   "b": "Records the income of a business and all costs to earn it over a period of time (e.g. a year)."
+  },
+  {
+   "f": "Gross profit formula",
+   "b": "Revenue − cost of sales."
+  },
+  {
+   "f": "Profit formula",
+   "b": "Gross profit − expenses (overheads)."
+  },
+  {
+   "f": "Retained profit",
+   "b": "Profit left after tax and dividends, kept in the business as a source of finance."
+  },
+  {
+   "f": "Statement of financial position",
+   "b": "Shows the value of assets and liabilities at one point in time (a snapshot)."
+  },
+  {
+   "f": "Current vs non-current assets",
+   "b": "Current: turned into cash within a year (inventories, receivables, cash). Non-current: kept for more than a year (buildings, machinery)."
+  },
+  {
+   "f": "Current vs non-current liabilities",
+   "b": "Current: due within a year (trade payables, overdraft). Non-current: repayable after more than a year (long-term loan)."
+  },
+  {
+   "f": "Capital employed",
+   "b": "Shareholders' equity + non-current liabilities. Total long-term finance invested in the business."
+  },
+  {
+   "f": "Gross profit margin",
+   "b": "Gross profit ÷ revenue × 100."
+  },
+  {
+   "f": "Profit margin",
+   "b": "Profit ÷ revenue × 100."
+  },
+  {
+   "f": "ROCE",
+   "b": "Profit ÷ capital employed × 100. Compare with the interest rate a bank would pay."
+  },
+  {
+   "f": "Current ratio",
+   "b": "Current assets ÷ current liabilities. Around 1.5–2 is usually acceptable. It is a number such as 2:1, not a %."
+  },
+  {
+   "f": "Acid test ratio",
+   "b": "(Current assets − inventories) ÷ current liabilities. Around 1 is acceptable. Stricter than the current ratio."
+  },
+  {
+   "f": "Profitability vs liquidity",
+   "b": "Profitability: ability to generate profit. Liquidity: ability to pay short-term debts. A profitable firm can still lack liquidity."
+  },
+  {
+   "f": "Limitations of ratios and accounts",
+   "b": "Based on past data; do not explain why; inflation and different accounting methods distort; ignore non-financial factors."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Revenue minus cost of sales is ___ profit.",
+   "a": [
+    "gross"
+   ]
+  },
+  {
+   "s": "Revenue of €500,000 and gross profit of €200,000 give a gross profit margin of ___ %.",
+   "a": [
+    "40",
+    "40%"
+   ]
+  },
+  {
+   "s": "Profit of €60,000 on revenue of €500,000 is a profit margin of ___ %.",
+   "a": [
+    "12",
+    "12%"
+   ]
+  },
+  {
+   "s": "Current assets of €80,000 and current liabilities of €40,000 give a current ratio of ___ .",
+   "a": [
+    "2",
+    "2.0",
+    "2:1",
+    "2:1."
+   ]
+  },
+  {
+   "s": "To calculate the acid test ratio you subtract ___ from current assets.",
+   "a": [
+    "inventories",
+    "inventory",
+    "stock",
+    "stocks"
+   ]
+  },
+  {
+   "s": "A long-term bank loan is a ___ liability.",
+   "a": [
+    "non-current",
+    "non current",
+    "long-term"
+   ]
+  },
+  {
+   "s": "The ___ statement covers a period of time, while the statement of financial position shows one date.",
+   "a": [
+    "income"
+   ]
+  },
+  {
+   "s": "Capital employed is shareholders' equity plus ___ liabilities.",
+   "a": [
+    "non-current",
+    "non current",
+    "long-term"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the gross profit margin for revenue of $400,000 and cost of sales of $280,000. [2]",
+   "model": "Gross profit = 120,000. Margin = 120,000 ÷ 400,000 × 100 = 30%.",
+   "points": [
+    "gross profit $120,000",
+    "30%"
+   ]
+  },
+  {
+   "q": "Calculate ROCE for profit of $45,000 and capital employed of $300,000. [2]",
+   "model": "45,000 ÷ 300,000 × 100 = 15%.",
+   "points": [
+    "correct formula",
+    "15%"
+   ]
+  },
+  {
+   "q": "Current assets are $90,000, inventories $30,000 and current liabilities $60,000. Calculate the current ratio and the acid test ratio. [3]",
+   "model": "Current ratio = 90,000 ÷ 60,000 = 1.5. Acid test = (90,000 − 30,000) ÷ 60,000 = 1.0.",
+   "points": [
+    "current ratio 1.5",
+    "subtract inventories",
+    "acid test 1.0"
+   ]
+  },
+  {
+   "q": "Explain the difference between profitability and liquidity. [3]",
+   "model": "Profitability is the ability to make profit from revenue or capital. Liquidity is the ability to pay short-term debts, so a profitable business may still fail if it lacks liquid funds.",
+   "points": [
+    "profitability: ability to generate profit",
+    "liquidity: ability to pay short-term debts",
+    "can be profitable but illiquid"
+   ]
+  },
+  {
+   "q": "A business's revenue rose 12% but its profit margin fell from 12% to 7.5%. Explain two possible reasons. [4]",
+   "model": "Cost of sales may have risen faster than revenue, for example through dearer materials. Expenses such as rent or wages may also have risen.",
+   "points": [
+    "cost of sales rose faster",
+    "development",
+    "expenses/overheads rose",
+    "development"
+   ]
+  }
+ ]
+}

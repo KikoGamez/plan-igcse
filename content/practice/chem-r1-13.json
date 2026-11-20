@@ -1,0 +1,164 @@
+{
+ "id": "chem-r1-13",
+ "cards": [
+  {
+   "f": "Apparatus: measuring time, temperature, mass",
+   "b": "Stopwatch, thermometer, balance."
+  },
+  {
+   "f": "Apparatus: measuring volume",
+   "b": "Measuring cylinder (approx.), burette, volumetric pipette (accurate), gas syringe (gas volume)."
+  },
+  {
+   "f": "Solute, solvent, solution",
+   "b": "Solute: substance dissolved. Solvent: liquid that dissolves it. Solution: solute dissolved in solvent."
+  },
+  {
+   "f": "Saturated solution",
+   "b": "A solution containing the maximum amount of solute at that temperature."
+  },
+  {
+   "f": "Residue and filtrate",
+   "b": "Residue: solid left on the filter paper. Filtrate: liquid that passes through."
+  },
+  {
+   "f": "Filtration",
+   "b": "Separates an insoluble solid from a liquid."
+  },
+  {
+   "f": "Crystallisation",
+   "b": "Heat to evaporate some solvent until saturated, then cool so crystals form; filter and dry."
+  },
+  {
+   "f": "Simple distillation",
+   "b": "Separates a solvent from a solution (e.g. pure water from salt solution)."
+  },
+  {
+   "f": "Fractional distillation",
+   "b": "Separates liquids with different boiling points, e.g. ethanol and water."
+  },
+  {
+   "f": "Paper chromatography",
+   "b": "Separates soluble coloured substances; pencil baseline, solvent below baseline."
+  },
+  {
+   "f": "Rf value",
+   "b": "Rf = distance moved by substance ÷ distance moved by solvent front. Always between 0 and 1."
+  },
+  {
+   "f": "Pure substance in chromatography",
+   "b": "Gives one spot only."
+  },
+  {
+   "f": "Pure substance and melting/boiling point",
+   "b": "Pure substance has a sharp, fixed melting and boiling point; impurities lower melting point and raise boiling point."
+  },
+  {
+   "f": "Acid–base titration: equipment",
+   "b": "Burette (acid/alkali), volumetric pipette (25 cm³), indicator, conical flask."
+  },
+  {
+   "f": "End-point of a titration",
+   "b": "Point where indicator just changes colour, showing neutralisation."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "An accurate fixed volume of 25 cm³ is measured using a volumetric ___ .",
+   "a": [
+    "pipette"
+   ]
+  },
+  {
+   "s": "The solid left on the filter paper is called the ___ .",
+   "a": [
+    "residue"
+   ]
+  },
+  {
+   "s": "The liquid that passes through the filter paper is the ___ .",
+   "a": [
+    "filtrate"
+   ]
+  },
+  {
+   "s": "In chromatography the starting line is drawn in ___ .",
+   "a": [
+    "pencil"
+   ]
+  },
+  {
+   "s": "Rf is the distance moved by the substance divided by the distance moved by the ___ .",
+   "a": [
+    "solvent",
+    "solvent front"
+   ]
+  },
+  {
+   "s": "A pure substance melts at a ___ temperature.",
+   "a": [
+    "sharp",
+    "fixed",
+    "single",
+    "specific"
+   ]
+  },
+  {
+   "s": "Pure water can be obtained from salt solution by simple ___ .",
+   "a": [
+    "distillation"
+   ]
+  },
+  {
+   "s": "A solution that can dissolve no more solute at a given temperature is ___ .",
+   "a": [
+    "saturated"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A spot travels 3.0 cm and the solvent travels 6.0 cm. Calculate Rf. [2]",
+   "model": "Rf = 3.0 ÷ 6.0 = 0.5.",
+   "points": [
+    "Rf = distance substance ÷ distance solvent",
+    "0.5"
+   ]
+  },
+  {
+   "q": "Describe how to obtain pure water from salty water. [3]",
+   "model": "Heat in a flask; water boils and vapour passes into a condenser; condensed pure water collects in a beaker; salt stays behind.",
+   "points": [
+    "heat to evaporate/boil water",
+    "condense vapour",
+    "collect distillate"
+   ]
+  },
+  {
+   "q": "Why is the baseline in chromatography drawn in pencil and above the solvent level? [2]",
+   "model": "Pencil does not dissolve or run in the solvent; the line must be above the solvent so the sample does not dissolve into the solvent.",
+   "points": [
+    "pencil insoluble in solvent",
+    "baseline above solvent level"
+   ]
+  },
+  {
+   "q": "State how melting point shows whether a solid is pure. [2]",
+   "model": "A pure solid melts at one sharp, fixed temperature; an impure solid melts over a range and at a lower temperature.",
+   "points": [
+    "pure: sharp melting point",
+    "impure: lower/range of temperatures"
+   ]
+  },
+  {
+   "q": "Describe how to carry out a titration of an alkali with an acid using an indicator. [4]",
+   "model": "Pipette 25 cm³ of alkali into a flask, add indicator, add acid from a burette, swirl until colour just changes (end-point), record burette reading.",
+   "points": [
+    "measure alkali with pipette into flask",
+    "add indicator",
+    "add acid from burette until colour change",
+    "record volume/repeat"
+   ]
+  }
+ ]
+}

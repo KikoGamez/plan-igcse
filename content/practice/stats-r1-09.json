@@ -1,0 +1,179 @@
+{
+ "id": "stats-r1-09",
+ "cards": [
+  {
+   "f": "Probability of an event",
+   "b": "Number of favourable outcomes ÷ total number of equally likely outcomes. Always between 0 and 1."
+  },
+  {
+   "f": "Relative frequency",
+   "b": "Number of times the event occurred ÷ number of trials. Better estimate as trials increase."
+  },
+  {
+   "f": "Expected frequency",
+   "b": "P(event) × number of trials."
+  },
+  {
+   "f": "P(A′)",
+   "b": "Probability A does not happen = 1 − P(A)."
+  },
+  {
+   "f": "P(A ∩ B) and P(A ∪ B)",
+   "b": "∩: A and B both happen. ∪: A or B or both happen."
+  },
+  {
+   "f": "P(A | B)",
+   "b": "Probability A happens given that B has happened."
+  },
+  {
+   "f": "Mutually exclusive events",
+   "b": "Cannot happen together. P(A ∩ B) = 0, so P(A ∪ B) = P(A) + P(B)."
+  },
+  {
+   "f": "Independent events",
+   "b": "One does not affect the other. P(A ∩ B) = P(A) × P(B), and P(A | B) = P(A)."
+  },
+  {
+   "f": "Addition law (always true)",
+   "b": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)."
+  },
+  {
+   "f": "Testing for independence",
+   "b": "Compare P(A) × P(B) with P(A ∩ B). Equal means independent. Always write a conclusion."
+  },
+  {
+   "f": "Tree diagram rules",
+   "b": "Branches at each node add to 1. Multiply along branches, add the results of different paths."
+  },
+  {
+   "f": "Without replacement",
+   "b": "The second-stage probabilities change, because there is one fewer item (e.g. 3/10 then 2/9)."
+  },
+  {
+   "f": "Filling a Venn diagram",
+   "b": "Fill P(A ∩ B) first. A only = P(A) − P(A ∩ B). Outside = 1 − all the rest. Total is 1."
+  },
+  {
+   "f": "Conditional probability formula",
+   "b": "P(A | B) = P(A ∩ B) ÷ P(B)."
+  },
+  {
+   "f": "Common conditional probability mistake",
+   "b": "Dividing by the total (1 or n) instead of P(B), the probability of the given event."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "P(A) = 0.35, so P(A′) = ___ .",
+   "a": [
+    "0.65",
+    "65%",
+    "13/20"
+   ]
+  },
+  {
+   "s": "A coin lands heads 18 times in 60 trials. The relative frequency of heads is ___ .",
+   "a": [
+    "0.3",
+    "3/10",
+    "30%",
+    "0.30"
+   ]
+  },
+  {
+   "s": "A fair dice is rolled 120 times. The expected number of sixes is ___ .",
+   "a": [
+    "20"
+   ]
+  },
+  {
+   "s": "If A and B are mutually exclusive, P(A ∩ B) = ___ .",
+   "a": [
+    "0",
+    "zero"
+   ]
+  },
+  {
+   "s": "A and B are mutually exclusive with P(A) = 0.5 and P(B) = 0.3, so P(A ∪ B) = ___ .",
+   "a": [
+    "0.8",
+    "4/5",
+    "80%",
+    "0.80"
+   ]
+  },
+  {
+   "s": "A and B are independent with P(A) = 0.5 and P(B) = 0.4, so P(A ∩ B) = ___ .",
+   "a": [
+    "0.2",
+    "1/5",
+    "20%",
+    "0.20"
+   ]
+  },
+  {
+   "s": "P(A ∩ B) = 0.15 and P(B) = 0.6, so P(A | B) = ___ .",
+   "a": [
+    "0.25",
+    "1/4",
+    "25%"
+   ]
+  },
+  {
+   "s": "The probabilities on the branches at each node of a tree diagram add up to ___ .",
+   "a": [
+    "1",
+    "one"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "P(A) = 0.6, P(B) = 0.3 and P(A ∩ B) = 0.1. Find P(A ∪ B) and show whether A and B are independent. [4]",
+   "model": "P(A ∪ B) = 0.6 + 0.3 − 0.1 = 0.8. P(A) × P(B) = 0.18, which is not equal to 0.1, so A and B are not independent.",
+   "points": [
+    "0.6 + 0.3 − 0.1",
+    "P(A ∪ B) = 0.8",
+    "0.6 × 0.3 = 0.18 ≠ 0.1",
+    "conclusion: not independent"
+   ]
+  },
+  {
+   "q": "A bag has 4 green and 6 yellow counters. Two are taken without replacement. Find the probability that both are green, and that at least one is yellow. [4]",
+   "model": "P(both green) = 4/10 × 3/9 = 12/90 = 2/15. P(at least one yellow) = 1 − 2/15 = 13/15.",
+   "points": [
+    "4/10 × 3/9",
+    "2/15",
+    "1 − 2/15",
+    "13/15"
+   ]
+  },
+  {
+   "q": "P(rain) = 0.2. If it rains, P(late) = 0.5. If it does not rain, P(late) = 0.1. Find P(late), and given that he is late, the probability it rained. [4]",
+   "model": "P(late) = 0.2 × 0.5 + 0.8 × 0.1 = 0.1 + 0.08 = 0.18. P(rain | late) = 0.1 ÷ 0.18 = 5/9 (0.556).",
+   "points": [
+    "0.2 × 0.5 and 0.8 × 0.1",
+    "P(late) = 0.18",
+    "0.1 ÷ 0.18",
+    "5/9 or 0.556"
+   ]
+  },
+  {
+   "q": "40 students: 25 study French, 18 study Spanish and 8 study both. How many study neither? Find P(Spanish | French). [3]",
+   "model": "French only 17, Spanish only 10, both 8, so 35 study at least one and 5 study neither. P(Spanish | French) = 8/25 = 0.32.",
+   "points": [
+    "neither = 5",
+    "denominator 25 (French)",
+    "8/25 = 0.32"
+   ]
+  },
+  {
+   "q": "Explain the difference between mutually exclusive and independent events. [2]",
+   "model": "Mutually exclusive: they cannot happen at the same time, P(A ∩ B) = 0. Independent: one happening does not change the probability of the other, P(A ∩ B) = P(A) × P(B).",
+   "points": [
+    "mutually exclusive: cannot both happen",
+    "independent: one does not affect the other"
+   ]
+  }
+ ]
+}

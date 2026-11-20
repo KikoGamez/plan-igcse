@@ -1,0 +1,35 @@
+{"id":"bio-r1-10",
+"cards":[
+{"f":"What travels along neurones?","b":"Electrical impulses."},
+{"f":"CNS versus PNS","b":"CNS: brain and spinal cord. PNS: the nerves outside the brain and spinal cord."},
+{"f":"Role of the nervous system","b":"Coordination and regulation of body functions."},
+{"f":"Sensory neurone","b":"Carries impulses from a receptor to the CNS."},
+{"f":"Relay neurone","b":"Inside the CNS; carries impulses from sensory neurone to motor neurone."},
+{"f":"Motor neurone","b":"Carries impulses from the CNS to an effector."},
+{"f":"Order of a reflex arc","b":"Stimulus → receptor → sensory neurone → relay neurone → motor neurone → effector → response."},
+{"f":"What are effectors?","b":"Muscles (contract) or glands (secrete)."},
+{"f":"Define reflex action","b":"A means of automatically and rapidly integrating and coordinating stimuli with the responses of effectors (muscles and glands)."},
+{"f":"Why are reflexes useful?","b":"They are automatic and rapid, so they protect the body from damage."},
+{"f":"What are sense organs?","b":"Groups of receptor cells responding to specific stimuli: light, sound, touch, temperature, chemicals."},
+{"f":"Define hormone","b":"A chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs."},
+{"f":"Match gland and hormone","b":"Adrenal glands: adrenaline. Pancreas: insulin (and glucagon). Testes: testosterone. Ovaries: oestrogen."},
+{"f":"Effects of adrenaline (fight or flight)","b":"Increased breathing rate, increased heart rate, increased pupil diameter."},
+{"f":"Why are the effects of adrenaline useful?","b":"More oxygen and glucose reach muscles for respiration, releasing more energy for action."}
+],
+"gaps":[
+{"s":"The brain and spinal cord make up the ___ nervous system.","a":["central"]},
+{"s":"A neurone that carries impulses from a receptor to the CNS is a ___ neurone.","a":["sensory"]},
+{"s":"A muscle or gland that carries out a response is called an ___ .","a":["effector"]},
+{"s":"Hormones are carried around the body in the ___ .","a":["blood","blood plasma","plasma","bloodstream"]},
+{"s":"Adrenaline is secreted by the ___ glands.","a":["adrenal"]},
+{"s":"Testosterone is secreted by the ___ .","a":["testes","testis","testicles"]},
+{"s":"Adrenaline makes the pupils ___ in diameter.","a":["increase","wider","larger","widen","dilate","bigger"]},
+{"s":"Hormones are secreted by ___ glands directly into the blood.","a":["endocrine"]}
+],
+"short":[
+{"q":"Describe the pathway of a simple reflex arc when a hand touches a hot object. [4]","model":"Temperature receptors in the skin detect the stimulus, a sensory neurone carries impulses to a relay neurone in the spinal cord, then a motor neurone carries impulses to the arm muscle (effector), which contracts.","points":["receptor detects stimulus","sensory then relay neurone","motor neurone to effector","muscle contracts"]},
+{"q":"Explain why a reflex action protects the body. [2]","model":"It is automatic and rapid, so the response happens before the brain has time to think, preventing damage.","points":["automatic, no conscious thought","rapid"]},
+{"q":"State two differences between nervous and hormonal communication. [2]","model":"Nerves send electrical impulses along neurones; hormones are chemicals carried in the blood to target organs.","points":["impulses along neurones versus chemicals in blood","hormones act on specific target organs"]},
+{"q":"State three effects of adrenaline and explain why they help in a dangerous situation. [3]","model":"Faster breathing, faster heart rate and wider pupils; more oxygen and glucose reach muscles so more energy is released for action.","points":["increased breathing rate","increased heart rate","increased pupil diameter / more oxygen and glucose to muscles"]},
+{"q":"A student's reaction time is measured by catching a falling ruler. State two variables to keep constant. [2]","model":"Use the same hand and the same starting position of the fingers; the same person drops the ruler with no warning.","points":["same hand / finger position","same person dropping / no warning"]}
+]}

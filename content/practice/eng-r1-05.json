@@ -1,0 +1,165 @@
+{
+ "id": "eng-r1-05",
+ "cards": [
+  {
+   "f": "Writer's effect question: where and how many marks?",
+   "b": "Paper 1, last part of Q2 on Text C. 15 marks, about 200-300 words, about 25 minutes."
+  },
+  {
+   "f": "What does the task ask for?",
+   "b": "Explain how the writer uses language to convey meaning and create effect in two named paragraphs."
+  },
+  {
+   "f": "How many choices and from where?",
+   "b": "Three words or phrases from each named paragraph, including imagery."
+  },
+  {
+   "f": "Which assessment objective is tested?",
+   "b": "R4: how writers achieve effects and influence readers."
+  },
+  {
+   "f": "How long should quotations be?",
+   "b": "Short: 1-5 words, so the examiner sees which words you think are powerful."
+  },
+  {
+   "f": "What should you prefer to choose?",
+   "b": "Images (metaphor, simile, personification), strong verbs, unusual adjectives and sound effects."
+  },
+  {
+   "f": "Three-step explanation for each choice?",
+   "b": "Quote, meaning in context, effect (what it makes us picture or feel, using connotations)."
+  },
+  {
+   "f": "What is 'meaning in context'?",
+   "b": "What the words literally say is happening in this text."
+  },
+  {
+   "f": "What is 'connotation'?",
+   "b": "The ideas or feelings a word suggests beyond its literal meaning."
+  },
+  {
+   "f": "Example: 'the wind clawed at the tent' - effect of 'clawed'?",
+   "b": "Suggests an animal attacking, so the wind seems aggressive and the campers vulnerable."
+  },
+  {
+   "f": "What does 'overall impression' mean?",
+   "b": "How your chosen words combine to create one mood or picture for the paragraph."
+  },
+  {
+   "f": "Useful phrase to start an effect comment?",
+   "b": "'The word ... has connotations of ..., suggesting ...'."
+  },
+  {
+   "f": "Name a banned phrase that earns nothing alone.",
+   "b": "'Creates a vivid image', 'makes the reader want to read on', or 'it is very descriptive'."
+  },
+  {
+   "f": "Suggested structure of the answer?",
+   "b": "Paragraph 1: three choices from first paragraph; Paragraph 2: three from the second. No introduction or conclusion."
+  },
+  {
+   "f": "What is feature-spotting?",
+   "b": "Naming a device (e.g. 'this is personification') with no explanation of effect. It earns little."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The writer's effect question tests assessment objective ___.",
+   "a": [
+    "R4"
+   ]
+  },
+  {
+   "s": "You choose ___ examples from each named paragraph.",
+   "a": [
+    "3",
+    "three"
+   ]
+  },
+  {
+   "s": "A word's suggested associations beyond its literal meaning are its ___.",
+   "a": [
+    "connotations",
+    "connotation"
+   ]
+  },
+  {
+   "s": "Giving the literal sense of the words is explaining their ___ in context.",
+   "a": [
+    "meaning"
+   ]
+  },
+  {
+   "s": "Your choices must include ___ such as metaphor or simile.",
+   "a": [
+    "imagery",
+    "images",
+    "an image"
+   ]
+  },
+  {
+   "s": "Explaining what a word makes the reader feel or picture is explaining the ___.",
+   "a": [
+    "effect"
+   ]
+  },
+  {
+   "s": "The answer should be about 200 to ___ words.",
+   "a": [
+    "300"
+   ]
+  },
+  {
+   "s": "Quoting whole sentences is a mistake because the examiner cannot tell which ___ you are analysing.",
+   "a": [
+    "words",
+    "word"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the effect of 'clawed' in 'the wind clawed at the tent'. [3]",
+   "model": "'Clawed' suggests a wild animal attacking, so the wind seems violent and deliberate. The campers feel vulnerable.",
+   "points": [
+    "Meaning: wind pulled hard",
+    "Connotation of animal attack",
+    "Effect: aggressive/vulnerable"
+   ]
+  },
+  {
+   "q": "State the three steps in explaining a language choice. [3]",
+   "model": "Quote the words, explain their meaning in context, then explain the effect on the reader.",
+   "points": [
+    "Quote",
+    "Meaning in context",
+    "Effect"
+   ]
+  },
+  {
+   "q": "Why is 'it creates a vivid image' a weak comment? [2]",
+   "model": "It is general and could apply to any text. It does not explain what the image is or what it suggests.",
+   "points": [
+    "Too general",
+    "No explanation of effect"
+   ]
+  },
+  {
+   "q": "Why should you choose from both paragraphs? [2]",
+   "model": "The task names two paragraphs and credit is limited if you only use one.",
+   "points": [
+    "Task requires both",
+    "One paragraph limits mark"
+   ]
+  },
+  {
+   "q": "Describe how a top answer differs from a middle answer. [3]",
+   "model": "Top: precise choices, detailed word-by-word effects, overall impression. Middle: sensible choices but general effects.",
+   "points": [
+    "Precise choices",
+    "Detailed effects",
+    "Overall impression"
+   ]
+  }
+ ]
+}

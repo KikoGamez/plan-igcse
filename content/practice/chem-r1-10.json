@@ -1,0 +1,170 @@
+{
+ "id": "chem-r1-10",
+ "cards": [
+  {
+   "f": "How is the Periodic Table arranged?",
+   "b": "In order of increasing proton (atomic) number, in periods (rows) and groups (columns)."
+  },
+  {
+   "f": "Trend in character across a period",
+   "b": "Metallic on the left changing to non-metallic on the right."
+  },
+  {
+   "f": "Why do elements in a group react similarly?",
+   "b": "They have the same number of outer-shell electrons."
+  },
+  {
+   "f": "Group I metals: physical properties",
+   "b": "Soft, low density (Li, Na, K float on water), low melting points; melting point decreases down the group."
+  },
+  {
+   "f": "Group I trends down the group",
+   "b": "Melting point decreases, density increases, reactivity with water increases."
+  },
+  {
+   "f": "Group I reaction with water",
+   "b": "Forms hydroxide and hydrogen: 2Na + 2H₂O → 2NaOH + H₂. Solution is alkaline."
+  },
+  {
+   "f": "Why is potassium more reactive than lithium?",
+   "b": "Outer electron is further from the nucleus, less strongly held, so lost more easily."
+  },
+  {
+   "f": "Halogens: appearance at r.t.p.",
+   "b": "Chlorine: pale yellow-green gas; bromine: red-brown liquid; iodine: grey-black solid."
+  },
+  {
+   "f": "Halogens trends down the group",
+   "b": "Density increases, reactivity decreases, colour gets darker."
+  },
+  {
+   "f": "Halogen molecules",
+   "b": "Diatomic non-metals: Cl₂, Br₂, I₂."
+  },
+  {
+   "f": "Halogen displacement rule",
+   "b": "A more reactive halogen displaces a less reactive halogen from its halide solution."
+  },
+  {
+   "f": "Cl₂ + 2KBr →",
+   "b": "2KCl + Br₂ (solution turns orange); chlorine is more reactive than bromine."
+  },
+  {
+   "f": "Transition elements: properties",
+   "b": "High density, high melting point, form coloured compounds, often act as catalysts."
+  },
+  {
+   "f": "Noble gases: properties and explanation",
+   "b": "Unreactive, monatomic gases, because they have full outer shells of electrons."
+  },
+  {
+   "f": "Predicting: reactivity of rubidium vs sodium",
+   "b": "Rubidium is lower in Group I so it is more reactive, softer, denser and has a lower melting point."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Elements in the Periodic Table are arranged in order of increasing ___ number.",
+   "a": [
+    "proton",
+    "atomic"
+   ]
+  },
+  {
+   "s": "Group I elements are called the ___ metals.",
+   "a": [
+    "alkali"
+   ]
+  },
+  {
+   "s": "Reactivity of the halogens ___ down the group.",
+   "a": [
+    "decreases",
+    "decrease",
+    "falls",
+    "reduces"
+   ]
+  },
+  {
+   "s": "Bromine is a red-brown ___ at room temperature.",
+   "a": [
+    "liquid"
+   ]
+  },
+  {
+   "s": "The noble gases exist as ___ atoms.",
+   "a": [
+    "single",
+    "individual",
+    "monatomic"
+   ]
+  },
+  {
+   "s": "Transition elements often act as ___ .",
+   "a": [
+    "catalysts",
+    "catalyst"
+   ]
+  },
+  {
+   "s": "Chlorine displaces ___ from potassium iodide solution.",
+   "a": [
+    "iodine",
+    "i2",
+    "I₂"
+   ]
+  },
+  {
+   "s": "Elements in the same period have the same number of electron ___ .",
+   "a": [
+    "shells"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe what you would see when a small piece of potassium is added to water and write the equation. [4]",
+   "model": "It floats, melts into a ball, moves quickly and burns with a lilac flame; 2K + 2H₂O → 2KOH + H₂.",
+   "points": [
+    "floats, moves, fizzes",
+    "lilac flame",
+    "2K + 2H₂O → 2KOH + H₂",
+    "alkaline solution formed"
+   ]
+  },
+  {
+   "q": "Explain why the noble gases are unreactive. [2]",
+   "model": "They have a full outer shell of electrons so do not need to lose, gain or share electrons.",
+   "points": [
+    "full outer shell",
+    "no need to gain/lose/share electrons"
+   ]
+  },
+  {
+   "q": "Chlorine water is added to potassium iodide solution. State the colour change and write the ionic equation. [3]",
+   "model": "Colourless to brown; Cl₂ + 2I⁻ → 2Cl⁻ + I₂.",
+   "points": [
+    "colourless to brown",
+    "Cl₂ + 2I⁻ → 2Cl⁻ + I₂"
+   ]
+  },
+  {
+   "q": "Astatine is below iodine in Group VII. Predict its state, colour and reactivity. [3]",
+   "model": "Solid, black/dark, and less reactive than iodine; it would not displace iodine.",
+   "points": [
+    "solid at r.t.p.",
+    "dark colour",
+    "less reactive than iodine"
+   ]
+  },
+  {
+   "q": "State three properties of transition elements that are different from Group I metals. [3]",
+   "model": "Higher density, higher melting point, harder; form coloured compounds and act as catalysts.",
+   "points": [
+    "high density",
+    "high melting point",
+    "coloured compounds/catalysts"
+   ]
+  }
+ ]
+}

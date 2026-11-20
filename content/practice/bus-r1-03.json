@@ -1,0 +1,166 @@
+{
+ "id": "bus-r1-03",
+ "cards": [
+  {
+   "f": "Motivation",
+   "b": "The reasons why employees want to work hard and work effectively for the business."
+  },
+  {
+   "f": "Signs of a well-motivated workforce",
+   "b": "High productivity, low absenteeism, low labour turnover, good ideas and cooperation, few disputes."
+  },
+  {
+   "f": "Labour turnover",
+   "b": "The rate at which employees leave a business and need to be replaced."
+  },
+  {
+   "f": "Taylor: what motivates workers?",
+   "b": "Mainly money. Break jobs into simple tasks and pay by piece rate. Ignores social needs; work becomes boring."
+  },
+  {
+   "f": "Maslow's hierarchy (bottom to top)",
+   "b": "Physiological, security/safety, social, esteem, self-actualisation. A met need no longer motivates; the next level does."
+  },
+  {
+   "f": "Herzberg: hygiene factors",
+   "b": "Pay, working conditions, policy, supervision, job security. They prevent dissatisfaction but do not motivate by themselves."
+  },
+  {
+   "f": "Herzberg: motivators",
+   "b": "Achievement, recognition, responsibility, interesting work, promotion. They create job satisfaction. Used through job enrichment."
+  },
+  {
+   "f": "Taylor vs Herzberg on money",
+   "b": "Taylor: money is the main motivator. Herzberg: pay is only a hygiene factor."
+  },
+  {
+   "f": "Piece rate",
+   "b": "A payment for each unit produced. Encourages output but quality may fall and pay is insecure."
+  },
+  {
+   "f": "Commission",
+   "b": "Payment as a percentage of the value of sales made, often on top of basic salary. Suits sales staff."
+  },
+  {
+   "f": "Bonus vs profit sharing",
+   "b": "Bonus: lump sum for hitting a target. Profit sharing: a proportion of company profit paid to employees."
+  },
+  {
+   "f": "Fringe benefits",
+   "b": "Non-financial extras on top of pay, e.g. company car, health insurance, discounts, pension."
+  },
+  {
+   "f": "Job rotation vs job enlargement",
+   "b": "Rotation: swap between tasks at the same level. Enlargement: extra tasks of a similar level added to the job."
+  },
+  {
+   "f": "Job enrichment",
+   "b": "Adding tasks needing more skill and responsibility. Meets Herzberg's motivators and Maslow's esteem needs."
+  },
+  {
+   "f": "Best reward for a small business with little cash",
+   "b": "Non-financial methods: praise, teamworking, responsibility. They cost little."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Paying workers for each unit produced is called ___ rate.",
+   "a": [
+    "piece"
+   ]
+  },
+  {
+   "s": "A fixed annual amount of pay, paid monthly, is a ___ .",
+   "a": [
+    "salary"
+   ]
+  },
+  {
+   "s": "Giving workers more challenging tasks and responsibility is job ___ .",
+   "a": [
+    "enrichment"
+   ]
+  },
+  {
+   "s": "In Maslow's hierarchy the highest level of need is ___ .",
+   "a": [
+    "self-actualisation",
+    "self actualisation",
+    "self-actualization"
+   ]
+  },
+  {
+   "s": "A sales worker earns 5% commission on $30,000 of sales, so the commission is $ ___ .",
+   "a": [
+    "1500",
+    "1,500",
+    "$1,500"
+   ]
+  },
+  {
+   "s": "Herzberg said that pay is a ___ factor.",
+   "a": [
+    "hygiene"
+   ]
+  },
+  {
+   "s": "A company car is an example of a ___ benefit.",
+   "a": [
+    "fringe"
+   ]
+  },
+  {
+   "s": "In Maslow's hierarchy, job security and safe conditions meet ___ needs.",
+   "a": [
+    "security",
+    "safety",
+    "security/safety"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why high labour turnover is a problem for a business. [2]",
+   "model": "Many staff leave and must be replaced, which raises recruitment and training costs and can lower productivity.",
+   "points": [
+    "higher recruitment and training costs",
+    "lower productivity or disruption"
+   ]
+  },
+  {
+   "q": "Calculate the total pay of a worker on a basic salary of €1,200 plus 5% commission on sales of €30,000. [2]",
+   "model": "Commission = 5% × 30,000 = €1,500. Total = 1,200 + 1,500 = €2,700.",
+   "points": [
+    "commission €1,500",
+    "total €2,700"
+   ]
+  },
+  {
+   "q": "Explain one limitation of Taylor's theory of motivation. [2]",
+   "model": "It ignores social and esteem needs, so repetitive piece-rate work can become boring and quality may suffer as workers rush.",
+   "points": [
+    "ignores non-financial needs",
+    "boredom or poor quality as a result"
+   ]
+  },
+  {
+   "q": "Explain the difference between job enlargement and job enrichment. [3]",
+   "model": "Enlargement adds extra tasks of a similar level, giving variety. Enrichment adds more challenging tasks and responsibility, using more of the worker's skills.",
+   "points": [
+    "enlargement: extra similar tasks",
+    "enrichment: more skill and responsibility",
+    "contrast clearly made"
+   ]
+  },
+  {
+   "q": "A nurse and a factory worker both work at one hospital supplier. Explain why piece rate suits one but not the other. [4]",
+   "model": "Piece rate suits the factory worker because output can be counted. It does not suit a nurse because output is hard to measure and quality of care matters more than speed.",
+   "points": [
+    "output measurable for factory worker",
+    "encourages more production",
+    "nurse's output hard to measure",
+    "quality could suffer under piece rate"
+   ]
+  }
+ ]
+}

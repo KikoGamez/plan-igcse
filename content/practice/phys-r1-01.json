@@ -1,0 +1,165 @@
+{
+ "id": "phys-r1-01",
+ "cards": [
+  {
+   "f": "Scalar vs vector",
+   "b": "A scalar has magnitude only; a vector has magnitude and direction."
+  },
+  {
+   "f": "Give four scalar quantities",
+   "b": "Distance, speed, time, mass (also energy, temperature)."
+  },
+  {
+   "f": "Give four vector quantities",
+   "b": "Force, weight, velocity, acceleration (also gravitational field strength)."
+  },
+  {
+   "f": "Define speed",
+   "b": "Distance travelled per unit time: v = s ÷ t."
+  },
+  {
+   "f": "Average speed formula",
+   "b": "Total distance travelled ÷ total time taken (include any time at rest)."
+  },
+  {
+   "f": "Define velocity",
+   "b": "Speed in a given direction."
+  },
+  {
+   "f": "Define acceleration and give its equation",
+   "b": "Change in velocity per unit time: a = Δv ÷ Δt, unit m/s²."
+  },
+  {
+   "f": "Distance–time graph: horizontal line means...",
+   "b": "The object is at rest."
+  },
+  {
+   "f": "Distance–time graph: gradient gives...",
+   "b": "Speed (use a straight-line section: change in distance ÷ change in time)."
+  },
+  {
+   "f": "Speed–time graph: gradient gives...",
+   "b": "Acceleration. A negative gradient is a deceleration."
+  },
+  {
+   "f": "Speed–time graph: area under line gives...",
+   "b": "Distance travelled. Split into rectangles and triangles."
+  },
+  {
+   "f": "Convert 90 km/h to m/s",
+   "b": "Divide by 3.6: 90 ÷ 3.6 = 25 m/s."
+  },
+  {
+   "f": "Value of g near the Earth's surface",
+   "b": "About 9.8 m/s² (acceleration of free fall), the same for all masses if there is no air resistance."
+  },
+  {
+   "f": "Why does timing 20 oscillations give a better period than timing one?",
+   "b": "Reaction-time error is a much smaller fraction of the longer time. Divide the total by 20."
+  },
+  {
+   "f": "Trap: car moves round a roundabout at constant speed",
+   "b": "Its velocity changes because direction changes, so it is accelerating."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Speed is distance travelled per unit ___ .",
+   "a": [
+    "time"
+   ]
+  },
+  {
+   "s": "A quantity with magnitude and direction is called a ___ .",
+   "a": [
+    "vector"
+   ]
+  },
+  {
+   "s": "The gradient of a speed–time graph gives the ___ .",
+   "a": [
+    "acceleration"
+   ]
+  },
+  {
+   "s": "The area under a speed–time graph gives the ___ travelled.",
+   "a": [
+    "distance"
+   ]
+  },
+  {
+   "s": "A car that speeds up from 0 to 20 m/s in 4.0 s has an acceleration of ___ m/s².",
+   "a": [
+    "5",
+    "5.0"
+   ]
+  },
+  {
+   "s": "A runner covers 100 m in 12.5 s, so her average speed is ___ m/s.",
+   "a": [
+    "8",
+    "8.0"
+   ]
+  },
+  {
+   "s": "Deceleration is a ___ acceleration.",
+   "a": [
+    "negative"
+   ]
+  },
+  {
+   "s": "On a distance–time graph, a horizontal line means the object is at ___ .",
+   "a": [
+    "rest",
+    "stationary"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A cyclist travels 300 m in 50 s, stops for 20 s, then travels 180 m in 30 s. Calculate her average speed for the whole journey.",
+   "model": "Total distance = 480 m, total time = 100 s, so average speed = 4.8 m/s.",
+   "points": [
+    "total distance 480 m",
+    "total time 100 s (includes the rest)",
+    "4.8 m/s"
+   ]
+  },
+  {
+   "q": "A distance–time graph shows a straight line sloping upwards, then a horizontal line. Describe the motion.",
+   "model": "The object first moves at constant speed, then stops (at rest).",
+   "points": [
+    "sloping straight line: constant speed",
+    "horizontal line: at rest / stationary"
+   ]
+  },
+  {
+   "q": "State the difference between speed and velocity.",
+   "model": "Speed is distance per unit time and has no direction (scalar); velocity is speed in a given direction (vector).",
+   "points": [
+    "speed: no direction / scalar",
+    "velocity: includes direction / vector"
+   ]
+  },
+  {
+   "q": "A car accelerates uniformly from rest to 24 m/s in 8.0 s. Calculate its acceleration and the distance it travels in this time.",
+   "model": "a = 24 ÷ 8.0 = 3.0 m/s². Distance = area = ½ × 8.0 × 24 = 96 m.",
+   "points": [
+    "a = Δv ÷ Δt",
+    "3.0 m/s²",
+    "distance = area under graph = ½ × 8.0 × 24",
+    "96 m"
+   ]
+  },
+  {
+   "q": "Explain why a stone sinking in thick oil reaches a constant speed.",
+   "model": "At first weight is the only force so it accelerates. Drag increases with speed, reducing the resultant force, until drag equals weight; the resultant force is then zero so speed is constant.",
+   "points": [
+    "drag increases as speed increases",
+    "resultant force (weight − drag) decreases",
+    "drag = weight so resultant force is zero",
+    "acceleration zero, constant speed"
+   ]
+  }
+ ]
+}

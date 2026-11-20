@@ -1,0 +1,35 @@
+{"id":"bio-r1-09",
+"cards":[
+{"f":"Define excretion","b":"The removal of waste products of metabolism and substances in excess of requirements."},
+{"f":"Define homeostasis","b":"The maintenance of a constant internal environment."},
+{"f":"What is a set point?","b":"The normal value of a controlled factor, e.g. about 37 °C for human body temperature."},
+{"f":"Explain negative feedback","b":"A change from the set point is detected and a response returns the factor towards the set point; the response then switches off."},
+{"f":"Blood glucose too high: what happens?","b":"Pancreas detects it and secretes insulin; the liver converts glucose to glycogen; blood glucose falls to the set point."},
+{"f":"Blood glucose too low: what happens?","b":"Pancreas secretes glucagon; the liver converts glycogen to glucose; blood glucose rises to the set point."},
+{"f":"Which organ makes insulin and glucagon, and which is the target?","b":"The pancreas secretes both. The target organ is the liver."},
+{"f":"Role of the brain in temperature control","b":"Monitors blood temperature (and skin receptor impulses) and coordinates responses to keep temperature near the set point."},
+{"f":"Role of skin receptors and sensory neurones","b":"Receptors detect temperature; sensory neurones carry impulses to the brain."},
+{"f":"Response when the body is too hot","b":"Sweating (evaporation removes heat), vasodilation of arterioles (more heat lost), hairs lie flat."},
+{"f":"Response when the body is too cold","b":"Shivering (respiration releases heat), vasoconstriction of arterioles (less heat lost), hairs stand up trapping insulating air, no sweating."},
+{"f":"Define vasodilation and vasoconstriction","b":"Vasodilation: arterioles to skin capillaries widen. Vasoconstriction: they narrow. Capillaries themselves do not move."},
+{"f":"How do sweat glands cool the body?","b":"Sweat evaporates from the skin surface, transferring heat energy away."},
+{"f":"How does shivering warm the body?","b":"Rapid involuntary muscle contractions increase respiration, which releases heat."},
+{"f":"Insulation in the skin","b":"Fatty tissue under the skin and a layer of air trapped by raised hairs reduce heat loss."}
+],
+"gaps":[
+{"s":"Maintaining a constant internal environment is called ___ .","a":["homeostasis"]},
+{"s":"The hormone that lowers blood glucose is ___ .","a":["insulin"]},
+{"s":"Glucagon causes the liver to change ___ into glucose.","a":["glycogen"]},
+{"s":"Insulin and glucagon are secreted by the ___ .","a":["pancreas"]},
+{"s":"Widening of arterioles supplying skin capillaries is called ___ .","a":["vasodilation","vasodilatation"]},
+{"s":"Narrowing of arterioles supplying skin capillaries is called ___ .","a":["vasoconstriction"]},
+{"s":"Hair erector muscles ___ to raise the hairs when the body is cold.","a":["contract","contracts"]},
+{"s":"The normal human body temperature set point is about ___ °C.","a":["37","37°C","37 °C"]}
+],
+"short":[
+{"q":"Explain how the body responds when blood glucose concentration rises after a meal. [3]","model":"The pancreas secretes insulin into the blood, which causes the liver to convert glucose to glycogen, so blood glucose falls to the set point.","points":["pancreas secretes insulin","liver converts glucose to glycogen","blood glucose falls (negative feedback)"]},
+{"q":"Explain why blood glucose control is an example of negative feedback. [2]","model":"A change away from the set point causes a response that brings the glucose concentration back towards the set point.","points":["change from set point detected","response reverses the change / returns to set point"]},
+{"q":"Describe how vasodilation helps to cool the body. [3]","model":"Arterioles supplying skin capillaries widen, so more blood flows near the skin surface and more heat is lost to the surroundings.","points":["arterioles widen","more blood through skin surface capillaries","more heat lost"]},
+{"q":"A student says that blood vessels move closer to the skin surface when hot. Explain what is wrong. [2]","model":"Vessels do not move. Arterioles widen (vasodilation) so more blood flows through the capillaries near the surface.","points":["vessels / capillaries do not move","arterioles widen to increase blood flow near surface"]},
+{"q":"Explain how shivering and hair erector muscles help a person who is cold. [3]","model":"Shivering contracts muscles rapidly, increasing respiration and releasing heat. Hair erector muscles raise hairs, trapping an insulating layer of air.","points":["shivering muscle contraction increases respiration","heat released","raised hairs trap insulating air"]}
+]}

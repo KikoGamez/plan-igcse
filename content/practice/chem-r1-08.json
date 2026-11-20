@@ -1,0 +1,168 @@
+{
+ "id": "chem-r1-08",
+ "cards": [
+  {
+   "f": "Physical change",
+   "b": "No new substance is formed; usually easily reversible (e.g. melting, dissolving)."
+  },
+  {
+   "f": "Chemical change",
+   "b": "New substances are formed; usually difficult to reverse; often with energy change, gas, colour change or precipitate."
+  },
+  {
+   "f": "Redox reaction",
+   "b": "A reaction in which oxidation and reduction happen at the same time."
+  },
+  {
+   "f": "Oxidation (oxygen definition)",
+   "b": "Gain of oxygen."
+  },
+  {
+   "f": "Reduction (oxygen definition)",
+   "b": "Loss of oxygen."
+  },
+  {
+   "f": "Oxidation (electron definition)",
+   "b": "Loss of electrons; oxidation number increases."
+  },
+  {
+   "f": "Reduction (electron definition)",
+   "b": "Gain of electrons; oxidation number decreases."
+  },
+  {
+   "f": "OIL RIG",
+   "b": "Oxidation Is Loss of electrons; Reduction Is Gain of electrons."
+  },
+  {
+   "f": "In Fe₂O₃ + 3CO → 2Fe + 3CO₂, what is oxidised?",
+   "b": "CO is oxidised (gains oxygen to form CO₂). Fe₂O₃ is reduced (loses oxygen)."
+  },
+  {
+   "f": "In Mg + CuO → MgO + Cu, what is oxidised and reduced?",
+   "b": "Mg is oxidised (gains O); CuO is reduced (loses O)."
+  },
+  {
+   "f": "What does the Roman numeral in iron(III) mean?",
+   "b": "The oxidation number of the ion: Fe³⁺ has charge 3+."
+  },
+  {
+   "f": "Zn + Cu²⁺ → Zn²⁺ + Cu: which is oxidised?",
+   "b": "Zinc: it loses 2 electrons. Cu²⁺ gains 2 electrons and is reduced."
+  },
+  {
+   "f": "Test for water using cobalt(II) chloride",
+   "b": "Anhydrous cobalt(II) chloride turns from blue to pink."
+  },
+  {
+   "f": "Test for water using copper(II) sulfate",
+   "b": "Anhydrous copper(II) sulfate turns from white to blue."
+  },
+  {
+   "f": "Does the water test show the water is pure?",
+   "b": "No. It only shows water is present. Pure water melts at 0 °C and boils at 100 °C."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Oxidation is the ___ of oxygen.",
+   "a": [
+    "gain",
+    "addition"
+   ]
+  },
+  {
+   "s": "Reduction is the ___ of electrons.",
+   "a": [
+    "gain",
+    "gaining"
+   ]
+  },
+  {
+   "s": "In a redox reaction, oxidation and ___ occur simultaneously.",
+   "a": [
+    "reduction"
+   ]
+  },
+  {
+   "s": "The ion Fe³⁺ is named iron(___) .",
+   "a": [
+    "iii",
+    "3"
+   ]
+  },
+  {
+   "s": "Anhydrous cobalt(II) chloride turns from blue to ___ in water.",
+   "a": [
+    "pink"
+   ]
+  },
+  {
+   "s": "Burning magnesium in air is a ___ change.",
+   "a": [
+    "chemical"
+   ]
+  },
+  {
+   "s": "Pure water boils at ___ °C.",
+   "a": [
+    "100",
+    "100 °c",
+    "100°c"
+   ]
+  },
+  {
+   "s": "When an atom loses electrons its oxidation number ___ .",
+   "a": [
+    "increases",
+    "goes up",
+    "rises"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State the difference between a physical change and a chemical change. [2]",
+   "model": "In a physical change no new substance forms and it is easily reversed; in a chemical change a new substance forms.",
+   "points": [
+    "physical: no new substance",
+    "chemical: new substance formed"
+   ]
+  },
+  {
+   "q": "In CuO + H₂ → Cu + H₂O identify the substance oxidised and the substance reduced, with a reason for each. [4]",
+   "model": "H₂ is oxidised because it gains oxygen; CuO is reduced because it loses oxygen.",
+   "points": [
+    "H₂ oxidised",
+    "gains oxygen",
+    "CuO reduced",
+    "loses oxygen"
+   ]
+  },
+  {
+   "q": "Explain, in terms of electrons, why Zn + Cu²⁺ → Zn²⁺ + Cu is a redox reaction. [3]",
+   "model": "Zinc loses electrons (oxidation) and copper ions gain electrons (reduction) at the same time.",
+   "points": [
+    "Zn loses electrons/oxidised",
+    "Cu²⁺ gains electrons/reduced",
+    "both happen together"
+   ]
+  },
+  {
+   "q": "Describe a chemical test for water and a way to show the water is pure. [3]",
+   "model": "Anhydrous copper(II) sulfate turns white to blue. Pure water has a boiling point of exactly 100 °C (melting point 0 °C).",
+   "points": [
+    "anhydrous copper(II) sulfate white to blue",
+    "measure boiling point",
+    "100 °C"
+   ]
+  },
+  {
+   "q": "Name the ion Fe³⁺ and explain what the (III) shows. [2]",
+   "model": "Iron(III); the number in brackets is the charge/oxidation number of the iron ion.",
+   "points": [
+    "iron(III)",
+    "shows the 3+ charge"
+   ]
+  }
+ ]
+}

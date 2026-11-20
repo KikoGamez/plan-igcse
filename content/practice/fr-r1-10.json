@@ -1,0 +1,167 @@
+{
+ "id": "fr-r1-10",
+ "cards": [
+  {
+   "f": "Role play: first thing to check",
+   "b": "Who are you, who is the examiner, where? Use vous with adults, tu with friends."
+  },
+  {
+   "f": "Pouvez-vous répéter, s'il vous plaît ?",
+   "b": "Can you repeat, please? (no penalty once)."
+  },
+  {
+   "f": "PEEF method",
+   "b": "Point, Explain (parce que), Example in a different tense, Feeling."
+  },
+  {
+   "f": "Keep-talking phrases",
+   "b": "Alors…, Bon…, Voyons…, Comment dire…, C'est une bonne question."
+  },
+  {
+   "f": "Ask: how much is it per night?",
+   "b": "C'est combien par nuit ?"
+  },
+  {
+   "f": "Is breakfast included?",
+   "b": "Le petit-déjeuner est compris ?"
+  },
+  {
+   "f": "Je voudrais une chambre pour deux personnes",
+   "b": "I would like a room for two people."
+  },
+  {
+   "f": "Unexpected prompt",
+   "b": "Give a simple, believable answer: the examiner is not checking the truth."
+  },
+  {
+   "f": "Conversation marking",
+   "b": "Communication, range (tenses, opinions, structures), accuracy and pronunciation."
+  },
+  {
+   "f": "Pronunciation traps",
+   "b": "Silent -ent on plural verbs, silent final consonants, tu vs tout, French r."
+  },
+  {
+   "f": "D'un côté… de l'autre côté…",
+   "b": "On one hand… on the other hand… (for pros and cons)."
+  },
+  {
+   "f": "Je me suis couché(e) tard",
+   "b": "I went to bed late (reflexive, passé composé)."
+  },
+  {
+   "f": "Si j'avais plus de temps, j'apprendrais la guitare",
+   "b": "If I had more time, I would learn the guitar (si + imparfait, conditionnel)."
+  },
+  {
+   "f": "Aim for how many sentences per answer",
+   "b": "Three to five, not a speech; under about one minute."
+  },
+  {
+   "f": "Common Speaking mistake",
+   "b": "One-sentence answers with no development, or a memorised paragraph that doesn't fit."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In a hotel role play, address the receptionist with ___ .",
+   "a": [
+    "vous"
+   ]
+  },
+  {
+   "s": "PEEF: the second E means ___ .",
+   "a": [
+    "explain",
+    "explanation"
+   ]
+  },
+  {
+   "s": "Pour s'excuser de ne pas avoir compris: Pouvez-vous ___ , s'il vous plaît ?",
+   "a": [
+    "répéter",
+    "repeter"
+   ]
+  },
+  {
+   "s": "« Le petit-déjeuner est ___ ? » (included)",
+   "a": [
+    "compris"
+   ]
+  },
+  {
+   "s": "In the conversation, use at least ___ different tenses.",
+   "a": [
+    "3",
+    "three",
+    "trois"
+   ]
+  },
+  {
+   "s": "Role play: with a friend or host-family member of your age, use ___ .",
+   "a": [
+    "tu"
+   ]
+  },
+  {
+   "s": "The -ent of ils parlent is ___ .",
+   "a": [
+    "silent",
+    "not pronounced",
+    "mute"
+   ]
+  },
+  {
+   "s": "« Je ___ une chambre pour deux personnes. » (I would like)",
+   "a": [
+    "voudrais"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "In a hotel role play, say: you want a double room for three nights, with a shower. [3]",
+   "model": "Je voudrais une chambre pour deux personnes, pour trois nuits, avec douche, s'il vous plaît.",
+   "points": [
+    "Je voudrais une chambre double (1)",
+    "Trois nuits (1)",
+    "Avec douche (1)"
+   ]
+  },
+  {
+   "q": "Explain the PEEF method for conversation answers. [3]",
+   "model": "Give your Point, Explain with parce que, give an Example in another tense, add a Feeling.",
+   "points": [
+    "Point and explain (1)",
+    "Example in a different tense (1)",
+    "Feeling (1)"
+   ]
+  },
+  {
+   "q": "Answer in French in 3 sentences: Parle-moi de ta famille. [3]",
+   "model": "Nous sommes quatre. Je m'entends bien avec ma mère parce qu'elle est patiente. Le week-end dernier, nous avons fêté l'anniversaire de ma grand-mère.",
+   "points": [
+    "Present description (1)",
+    "Opinion with reason (1)",
+    "Past tense (1)"
+   ]
+  },
+  {
+   "q": "Give two ways to avoid silence in Speaking. [2]",
+   "model": "Use a filler such as Alors… or Comment dire…, or ask the examiner to repeat.",
+   "points": [
+    "Filler phrase (1)",
+    "Pouvez-vous répéter (1)"
+   ]
+  },
+  {
+   "q": "Name three pronunciation traps in French Speaking. [3]",
+   "model": "Silent -ent on plural verbs, silent final consonants (beaucoup, temps), and tu vs tout.",
+   "points": [
+    "Silent -ent on plural verbs (1)",
+    "Silent final consonants (1)",
+    "tu vs tout, or French r (1)"
+   ]
+  }
+ ]
+}

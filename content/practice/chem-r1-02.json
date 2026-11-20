@@ -1,0 +1,167 @@
+{
+ "id": "chem-r1-02",
+ "cards": [
+  {
+   "f": "Define ionic bond",
+   "b": "Strong electrostatic attraction between oppositely charged ions."
+  },
+  {
+   "f": "Define covalent bond",
+   "b": "A pair of electrons shared between two atoms, giving each a noble gas electronic configuration."
+  },
+  {
+   "f": "How do metal atoms form ions?",
+   "b": "They lose outer-shell electrons to form positive ions (cations). Group I forms 1+, Group II 2+."
+  },
+  {
+   "f": "How do non-metal atoms form ions?",
+   "b": "They gain electrons to complete the outer shell, forming negative ions (anions). Group VII forms 1−, Group VI 2−."
+  },
+  {
+   "f": "Structure of an ionic compound",
+   "b": "Giant lattice: a regular arrangement of alternating positive and negative ions."
+  },
+  {
+   "f": "Why do ionic compounds have high melting points?",
+   "b": "Many strong electrostatic attractions between oppositely charged ions must be overcome, which needs lots of energy."
+  },
+  {
+   "f": "When do ionic compounds conduct electricity?",
+   "b": "When molten or in aqueous solution (ions are free to move); not as solids (ions fixed in the lattice)."
+  },
+  {
+   "f": "Why do simple molecular substances have low melting and boiling points?",
+   "b": "Weak intermolecular forces between molecules are easily overcome; covalent bonds within molecules do not break."
+  },
+  {
+   "f": "Why can simple molecular compounds not conduct electricity?",
+   "b": "They have no ions or free electrons; molecules are uncharged."
+  },
+  {
+   "f": "Diamond: structure and property",
+   "b": "Each carbon bonded to 4 others in a giant covalent lattice; very hard, so used in cutting tools."
+  },
+  {
+   "f": "Graphite: structure and properties",
+   "b": "Layers of carbon, each bonded to 3 others, with weak forces between layers and delocalised electrons. Soft, slippery, conducts."
+  },
+  {
+   "f": "Why does graphite conduct electricity?",
+   "b": "Each carbon has one delocalised electron that is free to move along the layers."
+  },
+  {
+   "f": "Describe metallic bonding",
+   "b": "Electrostatic attraction between positive metal ions in a lattice and a sea of delocalised electrons."
+  },
+  {
+   "f": "Why are metals malleable?",
+   "b": "Layers of positive ions can slide over each other while the delocalised electrons keep holding them together."
+  },
+  {
+   "f": "Dot-and-cross: how many shared pairs in N₂ and O₂?",
+   "b": "N₂ has a triple bond (3 pairs); O₂ has a double bond (2 pairs)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "An ionic bond is the electrostatic ___ between oppositely charged ions.",
+   "a": [
+    "attraction"
+   ]
+  },
+  {
+   "s": "A magnesium atom forms an ion with a charge of ___ .",
+   "a": [
+    "2+",
+    "+2",
+    "2"
+   ]
+  },
+  {
+   "s": "Ionic compounds conduct electricity when molten or ___ in water.",
+   "a": [
+    "dissolved",
+    "aqueous",
+    "in solution"
+   ]
+  },
+  {
+   "s": "In a molecule of methane, CH₄, carbon forms ___ covalent bonds.",
+   "a": [
+    "4",
+    "four"
+   ]
+  },
+  {
+   "s": "Carbon dioxide has ___ double bonds in each molecule.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "In graphite, the layers can slide because the forces between them are ___ .",
+   "a": [
+    "weak"
+   ]
+  },
+  {
+   "s": "A giant lattice of positive ions in a sea of delocalised electrons is found in ___ .",
+   "a": [
+    "metals",
+    "a metal",
+    "metallic structures"
+   ]
+  },
+  {
+   "s": "Diamond is used in cutting tools because it is very ___ .",
+   "a": [
+    "hard"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why sodium chloride has a high melting point. [2]",
+   "model": "It has a giant lattice with strong electrostatic attractions between Na⁺ and Cl⁻ ions, which need a lot of energy to overcome.",
+   "points": [
+    "giant lattice of ions",
+    "strong electrostatic attraction between oppositely charged ions",
+    "large amount of energy needed"
+   ]
+  },
+  {
+   "q": "Explain why solid sodium chloride does not conduct electricity but molten sodium chloride does. [2]",
+   "model": "In the solid the ions are fixed in the lattice; when molten the ions are free to move and carry charge.",
+   "points": [
+    "solid: ions cannot move",
+    "molten: ions free to move and carry current"
+   ]
+  },
+  {
+   "q": "Explain why methane has a low boiling point. [2]",
+   "model": "It is a simple molecule with weak intermolecular forces, which need little energy to overcome; covalent bonds do not break.",
+   "points": [
+    "weak intermolecular forces",
+    "little energy needed to overcome them"
+   ]
+  },
+  {
+   "q": "Explain why graphite is a good lubricant and a good electrode material. [3]",
+   "model": "Layers slide easily because forces between layers are weak; delocalised electrons carry current along the layers.",
+   "points": [
+    "weak forces between layers",
+    "layers slide over each other",
+    "delocalised electrons conduct electricity"
+   ]
+  },
+  {
+   "q": "Explain why metals are good conductors of electricity. [2]",
+   "model": "Metals contain a sea of delocalised electrons that are free to move through the lattice and carry charge.",
+   "points": [
+    "delocalised electrons",
+    "free to move/carry charge"
+   ]
+  }
+ ]
+}

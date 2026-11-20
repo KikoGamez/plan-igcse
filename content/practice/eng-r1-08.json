@@ -1,0 +1,160 @@
+{
+ "id": "eng-r1-08",
+ "cards": [
+  {
+   "f": "Paper 2 Section A: what is the task?",
+   "b": "Compulsory. Read two texts on one topic and write an argumentative or discursive letter, article or speech, 250-350 words."
+  },
+  {
+   "f": "Marks for Section A?",
+   "b": "40 marks: 15 reading + 25 writing."
+  },
+  {
+   "f": "Which two bullet points are always asked?",
+   "b": "Evaluate the ideas in both texts, and give your own views."
+  },
+  {
+   "f": "What does 'evaluate' mean?",
+   "b": "Judge how strong, fair, reliable or convincing an idea is, not just report it."
+  },
+  {
+   "f": "Reporting vs evaluating example?",
+   "b": "Report: 'Text A says homework helps.' Evaluate: 'Text A's only evidence is one teacher's experience, so it is weak.'"
+  },
+  {
+   "f": "Four evaluation questions to ask?",
+   "b": "What evidence? Is the writer biased? Is it exaggerated or one-sided? Does it apply to everyone?"
+  },
+  {
+   "f": "Top reading level?",
+   "b": "Evaluates ideas from both texts thoroughly, reads between lines, combines ideas into a developed argument."
+  },
+  {
+   "f": "What caps the reading mark?",
+   "b": "Summarising Text A then Text B with no judgement."
+  },
+  {
+   "f": "Opening paragraph should contain?",
+   "b": "Address the audience, state the issue and your overall position."
+  },
+  {
+   "f": "Structure of the answer?",
+   "b": "Opening, body 1 (ideas evaluated), body 2 (opposing ideas evaluated), body 3 (own view), conclusion."
+  },
+  {
+   "f": "Register for a letter to a headteacher?",
+   "b": "Formal, polite. 'Dear Ms...' and 'Yours sincerely'."
+  },
+  {
+   "f": "Register for a speech?",
+   "b": "Direct and persuasive: 'you', 'we', rhetorical questions."
+  },
+  {
+   "f": "Register for a school magazine article?",
+   "b": "Semi-formal, lively, with a headline and engaging opening."
+  },
+  {
+   "f": "Useful evaluative phrase?",
+   "b": "'The writer claims..., yet offers little evidence...'."
+  },
+  {
+   "f": "Why must you use both texts?",
+   "b": "Using only one text limits the reading mark."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Paper 2 Section A is worth ___ marks.",
+   "a": [
+    "40"
+   ]
+  },
+  {
+   "s": "To judge how convincing an idea is, you ___ it.",
+   "a": [
+    "evaluate"
+   ]
+  },
+  {
+   "s": "A writer who may have a one-sided motive may be ___.",
+   "a": [
+    "biased",
+    "bias"
+   ]
+  },
+  {
+   "s": "A letter to a headteacher should end with 'Yours ___'.",
+   "a": [
+    "sincerely"
+   ]
+  },
+  {
+   "s": "Section A asks for 250 to ___ words.",
+   "a": [
+    "350"
+   ]
+  },
+  {
+   "s": "Reading marks for Section A are out of ___.",
+   "a": [
+    "15"
+   ]
+  },
+  {
+   "s": "Section A is based on ___ texts.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "Writing marks for Section A are out of ___.",
+   "a": [
+    "25"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the difference between reporting and evaluating. [2]",
+   "model": "Reporting says what a text claims. Evaluating judges how strong or convincing it is, e.g. by considering evidence or bias.",
+   "points": [
+    "Reporting = repeat",
+    "Evaluating = judge strength"
+   ]
+  },
+  {
+   "q": "State two questions to ask when evaluating an idea. [2]",
+   "model": "Is there enough evidence? Could the writer be biased?",
+   "points": [
+    "Evidence",
+    "Bias/exaggeration/applicability"
+   ]
+  },
+  {
+   "q": "What should the opening paragraph include? [3]",
+   "model": "Address the audience, state the issue and give your overall position.",
+   "points": [
+    "Address audience",
+    "State issue",
+    "Overall position"
+   ]
+  },
+  {
+   "q": "Why is a clear overall position important? [2]",
+   "model": "It gives the answer a focused argument, and avoids changing position without explanation.",
+   "points": [
+    "Focused argument",
+    "Consistency"
+   ]
+  },
+  {
+   "q": "Why does summarising each text in turn limit marks? [2]",
+   "model": "It shows no judgement. Top levels need evaluation and a developed argument.",
+   "points": [
+    "No evaluation",
+    "Middle level cap"
+   ]
+  }
+ ]
+}

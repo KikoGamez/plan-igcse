@@ -1,0 +1,169 @@
+{
+ "id": "fr-r1-01",
+ "cards": [
+  {
+   "f": "Four components of IGCSE French 0520?",
+   "b": "Listening, Reading, Speaking, Writing: 25% each."
+  },
+  {
+   "f": "Topic area A?",
+   "b": "Everyday activities: home, routine, school, food and drink, health."
+  },
+  {
+   "f": "Topic area B?",
+   "b": "Personal and social life: family, friends, hobbies, holidays, festivals."
+  },
+  {
+   "f": "Topic area C?",
+   "b": "The world around us: town, shopping, services, environment, weather, transport."
+  },
+  {
+   "f": "Topic area D?",
+   "b": "The world of work: further education, careers, part-time jobs, communication."
+  },
+  {
+   "f": "Topic area E?",
+   "b": "The international world: travel, tourism, life abroad, world issues."
+  },
+  {
+   "f": "Cochez la bonne case",
+   "b": "Tick the correct box."
+  },
+  {
+   "f": "Répondez en français",
+   "b": "Answer in French (answering in English loses the mark)."
+  },
+  {
+   "f": "Vrai ou faux ? Corrigez les phrases fausses",
+   "b": "True or false? Correct the false sentences."
+  },
+  {
+   "f": "Complétez les phrases",
+   "b": "Complete the sentences."
+  },
+  {
+   "f": "What is a distractor in Listening?",
+   "b": "Information that sounds like the answer but is not, e.g. a plan later cancelled (« mais finalement… »)."
+  },
+  {
+   "f": "Why must you wait for the final decision in Listening?",
+   "b": "Speakers change their minds; « Je voulais… mais finalement… » means the answer comes after « mais »."
+  },
+  {
+   "f": "What is 'lifting' in Reading?",
+   "b": "Copying words from the text. Only copy the relevant part, not a whole sentence containing wrong extra information."
+  },
+  {
+   "f": "What does a top Speaking/Writing answer include?",
+   "b": "Three time frames, opinions with reasons, connectives, one or two ambitious structures, and accurate basics."
+  },
+  {
+   "f": "Give three French connectives with meanings",
+   "b": "cependant (however), donc (so), par contre (on the other hand), ensuite (next), pourtant (yet)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Each of the four components of 0520 is worth ___ % of the qualification.",
+   "a": [
+    "25",
+    "25%",
+    "25 %"
+   ]
+  },
+  {
+   "s": "In Listening, each recording is normally played ___ .",
+   "a": [
+    "twice",
+    "two times",
+    "2 times",
+    "deux fois"
+   ]
+  },
+  {
+   "s": "The instruction « ___ en français » means 'Answer in French'.",
+   "a": [
+    "Répondez",
+    "Repondez"
+   ]
+  },
+  {
+   "s": "The instruction « Cochez la bonne ___ » means 'Tick the correct box'.",
+   "a": [
+    "case"
+   ]
+  },
+  {
+   "s": "Topic area ___ covers the world of work.",
+   "a": [
+    "D"
+   ]
+  },
+  {
+   "s": "Copying a whole sentence from the Reading text can lose the mark if it contains wrong extra ___ .",
+   "a": [
+    "information",
+    "info",
+    "detail",
+    "details",
+    "informations"
+   ]
+  },
+  {
+   "s": "« Normalement, je vais au collège à vélo, mais aujourd'hui… » The words about the bike are a ___ .",
+   "a": [
+    "distractor",
+    "distracteur"
+   ]
+  },
+  {
+   "s": "The Writing long task in this plan is ___ words (give the lower figure).",
+   "a": [
+    "130"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Name the four components of IGCSE French 0520 and say how much each is worth. [2]",
+   "model": "Listening, Reading, Speaking and Writing, each worth 25%.",
+   "points": [
+    "All four components named (1)",
+    "25% each (1)"
+   ]
+  },
+  {
+   "q": "Listening: « Je voulais acheter un pantalon, mais il était trop cher, alors j'ai pris un tee-shirt. » What did she buy? Explain. [2]",
+   "model": "She bought a t-shirt. The trousers were a distractor because they were too expensive.",
+   "points": [
+    "Un tee-shirt (1)",
+    "Trousers were wanted but not bought / distractor (1)"
+   ]
+  },
+  {
+   "q": "Translate these exam instructions: (a) Répondez en français (b) Corrigez les phrases fausses. [2]",
+   "model": "(a) Answer in French. (b) Correct the false sentences.",
+   "points": [
+    "(a) Answer in French (1)",
+    "(b) Correct the false sentences (1)"
+   ]
+  },
+  {
+   "q": "Explain why missing one bullet point in a Writing task is costly. [2]",
+   "model": "Communication marks depend on covering every bullet clearly, so a missing bullet caps the communication mark.",
+   "points": [
+    "Every bullet must be covered (1)",
+    "Missing one caps the communication mark (1)"
+   ]
+  },
+  {
+   "q": "Improve this Speaking answer: « J'aime le sport. » Give three ways. [3]",
+   "model": "Add a reason (parce que c'est rapide), add a past example (le week-end dernier, j'ai joué un match) and add a future plan (l'année prochaine, je voudrais m'inscrire dans un club).",
+   "points": [
+    "Opinion with a reason (1)",
+    "Past tense example (1)",
+    "Future or conditional (1)"
+   ]
+  }
+ ]
+}

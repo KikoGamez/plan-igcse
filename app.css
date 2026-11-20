@@ -399,3 +399,7 @@ button.adm-row{font:inherit;color:inherit;text-align:left;cursor:pointer;width:1
 button.adm-row:hover{border-color:var(--accent)}
 .adm-open{font:600 .85rem var(--f-body);color:var(--accent);align-self:flex-end}
 html.viewas .toolbar{top:calc(var(--topbar-h) + 60px)}
+
+.subj-topics li{display:flex;align-items:center;gap:4px}.subj-topics li>a{flex:1;min-width:0}
+.subj-topics .prc{all:unset;box-sizing:border-box;cursor:pointer;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;border:1px solid var(--line);background:var(--surface);font-size:1.05rem;flex:none}
+.subj-topics .prc:hover{border-color:var(--accent)}

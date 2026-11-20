@@ -1,0 +1,164 @@
+{
+ "id": "math-r1-06",
+ "cards": [
+  {
+   "f": "First step for any quadratic method",
+   "b": "Rearrange to ax² + bx + c = 0 (everything on one side, zero on the other)."
+  },
+  {
+   "f": "Quadratic formula",
+   "b": "x = (−b ± √(b² − 4ac)) / (2a). The fraction line is under the whole numerator."
+  },
+  {
+   "f": "Why factorising needs = 0",
+   "b": "If A × B = 0 then A = 0 or B = 0. This is only true when the product equals zero."
+  },
+  {
+   "f": "Solve x² = 7x",
+   "b": "x² − 7x = 0, x(x − 7) = 0, so x = 0 or x = 7. Never divide by x: you lose x = 0."
+  },
+  {
+   "f": "Complete the square when a = 1",
+   "b": "x² + bx + c = (x + b/2)² − (b/2)² + c."
+  },
+  {
+   "f": "Complete the square when a ≠ 1",
+   "b": "Take a out of the x² and x terms first: 2x² − 12x + 7 = 2[(x − 3)² − 9] + 7 = 2(x − 3)² − 11."
+  },
+  {
+   "f": "Turning point of y = (x + p)² + q",
+   "b": "(−p, q). Minimum if a > 0, maximum if a < 0. Line of symmetry x = −p."
+  },
+  {
+   "f": "Solve (x + 3)² = 14",
+   "b": "x + 3 = ±√14, so x = −3 ± √14."
+  },
+  {
+   "f": "Formula trap with negative b",
+   "b": "−b becomes +, and (−7)² = 49, not −49. Bracket negatives on the calculator."
+  },
+  {
+   "f": "Rounding with the formula",
+   "b": "Keep extra figures (2.5906…) and only round at the end to the required decimal places."
+  },
+  {
+   "f": "Quadratic problems with lengths or times",
+   "b": "Reject any negative solution and say why (a length cannot be negative)."
+  },
+  {
+   "f": "Quadratics from algebraic fractions",
+   "b": "Multiply every term by all the denominators, then rearrange to = 0."
+  },
+  {
+   "f": "'Show that' quadratic questions",
+   "b": "Show every step and finish on exactly the given equation."
+  },
+  {
+   "f": "Which method for 'answers to 2 decimal places'?",
+   "b": "The quadratic formula."
+  },
+  {
+   "f": "Which method for turning point or exact surd answer?",
+   "b": "Complete the square."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "x² − 9x + 20 = 0 has solutions x = 4 and x = ___.",
+   "a": [
+    "5"
+   ]
+  },
+  {
+   "s": "x² = 3x has solutions x = 0 and x = ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "x² + 8x = (x + 4)² − ___.",
+   "a": [
+    "16"
+   ]
+  },
+  {
+   "s": "The graph of y = (x − 2)² + 5 has its minimum point at (2, ___).",
+   "a": [
+    "5"
+   ]
+  },
+  {
+   "s": "In the quadratic formula the denominator is ___.",
+   "a": [
+    "2a"
+   ]
+  },
+  {
+   "s": "x² + 6x + 5 = 0 has solutions x = −1 and x = ___.",
+   "a": [
+    "-5",
+    "−5"
+   ]
+  },
+  {
+   "s": "The minimum value of y = (x − 2)² − 3 is ___.",
+   "a": [
+    "-3",
+    "−3"
+   ]
+  },
+  {
+   "s": "For 2x² − 3x − 5 = 0, the value of b² − 4ac is ___.",
+   "a": [
+    "49"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Solve 2x² − 7x + 3 = 0.",
+   "model": "(2x − 1)(x − 3) = 0, so x = 1/2 or x = 3.",
+   "points": [
+    "(2x − 1)(x − 3)",
+    "x = 1/2",
+    "x = 3"
+   ]
+  },
+  {
+   "q": "Solve x² + 3x − 2 = 0. Give your answers to 2 decimal places.",
+   "model": "x = (−3 ± √17)/2, so x = 0.56 or x = −3.56.",
+   "points": [
+    "√(3² − 4(1)(−2)) = √17",
+    "(−3 ± √17)/2",
+    "0.56 and −3.56"
+   ]
+  },
+  {
+   "q": "Write x² − 8x + 3 in the form (x + p)² + q and write down the minimum point of y = x² − 8x + 3.",
+   "model": "(x − 4)² − 13, so the minimum point is (4, −13).",
+   "points": [
+    "p = −4",
+    "q = −13",
+    "Minimum (4, −13)"
+   ]
+  },
+  {
+   "q": "A rectangle has length (x + 4) cm and width (x − 2) cm. Its area is 40 cm². Find x.",
+   "model": "x² + 2x − 48 = 0, (x + 8)(x − 6) = 0, so x = 6 (reject −8: a length cannot be negative).",
+   "points": [
+    "(x + 4)(x − 2) = 40",
+    "(x + 8)(x − 6) = 0",
+    "x = 6, with −8 rejected"
+   ]
+  },
+  {
+   "q": "Solve x² − 6x + 4 = 0, giving your answers in surd form.",
+   "model": "x = (6 ± √20)/2 = 3 ± √5.",
+   "points": [
+    "√(36 − 16) = √20",
+    "(6 ± 2√5)/2",
+    "3 ± √5"
+   ]
+  }
+ ]
+}

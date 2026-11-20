@@ -1,0 +1,169 @@
+{
+ "id": "math-r1-12",
+ "cards": [
+  {
+   "f": "Sum of the interior angles of an n-sided polygon",
+   "b": "(n − 2) × 180°."
+  },
+  {
+   "f": "Sum of the exterior angles of any polygon",
+   "b": "360°."
+  },
+  {
+   "f": "Exterior and interior angle of a regular n-gon",
+   "b": "Exterior = 360° ÷ n. Interior = 180° − exterior."
+  },
+  {
+   "f": "How do you find n for a regular polygon?",
+   "b": "n = 360 ÷ exterior angle. If it is not a whole number, no such regular polygon exists."
+  },
+  {
+   "f": "Reason: angles on a straight line / at a point",
+   "b": "Angles on a straight line add up to 180°. Angles at a point add up to 360°."
+  },
+  {
+   "f": "Which parallel-line reason goes with a Z shape? F shape? C shape?",
+   "b": "Z: alternate angles are equal. F: corresponding angles are equal. C: co-interior angles add up to 180°."
+  },
+  {
+   "f": "Angle in a semicircle",
+   "b": "90°. Reason: angle in a semicircle is 90°."
+  },
+  {
+   "f": "Tangent and radius",
+   "b": "The tangent is perpendicular to the radius at the point of contact (90°)."
+  },
+  {
+   "f": "Angle at the centre vs angle at the circumference",
+   "b": "Angle at the centre is twice the angle at the circumference (same arc)."
+  },
+  {
+   "f": "Angles in the same segment",
+   "b": "Angles in the same segment are equal."
+  },
+  {
+   "f": "Cyclic quadrilateral",
+   "b": "Opposite angles add up to 180°. All four vertices must lie on the circle."
+  },
+  {
+   "f": "Alternate segment theorem",
+   "b": "The angle between a tangent and a chord equals the angle in the alternate segment."
+  },
+  {
+   "f": "Tangents from an external point",
+   "b": "They are equal in length (PA = PB), so triangle PAB is isosceles."
+  },
+  {
+   "f": "Two radii drawn in a circle diagram: what shape?",
+   "b": "An isosceles triangle, so the base angles are equal."
+  },
+  {
+   "f": "Why do 'Z angles' or 'parallel lines' lose marks?",
+   "b": "The reason must be the named angle fact, e.g. 'alternate angles are equal'."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The interior angles of a hexagon add up to ___ degrees.",
+   "a": [
+    "720",
+    "720°"
+   ]
+  },
+  {
+   "s": "Each exterior angle of a regular 12-sided polygon is ___ degrees.",
+   "a": [
+    "30",
+    "30°"
+   ]
+  },
+  {
+   "s": "A regular polygon has exterior angle 40°, so it has ___ sides.",
+   "a": [
+    "9",
+    "nine"
+   ]
+  },
+  {
+   "s": "Each interior angle of a regular octagon is ___ degrees.",
+   "a": [
+    "135",
+    "135°"
+   ]
+  },
+  {
+   "s": "The angle in a semicircle is ___ degrees.",
+   "a": [
+    "90",
+    "90°"
+   ]
+  },
+  {
+   "s": "An angle at the circumference is 35°. The angle at the centre on the same arc is ___ degrees.",
+   "a": [
+    "70",
+    "70°"
+   ]
+  },
+  {
+   "s": "One angle of a cyclic quadrilateral is 105°. The opposite angle is ___ degrees.",
+   "a": [
+    "75",
+    "75°"
+   ]
+  },
+  {
+   "s": "An isosceles triangle has an apex angle of 40°. Each base angle is ___ degrees.",
+   "a": [
+    "70",
+    "70°"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Each interior angle of a regular polygon is 150°. Find the number of sides.",
+   "model": "Exterior angle = 180 − 150 = 30°, so n = 360 ÷ 30 = 12.",
+   "points": [
+    "Exterior angle = 30°",
+    "n = 360 ÷ 30",
+    "12 sides"
+   ]
+  },
+  {
+   "q": "Two parallel lines are crossed by a transversal. Co-interior angles are 3x + 10 and 2x + 20 (degrees). Find x. Give a reason.",
+   "model": "3x + 10 + 2x + 20 = 180 (co-interior angles add up to 180°), so 5x = 150 and x = 30.",
+   "points": [
+    "Equation 5x + 30 = 180",
+    "Reason: co-interior angles add up to 180°",
+    "x = 30"
+   ]
+  },
+  {
+   "q": "ABCD is a cyclic quadrilateral and angle ABC = 72°. Find angle ADC and give a reason.",
+   "model": "Angle ADC = 180 − 72 = 108° because opposite angles of a cyclic quadrilateral add up to 180°.",
+   "points": [
+    "108°",
+    "Opposite angles of a cyclic quadrilateral add up to 180°"
+   ]
+  },
+  {
+   "q": "PT is a tangent to a circle, centre O, at P. Angle PTO = 28°. Find angle POT, giving reasons.",
+   "model": "Angle OPT = 90° (tangent is perpendicular to radius), so angle POT = 180 − 90 − 28 = 62° (angles in a triangle add up to 180°).",
+   "points": [
+    "Angle OPT = 90°, tangent perpendicular to radius",
+    "Angles in a triangle add up to 180°",
+    "62°"
+   ]
+  },
+  {
+   "q": "Explain why a regular polygon cannot have an exterior angle of 25°.",
+   "model": "The number of sides would be 360 ÷ 25 = 14.4, which is not a whole number.",
+   "points": [
+    "n = 360 ÷ exterior angle",
+    "360 ÷ 25 = 14.4",
+    "Not a whole number, so impossible"
+   ]
+  }
+ ]
+}

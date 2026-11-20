@@ -1,0 +1,163 @@
+{
+ "id": "phys-r1-04",
+ "cards": [
+  {
+   "f": "Kinetic energy equation",
+   "b": "Ek = ½mv² (J, kg, m/s)."
+  },
+  {
+   "f": "Change in gravitational potential energy",
+   "b": "ΔEp = mgΔh (g = 9.8 N/kg, Δh = change in height)."
+  },
+  {
+   "f": "Work done equation",
+   "b": "W = Fd = ΔE: force × distance moved in the direction of the force."
+  },
+  {
+   "f": "Power: two definitions",
+   "b": "Work done per unit time or energy transferred per unit time: P = W ÷ t = ΔE ÷ t. Unit watt (1 W = 1 J/s)."
+  },
+  {
+   "f": "Efficiency equation",
+   "b": "Useful energy output ÷ total energy input (× 100%); or useful power output ÷ total power input (× 100%)."
+  },
+  {
+   "f": "Principle of conservation of energy",
+   "b": "Energy cannot be created or destroyed, only transferred between stores; the total stays constant."
+  },
+  {
+   "f": "Where does wasted energy usually end up?",
+   "b": "As internal (thermal) energy of the surroundings."
+  },
+  {
+   "f": "Name four energy stores",
+   "b": "Kinetic, gravitational potential, chemical, elastic (strain), nuclear, electrostatic, internal (thermal)."
+  },
+  {
+   "f": "Describe the energy transfers for a braking car",
+   "b": "Kinetic energy → internal (thermal) energy of brakes and surroundings, by work done by friction."
+  },
+  {
+   "f": "Steps in most thermal power stations",
+   "b": "Boiler (heats water to steam) → turbine → generator → electricity."
+  },
+  {
+   "f": "Which resource needs no boiler?",
+   "b": "Wind: it turns the turbine directly. (Also hydroelectric, tidal, waves, solar cells.)"
+  },
+  {
+   "f": "Advantage and disadvantage of wind power",
+   "b": "Advantage: no fuel or emissions. Disadvantage: unreliable (wind varies) and small output per turbine."
+  },
+  {
+   "f": "Nuclear fission vs fusion",
+   "b": "Fission: splitting of a nucleus (reactors). Fusion: joining of nuclei (the Sun)."
+  },
+  {
+   "f": "Energy sources NOT originally from the Sun",
+   "b": "Geothermal, nuclear and tidal."
+  },
+  {
+   "f": "Trap: holding a heavy box still",
+   "b": "No work is done on the box, because it does not move in the direction of the force."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Energy cannot be created or destroyed; this is the principle of ___ of energy.",
+   "a": [
+    "conservation"
+   ]
+  },
+  {
+   "s": "A 2.0 kg object moving at 3.0 m/s has kinetic energy ___ J.",
+   "a": [
+    "9",
+    "9.0"
+   ]
+  },
+  {
+   "s": "Lifting a 5.0 kg mass through 2.0 m (g = 9.8 N/kg) increases its gravitational potential energy by ___ J.",
+   "a": [
+    "98",
+    "98.0"
+   ]
+  },
+  {
+   "s": "A force of 50 N moves an object 4.0 m in its direction; the work done is ___ J.",
+   "a": [
+    "200"
+   ]
+  },
+  {
+   "s": "A machine does 600 J of work in 20 s, so its power is ___ W.",
+   "a": [
+    "30"
+   ]
+  },
+  {
+   "s": "A device takes in 400 J and gives 100 J useful output; its efficiency is ___ %.",
+   "a": [
+    "25"
+   ]
+  },
+  {
+   "s": "Geothermal, nuclear and tidal energy do not originate from the ___ .",
+   "a": [
+    "sun"
+   ]
+  },
+  {
+   "s": "The Sun releases energy by nuclear ___ .",
+   "a": [
+    "fusion"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A ball of mass 0.50 kg is dropped from a height of 20 m. Ignoring air resistance, calculate its speed just before hitting the ground. (g = 9.8 N/kg)",
+   "model": "Loss in Ep = gain in Ek: mgh = ½mv², v = √(2 × 9.8 × 20) = 20 m/s.",
+   "points": [
+    "Ep lost = Ek gained",
+    "mgh = ½mv²",
+    "v ≈ 20 m/s"
+   ]
+  },
+  {
+   "q": "A student of mass 60 kg climbs stairs 4.0 m high in 8.0 s. Calculate her power. (g = 9.8 N/kg)",
+   "model": "Work = mgh = 60 × 9.8 × 4.0 = 2352 J; P = W ÷ t = 2352 ÷ 8.0 = 290 W.",
+   "points": [
+    "work = mgh = 2352 J",
+    "P = W ÷ t",
+    "about 290 W"
+   ]
+  },
+  {
+   "q": "A motor uses 500 J of electrical energy and lifts a load gaining 350 J of gravitational potential energy. Calculate the efficiency and state where the rest of the energy goes.",
+   "model": "Efficiency = 350 ÷ 500 × 100% = 70%. The other 150 J is wasted as internal (thermal) energy (and sound).",
+   "points": [
+    "efficiency = useful ÷ total",
+    "70%",
+    "wasted energy as thermal energy"
+   ]
+  },
+  {
+   "q": "Give two advantages and one disadvantage of using hydroelectric power.",
+   "model": "Advantages: renewable, no fuel cost, reliable / can respond on demand. Disadvantage: floods valleys / destroys habitats / few suitable sites.",
+   "points": [
+    "two advantages from renewable, reliable, no fuel cost, no CO₂ in operation",
+    "one disadvantage e.g. flooding, habitat loss, few sites"
+   ]
+  },
+  {
+   "q": "Describe the energy transfers when a stretched catapult fires a stone that then lands in the ground.",
+   "model": "Elastic (strain) energy → kinetic energy of the stone (→ gravitational potential at the top) → kinetic energy → internal (thermal) energy of the ground and air when it stops.",
+   "points": [
+    "elastic to kinetic",
+    "kinetic ↔ gravitational potential in flight",
+    "finally internal (thermal) energy"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "id": "phys-r1-11",
+ "cards": [
+  {
+   "f": "Electromagnetic induction",
+   "b": "A conductor moving across a magnetic field, or a changing field linking with a conductor, induces an e.m.f. across the conductor."
+  },
+  {
+   "f": "Three ways to increase induced e.m.f.",
+   "b": "Move faster (faster change of field), use a stronger magnet, use more turns on the coil."
+  },
+  {
+   "f": "When is no e.m.f. induced?",
+   "b": "No relative movement or no change in the field (e.g. magnet held still in the coil), or a wire moving parallel to the field lines."
+  },
+  {
+   "f": "Why does an induced e.m.f. reverse when you pull the magnet out?",
+   "b": "The change in field is reversed, so the e.m.f. reverses direction."
+  },
+  {
+   "f": "Basic a.c. generator",
+   "b": "Coil rotating in a magnetic field; its sides cut field lines and induce an alternating e.m.f."
+  },
+  {
+   "f": "Role of slip rings and brushes in a generator",
+   "b": "Each end of the coil has its own ring; brushes press on them to connect the rotating coil to the external circuit."
+  },
+  {
+   "f": "Coil position for zero e.m.f. in a generator",
+   "b": "Plane perpendicular to the field: sides move parallel to the field lines, not cutting them."
+  },
+  {
+   "f": "Coil position for maximum e.m.f.",
+   "b": "Plane parallel to the field: sides cut field lines fastest."
+  },
+  {
+   "f": "Rotating generator faster: effect on graph",
+   "b": "Higher peaks and a higher frequency (peaks closer together, shorter period)."
+  },
+  {
+   "f": "Construction of a transformer",
+   "b": "Two insulated coils (primary and secondary) wound on a soft-iron core."
+  },
+  {
+   "f": "Step-up vs step-down transformer",
+   "b": "Step-up: more turns on secondary, Vs > Vp. Step-down: fewer turns on secondary, Vs < Vp."
+  },
+  {
+   "f": "Transformer turns-ratio equation",
+   "b": "Vp ÷ Vs = Np ÷ Ns."
+  },
+  {
+   "f": "Power equation for 100% efficient transformer",
+   "b": "IpVp = IsVs (power in = power out)."
+  },
+  {
+   "f": "Power lost in cables",
+   "b": "P = I²R. Halving the current cuts the loss to a quarter."
+  },
+  {
+   "f": "Why transmit electricity at high voltage?",
+   "b": "Same power P = IV with a smaller current, so much less power wasted as heat in the cables (I²R); thinner cables possible."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A transformer with a soft-iron core has a primary coil and a ___ coil.",
+   "a": [
+    "secondary"
+   ]
+  },
+  {
+   "s": "A transformer with more turns on the secondary than the primary is a ___ transformer.",
+   "a": [
+    "step-up",
+    "step up",
+    "stepup"
+   ]
+  },
+  {
+   "s": "Transformers only work with ___ current.",
+   "a": [
+    "alternating",
+    "a.c.",
+    "ac"
+   ]
+  },
+  {
+   "s": "A transformer has 100 primary turns and 500 secondary turns. With 12 V input, the output is ___ V.",
+   "a": [
+    "60"
+   ]
+  },
+  {
+   "s": "A 100% efficient transformer steps 20 V up to 200 V. The current in the secondary is ___ times smaller than in the primary.",
+   "a": [
+    "10",
+    "ten"
+   ]
+  },
+  {
+   "s": "The power lost as heat in a cable of resistance R carrying current I is P = ___ R.",
+   "a": [
+    "i²",
+    "i2",
+    "i^2",
+    "i squared",
+    "i×i",
+    "i × i"
+   ]
+  },
+  {
+   "s": "The e.m.f. in an a.c. generator is zero when the coil is ___ to the field.",
+   "a": [
+    "perpendicular"
+   ]
+  },
+  {
+   "s": "Power stations typically generate at about 25 kV, then a ___ transformer raises the voltage.",
+   "a": [
+    "step-up",
+    "step up",
+    "stepup"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State three factors that increase the e.m.f. induced when a magnet is moved into a coil.",
+   "model": "Faster movement of the magnet, a stronger magnet, more turns on the coil.",
+   "points": [
+    "faster movement",
+    "stronger magnet",
+    "more turns"
+   ]
+  },
+  {
+   "q": "A transformer has 200 turns on its primary and 50 turns on its secondary. The input is 240 V. Calculate the output voltage and state the type of transformer.",
+   "model": "Vs = 240 × 50 ÷ 200 = 60 V. It is a step-down transformer.",
+   "points": [
+    "Vp ÷ Vs = Np ÷ Ns",
+    "60 V",
+    "step-down"
+   ]
+  },
+  {
+   "q": "A 100% efficient transformer has a primary of 230 V and 2.0 A, and a secondary of 23 V. Calculate the secondary current.",
+   "model": "IpVp = IsVs: Is = 230 × 2.0 ÷ 23 = 20 A.",
+   "points": [
+    "power in = power out",
+    "substitution",
+    "20 A"
+   ]
+  },
+  {
+   "q": "Explain why electricity is transmitted at very high voltage.",
+   "model": "For a given power, higher voltage means a smaller current (P = IV). Power loss in cables is I²R, so a smaller current wastes much less energy as heat.",
+   "points": [
+    "P = IV so higher V gives lower I",
+    "loss = I²R",
+    "less energy wasted as heat"
+   ]
+  },
+  {
+   "q": "Sketch-describe the e.m.f. against time graph of a simple a.c. generator and state how it changes if the coil is rotated faster.",
+   "model": "A smooth repeating wave alternating between positive and negative peaks, one cycle per revolution. Faster rotation gives higher peaks and a shorter period (higher frequency).",
+   "points": [
+    "alternating wave shape",
+    "one cycle per revolution",
+    "higher peaks and higher frequency"
+   ]
+  }
+ ]
+}

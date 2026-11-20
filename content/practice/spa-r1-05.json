@@ -1,0 +1,168 @@
+{
+ "id": "spa-r1-05",
+ "cards": [
+  {
+   "f": "Composición descriptiva",
+   "b": "Crea una imagen y atmósfera con detalles sensoriales; no es una historia."
+  },
+  {
+   "f": "Composición narrativa",
+   "b": "Cuenta una historia con estructura, personajes, tensión y final."
+  },
+  {
+   "f": "Estructura narrativa",
+   "b": "Planteamiento, nudo, clímax, desenlace."
+  },
+  {
+   "f": "In medias res",
+   "b": "Empezar con acción, diálogo o imagen impactante."
+  },
+  {
+   "f": "Mostrar, no decir",
+   "b": "Le temblaban las manos mejor que Estaba nervioso."
+  },
+  {
+   "f": "Raya (—)",
+   "b": "Signo que abre cada intervención en un diálogo en español."
+  },
+  {
+   "f": "Tiempos de la narración",
+   "b": "Indefinido para acciones (abrió); imperfecto para fondo (llovía)."
+  },
+  {
+   "f": "Los cinco sentidos",
+   "b": "Vista, oído, olfato, tacto y gusto."
+  },
+  {
+   "f": "Cómo cerrar una descripción",
+   "b": "Con una imagen final o cierre circular que resume el ambiente."
+  },
+  {
+   "f": "Final a evitar",
+   "b": "«Y entonces me desperté y todo era un sueño»."
+  },
+  {
+   "f": "Palabras vagas a evitar",
+   "b": "cosa, bonito, muy grande."
+  },
+  {
+   "f": "Variedad de oraciones",
+   "b": "Frases largas descriptivas + frases cortas para impacto."
+  },
+  {
+   "f": "Conectores narrativos",
+   "b": "De pronto, Mientras tanto, Al cabo de un rato, Poco después."
+  },
+  {
+   "f": "Acentos en pasados",
+   "b": "llegó, corrió, miró, salí."
+  },
+  {
+   "f": "Planificación",
+   "b": "Dedica unos 5 minutos a planear antes de escribir."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "En español, el diálogo se marca con la ___ .",
+   "a": [
+    "raya"
+   ]
+  },
+  {
+   "s": "En narración, el pretérito ___ expresa acciones puntuales.",
+   "a": [
+    "indefinido",
+    "perfecto simple"
+   ]
+  },
+  {
+   "s": "El imperfecto describe el ___ de la historia.",
+   "a": [
+    "fondo",
+    "ambiente",
+    "escenario",
+    "contexto"
+   ]
+  },
+  {
+   "s": "Una composición descriptiva no es una ___ .",
+   "a": [
+    "historia",
+    "narración",
+    "narracion",
+    "trama"
+   ]
+  },
+  {
+   "s": "Los cinco ___ ayudan a describir.",
+   "a": [
+    "sentidos"
+   ]
+  },
+  {
+   "s": "Nudo es la ___ de la historia.",
+   "a": [
+    "complicación",
+    "complicacion",
+    "problema"
+   ]
+  },
+  {
+   "s": "Empezar con acción se llama in ___ res.",
+   "a": [
+    "medias"
+   ]
+  },
+  {
+   "s": "Hay que evitar el final «todo era un ___ ».",
+   "a": [
+    "sueño",
+    "sueno"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique la diferencia entre composición descriptiva y narrativa. [2]",
+   "model": "La descriptiva crea una imagen o atmósfera sin trama; la narrativa cuenta una historia con estructura.",
+   "points": [
+    "Descriptiva: atmósfera sin trama (1)",
+    "Narrativa: historia estructurada (1)"
+   ]
+  },
+  {
+   "q": "Escriba dos frases de diálogo con raya. [2]",
+   "model": "—¿Has cerrado la puerta? —preguntó Clara. —Claro que sí —respondió él.",
+   "points": [
+    "Raya al inicio de cada intervención (1)",
+    "Verbo de habla correctamente enmarcado (1)"
+   ]
+  },
+  {
+   "q": "Explique por qué «y todo era un sueño» es un mal final. [2]",
+   "model": "Es un final poco original que no resuelve la historia.",
+   "points": [
+    "Poco original (1)",
+    "No resuelve la trama (1)"
+   ]
+  },
+  {
+   "q": "Dé dos ejemplos de «mostrar, no decir». [2]",
+   "model": "Le temblaban las manos. Apretó los puños.",
+   "points": [
+    "Ejemplo 1 (1)",
+    "Ejemplo 2 (1)"
+   ]
+  },
+  {
+   "q": "Describa una estación a primera hora usando tres sentidos. [3]",
+   "model": "La luz amarillenta caía sobre el andén, las ruedas chirriaban y olía a café frío.",
+   "points": [
+    "Vista (1)",
+    "Oído (1)",
+    "Olfato (1)"
+   ]
+  }
+ ]
+}

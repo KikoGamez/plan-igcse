@@ -1,0 +1,167 @@
+{
+ "id": "stats-r1-07",
+ "cards": [
+  {
+   "f": "Time series",
+   "b": "A set of observations of a variable taken at regular intervals of time."
+  },
+  {
+   "f": "Trend",
+   "b": "The general direction of the data over time (increasing, decreasing or steady)."
+  },
+  {
+   "f": "Seasonal variation",
+   "b": "A pattern that repeats every cycle, e.g. high sales every summer."
+  },
+  {
+   "f": "Purpose of a moving average",
+   "b": "Smooths out seasonal variation to show the trend."
+  },
+  {
+   "f": "Number of points in a moving average",
+   "b": "Same as the length of the cycle: 4 for quarterly, 3 for termly, 12 for monthly data."
+  },
+  {
+   "f": "How many moving averages from n values?",
+   "b": "3-point: n − 2. 4-point: n − 3."
+  },
+  {
+   "f": "Where to plot a 3-point moving average",
+   "b": "At the middle of the three time periods it covers."
+  },
+  {
+   "f": "Where to plot a 4-point moving average",
+   "b": "Halfway between the 2nd and 3rd of the four values."
+  },
+  {
+   "f": "Drawing the trend line",
+   "b": "A straight line of best fit by eye through the plotted moving averages, not through the original data."
+  },
+  {
+   "f": "Gradient of the trend line",
+   "b": "The average increase (or decrease) per time period."
+  },
+  {
+   "f": "Seasonal variation formula",
+   "b": "Actual value − trend value (moving average). Can be negative."
+  },
+  {
+   "f": "Mean seasonal variation",
+   "b": "The mean of all seasonal variations for one season, e.g. all Quarter 1 values."
+  },
+  {
+   "f": "Prediction method",
+   "b": "Trend value at the future time + mean seasonal variation for that season."
+  },
+  {
+   "f": "Reliability of predictions",
+   "b": "Less reliable the further into the future (extrapolation) or if the pattern changes."
+  },
+  {
+   "f": "Describing a trend",
+   "b": "Say it in context, e.g. 'sales are generally increasing over the three years'. Do not describe the seasonal ups and downs."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The 3-point moving average of 6, 9 and 12 is ___ .",
+   "a": [
+    "9",
+    "9.0"
+   ]
+  },
+  {
+   "s": "A ___ -point moving average is used for quarterly data.",
+   "a": [
+    "4",
+    "four"
+   ]
+  },
+  {
+   "s": "A ___ -point moving average is used for monthly data.",
+   "a": [
+    "12",
+    "twelve"
+   ]
+  },
+  {
+   "s": "Seasonal variation = actual value − ___ value.",
+   "a": [
+    "trend",
+    "moving average"
+   ]
+  },
+  {
+   "s": "10 values give ___ three-point moving averages.",
+   "a": [
+    "8",
+    "eight"
+   ]
+  },
+  {
+   "s": "12 values give ___ four-point moving averages.",
+   "a": [
+    "9",
+    "nine"
+   ]
+  },
+  {
+   "s": "The actual value is 63 and the trend value is 70, so the seasonal variation is ___ .",
+   "a": [
+    "-7",
+    "−7"
+   ]
+  },
+  {
+   "s": "A prediction = trend value + mean seasonal ___ .",
+   "a": [
+    "variation"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Termly sales are 30, 42, 36, 33, 45, 39. Calculate the 3-point moving averages. [3]",
+   "model": "(30 + 42 + 36) ÷ 3 = 36; (42 + 36 + 33) ÷ 3 = 37; (36 + 33 + 45) ÷ 3 = 38; (33 + 45 + 39) ÷ 3 = 39. So 36, 37, 38, 39.",
+   "points": [
+    "method: sum of 3 ÷ 3",
+    "36 and 37",
+    "38 and 39"
+   ]
+  },
+  {
+   "q": "Quarterly values are 20, 30, 26, 24, 28, 38. Calculate the 4-point moving averages and state where the first is plotted. [3]",
+   "model": "25, 27, 29. The first is plotted halfway between the 2nd and 3rd values (between Q2 and Q3).",
+   "points": [
+    "25",
+    "27 and 29",
+    "plotted between 2nd and 3rd values"
+   ]
+  },
+  {
+   "q": "The actual values for Quarter 2 in three years are 58, 62 and 66, with trend values 50, 54 and 59. Calculate the mean seasonal variation for Quarter 2 (to 2 d.p.). [3]",
+   "model": "Seasonal variations: 58 − 50 = 8, 62 − 54 = 8, 66 − 59 = 7. Mean = 23 ÷ 3 = 7.67.",
+   "points": [
+    "8, 8 and 7",
+    "sum 23",
+    "7.67"
+   ]
+  },
+  {
+   "q": "The trend line gives 120 for Quarter 4 of next year. The mean seasonal variation for Quarter 4 is −15.5. Predict the value. [2]",
+   "model": "120 + (−15.5) = 104.5.",
+   "points": [
+    "add mean seasonal variation to trend",
+    "104.5"
+   ]
+  },
+  {
+   "q": "Why is a 3-point moving average used for data recorded each term? Also say why a prediction far into the future is unreliable. [2]",
+   "model": "Each year has 3 terms (the cycle length is 3), so a 3-point average removes the seasonal variation. Far-future predictions are extrapolation, and the pattern may change.",
+   "points": [
+    "cycle length is 3 terms",
+    "extrapolation / pattern may change"
+   ]
+  }
+ ]
+}

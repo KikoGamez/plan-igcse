@@ -1,0 +1,35 @@
+{"id":"bio-r1-12",
+"cards":[
+{"f":"Gene versus allele","b":"Gene: a length of DNA that codes for a protein. Allele: an alternative form of a gene."},
+{"f":"How is sex inherited in humans?","b":"Females XX, males XY. Every egg carries X; sperm carry X or Y, so there is a 50% (1 : 1) chance of a boy or girl."},
+{"f":"Haploid versus diploid","b":"Haploid: one set of chromosomes (23 in human gametes). Diploid: two sets, 23 pairs in human body cells."},
+{"f":"Define mitosis and its roles","b":"Nuclear division giving genetically identical cells. Used for growth, repair, replacement of cells and asexual reproduction."},
+{"f":"Define meiosis","b":"Reduction division: chromosome number halved from diploid to haploid, giving genetically different cells. Produces gametes."},
+{"f":"Genotype versus phenotype","b":"Genotype: the alleles present (e.g. Tt). Phenotype: the observable features (e.g. tall)."},
+{"f":"Homozygous versus heterozygous","b":"Homozygous: two identical alleles (TT or tt), pure-breeding. Heterozygous: two different alleles (Tt), not pure-breeding."},
+{"f":"Dominant versus recessive allele","b":"Dominant: expressed if present. Recessive: only expressed when no dominant allele is present."},
+{"f":"Ratio from Tt × Tt and from Tt × tt","b":"Tt × Tt: 3 dominant : 1 recessive phenotype (1 TT : 2 Tt : 1 tt). Tt × tt: 1 : 1."},
+{"f":"Pedigree clue: unaffected parents have an affected child","b":"The condition is caused by a recessive allele, and both parents must be heterozygous."},
+{"f":"Continuous versus discontinuous variation","b":"Continuous: range between extremes (body length), histogram. Discontinuous: limited categories (ABO blood groups), bar chart."},
+{"f":"What is mutation?","b":"A genetic change; the way new alleles are formed."},
+{"f":"Five steps of natural selection","b":"Variation; many offspring; struggle for survival/competition; better-adapted survive and reproduce more; they pass on their alleles."},
+{"f":"Steps of selective breeding","b":"Humans select individuals with desirable features, cross them, select the best offspring, repeat over many generations."},
+{"f":"How do antibiotic-resistant bacteria arise?","b":"A mutation gives resistance; the antibiotic kills non-resistant bacteria; resistant ones survive, reproduce and pass on the allele (e.g. MRSA)."}
+],
+"gaps":[
+{"s":"Chromosomes are made of ___ .","a":["DNA"]},
+{"s":"A human diploid cell has ___ pairs of chromosomes.","a":["23"]},
+{"s":"The sex chromosomes of a human male are X and ___ .","a":["Y"]},
+{"s":"An individual with two identical alleles of a gene is described as ___ .","a":["homozygous"]},
+{"s":"A cross between Tt and tt gives a phenotype ratio of 1 : ___ .","a":["1"]},
+{"s":"ABO blood groups are an example of ___ variation.","a":["discontinuous"]},
+{"s":"Mitosis produces cells that are genetically ___ .","a":["identical"]},
+{"s":"In selective breeding, humans choose which individuals ___ .","a":["breed","reproduce","mate"]}
+],
+"short":[
+{"q":"Tall (T) is dominant to short (t). Two heterozygous plants are crossed. Give the genotypes and phenotypic ratio of the offspring. [3]","model":"Gametes T or t from each parent give 1 TT : 2 Tt : 1 tt, which is 3 tall : 1 short.","points":["gametes T and t from each parent","genotypes 1 TT : 2 Tt : 1 tt","3 tall : 1 short"]},
+{"q":"Two unaffected parents have a child with a recessive condition. Explain how this is possible. [2]","model":"Both parents are heterozygous carriers; each passes on the recessive allele to the child, who is homozygous recessive.","points":["both parents heterozygous (carriers)","child inherits a recessive allele from each"]},
+{"q":"Explain how a population of bacteria becomes resistant to an antibiotic. [4]","model":"A mutation gives a few bacteria resistance; the antibiotic kills the others; the resistant bacteria survive and reproduce, passing on the allele so a resistant strain develops.","points":["mutation gives resistance","non-resistant bacteria killed","resistant bacteria survive and reproduce","pass on the resistance allele"]},
+{"q":"State two differences between mitosis and meiosis. [2]","model":"Mitosis gives genetically identical cells and keeps the chromosome number; meiosis gives genetically different cells and halves the chromosome number.","points":["identical versus different cells","chromosome number kept versus halved"]},
+{"q":"Describe how selective breeding could be used to produce cows with a high milk yield. [3]","model":"Select cows and bulls with high milk yield, breed them together, select the best offspring and repeat over many generations.","points":["select individuals with desirable feature","breed them / select best offspring","repeat over many generations"]}
+]}

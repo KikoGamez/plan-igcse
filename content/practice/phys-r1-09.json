@@ -1,0 +1,168 @@
+{
+ "id": "phys-r1-09",
+ "cards": [
+  {
+   "f": "Equations for electrical power and energy",
+   "b": "P = IV; E = IVt (W, A, V; J, s)."
+  },
+  {
+   "f": "Kilowatt-hour",
+   "b": "Energy used by a 1 kW appliance in 1 hour: 1 kW h = 3.6 × 10⁶ J."
+  },
+  {
+   "f": "Cost of electricity",
+   "b": "Cost = energy in kW h × price per kW h; kW h = power (kW) × time (h)."
+  },
+  {
+   "f": "Series circuit: current and p.d.",
+   "b": "Same current everywhere; supply p.d. is shared: V = V₁ + V₂."
+  },
+  {
+   "f": "Resistors in series",
+   "b": "Total R = R₁ + R₂ + …"
+  },
+  {
+   "f": "Resistors in parallel (two)",
+   "b": "1/R = 1/R₁ + 1/R₂, or R = R₁R₂ ÷ (R₁ + R₂). Always less than the smaller resistor."
+  },
+  {
+   "f": "Parallel circuit: current and p.d.",
+   "b": "Each branch has the full supply p.d.; supply current = sum of branch currents."
+  },
+  {
+   "f": "Junction rule",
+   "b": "The sum of currents entering a junction equals the sum of currents leaving it."
+  },
+  {
+   "f": "Three advantages of lamps in parallel",
+   "b": "Each has full p.d. (full brightness); each can be switched independently; others stay on if one fails."
+  },
+  {
+   "f": "Function of a fuse",
+   "b": "A thin wire that melts if current exceeds its rating, breaking the circuit."
+  },
+  {
+   "f": "Choosing a fuse rating",
+   "b": "Just above the normal working current of the appliance."
+  },
+  {
+   "f": "Trip switch (circuit breaker)",
+   "b": "Opens automatically when current exceeds a set value; can be reset; faster than a fuse."
+  },
+  {
+   "f": "How earthing protects the user",
+   "b": "If the casing becomes live, a large current flows to earth through the low-resistance earth wire, melting the fuse and cutting off the supply."
+  },
+  {
+   "f": "Double insulation",
+   "b": "Non-conducting outer casing so it can't become live; no earth wire needed."
+  },
+  {
+   "f": "Name four electrical hazards",
+   "b": "Damaged insulation, overheating cables, damp conditions, overloaded sockets/plugs/extension leads."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Electrical power P = ___ × V.",
+   "a": [
+    "i",
+    "current",
+    "I"
+   ]
+  },
+  {
+   "s": "A 2.0 kW heater used for 3.0 hours transfers ___ kW h of energy.",
+   "a": [
+    "6",
+    "6.0"
+   ]
+  },
+  {
+   "s": "Resistors of 4.0 Ω and 6.0 Ω in series have a total resistance of ___ Ω.",
+   "a": [
+    "10",
+    "10.0"
+   ]
+  },
+  {
+   "s": "Two 6.0 Ω resistors in parallel have a combined resistance of ___ Ω.",
+   "a": [
+    "3",
+    "3.0"
+   ]
+  },
+  {
+   "s": "A 230 V lamp with current 0.50 A has power ___ W.",
+   "a": [
+    "115"
+   ]
+  },
+  {
+   "s": "In a series circuit the ___ is the same at every point.",
+   "a": [
+    "current"
+   ]
+  },
+  {
+   "s": "A fuse contains a thin wire that ___ if the current is too large.",
+   "a": [
+    "melts",
+    "melt"
+   ]
+  },
+  {
+   "s": "A fuse rating should be ___ above the normal current of the appliance.",
+   "a": [
+    "just",
+    "slightly"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A kettle rated 2.5 kW is used for 6 minutes. Electricity costs 20 p per kW h. Calculate the cost.",
+   "model": "Energy = 2.5 × 0.10 h = 0.25 kW h; cost = 0.25 × 20 = 5.0 p.",
+   "points": [
+    "6 min = 0.10 h",
+    "energy = 0.25 kW h",
+    "5.0 p"
+   ]
+  },
+  {
+   "q": "A 12 V supply is connected to a 4.0 Ω and a 8.0 Ω resistor in series. Calculate the current and the p.d. across the 8.0 Ω resistor.",
+   "model": "R = 12 Ω; I = 12 ÷ 12 = 1.0 A; V = IR = 1.0 × 8.0 = 8.0 V.",
+   "points": [
+    "total R = 12 Ω",
+    "I = 1.0 A",
+    "V = 8.0 V"
+   ]
+  },
+  {
+   "q": "Explain why the total resistance of two resistors in parallel is less than either resistor.",
+   "model": "Current has more than one path, so more charge can flow for the same p.d.; the total current is larger, so the combined resistance (V ÷ I) is smaller.",
+   "points": [
+    "more than one path",
+    "greater supply current for same p.d.",
+    "R = V ÷ I smaller"
+   ]
+  },
+  {
+   "q": "Explain how a fuse and an earth wire together protect a user if a fault makes a metal casing live.",
+   "model": "The casing is connected to earth, so a large current flows through the earth wire, heating the fuse wire until it melts. This disconnects the appliance so the user cannot get a shock.",
+   "points": [
+    "earth wire gives low-resistance path",
+    "large current flows",
+    "fuse melts and breaks circuit"
+   ]
+  },
+  {
+   "q": "State two advantages of connecting house lamps in parallel rather than in series.",
+   "model": "Each lamp has the full supply p.d. so is bright; each can be switched on and off independently (and one failing doesn't turn the others off).",
+   "points": [
+    "full p.d. across each lamp",
+    "independent switching / others remain on"
+   ]
+  }
+ ]
+}

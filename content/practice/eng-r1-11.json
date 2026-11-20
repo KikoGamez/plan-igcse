@@ -1,0 +1,159 @@
+{
+ "id": "eng-r1-11",
+ "cards": [
+  {
+   "f": "Narrative title rule if an opening line is given?",
+   "b": "You must use it."
+  },
+  {
+   "f": "Top level content and structure for narrative?",
+   "b": "Complex, engaging story, deliberate structure, credible characters, tension built and released, satisfying ending."
+  },
+  {
+   "f": "How much can you handle in 350-450 words?",
+   "b": "1-2 main characters, 1 setting, short time span, one central problem or decision."
+  },
+  {
+   "f": "Why avoid big plots?",
+   "b": "Wars, invasions or five-suspect murders collapse into summary."
+  },
+  {
+   "f": "What is 'in medias res'?",
+   "b": "Starting at a dramatic moment, then filling in background briefly."
+  },
+  {
+   "f": "Flashback frame?",
+   "b": "Present moment, memory, back to the present, changed."
+  },
+  {
+   "f": "Circular structure?",
+   "b": "Ending mirrors the opening with new meaning."
+  },
+  {
+   "f": "Withheld information?",
+   "b": "Reader knows less than the narrator; reveal at the end, prepared by clues."
+  },
+  {
+   "f": "Techniques for tension?",
+   "b": "Slow pace at key moments, short sentences, sensory focus on small details, delay, foreshadowing."
+  },
+  {
+   "f": "What is foreshadowing?",
+   "b": "An early detail that matters later."
+  },
+  {
+   "f": "'Show, don't tell' example?",
+   "b": "'She folded the letter into smaller and smaller squares' rather than 'She was nervous'."
+  },
+  {
+   "f": "Main character needs?",
+   "b": "A want and an obstacle."
+  },
+  {
+   "f": "Endings to avoid?",
+   "b": "'It was all a dream', meaningless sudden deaths, a final sentence explaining the moral."
+  },
+  {
+   "f": "Dialogue rule: new speaker?",
+   "b": "New line."
+  },
+  {
+   "f": "Where does speech punctuation go?",
+   "b": "Inside the speech marks: \"I'm not going,\" she said."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "An early detail that matters later is called ___.",
+   "a": [
+    "foreshadowing"
+   ]
+  },
+  {
+   "s": "Starting a story at a dramatic moment is 'in ___ res'.",
+   "a": [
+    "medias"
+   ]
+  },
+  {
+   "s": "In dialogue, a new speaker begins on a new ___.",
+   "a": [
+    "line"
+   ]
+  },
+  {
+   "s": "'Show, don't ___'.",
+   "a": [
+    "tell"
+   ]
+  },
+  {
+   "s": "A main character needs a want and an ___.",
+   "a": [
+    "obstacle"
+   ]
+  },
+  {
+   "s": "A story should cover a short time ___.",
+   "a": [
+    "span"
+   ]
+  },
+  {
+   "s": "An ending that appears from nowhere, such as 'it was all a ___', should be avoided.",
+   "a": [
+    "dream"
+   ]
+  },
+  {
+   "s": "Slow down at key moments and speed up through unimportant time to control ___.",
+   "a": [
+    "pace",
+    "pacing"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State three limits to keep a 350-450 word story controlled. [3]",
+   "model": "One or two main characters, one setting, short time span (and one central problem).",
+   "points": [
+    "Few characters",
+    "One setting",
+    "Short time span"
+   ]
+  },
+  {
+   "q": "Explain 'show, don't tell' with an example. [2]",
+   "model": "Show feelings through actions, e.g. folding a letter into small squares rather than saying 'she was nervous'.",
+   "points": [
+    "Show through actions",
+    "Valid example"
+   ]
+  },
+  {
+   "q": "State two ways to build tension. [2]",
+   "model": "Short sentences at the crisis, and sensory focus on small details such as a dripping tap.",
+   "points": [
+    "Technique 1",
+    "Technique 2"
+   ]
+  },
+  {
+   "q": "Why is 'it was all a dream' a weak ending? [2]",
+   "model": "It is not prepared by clues and feels cheap, so the ending is not earned.",
+   "points": [
+    "Unprepared",
+    "Not satisfying"
+   ]
+  },
+  {
+   "q": "Punctuate: stop she whispered. [2]",
+   "model": "\"Stop,\" she whispered.",
+   "points": [
+    "Comma inside speech marks",
+    "Lower case she"
+   ]
+  }
+ ]
+}

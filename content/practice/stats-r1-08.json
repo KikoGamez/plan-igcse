@@ -1,0 +1,168 @@
+{
+ "id": "stats-r1-08",
+ "cards": [
+  {
+   "f": "Simple index number",
+   "b": "(value in given year ÷ value in base year) × 100."
+  },
+  {
+   "f": "Base year index",
+   "b": "The base year always has index 100."
+  },
+  {
+   "f": "Index of 125 and index of 92",
+   "b": "125 means a 25% increase since the base year. 92 means an 8% decrease."
+  },
+  {
+   "f": "Finding a value from an index",
+   "b": "Value = base value × index ÷ 100."
+  },
+  {
+   "f": "Finding the base value",
+   "b": "Base value = value × 100 ÷ index."
+  },
+  {
+   "f": "Chain base index number",
+   "b": "(value this year ÷ value in previous year) × 100. Shows year-on-year change."
+  },
+  {
+   "f": "Chain index below 100",
+   "b": "The value fell since the previous year."
+  },
+  {
+   "f": "Chain index falling from 110 to 105",
+   "b": "Value still rose (by 5%), just more slowly. Do not read it as a fall."
+  },
+  {
+   "f": "Overall change from chain indices",
+   "b": "Multiply as decimals: 1.10 × 1.10 × 1.05 = 1.2705, about a 27% increase. Do not add."
+  },
+  {
+   "f": "Weighted index number",
+   "b": "Σ(index × weight) ÷ Σweights. Divide by the sum of the weights, not the number of items."
+  },
+  {
+   "f": "Consumer Prices Index (CPI)",
+   "b": "A weighted index of a basket of goods and services, used to measure inflation."
+  },
+  {
+   "f": "Crude rate",
+   "b": "(number of events ÷ total population) × 1000, i.e. per 1000 of the population."
+  },
+  {
+   "f": "Weakness of crude rates",
+   "b": "They ignore age structure, e.g. a town with many retired people has a high crude death rate."
+  },
+  {
+   "f": "Standardised rate formula",
+   "b": "Σ(group rate per 1000 × standard population %) ÷ 100."
+  },
+  {
+   "f": "Why use standardised rates?",
+   "b": "Same standard population is used for each area, so areas with different age structures are compared fairly."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "In index numbers, the base year always has an index of ___ .",
+   "a": [
+    "100"
+   ]
+  },
+  {
+   "s": "A price rises from 50 to 65. Taking 50 as the base, the index number is ___ .",
+   "a": [
+    "130"
+   ]
+  },
+  {
+   "s": "An index number of 118 means a ___ % increase since the base year.",
+   "a": [
+    "18"
+   ]
+  },
+  {
+   "s": "A chain base index of 97 means the value ___ since the previous year (rose or fell).",
+   "a": [
+    "fell",
+    "decreased",
+    "dropped",
+    "fell by 3%",
+    "went down"
+   ]
+  },
+  {
+   "s": "A town of 5000 people has 30 deaths in a year. The crude death rate is ___ per 1000.",
+   "a": [
+    "6",
+    "6.0"
+   ]
+  },
+  {
+   "s": "Item A has index 120 and weight 2; item B has index 90 and weight 3. The weighted index is ___ .",
+   "a": [
+    "102",
+    "102.0"
+   ]
+  },
+  {
+   "s": "The base price is 40 and the index is 135, so the price is ___ .",
+   "a": [
+    "54",
+    "54.0",
+    "54.00"
+   ]
+  },
+  {
+   "s": "Crude rates do not take into account the ___ structure of the population.",
+   "a": [
+    "age"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A ticket cost €8.00 in 2020, €9.20 in 2021 and €10.12 in 2022. Using 2020 as base year, find the index number for 2022, and the chain base index numbers for 2021 and 2022. [3]",
+   "model": "2022 index = 10.12 ÷ 8 × 100 = 126.5. Chain 2021 = 9.20 ÷ 8 × 100 = 115. Chain 2022 = 10.12 ÷ 9.20 × 100 = 110.",
+   "points": [
+    "126.5",
+    "chain 2021 = 115",
+    "chain 2022 = 110"
+   ]
+  },
+  {
+   "q": "Index numbers: food 130 (weight 4), rent 110 (weight 5), travel 120 (weight 1). Calculate the weighted index. [2]",
+   "model": "(130 × 4 + 110 × 5 + 120 × 1) ÷ 10 = (520 + 550 + 120) ÷ 10 = 119.",
+   "points": [
+    "520 + 550 + 120 = 1190",
+    "÷ 10 = 119"
+   ]
+  },
+  {
+   "q": "A town has 30 000 people and 450 births in a year. Calculate the crude birth rate. [2]",
+   "model": "450 ÷ 30 000 × 1000 = 15 per 1000.",
+   "points": [
+    "450 ÷ 30 000 × 1000",
+    "15 per 1000"
+   ]
+  },
+  {
+   "q": "A town: ages 0–39 have population 5000, 10 deaths, standard population 50%. Ages 40+ have population 3000, 90 deaths, standard population 50%. Calculate the standardised death rate. [4]",
+   "model": "Group rates: 10 ÷ 5000 × 1000 = 2 and 90 ÷ 3000 × 1000 = 30. Standardised rate = (2 × 50 + 30 × 50) ÷ 100 = 16 per 1000.",
+   "points": [
+    "rate 2 per 1000",
+    "rate 30 per 1000",
+    "(2 × 50 + 30 × 50) ÷ 100",
+    "16 per 1000"
+   ]
+  },
+  {
+   "q": "Chain base index numbers for three years are 120, 110 and 105. Find the overall percentage change over the three years. [2]",
+   "model": "1.20 × 1.10 × 1.05 = 1.386, so an overall increase of 38.6%.",
+   "points": [
+    "multiply 1.20 × 1.10 × 1.05",
+    "38.6% increase"
+   ]
+  }
+ ]
+}

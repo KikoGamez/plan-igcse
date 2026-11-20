@@ -1,0 +1,160 @@
+{
+ "id": "fr-r1-02",
+ "cards": [
+  {
+   "f": "être (présent)",
+   "b": "je suis, tu es, il est, nous sommes, vous êtes, ils sont."
+  },
+  {
+   "f": "avoir (présent)",
+   "b": "j'ai, tu as, il a, nous avons, vous avez, ils ont."
+  },
+  {
+   "f": "aller (présent)",
+   "b": "je vais, tu vas, il va, nous allons, vous allez, ils vont."
+  },
+  {
+   "f": "faire (présent)",
+   "b": "je fais, tu fais, il fait, nous faisons, vous faites, ils font."
+  },
+  {
+   "f": "Regular -ir verb: finir (je / nous / ils)",
+   "b": "je finis, nous finissons, ils finissent."
+  },
+  {
+   "f": "Regular -re verb: vendre (je / il / nous)",
+   "b": "je vends, il vend, nous vendons."
+  },
+  {
+   "f": "pouvoir, vouloir, devoir (je form)",
+   "b": "je peux, je veux, je dois; followed by an infinitive."
+  },
+  {
+   "f": "Three vous forms not ending in -ez",
+   "b": "vous dites, vous faites, vous êtes."
+  },
+  {
+   "f": "Pronoun with reflexive verb se lever",
+   "b": "je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent."
+  },
+  {
+   "f": "Negative with a reflexive verb",
+   "b": "The pronoun stays with the verb: Je ne me lève pas tôt."
+  },
+  {
+   "f": "ne… plus / ne… jamais / ne… rien / ne… personne",
+   "b": "no longer / never / nothing / nobody."
+  },
+  {
+   "f": "Article after a negative",
+   "b": "un/une/des/du/de la become de/d': Je n'ai pas de frère. (Not after être.)"
+  },
+  {
+   "f": "Say 'I am 15' in French",
+   "b": "J'ai 15 ans (avoir, not être)."
+  },
+  {
+   "f": "depuis + present",
+   "b": "J'apprends le français depuis cinq ans = I have been learning French for five years (present, not past)."
+  },
+  {
+   "f": "Is the -ent of ils jouent pronounced?",
+   "b": "No, it is silent: ils jouent sounds like il joue."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Mes parents ___ très sympas. (être)",
+   "a": [
+    "sont"
+   ]
+  },
+  {
+   "s": "Nous ___ du ski en hiver. (faire)",
+   "a": [
+    "faisons"
+   ]
+  },
+  {
+   "s": "Ils ___ au collège en bus. (aller)",
+   "a": [
+    "vont"
+   ]
+  },
+  {
+   "s": "Est-ce que tu ___ venir ? (vouloir)",
+   "a": [
+    "veux"
+   ]
+  },
+  {
+   "s": "Je ne mange ___ de viande. (pas + de)",
+   "a": [
+    "pas"
+   ]
+  },
+  {
+   "s": "J'apprends le français ___ cinq ans.",
+   "a": [
+    "depuis"
+   ]
+  },
+  {
+   "s": "Je ___ lève à sept heures. (se lever)",
+   "a": [
+    "me"
+   ]
+  },
+  {
+   "s": "Je n'ai pas ___ chien. (I have no dog)",
+   "a": [
+    "de",
+    "d'"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Complete with the present tense: (a) Ils ___ (aller) au collège. (b) Vous ___ (faire) vos devoirs. [2]",
+   "model": "(a) vont (b) faites",
+   "points": [
+    "vont (1)",
+    "faites (1)"
+   ]
+  },
+  {
+   "q": "Write three sentences about your daily routine using reflexive verbs. [3]",
+   "model": "Je me réveille à sept heures. Je me douche et je m'habille. Je me couche vers onze heures.",
+   "points": [
+    "Correct reflexive pronoun (1)",
+    "Correct verb endings (1)",
+    "Three sentences on routine (1)"
+   ]
+  },
+  {
+   "q": "Correct the errors: (a) Je suis 15 ans. (b) Je ne pas aime le sport. [2]",
+   "model": "(a) J'ai 15 ans. (b) Je n'aime pas le sport.",
+   "points": [
+    "avoir for age (1)",
+    "ne… pas wraps the verb (1)"
+   ]
+  },
+  {
+   "q": "Say in French: 'I have no brother' and explain the rule. [2]",
+   "model": "Je n'ai pas de frère. After a negative, un/une/des change to de/d'.",
+   "points": [
+    "Je n'ai pas de frère (1)",
+    "Article becomes de after negative (1)"
+   ]
+  },
+  {
+   "q": "Translate: 'I have been playing the guitar for three years.' Explain the tense. [3]",
+   "model": "Je joue de la guitare depuis trois ans. French uses the present with depuis.",
+   "points": [
+    "Je joue de la guitare (1)",
+    "depuis trois ans (1)",
+    "Present tense, not past (1)"
+   ]
+  }
+ ]
+}

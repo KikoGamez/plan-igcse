@@ -1,0 +1,166 @@
+{
+ "id": "spa-r1-04",
+ "cards": [
+  {
+   "f": "Método F-A-P-R",
+   "b": "Forma, Audiencia, Propósito, Registro."
+  },
+  {
+   "f": "Escritura dirigida",
+   "b": "Escribir (carta, artículo, discurso) evaluando ideas de uno o dos textos y dando tu opinión."
+  },
+  {
+   "f": "Evaluar ideas",
+   "b": "No solo repetir: comparar, cuestionar pruebas y razonar."
+  },
+  {
+   "f": "Carta formal: inicio y cierre",
+   "b": "Estimado/a señor/a: … Atentamente, (usted)."
+  },
+  {
+   "f": "Carta informal: inicio y cierre",
+   "b": "Querida Marta: … Un abrazo, (tú)."
+  },
+  {
+   "f": "Signo tras el saludo de una carta en español",
+   "b": "Dos puntos, no coma."
+  },
+  {
+   "f": "Discurso: rasgos",
+   "b": "Saludo directo, apelación al público, repeticiones, ritmo oral, cierre con «Muchas gracias»."
+  },
+  {
+   "f": "Artículo: rasgos",
+   "b": "Título atractivo, preguntas retóricas, datos y voz propia."
+  },
+  {
+   "f": "Plan de 5 bloques",
+   "b": "Introducción, argumento 1, argumento 2, contraargumento, conclusión."
+  },
+  {
+   "f": "Frase para evaluar un argumento",
+   "b": "Aunque el texto A afirma que…, no aporta pruebas."
+  },
+  {
+   "f": "Frase para comparar",
+   "b": "El argumento del texto B resulta más convincente porque…"
+  },
+  {
+   "f": "Frase para concluir",
+   "b": "En definitiva / A mi juicio / Por consiguiente."
+  },
+  {
+   "f": "Error de registro",
+   "b": "Usar «¡qué pasa!» en un discurso formal o usted en una carta a un amigo."
+  },
+  {
+   "f": "Qué premia la lectura en este ejercicio",
+   "b": "Ideas de ambos textos, evaluadas y desarrolladas."
+  },
+  {
+   "f": "Qué premia la escritura",
+   "b": "Registro adecuado, estructura, vocabulario variado y ortografía correcta."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "En una carta formal se escribe «Estimado señor:» con ___ puntos.",
+   "a": [
+    "dos"
+   ]
+  },
+  {
+   "s": "La F de F-A-P-R significa ___ .",
+   "a": [
+    "forma"
+   ]
+  },
+  {
+   "s": "Una carta a un amigo cierra con «Un ___ ».",
+   "a": [
+    "abrazo"
+   ]
+  },
+  {
+   "s": "Una carta formal cierra con «___ ».",
+   "a": [
+    "Atentamente",
+    "atentamente"
+   ]
+  },
+  {
+   "s": "Un discurso necesita apelación directa al ___ .",
+   "a": [
+    "público",
+    "publico",
+    "auditorio"
+   ]
+  },
+  {
+   "s": "Los buenos textos no solo repiten ideas: las ___ .",
+   "a": [
+    "evalúan",
+    "evaluan",
+    "comparan",
+    "cuestionan"
+   ]
+  },
+  {
+   "s": "«Por consiguiente» sirve para ___ .",
+   "a": [
+    "concluir",
+    "terminar",
+    "cerrar"
+   ]
+  },
+  {
+   "s": "La R de F-A-P-R significa ___ .",
+   "a": [
+    "registro"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique qué significa evaluar las ideas de un texto en escritura dirigida. [2]",
+   "model": "Comparar y cuestionar los argumentos, valorando si tienen pruebas, en vez de resumirlos.",
+   "points": [
+    "No solo repetir (1)",
+    "Valorar o cuestionar con razones (1)"
+   ]
+  },
+  {
+   "q": "Escriba el saludo y la despedida de una carta formal. [2]",
+   "model": "Estimado señor: … Atentamente,",
+   "points": [
+    "Estimado/a señor/a con dos puntos (1)",
+    "Atentamente (1)"
+   ]
+  },
+  {
+   "q": "Escriba dos frases para evaluar un argumento del texto A. [2]",
+   "model": "Aunque el texto A afirma que los alumnos dormirían más, no aporta pruebas. Esta idea es razonable, pero olvida el cansancio de jornadas largas.",
+   "points": [
+    "Frase evaluativa 1 (1)",
+    "Frase evaluativa 2 (1)"
+   ]
+  },
+  {
+   "q": "Enumere tres bloques de un plan de escritura dirigida. [3]",
+   "model": "Introducción, argumentos evaluados, contraargumento, conclusión.",
+   "points": [
+    "Introducción con postura (1)",
+    "Argumentos evaluados de ambos textos (1)",
+    "Contraargumento o conclusión (1)"
+   ]
+  },
+  {
+   "q": "Corrija el error de registro: «¡Hola, qué pasa!» al inicio de un discurso formal. [2]",
+   "model": "Buenos días a todos. Señora directora, compañeros:",
+   "points": [
+    "Registro formal (1)",
+    "Saludo apropiado al discurso (1)"
+   ]
+  }
+ ]
+}

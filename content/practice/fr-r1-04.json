@@ -1,0 +1,158 @@
+{
+ "id": "fr-r1-04",
+ "cards": [
+  {
+   "f": "Futur proche",
+   "b": "aller + infinitive: je vais jouer, ils vont partir."
+  },
+  {
+   "f": "Futur simple endings",
+   "b": "Infinitive + -ai, -as, -a, -ons, -ez, -ont (drop the -e of -re verbs)."
+  },
+  {
+   "f": "Irregular future stems: être, avoir, aller, faire",
+   "b": "ser-, aur-, ir-, fer-: je serai, j'aurai, j'irai, je ferai."
+  },
+  {
+   "f": "Irregular future stems: pouvoir, vouloir, venir, voir",
+   "b": "pourr-, voudr-, viendr-, verr-."
+  },
+  {
+   "f": "Conditionnel formation",
+   "b": "Futur stem + imparfait endings: je jouerais, je voudrais, j'irais."
+  },
+  {
+   "f": "Uses of the conditionnel",
+   "b": "Polite requests (je voudrais), wishes (j'aimerais), advice (tu devrais), si clauses."
+  },
+  {
+   "f": "Si + imparfait → ?",
+   "b": "conditionnel: Si j'étais riche, je voyagerais."
+  },
+  {
+   "f": "Si + présent → ?",
+   "b": "futur: S'il fait beau demain, nous irons à la plage."
+  },
+  {
+   "f": "Never after si",
+   "b": "Never put the future or conditional straight after si."
+  },
+  {
+   "f": "Direct object pronouns",
+   "b": "me, te, le/la (l'), nous, vous, les."
+  },
+  {
+   "f": "Indirect object pronouns",
+   "b": "me, te, lui (to him/her), nous, vous, leur (to them)."
+  },
+  {
+   "f": "Pronoun y",
+   "b": "Replaces à/en/dans + place: Tu vas à Paris ? Oui, j'y vais."
+  },
+  {
+   "f": "Pronoun en",
+   "b": "Replaces de/du/de la/des + noun or a quantity: J'en ai deux."
+  },
+  {
+   "f": "Pronoun position",
+   "b": "Before the verb; before the infinitive (je vais la voir); before the auxiliary (je l'ai vue)."
+  },
+  {
+   "f": "Positive command with a pronoun",
+   "b": "Pronoun after the verb with a hyphen: Regarde-le ! Allons-y !"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "L'année prochaine, j'___ au lycée. (aller, futur simple)",
+   "a": [
+    "irai"
+   ]
+  },
+  {
+   "s": "Si j'___ riche, je voyagerais. (être, imparfait)",
+   "a": [
+    "étais",
+    "etais"
+   ]
+  },
+  {
+   "s": "Je téléphone à ma grand-mère → Je ___ téléphone.",
+   "a": [
+    "lui"
+   ]
+  },
+  {
+   "s": "Nous allons au stade → Nous ___ allons.",
+   "a": [
+    "y"
+   ]
+  },
+  {
+   "s": "Il achète du pain → Il ___ achète.",
+   "a": [
+    "en"
+   ]
+  },
+  {
+   "s": "J'ai vu le film → Je l'___ vu.",
+   "a": [
+    "ai"
+   ]
+  },
+  {
+   "s": "Je ___ un hôtel pour deux personnes. (vouloir, polite request)",
+   "a": [
+    "voudrais"
+   ]
+  },
+  {
+   "s": "Demain, il ___ content. (être, futur simple)",
+   "a": [
+    "sera"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Rewrite in the futur simple: (a) Nous allons faire du camping. (b) Il va être content. [2]",
+   "model": "(a) Nous ferons du camping. (b) Il sera content.",
+   "points": [
+    "Nous ferons (1)",
+    "Il sera (1)"
+   ]
+  },
+  {
+   "q": "Replace the underlined words with a pronoun: (a) Je parle à mes amis. (b) Tu as des frères ? Oui, j'ai deux frères. [2]",
+   "model": "(a) Je leur parle. (b) J'en ai deux.",
+   "points": [
+    "leur (1)",
+    "en with number kept (1)"
+   ]
+  },
+  {
+   "q": "Explain why « Si j'aurais de l'argent… » is wrong and correct it. [2]",
+   "model": "Never use the conditional after si. Say: Si j'avais de l'argent, je voyagerais.",
+   "points": [
+    "Not conditional after si (1)",
+    "Si j'avais… (1)"
+   ]
+  },
+  {
+   "q": "Write one sentence with a si clause about your future. [2]",
+   "model": "Si j'avais le choix, j'étudierais à l'étranger.",
+   "points": [
+    "Si + imparfait (1)",
+    "Conditionnel in the main clause (1)"
+   ]
+  },
+  {
+   "q": "Where does the pronoun go in: 'I am going to see it' (le film)? Translate. [2]",
+   "model": "Je vais le voir. The pronoun goes before the infinitive.",
+   "points": [
+    "Je vais le voir (1)",
+    "Pronoun before infinitive (1)"
+   ]
+  }
+ ]
+}

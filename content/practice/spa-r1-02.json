@@ -1,0 +1,165 @@
+{
+ "id": "spa-r1-02",
+ "cards": [
+  {
+   "f": "¿Qué mide el resumen?",
+   "b": "Lectura (ideas relevantes seleccionadas) y escritura (concisión, palabras propias, claridad)."
+  },
+  {
+   "f": "Primer paso del método del resumen",
+   "b": "Subrayar el foco de la pregunta."
+  },
+  {
+   "f": "¿Qué ideas se incluyen?",
+   "b": "Solo las que responden al foco de la pregunta."
+  },
+  {
+   "f": "¿Qué se omite en el resumen?",
+   "b": "Ejemplos, citas, estadísticas, anécdotas y opiniones personales."
+  },
+  {
+   "f": "Formato del resumen",
+   "b": "Prosa continua: sin viñetas, sin introducción ni conclusión."
+  },
+  {
+   "f": "Registro del resumen",
+   "b": "Neutro e informativo."
+  },
+  {
+   "f": "Cómo escribir con palabras propias",
+   "b": "Usa sinónimos, cambia la estructura y usa palabras generales para listas."
+  },
+  {
+   "f": "Hiperónimo",
+   "b": "Palabra general que agrupa una lista: manzanas, peras, uvas → fruta."
+  },
+  {
+   "f": "Sinónimo de «perjudicial»",
+   "b": "dañino."
+  },
+  {
+   "f": "Conectores útiles",
+   "b": "además, asimismo, sin embargo, no obstante, por lo tanto, por consiguiente."
+  },
+  {
+   "f": "Qué evitar al empezar",
+   "b": "«En este texto el autor habla de…»: gasta palabras."
+  },
+  {
+   "f": "¿Qué pasa si te pasas mucho del límite?",
+   "b": "Baja la nota de escritura."
+  },
+  {
+   "f": "Orden de ideas",
+   "b": "Agrupa ideas relacionadas y ordénalas lógicamente (físico → mental → social)."
+  },
+  {
+   "f": "Palabras técnicas sin sinónimo",
+   "b": "Pueden mantenerse: melatonina."
+  },
+  {
+   "f": "Beneficios vs problemas",
+   "b": "Si la pregunta pide beneficios, no incluyas desventajas."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "El resumen debe escribirse en ___ continua, no en viñetas.",
+   "a": [
+    "prosa"
+   ]
+  },
+  {
+   "s": "En el resumen no se incluyen ___ ni anécdotas.",
+   "a": [
+    "ejemplos",
+    "ejemplo"
+   ]
+  },
+  {
+   "s": "Una palabra general que agrupa una lista se llama ___ .",
+   "a": [
+    "hiperónimo",
+    "hiperonimo"
+   ]
+  },
+  {
+   "s": "El primer paso del método es subrayar el ___ de la pregunta.",
+   "a": [
+    "foco"
+   ]
+  },
+  {
+   "s": "Un sinónimo de «aumentar» es ___ .",
+   "a": [
+    "incrementar"
+   ]
+  },
+  {
+   "s": "En el resumen se usa un tono ___ , sin opiniones.",
+   "a": [
+    "neutro",
+    "neutral",
+    "objetivo"
+   ]
+  },
+  {
+   "s": "«Sin embargo» es un conector de ___ .",
+   "a": [
+    "contraste",
+    "oposición",
+    "oposicion"
+   ]
+  },
+  {
+   "s": "Copiar frases del texto baja la nota de ___ .",
+   "a": [
+    "escritura",
+    "estilo"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique por qué no se debe empezar con «En este texto el autor habla de…». [2]",
+   "model": "Gasta palabras y no aporta ideas relevantes; hay que ir directamente al contenido.",
+   "points": [
+    "Gasta palabras (1)",
+    "No aporta ideas (1)"
+   ]
+  },
+  {
+   "q": "Resuma en una frase con palabras propias: «Los huertos urbanos ayudan a relajarse y a desconectar del estrés diario». [2]",
+   "model": "Los huertos urbanos favorecen la relajación y reducen la tensión cotidiana.",
+   "points": [
+    "Idea de relajación (1)",
+    "Palabras propias, no copia (1)"
+   ]
+  },
+  {
+   "q": "Convierta en una expresión general: «correr, nadar, ir en bici». [1]",
+   "model": "ejercicio aeróbico / deporte.",
+   "points": [
+    "Ejercicio aeróbico, deporte o actividad física (1)",
+    "Término general en vez de lista"
+   ]
+  },
+  {
+   "q": "Nombre tres elementos que NO deben aparecer en un resumen. [3]",
+   "model": "Ejemplos, citas y opiniones personales (también estadísticas o anécdotas).",
+   "points": [
+    "Ejemplos o anécdotas (1)",
+    "Citas o estadísticas (1)",
+    "Opiniones personales (1)"
+   ]
+  },
+  {
+   "q": "Describa dos pasos del método de seis pasos. [2]",
+   "model": "Subrayar el foco y listar los puntos con palabras propias antes de escribir.",
+   "points": [
+    "Paso 1 correcto (1)",
+    "Paso 2 correcto (1)"
+   ]
+  }
+ ]
+}

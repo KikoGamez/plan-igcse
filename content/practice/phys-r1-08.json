@@ -1,0 +1,171 @@
+{
+ "id": "phys-r1-08",
+ "cards": [
+  {
+   "f": "Like and unlike charges",
+   "b": "Like charges repel; unlike charges attract."
+  },
+  {
+   "f": "What moves when a polythene rod is rubbed with a cloth?",
+   "b": "Electrons move from the cloth to the rod: rod negative, cloth positive. Only negative charge moves."
+  },
+  {
+   "f": "Which test proves an object is charged?",
+   "b": "Repulsion by a known charged object. (Attraction could also be to an uncharged object.)"
+  },
+  {
+   "f": "Conductor vs insulator",
+   "b": "Conductors (metals, graphite) allow charge to flow; insulators (plastic, rubber, glass) do not."
+  },
+  {
+   "f": "Electric current",
+   "b": "Rate of flow of charge: I = Q ÷ t. Unit ampere (1 A = 1 C/s)."
+  },
+  {
+   "f": "Charge carriers in metals",
+   "b": "Delocalised (free) electrons."
+  },
+  {
+   "f": "Conventional current direction",
+   "b": "From positive to negative; electrons flow from negative to positive."
+  },
+  {
+   "f": "d.c. vs a.c.",
+   "b": "d.c. flows in one direction only; a.c. repeatedly reverses direction."
+  },
+  {
+   "f": "How to connect an ammeter and a voltmeter",
+   "b": "Ammeter in series; voltmeter in parallel across the component."
+  },
+  {
+   "f": "e.m.f.",
+   "b": "Electrical work done by a source in moving unit charge around a complete circuit. Unit volt."
+  },
+  {
+   "f": "Potential difference (p.d.)",
+   "b": "Work done by a unit charge passing between two points in a circuit. Unit volt."
+  },
+  {
+   "f": "Resistance equation",
+   "b": "R = V ÷ I (Ω, V, A)."
+  },
+  {
+   "f": "I–V graph for a resistor of constant resistance",
+   "b": "Straight line through the origin; gradient = 1/R."
+  },
+  {
+   "f": "Effect of length and area on resistance of a wire",
+   "b": "R is proportional to length and inversely proportional to cross-sectional area."
+  },
+  {
+   "f": "Electric field",
+   "b": "A region in which an electric charge experiences a force. Direction is that of the force on a positive charge."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Like charges ___ each other.",
+   "a": [
+    "repel"
+   ]
+  },
+  {
+   "s": "Rubbing an acetate rod with a cloth transfers ___ from the rod to the cloth.",
+   "a": [
+    "electrons",
+    "electron",
+    "negative charge"
+   ]
+  },
+  {
+   "s": "Current is measured with an ___ connected in series.",
+   "a": [
+    "ammeter"
+   ]
+  },
+  {
+   "s": "A charge of 30 C passes a point in 10 s, giving a current of ___ A.",
+   "a": [
+    "3",
+    "3.0"
+   ]
+  },
+  {
+   "s": "A component with p.d. 12 V and current 3.0 A has resistance ___ Ω.",
+   "a": [
+    "4",
+    "4.0"
+   ]
+  },
+  {
+   "s": "A wire is doubled in length; its resistance ___ (increases/decreases/stays the same).",
+   "a": [
+    "doubles",
+    "increases",
+    "is doubled"
+   ]
+  },
+  {
+   "s": "A current that repeatedly reverses direction is called ___ current.",
+   "a": [
+    "alternating",
+    "a.c.",
+    "ac"
+   ]
+  },
+  {
+   "s": "The unit of charge is the ___ .",
+   "a": [
+    "coulomb",
+    "coulombs",
+    "C"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why a polythene rod becomes negatively charged when rubbed with a cloth.",
+   "model": "Electrons are transferred from the cloth to the rod by friction. The rod gains extra negative charge, and the cloth is left positive.",
+   "points": [
+    "friction transfers electrons",
+    "from cloth to rod",
+    "rod has an excess of negative charge"
+   ]
+  },
+  {
+   "q": "A current of 0.50 A flows for 2.0 minutes. Calculate the charge that flows.",
+   "model": "t = 120 s; Q = I × t = 0.50 × 120 = 60 C.",
+   "points": [
+    "convert 2.0 min to 120 s",
+    "Q = It",
+    "60 C"
+   ]
+  },
+  {
+   "q": "Describe an experiment to find the resistance of a resistor.",
+   "model": "Connect the resistor in series with an ammeter and variable resistor with a supply; connect a voltmeter across the resistor. Record V and I for several settings and calculate R = V ÷ I for each, then average.",
+   "points": [
+    "ammeter in series, voltmeter in parallel",
+    "several readings of V and I",
+    "R = V ÷ I, average"
+   ]
+  },
+  {
+   "q": "A wire has resistance 8.0 Ω. Predict the resistance of a wire of the same material and length but double the diameter. Explain.",
+   "model": "Doubling the diameter makes the area four times larger, so resistance is 8.0 ÷ 4 = 2.0 Ω (R is inversely proportional to area).",
+   "points": [
+    "area × 4",
+    "R ∝ 1/A",
+    "2.0 Ω"
+   ]
+  },
+  {
+   "q": "State the difference between e.m.f. and p.d.",
+   "model": "E.m.f. is the work done by a source per unit charge around the whole circuit; p.d. is the work done per unit charge passing between two points (across a component).",
+   "points": [
+    "e.m.f.: source, whole circuit",
+    "p.d.: between two points / across component"
+   ]
+  }
+ ]
+}

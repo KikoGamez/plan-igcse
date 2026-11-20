@@ -1,0 +1,164 @@
+{
+ "id": "bus-r1-02",
+ "cards": [
+  {
+   "f": "Four ways to measure business size",
+   "b": "Number of employees, value of output (revenue), capital employed, market share. Profit is NOT a measure of size."
+  },
+  {
+   "f": "Market share formula",
+   "b": "Business sales ÷ total market sales × 100. E.g. €45m in a €300m market = 15%."
+  },
+  {
+   "f": "Capital employed",
+   "b": "The total value of all long-term finance invested in the business."
+  },
+  {
+   "f": "Internal (organic) growth",
+   "b": "Expanding the existing business (new branches, products, markets). Slower but less risky; the owners keep control."
+  },
+  {
+   "f": "Merger vs takeover",
+   "b": "Merger: two businesses agree to join and form one. Takeover: one business buys a controlling share of another."
+  },
+  {
+   "f": "Horizontal integration",
+   "b": "Merging with a business in the same industry at the same stage of production (e.g. two hotel chains). Removes a competitor."
+  },
+  {
+   "f": "Backward vs forward vertical integration",
+   "b": "Backward: with a supplier (earlier stage). Forward: with a customer/retailer (later stage)."
+  },
+  {
+   "f": "Conglomerate integration",
+   "b": "Joining businesses in unrelated industries. Main benefit: diversification spreads risk."
+  },
+  {
+   "f": "Diseconomies of scale",
+   "b": "Average costs rise as a business grows too big: poor communication, lack of employee commitment, weak coordination."
+  },
+  {
+   "f": "Why some businesses stay small",
+   "b": "Type of industry (e.g. personal services), small/niche market, owner's objectives (control, less stress), lack of finance."
+  },
+  {
+   "f": "Why businesses fail",
+   "b": "Poor management or planning, over-expansion, poor cash flow, new competitors, changing tastes, recession. Lack of cash is common."
+  },
+  {
+   "f": "Triple bottom line (social enterprise)",
+   "b": "Social, environmental and financial objectives. Profits are reinvested to achieve the social aim."
+  },
+  {
+   "f": "Stakeholder",
+   "b": "Any person or group with a direct interest in the performance and activities of a business."
+  },
+  {
+   "f": "Example of a stakeholder conflict",
+   "b": "Owners want higher profit and cut wages, which conflicts with workers' job security; expanding a factory creates jobs but residents face noise and traffic."
+  },
+  {
+   "f": "Multinational: benefits to host country",
+   "b": "Jobs and training, tax revenue, investment and technology, better balance of trade. Drawbacks: profits sent abroad, local firms hurt, pollution."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A business buying out a supplier is an example of ___ vertical integration.",
+   "a": [
+    "backward"
+   ]
+  },
+  {
+   "s": "A brewery buying a chain of bars is an example of ___ vertical integration.",
+   "a": [
+    "forward"
+   ]
+  },
+  {
+   "s": "When one business buys a controlling share of another it is called a ___ .",
+   "a": [
+    "takeover",
+    "acquisition"
+   ]
+  },
+  {
+   "s": "A clothing firm that buys a travel agency is an example of ___ integration.",
+   "a": [
+    "conglomerate"
+   ]
+  },
+  {
+   "s": "Sales of €60 million in a total market of €400 million give a market share of ___ %.",
+   "a": [
+    "15",
+    "15%"
+   ]
+  },
+  {
+   "s": "A business with factories or operations in more than one country is a ___ company.",
+   "a": [
+    "multinational"
+   ]
+  },
+  {
+   "s": "A new business's most common first objective is ___ .",
+   "a": [
+    "survival"
+   ]
+  },
+  {
+   "s": "Banks and lenders are ___ stakeholders of a business.",
+   "a": [
+    "external"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why profit is not a good measure of the size of a business. [2]",
+   "model": "A small business can make a high profit while a large one makes a loss, so profit does not show how big the business is.",
+   "points": [
+    "small firm can have high profit",
+    "large firm can make a loss"
+   ]
+  },
+  {
+   "q": "Calculate the market share of a firm with sales of $18 million in a market worth $120 million. [2]",
+   "model": "18 ÷ 120 × 100 = 15%.",
+   "points": [
+    "correct formula/working",
+    "15%"
+   ]
+  },
+  {
+   "q": "Explain two reasons why an owner may want the business to grow. [4]",
+   "model": "Growth can bring economies of scale, which lower average costs and raise profit. It can also increase market share and status.",
+   "points": [
+    "economies of scale / lower average costs",
+    "higher profit or market share",
+    "development of one chain of reasoning"
+   ]
+  },
+  {
+   "q": "Explain two problems a business might face after a merger. [4]",
+   "model": "Different business cultures can clash, lowering morale and productivity. Job losses and poor communication across a larger organisation can cause diseconomies of scale.",
+   "points": [
+    "different cultures/methods",
+    "effect on morale or productivity",
+    "job losses or control/communication problems",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain two possible benefits and two possible drawbacks of a multinational opening a factory in a developing country. [4]",
+   "model": "Benefits: jobs and training, plus tax revenue for government. Drawbacks: profits are sent back to the home country and local firms may be forced out of business.",
+   "points": [
+    "one benefit (jobs/tax/investment)",
+    "second benefit",
+    "one drawback (profits abroad/local firms/pollution)",
+    "second drawback"
+   ]
+  }
+ ]
+}

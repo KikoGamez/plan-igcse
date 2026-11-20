@@ -1,0 +1,163 @@
+{
+ "id": "math-r1-08",
+ "cards": [
+  {
+   "f": "What does f(4) mean?",
+   "b": "Substitute x = 4 into f. If f(x) = 3x − 5 then f(4) = 7."
+  },
+  {
+   "f": "f(x) = 10 versus f(10)",
+   "b": "f(10): substitute. f(x) = 10: solve an equation for x."
+  },
+  {
+   "f": "What does fg(x) mean?",
+   "b": "f(g(x)): do g first, then f. Work from the inside outwards."
+  },
+  {
+   "f": "Is ff(x) the same as [f(x)]²?",
+   "b": "No. ff(x) means apply f twice: f(f(x))."
+  },
+  {
+   "f": "Are fg(x) and gf(x) usually equal?",
+   "b": "No. They are usually different, so order matters."
+  },
+  {
+   "f": "Finding an inverse function: 3 steps",
+   "b": "Write y = f(x), make x the subject, then swap x and y (write f⁻¹(x) = …)."
+  },
+  {
+   "f": "Is f⁻¹(x) = 1/f(x)?",
+   "b": "No. f⁻¹ undoes f; 1/f(x) is a reciprocal."
+  },
+  {
+   "f": "ff⁻¹(x) = ?",
+   "b": "x. Also f⁻¹f(x) = x."
+  },
+  {
+   "f": "Graph of an inverse function",
+   "b": "The reflection of y = f(x) in the line y = x."
+  },
+  {
+   "f": "Domain and range",
+   "b": "Domain = allowed inputs. Range = possible outputs."
+  },
+  {
+   "f": "Values excluded from the domain",
+   "b": "Those that make a denominator zero (or a square root of a negative), e.g. 1/(x + 1) has x ≠ −1."
+  },
+  {
+   "f": "Inverse of a function where x appears twice",
+   "b": "Multiply out, collect x terms, factorise x, divide. Example: y(x − 3) = 2x + 1 gives x(y − 2) = 3y + 1."
+  },
+  {
+   "f": "Substituting a bracket: f(a + 1) for f(x) = 3x − 5",
+   "b": "Replace every x with (a + 1): 3(a + 1) − 5 = 3a − 2."
+  },
+  {
+   "f": "Substituting a negative into x² + 2",
+   "b": "Use brackets: g(−3) = (−3)² + 2 = 11."
+  },
+  {
+   "f": "Solving f(x) = g(x)",
+   "b": "Set the two expressions equal and solve."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "If f(x) = 2x + 3, then f(5) = ___.",
+   "a": [
+    "13"
+   ]
+  },
+  {
+   "s": "If g(x) = x² − 1, then g(−3) = ___.",
+   "a": [
+    "8"
+   ]
+  },
+  {
+   "s": "If f(x) = 2x + 3 and g(x) = x² − 1, then fg(2) = ___.",
+   "a": [
+    "9"
+   ]
+  },
+  {
+   "s": "If f(x) = 2x + 3 and g(x) = x² − 1, then gf(1) = ___.",
+   "a": [
+    "24"
+   ]
+  },
+  {
+   "s": "If f(x) = 2x + 3, then f⁻¹(x) = (x − ___)/2.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "ff⁻¹(x) = ___.",
+   "a": [
+    "x"
+   ]
+  },
+  {
+   "s": "The function h(x) = 1/(x − 4) is not defined when x = ___.",
+   "a": [
+    "4"
+   ]
+  },
+  {
+   "s": "If f(x) = 2ˣ, then f(−3) = ___.",
+   "a": [
+    "1/8",
+    "0.125"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "f(x) = 2x + 3 and g(x) = x². Find fg(x) and gf(x).",
+   "model": "fg(x) = 2x² + 3. gf(x) = (2x + 3)² = 4x² + 12x + 9.",
+   "points": [
+    "fg(x) = f(x²) = 2x² + 3",
+    "gf(x) = (2x + 3)²",
+    "4x² + 12x + 9"
+   ]
+  },
+  {
+   "q": "f(x) = 5x − 2. Find f⁻¹(x).",
+   "model": "y = 5x − 2, so x = (y + 2)/5: f⁻¹(x) = (x + 2)/5.",
+   "points": [
+    "Make x the subject",
+    "Swap x and y",
+    "(x + 2)/5"
+   ]
+  },
+  {
+   "q": "h(x) = (x + 1)/(x − 2), x ≠ 2. Find h⁻¹(x).",
+   "model": "y(x − 2) = x + 1, x(y − 1) = 2y + 1, so h⁻¹(x) = (2x + 1)/(x − 1).",
+   "points": [
+    "y(x − 2) = x + 1",
+    "x(y − 1) = 2y + 1",
+    "(2x + 1)/(x − 1)"
+   ]
+  },
+  {
+   "q": "f(x) = 2x + 3 and g(x) = x². Solve f(x) = g(x).",
+   "model": "x² = 2x + 3, x² − 2x − 3 = 0, (x − 3)(x + 1) = 0, so x = 3 or x = −1.",
+   "points": [
+    "x² = 2x + 3",
+    "(x − 3)(x + 1) = 0",
+    "x = 3, x = −1"
+   ]
+  },
+  {
+   "q": "f(x) = 3x − 1. Find ff(x) and solve ff(x) = 23.",
+   "model": "ff(x) = 3(3x − 1) − 1 = 9x − 4. 9x − 4 = 23 gives x = 3.",
+   "points": [
+    "3(3x − 1) − 1",
+    "9x − 4",
+    "x = 3"
+   ]
+  }
+ ]
+}

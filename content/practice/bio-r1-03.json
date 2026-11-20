@@ -1,0 +1,35 @@
+{"id":"bio-r1-03",
+"cards":[
+{"f":"What are enzymes?","b":"Proteins involved in all metabolic reactions, functioning as biological catalysts. They are not used up."},
+{"f":"What is a catalyst?","b":"A substance that increases the rate of a reaction and is unchanged at the end."},
+{"f":"What is the active site?","b":"The part of an enzyme with a specific shape where the substrate binds."},
+{"f":"Name the steps of enzyme action","b":"Substrate fits the active site → enzyme–substrate complex forms → reaction happens → product(s) released; enzyme unchanged."},
+{"f":"Why is an enzyme specific?","b":"Only a substrate with a shape complementary to the active site fits, so each enzyme catalyses one type of reaction."},
+{"f":"Describe the effect of temperature on enzyme activity","b":"Activity rises to a maximum at the optimum temperature, then falls rapidly at higher temperatures."},
+{"f":"Explain the rise in rate below the optimum temperature","b":"More kinetic energy, so more frequent effective collisions and more enzyme–substrate complexes per second."},
+{"f":"What is denaturation?","b":"The active site changes shape, so the substrate no longer fits. It is permanent."},
+{"f":"Does a low temperature denature enzymes?","b":"No. They are just slow (little kinetic energy) and work again when warmed."},
+{"f":"Optimum pH of stomach protease versus intestinal amylase","b":"Stomach protease: acidic, about pH 2 (hydrochloric acid). Amylase and lipase in the small intestine: slightly alkaline / neutral."},
+{"f":"Explain the effect of pH away from the optimum","b":"The active site changes shape, the substrate fits less well, fewer complexes form; extreme pH denatures the enzyme."},
+{"f":"Amylase investigation: what is the end point?","b":"Iodine drop stays orange-brown, meaning no starch is left. Record the time."},
+{"f":"How do you calculate rate from time in an enzyme experiment?","b":"Rate = 1 ÷ time (or 1000 ÷ time). A shorter time means a faster rate."},
+{"f":"Why equilibrate enzyme and substrate in a water bath before mixing?","b":"So both are at the test temperature when the reaction starts."},
+{"f":"Suitable control for an amylase experiment","b":"Boiled (denatured) amylase, or water instead of amylase. It shows the enzyme causes the change."}
+],
+"gaps":[
+{"s":"Enzymes are made of ___ .","a":["protein","proteins"]},
+{"s":"The substance that an enzyme acts on is called the ___ .","a":["substrate"]},
+{"s":"The shape of the substrate is ___ to the shape of the active site.","a":["complementary"]},
+{"s":"Many human enzymes have an optimum temperature of about ___ °C.","a":["37","37°C","37 °C"]},
+{"s":"At high temperatures the shape of the active site changes and the enzyme is ___ .","a":["denatured"]},
+{"s":"Catalase breaks down hydrogen peroxide into water and ___ .","a":["oxygen"]},
+{"s":"Amylase breaks down ___ into sugars.","a":["starch"]},
+{"s":"When an iodine drop no longer turns blue-black, the colour left is ___ .","a":["orange-brown","orange brown","brown","orange","yellow-brown"]}
+],
+"short":[
+{"q":"Explain why an enzyme will only catalyse one type of reaction. [2]","model":"Only one substrate has a shape complementary to the enzyme's active site, so only that substrate fits and forms an enzyme–substrate complex.","points":["active site has a specific shape","only a substrate with complementary shape fits / forms enzyme–substrate complex"]},
+{"q":"Explain why the rate of an enzyme reaction falls to zero at 80 °C. [3]","model":"The enzyme is denatured: the active site changes shape so the substrate no longer fits, and no enzyme–substrate complexes form.","points":["enzyme is denatured","shape of active site changes","substrate no longer fits / no complexes formed"]},
+{"q":"Explain why an enzyme in a tube at 5 °C works slowly. [2]","model":"Enzyme and substrate molecules have little kinetic energy, so there are few effective collisions and few enzyme–substrate complexes.","points":["low kinetic energy / molecules move slowly","fewer effective collisions so fewer complexes"]},
+{"q":"Starch and amylase are mixed. Describe how you would find the time taken for all the starch to be broken down. [3]","model":"Take a drop of mixture every 30 s and add it to iodine on a spotting tile. When the iodine stays orange-brown no starch is left; record the time.","points":["sample at regular intervals onto iodine","blue-black means starch still present","time when iodine stays orange-brown"]},
+{"q":"Suggest two variables to control in an experiment on how pH affects amylase. [2]","model":"Temperature and the volume and concentration of starch and amylase (also sampling interval).","points":["temperature kept constant","same volume / concentration of enzyme and substrate"]}
+]}

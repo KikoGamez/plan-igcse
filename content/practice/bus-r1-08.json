@@ -1,0 +1,170 @@
+{
+ "id": "bus-r1-08",
+ "cards": [
+  {
+   "f": "Fixed vs variable costs",
+   "b": "Fixed: do not change with output in the short run (rent, insurance). Variable: change directly with output (materials, packaging)."
+  },
+  {
+   "f": "Total cost formula",
+   "b": "Total cost = fixed costs + total variable costs. Total variable cost = variable cost per unit × output."
+  },
+  {
+   "f": "Average cost per unit",
+   "b": "Total cost ÷ output. It falls as output rises because fixed costs are spread over more units."
+  },
+  {
+   "f": "Profit formula",
+   "b": "Profit = total revenue − total costs. Total revenue = selling price × quantity sold."
+  },
+  {
+   "f": "Economies of scale",
+   "b": "Factors that reduce average cost as a business grows (e.g. bulk buying discounts)."
+  },
+  {
+   "f": "Five types of economy of scale",
+   "b": "Purchasing, marketing, financial, managerial, technical."
+  },
+  {
+   "f": "Purchasing economy",
+   "b": "Buying in bulk gives supplier discounts, lowering the cost per unit."
+  },
+  {
+   "f": "Technical economy",
+   "b": "A large firm can afford advanced machinery and flow production, raising productivity."
+  },
+  {
+   "f": "Diseconomies of scale",
+   "b": "Average costs rise when a business grows too large: poor communication, low employee commitment, weak coordination."
+  },
+  {
+   "f": "Contribution per unit",
+   "b": "Selling price − variable cost per unit."
+  },
+  {
+   "f": "Break-even output formula",
+   "b": "Fixed costs ÷ contribution per unit. Round UP to the next whole unit."
+  },
+  {
+   "f": "Margin of safety",
+   "b": "Actual (or planned) output − break-even output. Shows how far sales can fall before a loss."
+  },
+  {
+   "f": "Break-even chart: where do lines start?",
+   "b": "Total cost line starts at the fixed-cost value on the y-axis; total revenue starts at the origin (0,0). They cross at break-even."
+  },
+  {
+   "f": "Effect on break-even of a higher price",
+   "b": "Break-even output falls because contribution per unit rises. But sales may fall too, especially if demand is elastic."
+  },
+  {
+   "f": "Limitations of break-even analysis",
+   "b": "Assumes all output is sold, constant price, costs are linear and fixed costs stay fixed; ignores competitors and other factors."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Rent and insurance are examples of ___ costs.",
+   "a": [
+    "fixed"
+   ]
+  },
+  {
+   "s": "Fixed costs of €4,800 with a contribution of €2.40 per unit give a break-even of ___ units.",
+   "a": [
+    "2000",
+    "2,000"
+   ]
+  },
+  {
+   "s": "Selling price of €3.50 and variable cost of €1.10 give a contribution of € ___ per unit.",
+   "a": [
+    "2.40",
+    "2.4",
+    "€2.40"
+   ]
+  },
+  {
+   "s": "Break-even output of 2,000 and actual output of 2,600 give a margin of safety of ___ units.",
+   "a": [
+    "600"
+   ]
+  },
+  {
+   "s": "If break-even output is 1,655.2 units, it should be rounded ___ to 1,656.",
+   "a": [
+    "up"
+   ]
+  },
+  {
+   "s": "Fixed costs of €1,000 and variable costs of €3,000 give total costs of € ___ .",
+   "a": [
+    "4000",
+    "4,000",
+    "€4,000"
+   ]
+  },
+  {
+   "s": "Total costs of €7,000 for 2,000 units give an average cost of € ___ per unit.",
+   "a": [
+    "3.50",
+    "3.5",
+    "€3.50"
+   ]
+  },
+  {
+   "s": "Banks lending at lower interest rates to large firms is a ___ economy of scale.",
+   "a": [
+    "financial"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "A business has fixed costs of €6,000, sells at €10 per unit and has variable costs of €4 per unit. Calculate the break-even output. [2]",
+   "model": "Contribution = 10 − 4 = €6. Break-even = 6,000 ÷ 6 = 1,000 units.",
+   "points": [
+    "contribution €6",
+    "1,000 units"
+   ]
+  },
+  {
+   "q": "The same business sells 1,400 units. Calculate the margin of safety and the profit. [3]",
+   "model": "Margin of safety = 1,400 − 1,000 = 400 units. Profit = 400 × €6 = €2,400.",
+   "points": [
+    "margin of safety 400",
+    "400 × 6",
+    "€2,400"
+   ]
+  },
+  {
+   "q": "Explain what happens to break-even output if variable cost per unit rises. [3]",
+   "model": "Contribution per unit falls, so more units must be sold to cover the fixed costs. Break-even output rises.",
+   "points": [
+    "contribution per unit falls",
+    "more units needed to cover fixed costs",
+    "break-even rises"
+   ]
+  },
+  {
+   "q": "Explain one economy of scale and one diseconomy of scale. [4]",
+   "model": "Economy: bulk buying gives discounts so average cost falls. Diseconomy: in a very large firm, communication is slow so mistakes rise and average costs increase.",
+   "points": [
+    "economy named (e.g. purchasing)",
+    "how average cost falls",
+    "diseconomy named (e.g. communication)",
+    "how average cost rises"
+   ]
+  },
+  {
+   "q": "Explain two limitations of break-even analysis. [4]",
+   "model": "It assumes all output is sold at one price, but discounts may be given. It also assumes costs stay constant, but material prices may change.",
+   "points": [
+    "assumes all output is sold/constant price",
+    "development",
+    "costs assumed constant/fixed costs fixed",
+    "development"
+   ]
+  }
+ ]
+}

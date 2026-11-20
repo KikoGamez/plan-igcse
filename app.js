@@ -225,7 +225,7 @@ $('goToday').addEventListener('click',()=>go(days.some(d=>d.k===todayK)?todayK:d
 function renderSubjects(){
   $('subjects').innerHTML=ORDER.map(k=>{const s=S[k];
     const row=(key,i,t)=>{const id=`${k}-${key}-${String(i+1).padStart(2,'0')}`;const ok=!!done[id];const q=quiz[id];const d=slotDate[id];
-      return `<li class="${ok?'ok':''}"><a href="${BASE}session.html?id=${id}${d?'&d='+d:''}&lang=${LANG}"><span class="n">${ok?'✓':String(i+1).padStart(2,'0')}</span><span>${esc(t[0])}</span>${q?`<span class="qb ${level(q.p)}">${q.p}%</span>`:'<span></span>'}</a></li>`};
+      return `<li class="${ok?'ok':''}"><a href="${BASE}session.html?id=${id}${d?'&d='+d:''}&lang=${LANG}"><span class="n">${ok?'✓':String(i+1).padStart(2,'0')}</span><span>${esc(t[0])}</span>${q?`<span class="qb ${level(q.p)}">${q.p}%</span>`:'<span></span>'}</a>${key==='r1'?`<button type="button" class="prc" data-practice="${id}" data-title="${esc(t[0])}" aria-label="${LANG==='es'?'Practicar':'Practice'}: ${esc(t[0])}">🃏</button>`:''}</li>`};
     const all=[...s.r1.map((t,i)=>`${k}-r1-${String(i+1).padStart(2,'0')}`),...s.r2.map((t,i)=>`${k}-r2-${String(i+1).padStart(2,'0')}`)];
     const nd=all.filter(id=>done[id]).length;
     return `<article class="subj" id="s-${k}"><div class="subj-h"><span class="badge" style="background:${COL(k)}">${ic(k)}</span><div><h3>${s.es}</h3><small>${s.en} · ${s.code}</small></div></div>

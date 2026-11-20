@@ -1,0 +1,169 @@
+{
+ "id": "chem-r1-04",
+ "cards": [
+  {
+   "f": "Ar (relative atomic mass)",
+   "b": "Average mass of the isotopes of an element compared with 1/12th of the mass of a ¹²C atom."
+  },
+  {
+   "f": "Mr (relative molecular/formula mass)",
+   "b": "Sum of the Ar values of all atoms in the formula."
+  },
+  {
+   "f": "The Avogadro constant",
+   "b": "6.02 × 10²³ particles per mole (atoms, ions or molecules)."
+  },
+  {
+   "f": "Moles equation (mass)",
+   "b": "moles = mass (g) ÷ molar mass (g/mol)."
+  },
+  {
+   "f": "Molar mass of an element or compound",
+   "b": "Mass of one mole in g/mol; numerically equal to Ar or Mr."
+  },
+  {
+   "f": "Molar gas volume at r.t.p.",
+   "b": "One mole of any gas occupies 24 dm³ (24 000 cm³) at room temperature and pressure."
+  },
+  {
+   "f": "Gas volume equation",
+   "b": "volume (dm³) = moles × 24. Cm³ ÷ 1000 = dm³."
+  },
+  {
+   "f": "Convert cm³ to dm³",
+   "b": "Divide by 1000. E.g. 2400 cm³ = 2.4 dm³."
+  },
+  {
+   "f": "Mr of CO₂ (C = 12, O = 16)",
+   "b": "44."
+  },
+  {
+   "f": "Mr of Ca(OH)₂ (Ca = 40, O = 16, H = 1)",
+   "b": "74: 40 + 2 × (16 + 1)."
+  },
+  {
+   "f": "Concentration unit used in 0654",
+   "b": "g/dm³: concentration = mass (g) ÷ volume (dm³)."
+  },
+  {
+   "f": "Steps for a reacting mass calculation",
+   "b": "1. Balanced equation. 2. Moles of known substance. 3. Use mole ratio. 4. Convert to mass or volume."
+  },
+  {
+   "f": "Mole ratio: what does it come from?",
+   "b": "The big numbers in the balanced equation."
+  },
+  {
+   "f": "Mr of H₂SO₄ (H = 1, S = 32, O = 16)",
+   "b": "98."
+  },
+  {
+   "f": "Common mistake: mass vs moles",
+   "b": "Never compare masses directly in a ratio; convert to moles first, then use the equation ratio."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The mass of 0.5 mol of CaCO₃ (Mr = 100) is ___ g.",
+   "a": [
+    "50",
+    "50 g"
+   ]
+  },
+  {
+   "s": "The number of moles in 8 g of NaOH (Mr = 40) is ___ .",
+   "a": [
+    "0.2",
+    "0.20",
+    "1/5"
+   ]
+  },
+  {
+   "s": "The volume of 0.25 mol of gas at r.t.p. is ___ dm³.",
+   "a": [
+    "6",
+    "6.0",
+    "6 dm³"
+   ]
+  },
+  {
+   "s": "Mr of water (H = 1, O = 16) is ___ .",
+   "a": [
+    "18"
+   ]
+  },
+  {
+   "s": "One mole of any gas occupies ___ dm³ at r.t.p.",
+   "a": [
+    "24",
+    "24 dm³"
+   ]
+  },
+  {
+   "s": "1500 cm³ is equal to ___ dm³.",
+   "a": [
+    "1.5",
+    "1.50"
+   ]
+  },
+  {
+   "s": "A solution containing 10 g in 2 dm³ has a concentration of ___ g/dm³.",
+   "a": [
+    "5",
+    "5.0"
+   ]
+  },
+  {
+   "s": "Mass of 2 mol of Mg (Ar = 24) is ___ g.",
+   "a": [
+    "48",
+    "48 g"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the Mr of CaCO₃ and the number of moles in 25 g. (Ca = 40, C = 12, O = 16) [3]",
+   "model": "Mr = 100; moles = 25 ÷ 100 = 0.25 mol.",
+   "points": [
+    "Mr = 40 + 12 + 48 = 100",
+    "moles = mass ÷ Mr",
+    "0.25 mol"
+   ]
+  },
+  {
+   "q": "Mg + 2HCl → MgCl₂ + H₂. Calculate the volume of hydrogen at r.t.p. from 2.4 g Mg (Ar = 24). [3]",
+   "model": "Moles Mg = 0.1; mole ratio 1:1 so 0.1 mol H₂; volume = 0.1 × 24 = 2.4 dm³ (2400 cm³).",
+   "points": [
+    "moles Mg = 2.4 ÷ 24 = 0.1",
+    "1:1 ratio so 0.1 mol H₂",
+    "volume = 2.4 dm³"
+   ]
+  },
+  {
+   "q": "2Mg + O₂ → 2MgO. Calculate the mass of MgO formed from 6 g Mg (Ar: Mg 24, O 16). [3]",
+   "model": "Mr MgO = 40; 6 g Mg = 0.25 mol; 0.25 mol MgO = 10 g.",
+   "points": [
+    "moles Mg = 0.25",
+    "ratio 1:1 gives 0.25 mol MgO",
+    "mass = 10 g"
+   ]
+  },
+  {
+   "q": "Calculate the mass of 3.01 × 10²³ molecules of oxygen, O₂ (O = 16). [2]",
+   "model": "3.01 × 10²³ is 0.5 mol; mass = 0.5 × 32 = 16 g.",
+   "points": [
+    "0.5 mol",
+    "mass = 16 g"
+   ]
+  },
+  {
+   "q": "A student says '1 g of H₂ and 1 g of O₂ contain the same number of molecules'. Is this correct? Explain. [2]",
+   "model": "No. H₂ has Mr 2 and O₂ has Mr 32, so 1 g of H₂ contains far more moles and molecules.",
+   "points": [
+    "not correct",
+    "different molar masses so different number of moles"
+   ]
+  }
+ ]
+}

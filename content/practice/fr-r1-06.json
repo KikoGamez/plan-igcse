@@ -1,0 +1,166 @@
+{
+ "id": "fr-r1-06",
+ "cards": [
+  {
+   "f": "le réchauffement climatique",
+   "b": "global warming."
+  },
+  {
+   "f": "trier les déchets / recycler",
+   "b": "to sort waste / to recycle."
+  },
+  {
+   "f": "gaspiller / économiser l'énergie",
+   "b": "to waste / to save energy."
+  },
+  {
+   "f": "les énergies renouvelables",
+   "b": "renewable energy."
+  },
+  {
+   "f": "les espèces menacées",
+   "b": "endangered species."
+  },
+  {
+   "f": "un petit boulot / le stage",
+   "b": "part-time job / work experience."
+  },
+  {
+   "f": "poser sa candidature / la lettre de motivation",
+   "b": "to apply / cover letter."
+  },
+  {
+   "f": "le chômage / au chômage",
+   "b": "unemployment / unemployed."
+  },
+  {
+   "f": "Ma mère est infirmière",
+   "b": "No article after être with a job (not une infirmière)."
+  },
+  {
+   "f": "C'est de la part de qui ?",
+   "b": "Who is calling? (on the phone)."
+  },
+  {
+   "f": "Je vous écris pour… / Veuillez trouver ci-joint…",
+   "b": "I am writing to… / Please find attached…"
+  },
+  {
+   "f": "une chambre double / individuelle",
+   "b": "double room / single room."
+  },
+  {
+   "f": "Countries: en, au, aux, à",
+   "b": "en France (feminine), au Canada (masculine), aux États-Unis (plural), à Paris (city)."
+  },
+  {
+   "f": "Le car / la journée / les affaires",
+   "b": "coach / the day (duration) / belongings or business (false friends)."
+  },
+  {
+   "f": "D'un côté… de l'autre côté…",
+   "b": "On one hand… on the other hand…"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Le ___ climatique is global warming.",
+   "a": [
+    "réchauffement",
+    "rechauffement"
+   ]
+  },
+  {
+   "s": "On ___ les déchets pour protéger la planète. (sort)",
+   "a": [
+    "trie",
+    "trions",
+    "trier",
+    "trient",
+    "tri"
+   ]
+  },
+  {
+   "s": "Il fait un petit ___ pendant l'été. (part-time job)",
+   "a": [
+    "boulot"
+   ]
+  },
+  {
+   "s": "Je voudrais une chambre ___ pour une personne. (single)",
+   "a": [
+    "individuelle",
+    "simple"
+   ]
+  },
+  {
+   "s": "Je vais ___ Canada. (masculine country: to)",
+   "a": [
+    "au"
+   ]
+  },
+  {
+   "s": "Le ___ en entreprise is work experience.",
+   "a": [
+    "stage"
+   ]
+  },
+  {
+   "s": "Ma mère est ___ . (nurse, no article)",
+   "a": [
+    "infirmière",
+    "infirmiere"
+   ]
+  },
+  {
+   "s": "Allô ? C'est de la ___ de qui ?",
+   "a": [
+    "part"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the false friends: (a) le stage (b) le car. [2]",
+   "model": "(a) work experience or placement, not a stage. (b) a coach, not a car (voiture).",
+   "points": [
+    "(a) work placement (1)",
+    "(b) coach (1)"
+   ]
+  },
+  {
+   "q": "Reading: « Il y a trop de circulation. La mairie a créé des pistes cyclables. » What is the problem and what did the town hall do? [2]",
+   "model": "The problem is too much traffic. The town hall created cycle lanes.",
+   "points": [
+    "Trop de circulation (1)",
+    "Créé des pistes cyclables (1)"
+   ]
+  },
+  {
+   "q": "Give three things you do to protect the environment, in French. [3]",
+   "model": "Je trie les déchets, j'éteins la lumière et je vais au collège à pied.",
+   "points": [
+    "Any valid action, e.g. trier les déchets (1)",
+    "Second valid action, e.g. éteindre la lumière (1)",
+    "Third valid action, e.g. aller à pied (1)"
+   ]
+  },
+  {
+   "q": "Say in French: 'I am writing to apply for the job.' Which formal phrase would you use at the end of an email? [3]",
+   "model": "Je vous écris pour poser ma candidature. End with Cordialement or Veuillez agréer mes salutations distinguées.",
+   "points": [
+    "Je vous écris pour (1)",
+    "Poser ma candidature (1)",
+    "Formal closing (1)"
+   ]
+  },
+  {
+   "q": "Complete with en/au/aux/à: (a) Je vais ___ Espagne. (b) Il habite ___ Maroc. [2]",
+   "model": "(a) en (b) au",
+   "points": [
+    "en Espagne (1)",
+    "au Maroc (1)"
+   ]
+  }
+ ]
+}

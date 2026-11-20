@@ -1,0 +1,168 @@
+{
+ "id": "phys-r1-02",
+ "cards": [
+  {
+   "f": "Mass",
+   "b": "A measure of the quantity of matter in an object. Unit kg, scalar, same everywhere."
+  },
+  {
+   "f": "Weight",
+   "b": "The gravitational force on an object that has mass. Unit N, vector, changes with g."
+  },
+  {
+   "f": "Gravitational field strength g",
+   "b": "Gravitational force per unit mass: g = W ÷ m. About 9.8 N/kg on Earth."
+  },
+  {
+   "f": "Equation linking weight and mass",
+   "b": "W = mg (W in N, m in kg, g in N/kg)."
+  },
+  {
+   "f": "Which instrument measures mass and which measures weight?",
+   "b": "Mass: balance. Weight: force meter (newton meter)."
+  },
+  {
+   "f": "Density equation and unit",
+   "b": "ρ = m ÷ V; kg/m³ or g/cm³. Water is 1000 kg/m³ = 1.0 g/cm³."
+  },
+  {
+   "f": "Convert 1 g/cm³ to kg/m³",
+   "b": "1 g/cm³ = 1000 kg/m³."
+  },
+  {
+   "f": "Find the volume of an irregular solid that sinks",
+   "b": "Displacement: V = final reading − initial reading in a measuring cylinder (or collect overflow from a displacement can)."
+  },
+  {
+   "f": "When does an object float in a liquid?",
+   "b": "When its density is less than the density of the liquid."
+  },
+  {
+   "f": "Newton's first law (in the notes' words)",
+   "b": "With no resultant force, an object stays at rest or continues in a straight line at constant speed."
+  },
+  {
+   "f": "F = ma: meaning of F",
+   "b": "The resultant force (N) on the object. Acceleration is in the same direction as the resultant force."
+  },
+  {
+   "f": "Friction",
+   "b": "Force between two surfaces that may impede relative motion and produces heating."
+  },
+  {
+   "f": "Spring constant k",
+   "b": "Force per unit extension: k = F ÷ x (N/m). It is the gradient of a load–extension graph (load on y-axis)."
+  },
+  {
+   "f": "Limit of proportionality",
+   "b": "The point beyond which extension is no longer proportional to load; the graph stops being a straight line."
+  },
+  {
+   "f": "Extension of a spring",
+   "b": "Stretched length − original (unstretched) length."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Weight is the gravitational ___ on an object that has mass.",
+   "a": [
+    "force"
+   ]
+  },
+  {
+   "s": "Gravitational field strength on Earth is about ___ N/kg.",
+   "a": [
+    "9.8",
+    "10"
+   ]
+  },
+  {
+   "s": "A 5.0 kg mass on Earth has a weight of ___ N.",
+   "a": [
+    "49",
+    "49.0"
+   ]
+  },
+  {
+   "s": "A block of mass 200 g and volume 50 cm³ has a density of ___ g/cm³.",
+   "a": [
+    "4",
+    "4.0"
+   ]
+  },
+  {
+   "s": "A resultant force of 12 N acts on a 3.0 kg trolley, giving an acceleration of ___ m/s².",
+   "a": [
+    "4",
+    "4.0"
+   ]
+  },
+  {
+   "s": "A spring extends by 0.050 m when a force of 10 N is applied. Its spring constant is ___ N/m.",
+   "a": [
+    "200"
+   ]
+  },
+  {
+   "s": "An object sinks in a liquid if its density is ___ than that of the liquid.",
+   "a": [
+    "greater",
+    "more",
+    "higher"
+   ]
+  },
+  {
+   "s": "The unit of the spring constant is newtons per ___ .",
+   "a": [
+    "metre",
+    "meter",
+    "m"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how to find the density of an irregular stone that sinks in water.",
+   "model": "Measure mass on a balance. Find volume by displacement in a measuring cylinder (final − initial reading). Calculate density = mass ÷ volume.",
+   "points": [
+    "mass using a balance",
+    "volume by displacement of water (V₂ − V₁)",
+    "ρ = m ÷ V"
+   ]
+  },
+  {
+   "q": "An astronaut has mass 70 kg. Calculate her weight on the Moon where g = 1.6 N/kg. State what happens to her mass.",
+   "model": "W = mg = 70 × 1.6 = 112 N. Her mass stays 70 kg.",
+   "points": [
+    "W = mg",
+    "112 N",
+    "mass unchanged"
+   ]
+  },
+  {
+   "q": "A 1200 kg car has a driving force of 3000 N and a drag force of 1000 N. Calculate its acceleration.",
+   "model": "Resultant = 3000 − 1000 = 2000 N; a = F ÷ m = 2000 ÷ 1200 = 1.7 m/s².",
+   "points": [
+    "resultant force 2000 N",
+    "a = F ÷ m",
+    "1.7 m/s²"
+   ]
+  },
+  {
+   "q": "A load–extension graph for a spring is straight then curves. Explain what the straight part and the point where it curves show.",
+   "model": "In the straight part extension is proportional to load. The curve starts at the limit of proportionality, after which extension is no longer proportional.",
+   "points": [
+    "straight line through origin: extension ∝ load",
+    "curve begins at limit of proportionality"
+   ]
+  },
+  {
+   "q": "Oil (density 0.80 g/cm³) is poured onto water. State and explain which liquid forms the bottom layer.",
+   "model": "Water forms the bottom layer because its density (1.0 g/cm³) is greater than that of the oil, which floats on top.",
+   "points": [
+    "water at the bottom",
+    "water has the greater density / oil less dense so floats"
+   ]
+  }
+ ]
+}

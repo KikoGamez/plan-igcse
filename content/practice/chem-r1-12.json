@@ -1,0 +1,164 @@
+{
+ "id": "chem-r1-12",
+ "cards": [
+  {
+   "f": "Hydrocarbon",
+   "b": "A compound containing hydrogen and carbon only."
+  },
+  {
+   "f": "Fossil fuels",
+   "b": "Coal, natural gas and petroleum. Natural gas is mainly methane."
+  },
+  {
+   "f": "Petroleum",
+   "b": "A mixture of hydrocarbons, separated by fractional distillation."
+  },
+  {
+   "f": "Fractional distillation of petroleum",
+   "b": "Heated, vapours rise up a column that is hotter at the bottom; fractions condense at different heights by boiling point."
+  },
+  {
+   "f": "Fractions: uses",
+   "b": "Refinery gas: heating/cooking. Petrol: cars. Naphtha: chemical feedstock. Diesel: diesel engines. Bitumen: roads."
+  },
+  {
+   "f": "Trend from bottom to top of column",
+   "b": "Chain length decreases, boiling point decreases."
+  },
+  {
+   "f": "Saturated vs unsaturated",
+   "b": "Saturated: only C–C single bonds. Unsaturated: at least one C=C double bond."
+  },
+  {
+   "f": "Alkanes",
+   "b": "Saturated hydrocarbons, single covalent bonds; unreactive except for combustion. Names end -ane."
+  },
+  {
+   "f": "Alkenes",
+   "b": "Unsaturated hydrocarbons with a C=C double bond. Names end -ene."
+  },
+  {
+   "f": "Test for unsaturation",
+   "b": "Shake with aqueous bromine: alkene decolourises it (orange to colourless); alkane does not."
+  },
+  {
+   "f": "Cracking",
+   "b": "Large alkane molecules broken down with high temperature and a catalyst to give alkenes and hydrogen."
+  },
+  {
+   "f": "Addition reactions of ethene",
+   "b": "With bromine; with hydrogen (nickel catalyst) to give ethane; with steam (acid catalyst) to give ethanol."
+  },
+  {
+   "f": "Complete combustion of ethanol",
+   "b": "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O. Ethanol used as a solvent and as a fuel."
+  },
+  {
+   "f": "Polymer and monomer",
+   "b": "Polymer: large molecule built from many small monomers."
+  },
+  {
+   "f": "Addition vs condensation polymerisation",
+   "b": "Addition: monomers contain C=C, polymer only product. Condensation: two functional groups per monomer; small molecule (water) also formed."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Hydrocarbons contain only hydrogen and ___ .",
+   "a": [
+    "carbon"
+   ]
+  },
+  {
+   "s": "The main constituent of natural gas is ___ .",
+   "a": [
+    "methane",
+    "ch4",
+    "CH₄"
+   ]
+  },
+  {
+   "s": "The fraction of petroleum used to make roads is ___ .",
+   "a": [
+    "bitumen"
+   ]
+  },
+  {
+   "s": "Alkenes contain a carbon–carbon ___ bond.",
+   "a": [
+    "double"
+   ]
+  },
+  {
+   "s": "Alkenes turn aqueous bromine from orange to ___ .",
+   "a": [
+    "colourless",
+    "colorless"
+   ]
+  },
+  {
+   "s": "Poly(ethene) is made from ___ monomers.",
+   "a": [
+    "ethene",
+    "ethylene"
+   ]
+  },
+  {
+   "s": "The alcohol with formula C₂H₅OH is called ___ .",
+   "a": [
+    "ethanol"
+   ]
+  },
+  {
+   "s": "In fractional distillation, the fractions with the lowest boiling points are collected at the ___ of the column.",
+   "a": [
+    "top"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how petroleum is separated into fractions. [3]",
+   "model": "Petroleum is heated and vaporised; vapours rise up a column that is hotter at the bottom; each fraction condenses at a level where its boiling point matches.",
+   "points": [
+    "heated and vaporised",
+    "temperature gradient in column",
+    "fractions condense at different heights by boiling point"
+   ]
+  },
+  {
+   "q": "Describe a test to distinguish ethane from ethene. [2]",
+   "model": "Shake each with aqueous bromine; ethene turns it from orange to colourless; ethane does not.",
+   "points": [
+    "add aqueous bromine",
+    "ethene decolourises, ethane no change"
+   ]
+  },
+  {
+   "q": "Describe cracking and give one reason it is carried out. [3]",
+   "model": "Long alkane molecules are broken into shorter alkanes and alkenes using high temperature and a catalyst; used to make alkenes for polymers or petrol.",
+   "points": [
+    "high temperature and catalyst",
+    "gives alkenes and hydrogen/shorter molecules",
+    "reason: alkenes needed/more useful fuels"
+   ]
+  },
+  {
+   "q": "Draw or describe the formation of poly(ethene) from ethene. [3]",
+   "model": "Many ethene molecules join as the C=C double bond opens; n CH₂=CH₂ → (–CH₂–CH₂–)n.",
+   "points": [
+    "monomer is ethene",
+    "double bond opens/addition",
+    "repeat unit –CH₂–CH₂–"
+   ]
+  },
+  {
+   "q": "State two differences between addition and condensation polymerisation. [2]",
+   "model": "Addition monomers contain C=C and only the polymer forms; condensation monomers have two functional groups and a small molecule such as water is also formed.",
+   "points": [
+    "C=C vs two functional groups",
+    "only polymer vs polymer plus small molecule"
+   ]
+  }
+ ]
+}

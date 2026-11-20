@@ -1,0 +1,175 @@
+{
+ "id": "fr-r1-07",
+ "cards": [
+  {
+   "f": "Reading time in Listening",
+   "b": "Read all questions, underline the question word and predict the type of answer."
+  },
+  {
+   "f": "Où / Quand / Qui / Pourquoi / Combien",
+   "b": "Where / When / Who / Why / How much or many."
+  },
+  {
+   "f": "Signal word: mais / finalement / en fait",
+   "b": "but / in the end / in fact: the real answer usually comes after."
+  },
+  {
+   "f": "ne… plus",
+   "b": "no longer: the old plan no longer applies."
+  },
+  {
+   "f": "au lieu de",
+   "b": "instead of."
+  },
+  {
+   "f": "soixante-quinze / quatre-vingt-douze",
+   "b": "75 / 92."
+  },
+  {
+   "f": "First listening: what to do",
+   "b": "Take notes, jot digits at once, mark best guesses lightly."
+  },
+  {
+   "f": "Second listening: what to do",
+   "b": "Check answers, fill gaps, never leave a blank."
+  },
+  {
+   "f": "cher vs chaud",
+   "b": "expensive vs hot: different words, not spelling variants."
+  },
+  {
+   "f": "Short answers in French",
+   "b": "Brief and clear: à la piscine, trop cher; don't add extra information."
+  },
+  {
+   "f": "Common distractor example",
+   "b": "« Je voulais aller au cinéma, mais finalement on est allés au parc »: answer = le parc."
+  },
+  {
+   "f": "depuis six ans",
+   "b": "for six years (present tense in French)."
+  },
+  {
+   "f": "moins de dix-huit ans",
+   "b": "under 18."
+  },
+  {
+   "f": "sauf le mardi",
+   "b": "except Tuesday."
+  },
+  {
+   "f": "Where to find real past papers?",
+   "b": "Teacher / Cambridge School Support Hub (papers, mark schemes, transcripts, audio)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Each recording is normally played ___ .",
+   "a": [
+    "twice",
+    "two times",
+    "2 times",
+    "deux fois"
+   ]
+  },
+  {
+   "s": "In Listening, never leave a ___ : a sensible guess can score.",
+   "a": [
+    "blank",
+    "gap"
+   ]
+  },
+  {
+   "s": "« Pourquoi » asks for a ___ .",
+   "a": [
+    "reason",
+    "raison",
+    "cause"
+   ]
+  },
+  {
+   "s": "« Combien » asks for a quantity or a ___ .",
+   "a": [
+    "price",
+    "prix",
+    "number"
+   ]
+  },
+  {
+   "s": "Quatre-vingt-douze is ___ .",
+   "a": [
+    "92",
+    "ninety-two",
+    "ninety two"
+   ]
+  },
+  {
+   "s": "« Le musée est ouvert tous les jours sauf le mardi » means it is closed on ___ .",
+   "a": [
+    "Tuesday",
+    "tuesday",
+    "le mardi",
+    "mardi"
+   ]
+  },
+  {
+   "s": "« Mais finalement » signals the final ___ .",
+   "a": [
+    "decision",
+    "answer",
+    "plan",
+    "choice"
+   ]
+  },
+  {
+   "s": "Cher means expensive and chaud means ___ .",
+   "a": [
+    "hot",
+    "warm"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Message: « Le train de quatorze heures dix partira avec vingt minutes de retard. » At what time will it leave? [1]",
+   "model": "At 14:30.",
+   "points": [
+    "Départ à 14h30 (1)",
+    "Uses 14h10 + 20 minutes (1)"
+   ]
+  },
+  {
+   "q": "Message: « Je vais apporter les boissons. Toi, achète des chips… Ah non, Sophie en a déjà. Achète plutôt un gâteau. » What must Marc buy? Explain. [2]",
+   "model": "A cake. Chips were cancelled because Sophie already has them.",
+   "points": [
+    "Un gâteau (1)",
+    "Chips cancelled / Sophie has them (1)"
+   ]
+  },
+  {
+   "q": "« J'habite à Annecy depuis six ans ; avant, on vivait à Lyon. » How long has he lived in Annecy? [1]",
+   "model": "Six years.",
+   "points": [
+    "Six ans (1)",
+    "Lyon is the distractor (not credited)"
+   ]
+  },
+  {
+   "q": "List three signal words that warn you of a change of mind in Listening. [3]",
+   "model": "Mais, finalement, en fait (also cependant, par contre, au lieu de).",
+   "points": [
+    "mais (1)",
+    "finalement (1)",
+    "en fait / cependant / au lieu de (1)"
+   ]
+  },
+  {
+   "q": "Describe how to use the two listenings. [2]",
+   "model": "First: note key details and digits. Second: check and complete answers, never leaving a blank.",
+   "points": [
+    "First listening: notes and digits (1)",
+    "Second: check and fill gaps (1)"
+   ]
+  }
+ ]
+}

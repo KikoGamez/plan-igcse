@@ -1,0 +1,167 @@
+{
+ "id": "spa-r1-06",
+ "cards": [
+  {
+   "f": "Palabra aguda: cuándo lleva tilde",
+   "b": "Si acaba en vocal, -n o -s: café, camión, compás."
+  },
+  {
+   "f": "Palabra llana: cuándo lleva tilde",
+   "b": "Si NO acaba en vocal, -n o -s: árbol, lápiz, fácil."
+  },
+  {
+   "f": "Esdrújula",
+   "b": "Siempre lleva tilde: música, teléfono, rápido."
+  },
+  {
+   "f": "Hiato con vocal cerrada tónica",
+   "b": "Siempre lleva tilde: país, río, día, maíz."
+  },
+  {
+   "f": "Plural de examen / joven",
+   "b": "exámenes, jóvenes (ganan tilde)."
+  },
+  {
+   "f": "Plural de camión / canción",
+   "b": "camiones, canciones (pierden la tilde)."
+  },
+  {
+   "f": "tú / tu",
+   "b": "tú = pronombre; tu = posesivo."
+  },
+  {
+   "f": "él / el",
+   "b": "él = pronombre; el = artículo."
+  },
+  {
+   "f": "sí / si",
+   "b": "sí = afirmación; si = conjunción."
+  },
+  {
+   "f": "té / te",
+   "b": "té = bebida; te = pronombre."
+  },
+  {
+   "f": "sé / se",
+   "b": "sé = saber o ser; se = pronombre."
+  },
+  {
+   "f": "Interrogativos y exclamativos",
+   "b": "Llevan tilde en preguntas directas e indirectas: No sé qué hacer."
+  },
+  {
+   "f": "Qué ya no lleva tilde (RAE 2010)",
+   "b": "solo, este, ese, aquel, guion, fue, fui, ti."
+  },
+  {
+   "f": "Signos de apertura",
+   "b": "Siempre se escribe ¿ ¡ al inicio."
+  },
+  {
+   "f": "porque / por qué / porqué",
+   "b": "causa / pregunta / sustantivo (el motivo)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "«Camión» lleva tilde porque es una palabra ___ acabada en n.",
+   "a": [
+    "aguda"
+   ]
+  },
+  {
+   "s": "«Árbol» lleva tilde porque es llana y no acaba en vocal, n ni ___ .",
+   "a": [
+    "s"
+   ]
+  },
+  {
+   "s": "«Río» lleva tilde porque es un ___ con vocal cerrada tónica.",
+   "a": [
+    "hiato"
+   ]
+  },
+  {
+   "s": "En español se escribe «¿Dónde vives?» con signo de ___ al inicio.",
+   "a": [
+    "apertura",
+    "interrogación",
+    "interrogacion"
+   ]
+  },
+  {
+   "s": "No ___ tilde en «solo» según la RAE (2010).",
+   "a": [
+    "lleva",
+    "se pone",
+    "se escribe",
+    "hay"
+   ]
+  },
+  {
+   "s": "«Tú lo sabes»: tú es un ___ .",
+   "a": [
+    "pronombre"
+   ]
+  },
+  {
+   "s": "No sé ___ hacer. (qué o que)",
+   "a": [
+    "qué",
+    "que"
+   ]
+  },
+  {
+   "s": "Los meses y días se escriben con ___ .",
+   "a": [
+    "minúscula",
+    "minuscula",
+    "minúsculas",
+    "minusculas"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explique por qué «lápiz» lleva tilde pero «casa» no. [2]",
+   "model": "Lápiz es llana acabada en z, no en vocal, n o s; casa es llana acabada en vocal.",
+   "points": [
+    "Lápiz: llana acabada en z (1)",
+    "Casa: acaba en vocal (1)"
+   ]
+  },
+  {
+   "q": "Distinga tu / tú con una frase de cada uno. [2]",
+   "model": "Tu casa es grande. Tú lo sabes.",
+   "points": [
+    "Tu posesivo con ejemplo (1)",
+    "Tú pronombre con ejemplo (1)"
+   ]
+  },
+  {
+   "q": "Corrija: «Mi amiga, me pregunto que queria hacer.» [3]",
+   "model": "Mi amiga me preguntó qué quería hacer.",
+   "points": [
+    "Quitar coma sujeto-verbo (1)",
+    "Preguntó y quería con tilde (1)",
+    "Qué con tilde (1)"
+   ]
+  },
+  {
+   "q": "Diferencie «porque» y «por qué». [2]",
+   "model": "Porque introduce una causa; por qué se usa en preguntas.",
+   "points": [
+    "Porque = causa (1)",
+    "Por qué = pregunta (1)"
+   ]
+  },
+  {
+   "q": "Explique cómo se marca el diálogo y la cita en español. [2]",
+   "model": "El diálogo con raya; las citas con comillas angulares «».",
+   "points": [
+    "Raya (1)",
+    "Comillas angulares (1)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "id": "stats-r1-04",
+ "cards": [
+  {
+   "f": "Cumulative frequency",
+   "b": "The running total of the frequencies."
+  },
+  {
+   "f": "Where to plot cumulative frequency points",
+   "b": "At the upper class boundary. Start the curve at (lowest boundary, 0)."
+  },
+  {
+   "f": "Reading quartiles from a cumulative frequency graph",
+   "b": "Q₁ at n/4, median at n/2, Q₃ at 3n/4 (n = total frequency). Read across, then down to the value."
+  },
+  {
+   "f": "p-th percentile",
+   "b": "Read at (p/100) × n on the cumulative frequency axis."
+  },
+  {
+   "f": "Number of values above x",
+   "b": "n − (cumulative frequency at x)."
+  },
+  {
+   "f": "Estimating a median by interpolation",
+   "b": "Lower boundary + ((n/2 − cf before class) ÷ class frequency) × class width."
+  },
+  {
+   "f": "Five values in a box plot",
+   "b": "Minimum, lower quartile, median, upper quartile, maximum."
+  },
+  {
+   "f": "Drawing a box plot",
+   "b": "Box from Q₁ to Q₃ with a line at the median. Whiskers to the minimum and maximum. Use a ruler and labelled scale."
+  },
+  {
+   "f": "Outlier limits",
+   "b": "Lower: Q₁ − 1.5 × IQR. Upper: Q₃ + 1.5 × IQR. Values outside are outliers."
+  },
+  {
+   "f": "Exam tip on outliers",
+   "b": "Show the limit calculation, then conclude clearly, e.g. 'so 58 is an outlier'. Use 1.5 × IQR, not the range."
+  },
+  {
+   "f": "Positive skew",
+   "b": "Long tail to the right. Q₃ − Q₂ > Q₂ − Q₁ and mean > median > mode."
+  },
+  {
+   "f": "Negative skew",
+   "b": "Long tail to the left. Q₃ − Q₂ < Q₂ − Q₁ and mean < median < mode."
+  },
+  {
+   "f": "Symmetrical distribution",
+   "b": "Q₃ − Q₂ = Q₂ − Q₁ and mean = median = mode."
+  },
+  {
+   "f": "Example of positive skew",
+   "b": "Incomes: most people earn moderate amounts, a few earn a lot."
+  },
+  {
+   "f": "Comparing box plots",
+   "b": "At least two comparisons in context with values: location (median), spread (IQR), and skew if asked."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Cumulative frequency points are plotted at the ___ class boundary.",
+   "a": [
+    "upper"
+   ]
+  },
+  {
+   "s": "For 120 values, the median is read at cumulative frequency ___ .",
+   "a": [
+    "60"
+   ]
+  },
+  {
+   "s": "For 80 values, the upper quartile is read at cumulative frequency ___ .",
+   "a": [
+    "60"
+   ]
+  },
+  {
+   "s": "Q₁ = 14 and Q₃ = 26. Any value above ___ is an outlier.",
+   "a": [
+    "44"
+   ]
+  },
+  {
+   "s": "Q₁ = 20 and Q₃ = 30. Any value below ___ is an outlier.",
+   "a": [
+    "5"
+   ]
+  },
+  {
+   "s": "In a positively skewed distribution the mean is ___ than the median.",
+   "a": [
+    "greater",
+    "larger",
+    "higher",
+    "bigger",
+    "more"
+   ]
+  },
+  {
+   "s": "A box plot shows the minimum, lower quartile, median, upper quartile and ___ .",
+   "a": [
+    "maximum",
+    "max",
+    "the maximum"
+   ]
+  },
+  {
+   "s": "For 200 values, the 30th percentile is read at cumulative frequency ___ .",
+   "a": [
+    "60"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Masses of 50 parcels: 0 < m ≤ 20 has 5, 20 < m ≤ 40 has 15, 40 < m ≤ 60 has 20, 60 < m ≤ 80 has 10. Complete the cumulative frequencies, then estimate the median and the interquartile range using interpolation. [4]",
+   "model": "Cumulative frequencies: 5, 20, 40, 50. Median (25th value) = 40 + (5/20) × 20 = 45. Q₁ (12.5th) = 20 + (7.5/15) × 20 = 30. Q₃ (37.5th) = 40 + (17.5/20) × 20 = 57.5. IQR = 27.5.",
+   "points": [
+    "cumulative frequencies 5, 20, 40, 50",
+    "median = 45",
+    "Q₁ = 30 and Q₃ = 57.5",
+    "IQR = 27.5"
+   ]
+  },
+  {
+   "q": "Q₁ = 22 and Q₃ = 34. The largest value in the data is 60. Show whether 60 is an outlier. [3]",
+   "model": "IQR = 12. Upper limit = 34 + 1.5 × 12 = 52. Since 60 > 52, it is an outlier.",
+   "points": [
+    "IQR = 12",
+    "upper limit = 52",
+    "60 > 52 so it is an outlier"
+   ]
+  },
+  {
+   "q": "A distribution has Q₁ = 10, median = 18 and Q₃ = 22. Describe its skewness and justify your answer. [2]",
+   "model": "Negative skew: Q₃ − Q₂ = 4 is less than Q₂ − Q₁ = 8.",
+   "points": [
+    "Q₃ − Q₂ = 4 and Q₂ − Q₁ = 8",
+    "negative skew"
+   ]
+  },
+  {
+   "q": "A cumulative frequency graph for 150 students shows that 114 scored 60 marks or less. How many scored more than 60, and what percentile is a mark of 60? [2]",
+   "model": "150 − 114 = 36 students scored more than 60. 114 ÷ 150 = 0.76, so 60 is the 76th percentile.",
+   "points": [
+    "36 students",
+    "76th percentile"
+   ]
+  },
+  {
+   "q": "Class A has median 52 and IQR 14. Class B has median 47 and IQR 8. Compare the two classes. [2]",
+   "model": "A's median is higher (52 vs 47), so A generally scored higher. B's IQR is smaller (8 vs 14), so B's marks were more consistent.",
+   "points": [
+    "median comparison in context",
+    "IQR comparison in context"
+   ]
+  }
+ ]
+}

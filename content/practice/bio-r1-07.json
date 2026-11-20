@@ -1,0 +1,35 @@
+{"id":"bio-r1-07",
+"cards":[
+{"f":"Define pathogen and transmissible disease","b":"Pathogen: a disease-causing organism. Transmissible disease: one in which the pathogen can be passed from one host to another."},
+{"f":"Direct and indirect transmission","b":"Direct: contact, including blood and body fluids. Indirect: contaminated surfaces, food, animals, air."},
+{"f":"Features of a virus","b":"A protein coat surrounding genetic material. Viruses are not cells."},
+{"f":"Body defences against pathogens","b":"Skin, hairs in the nose, mucus, stomach acid and white blood cells."},
+{"f":"How do control measures reduce disease spread?","b":"Clean water, hygienic food preparation, personal hygiene, waste disposal and sewage treatment all stop pathogens being passed on."},
+{"f":"What is an antigen?","b":"A molecule on a pathogen's surface with a specific shape. Each pathogen has its own antigens."},
+{"f":"What is an antibody?","b":"A protein that binds to an antigen, destroying the pathogen directly or marking it for destruction by phagocytes."},
+{"f":"Why is an antibody specific?","b":"It has a shape complementary to one antigen, so it only fits that antigen."},
+{"f":"Which cells make antibodies?","b":"Lymphocytes (a type of white blood cell)."},
+{"f":"Define active immunity","b":"Defence against a pathogen by antibody production in the body. Gained after infection or by vaccination."},
+{"f":"Outline how vaccination works","b":"Weakened pathogens or antigens are given; antigens stimulate lymphocytes to make antibodies; memory cells give long-term immunity."},
+{"f":"Role of memory cells","b":"On re-infection they cause a faster response with more antibodies, destroying the pathogen before illness."},
+{"f":"How does vaccinating many people control disease spread?","b":"Vaccinated people do not become ill or pass it on, so the pathogen has few hosts and cases fall."},
+{"f":"Define a drug","b":"Any substance taken into the body that modifies or affects chemical reactions in the body."},
+{"f":"How does antibiotic resistance develop?","b":"Antibiotics kill non-resistant bacteria; resistant ones survive and reproduce, passing on resistance. Use antibiotics only when essential."}
+],
+"gaps":[
+{"s":"A disease-causing organism is called a ___ .","a":["pathogen"]},
+{"s":"Antibiotics kill bacteria but do not affect ___ .","a":["viruses","virus"]},
+{"s":"Antibodies are made of ___ .","a":["protein","proteins"]},
+{"s":"Vaccination produces ___ cells that give long-term immunity.","a":["memory"]},
+{"s":"Cells that engulf pathogens by phagocytosis are called ___ .","a":["phagocytes","phagocyte"]},
+{"s":"Stomach acid kills pathogens because it contains ___ acid.","a":["hydrochloric"]},
+{"s":"An antibiotic-resistant strain of bacteria is called ___ .","a":["MRSA"]},
+{"s":"The sticky substance in the airways that traps pathogens is ___ .","a":["mucus"]}
+],
+"short":[
+{"q":"State two ways in which the body prevents pathogens from entering. [2]","model":"The skin forms a barrier, and mucus and hairs in the nose trap pathogens in inhaled air.","points":["skin as a barrier","mucus / nose hairs trap pathogens (or stomach acid)"]},
+{"q":"Explain why antibiotics are not used to treat influenza. [2]","model":"Influenza is caused by a virus, and antibiotics kill bacteria but do not affect viruses.","points":["influenza is caused by a virus","antibiotics only work on bacteria"]},
+{"q":"Describe how vaccination gives long-term immunity. [3]","model":"Weakened pathogens or antigens stimulate lymphocytes to make antibodies, and memory cells are produced that respond quickly if the pathogen returns.","points":["weakened pathogen / antigens put into body","lymphocytes produce antibodies","memory cells give long-term immunity"]},
+{"q":"Explain why using antibiotics only when essential limits the development of MRSA. [3]","model":"Each use of antibiotics selects for resistant bacteria, which survive and reproduce. Less use means fewer chances to select them, so resistance spreads more slowly.","points":["resistant bacteria survive antibiotics and reproduce","pass on resistance","less use gives less selection / slower spread"]},
+{"q":"Explain why a specific antibody will not work against a different pathogen. [2]","model":"Each antibody has a shape complementary to one antigen, and a different pathogen has antigens of a different shape.","points":["antibody shape is complementary to a specific antigen","other pathogen's antigens have a different shape so do not fit"]}
+]}

@@ -1,0 +1,163 @@
+{
+ "id": "bus-r1-06",
+ "cards": [
+  {
+   "f": "Marketing mix",
+   "b": "Product, price, place and promotion, combined consistently to satisfy the target market."
+  },
+  {
+   "f": "Brand image vs brand loyalty",
+   "b": "Brand image: personality given to a product that distinguishes it. Brand loyalty: consumers keep buying the same brand."
+  },
+  {
+   "f": "Product life cycle stages",
+   "b": "Introduction, growth, maturity, saturation, decline."
+  },
+  {
+   "f": "Introduction stage",
+   "b": "Low sales and usually a loss due to high development and promotion costs. Informative advertising; skimming or penetration pricing."
+  },
+  {
+   "f": "Extension strategies",
+   "b": "Used at maturity/saturation: new markets, new uses, redesign, new packaging, target another segment, more advertising or promotion."
+  },
+  {
+   "f": "Cost-plus pricing",
+   "b": "Unit cost plus a percentage mark-up. Cost €8 + 25% = €10. Ignores competitors' prices and demand."
+  },
+  {
+   "f": "Penetration pricing",
+   "b": "Low price on launch to gain market share, then raised. Suits a mass market and new entrants."
+  },
+  {
+   "f": "Price skimming",
+   "b": "High price at launch for a new or unique product, lowered later. Suits innovative products and strong brands."
+  },
+  {
+   "f": "Competitive vs promotional pricing",
+   "b": "Competitive: price near competitors'. Promotional: low price for a short time (e.g. buy one get one free) to clear stock."
+  },
+  {
+   "f": "Price-elastic demand",
+   "b": "Quantity demanded changes by a bigger percentage than price. A price cut raises revenue."
+  },
+  {
+   "f": "Price-inelastic demand",
+   "b": "Quantity demanded changes by a smaller percentage than price (it still changes). A price rise raises revenue."
+  },
+  {
+   "f": "Direct channel of distribution",
+   "b": "Producer sells straight to the consumer (e.g. online). Producer keeps full profit and control."
+  },
+  {
+   "f": "Wholesaler channel",
+   "b": "Producer → wholesaler → retailer → consumer. Suits many small, spread-out shops."
+  },
+  {
+   "f": "Informative vs persuasive advertising",
+   "b": "Informative: gives facts (e.g. new product). Persuasive: tries to convince customers to buy and builds brand image."
+  },
+  {
+   "f": "Sales promotion",
+   "b": "Incentives to encourage short-term sales: discounts, coupons, free samples, buy one get one free, competitions."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The four Ps are product, price, place and ___ .",
+   "a": [
+    "promotion"
+   ]
+  },
+  {
+   "s": "A product that makes a loss in the early stage is usually in the ___ stage of its life cycle.",
+   "a": [
+    "introduction"
+   ]
+  },
+  {
+   "s": "A unit cost of €8 with a 25% mark-up gives a cost-plus price of € ___ .",
+   "a": [
+    "10",
+    "€10",
+    "10.00"
+   ]
+  },
+  {
+   "s": "Setting a low price to enter a new market is ___ pricing.",
+   "a": [
+    "penetration"
+   ]
+  },
+  {
+   "s": "A very high launch price for a new, innovative product is price ___ .",
+   "a": [
+    "skimming"
+   ]
+  },
+  {
+   "s": "If demand is price-___ , a price rise increases revenue.",
+   "a": [
+    "inelastic"
+   ]
+  },
+  {
+   "s": "The route a product takes from producer to customer is the channel of ___ .",
+   "a": [
+    "distribution"
+   ]
+  },
+  {
+   "s": "Money planned to be spent on marketing over a period is the marketing ___ .",
+   "a": [
+    "budget"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain one reason why a business may want to develop a new product. [2]",
+   "model": "New products attract new customers, raising sales and market share. They also spread risk across a wider product range.",
+   "points": [
+    "attract new customers/sales",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain one extension strategy a business could use for a product in the saturation stage. [3]",
+   "model": "The business could redesign the product or find a new market such as exporting. This attracts new customers and delays decline in sales.",
+   "points": [
+    "named extension strategy",
+    "applied to the product",
+    "effect on sales/life cycle"
+   ]
+  },
+  {
+   "q": "Calculate the selling price using cost-plus pricing with a unit cost of €12 and a 40% mark-up. [2]",
+   "model": "Mark-up = 40% × 12 = €4.80. Price = 12 + 4.80 = €16.80.",
+   "points": [
+    "mark-up €4.80",
+    "price €16.80"
+   ]
+  },
+  {
+   "q": "A product has price-inelastic demand. Explain what this means for a business that raises its price. [3]",
+   "model": "Quantity demanded falls by a smaller percentage than the price rise, so revenue increases.",
+   "points": [
+    "% fall in quantity smaller than % rise in price",
+    "so total revenue rises",
+    "still falls (does not stay constant)"
+   ]
+  },
+  {
+   "q": "Explain two advantages to a business of selling online (e-commerce). [4]",
+   "model": "It can reach a global market and open 24 hours. It saves the cost of a shop and collects customer data.",
+   "points": [
+    "reach wider/global market",
+    "lower costs (no shop)",
+    "open 24/7 or customer data",
+    "development"
+   ]
+  }
+ ]
+}

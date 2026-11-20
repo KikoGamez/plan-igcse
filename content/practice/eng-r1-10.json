@@ -1,0 +1,160 @@
+{
+ "id": "eng-r1-10",
+ "cards": [
+  {
+   "f": "Paper 2 Section B choice?",
+   "b": "One of four titles: two descriptive, two narrative. 350-450 words."
+  },
+  {
+   "f": "Section B marks?",
+   "b": "40: 16 content and structure + 24 style and accuracy."
+  },
+  {
+   "f": "Timing for Section B?",
+   "b": "About 10 min plan, 40 min write, 10 min check."
+  },
+  {
+   "f": "Aim of descriptive writing?",
+   "b": "Create a picture and atmosphere, not tell what happens next."
+  },
+  {
+   "f": "Main danger in descriptive titles?",
+   "b": "Drifting into narrative with a plot, which limits content and structure marks."
+  },
+  {
+   "f": "Top level content and structure?",
+   "b": "Original and absorbing, well-chosen detail, deliberate structure, consistent atmosphere."
+  },
+  {
+   "f": "Top level style and accuracy?",
+   "b": "Precise, ambitious vocabulary used correctly, varied sentences for effect, almost error-free."
+  },
+  {
+   "f": "Zoom framework?",
+   "b": "Wide panorama to mid-shot to close-up on a telling detail, then wide again."
+  },
+  {
+   "f": "Time shift framework?",
+   "b": "Same place at dawn, noon and night, or before and after an event."
+  },
+  {
+   "f": "Walk-through framework?",
+   "b": "The observer moves through the place; each paragraph is a new area."
+  },
+  {
+   "f": "Circular framework?",
+   "b": "End by echoing the opening image, changed."
+  },
+  {
+   "f": "Sensory detail?",
+   "b": "Use sound, smell, touch, temperature and taste, not just sight."
+  },
+  {
+   "f": "What is personification?",
+   "b": "Giving human qualities to non-human things, e.g. 'the gate groaned'."
+  },
+  {
+   "f": "What is pathetic fallacy?",
+   "b": "The setting or weather reflects the mood."
+  },
+  {
+   "f": "Things to avoid?",
+   "b": "Cliches, lists of adjectives, repetitive openings ('I see...'), misused ambitious words."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Descriptive writing aims to create a picture and ___.",
+   "a": [
+    "atmosphere",
+    "mood"
+   ]
+  },
+  {
+   "s": "Section B asks for 350 to ___ words.",
+   "a": [
+    "450"
+   ]
+  },
+  {
+   "s": "Content and structure is worth ___ marks.",
+   "a": [
+    "16"
+   ]
+  },
+  {
+   "s": "Style and accuracy is worth ___ marks.",
+   "a": [
+    "24"
+   ]
+  },
+  {
+   "s": "Giving human qualities to a non-human thing is ___.",
+   "a": [
+    "personification"
+   ]
+  },
+  {
+   "s": "When weather or setting mirrors mood, it is called pathetic ___.",
+   "a": [
+    "fallacy"
+   ]
+  },
+  {
+   "s": "The framework that starts wide, moves close, then widens again is the ___ framework.",
+   "a": [
+    "zoom",
+    "camera"
+   ]
+  },
+  {
+   "s": "A descriptive piece should not turn into a ___.",
+   "a": [
+    "story",
+    "narrative"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how a descriptive title differs from a narrative one. [2]",
+   "model": "Descriptive writing focuses on atmosphere and detail. Narrative tells a story with plot and resolution.",
+   "points": [
+    "Description = atmosphere/detail",
+    "Narrative = plot"
+   ]
+  },
+  {
+   "q": "State two features of top-level content and structure. [2]",
+   "model": "Original and absorbing detail, and a clear deliberate structure.",
+   "points": [
+    "Original detail",
+    "Deliberate structure"
+   ]
+  },
+  {
+   "q": "Give two techniques that score in descriptive writing. [2]",
+   "model": "Sensory detail beyond sight and fresh imagery such as similes or metaphors.",
+   "points": [
+    "Technique 1",
+    "Technique 2"
+   ]
+  },
+  {
+   "q": "Name two things to avoid. [2]",
+   "model": "Cliches such as 'as quiet as a mouse' and lists of adjectives.",
+   "points": [
+    "Cliches",
+    "Adjective lists"
+   ]
+  },
+  {
+   "q": "Describe the time shift structure. [2]",
+   "model": "Describe the same place at different times, such as dawn, noon and night, or before and after an event.",
+   "points": [
+    "Same place",
+    "Different times"
+   ]
+  }
+ ]
+}

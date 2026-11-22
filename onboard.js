@@ -5,10 +5,8 @@ const ES=document.documentElement.lang==='es';
 const PKEY='igcse-profile-v1';
 const HAVE=['math','stats','bio','chem','phys','bus','eng','fr','spa'];
 /* Subjects with no content yet: choosing one asks the admin to add it */
-const EXTRA=[['hist','Historia','History'],['geo','Geografía','Geography'],['econ','Economía','Economics'],['cs','Computer Science','Computer Science'],
-  ['ict','TIC (ICT)','ICT'],['englit','Literatura inglesa','English Literature'],['ger','Alemán','German'],['ita','Italiano','Italian'],['chi','Chino mandarín','Mandarin Chinese'],
-  ['fpm','Further Pure Mathematics','Further Pure Mathematics'],['hbio','Human Biology','Human Biology'],['sci','Ciencias (Double Award)','Science (Double Award)'],
-  ['acc','Contabilidad (Accounting)','Accounting'],['rs','Religión (Religious Studies)','Religious Studies'],['art','Arte y diseño','Art and Design'],['music','Música','Music'],['pe','Educación física (PE)','Physical Education']];
+const EXTRA=[['geo','Geografía','Geography'],['cs','Computer Science','Computer Science'],['ger','Alemán','German'],
+  ['music','Música','Music'],['art','Arte y diseño','Art and Design'],['pe','Educación física (PE)','Physical Education']];
 const name=k=>{const e=EXTRA.find(x=>x[0]===k);if(e)return ES?e[1]:e[2];const s=window.DATA&&DATA.S[k];return s?(ES?s.es:s.en):k};
 const L=ES?{
   hi:n=>`¡Hola${n?', '+n:''}! 👋`,intro:'Vamos a preparar <b>tu</b> plan de estudio para los mocks. Son 4 pasos y tardas un minuto. Empiezas desde cero: solo verás tu avance.',

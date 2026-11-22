@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-12",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How long is the Paper 3 Speaking test and how many marks?",
+   "options": [
+    "5 minutes, 20 marks",
+    "8–10 minutes, 40 marks",
+    "15 minutes, 60 marks",
+    "10–12 minutes, 70 marks"
+   ],
+   "answer": 1,
+   "why": "Paper 3 lasts 8–10 minutes and is worth 40 marks (25%)."
+  },
+  {
+   "type": "mcq",
+   "q": "Which prompts may the examiner use in Task A?",
+   "options": [
+    "Any follow-up question",
+    "Warum (nicht)? / Noch etwas? / Ist das alles?",
+    "Only yes/no questions",
+    "None at all"
+   ],
+   "answer": 1,
+   "why": "Only these three prompts are allowed, and questions may be repeated but not rephrased."
+  },
+  {
+   "type": "mcq",
+   "q": "How is the German 'w' pronounced?",
+   "options": [
+    "like English w",
+    "like English v",
+    "like English f",
+    "like English y"
+   ],
+   "answer": 1,
+   "why": "German w = v (Wasser). German v is usually f (Vater)."
+  },
+  {
+   "type": "short",
+   "q": "Give a two-sentence German answer to 'Was machst du in deiner Freizeit?' that includes an opinion with a reason and a future plan.",
+   "model": "Ich spiele gern Fußball, weil ich Mannschaftssport mag. Nächstes Jahr werde ich in einem Verein trainieren.",
+   "points": [
+    "opinion with reason (weil)",
+    "future with werden + infinitive"
+   ]
+  }
+ ]
+}

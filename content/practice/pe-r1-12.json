@@ -1,0 +1,159 @@
+{
+ "id": "pe-r1-12",
+ "cards": [
+  {
+   "f": "Participation",
+   "b": "Taking part in sport or physical activity."
+  },
+  {
+   "f": "Why do fewer girls take part in some sports?",
+   "b": "Fewer role models and media coverage, stereotypes, peer pressure and fewer female teams or sessions."
+  },
+  {
+   "f": "Barriers for people with disabilities",
+   "b": "Inaccessible facilities, costly specialist equipment, lack of trained coaches, limited provision."
+  },
+  {
+   "f": "Socio-economic barrier",
+   "b": "Cost of kit, membership and travel can stop lower-income groups taking part."
+  },
+  {
+   "f": "Commercialisation",
+   "b": "Running sport as a business to make money."
+  },
+  {
+   "f": "Golden triangle",
+   "b": "The link between sport, sponsorship and the media: each benefits from the others."
+  },
+  {
+   "f": "Sponsorship",
+   "b": "Support, usually money, from a business in return for advertising."
+  },
+  {
+   "f": "Advantage of sponsorship to a performer",
+   "b": "Funds training, equipment and travel, allowing full-time training."
+  },
+  {
+   "f": "Disadvantage of sponsorship",
+   "b": "Pressure to win, sponsor can withdraw, and sponsors may influence the sport."
+  },
+  {
+   "f": "Positive effect of media",
+   "b": "Raises awareness and participation, shows role models, brings in income."
+  },
+  {
+   "f": "Sportsmanship",
+   "b": "Playing fairly, respecting the rules, opponents and officials."
+  },
+  {
+   "f": "Gamesmanship",
+   "b": "Bending the rules without breaking them to gain an advantage, e.g. time-wasting."
+  },
+  {
+   "f": "Deviance",
+   "b": "Behaviour that breaks the rules or accepted norms, e.g. cheating, drug use, violence."
+  },
+  {
+   "f": "Mean and range",
+   "b": "Mean: total ÷ number of values. Range: highest − lowest."
+  },
+  {
+   "f": "Reliable vs valid data",
+   "b": "Reliable: consistent when repeated. Valid: measures what it claims to measure."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Running sport as a business is called ___.",
+   "a": [
+    "commercialisation",
+    "commercialization"
+   ]
+  },
+  {
+   "s": "The golden triangle links sport, sponsorship and the ___.",
+   "a": [
+    "media"
+   ]
+  },
+  {
+   "s": "Bending the rules without breaking them is called ___.",
+   "a": [
+    "gamesmanship"
+   ]
+  },
+  {
+   "s": "Data in numbers, such as times, is called ___ data.",
+   "a": [
+    "quantitative"
+   ]
+  },
+  {
+   "s": "Highest value minus lowest value gives the ___.",
+   "a": [
+    "range"
+   ]
+  },
+  {
+   "s": "Data that gives consistent results when repeated is ___.",
+   "a": [
+    "reliable"
+   ]
+  },
+  {
+   "s": "Violent behaviour by spectators is called ___.",
+   "a": [
+    "hooliganism"
+   ]
+  },
+  {
+   "s": "Total of the values divided by how many there are gives the ___.",
+   "a": [
+    "mean",
+    "average"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how role models can increase participation.",
+   "model": "Successful athletes inspire people to try the sport, and people copy what they see. This is stronger when role models are from under-represented groups.",
+   "points": [
+    "inspire / copy",
+    "link to participation"
+   ]
+  },
+  {
+   "q": "Give two disadvantages of commercialisation for spectators.",
+   "model": "Ticket and TV subscription prices rise, and kick-off times may be changed to suit television.",
+   "points": [
+    "cost",
+    "schedule changes / over-commercial"
+   ]
+  },
+  {
+   "q": "Explain why a bigger sample makes data more reliable.",
+   "model": "A larger sample is more representative and reduces the effect of unusual results, so results are more consistent.",
+   "points": [
+    "more representative",
+    "reduces unusual results"
+   ]
+  },
+  {
+   "q": "A club had 60 members in 2021 and 72 in 2024. Calculate the percentage increase.",
+   "model": "(72 − 60) ÷ 60 × 100 = 20%.",
+   "points": [
+    "change 12",
+    "20%"
+   ]
+  },
+  {
+   "q": "Give two ways of controlling violence by spectators.",
+   "model": "Use stewards, CCTV and segregate rival fans. Ban alcohol and issue banning orders for offenders.",
+   "points": [
+    "stewards / CCTV / segregation",
+    "bans / alcohol rules"
+   ]
+  }
+ ]
+}

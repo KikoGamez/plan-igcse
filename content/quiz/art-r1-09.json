@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-09",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which movement is named after a Monet painting of 1872?",
+   "options": [
+    "Romanticism",
+    "Realism",
+    "Post-Impressionism",
+    "Impressionism"
+   ],
+   "answer": 3,
+   "why": "A critic mocked Monet's Impression, Sunrise, and the name stuck."
+  },
+  {
+   "type": "mcq",
+   "q": "Who painted The Third of May 1808?",
+   "options": [
+    "Goya",
+    "Velázquez",
+    "Delacroix",
+    "Caravaggio"
+   ],
+   "answer": 0,
+   "why": "Goya painted it in 1814 as a protest against the horrors of war; it is in the Prado."
+  },
+  {
+   "type": "mcq",
+   "q": "Which technique creates depth using lines that meet at a vanishing point?",
+   "options": [
+    "Sfumato",
+    "Linear perspective",
+    "Pointillism",
+    "Impasto"
+   ],
+   "answer": 1,
+   "why": "Linear perspective developed in the Renaissance."
+  },
+  {
+   "type": "short",
+   "q": "Describe two ways Impressionist painters worked that were new at the time.",
+   "model": "They painted outdoors (en plein air) to capture changing light, and used quick, broken brushstrokes of pure colour instead of smooth blended finishes.",
+   "points": [
+    "painted outdoors/plein air or captured light",
+    "visible broken brushstrokes/pure colour side by side"
+   ]
+  }
+ ]
+}

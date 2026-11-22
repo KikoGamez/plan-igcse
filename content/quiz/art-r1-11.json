@@ -1,0 +1,51 @@
+{
+ "id": "art-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What does AO2 ask you to do?",
+   "options": [
+    "Record observations from life only",
+    "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes",
+    "Present a personal response",
+    "Research artists"
+   ],
+   "answer": 1,
+   "why": "This is the AO2 wording from the specification."
+  },
+  {
+   "type": "mcq",
+   "q": "Why change only one variable in each experiment?",
+   "options": [
+    "It saves paper",
+    "It looks neater",
+    "Examiners require it",
+    "You can tell what caused the result"
+   ],
+   "answer": 3,
+   "why": "Changing one thing lets you judge cause and effect."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a sign an idea was 'consolidated too early'?",
+   "options": [
+    "Several different thumbnails",
+    "Annotated media tests",
+    "Only one composition, no alternatives tested",
+    "A rejected idea explained"
+   ],
+   "answer": 2,
+   "why": "The lowest AO2 band describes ideas consolidated too early."
+  },
+  {
+   "type": "short",
+   "q": "Explain how a student can show 'experimentation and review' in a sketchbook.",
+   "model": "Try several media or compositions side by side, annotate what worked and what did not, and show a refined next version based on those decisions.",
+   "points": [
+    "multiple experiments/compared",
+    "annotation of what worked/why",
+    "refined next step"
+   ]
+  }
+ ]
+}

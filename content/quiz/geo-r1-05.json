@@ -1,0 +1,6 @@
+{"id":"geo-r1-05","questions":[
+{"type":"mcq","q":"At which type of plate boundary does an oceanic plate sink beneath a continental plate?","options":["Constructive","Conservative","Destructive","Hotspot"],"answer":2,"why":"At a destructive boundary the denser oceanic plate is subducted, causing earthquakes and explosive volcanoes."},
+{"type":"mcq","q":"The point on the Earth's surface directly above where an earthquake starts is the","options":["focus","fault","epicentre","hotspot"],"answer":2,"why":"The focus is underground; the epicentre is the surface point directly above it."},
+{"type":"mcq","q":"Which scale measures the explosiveness of a volcanic eruption?","options":["Mercalli","Volcanic Explosivity Index","Moment magnitude","Saffir-Simpson"],"answer":1,"why":"The VEI (0 to 8) measures eruption size and explosiveness."},
+{"type":"short","q":"Explain why earthquakes cause fewer deaths in developed countries than in developing countries.","model":"Developed countries have earthquake-resistant buildings, better emergency services, hospitals and warning systems, so fewer people are killed. Developing countries have weaker buildings and less money for rescue and healthcare.","points":["better building design / preparation in developed countries","better emergency services / healthcare, more money"]}
+]}

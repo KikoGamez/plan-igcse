@@ -1,0 +1,170 @@
+{
+ "id": "pe-r1-06",
+ "cards": [
+  {
+   "f": "Cardiovascular fitness",
+   "b": "The ability of the heart, lungs and blood vessels to supply oxygen to the working muscles over a long period."
+  },
+  {
+   "f": "Muscular strength",
+   "b": "The maximum force a muscle can apply in a single contraction."
+  },
+  {
+   "f": "Muscular endurance",
+   "b": "The ability of a muscle to contract repeatedly without tiring."
+  },
+  {
+   "f": "Flexibility",
+   "b": "The range of movement possible at a joint."
+  },
+  {
+   "f": "Body composition",
+   "b": "The percentage of body weight that is fat, muscle, bone and water."
+  },
+  {
+   "f": "Agility",
+   "b": "The ability to change direction quickly while keeping control."
+  },
+  {
+   "f": "Power",
+   "b": "Strength × speed: producing force quickly."
+  },
+  {
+   "f": "Reaction time",
+   "b": "The time between a stimulus and the start of a response."
+  },
+  {
+   "f": "Coordination",
+   "b": "Using two or more body parts together smoothly and accurately."
+  },
+  {
+   "f": "Balance",
+   "b": "Keeping the centre of mass over the base of support."
+  },
+  {
+   "f": "Tests for cardiovascular fitness",
+   "b": "Cooper 12-minute run, multi-stage fitness (bleep) test, Harvard step test."
+  },
+  {
+   "f": "Test for flexibility and what it measures",
+   "b": "Sit and reach; hamstring and lower back flexibility, measured in cm."
+  },
+  {
+   "f": "Test for power",
+   "b": "Vertical jump or standing broad jump."
+  },
+  {
+   "f": "Valid test",
+   "b": "Measures what it is supposed to measure."
+  },
+  {
+   "f": "Reliable test",
+   "b": "Gives consistent results when repeated under the same conditions."
+  },
+  {
+   "f": "Percentage change formula",
+   "b": "(new − old) ÷ old × 100."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The ruler drop test measures ___ time.",
+   "a": [
+    "reaction"
+   ]
+  },
+  {
+   "s": "The test using a dynamometer measures muscular ___.",
+   "a": [
+    "strength"
+   ]
+  },
+  {
+   "s": "The 12-minute run is called the ___ test.",
+   "a": [
+    "Cooper",
+    "Cooper's"
+   ]
+  },
+  {
+   "s": "Strength multiplied by speed is called ___.",
+   "a": [
+    "power"
+   ]
+  },
+  {
+   "s": "A test that gives consistent results is ___.",
+   "a": [
+    "reliable"
+   ]
+  },
+  {
+   "s": "The Illinois run is a test of ___.",
+   "a": [
+    "agility"
+   ]
+  },
+  {
+   "s": "The stork stand tests ___.",
+   "a": [
+    "balance"
+   ]
+  },
+  {
+   "s": "Fat, muscle, bone and water make up body ___.",
+   "a": [
+    "composition"
+   ]
+  },
+  {
+   "s": "In a sprint test a lower time means a ___ result.",
+   "a": [
+    "better",
+    "faster",
+    "improved"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why the bleep test is not always a good measure of fitness for a footballer.",
+   "model": "It tests only cardiovascular fitness in a straight-line shuttle run, so it is not sport-specific and does not measure skills like power or agility.",
+   "points": [
+    "only one component / not sport-specific",
+    "does not match football movements"
+   ]
+  },
+  {
+   "q": "Describe how to carry out the Cooper 12-minute run.",
+   "model": "Run as far as possible around a marked track in 12 minutes, then record the distance covered in metres.",
+   "points": [
+    "12 minutes maximum distance",
+    "record distance"
+   ]
+  },
+  {
+   "q": "A student's sit and reach score rises from 6 cm to 12 cm. State what this shows and calculate the percentage change.",
+   "model": "Flexibility has improved. The change is (12 − 6) ÷ 6 × 100 = 100%.",
+   "points": [
+    "flexibility improved",
+    "100%"
+   ]
+  },
+  {
+   "q": "Explain why power is important to a volleyball player.",
+   "model": "Power lets her jump high quickly to spike or block, combining strength and speed in the take-off.",
+   "points": [
+    "power = strength × speed",
+    "jumping / spiking link"
+   ]
+  },
+  {
+   "q": "Give two ways to make a fitness test more reliable.",
+   "model": "Use the same equipment, surface, tester, warm-up and time of day each time, and give the same instructions.",
+   "points": [
+    "standardise conditions",
+    "any specific factor e.g. same tester/equipment"
+   ]
+  }
+ ]
+}

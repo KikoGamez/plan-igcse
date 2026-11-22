@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-01",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many marks is each assessment objective worth in each component?",
+   "options": [
+    "12",
+    "18",
+    "24",
+    "36"
+   ],
+   "answer": 1,
+   "why": "Each AO is marked out of 18, so 4 × 18 = 72 per component."
+  },
+  {
+   "type": "mcq",
+   "q": "Which objective is about presenting a personal and meaningful response that realises intentions?",
+   "options": [
+    "AO1",
+    "AO2",
+    "AO3",
+    "AO4"
+   ],
+   "answer": 3,
+   "why": "AO4 is the final response and understanding of visual language."
+  },
+  {
+   "type": "mcq",
+   "q": "How long is the supervised exam in Component 2?",
+   "options": [
+    "5 hours",
+    "8 hours",
+    "10 hours",
+    "15 hours"
+   ],
+   "answer": 2,
+   "why": "The externally set assignment has a 10-hour exam, possibly split over up to four sessions."
+  },
+  {
+   "type": "short",
+   "q": "Give two ways to show AO2 in a sketchbook.",
+   "model": "Try several media or techniques on the same subject, review which worked, and select one for your final piece with a reason.",
+   "points": [
+    "experiments with different media/materials/techniques",
+    "review and reasoned selection"
+   ]
+  }
+ ]
+}

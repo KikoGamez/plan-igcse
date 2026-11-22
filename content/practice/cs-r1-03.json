@@ -1,0 +1,163 @@
+{
+ "id": "cs-r1-03",
+ "cards": [
+  {
+   "f": "AND",
+   "b": "Output is 1 (True) only when both inputs are 1."
+  },
+  {
+   "f": "OR",
+   "b": "Output is 1 when at least one input is 1."
+  },
+  {
+   "f": "NOT",
+   "b": "Reverses its input: NOT 1 = 0, NOT 0 = 1."
+  },
+  {
+   "f": "Rows in a truth table",
+   "b": "2^n rows for n inputs: 4 for two inputs, 8 for three."
+  },
+  {
+   "f": "Order of inputs in a truth table",
+   "b": "Use binary counting order (000, 001, 010 … 111) so no row is missed or repeated."
+  },
+  {
+   "f": "Precedence of operators",
+   "b": "NOT first, then AND, then OR. Use brackets to be clear."
+  },
+  {
+   "f": "Why add working columns to a truth table?",
+   "b": "They break a long expression into steps, reduce mistakes and may earn method marks."
+  },
+  {
+   "f": "Truth table for A AND B",
+   "b": "Output 1 only on the row A = 1, B = 1; 0 on the other three rows."
+  },
+  {
+   "f": "Is NOT (A AND B) the same as NOT A AND NOT B?",
+   "b": "No. With A = 1, B = 0 the first is 1 and the second is 0."
+  },
+  {
+   "f": "Trace table",
+   "b": "A table that records the values of variables and output as an algorithm is followed step by step."
+  },
+  {
+   "f": "MOD",
+   "b": "Gives the remainder of a division: 17 MOD 5 = 2."
+  },
+  {
+   "f": "DIV",
+   "b": "Whole-number division, ignoring the remainder: 17 DIV 5 = 3."
+  },
+  {
+   "f": "Boolean data type",
+   "b": "A data type with only two values, True or False."
+  },
+  {
+   "f": "Statement for 'alarm if door open and armed, or panic pressed'",
+   "b": "S = (D AND A) OR P"
+  },
+  {
+   "f": "How to find the error with a trace table",
+   "b": "Compare each row with the expected values. The first row that is wrong points to the faulty line."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A truth table with 2 inputs has ___ rows.",
+   "a": [
+    "4",
+    "four"
+   ]
+  },
+  {
+   "s": "The ___ operator gives 1 only if both inputs are 1.",
+   "a": [
+    "AND"
+   ]
+  },
+  {
+   "s": "NOT 0 gives ___.",
+   "a": [
+    "1",
+    "true"
+   ]
+  },
+  {
+   "s": "The remainder of a division is found using ___.",
+   "a": [
+    "MOD",
+    "modulus",
+    "modulo"
+   ]
+  },
+  {
+   "s": "In 29 DIV 6 the answer is ___.",
+   "a": [
+    "4",
+    "four"
+   ]
+  },
+  {
+   "s": "A table that records variable values as an algorithm runs is a ___ table.",
+   "a": [
+    "trace"
+   ]
+  },
+  {
+   "s": "A data type that can only be True or False is ___.",
+   "a": [
+    "Boolean",
+    "bool"
+   ]
+  },
+  {
+   "s": "In logic, ___ is evaluated before AND and OR.",
+   "a": [
+    "NOT"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Complete the truth table output for Q = A AND NOT B, for A,B = 00, 01, 10, 11.",
+   "model": "Q is 0, 0, 1, 0. Q is 1 only when A = 1 and B = 0.",
+   "points": [
+    "working column NOT B or correct method",
+    "outputs 0, 0, 1, 0"
+   ]
+  },
+  {
+   "q": "A fan (F) runs if the temperature is high (T) and the window is shut (W), or if the override (O) is on. Write the logic statement.",
+   "model": "F = (T AND W) OR O",
+   "points": [
+    "T AND W",
+    "OR O (brackets/structure correct)"
+   ]
+  },
+  {
+   "q": "Trace: SET N TO 5, SET S TO 0, WHILE N > 0 DO SET S TO S + N, SET N TO N - 2 END WHILE. State the final S.",
+   "model": "N takes 5, 3, 1 then -1. S becomes 5, 8, 9. The final value is 9.",
+   "points": [
+    "N values 5, 3, 1 then stops at -1",
+    "S = 9"
+   ]
+  },
+  {
+   "q": "What is 23 MOD 5 and 23 DIV 5?",
+   "model": "23 MOD 5 = 3 (remainder) and 23 DIV 5 = 4 (whole-number division).",
+   "points": [
+    "MOD = 3",
+    "DIV = 4"
+   ]
+  },
+  {
+   "q": "Explain how a trace table helps you find a logic error in an algorithm.",
+   "model": "You run test data through the algorithm and record each variable's value. The first row where a value is not what you expect shows which line is wrong.",
+   "points": [
+    "records variable values for test data",
+    "first wrong value identifies the faulty line"
+   ]
+  }
+ ]
+}

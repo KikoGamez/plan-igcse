@@ -1,0 +1,160 @@
+{
+ "id": "geo-r1-12",
+ "cards": [
+  {
+   "f": "Four-figure grid reference",
+   "b": "Give eastings (along the bottom) first, then northings (up the side): along the corridor, then up the stairs."
+  },
+  {
+   "f": "Map scale 1:50,000",
+   "b": "1 cm on the map is 50,000 cm (500 m) on the ground."
+  },
+  {
+   "f": "Gradient",
+   "b": "Vertical change divided by horizontal distance, e.g. 50 m in 1,000 m = 1 in 20."
+  },
+  {
+   "f": "Range",
+   "b": "Highest value minus lowest value."
+  },
+  {
+   "f": "Percentage change",
+   "b": "(change ÷ original value) × 100."
+  },
+  {
+   "f": "Median",
+   "b": "The middle value of an ordered list; if two middle values, find their mean."
+  },
+  {
+   "f": "Interquartile range",
+   "b": "Upper quartile minus lower quartile: the spread of the middle half of the data."
+  },
+  {
+   "f": "Richter scale",
+   "b": "Logarithmic: each whole number is a tenfold increase in wave amplitude (about 32 times more energy)."
+  },
+  {
+   "f": "Three types of sampling",
+   "b": "Random (by chance), systematic (regular intervals), stratified (in proportion to groups)."
+  },
+  {
+   "f": "Reliability v accuracy",
+   "b": "Reliability: results repeatable. Accuracy: how close a measurement is to the true value."
+  },
+  {
+   "f": "Anomaly",
+   "b": "A data point that does not fit the pattern."
+  },
+  {
+   "f": "How to describe a graph",
+   "b": "State the overall trend, quote two data values with units, and mention any anomaly."
+  },
+  {
+   "f": "Triangular graph",
+   "b": "Each corner is 100% of one category; read along gridlines and check three values total 100."
+  },
+  {
+   "f": "Choropleth map",
+   "b": "A map with areas shaded by value; darker usually means higher."
+  },
+  {
+   "f": "Evaluate fieldwork sampling (8 marks)",
+   "b": "Say what you did, give strengths and weaknesses, explain the effect on results, suggest improvements, and give a judgement."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "On a grid reference, ___ come first.",
+   "a": [
+    "eastings"
+   ]
+  },
+  {
+   "s": "Percentage change = change divided by the ___ value, times 100.",
+   "a": [
+    "original",
+    "starting",
+    "old"
+   ]
+  },
+  {
+   "s": "Highest value minus lowest value gives the ___.",
+   "a": [
+    "range"
+   ]
+  },
+  {
+   "s": "Data that does not fit the pattern is an ___.",
+   "a": [
+    "anomaly"
+   ]
+  },
+  {
+   "s": "Choosing every 10th site is ___ sampling.",
+   "a": [
+    "systematic"
+   ]
+  },
+  {
+   "s": "Sampling in proportion to the size of each group is ___ sampling.",
+   "a": [
+    "stratified"
+   ]
+  },
+  {
+   "s": "The ___ scale is logarithmic and measures earthquakes.",
+   "a": [
+    "Richter"
+   ]
+  },
+  {
+   "s": "A line joining places of equal height on a map is a ___.",
+   "a": [
+    "contour"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the percentage increase in beach gradient from 4° to 6°.",
+   "model": "(6 − 4) ÷ 4 × 100 = 50% increase.",
+   "points": [
+    "correct method: change ÷ original",
+    "answer 50%"
+   ]
+  },
+  {
+   "q": "Describe how you would use one piece of equipment in your enquiry.",
+   "model": "We used a tape measure placed across the river from bank to bank, and recorded the width to the nearest centimetre at each site.",
+   "points": [
+    "equipment named",
+    "how it was used"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of annotated field sketches.",
+   "model": "Advantage: they focus on key features and need no equipment. Disadvantage: they are subjective and do not provide numerical data.",
+   "points": [
+    "advantage",
+    "disadvantage"
+   ]
+  },
+  {
+   "q": "Explain one way to make sure fieldwork results are accurate.",
+   "model": "Repeat each measurement three times and take a mean, so that errors and anomalies have less effect.",
+   "points": [
+    "method",
+    "reason it improves accuracy"
+   ]
+  },
+  {
+   "q": "Evaluate how effective your sampling was in helping you answer your enquiry title.",
+   "model": "Systematic sampling every 20 m gave even coverage along the beach, but with only 6 sites some changes could be missed, so more sites would improve reliability.",
+   "points": [
+    "states sampling used",
+    "strength",
+    "weakness and improvement"
+   ]
+  }
+ ]
+}

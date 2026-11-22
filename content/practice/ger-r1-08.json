@@ -1,0 +1,175 @@
+{
+ "id": "ger-r1-08",
+ "cards": [
+  {
+   "f": "die Geschwister (pl.)",
+   "b": "siblings (brothers and sisters)"
+  },
+  {
+   "f": "sich streiten / sich vertragen",
+   "b": "to argue / to get on (with someone)"
+  },
+  {
+   "f": "das Vorbild, -er",
+   "b": "role model"
+  },
+  {
+   "f": "das Taschengeld",
+   "b": "pocket money"
+  },
+  {
+   "f": "die Umwelt",
+   "b": "environment (feminine)"
+  },
+  {
+   "f": "der Klimawandel",
+   "b": "climate change"
+  },
+  {
+   "f": "der Müll / der Plastikmüll",
+   "b": "rubbish / plastic waste"
+  },
+  {
+   "f": "erneuerbare Energien",
+   "b": "renewable energy"
+  },
+  {
+   "f": "umweltfreundlich",
+   "b": "environmentally friendly"
+  },
+  {
+   "f": "die Verspätung",
+   "b": "delay (trains, buses)"
+  },
+  {
+   "f": "das Wechselgeld",
+   "b": "change (money)"
+  },
+  {
+   "f": "die Sendung, -en",
+   "b": "TV or radio programme"
+  },
+  {
+   "f": "das Cybermobbing",
+   "b": "cyberbullying"
+  },
+  {
+   "f": "sich gesund ernähren",
+   "b": "to eat healthily"
+  },
+  {
+   "f": "Ich habe Halsschmerzen.",
+   "b": "I have a sore throat."
+  },
+  {
+   "f": "der Unfall, ¨-e",
+   "b": "accident"
+  },
+  {
+   "f": "Man sollte mehr recyceln.",
+   "b": "One should recycle more."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Ich ___ gern Fußball (play).",
+   "a": [
+    "spiele"
+   ]
+  },
+  {
+   "s": "Ich gehe gern ___ (swimming).",
+   "a": [
+    "schwimmen"
+   ]
+  },
+  {
+   "s": "Er hat Fieber, deshalb ___ er zum Arzt gehen (should).",
+   "a": [
+    "sollte",
+    "soll",
+    "muss"
+   ]
+  },
+  {
+   "s": "Ich fahre mit ___ Bus zur Schule. (der Bus, dative)",
+   "a": [
+    "dem"
+   ]
+  },
+  {
+   "s": "Wir müssen weniger Plastik benutzen, ___ die Umwelt zu schützen.",
+   "a": [
+    "um"
+   ]
+  },
+  {
+   "s": "Der Verkäufer gibt mir das ___ zurück (change, money).",
+   "a": [
+    "Wechselgeld"
+   ]
+  },
+  {
+   "s": "Meine Eltern ___ sehr freundlich (to be, plural).",
+   "a": [
+    "sind"
+   ]
+  },
+  {
+   "s": "Ich finde Cybermobbing schlimm, ___ es sehr verletzend ist.",
+   "a": [
+    "weil",
+    "da"
+   ]
+  },
+  {
+   "s": "Mein Kopf tut ___. (hurts)",
+   "a": [
+    "weh"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe your family in German (two sentences) and say who you get on best with.",
+   "model": "Ich habe einen Bruder und eine Schwester. Ich verstehe mich am besten mit meiner Schwester, weil sie lustig ist.",
+   "points": [
+    "family members correctly named",
+    "opinion with reason",
+    "correct dative (mit meiner Schwester)"
+   ]
+  },
+  {
+   "q": "Write two German sentences about problems with social media.",
+   "model": "Cybermobbing ist ein großes Problem. Viele Jugendliche schlafen zu wenig, weil sie zu lange am Handy sind.",
+   "points": [
+    "problem named",
+    "reason with verb at end of weil-clause"
+   ]
+  },
+  {
+   "q": "Say in German what you did last weekend (free time), in the perfect tense, with an opinion.",
+   "model": "Am Samstag bin ich mit Freunden ins Kino gegangen. Der Film hat mir gut gefallen.",
+   "points": [
+    "perfect tense with correct auxiliary",
+    "opinion"
+   ]
+  },
+  {
+   "q": "Give two ways of saving energy or helping the environment, using man sollte / man kann.",
+   "model": "Man sollte weniger Strom verbrauchen. Man kann auch öfter mit dem Fahrrad fahren.",
+   "points": [
+    "modal verb + infinitive at end",
+    "two ideas"
+   ]
+  },
+  {
+   "q": "You feel ill. Tell the doctor your symptoms in German (two sentences).",
+   "model": "Ich habe seit gestern Kopfschmerzen und Fieber. Mir tut auch der Hals weh.",
+   "points": [
+    "two symptoms",
+    "correct structure (habe ... / tut ... weh)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "music-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which instrument group forms the basso continuo in Baroque music?",
+   "options": [
+    "Flute and oboe",
+    "Cello with harpsichord or organ",
+    "Violin and viola",
+    "Trumpet and timpani"
+   ],
+   "answer": 1,
+   "why": "The continuo is a bass instrument plus a chord instrument (harpsichord/organ/lute)."
+  },
+  {
+   "type": "mcq",
+   "q": "Which feature is most typical of Classical (c.1750–1820) music?",
+   "options": [
+    "Terraced dynamics and a harpsichord continuo",
+    "Balanced four-bar phrases over simple harmony",
+    "Huge orchestra and constant rubato",
+    "Fugue as the main form"
+   ],
+   "answer": 1,
+   "why": "Classical music is clear and balanced: regular phrases, simple primary chords."
+  },
+  {
+   "type": "mcq",
+   "q": "Which feature suggests Romantic music?",
+   "options": [
+    "Alberti bass",
+    "Ground bass",
+    "Chromatic harmony and rubato",
+    "Ritornello form"
+   ],
+   "answer": 2,
+   "why": "Chromatic harmony, rubato and wide dynamics are Romantic; the others are Classical or Baroque."
+  },
+  {
+   "type": "short",
+   "q": "Give three features that would help you decide that an excerpt is Baroque.",
+   "model": "Harpsichord or organ playing a basso continuo; polyphonic/contrapuntal texture with imitation; terraced dynamics; ornamentation such as trills; a small string orchestra.",
+   "points": [
+    "Basso continuo / harpsichord",
+    "Polyphonic texture or imitation",
+    "Terraced dynamics",
+    "Ornamentation (trills, mordents)"
+   ]
+  }
+ ]
+}

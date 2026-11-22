@@ -1,0 +1,164 @@
+{
+ "id": "cs-r1-05",
+ "cards": [
+  {
+   "f": "Array",
+   "b": "A fixed-size collection of items of the same data type, each accessed by its index."
+  },
+  {
+   "f": "Array index in Pearson pseudocode",
+   "b": "Starts at 0. A 5-item array has indices 0 to 4."
+  },
+  {
+   "f": "Last index of an array",
+   "b": "LENGTH(array) - 1."
+  },
+  {
+   "f": "2D array",
+   "b": "An array of arrays: a table with rows and columns, so each item needs two indices."
+  },
+  {
+   "f": "Record",
+   "b": "A data structure made of named fields that can have different data types, e.g. name, age, form."
+  },
+  {
+   "f": "Array vs record",
+   "b": "Array: items all the same type, accessed by index. Record: fields can differ, accessed by field name."
+  },
+  {
+   "f": "Why use an array?",
+   "b": "Stores many related values under one name, processed with a loop, so code is shorter and easier to maintain."
+  },
+  {
+   "f": "Nested loops for a 2D array",
+   "b": "Outer loop for rows, inner loop for columns; the inner loop completes for each row."
+  },
+  {
+   "f": "String concatenation",
+   "b": "Joining strings together: 'Hello' & ' ' & 'World' (Python: +)."
+  },
+  {
+   "f": "Python: first three characters of w",
+   "b": "w[0:3]. The slice stops before index 3."
+  },
+  {
+   "f": "Python: length of a string or list",
+   "b": "len(x). Pseudocode: LENGTH(x)."
+  },
+  {
+   "f": "Why store data in a text file?",
+   "b": "So the data persists after the program ends and can be used next time."
+  },
+  {
+   "f": "Python file modes",
+   "b": "\"r\" read, \"w\" write (erases existing contents), \"a\" append (adds to the end)."
+  },
+  {
+   "f": "Data read from a text file",
+   "b": "Always a string. Convert with int() or float() before calculating."
+  },
+  {
+   "f": "Why close a file?",
+   "b": "To save the data properly and free the file for other uses."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The first item in an array is at index ___.",
+   "a": [
+    "0",
+    "zero"
+   ]
+  },
+  {
+   "s": "An array holds items of the ___ data type.",
+   "a": [
+    "same"
+   ]
+  },
+  {
+   "s": "A ___ groups fields of different data types about one thing.",
+   "a": [
+    "record"
+   ]
+  },
+  {
+   "s": "A 2D array needs ___ indices to find one item.",
+   "a": [
+    "two",
+    "2"
+   ]
+  },
+  {
+   "s": "In Python, open a file with mode \"___\" to add to the end.",
+   "a": [
+    "a",
+    "append"
+   ]
+  },
+  {
+   "s": "Joining two strings together is called ___.",
+   "a": [
+    "concatenation",
+    "concatenating",
+    "appending"
+   ]
+  },
+  {
+   "s": "The Python function that gives the number of items in a list is ___.",
+   "a": [
+    "len",
+    "len()"
+   ]
+  },
+  {
+   "s": "A 4-item array has a last index of ___.",
+   "a": [
+    "3",
+    "three"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why an array is better than 30 separate variables for 30 test marks.",
+   "model": "One array stores all the marks under one name and can be processed with a loop, so the code is much shorter and easier to change.",
+   "points": [
+    "one name for all values",
+    "loop can process them / shorter code"
+   ]
+  },
+  {
+   "q": "Write Python to print the total of the list marks = [56, 72, 48, 90].",
+   "model": "total = 0 then for m in marks: total = total + m, then print(total) which gives 266.",
+   "points": [
+    "total initialised to 0",
+    "loop adding each item then print"
+   ]
+  },
+  {
+   "q": "Write Python to count the letter 'a' in a string word.",
+   "model": "count = 0, then for ch in word: if ch == 'a': count = count + 1, then print(count).",
+   "points": [
+    "loop through characters",
+    "count incremented when equal to 'a'"
+   ]
+  },
+  {
+   "q": "State the difference between opening a file in write mode and append mode.",
+   "model": "Write mode erases any existing contents of the file before writing. Append mode adds new data to the end and keeps the existing contents.",
+   "points": [
+    "write replaces/erases contents",
+    "append adds to the end"
+   ]
+  },
+  {
+   "q": "A 2D array Seats has 4 rows and 6 columns. Describe how to visit every seat.",
+   "model": "Use a nested loop: an outer loop for rows 0 to 3 and an inner loop for columns 0 to 5, accessing Seats[row, col] each time.",
+   "points": [
+    "nested loops",
+    "correct row and column ranges (0-3, 0-5)"
+   ]
+  }
+ ]
+}

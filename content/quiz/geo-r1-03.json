@@ -1,0 +1,6 @@
+{"id":"geo-r1-03","questions":[
+{"type":"mcq","q":"Which landform is formed by DEPOSITION?","options":["Stack","Wave-cut platform","Cave","Spit"],"answer":3,"why":"A spit is a ridge of sand or shingle deposited by longshore drift."},
+{"type":"mcq","q":"What is the correct order of landforms from a crack in a headland?","options":["Arch, cave, stack, stump","Stack, arch, cave, stump","Cave, arch, stack, stump","Cave, stack, arch, stump"],"answer":2,"why":"A crack becomes a cave, then an arch, then a stack, then a stump."},
+{"type":"mcq","q":"In longshore drift, backwash carries material","options":["at an angle along the beach","straight down the beach at right angles to the coast","out to sea only","away from the shore in suspension"],"answer":1,"why":"Gravity pulls backwash straight down the slope; swash moves up at an angle, creating a zigzag."},
+{"type":"short","q":"Explain how a cave, arch and stack form.","model":"Hydraulic action and abrasion enlarge a crack in a headland to form a cave. The cave erodes through the headland, forming an arch. The arch is weakened by erosion and weathering and its roof collapses, leaving a stack.","points":["cave forms from crack by hydraulic action/abrasion; erodes through headland to arch","arch roof collapses leaving a stack"]}
+]}

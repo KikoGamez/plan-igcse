@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-10",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many reading marks are there in Paper 2, and how many tasks?",
+   "options": [
+    "20 marks, 3 tasks",
+    "40 marks, 5 tasks",
+    "60 marks, 6 tasks",
+    "80 marks, 8 tasks"
+   ],
+   "answer": 1,
+   "why": "Section A has 5 tasks for 40 marks (6+6+8+10+10); the other 40 marks are for writing."
+  },
+  {
+   "type": "mcq",
+   "q": "Text: 'Obwohl der Bus vor der Tür hält, fährt Lena mit dem Rad.' How does Lena travel?",
+   "options": [
+    "by bus",
+    "by bike",
+    "on foot",
+    "by car"
+   ],
+   "answer": 1,
+   "why": "obwohl signals the contrast: bus available, but she cycles."
+  },
+  {
+   "type": "mcq",
+   "q": "Which answer fits the question 'Wer hat angerufen?' (text: 'Gestern hat Georg angerufen')?",
+   "options": [
+    "Gestern",
+    "Georg",
+    "Anruf",
+    "Wo"
+   ],
+   "answer": 1,
+   "why": "Wer asks for a person: Georg."
+  },
+  {
+   "type": "short",
+   "q": "Name two ways of working out the meaning of an unknown German word.",
+   "model": "Split a compound noun into parts (e.g. Fahrradweg = bike + path), or use cognates/context/word family.",
+   "points": [
+    "compound splitting or word family",
+    "cognate or context"
+   ]
+  }
+ ]
+}

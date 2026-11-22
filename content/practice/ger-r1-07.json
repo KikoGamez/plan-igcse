@@ -1,0 +1,176 @@
+{
+ "id": "ger-r1-07",
+ "cards": [
+  {
+   "f": "die Stadt / das Dorf / auf dem Land",
+   "b": "town / village / in the country (die Stadt, ¨-e; das Dorf, ¨-er)"
+  },
+  {
+   "f": "die Sehenswürdigkeit",
+   "b": "sight, tourist attraction (plural: -en)"
+  },
+  {
+   "f": "die Unterkunft",
+   "b": "accommodation (die Unterkunft, ¨-e)"
+  },
+  {
+   "f": "die Jugendherberge",
+   "b": "youth hostel"
+  },
+  {
+   "f": "Wie komme ich zum Bahnhof?",
+   "b": "How do I get to the station?"
+  },
+  {
+   "f": "Biegen Sie links ab.",
+   "b": "Turn left."
+  },
+  {
+   "f": "gegenüber von + dative",
+   "b": "opposite (gegenüber vom Bahnhof)"
+  },
+  {
+   "f": "der Brauch, ¨-e",
+   "b": "custom, tradition"
+  },
+  {
+   "f": "der Stundenplan",
+   "b": "timetable"
+  },
+  {
+   "f": "das Fach, ¨-er",
+   "b": "school subject"
+  },
+  {
+   "f": "das Zeugnis",
+   "b": "school report"
+  },
+  {
+   "f": "die Klassenfahrt",
+   "b": "class trip lasting several days"
+  },
+  {
+   "f": "das Praktikum",
+   "b": "work experience / placement"
+  },
+  {
+   "f": "die Ausbildung",
+   "b": "apprenticeship / vocational training"
+  },
+  {
+   "f": "sich bewerben um",
+   "b": "to apply for (Ich bewerbe mich um eine Stelle.)"
+  },
+  {
+   "f": "das Gehalt, ¨-er",
+   "b": "salary"
+  },
+  {
+   "f": "Der Gymnasium or das Gymnasium?",
+   "b": "das Gymnasium: grammar-type school leading to the Abitur (not a gym)"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Nach der Schule möchte ich ___ studieren.",
+   "a": [
+    "Medizin"
+   ]
+  },
+  {
+   "s": "Mit Berufen verwendet man keinen Artikel: Ich bin ___ (teacher, f.).",
+   "a": [
+    "Lehrerin"
+   ]
+  },
+  {
+   "s": "Im Sommer fahren wir ans Meer. Wir übernachten in einer ___ (youth hostel).",
+   "a": [
+    "Jugendherberge"
+   ]
+  },
+  {
+   "s": "Das ___ ist die Prüfung, die man nach dem Gymnasium macht, um zu studieren.",
+   "a": [
+    "Abitur"
+   ]
+  },
+  {
+   "s": "Gehen Sie ___, dann links. (straight on)",
+   "a": [
+    "geradeaus"
+   ]
+  },
+  {
+   "s": "Letzten Sommer ___ ich nach Spanien gefahren.",
+   "a": [
+    "bin"
+   ]
+  },
+  {
+   "s": "Ich habe ein ___ in einem Krankenhaus gemacht (work experience).",
+   "a": [
+    "Praktikum",
+    "Betriebspraktikum"
+   ]
+  },
+  {
+   "s": "Ich finde Mathe interessant, ___ der Lehrer gut erklärt.",
+   "a": [
+    "weil",
+    "da"
+   ]
+  },
+  {
+   "s": "In Deutschland ist es nicht erlaubt, ein Handy im Unterricht zu ___ (benutzen).",
+   "a": [
+    "benutzen",
+    "nutzen"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the advantages and disadvantages of living in a town (in English or simple German).",
+   "model": "Advantages: lots to do, good transport, shops. Disadvantages: noise, traffic, pollution, expensive housing.",
+   "points": [
+    "one advantage",
+    "one disadvantage",
+    "a reason or detail"
+   ]
+  },
+  {
+   "q": "Write two German sentences about your future plans after school.",
+   "model": "Nach der Schule werde ich studieren. Ich möchte Ingenieurin werden, weil ich Mathe mag.",
+   "points": [
+    "future with werden or möchte",
+    "job without article, infinitive at end",
+    "reason with weil"
+   ]
+  },
+  {
+   "q": "Your friend asks where the tourist office is. Give directions in German (two sentences).",
+   "model": "Gehen Sie geradeaus und biegen Sie an der Ampel rechts ab. Das Touristeninformationsbüro ist gegenüber vom Rathaus.",
+   "points": [
+    "imperative Sie form",
+    "two direction phrases"
+   ]
+  },
+  {
+   "q": "Name three school rules in German.",
+   "model": "Man darf kein Handy benutzen. Man muss pünktlich sein. Rauchen ist verboten.",
+   "points": [
+    "three rules",
+    "correct modal verbs or verboten/erlaubt"
+   ]
+  },
+  {
+   "q": "Describe a work experience placement in two German sentences (perfect tense).",
+   "model": "Ich habe ein Praktikum in einem Büro gemacht. Es hat mir gut gefallen, weil die Kollegen nett waren.",
+   "points": [
+    "perfect tense",
+    "opinion with reason"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "id": "pe-r1-04",
+ "cards": [
+  {
+   "f": "Cardiac output formula",
+   "b": "Q = heart rate × stroke volume (ml or litres per minute)."
+  },
+  {
+   "f": "Stroke volume",
+   "b": "Volume of blood pumped out of the left ventricle in one beat."
+  },
+  {
+   "f": "Path of blood through the heart",
+   "b": "Vena cava, right atrium, right ventricle, pulmonary artery, lungs, pulmonary vein, left atrium, left ventricle, aorta."
+  },
+  {
+   "f": "Which side of the heart is deoxygenated?",
+   "b": "The right side, which pumps to the lungs. The left side is oxygenated and pumps to the body."
+  },
+  {
+   "f": "Why is the left ventricle wall thickest?",
+   "b": "It pumps blood around the whole body, so it needs more force."
+  },
+  {
+   "f": "Artery structure",
+   "b": "Thick, muscular, elastic walls; narrow lumen; carries blood away from the heart under high pressure."
+  },
+  {
+   "f": "Vein structure",
+   "b": "Thinner walls, wide lumen, valves to stop backflow; carries blood to the heart."
+  },
+  {
+   "f": "Capillary structure and role",
+   "b": "Walls one cell thick; allow exchange of gases, nutrients and waste with tissues."
+  },
+  {
+   "f": "Functions of red blood cells",
+   "b": "Carry oxygen bound to haemoglobin."
+  },
+  {
+   "f": "Vascular shunting",
+   "b": "Redirecting blood to working muscles (vasodilation) and away from non-essential organs (vasoconstriction) during exercise."
+  },
+  {
+   "f": "Path of air",
+   "b": "Nose/mouth, trachea, bronchi, bronchioles, alveoli."
+  },
+  {
+   "f": "Breathing in (inspiration)",
+   "b": "Diaphragm contracts and flattens; intercostals contract, ribs up and out; chest volume increases."
+  },
+  {
+   "f": "Breathing out (expiration)",
+   "b": "Diaphragm relaxes and domes; ribs down and in; chest volume decreases."
+  },
+  {
+   "f": "Gas exchange at alveoli",
+   "b": "O₂ diffuses from alveoli into blood; CO₂ diffuses from blood into alveoli. Down concentration gradients."
+  },
+  {
+   "f": "Why alveoli suit gas exchange",
+   "b": "Large surface area, walls one cell thick, many capillaries, moist."
+  },
+  {
+   "f": "Tidal volume and minute ventilation",
+   "b": "Tidal volume = air in one breath. Minute ventilation = tidal volume × breathing rate."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The chamber that pumps blood to the body is the left ___.",
+   "a": [
+    "ventricle"
+   ]
+  },
+  {
+   "s": "Blood returns to the right atrium through the ___ cava.",
+   "a": [
+    "vena"
+   ]
+  },
+  {
+   "s": "Cardiac output equals heart rate times ___ volume.",
+   "a": [
+    "stroke"
+   ]
+  },
+  {
+   "s": "Gases move from high to low concentration by ___.",
+   "a": [
+    "diffusion"
+   ]
+  },
+  {
+   "s": "Oxygen is carried in red blood cells by ___.",
+   "a": [
+    "haemoglobin",
+    "hemoglobin"
+   ]
+  },
+  {
+   "s": "Gas exchange takes place in the ___.",
+   "a": [
+    "alveoli",
+    "alveolus"
+   ]
+  },
+  {
+   "s": "Blood vessels that carry blood away from the heart are ___.",
+   "a": [
+    "arteries",
+    "artery"
+   ]
+  },
+  {
+   "s": "Narrowing of blood vessels is called ___.",
+   "a": [
+    "vasoconstriction"
+   ]
+  },
+  {
+   "s": "During inspiration the diaphragm ___ and flattens.",
+   "a": [
+    "contracts"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the cardiac output of an athlete with a heart rate of 52 bpm and a stroke volume of 110 ml.",
+   "model": "Q = 52 × 110 = 5720 ml/min, which is 5.72 litres/min.",
+   "points": [
+    "52 × 110",
+    "5720 ml/min or 5.72 l/min"
+   ]
+  },
+  {
+   "q": "Explain the function of valves in the heart and in veins.",
+   "model": "Valves make sure blood flows in one direction only and stop it flowing backwards.",
+   "points": [
+    "one direction",
+    "prevent backflow"
+   ]
+  },
+  {
+   "q": "Describe how the structure of capillaries helps gas exchange at the muscles.",
+   "model": "Capillary walls are one cell thick, so the diffusion distance is very short. Oxygen diffuses into the muscle and carbon dioxide into the blood.",
+   "points": [
+    "one cell thick / short diffusion distance",
+    "O₂ in, CO₂ out"
+   ]
+  },
+  {
+   "q": "Describe what happens to heart rate, stroke volume and cardiac output when a person starts to run.",
+   "model": "All three increase to deliver more oxygenated blood to the working muscles.",
+   "points": [
+    "heart rate increases",
+    "stroke volume and cardiac output increase"
+   ]
+  },
+  {
+   "q": "Explain how vascular shunting helps a footballer during a match.",
+   "model": "Blood vessels to the leg muscles widen while those to the digestive system narrow, so more oxygen reaches the working muscles.",
+   "points": [
+    "vasodilation to muscles",
+    "vasoconstriction to other organs / more oxygen to muscles"
+   ]
+  }
+ ]
+}

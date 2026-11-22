@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which orchestra recorded the Star Wars Main Title?",
+   "options": [
+    "Berlin Philharmonic",
+    "London Symphony Orchestra",
+    "Vienna Philharmonic",
+    "Royal Philharmonic"
+   ],
+   "answer": 1,
+   "why": "John Williams recorded it with the London Symphony Orchestra."
+  },
+  {
+   "type": "mcq",
+   "q": "Which traditions are blended in Afro Celt Sound System's Release?",
+   "options": [
+    "Irish, West African and electronic dance",
+    "Indian, Chinese and rock",
+    "Samba, funk and classical",
+    "Reggae, blues and gamelan"
+   ],
+   "answer": 0,
+   "why": "The band fuses Irish folk, West African music and electronic dance."
+  },
+  {
+   "type": "mcq",
+   "q": "What is belting?",
+   "options": [
+    "Singing very softly in falsetto",
+    "A loud, strong chest-voice style",
+    "Singing without words",
+    "A type of vocal vibrato"
+   ],
+   "answer": 1,
+   "why": "Belting is powerful chest-voice singing used in musical theatre."
+  },
+  {
+   "type": "short",
+   "q": "Describe two ways Esperanza Spalding fuses samba and jazz in Samba Em Prelúdio.",
+   "model": "Samba/bossa nova syncopated rhythm with Portuguese lyrics is combined with jazz chords, improvisation or scat-style singing and a double bass played by the singer.",
+   "points": [
+    "Samba rhythm/Portuguese",
+    "Jazz harmony/improvisation/scat"
+   ]
+  }
+ ]
+}

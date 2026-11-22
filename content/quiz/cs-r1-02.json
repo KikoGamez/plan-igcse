@@ -1,0 +1,51 @@
+{
+ "id": "cs-r1-02",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which algorithm requires the list to be sorted before it can be used?",
+   "options": [
+    "Linear search",
+    "Bubble sort",
+    "Binary search",
+    "Merge sort"
+   ],
+   "answer": 2,
+   "why": "Binary search discards half the list each time, which only works if the list is in order."
+  },
+  {
+   "type": "mcq",
+   "q": "A bubble sort (ascending) is run on 4 2 7 1. What is the list after the first pass?",
+   "options": [
+    "2 4 1 7",
+    "2 4 7 1",
+    "1 2 4 7",
+    "2 1 4 7"
+   ],
+   "answer": 0,
+   "why": "4,2 swap → 2 4 7 1; 4,7 no swap; 7,1 swap → 2 4 1 7."
+  },
+  {
+   "type": "mcq",
+   "q": "A binary search looks for 23 in the sorted list 4 11 15 19 23 30 42. Which item is checked first?",
+   "options": [
+    "4",
+    "15",
+    "19",
+    "23"
+   ],
+   "answer": 2,
+   "why": "Indices 0 to 6 give mid = 3, which holds 19."
+  },
+  {
+   "type": "short",
+   "q": "Describe how a merge sort works.",
+   "model": "The list is split in half repeatedly until each sub-list holds one item. Pairs of sub-lists are then merged, comparing their first items and taking the smaller each time, until one sorted list remains.",
+   "points": [
+    "repeatedly divide list in half until single items",
+    "merge pairs by comparing first items and taking the smaller",
+    "until one sorted list"
+   ]
+  }
+ ]
+}

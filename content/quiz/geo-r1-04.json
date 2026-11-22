@@ -1,0 +1,6 @@
+{"id":"geo-r1-04","questions":[
+{"type":"mcq","q":"Which is a biotic feature of a coastal ecosystem?","options":["Water temperature","Salinity","Mangrove trees","Sunlight"],"answer":2,"why":"Biotic means living; mangroves are living organisms. The others are abiotic."},
+{"type":"mcq","q":"Which of the following is an example of soft engineering?","options":["Sea wall","Groynes","Rip-rap","Beach replenishment"],"answer":3,"why":"Beach replenishment works with natural processes; the others are hard structures."},
+{"type":"mcq","q":"A disadvantage of groynes is that they","options":["trap sediment so beaches further down the coast are starved and erode faster","are cheaper than all other defences","destroy the beach in front of them","are made of soft materials"],"answer":0,"why":"Groynes trap sediment, which starves beaches downdrift of material and increases erosion there."},
+{"type":"short","q":"Explain how agriculture can threaten a coastal ecosystem such as a coral reef.","model":"Fertiliser and soil runoff carried by rivers into the sea add nutrients causing algal blooms. These block sunlight and use up oxygen, damaging the coral. Pesticides can also poison marine life.","points":["fertiliser / sediment runoff enters the sea","algal bloom blocks light / removes oxygen, harming coral"]}
+]}

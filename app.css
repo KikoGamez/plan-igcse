@@ -3,7 +3,7 @@
 :root{
   --bg:#F5F6FA; --surface:#FFFFFF; --ink:#151A31; --muted:#5A6180; --line:#DCE0EC; --grid:#E6E9F3;
   --accent:#2A47C9; --accent-soft:#E7EBFC; --ok:#1F8A4C; --warn:#B4610A;
-  --c-math:#2F5BE0; --c-eng:#0E8585; --c-spa:#D0393E; --c-bio:#3C8C2C; --c-chem:#8A4BD6; --c-phys:#C98200; --c-mix:#7A8099; --c-stats:#0A94C2; --c-bus:#B5338A; --c-fr:#8B5A2B;
+  --c-math:#2F5BE0; --c-eng:#0E8585; --c-spa:#D0393E; --c-bio:#3C8C2C; --c-chem:#8A4BD6; --c-phys:#C98200; --c-mix:#7A8099; --c-stats:#0A94C2; --c-bus:#B5338A; --c-fr:#8B5A2B; --c-geo:#5E8C0A; --c-cs:#E4572E; --c-ger:#475569; --c-music:#5B5FE0; --c-art:#DB2777; --c-pe:#1E3A8A;
   --f-display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
   --f-body:Inter, -apple-system, "Segoe UI", system-ui, sans-serif;
   --f-mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
@@ -11,12 +11,12 @@
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#0E1120; --surface:#161A2E; --ink:#E7E9F4; --muted:#9BA1BE; --line:#2A3050; --grid:#1C2139;
   --accent:#8FA3FF; --accent-soft:#222A55; --ok:#5BCB8A; --warn:#F0A54A;
-  --c-math:#7C9BFF; --c-eng:#3FC2C2; --c-spa:#FF7378; --c-bio:#7BC96A; --c-chem:#B990FF; --c-phys:#F2B84B; --c-mix:#9AA0BB; --c-stats:#4CC4EE; --c-bus:#F07AC4; --c-fr:#D9A06A;
+  --c-math:#7C9BFF; --c-eng:#3FC2C2; --c-spa:#FF7378; --c-bio:#7BC96A; --c-chem:#B990FF; --c-phys:#F2B84B; --c-mix:#9AA0BB; --c-stats:#4CC4EE; --c-bus:#F07AC4; --c-fr:#D9A06A; --c-geo:#A3D65C; --c-cs:#FF8A65; --c-ger:#A3B3C8; --c-music:#A5B4FC; --c-art:#F472B6; --c-pe:#93C5FD;
   color-scheme:dark }}
 :root[data-theme="dark"]{
   --bg:#0E1120; --surface:#161A2E; --ink:#E7E9F4; --muted:#9BA1BE; --line:#2A3050; --grid:#1C2139;
   --accent:#8FA3FF; --accent-soft:#222A55; --ok:#5BCB8A; --warn:#F0A54A;
-  --c-math:#7C9BFF; --c-eng:#3FC2C2; --c-spa:#FF7378; --c-bio:#7BC96A; --c-chem:#B990FF; --c-phys:#F2B84B; --c-mix:#9AA0BB; --c-stats:#4CC4EE; --c-bus:#F07AC4; --c-fr:#D9A06A;
+  --c-math:#7C9BFF; --c-eng:#3FC2C2; --c-spa:#FF7378; --c-bio:#7BC96A; --c-chem:#B990FF; --c-phys:#F2B84B; --c-mix:#9AA0BB; --c-stats:#4CC4EE; --c-bus:#F07AC4; --c-fr:#D9A06A; --c-geo:#A3D65C; --c-cs:#FF8A65; --c-ger:#A3B3C8; --c-music:#A5B4FC; --c-art:#F472B6; --c-pe:#93C5FD;
   color-scheme:dark }
 *{box-sizing:border-box}
 

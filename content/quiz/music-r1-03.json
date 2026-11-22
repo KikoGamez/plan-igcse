@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-03",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which chords make a perfect cadence?",
+   "options": [
+    "IV then I",
+    "V then I",
+    "I then V",
+    "V then VI"
+   ],
+   "answer": 1,
+   "why": "A perfect cadence is V to I."
+  },
+  {
+   "type": "mcq",
+   "q": "What is a Tierce de Picardie?",
+   "options": [
+    "A minor piece ending on a major chord",
+    "A key change to the dominant",
+    "A held bass note",
+    "A cadence ending on V"
+   ],
+   "answer": 0,
+   "why": "It is a major tonic chord at the end of a minor-key section."
+  },
+  {
+   "type": "mcq",
+   "q": "A piece in C major moves to G major. This is a ___.",
+   "options": [
+    "pedal",
+    "modulation",
+    "sequence",
+    "suspension"
+   ],
+   "answer": 1,
+   "why": "A change of key is a modulation; G is the dominant key."
+  },
+  {
+   "type": "short",
+   "q": "Describe the effect of an imperfect cadence.",
+   "model": "It ends on chord V and sounds unfinished, like a comma or question.",
+   "points": [
+    "ends on V",
+    "unfinished"
+   ]
+  }
+ ]
+}

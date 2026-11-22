@@ -1,0 +1,167 @@
+{
+ "id": "art-r1-12",
+ "cards": [
+  {
+   "f": "Externally-set Assignment",
+   "b": "Component 2: Pearson sets a broad theme; 72 marks, 50% of the qualification."
+  },
+  {
+   "f": "Release date",
+   "b": "2 January each year."
+  },
+  {
+   "f": "Sustained focus period",
+   "b": "10 hours under exam conditions, unaided."
+  },
+  {
+   "f": "Sessions allowed",
+   "b": "Up to four sessions within three consecutive weeks."
+  },
+  {
+   "f": "What to submit",
+   "b": "Three A2 sheets of supporting studies plus one A2 sheet of final outcome(s)."
+  },
+  {
+   "f": "3D or oversize work",
+   "b": "Photograph it (about four angles, colour) and mount the photos on one side of an A2 sheet."
+  },
+  {
+   "f": "Preparatory studies rule",
+   "b": "They must stop when the 10 hours begin; you cannot add to or alter them."
+  },
+  {
+   "f": "AO4 wording",
+   "b": "Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language."
+  },
+  {
+   "f": "Marks per AO",
+   "b": "18 per AO, 72 marks per component."
+  },
+  {
+   "f": "Same endorsed title",
+   "b": "Component 2 must continue in the same title as Component 1."
+  },
+  {
+   "f": "Planning rule: focal point",
+   "b": "Do the hardest or most important area first, while fresh."
+  },
+  {
+   "f": "Planning rule: review time",
+   "b": "Keep about 30 minutes at the end to step back, check and adjust."
+  },
+  {
+   "f": "General to detail",
+   "b": "Block in large areas first; add fine detail last."
+  },
+  {
+   "f": "Endorsed titles",
+   "b": "Fine Art, Graphic Communication, Photography, Textile Design, Three-dimensional Design."
+  },
+  {
+   "f": "Personal style in AO4",
+   "b": "Moves from 'methodical' to 'imaginative' to 'independence and exciting' as marks rise."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The assignment is released on 2 ___.",
+   "a": [
+    "january"
+   ]
+  },
+  {
+   "s": "The sustained focus period lasts ___ hours.",
+   "a": [
+    "10",
+    "ten"
+   ]
+  },
+  {
+   "s": "It can be split into a maximum of ___ sessions.",
+   "a": [
+    "4",
+    "four"
+   ]
+  },
+  {
+   "s": "Final work larger than A2 must be ___.",
+   "a": [
+    "photographed",
+    "photographed."
+   ]
+  },
+  {
+   "s": "Each component is worth ___ marks.",
+   "a": [
+    "72",
+    "seventy-two",
+    "seventy two"
+   ]
+  },
+  {
+   "s": "Preparatory studies must ___ when the 10 hours begin.",
+   "a": [
+    "stop",
+    "end",
+    "conclude"
+   ]
+  },
+  {
+   "s": "You submit ___ sheets of supporting studies.",
+   "a": [
+    "3",
+    "three"
+   ]
+  },
+  {
+   "s": "You work ___ during the sustained focus period.",
+   "a": [
+    "unaided",
+    "alone",
+    "independently"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why your final idea should be planned before the 10 hours start.",
+   "model": "Time in the exam is for making; a clear design avoids wasting time and helps you realise your intentions.",
+   "points": [
+    "time is for making",
+    "helps realise intentions"
+   ]
+  },
+  {
+   "q": "State two rules about preparatory studies during the 10-hour period.",
+   "model": "You can only use your own studies and cannot add to or alter them.",
+   "points": [
+    "only access own studies",
+    "no adding/altering"
+   ]
+  },
+  {
+   "q": "Write a simple time plan for a 10-hour painting.",
+   "model": "1h composition, 2h underpainting, 3h main development, 2h refining, 1h finishing, 1h review.",
+   "points": [
+    "stages in logical order",
+    "time adds to 10 hours"
+   ]
+  },
+  {
+   "q": "What does AO4 mean by 'visual language'?",
+   "model": "How you use formal elements such as line, tone, colour and composition to communicate your ideas.",
+   "points": [
+    "formal elements",
+    "communicate ideas"
+   ]
+  },
+  {
+   "q": "How should 3D work be submitted?",
+   "model": "As photographs from about four angles in colour mounted on one side of an A2 sheet.",
+   "points": [
+    "photographs from different angles",
+    "mounted on A2"
+   ]
+  }
+ ]
+}

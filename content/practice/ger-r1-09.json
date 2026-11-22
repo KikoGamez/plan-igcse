@@ -1,0 +1,175 @@
+{
+ "id": "ger-r1-09",
+ "cards": [
+  {
+   "f": "halb acht",
+   "b": "7.30 (half an hour before eight)"
+  },
+  {
+   "f": "Viertel nach drei / Viertel vor drei",
+   "b": "3.15 / 2.45"
+  },
+  {
+   "f": "dreißig / dreizehn",
+   "b": "30 / 13"
+  },
+  {
+   "f": "sechzig / sechzehn",
+   "b": "60 / 16"
+  },
+  {
+   "f": "dreiundzwanzig",
+   "b": "23 (units first: three-and-twenty)"
+  },
+  {
+   "f": "neunzehn Uhr dreißig",
+   "b": "19.30 (7.30 pm) - official time"
+  },
+  {
+   "f": "am ersten Mai",
+   "b": "on 1 May (ordinal in -ten after 'am')"
+  },
+  {
+   "f": "nicht ... sondern ...",
+   "b": "not ... but ... (the answer is after sondern)"
+  },
+  {
+   "f": "leider",
+   "b": "unfortunately (bad news follows)"
+  },
+  {
+   "f": "früher / damals / jetzt",
+   "b": "earlier, in the past / back then / now"
+  },
+  {
+   "f": "kein / nie / niemand",
+   "b": "no (none) / never / nobody"
+  },
+  {
+   "f": "Wie lange? / Wie viel?",
+   "b": "How long? / How much?"
+  },
+  {
+   "f": "eigentlich / normalerweise",
+   "b": "actually / usually: often followed by a contrast"
+  },
+  {
+   "f": "die Verspätung",
+   "b": "delay"
+  },
+  {
+   "f": "das Gleis / der Bahnsteig",
+   "b": "platform"
+  },
+  {
+   "f": "die Ermäßigung",
+   "b": "reduction, discount"
+  },
+  {
+   "f": "zehn Prozent Rabatt",
+   "b": "10% discount"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "14 = ___",
+   "a": [
+    "vierzehn"
+   ]
+  },
+  {
+   "s": "40 = ___",
+   "a": [
+    "vierzig"
+   ]
+  },
+  {
+   "s": "Es ist halb zehn. Die Uhr zeigt ___ Uhr dreißig (number).",
+   "a": [
+    "9",
+    "neun",
+    "9.30"
+   ]
+  },
+  {
+   "s": "Bei 'nicht ... ___ ...' kommt die richtige Antwort nach dem zweiten Teil.",
+   "a": [
+    "sondern"
+   ]
+  },
+  {
+   "s": "Der Zug hat zehn Minuten ___. (delay)",
+   "a": [
+    "Verspätung"
+   ]
+  },
+  {
+   "s": "Man schreibt: am ___ Mai (1st).",
+   "a": [
+    "ersten"
+   ]
+  },
+  {
+   "s": "Ich habe heute keine Zeit, ___ bin ich zu Hause geblieben. (that is why)",
+   "a": [
+    "deshalb",
+    "deswegen",
+    "darum"
+   ]
+  },
+  {
+   "s": "Die Hälfte von zwanzig ist ___ (number in German).",
+   "a": [
+    "zehn"
+   ]
+  },
+  {
+   "s": "Das Konzert beginnt um ___ Uhr dreißig (19.30, number in words).",
+   "a": [
+    "neunzehn"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "What should you do in the 5 minutes' reading time?",
+   "model": "Read all questions, note the marks, underline question words and predict vocabulary.",
+   "points": [
+    "read all questions / note marks",
+    "predict likely words or underline question words"
+   ]
+  },
+  {
+   "q": "Why must you not stop at the first answer you hear?",
+   "model": "Speakers often mention distractors and then correct themselves, e.g. with aber or sondern, so the real answer comes later.",
+   "points": [
+    "distractors",
+    "real answer after aber / sondern"
+   ]
+  },
+  {
+   "q": "Transcript: 'Ich fahre am Samstag um Viertel vor acht nach Berlin.' Answer in English: when does he go?",
+   "model": "On Saturday at 7.45.",
+   "points": [
+    "Saturday",
+    "7.45"
+   ]
+  },
+  {
+   "q": "Transcript: 'Meine Schwester ist Ärztin, aber sie arbeitet nur halbtags, weil sie zwei kleine Kinder hat.' Answer in English: job and why?",
+   "model": "Doctor; she works part time because she has two small children.",
+   "points": [
+    "doctor",
+    "part-time because of two small children"
+   ]
+  },
+  {
+   "q": "How is 99 said in German?",
+   "model": "neunundneunzig (units first, then 'und', then tens).",
+   "points": [
+    "neunundneunzig",
+    "units before tens"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which word means 'timetable'?",
+   "options": [
+    "der Stundenplan",
+    "die Stunde",
+    "der Plan",
+    "das Zeugnis"
+   ],
+   "answer": 0,
+   "why": "der Stundenplan is the school timetable; das Zeugnis is the report."
+  },
+  {
+   "type": "mcq",
+   "q": "What does 'bekommen' mean?",
+   "options": [
+    "to become",
+    "to get",
+    "to bring",
+    "to book"
+   ],
+   "answer": 1,
+   "why": "bekommen = to get/receive; 'to become' is werden (a false friend)."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Ich möchte eine Lehrerin werden.",
+    "Ich möchte werden Lehrerin.",
+    "Ich möchte Lehrerin werden.",
+    "Ich möchte Lehrerin zu werden."
+   ],
+   "answer": 2,
+   "why": "No article with jobs, and werden goes at the end as an infinitive."
+  },
+  {
+   "type": "short",
+   "q": "Say in German what you did on your last holiday and give one opinion with a reason (2 sentences).",
+   "model": "Letzten Sommer bin ich mit meiner Familie nach Italien gefahren. Das Wetter war toll, weil die Sonne jeden Tag geschienen hat.",
+   "points": [
+    "perfect tense with correct auxiliary (bin ... gefahren)",
+    "opinion with a reason, correct verb position after weil"
+   ]
+  }
+ ]
+}

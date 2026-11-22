@@ -1,0 +1,170 @@
+{
+ "id": "pe-r1-05",
+ "cards": [
+  {
+   "f": "ATP",
+   "b": "Adenosine triphosphate: the molecule that provides the energy for muscle contraction."
+  },
+  {
+   "f": "ATP-PC system",
+   "b": "Anaerobic; fuel is phosphocreatine; lasts about 10 seconds; no lactic acid. Shot put, 100 m."
+  },
+  {
+   "f": "Lactic acid system",
+   "b": "Anaerobic; fuel is glucose; about 10 seconds to 3 minutes; produces lactic acid. 400 m."
+  },
+  {
+   "f": "Aerobic system",
+   "b": "Uses oxygen; fuel is glucose and fats; lasts over 3 minutes; makes CO₂ and water. Marathon."
+  },
+  {
+   "f": "Aerobic vs anaerobic",
+   "b": "Aerobic: with oxygen. Anaerobic: without oxygen."
+  },
+  {
+   "f": "Energy continuum",
+   "b": "All three systems work together; the dominant one depends on intensity and duration."
+  },
+  {
+   "f": "EPOC",
+   "b": "Excess post-exercise oxygen consumption: extra oxygen used in recovery to return the body to rest."
+  },
+  {
+   "f": "Uses of oxygen in recovery",
+   "b": "Replace oxygen stores, restore ATP and PC, remove lactic acid."
+  },
+  {
+   "f": "DOMS",
+   "b": "Delayed onset muscle soreness 24–72 hours after exercise, from micro-tears in muscle fibres."
+  },
+  {
+   "f": "Short-term effects on the cardiovascular system",
+   "b": "Heart rate, stroke volume and cardiac output rise; vascular shunting; blood pressure rises."
+  },
+  {
+   "f": "Short-term effects on the respiratory system",
+   "b": "Breathing rate and tidal volume increase, so minute ventilation rises."
+  },
+  {
+   "f": "Short-term effects on muscles",
+   "b": "Muscle temperature rises, lactic acid builds up, fatigue."
+  },
+  {
+   "f": "Long-term effects on the heart",
+   "b": "Cardiac hypertrophy, higher stroke volume, lower resting heart rate, higher maximum cardiac output."
+  },
+  {
+   "f": "Long-term effects on muscles",
+   "b": "Hypertrophy, more capillaries, myoglobin and mitochondria, better muscle tone."
+  },
+  {
+   "f": "Long-term effects on bones",
+   "b": "Increased bone density and strength; stronger ligaments and tendons."
+  },
+  {
+   "f": "Bradycardia",
+   "b": "Resting heart rate below 60 bpm, common in trained endurance athletes."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The energy system without oxygen that uses phosphocreatine is the ATP-___ system.",
+   "a": [
+    "PC",
+    "pc"
+   ]
+  },
+  {
+   "s": "The by-product of the lactic acid system is ___ acid.",
+   "a": [
+    "lactic"
+   ]
+  },
+  {
+   "s": "Aerobic means with ___.",
+   "a": [
+    "oxygen"
+   ]
+  },
+  {
+   "s": "Extra oxygen taken in after exercise is called ___.",
+   "a": [
+    "EPOC",
+    "oxygen debt"
+   ]
+  },
+  {
+   "s": "Muscle pain 24–72 hours after exercise is called ___.",
+   "a": [
+    "DOMS",
+    "delayed onset muscle soreness"
+   ]
+  },
+  {
+   "s": "Regular training lowers the resting ___ rate.",
+   "a": [
+    "heart"
+   ]
+  },
+  {
+   "s": "An increase in the size of a muscle is ___.",
+   "a": [
+    "hypertrophy"
+   ]
+  },
+  {
+   "s": "Regular training increases bone ___.",
+   "a": [
+    "density"
+   ]
+  },
+  {
+   "s": "A resting heart rate below 60 bpm is called ___.",
+   "a": [
+    "bradycardia"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Name the dominant energy system in a marathon and give two reasons.",
+   "model": "The aerobic system, because the effort is long and at low to moderate intensity, so oxygen supply meets demand.",
+   "points": [
+    "aerobic system",
+    "long duration / low intensity / oxygen available"
+   ]
+  },
+  {
+   "q": "Explain why the lactic acid system is the main system in a 400 m race.",
+   "model": "The race lasts about 45–60 seconds at high intensity, beyond the ATP-PC system, so glucose is broken down without oxygen with lactic acid produced.",
+   "points": [
+    "high intensity about 1 minute",
+    "glucose used anaerobically / lactic acid made"
+   ]
+  },
+  {
+   "q": "Describe two short-term effects of exercise on the cardiovascular system.",
+   "model": "Heart rate increases and stroke volume increases, so cardiac output rises to deliver more oxygen to muscles.",
+   "points": [
+    "heart rate rises",
+    "stroke volume / cardiac output rises"
+   ]
+  },
+  {
+   "q": "Describe two long-term effects of regular endurance training on the cardiovascular system.",
+   "model": "The heart gets bigger and stronger, increasing stroke volume, so resting heart rate falls. More capillaries also form around muscles.",
+   "points": [
+    "stroke volume / heart size increases",
+    "resting heart rate falls or capillarisation"
+   ]
+  },
+  {
+   "q": "Explain why an active cool-down helps recovery.",
+   "model": "It keeps blood flowing so oxygen is delivered and lactic acid is removed faster, helping the body return to its resting state.",
+   "points": [
+    "keeps blood flowing / oxygen delivered",
+    "removes lactic acid faster"
+   ]
+  }
+ ]
+}

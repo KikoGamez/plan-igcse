@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which principle of training means fitness is lost when training stops?",
+   "options": [
+    "Specificity",
+    "Progressive overload",
+    "Tedium",
+    "Reversibility"
+   ],
+   "answer": 3,
+   "why": "Reversibility is ‘use it or lose it’: gains disappear if training stops or reduces."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the maximum heart rate of a 16-year-old using the standard formula?",
+   "options": [
+    "204 bpm",
+    "196 bpm",
+    "184 bpm",
+    "216 bpm"
+   ],
+   "answer": 0,
+   "why": "220 − 16 = 204 bpm."
+  },
+  {
+   "type": "mcq",
+   "q": "Which method uses exercises such as box jumps and depth jumps to improve power?",
+   "options": [
+    "Fartlek",
+    "Circuit training",
+    "Plyometrics",
+    "Continuous training"
+   ],
+   "answer": 2,
+   "why": "Plyometrics uses explosive bounding and jumping to develop power."
+  },
+  {
+   "type": "short",
+   "q": "Explain why a footballer might use fartlek training in the pre-season.",
+   "model": "Fartlek mixes walking, jogging and sprinting at changing speeds. This matches the varied pace of football and builds both aerobic and anaerobic fitness for the season.",
+   "points": [
+    "changes of pace / speed play matches football",
+    "improves aerobic and anaerobic fitness"
+   ]
+  }
+ ]
+}

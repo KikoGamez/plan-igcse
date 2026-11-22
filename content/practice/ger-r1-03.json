@@ -1,0 +1,163 @@
+{
+ "id": "ger-r1-03",
+ "cards": [
+  {
+   "f": "Perfect tense formula",
+   "b": "haben or sein (2nd position) + past participle (at the end): Ich habe Fußball gespielt."
+  },
+  {
+   "f": "Weak past participle",
+   "b": "ge- + stem + -t: machen → gemacht, spielen → gespielt."
+  },
+  {
+   "f": "Strong past participle",
+   "b": "ge- + changed stem + -en: sehen → gesehen, schreiben → geschrieben."
+  },
+  {
+   "f": "Participle of aufstehen",
+   "b": "aufgestanden (ge goes between prefix and stem; takes sein)."
+  },
+  {
+   "f": "Participle of besuchen / telefonieren",
+   "b": "besucht / telefoniert (no ge- with inseparable prefixes or -ieren verbs)."
+  },
+  {
+   "f": "When to use sein",
+   "b": "Movement from A to B and change of state, plus sein, werden, bleiben, passieren."
+  },
+  {
+   "f": "Perfect of fahren, fliegen, kommen",
+   "b": "ist gefahren, ist geflogen, ist gekommen."
+  },
+  {
+   "f": "Perfect of bleiben, sein, werden",
+   "b": "ist geblieben, ist gewesen, ist geworden."
+  },
+  {
+   "f": "Participle of essen, trinken, nehmen",
+   "b": "gegessen, getrunken, genommen."
+  },
+  {
+   "f": "Participle of bringen, denken, wissen",
+   "b": "gebracht, gedacht, gewusst (mixed verbs)."
+  },
+  {
+   "f": "Imperfect of sein (ich, du, wir)",
+   "b": "war, warst, waren."
+  },
+  {
+   "f": "Imperfect of haben (ich, du, wir)",
+   "b": "hatte, hattest, hatten."
+  },
+  {
+   "f": "Imperfect of modals (ich)",
+   "b": "konnte, musste, durfte, wollte, sollte, mochte (no umlaut)."
+  },
+  {
+   "f": "Imperfect: gehen, kommen, sehen, essen",
+   "b": "ging, kam, sah, aß (ich and er forms have no ending)."
+  },
+  {
+   "f": "es gab",
+   "b": "There was / there were: Es gab viele Touristen."
+  },
+  {
+   "f": "Perfect in a subordinate clause",
+   "b": "The auxiliary goes last: ..., weil ich nach Hause gegangen bin."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Gestern ___ ich ins Kino gegangen.",
+   "a": [
+    "bin"
+   ]
+  },
+  {
+   "s": "Wir ___ viel Spaß gehabt.",
+   "a": [
+    "haben"
+   ]
+  },
+  {
+   "s": "Er hat einen Film ___. (sehen)",
+   "a": [
+    "gesehen"
+   ]
+  },
+  {
+   "s": "Sie ist um sieben Uhr ___. (aufstehen)",
+   "a": [
+    "aufgestanden"
+   ]
+  },
+  {
+   "s": "Ich ___ gestern krank. (sein, Imperfekt)",
+   "a": [
+    "war"
+   ]
+  },
+  {
+   "s": "Letzten Sommer ___ wir nach Spanien geflogen.",
+   "a": [
+    "sind"
+   ]
+  },
+  {
+   "s": "Ich habe meine Oma ___. (besuchen)",
+   "a": [
+    "besucht"
+   ]
+  },
+  {
+   "s": "Sie ___ um acht Uhr an. (ankommen, Imperfekt)",
+   "a": [
+    "kam"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write three sentences in the perfect about last weekend, using haben and sein.",
+   "model": "Am Samstag bin ich in die Stadt gefahren. Ich habe ein T-Shirt gekauft. Am Sonntag habe ich Tennis gespielt.",
+   "points": [
+    "sein with movement verb",
+    "haben with others",
+    "participle at the end"
+   ]
+  },
+  {
+   "q": "Explain when to use sein instead of haben in the perfect.",
+   "model": "Use sein with verbs of movement from A to B (gehen, fahren) and change of state (aufwachen, werden), and with sein, bleiben and passieren; most others take haben.",
+   "points": [
+    "Movement verbs",
+    "Change of state / sein, bleiben",
+    "Everything else haben"
+   ]
+  },
+  {
+   "q": "Translate: 'Because I was ill, I had to stay at home.'",
+   "model": "Weil ich krank war, musste ich zu Hause bleiben.",
+   "points": [
+    "Verb to the end in weil-clause (war)",
+    "musste ich (verb first in main clause)"
+   ]
+  },
+  {
+   "q": "Give the imperfect of: gehen, kommen, sehen, nehmen, sein, haben.",
+   "model": "ging, kam, sah, nahm, war, hatte",
+   "points": [
+    "Four strong verbs correct",
+    "war and hatte"
+   ]
+  },
+  {
+   "q": "Correct: 'Ich habe gestern ins Kino gegangen und habe einen Film gesehen.'",
+   "model": "Ich bin gestern ins Kino gegangen und habe einen Film gesehen.",
+   "points": [
+    "bin instead of habe",
+    "gegangen correct"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "id": "ger-r1-01",
+ "cards": [
+  {
+   "f": "Paper 1 Listening",
+   "b": "40 marks, 30 minutes plus 5 minutes reading time, 7 extracts each played twice, 25%."
+  },
+  {
+   "f": "Paper 2 Reading and Writing",
+   "b": "1 h 45 min, 80 marks (40 reading + 40 writing and grammar), 50% of the qualification."
+  },
+  {
+   "f": "Paper 3 Speaking",
+   "b": "8–10 minutes, 40 marks, 25%. Recorded, all in German. Tasks A, B and C."
+  },
+  {
+   "f": "Q6 (writing)",
+   "b": "Short task, 60–75 words, with words in boxes that you must use."
+  },
+  {
+   "f": "Q7 (writing)",
+   "b": "Choice of three extended tasks, 130–150 words, four bullet points to cover."
+  },
+  {
+   "f": "Q8 (grammar)",
+   "b": "Complete a text with the correct form of verbs and adjectives given in brackets. Use the context."
+  },
+  {
+   "f": "Speaking Task A",
+   "b": "Picture of your own choice, 2–3 min, five questions from the examiner. No presentation."
+  },
+  {
+   "f": "Speaking Tasks B and C",
+   "b": "Two spontaneous conversations on two different themes chosen by Pearson, 3–3½ min each."
+  },
+  {
+   "f": "Sub-topics not used in Speaking",
+   "b": "A3 Services, C3 Role models, C5 Childhood, D2 Weather and climate, E4 Accidents, injuries, common ailments and health issues."
+  },
+  {
+   "f": "Theme A",
+   "b": "Home and abroad: town and rural life, holidays, services, customs, everyday life and traditions."
+  },
+  {
+   "f": "Theme B",
+   "b": "Education and employment: school life, rules, trips and exchanges, work/careers/volunteering, future plans."
+  },
+  {
+   "f": "Theme C",
+   "b": "Personal life and relationships: house and home, daily routine, role models, family and friends, childhood."
+  },
+  {
+   "f": "Theme D",
+   "b": "The world around us: environment, weather, travel and transport, the media, ICT."
+  },
+  {
+   "f": "Theme E",
+   "b": "Social activities, fitness and health: special occasions, hobbies and sport, shopping and money, accidents and health, food and drink."
+  },
+  {
+   "f": "How to mark Q7 well",
+   "b": "Cover all four bullets, use past, present and future, give opinions with reasons, and keep to 130–150 words."
+  },
+  {
+   "f": "Viertel vor drei",
+   "b": "2:45 (a quarter to three). Viertel nach drei is 3:15; halb drei is 2:30."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Der Hörtext wird ___ gespielt.",
+   "a": [
+    "zweimal",
+    "2 mal",
+    "zwei mal",
+    "2x"
+   ]
+  },
+  {
+   "s": "In Paper 1 hast du ___ Minuten Lesezeit.",
+   "a": [
+    "fünf",
+    "funf",
+    "fuenf",
+    "5"
+   ]
+  },
+  {
+   "s": "Die Hörverstehensprüfung hat ___ Hörtexte.",
+   "a": [
+    "sieben",
+    "7"
+   ]
+  },
+  {
+   "s": "Bei Q7 musst du alle ___ Stichpunkte beantworten.",
+   "a": [
+    "vier",
+    "4"
+   ]
+  },
+  {
+   "s": "Q6 verlangt 60 bis ___ Wörter.",
+   "a": [
+    "75",
+    "fünfundsiebzig",
+    "fuenfundsiebzig",
+    "funfundsiebzig"
+   ]
+  },
+  {
+   "s": "Das Bild für Task A darfst du selbst ___.",
+   "a": [
+    "wählen",
+    "waehlen",
+    "wahlen",
+    "auswählen",
+    "aussuchen",
+    "auswaehlen"
+   ]
+  },
+  {
+   "s": "Das Sprechen zählt ___ Prozent der Note.",
+   "a": [
+    "25",
+    "fünfundzwanzig",
+    "fuenfundzwanzig"
+   ]
+  },
+  {
+   "s": "Das Thema E heißt Soziale Aktivitäten, Fitness und ___.",
+   "a": [
+    "Gesundheit"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the structure of Paper 2 and how many marks each section is worth.",
+   "model": "Paper 2 lasts 1 h 45 min and has Section A, reading, five passages for 40 marks, and Section B, writing and grammar (Q6, Q7, Q8), for 40 marks.",
+   "points": [
+    "Section A reading, five passages, 40 marks",
+    "Section B writing and grammar (Q6, Q7, Q8), 40 marks",
+    "1 h 45 min, 50% of the qualification"
+   ]
+  },
+  {
+   "q": "Explain how Speaking Tasks B and C are different from Task A.",
+   "model": "Task A is about your own chosen picture with five questions; B and C are spontaneous conversations on two different themes chosen at random by Pearson, so you cannot rely on a prepared speech.",
+   "points": [
+    "Task A: own picture, five questions",
+    "B and C: spontaneous, different themes chosen at random",
+    "Marks for interaction and spontaneity"
+   ]
+  },
+  {
+   "q": "Give three ways to avoid losing marks in Q7.",
+   "model": "Address every bullet point, use a range of tenses with opinions and reasons, and stay within 130–150 words while checking verb position and endings.",
+   "points": [
+    "Cover all four bullets",
+    "Past, present and future plus opinions with reasons",
+    "Keep to word count and check accuracy"
+   ]
+  },
+  {
+   "q": "A listening speaker says 'Eigentlich wollte ich ins Kino gehen, aber jetzt gehe ich schwimmen.' What is the answer to 'what will he do?' and why?",
+   "model": "He will go swimming. The speaker changed his mind: the first thing mentioned (cinema) was the original plan, not the final one.",
+   "points": [
+    "Swimming",
+    "Cinema was the original plan, replaced after 'aber'"
+   ]
+  },
+  {
+   "q": "Why must you read the word in brackets in Q8 in context?",
+   "model": "The word does not always change; you must check the subject, tense, case and gender of the sentence to decide the correct form.",
+   "points": [
+    "Context decides the form",
+    "Sometimes the word stays the same"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "id": "art-r1-10",
+ "cards": [
+  {
+   "f": "Fauvism",
+   "b": "c.1905-10: wild, non-natural colour for emotion. Matisse, Derain."
+  },
+  {
+   "f": "Expressionism",
+   "b": "Distorted forms and strong colour to show feeling. Munch's The Scream (1893)."
+  },
+  {
+   "f": "Cubism",
+   "b": "c.1907-14: objects as geometric fragments seen from several viewpoints. Picasso and Braque."
+  },
+  {
+   "f": "Analytical vs Synthetic Cubism",
+   "b": "Analytical: muted browns/greys, fragmented. Synthetic (from 1912): simpler, brighter shapes and collage."
+  },
+  {
+   "f": "Futurism",
+   "b": "Italy, 1909: speed, machines and modern life. Boccioni, Balla."
+  },
+  {
+   "f": "Dada",
+   "b": "1916 onwards: reaction to the First World War; anti-art, chance, readymades. Duchamp, Höch."
+  },
+  {
+   "f": "Readymade",
+   "b": "An ordinary manufactured object chosen and presented as art, e.g. Duchamp's Fountain (1917)."
+  },
+  {
+   "f": "Surrealism",
+   "b": "1920s-40s: dreams and the unconscious. Dalí, Magritte, Miró."
+  },
+  {
+   "f": "Abstract Expressionism",
+   "b": "1940s-50s New York: large abstract canvases about emotion. Pollock (action painting), Rothko (colour fields)."
+  },
+  {
+   "f": "Pop Art",
+   "b": "1950s-60s: popular culture and advertising. Warhol (screen print), Lichtenstein (Ben-Day dots)."
+  },
+  {
+   "f": "Banksy",
+   "b": "Anonymous street artist known for political stencil work."
+  },
+  {
+   "f": "Yayoi Kusama",
+   "b": "Known for obsessive dots and mirrored infinity rooms."
+  },
+  {
+   "f": "Cindy Sherman",
+   "b": "Photographer of staged self-portraits: Untitled Film Stills (1977-80)."
+  },
+  {
+   "f": "Bauhaus",
+   "b": "German design school (1919-33): form follows function; simple geometric design."
+  },
+  {
+   "f": "Kara Walker",
+   "b": "Contemporary artist who makes cut-paper silhouettes about race and history."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The wild colour movement led by Matisse is called ___.",
+   "a": [
+    "fauvism",
+    "fauves"
+   ]
+  },
+  {
+   "s": "Picasso and Braque developed ___.",
+   "a": [
+    "cubism"
+   ]
+  },
+  {
+   "s": "Duchamp's Fountain is a ___ .",
+   "a": [
+    "readymade",
+    "ready-made",
+    "ready made"
+   ]
+  },
+  {
+   "s": "Warhol's Campbell's Soup Cans were made in ___.",
+   "a": [
+    "1962"
+   ]
+  },
+  {
+   "s": "Pollock's method of dripping paint is called ___ painting.",
+   "a": [
+    "action"
+   ]
+  },
+  {
+   "s": "Rothko is known for ___ field painting.",
+   "a": [
+    "colour",
+    "color"
+   ]
+  },
+  {
+   "s": "Dalí and Magritte belong to the ___ movement.",
+   "a": [
+    "surrealism",
+    "surrealist"
+   ]
+  },
+  {
+   "s": "Picasso's Guernica is in the Museo ___ in Madrid.",
+   "a": [
+    "reina sofía",
+    "reina sofia",
+    "reina"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Name two features of Pop Art.",
+   "model": "It uses images from popular culture and advertising, and mass-production techniques such as screen printing and repetition.",
+   "points": [
+    "popular culture/advertising/comics",
+    "mass production/repetition/screen print"
+   ]
+  },
+  {
+   "q": "Explain how Cubism changed how artists show objects.",
+   "model": "Objects were broken into geometric planes and shown from several viewpoints at once rather than from a single fixed viewpoint.",
+   "points": [
+    "geometric fragments/planes",
+    "multiple viewpoints"
+   ]
+  },
+  {
+   "q": "Name one contemporary artist or designer linked to your endorsed title and a work by them.",
+   "model": "E.g. Cindy Sherman, Untitled Film Stills (Photography); Antony Gormley, Angel of the North (3D).",
+   "points": [
+    "practitioner",
+    "specific work"
+   ]
+  },
+  {
+   "q": "Why did Dada artists use readymades?",
+   "model": "To challenge traditional ideas of art and skill, suggesting that the artist's idea and choice make something art.",
+   "points": [
+    "challenge ideas of art",
+    "idea over skill"
+   ]
+  },
+  {
+   "q": "Describe a study you could make inspired by Kusama.",
+   "model": "A pattern of repeated dots at different scales on a coloured ground, then annotated to compare repetition and mood.",
+   "points": [
+    "repeated dots/pattern",
+    "annotation/evaluation"
+   ]
+  }
+ ]
+}

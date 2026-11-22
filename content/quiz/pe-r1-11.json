@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A penalty kick, where the performer decides when to start, is best described as",
+   "options": [
+    "externally paced",
+    "self-paced",
+    "open",
+    "low organisation"
+   ],
+   "answer": 1,
+   "why": "The performer controls the timing, so it is self-paced."
+  },
+  {
+   "type": "mcq",
+   "q": "A coach physically moves a gymnast’s arm into the correct position. This is",
+   "options": [
+    "verbal guidance",
+    "visual guidance",
+    "manual guidance",
+    "mechanical guidance"
+   ],
+   "answer": 2,
+   "why": "Manual guidance involves physical contact to move the performer."
+  },
+  {
+   "type": "mcq",
+   "q": "Information about the outcome, such as ‘you ran 12.1 seconds’, is",
+   "options": [
+    "knowledge of results",
+    "knowledge of performance",
+    "intrinsic feedback",
+    "manual guidance"
+   ],
+   "answer": 0,
+   "why": "Knowledge of results tells the outcome; knowledge of performance describes how it was done."
+  },
+  {
+   "type": "short",
+   "q": "Write a SMART target for a student who wants to improve her free-throw accuracy in basketball.",
+   "model": "I will score 7 out of 10 free throws (from 5 out of 10) within six weeks by practising for 15 minutes three times a week and recording my scores.",
+   "points": [
+    "specific and measurable (numbers)",
+    "time-bound and achievable"
+   ]
+  }
+ ]
+}

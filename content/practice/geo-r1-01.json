@@ -1,0 +1,37 @@
+{"id":"geo-r1-01","cards":[
+{"f":"Drainage basin","b":"The area of land drained by a river and its tributaries."},
+{"f":"Watershed","b":"The ridge of high land that separates one drainage basin from the next."},
+{"f":"Confluence","b":"The point where a tributary joins a larger river."},
+{"f":"Transpiration vs evaporation","b":"Transpiration is water lost from plants through their leaves. Evaporation is liquid water turning to vapour from surfaces such as oceans and rivers."},
+{"f":"Infiltration, throughflow, percolation","b":"Infiltration: water soaking into soil. Throughflow: moving sideways through soil. Percolation: moving down into rock."},
+{"f":"Four erosion processes","b":"Hydraulic action, abrasion, attrition and solution."},
+{"f":"Hydraulic action","b":"The force of water pushes air into cracks in the bank and bed, breaking off pieces of rock."},
+{"f":"Abrasion vs attrition","b":"Abrasion: rocks carried by the river scrape the bed and banks. Attrition: rocks knock against each other and become smaller and rounder."},
+{"f":"Four transport processes","b":"Solution (dissolved), suspension (fine particles in water), saltation (bounced), traction (rolled along the bed)."},
+{"f":"Discharge formula","b":"Discharge = cross-sectional area × velocity. Measured in cubic metres per second (cumecs)."},
+{"f":"How do velocity and discharge change downstream?","b":"Both increase. Velocity rises because the channel is deeper and smoother (less friction); discharge rises as tributaries add water."},
+{"f":"How does sediment change downstream?","b":"It gets smaller and more rounded because of attrition."},
+{"f":"V-shaped valley","b":"Formed in the upper course by vertical erosion, with weathering and mass movement wearing back the valley sides."},
+{"f":"Interlocking spurs","b":"Ridges of hard land that overlap like zip teeth, because the river lacks the power to erode through them and winds around them."},
+{"f":"Waterfall formation","b":"Hard rock over soft rock. Soft rock eroded and undercut, plunge pool forms, overhang collapses, falls retreat upstream leaving a gorge."},
+{"f":"Meander: outside vs inside bend","b":"Outside: fast flow, erosion, river cliff. Inside: slow flow, deposition, slip-off slope."},
+{"f":"Oxbow lake formation","b":"Meander neck narrows by erosion, river breaks through in a flood, deposition seals off the old loop."},
+{"f":"How is a levee formed?","b":"The river floods, loses energy and drops its heaviest material next to the channel. Repeated floods build up raised banks."}
+],
+"gaps":[
+{"s":"The point where a river ends and meets the sea is called its ___.","a":["mouth"]},
+{"s":"Water soaking down into the soil is called ___.","a":["infiltration"]},
+{"s":"Small pebbles bounced along the river bed is the process of ___.","a":["saltation"]},
+{"s":"Rocks carried by the river scraping the banks is called ___.","a":["abrasion","corrasion"]},
+{"s":"Erosion on the outside of a meander forms a steep river ___.","a":["cliff"]},
+{"s":"When a river cuts through the neck of a meander, the old loop becomes an ___ lake.","a":["oxbow"]},
+{"s":"A river with a cross-sectional area of 10 m² and velocity of 2 m/s has a discharge of ___ cumecs.","a":["20"]},
+{"s":"A deep pool at the base of a waterfall is called a ___ pool.","a":["plunge"]}
+],
+"short":[
+{"q":"Describe how the long profile of a river differs between its upper and lower courses.","model":"The upper course is steep, while the lower course has a very gentle gradient. The long profile is concave, flattening towards the mouth.","points":["upper course steep","lower course gentle / flat gradient"]},
+{"q":"Explain why velocity increases downstream even though the gradient decreases.","model":"The channel becomes wider, deeper and smoother with smaller sediment, so there is less friction with the bed and banks. More water from tributaries also increases efficiency.","points":["less friction with bed and banks","channel deeper / smoother / more efficient"]},
+{"q":"Explain how a flood plain forms.","model":"When a river floods it slows and loses energy, so it deposits silt across the valley floor. Meanders also move sideways and deposit sediment, building a wide, flat flood plain.","points":["river floods and loses energy, deposits silt","meanders migrate sideways / repeated flooding builds flat land"]},
+{"q":"Give two factors that affect the rate of river erosion.","model":"Geology (soft rock erodes faster than hard rock) and discharge or slope (steeper slopes and higher discharge give more energy for erosion).","points":["geology / rock type","slope, discharge or climate"]},
+{"q":"Explain why the sediment in the lower course is smaller than in the upper course.","model":"Rocks are broken down by attrition as they are carried downstream, so they become smaller and more rounded. Larger rocks are also deposited earlier when energy drops.","points":["attrition wears rocks down","smaller and more rounded; bigger load dropped earlier"]}
+]}

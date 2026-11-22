@@ -1,0 +1,175 @@
+{
+ "id": "ger-r1-11",
+ "cards": [
+  {
+   "f": "Q6 in Paper 2",
+   "b": "Short writing task: 60–75 words, includes four prescribed words/phrases, 10 marks."
+  },
+  {
+   "f": "Q7 in Paper 2",
+   "b": "Extended writing: choice of 3 questions, 130–150 words, four bullet points, 20 marks."
+  },
+  {
+   "f": "Q8 in Paper 2",
+   "b": "Grammar task: change the words in brackets to fit the text, 10 marks."
+  },
+  {
+   "f": "Two marking strands for Q6 and Q7",
+   "b": "Communication and content; linguistic knowledge and accuracy."
+  },
+  {
+   "f": "weil-clause word order",
+   "b": "Verb goes to the end: ..., weil ich müde bin."
+  },
+  {
+   "f": "Perfect with sein",
+   "b": "Verbs of movement/change: ich bin gefahren, gegangen, geblieben, aufgestanden."
+  },
+  {
+   "f": "Conditional",
+   "b": "würde + infinitive: Ich würde gern reisen. Wenn ich Zeit hätte, würde ich ..."
+  },
+  {
+   "f": "um ... zu",
+   "b": "in order to: Ich spare, um ein Auto zu kaufen. (infinitive at the end)"
+  },
+  {
+   "f": "Opinion + reason",
+   "b": "Meiner Meinung nach ... , weil ... ; Ich finde ... gut, denn ..."
+  },
+  {
+   "f": "Time phrase first",
+   "b": "Verb stays second: Letztes Jahr bin ich nach Rom gefahren."
+  },
+  {
+   "f": "Adjective ending after der (nominative)",
+   "b": "-e: die kleine Stadt, der große Hund"
+  },
+  {
+   "f": "Adjective after einen (masc. acc.)",
+   "b": "-en: Ich habe einen neuen Computer."
+  },
+  {
+   "f": "Words you must not forget",
+   "b": "All four prescribed words (Q6) and all four bullet points (Q7)."
+  },
+  {
+   "f": "Capital letters",
+   "b": "All German nouns: die Stadt, das Haus, der Freund."
+  },
+  {
+   "f": "Useful connectives",
+   "b": "obwohl, trotzdem, außerdem, deshalb, allerdings, während, damit"
+  },
+  {
+   "f": "Anglicism to avoid: 'Ich bin 15'",
+   "b": "Say: Ich bin 15 Jahre alt."
+  },
+  {
+   "f": "What to do in the last 5 minutes",
+   "b": "Check verb position, endings, capitals, spelling, tense, and the word count."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Q7 hat ___ Aufzählungspunkte (number of bullet points, in digits or words).",
+   "a": [
+    "4",
+    "vier"
+   ]
+  },
+  {
+   "s": "Ich bin müde, weil ich schlecht geschlafen ___. (haben)",
+   "a": [
+    "habe"
+   ]
+  },
+  {
+   "s": "Letztes Jahr ___ ich nach Spanien gefahren. (sein)",
+   "a": [
+    "bin"
+   ]
+  },
+  {
+   "s": "Ich spare Geld, ___ ein Auto zu kaufen.",
+   "a": [
+    "um"
+   ]
+  },
+  {
+   "s": "Wenn ich reich wäre, ___ ich ein Haus kaufen. (würde)",
+   "a": [
+    "würde",
+    "wuerde",
+    "wurde"
+   ]
+  },
+  {
+   "s": "Die ___ Stadt ist sehr schön. (klein)",
+   "a": [
+    "kleine"
+   ]
+  },
+  {
+   "s": "Er hat ___ Freund besucht. (mein, masculine accusative)",
+   "a": [
+    "meinen"
+   ]
+  },
+  {
+   "s": "Ich finde Mathe gut, ___ der Lehrer nett ist. (because, with verb at the end)",
+   "a": [
+    "weil",
+    "da"
+   ]
+  },
+  {
+   "s": "Im Sommer ___ wir nach Italien fahren. (werden, wir)",
+   "a": [
+    "werden"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write a 2-sentence German answer: 'Was hast du letztes Wochenende gemacht?' using the perfect tense.",
+   "model": "Am Samstag bin ich mit Freunden ins Kino gegangen. Danach haben wir Pizza gegessen.",
+   "points": [
+    "perfect with correct auxiliary",
+    "participles at the end"
+   ]
+  },
+  {
+   "q": "List three things the examiner checks for in Q7 under 'Communication and content'.",
+   "model": "All four bullet points answered, opinions with reasons, relevant and developed details (and different time frames).",
+   "points": [
+    "bullets covered",
+    "opinions justified / developed ideas"
+   ]
+  },
+  {
+   "q": "Rewrite correctly: 'Ich habe nach Hamburg gefahren, weil ich will meine Tante besuchen.'",
+   "model": "Ich bin nach Hamburg gefahren, weil ich meine Tante besuchen will.",
+   "points": [
+    "sein as auxiliary",
+    "verb at the end after weil"
+   ]
+  },
+  {
+   "q": "Give two structures that show a higher level in writing.",
+   "model": "For example: a subordinate clause (weil/obwohl/dass), um ... zu, the conditional (würde), a relative clause, or the perfect with sein.",
+   "points": [
+    "one valid structure",
+    "second valid structure"
+   ]
+  },
+  {
+   "q": "Write the conditional: 'If I had time, I would travel more.'",
+   "model": "Wenn ich Zeit hätte, würde ich mehr reisen.",
+   "points": [
+    "wenn ... hätte",
+    "würde + infinitive at the end, verb order after wenn-clause"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "id": "cs-r1-02",
+ "cards": [
+  {
+   "f": "Linear search",
+   "b": "Checks each item in turn from the start until the target is found or the list ends. Works on unsorted lists."
+  },
+  {
+   "f": "Binary search",
+   "b": "On a sorted list, compare with the middle item and discard the half that cannot contain the target; repeat."
+  },
+  {
+   "f": "Binary search: middle index",
+   "b": "mid = (low + high) DIV 2, rounding down. For indices 0 to 7 the middle is 3."
+  },
+  {
+   "f": "Binary search: the target is bigger than the middle item",
+   "b": "Search the upper half: set low = mid + 1."
+  },
+  {
+   "f": "Binary search: when does it stop with 'not found'?",
+   "b": "When low becomes greater than high."
+  },
+  {
+   "f": "Bubble sort",
+   "b": "Compares neighbouring items and swaps them if out of order; repeats passes until a pass has no swaps."
+  },
+  {
+   "f": "After each bubble sort pass",
+   "b": "The largest unsorted item has moved to the end of the list."
+  },
+  {
+   "f": "Why does a swap need a temporary variable?",
+   "b": "Copying one value over another would lose the overwritten value, so it is held in a temp first."
+  },
+  {
+   "f": "Why use a swapped flag in bubble sort?",
+   "b": "To stop as soon as a whole pass makes no swaps, avoiding unnecessary passes."
+  },
+  {
+   "f": "Merge sort: divide phase",
+   "b": "Keep splitting the list in half until every sub-list has one item."
+  },
+  {
+   "f": "Merge sort: merge phase",
+   "b": "Compare the first items of two sorted lists, take the smaller, repeat; this builds a bigger sorted list."
+  },
+  {
+   "f": "Advantage of linear search",
+   "b": "Works on unsorted data and is very simple to write."
+  },
+  {
+   "f": "Advantage of binary search",
+   "b": "Much faster on long lists because the search area is halved each time."
+  },
+  {
+   "f": "Bubble sort vs merge sort",
+   "b": "Bubble sort: simple, no extra memory, slow on long lists. Merge sort: much faster on long lists but needs more memory."
+  },
+  {
+   "f": "Worst case for linear search",
+   "b": "The target is last or not in the list, so every item is checked."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Binary search only works if the list is ___.",
+   "a": [
+    "sorted",
+    "in order",
+    "ordered"
+   ]
+  },
+  {
+   "s": "Linear search checks each item in ___.",
+   "a": [
+    "turn",
+    "order",
+    "sequence"
+   ]
+  },
+  {
+   "s": "A bubble sort stops when a pass makes no ___.",
+   "a": [
+    "swaps",
+    "swap",
+    "changes"
+   ]
+  },
+  {
+   "s": "The middle index for indices 0 to 6 is ___.",
+   "a": [
+    "3"
+   ]
+  },
+  {
+   "s": "Merge sort first ___ the list into single items.",
+   "a": [
+    "divides",
+    "splits",
+    "halves",
+    "divide",
+    "split"
+   ]
+  },
+  {
+   "s": "In a swap, the value of one item is held in a ___ variable.",
+   "a": [
+    "temporary",
+    "temp"
+   ]
+  },
+  {
+   "s": "A full pass through a list in a sort is called a ___.",
+   "a": [
+    "pass"
+   ]
+  },
+  {
+   "s": "Merge sort is a divide and ___ algorithm.",
+   "a": [
+    "conquer"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why binary search cannot be used on the unsorted list 9 2 14 6.",
+   "model": "Binary search compares with the middle item and discards half the list. In an unsorted list the target could be in the discarded half, so it might be missed.",
+   "points": [
+    "works by discarding half based on the middle item",
+    "needs sorted data, otherwise target could be in the discarded half"
+   ]
+  },
+  {
+   "q": "Show the list 6 2 9 4 after each pass of a bubble sort (ascending).",
+   "model": "Pass 1: 2 6 4 9. Pass 2: 2 4 6 9. Pass 3: no swaps, so it is sorted: 2 4 6 9.",
+   "points": [
+    "pass 1: 2 6 4 9",
+    "pass 2: 2 4 6 9 and final pass with no swaps"
+   ]
+  },
+  {
+   "q": "A sorted list is 3 8 12 15 21 27 34 40. Trace a binary search for 12 and give the items checked.",
+   "model": "Items checked: 15 (mid index 3), then 8 (mid index 1), then 12 (mid index 2) where it is found.",
+   "points": [
+    "first middle 15",
+    "then 8 and 12 found"
+   ]
+  },
+  {
+   "q": "Give one advantage and one disadvantage of merge sort compared with bubble sort.",
+   "model": "Advantage: much faster on long lists. Disadvantage: needs extra memory and is more complex to code.",
+   "points": [
+    "faster on long lists",
+    "needs more memory / more complex"
+   ]
+  },
+  {
+   "q": "A list of 50,000 sorted customer numbers is searched many times a day. Which search should be used and why?",
+   "model": "Binary search, because the list is already sorted and halving the search area each time is far quicker than checking numbers one by one.",
+   "points": [
+    "binary search",
+    "sorted data/halves each time so much faster"
+   ]
+  }
+ ]
+}

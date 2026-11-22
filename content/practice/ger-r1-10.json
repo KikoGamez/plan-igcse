@@ -1,0 +1,176 @@
+{
+ "id": "ger-r1-10",
+ "cards": [
+  {
+   "f": "Wer? / Wo? / Wann?",
+   "b": "Who? / Where? / When?"
+  },
+  {
+   "f": "Warum? / Wie viele? / Wie lange?",
+   "b": "Why? / How many? / How long?"
+  },
+  {
+   "f": "Welche(r/s)?",
+   "b": "Which?"
+  },
+  {
+   "f": "Womit?",
+   "b": "With what?"
+  },
+  {
+   "f": "Vollständige Sätze sind nicht nötig.",
+   "b": "Full sentences are not necessary (short answers are fine)."
+  },
+  {
+   "f": "obwohl",
+   "b": "although (verb to the end)"
+  },
+  {
+   "f": "sondern",
+   "b": "but (rather), after a negative: nicht ... sondern ..."
+  },
+  {
+   "f": "eventuell",
+   "b": "possibly (false friend: not 'eventually')"
+  },
+  {
+   "f": "bekommen",
+   "b": "to get, receive (not 'become')"
+  },
+  {
+   "f": "aktuell",
+   "b": "current, up to date (not 'actual')"
+  },
+  {
+   "f": "die Umweltverschmutzung",
+   "b": "environmental pollution (Umwelt + Verschmutzung)"
+  },
+  {
+   "f": "-los",
+   "b": "without, e.g. arbeitslos (unemployed)"
+  },
+  {
+   "f": "un-",
+   "b": "not, e.g. unfreundlich (unfriendly)"
+  },
+  {
+   "f": "-ung / -heit / -keit",
+   "b": "endings that make feminine nouns"
+  },
+  {
+   "f": "Perfect tense clue",
+   "b": "haben or sein + past participle at the end of the clause"
+  },
+  {
+   "f": "Separable verb in a text",
+   "b": "prefix at the end: Der Zug kommt um acht an (ankommen)"
+  },
+  {
+   "f": "Reading time split in Paper 2 (Section A)",
+   "b": "About 52 minutes for the five reading tasks"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Reading is worth ___ marks in Paper 2 (number).",
+   "a": [
+    "40",
+    "vierzig",
+    "forty"
+   ]
+  },
+  {
+   "s": "Section A has ___ tasks (number).",
+   "a": [
+    "5",
+    "five",
+    "fünf"
+   ]
+  },
+  {
+   "s": "___ fragt nach einer Person (question word).",
+   "a": [
+    "Wer"
+   ]
+  },
+  {
+   "s": "___ fragt nach einem Ort (question word).",
+   "a": [
+    "Wo"
+   ]
+  },
+  {
+   "s": "___ fragt nach einem Grund (question word).",
+   "a": [
+    "Warum"
+   ]
+  },
+  {
+   "s": "Ich spiele Tennis, ___ ich es mag. (because)",
+   "a": [
+    "weil"
+   ]
+  },
+  {
+   "s": "Er ist nicht krank, ___ müde. (but rather)",
+   "a": [
+    "sondern"
+   ]
+  },
+  {
+   "s": "Wir ___ nach Berlin gefahren. (haben or sein?)",
+   "a": [
+    "sind"
+   ]
+  },
+  {
+   "s": "Der Text in Q4 ist ein ___ Text (literary, German adjective starting with l).",
+   "a": [
+    "literarischer",
+    "literarisch"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "How should you answer a question that starts with 'Wann'?",
+   "model": "Give a time or date only, a short phrase copied or adapted from the text, e.g. 'im Mai'.",
+   "points": [
+    "time expression only",
+    "short phrase, no extra wrong information"
+   ]
+  },
+  {
+   "q": "The text says 'Sie fährt mit dem Rad, obwohl der Bus vor ihrer Tür hält.' Why must you be careful with 'obwohl'?",
+   "model": "It shows a contrast: the bus is available but she does not use it, so the bus is a distractor.",
+   "points": [
+    "obwohl = although",
+    "bus is a distractor / she cycles"
+   ]
+  },
+  {
+   "q": "Split 'die Kinderbetreuung' to guess the meaning.",
+   "model": "Kinder (children) + Betreuung (care) = childcare, and it is feminine because Betreuung is.",
+   "points": [
+    "two parts",
+    "gender from last word"
+   ]
+  },
+  {
+   "q": "What is the difference between 'Wie viel' and 'Wie viele'?",
+   "model": "Wie viel is how much (uncountable, e.g. money); wie viele is how many (countable plural).",
+   "points": [
+    "how much",
+    "how many"
+   ]
+  },
+  {
+   "q": "List two things to check in a gap-fill task apart from the meaning.",
+   "model": "Gender and case of the article/adjective, and the verb ending (agreement with the subject).",
+   "points": [
+    "gender or case",
+    "verb form"
+   ]
+  }
+ ]
+}

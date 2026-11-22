@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-10",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which two artists led Cubism?",
+   "options": [
+    "Dalí and Magritte",
+    "Warhol and Lichtenstein",
+    "Matisse and Derain",
+    "Picasso and Braque"
+   ],
+   "answer": 3,
+   "why": "Picasso and Braque developed Cubism c.1907-1914."
+  },
+  {
+   "type": "mcq",
+   "q": "Duchamp's Fountain (1917) is an example of:",
+   "options": [
+    "A readymade",
+    "Pointillism",
+    "Impasto",
+    "A fresco"
+   ],
+   "answer": 0,
+   "why": "An ordinary manufactured object presented as art."
+  },
+  {
+   "type": "mcq",
+   "q": "Which artist enlarged comic-strip images using Ben-Day dots?",
+   "options": [
+    "Jackson Pollock",
+    "Roy Lichtenstein",
+    "Mark Rothko",
+    "Salvador Dalí"
+   ],
+   "answer": 1,
+   "why": "Lichtenstein's Pop Art, e.g. Whaam! (1963)."
+  },
+  {
+   "type": "short",
+   "q": "Explain one difference between Dada and Surrealism.",
+   "model": "Dada was anti-war and anti-art, using chance and readymades, whereas Surrealism explored dreams and the unconscious with dreamlike imagery.",
+   "points": [
+    "Dada: anti-war/anti-art/readymades/chance",
+    "Surrealism: dreams/unconscious"
+   ]
+  }
+ ]
+}

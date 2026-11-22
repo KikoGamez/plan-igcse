@@ -1,0 +1,170 @@
+{
+ "id": "pe-r1-02",
+ "cards": [
+  {
+   "f": "Agonist (prime mover)",
+   "b": "The muscle that contracts to produce movement at a joint."
+  },
+  {
+   "f": "Antagonist",
+   "b": "The muscle that relaxes and lengthens to allow the agonist to move the joint."
+  },
+  {
+   "f": "Fixator",
+   "b": "A muscle that stabilises a joint or body part so the agonist has a firm base."
+  },
+  {
+   "f": "Agonist and antagonist for elbow flexion",
+   "b": "Biceps is the agonist; triceps is the antagonist."
+  },
+  {
+   "f": "Agonist and antagonist for knee extension",
+   "b": "Quadriceps is the agonist; hamstrings is the antagonist."
+  },
+  {
+   "f": "Agonist for ankle plantar flexion",
+   "b": "Gastrocnemius (antagonist: tibialis anterior)."
+  },
+  {
+   "f": "Muscle that extends the hip",
+   "b": "Gluteus maximus (antagonist: hip flexors)."
+  },
+  {
+   "f": "Concentric contraction",
+   "b": "Muscle shortens while contracting, e.g. biceps lifting in a curl."
+  },
+  {
+   "f": "Eccentric contraction",
+   "b": "Muscle lengthens while contracting, e.g. biceps lowering the weight."
+  },
+  {
+   "f": "Isometric contraction",
+   "b": "Muscle contracts without changing length and there is no movement, e.g. holding a plank."
+  },
+  {
+   "f": "Slow oxidative fibres",
+   "b": "Slow, fatigue-resistant, aerobic, red. Suit marathon and endurance sports."
+  },
+  {
+   "f": "Fast glycolytic fibres",
+   "b": "Fastest, most forceful, anaerobic, tire quickly. Suit 100 m sprint, weightlifting."
+  },
+  {
+   "f": "Fast oxidative glycolytic fibres",
+   "b": "Fast and powerful, moderately resistant to fatigue. Suit 400 m, 800 m, team sports."
+  },
+  {
+   "f": "Muscle hypertrophy",
+   "b": "An increase in the size of muscle fibres from training."
+  },
+  {
+   "f": "Latissimus dorsi: where and action",
+   "b": "Large back muscle; pulls the arm down and back (adduction), e.g. pull-ups, butterfly."
+  },
+  {
+   "f": "Pectoralis major: where and sport use",
+   "b": "Chest; brings the arm across the body, e.g. bench press, throwing."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The muscle at the back of the upper arm is the ___.",
+   "a": [
+    "triceps"
+   ]
+  },
+  {
+   "s": "The muscle that contracts to cause movement is the ___.",
+   "a": [
+    "agonist",
+    "prime mover"
+   ]
+  },
+  {
+   "s": "A muscle that relaxes to allow a movement is the ___.",
+   "a": [
+    "antagonist"
+   ]
+  },
+  {
+   "s": "A contraction where the muscle shortens is called ___.",
+   "a": [
+    "concentric"
+   ]
+  },
+  {
+   "s": "A contraction with no change in muscle length is ___.",
+   "a": [
+    "isometric"
+   ]
+  },
+  {
+   "s": "The antagonist of the quadriceps at the knee is the ___.",
+   "a": [
+    "hamstrings",
+    "hamstring"
+   ]
+  },
+  {
+   "s": "The calf muscle is the ___.",
+   "a": [
+    "gastrocnemius"
+   ]
+  },
+  {
+   "s": "Slow oxidative fibres are resistant to ___.",
+   "a": [
+    "fatigue",
+    "tiring"
+   ]
+  },
+  {
+   "s": "An increase in muscle size is called ___.",
+   "a": [
+    "hypertrophy"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why muscles work in antagonistic pairs.",
+   "model": "Muscles can only pull, not push, so one muscle contracts to move the bone and its pair relaxes. The pair then reverses the movement.",
+   "points": [
+    "muscles only pull",
+    "one contracts while the other relaxes"
+   ]
+  },
+  {
+   "q": "Describe the muscle actions at the elbow during the upward and downward phases of a bicep curl.",
+   "model": "Upward: biceps contracts concentrically and triceps relaxes. Downward: the biceps lengthens under control (eccentric) as the weight lowers.",
+   "points": [
+    "upward biceps concentric/shortens",
+    "downward biceps eccentric/lengthens"
+   ]
+  },
+  {
+   "q": "Explain why a 100 m sprinter benefits from fast glycolytic fibres.",
+   "model": "They contract quickly and produce high force for powerful short bursts, using anaerobic energy, which suits a race of about 10 seconds.",
+   "points": [
+    "fast and forceful contraction",
+    "anaerobic / short duration"
+   ]
+  },
+  {
+   "q": "Name the muscle that pulls the toes up (dorsi flexion) and explain when a runner uses it.",
+   "model": "Tibialis anterior. It lifts the toes so the heel strikes first as the foot lands.",
+   "points": [
+    "tibialis anterior",
+    "linked to running/landing"
+   ]
+  },
+  {
+   "q": "Give an example of an isometric contraction in sport and explain why it is isometric.",
+   "model": "Holding a handstand in gymnastics: the muscles contract against the load but do not change length and there is no movement.",
+   "points": [
+    "valid example",
+    "no change in length / no movement"
+   ]
+  }
+ ]
+}

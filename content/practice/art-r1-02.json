@@ -1,0 +1,159 @@
+{
+ "id": "art-r1-02",
+ "cards": [
+  {
+   "f": "Line",
+   "b": "A mark made by a moving point; shows edges, direction and movement."
+  },
+  {
+   "f": "Tone",
+   "b": "How light or dark something is."
+  },
+  {
+   "f": "Shape",
+   "b": "A flat, two-dimensional enclosed area. Can be geometric or organic."
+  },
+  {
+   "f": "Form",
+   "b": "A three-dimensional object, real or implied in a drawing by tone and perspective."
+  },
+  {
+   "f": "Actual texture vs visual texture",
+   "b": "Actual can be felt (collage, thick paint). Visual is drawn or painted to look like a texture."
+  },
+  {
+   "f": "Hatching and cross-hatching",
+   "b": "Parallel lines (and layers of crossing lines) used to build tone; closer together = darker."
+  },
+  {
+   "f": "Chiaroscuro",
+   "b": "Strong contrast of light and dark, used by Rembrandt and Caravaggio for drama and solid form."
+  },
+  {
+   "f": "Frottage",
+   "b": "A rubbing taken with pencil or crayon over a textured surface."
+  },
+  {
+   "f": "Impasto",
+   "b": "Thick paint applied so brushstrokes or palette-knife marks stand out."
+  },
+  {
+   "f": "Negative space",
+   "b": "The space around and between the main objects. Drawing it helps accuracy."
+  },
+  {
+   "f": "Warm and cool colours",
+   "b": "Warm: reds, oranges, yellows (advance). Cool: blues, greens, purples (recede)."
+  },
+  {
+   "f": "Focal point",
+   "b": "The place the eye goes first, made by strongest contrast, colour or size."
+  },
+  {
+   "f": "Parts of a shaded form",
+   "b": "Highlight, mid-tone, core shadow, reflected light, and a cast shadow on the surface."
+  },
+  {
+   "f": "Rule of thirds",
+   "b": "Place key features on the thirds lines of the picture rather than dead centre."
+  },
+  {
+   "f": "Saturation",
+   "b": "How pure or strong a colour is."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Strong contrast of light and dark is called ___.",
+   "a": [
+    "chiaroscuro"
+   ]
+  },
+  {
+   "s": "A flat, enclosed area is a ___.",
+   "a": [
+    "shape"
+   ]
+  },
+  {
+   "s": "A three-dimensional object, or the illusion of one, is a ___.",
+   "a": [
+    "form"
+   ]
+  },
+  {
+   "s": "A rubbing over a textured surface is called ___.",
+   "a": [
+    "frottage"
+   ]
+  },
+  {
+   "s": "Thick, raised paint is called ___.",
+   "a": [
+    "impasto"
+   ]
+  },
+  {
+   "s": "The space around objects is ___ space.",
+   "a": [
+    "negative"
+   ]
+  },
+  {
+   "s": "Lines that cross to build dark tone are ___.",
+   "a": [
+    "cross-hatching",
+    "cross hatching",
+    "crosshatching"
+   ]
+  },
+  {
+   "s": "Reds, oranges and yellows are ___ colours.",
+   "a": [
+    "warm"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the difference between shape and form.",
+   "model": "Shape is flat and two-dimensional; form is three-dimensional or looks it through tone and perspective.",
+   "points": [
+    "shape is 2D",
+    "form is 3D / implied volume"
+   ]
+  },
+  {
+   "q": "Describe two techniques for creating tone with a pen.",
+   "model": "Hatching with closely spaced parallel lines, cross-hatching with crossing layers, or stippling dots; denser marks make darker tone.",
+   "points": [
+    "hatching/cross-hatching",
+    "stippling / denser = darker"
+   ]
+  },
+  {
+   "q": "How can an artist use line to show emotion? Give two ways.",
+   "model": "Use heavy, bold, fast lines for energy or anger, and light, broken, wobbly lines for fragility or nervousness.",
+   "points": [
+    "varied thickness/pressure",
+    "broken vs continuous / speed"
+   ]
+  },
+  {
+   "q": "What is a focal point and how do you make one?",
+   "model": "The place the eye goes first. Make it with the strongest contrast of tone or colour, the largest shape or placement on a thirds line.",
+   "points": [
+    "place the eye goes first",
+    "contrast/colour/size/position"
+   ]
+  },
+  {
+   "q": "Name one artist and describe how they use a formal element.",
+   "model": "Egon Schiele used a confident, expressive contour line in figure drawings; or Matisse used flat bold colour shapes.",
+   "points": [
+    "real artist named",
+    "accurate element described"
+   ]
+  }
+ ]
+}

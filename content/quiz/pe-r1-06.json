@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-06",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which test measures flexibility?",
+   "options": [
+    "Cooper 12-minute run",
+    "Sit and reach",
+    "Grip dynamometer",
+    "Ruler drop"
+   ],
+   "answer": 1,
+   "why": "The sit and reach test measures flexibility of the lower back and hamstrings."
+  },
+  {
+   "type": "mcq",
+   "q": "The ability to do strength movements quickly is",
+   "options": [
+    "muscular endurance",
+    "agility",
+    "power",
+    "coordination"
+   ],
+   "answer": 2,
+   "why": "Power = strength × speed."
+  },
+  {
+   "type": "mcq",
+   "q": "A fitness test gives the same result when repeated under the same conditions. It is",
+   "options": [
+    "valid",
+    "reliable",
+    "objective",
+    "sport-specific"
+   ],
+   "answer": 1,
+   "why": "Reliable means consistent, repeatable results."
+  },
+  {
+   "type": "short",
+   "q": "Give the difference between muscular strength and muscular endurance with a sporting example of each.",
+   "model": "Muscular strength is the maximum force a muscle can apply in one contraction, e.g. a 1-rep max lift. Muscular endurance is the ability to contract repeatedly without tiring, e.g. a rower in a 2000 m race.",
+   "points": [
+    "strength = maximum force in a single effort + example",
+    "endurance = repeated contractions without fatigue + example"
+   ]
+  }
+ ]
+}

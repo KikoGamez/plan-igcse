@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-02",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Er fahrt nach Berlin.",
+    "Er fährt nach Berlin.",
+    "Er fahrt nach Berlin an.",
+    "Er färht nach Berlin."
+   ],
+   "answer": 1,
+   "why": "Fahren is a stem-changing verb (a → ä): er fährt."
+  },
+  {
+   "type": "mcq",
+   "q": "Complete: Wir ___ um 8 Uhr in Köln ___.",
+   "options": [
+    "kommen … an",
+    "ankommen … um",
+    "an … kommen",
+    "kommen … auf"
+   ],
+   "answer": 0,
+   "why": "Ankommen is separable: the prefix goes to the end."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence uses the reflexive correctly?",
+   "options": [
+    "Ich interessiere für Musik.",
+    "Ich interessiere mir für Musik.",
+    "Ich interessiere mich für Musik.",
+    "Ich mich interessiere für Musik."
+   ],
+   "answer": 2,
+   "why": "Sich interessieren für uses the accusative reflexive pronoun mich."
+  },
+  {
+   "type": "short",
+   "q": "Write in German: 'I have been learning German for three years. I get up at six and I read a book.'",
+   "model": "Ich lerne seit drei Jahren Deutsch. Ich stehe um sechs Uhr auf und lese ein Buch.",
+   "points": [
+    "seit + present tense (lerne seit drei Jahren)",
+    "stehe ... auf (separable prefix at the end)",
+    "lese (correct form of lesen)"
+   ]
+  }
+ ]
+}

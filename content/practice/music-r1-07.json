@@ -1,0 +1,161 @@
+{
+ "id": "music-r1-07",
+ "cards": [
+  {
+   "f": "Baroque dates",
+   "b": "c.1600–1750."
+  },
+  {
+   "f": "Classical dates",
+   "b": "c.1750–1820."
+  },
+  {
+   "f": "Romantic dates",
+   "b": "c.1820–1900."
+  },
+  {
+   "f": "Basso continuo",
+   "b": "Bass line (cello etc.) with chords on harpsichord, organ or lute, played throughout Baroque music."
+  },
+  {
+   "f": "Terraced dynamics",
+   "b": "Sudden changes of volume with no gradual crescendo; typical of the Baroque."
+  },
+  {
+   "f": "Alberti bass",
+   "b": "Broken-chord left-hand pattern (low–high–middle–high); typical of Classical piano music."
+  },
+  {
+   "f": "Concerto grosso",
+   "b": "Baroque work: a small group of soloists (concertino) against the full orchestra (ripieno)."
+  },
+  {
+   "f": "Ritornello form",
+   "b": "A main theme for full orchestra returns between solo episodes."
+  },
+  {
+   "f": "Fugue",
+   "b": "A subject introduced in one voice and imitated in turn by the others."
+  },
+  {
+   "f": "Sonata form",
+   "b": "Exposition, development, recapitulation; the main Classical form for first movements."
+  },
+  {
+   "f": "Rubato",
+   "b": "Flexible tempo; slight speeding up and slowing down for expression. Romantic."
+  },
+  {
+   "f": "Programme music",
+   "b": "Instrumental music that tells a story or paints a scene (Berlioz)."
+  },
+  {
+   "f": "Lied",
+   "b": "German art song for voice and piano (Schubert, Schumann)."
+  },
+  {
+   "f": "Classical texture",
+   "b": "Mostly homophonic: a clear melody with accompaniment."
+  },
+  {
+   "f": "Romantic harmony",
+   "b": "Chromatic, with more dissonance and modulation to distant keys."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Baroque music often has a basso ___ played by cello and harpsichord.",
+   "a": [
+    "continuo",
+    "basso continuo",
+    "figured bass"
+   ]
+  },
+  {
+   "s": "In Baroque music, sudden changes of volume are called ___ dynamics.",
+   "a": [
+    "terraced"
+   ]
+  },
+  {
+   "s": "A broken-chord left-hand pattern in Classical piano music is called an ___ bass.",
+   "a": [
+    "alberti"
+   ]
+  },
+  {
+   "s": "A fugue starts with a ___ in one voice.",
+   "a": [
+    "subject"
+   ]
+  },
+  {
+   "s": "The main Classical form for first movements is ___ form.",
+   "a": [
+    "sonata"
+   ]
+  },
+  {
+   "s": "Flexible tempo in Romantic music is called ___.",
+   "a": [
+    "rubato"
+   ]
+  },
+  {
+   "s": "Chopin wrote nocturnes and preludes, which are character pieces for ___.",
+   "a": [
+    "piano",
+    "solo piano"
+   ]
+  },
+  {
+   "s": "A German art song for voice and piano is a ___.",
+   "a": [
+    "lied",
+    "lieder"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the texture of a typical Classical melody with accompaniment.",
+   "model": "Homophonic: a clear melody on top, supported by accompaniment such as an Alberti bass, in balanced phrases.",
+   "points": [
+    "Homophonic / melody and accompaniment",
+    "Alberti bass or chordal accompaniment"
+   ]
+  },
+  {
+   "q": "Give two ways in which Romantic harmony differs from Classical harmony.",
+   "model": "Romantic harmony uses more chromatic notes and dissonance, and modulates to distant keys; Classical harmony is simpler with clear cadences.",
+   "points": [
+    "More chromatic / dissonant",
+    "Modulations to remote keys, vs simple Classical chords"
+   ]
+  },
+  {
+   "q": "Why did the piano replace the harpsichord in the Classical period?",
+   "model": "The piano can play gradually louder and softer by touch, which suits crescendo and diminuendo; the harpsichord cannot.",
+   "points": [
+    "Piano can vary dynamics",
+    "Harpsichord has one volume"
+   ]
+  },
+  {
+   "q": "Explain what a concerto grosso is.",
+   "model": "A Baroque piece in which a small group of soloists (the concertino) plays against the larger orchestra (ripieno), with continuo.",
+   "points": [
+    "Small group of soloists",
+    "Contrasted with full orchestra"
+   ]
+  },
+  {
+   "q": "Name two ways Romantic composers made orchestras bigger and more colourful.",
+   "model": "They added more brass (trombones, tuba), percussion, harp and extra wind such as piccolo or cor anglais, giving more timbres.",
+   "points": [
+    "More brass/percussion",
+    "Extra instruments such as harp/piccolo"
+   ]
+  }
+ ]
+}

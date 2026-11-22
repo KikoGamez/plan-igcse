@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-03",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Ich habe nach Hause gegangen.",
+    "Ich bin nach Hause gegangen.",
+    "Ich bin nach Hause gegeht.",
+    "Ich habe nach Hause gegehen."
+   ],
+   "answer": 1,
+   "why": "Gehen is a movement verb so it takes sein, and its participle is gegangen."
+  },
+  {
+   "type": "mcq",
+   "q": "The past participle of 'besuchen' is",
+   "options": [
+    "gebesucht",
+    "besucht",
+    "besuchen",
+    "gebesuchen"
+   ],
+   "answer": 1,
+   "why": "Inseparable prefix be- means no ge-: besucht."
+  },
+  {
+   "type": "mcq",
+   "q": "Imperfect of 'ich muss': 'Gestern ___ ich lernen.'",
+   "options": [
+    "musste",
+    "muss",
+    "müsste",
+    "mussten"
+   ],
+   "answer": 0,
+   "why": "Imperfect of müssen is musste (no umlaut)."
+  },
+  {
+   "type": "short",
+   "q": "Write in German: 'Last year we flew to Italy. The hotel was great and I swam every day.'",
+   "model": "Letztes Jahr sind wir nach Italien geflogen. Das Hotel war toll und ich bin jeden Tag geschwommen.",
+   "points": [
+    "sind ... geflogen (sein + participle)",
+    "war (imperfect of sein)",
+    "bin ... geschwommen"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "cs-r1-05",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "An array Names holds ['Ann', 'Ben', 'Cy', 'Dev']. What does Names[3] give?",
+   "options": [
+    "Cy",
+    "Dev",
+    "Ben",
+    "An error"
+   ],
+   "answer": 1,
+   "why": "Indices start at 0, so index 3 is the fourth item, 'Dev'."
+  },
+  {
+   "type": "mcq",
+   "q": "Which data structure is best for storing a student's name (string), age (integer) and form (string) together?",
+   "options": [
+    "1D array",
+    "2D array",
+    "Record",
+    "Text file only"
+   ],
+   "answer": 2,
+   "why": "A record has named fields that can hold different data types."
+  },
+  {
+   "type": "mcq",
+   "q": "A file is opened in Python with mode \"w\". What happens to existing contents?",
+   "options": [
+    "They are kept and new data is added",
+    "They are erased",
+    "The program shows an error",
+    "They are read into a list"
+   ],
+   "answer": 1,
+   "why": "Write mode creates the file or erases what was there; append mode (\"a\") keeps it."
+  },
+  {
+   "type": "short",
+   "q": "In a 2D array Marks, state what Marks[2,5] refers to.",
+   "model": "The item in row 2, column 5 (the third row and sixth column, because indices start at 0).",
+   "points": [
+    "row index 2 and column index 5",
+    "indices start at 0"
+   ]
+  }
+ ]
+}

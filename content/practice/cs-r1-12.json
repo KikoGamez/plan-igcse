@@ -1,0 +1,34 @@
+{"id":"cs-r1-12","cards":[
+{"f":"E-waste","b":"Discarded electronic devices. They contain toxic substances that can pollute soil and water if not recycled."},
+{"f":"Ways to reduce environmental impact of technology","b":"Energy-efficient hardware, renewable energy for data centres, recycle or reuse devices, repair rather than replace, power-saving settings."},
+{"f":"Digital divide","b":"The gap between people who have access to technology and the internet and those who do not, due to cost, location, age or disability."},
+{"f":"Privacy concern","b":"Personal data (location, browsing, purchases) may be collected, tracked, sold, leaked or hacked, and surveillance reduces anonymity."},
+{"f":"Professionalism in computing","b":"Being honest, competent and responsible: protecting data, respecting copyright, testing software properly and following a code of conduct."},
+{"f":"Copyright","b":"Legal right that gives the creator of an original work control over copying and distributing it. Copying without permission is piracy."},
+{"f":"Patent","b":"Legal protection for an invention that stops others making or selling it without permission for a limited time."},
+{"f":"Open source vs proprietary","b":"Open source: source code freely available to view, modify and share. Proprietary: paid licence, code kept secret, cannot be copied or changed."},
+{"f":"Virus vs worm","b":"A virus attaches to a file and spreads when it is opened. A worm spreads by itself across a network."},
+{"f":"Ransomware","b":"Malware that encrypts the user's files and demands payment to unlock them."},
+{"f":"Phishing","b":"Fake emails or messages that look genuine, tricking people into giving personal details or clicking harmful links."},
+{"f":"Pharming","b":"Redirecting users from a real website to a fake one, even when they type the correct address, to steal their details."},
+{"f":"Shoulder surfing","b":"Watching someone enter a password or PIN by looking over their shoulder."},
+{"f":"Penetration testing","b":"An authorised attempt to break into a system to find weaknesses so they can be fixed before real attackers find them."},
+{"f":"Audit trail","b":"A record (log) of actions carried out on a system and who did them, used to detect and investigate misuse."}
+],
+"gaps":[
+{"s":"Fake emails that trick people into revealing passwords are called ___.","a":["phishing"]},
+{"s":"Software that locks your files and demands payment is called ___.","a":["ransomware"]},
+{"s":"A ___ protects an invention for a limited time.","a":["patent"]},
+{"s":"Hacking carried out with permission to find weaknesses is called ___ hacking.","a":["ethical"]},
+{"s":"The gap between people who have technology access and those who do not is the ___ divide.","a":["digital"]},
+{"s":"Discarded electronic devices are known as ___ waste.","a":["e-waste","electronic","e waste","ewaste"]},
+{"s":"A ___ spreads across a network by itself without needing a host file.","a":["worm"]},
+{"s":"Quantum computers use ___ instead of ordinary bits.","a":["qubits","qubit","quantum bits"]}
+],
+"short":[
+{"q":"Describe the difference between a virus and a worm.","model":"A virus attaches itself to a file or program and spreads when the user runs it. A worm spreads by itself across a network without any user action.","points":["virus needs a host file/user action to spread","worm spreads by itself across networks"]},
+{"q":"Explain two ways a school could protect its network from cyber-attacks.","model":"Use a firewall to block unauthorised traffic, and give users different access levels with strong passwords so they can only reach the data they need. Regular updates and staff training also help.","points":["measure 1 (e.g. firewall, anti-malware, updates, encryption)","measure 2 with a reason it helps (e.g. access levels, passwords, training)"]},
+{"q":"Give two reasons why AI raises ethical concerns.","model":"AI can be biased if trained on unrepresentative data, which leads to unfair decisions. It can also replace jobs and raise questions about who is responsible when it makes a mistake.","points":["bias / unfair decisions / privacy","job losses or responsibility for errors"]},
+{"q":"A company sells software under a proprietary licence. State two things that users are not allowed to do.","model":"Users may not copy and share the software, and they may not change it or see its source code.","points":["copy / share / install on unlimited machines","modify or access the source code"]},
+{"q":"Explain why quantum computing could be a threat to data security.","model":"Quantum computers may solve some problems much faster, so they could break current encryption methods and expose protected data. New types of encryption would be needed.","points":["quantum computers could break current encryption","data protected by it would be at risk / new methods needed"]}
+]}

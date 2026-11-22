@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-03",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "In a bicep curl the elbow is the fulcrum, the biceps pulls between the elbow and the hand. What class of lever is this?",
+   "options": [
+    "First",
+    "Second",
+    "Third",
+    "Fourth"
+   ],
+   "answer": 2,
+   "why": "The effort is between the fulcrum and the load: third class."
+  },
+  {
+   "type": "mcq",
+   "q": "A cartwheel happens in which plane and about which axis?",
+   "options": [
+    "Sagittal plane, frontal axis",
+    "Frontal plane, sagittal axis",
+    "Transverse plane, longitudinal axis",
+    "Frontal plane, longitudinal axis"
+   ],
+   "answer": 1,
+   "why": "Sideways movement is in the frontal plane about the sagittal axis."
+  },
+  {
+   "type": "mcq",
+   "q": "Effort arm = 6 cm, load arm = 3 cm. What is the mechanical advantage?",
+   "options": [
+    "0.5",
+    "2",
+    "18",
+    "9"
+   ],
+   "answer": 1,
+   "why": "MA = effort arm ÷ load arm = 6 ÷ 3 = 2."
+  },
+  {
+   "type": "short",
+   "q": "Explain why a mechanical advantage of less than 1 is useful in sport, even though more effort is needed.",
+   "model": "A mechanical advantage below 1 means a short effort arm, so the limb moves quickly and through a large range of movement, e.g. a fast arm swing when throwing or kicking, although more muscular force is needed.",
+   "points": [
+    "MA < 1 needs more effort / force",
+    "gives speed and range of movement, with example"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-10",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which nutrient is the body’s main source of energy during exercise?",
+   "options": [
+    "Protein",
+    "Carbohydrate",
+    "Fibre",
+    "Vitamins"
+   ],
+   "answer": 1,
+   "why": "Carbohydrate is the main fuel, stored as glycogen."
+  },
+  {
+   "type": "mcq",
+   "q": "Which mineral is needed to make haemoglobin?",
+   "options": [
+    "Calcium",
+    "Sodium",
+    "Iron",
+    "Vitamin C"
+   ],
+   "answer": 2,
+   "why": "Iron is needed for haemoglobin, which carries oxygen."
+  },
+  {
+   "type": "mcq",
+   "q": "Which nutrient is mainly needed for growth and repair of muscle?",
+   "options": [
+    "Protein",
+    "Fat",
+    "Water",
+    "Carbohydrate"
+   ],
+   "answer": 0,
+   "why": "Protein provides amino acids to build and repair muscle."
+  },
+  {
+   "type": "short",
+   "q": "Explain why drinking water is important during a long run in hot weather.",
+   "model": "Water replaces fluid lost through sweat, preventing dehydration. Dehydration thickens blood, raises heart rate and body temperature, and causes fatigue.",
+   "points": [
+    "replaces sweat / prevents dehydration",
+    "avoids overheating / fatigue / thicker blood"
+   ]
+  }
+ ]
+}

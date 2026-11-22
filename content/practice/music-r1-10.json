@@ -1,0 +1,160 @@
+{
+ "id": "music-r1-10",
+ "cards": [
+  {
+   "f": "Bach set work",
+   "b": "Brandenburg Concerto No. 5 in D major, 3rd movement; concerto grosso; ritornello form."
+  },
+  {
+   "f": "Concertino in Brandenburg 5",
+   "b": "Solo flute, violin and harpsichord."
+  },
+  {
+   "f": "Ripieno",
+   "b": "The full string orchestra in a concerto grosso."
+  },
+  {
+   "f": "Ritornello form",
+   "b": "Full-ensemble theme returns between solo episodes, in different keys."
+  },
+  {
+   "f": "Beethoven set work",
+   "b": "Piano Sonata No. 8 in C minor 'Pathétique', 1st movement; sonata form."
+  },
+  {
+   "f": "Pathétique introduction",
+   "b": "Grave: slow, heavy chords, dramatic dynamics; returns in development and coda."
+  },
+  {
+   "f": "Sonata form",
+   "b": "Exposition, development, recapitulation."
+  },
+  {
+   "f": "Pathétique second subject key",
+   "b": "Starts in E♭ minor, then E♭ major in the exposition."
+  },
+  {
+   "f": "Purcell set work",
+   "b": "Music for a While, 1692, from Oedipus; solo voice over ground bass."
+  },
+  {
+   "f": "Ground bass",
+   "b": "Bass pattern repeated while upper parts change."
+  },
+  {
+   "f": "Melisma",
+   "b": "Many notes to one syllable, e.g. 'beguile'."
+  },
+  {
+   "f": "Word-painting",
+   "b": "Music that illustrates the meaning of the words."
+  },
+  {
+   "f": "Queen set work",
+   "b": "Killer Queen, 1974, album Sheer Heart Attack, written by Freddie Mercury."
+  },
+  {
+   "f": "Killer Queen texture",
+   "b": "Lead vocal, piano, layered multi-tracked guitar and vocal harmonies."
+  },
+  {
+   "f": "Killer Queen key",
+   "b": "E♭ major."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Bach's Brandenburg Concerto No. 5 is a concerto ___.",
+   "a": [
+    "grosso"
+   ]
+  },
+  {
+   "s": "The solo group in a concerto grosso is the ___.",
+   "a": [
+    "concertino"
+   ]
+  },
+  {
+   "s": "The Pathétique sonata is in the key of C ___.",
+   "a": [
+    "minor"
+   ]
+  },
+  {
+   "s": "The slow opening of the Pathétique is marked ___.",
+   "a": [
+    "grave"
+   ]
+  },
+  {
+   "s": "Purcell's piece is built over a ground ___.",
+   "a": [
+    "bass"
+   ]
+  },
+  {
+   "s": "Many notes sung to one syllable is called a ___.",
+   "a": [
+    "melisma"
+   ]
+  },
+  {
+   "s": "Killer Queen was written by Freddie ___.",
+   "a": [
+    "mercury"
+   ]
+  },
+  {
+   "s": "Brian May layered guitars using ___ recording.",
+   "a": [
+    "multi-track",
+    "multitrack",
+    "multi-tracking",
+    "multitracking"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the texture of the third movement of Brandenburg 5.",
+   "model": "Mainly polyphonic with fugal entries of the subject and imitation, with homophonic full-ensemble ritornello sections and continuo.",
+   "points": [
+    "Polyphonic/fugal imitation",
+    "Continuo or full-ensemble homophony"
+   ]
+  },
+  {
+   "q": "How does Beethoven use dynamics in the Pathétique first movement?",
+   "model": "He uses sudden extremes such as ff and p, sforzandi and crescendos, which suit the piano and create drama.",
+   "points": [
+    "Sudden contrasts",
+    "Piano's dynamic range"
+   ]
+  },
+  {
+   "q": "Explain how a ground bass gives unity in Music for a While.",
+   "model": "The same bass pattern repeats throughout while the voice and harmony vary above, so the song stays unified yet varied.",
+   "points": [
+    "Repeated bass",
+    "Variation above it"
+   ]
+  },
+  {
+   "q": "Describe the vocal parts in Killer Queen.",
+   "model": "Lead vocal by Mercury with layered, multi-tracked backing harmonies, panned across the stereo field.",
+   "points": [
+    "Lead vocal",
+    "Multi-tracked harmonies"
+   ]
+  },
+  {
+   "q": "Name two Baroque features of Music for a While.",
+   "model": "Basso continuo (harpsichord and bass), ground bass, ornamentation and word-painting.",
+   "points": [
+    "Basso continuo",
+    "Ground bass"
+   ]
+  }
+ ]
+}

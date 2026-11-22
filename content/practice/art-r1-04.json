@@ -1,0 +1,157 @@
+{
+ "id": "art-r1-04",
+ "cards": [
+  {
+   "f": "Primary colours",
+   "b": "Red, yellow and blue on the traditional paint wheel; they cannot be mixed from other colours."
+  },
+  {
+   "f": "Secondary colours",
+   "b": "Orange, green and purple, made by mixing two primaries."
+  },
+  {
+   "f": "Tertiary colours",
+   "b": "Made by mixing a primary with a neighbouring secondary, e.g. blue-green."
+  },
+  {
+   "f": "Complementary colours",
+   "b": "Opposite each other on the wheel (blue/orange, red/green, yellow/purple). High contrast."
+  },
+  {
+   "f": "Analogous colours",
+   "b": "Neighbours on the wheel, e.g. yellow, yellow-green, green. Calm and harmonious."
+  },
+  {
+   "f": "Tint and shade",
+   "b": "Tint: hue plus white. Shade: hue plus black."
+  },
+  {
+   "f": "Saturation",
+   "b": "How pure or vivid a colour is. Mixing in its complement lowers it."
+  },
+  {
+   "f": "Warm and cool colours",
+   "b": "Warm (red, orange, yellow) advance and feel energetic; cool (blue, green, purple) recede and feel calm."
+  },
+  {
+   "f": "Wet-on-wet",
+   "b": "Paint onto wet paper so colours bleed softly. Good for skies and atmosphere."
+  },
+  {
+   "f": "Wet-on-dry",
+   "b": "Paint onto dry paper for crisp edges and detail."
+  },
+  {
+   "f": "Glaze",
+   "b": "A thin transparent layer of paint over a dry layer to deepen colour."
+  },
+  {
+   "f": "Impasto",
+   "b": "Thickly applied paint, often with a palette knife, so marks stand out."
+  },
+  {
+   "f": "Gouache properties",
+   "b": "Opaque, matt, water-based; can be rewetted and reworked; good for flat colour."
+  },
+  {
+   "f": "Acrylic properties",
+   "b": "Fast-drying and permanent when dry; opaque or glazed; good for layers, texture and bold colour."
+  },
+  {
+   "f": "Watercolour properties",
+   "b": "Transparent; work light to dark; the paper provides the white; hard to correct."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Red, yellow and blue are the ___ colours.",
+   "a": [
+    "primary"
+   ]
+  },
+  {
+   "s": "Blue's complement is ___.",
+   "a": [
+    "orange"
+   ]
+  },
+  {
+   "s": "A hue with white added is a ___.",
+   "a": [
+    "tint"
+   ]
+  },
+  {
+   "s": "Paint applied thickly with a knife is called ___.",
+   "a": [
+    "impasto"
+   ]
+  },
+  {
+   "s": "A thin transparent layer over a dry layer is a ___.",
+   "a": [
+    "glaze"
+   ]
+  },
+  {
+   "s": "Colours next to each other on the wheel are ___.",
+   "a": [
+    "analogous"
+   ]
+  },
+  {
+   "s": "The medium that is opaque, matt and can be rewetted is ___.",
+   "a": [
+    "gouache"
+   ]
+  },
+  {
+   "s": "In watercolour, white is made by leaving the ___ unpainted.",
+   "a": [
+    "paper"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how to avoid muddy colours.",
+   "model": "Mix no more than three colours, clean the brush between mixes, use complementaries to darken instead of black, and avoid overworking wet paint.",
+   "points": [
+    "limit colours/clean brush",
+    "complementaries not black / don't overwork"
+   ]
+  },
+  {
+   "q": "Compare acrylic and watercolour in two ways.",
+   "model": "Acrylic is opaque and permanent when dry and can be built thickly; watercolour is transparent, works light to dark and uses the paper as white.",
+   "points": [
+    "acrylic opaque/impasto/permanent",
+    "watercolour transparent/light to dark"
+   ]
+  },
+  {
+   "q": "How can complementary colours create a focal point?",
+   "model": "Placing a small area of one colour against a large area of its opposite makes it look brighter and draws the eye.",
+   "points": [
+    "small area vs large area",
+    "opposite colour makes it stand out"
+   ]
+  },
+  {
+   "q": "Describe the effect of an analogous palette.",
+   "model": "It gives a calm, harmonious, unified look because the colours are neighbours on the wheel.",
+   "points": [
+    "neighbours on wheel",
+    "calm and harmonious"
+   ]
+  },
+  {
+   "q": "How do you show AO2 when choosing a medium?",
+   "model": "Test the same subject in several media, review them against your intention and select one with a written or visual reason.",
+   "points": [
+    "tests in several media",
+    "review and reasoned selection"
+   ]
+  }
+ ]
+}

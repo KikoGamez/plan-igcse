@@ -1,0 +1,51 @@
+{
+ "id": "art-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What does the 'F' in CFPM stand for?",
+   "options": [
+    "Focus",
+    "Form",
+    "Frame",
+    "Finish"
+   ],
+   "answer": 1,
+   "why": "Content, Form, Process, Mood."
+  },
+  {
+   "type": "mcq",
+   "q": "Which annotation is strongest?",
+   "options": [
+    "I like this because it looks good.",
+    "The painting is colourful and detailed.",
+    "Thick impasto strokes catch the light and lead the eye, making the sky feel restless, so I will use directional marks in my own study.",
+    "This is by Van Gogh."
+   ],
+   "answer": 2,
+   "why": "It describes, gives evidence, explains the effect and links to own work."
+  },
+  {
+   "type": "mcq",
+   "q": "In P-E-E-L, what does the final L stand for?",
+   "options": [
+    "Look",
+    "Link",
+    "Layout",
+    "Label"
+   ],
+   "answer": 1,
+   "why": "Link the point back to your own work or next step."
+  },
+  {
+   "type": "short",
+   "q": "Describe how to write a useful annotation for one of your own experiments.",
+   "model": "State what you did (materials/technique), evaluate what happened with reasons, and say what you will do next because of it.",
+   "points": [
+    "what I did (materials/technique)",
+    "evaluation with reason",
+    "next step/decision"
+   ]
+  }
+ ]
+}

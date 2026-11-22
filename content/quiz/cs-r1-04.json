@@ -1,0 +1,50 @@
+{
+ "id": "cs-r1-04",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which data type is most suitable for storing a telephone number such as 0034 612 345 678?",
+   "options": [
+    "Integer",
+    "Real",
+    "String",
+    "Boolean"
+   ],
+   "answer": 2,
+   "why": "You do not calculate with it and leading zeros/spaces must be kept, so use a string."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the value of 17 MOD 5?",
+   "options": [
+    "3",
+    "2",
+    "3.4",
+    "12"
+   ],
+   "answer": 1,
+   "why": "17 = 3 × 5 + 2, so the remainder is 2."
+  },
+  {
+   "type": "mcq",
+   "q": "Which loop always runs its body at least once?",
+   "options": [
+    "WHILE … END WHILE",
+    "FOR … END FOR",
+    "REPEAT … UNTIL",
+    "FOR EACH"
+   ],
+   "answer": 2,
+   "why": "REPEAT … UNTIL tests its condition at the end of each pass."
+  },
+  {
+   "type": "short",
+   "q": "Give two reasons for using a constant such as VAT_RATE instead of typing 0.2 each time.",
+   "model": "The value only has to be changed in one place if it changes, and the code is easier to read because the name explains what the number means.",
+   "points": [
+    "change in one place only",
+    "easier to read/understand"
+   ]
+  }
+ ]
+}

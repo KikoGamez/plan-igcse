@@ -1,0 +1,157 @@
+{
+ "id": "music-r1-03",
+ "cards": [
+  {
+   "f": "Primary chords",
+   "b": "Chords I, IV and V."
+  },
+  {
+   "f": "Dominant chord",
+   "b": "Chord V, built on the fifth note of the scale; creates tension and wants to go to I."
+  },
+  {
+   "f": "Perfect cadence",
+   "b": "V followed by I (or V7 to I); sounds finished like a full stop."
+  },
+  {
+   "f": "Imperfect cadence",
+   "b": "Ends on chord V; sounds unfinished."
+  },
+  {
+   "f": "Plagal cadence",
+   "b": "IV followed by I, the Amen cadence; gentler."
+  },
+  {
+   "f": "Interrupted cadence",
+   "b": "V followed by VI, a surprise; avoids the expected ending."
+  },
+  {
+   "f": "Tierce de Picardie",
+   "b": "A major chord ending a piece or section in a minor key."
+  },
+  {
+   "f": "Modulation",
+   "b": "A change of key within a piece."
+  },
+  {
+   "f": "Common modulations from major",
+   "b": "To the dominant or the relative minor."
+  },
+  {
+   "f": "Common modulation from minor",
+   "b": "To the relative major or the dominant."
+  },
+  {
+   "f": "Pedal note",
+   "b": "A long held or repeated bass note while chords change above it."
+  },
+  {
+   "f": "Drone",
+   "b": "A continuous sustained note or fifth, typical in folk music."
+  },
+  {
+   "f": "Suspension",
+   "b": "A held note from the previous chord that clashes, then resolves downwards by step."
+  },
+  {
+   "f": "Harmonic rhythm",
+   "b": "How often the chords change."
+  },
+  {
+   "f": "Atonal",
+   "b": "Music with no key centre and no tonic."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Chord I is called the ___ chord.",
+   "a": [
+    "tonic"
+   ]
+  },
+  {
+   "s": "Chord V is called the ___.",
+   "a": [
+    "dominant"
+   ]
+  },
+  {
+   "s": "A V to I cadence is called a ___ cadence.",
+   "a": [
+    "perfect"
+   ]
+  },
+  {
+   "s": "IV to I is a ___ cadence.",
+   "a": [
+    "plagal"
+   ]
+  },
+  {
+   "s": "V to VI is an ___ cadence.",
+   "a": [
+    "interrupted"
+   ]
+  },
+  {
+   "s": "A change of key is called a ___.",
+   "a": [
+    "modulation"
+   ]
+  },
+  {
+   "s": "A long held bass note under changing chords is a ___ note.",
+   "a": [
+    "pedal"
+   ]
+  },
+  {
+   "s": "Music with no key centre is called ___.",
+   "a": [
+    "atonal"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how a perfect cadence differs from an imperfect cadence.",
+   "model": "A perfect cadence is V to I and sounds finished; an imperfect cadence ends on V and sounds unfinished.",
+   "points": [
+    "perfect V to I",
+    "imperfect ends on V"
+   ]
+  },
+  {
+   "q": "Describe a pedal note.",
+   "model": "A sustained or repeated note, usually in the bass, held while the chords above change.",
+   "points": [
+    "held bass note",
+    "chords change above"
+   ]
+  },
+  {
+   "q": "Give two likely destinations for modulation from a minor key.",
+   "model": "The relative major and the dominant.",
+   "points": [
+    "relative major",
+    "dominant"
+   ]
+  },
+  {
+   "q": "How can harmony create tension?",
+   "model": "Dissonant chords or suspensions, chromatic notes, a dominant pedal, or an unresolved or interrupted cadence.",
+   "points": [
+    "dissonance or chromatic",
+    "unresolved resolution"
+   ]
+  },
+  {
+   "q": "What does harmonic rhythm mean?",
+   "model": "It is the rate at which chords change; slow changes sound calm and fast changes sound busy.",
+   "points": [
+    "rate of chord change",
+    "effect"
+   ]
+  }
+ ]
+}

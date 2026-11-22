@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-10",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "In Bach's Brandenburg Concerto No. 5, which keyboard instrument is a soloist?",
+   "options": [
+    "Organ",
+    "Piano",
+    "Harpsichord",
+    "Clavichord"
+   ],
+   "answer": 2,
+   "why": "The harpsichord plays a solo role as well as continuo."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the ground bass in Purcell's Music for a While?",
+   "options": [
+    "A repeated bass line",
+    "A drone",
+    "A solo cello melody",
+    "A chord progression with no bass"
+   ],
+   "answer": 0,
+   "why": "A ground bass is a bass pattern repeated while the upper parts change."
+  },
+  {
+   "type": "mcq",
+   "q": "Which form is the first movement of Beethoven's Pathétique sonata?",
+   "options": [
+    "Rondo",
+    "Sonata form",
+    "Ritornello form",
+    "Ternary"
+   ],
+   "answer": 1,
+   "why": "It has exposition, development and recapitulation, plus the Grave introduction."
+  },
+  {
+   "type": "short",
+   "q": "Describe two production techniques used in Queen's Killer Queen.",
+   "model": "Multi-tracking of guitar and vocal harmonies, and panning/phasing/reverb effects to make a rich stereo sound.",
+   "points": [
+    "Multi-tracking/overdubbing",
+    "Panning, phasing or reverb"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-02",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many sharps are in the key signature of D major?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "why": "D major has F sharp and C sharp."
+  },
+  {
+   "type": "mcq",
+   "q": "Which scale is the natural minor with the 7th note raised?",
+   "options": [
+    "Melodic minor",
+    "Pentatonic",
+    "Harmonic minor",
+    "Chromatic"
+   ],
+   "answer": 2,
+   "why": "The harmonic minor raises the 7th by a semitone."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the interval from C up to G?",
+   "options": [
+    "Perfect 4th",
+    "Perfect 5th",
+    "Major 6th",
+    "Major 3rd"
+   ],
+   "answer": 1,
+   "why": "C to G is five letter names and 7 semitones: a perfect 5th."
+  },
+  {
+   "type": "short",
+   "q": "What is a sequence in a melody?",
+   "model": "A short melodic idea repeated at a higher or lower pitch.",
+   "points": [
+    "short melodic idea repeated",
+    "at a different pitch"
+   ]
+  }
+ ]
+}

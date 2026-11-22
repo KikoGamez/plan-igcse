@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-04",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many main beats are in a bar of 6/8?",
+   "options": [
+    "6",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 2,
+   "why": "6/8 is compound duple: two dotted-crotchet beats, each dividing into three."
+  },
+  {
+   "type": "mcq",
+   "q": "What does rallentando mean?",
+   "options": [
+    "Getting louder",
+    "Getting faster",
+    "Gradually slowing down",
+    "Suddenly loud"
+   ],
+   "answer": 2,
+   "why": "Rallentando means gradually slowing down."
+  },
+  {
+   "type": "mcq",
+   "q": "Syncopation is best described as",
+   "options": [
+    "a steady beat on every crotchet",
+    "accents on weak beats or off the beat",
+    "a very slow tempo",
+    "notes played smoothly"
+   ],
+   "answer": 1,
+   "why": "Syncopation displaces accents to weak or off-beats."
+  },
+  {
+   "type": "short",
+   "q": "What is the difference between simple and compound time?",
+   "model": "In simple time each beat divides into two; in compound time each beat divides into three.",
+   "points": [
+    "simple divides into two",
+    "compound divides into three"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "id": "music-r1-11",
+ "cards": [
+  {
+   "f": "Defying Gravity",
+   "b": "Stephen Schwartz, from the musical Wicked (2003). Act 1 finale; Elphaba decides to rebel."
+  },
+  {
+   "f": "Belting",
+   "b": "Loud, strong chest-voice singing used in musical theatre."
+  },
+  {
+   "f": "Defying Gravity build",
+   "b": "Gradual crescendo, ostinato, key changes and belting build to a climax."
+  },
+  {
+   "f": "Star Wars Main Title",
+   "b": "John Williams, 1977, London Symphony Orchestra; late-Romantic style."
+  },
+  {
+   "f": "Star Wars fanfare",
+   "b": "Loud brass, rising fifth, triplet rhythms; heroic major key."
+  },
+  {
+   "f": "Leitmotif",
+   "b": "Recurring theme linked to a character or idea."
+  },
+  {
+   "f": "Afro Celt Sound System",
+   "b": "Fusion band: Irish + West African + electronic dance; album Volume 2: Release (1999)."
+  },
+  {
+   "f": "Sean-nós",
+   "b": "Ornamented, unaccompanied Irish singing."
+  },
+  {
+   "f": "Release texture",
+   "b": "Layers of percussion, electronic sounds and instruments built up over a groove."
+  },
+  {
+   "f": "Samba Em Prelúdio",
+   "b": "Esperanza Spalding, 2008, double bass and voice, samba/bossa nova with jazz."
+  },
+  {
+   "f": "Bossa nova",
+   "b": "Gentle Brazilian style mixing samba with jazz harmony."
+  },
+  {
+   "f": "Scat singing",
+   "b": "Improvised singing with nonsense syllables."
+  },
+  {
+   "f": "Fusion",
+   "b": "Blend of two or more traditions."
+  },
+  {
+   "f": "Ostinato in Defying Gravity",
+   "b": "Repeated accompaniment pattern that drives the song to its climax."
+  },
+  {
+   "f": "Compare set works: plan",
+   "b": "Context, similarities, differences, musical terms, conclusion."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Defying Gravity comes from the musical ___.",
+   "a": [
+    "wicked"
+   ]
+  },
+  {
+   "s": "The Star Wars Main Title was composed by John ___.",
+   "a": [
+    "williams"
+   ]
+  },
+  {
+   "s": "The Star Wars fanfare is played mainly by ___ instruments.",
+   "a": [
+    "brass"
+   ]
+  },
+  {
+   "s": "A theme linked to a character is a ___.",
+   "a": [
+    "leitmotif"
+   ]
+  },
+  {
+   "s": "Irish unaccompanied ornamented singing is ___.",
+   "a": [
+    "sean-nós",
+    "sean-nos",
+    "sean nós",
+    "sean nos"
+   ]
+  },
+  {
+   "s": "Afro Celt Sound System blend Irish, African and ___ music.",
+   "a": [
+    "electronic",
+    "dance",
+    "electronic dance"
+   ]
+  },
+  {
+   "s": "Esperanza Spalding plays the double ___.",
+   "a": [
+    "bass"
+   ]
+  },
+  {
+   "s": "Changing key to raise the energy is called ___.",
+   "a": [
+    "modulation",
+    "key change"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Why did John Williams use a late-Romantic orchestra for Star Wars?",
+   "model": "It gives a grand, heroic, emotional sound that links to Wagner and Holst and told the audience immediately that this was an epic adventure.",
+   "points": [
+    "Romantic orchestral style",
+    "Heroic/epic effect"
+   ]
+  },
+  {
+   "q": "Describe how Defying Gravity builds to its climax.",
+   "model": "It grows from quiet to loud with crescendo, rising melody, an ostinato, key changes and belted vocals with full orchestra.",
+   "points": [
+    "Crescendo/texture build",
+    "Key change/belting"
+   ]
+  },
+  {
+   "q": "What makes Release a fusion?",
+   "model": "It blends Irish sean-nós and instruments with West African drums and electronic dance beats and samples.",
+   "points": [
+    "Irish elements",
+    "African and electronic elements"
+   ]
+  },
+  {
+   "q": "Describe the rhythm of Samba Em Prelúdio.",
+   "model": "A syncopated samba rhythm with a lilting feel and changes of tempo, played by drums and percussion with a walking-style bass.",
+   "points": [
+    "Syncopated samba",
+    "Tempo changes/percussion"
+   ]
+  },
+  {
+   "q": "Give two similarities between Release and Killer Queen.",
+   "model": "Both use layered multi-tracked recording and studio effects, and both have a strong rhythm section with repeated patterns.",
+   "points": [
+    "Multi-tracking/studio",
+    "Repeated patterns/rhythm section"
+   ]
+  }
+ ]
+}

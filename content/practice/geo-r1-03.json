@@ -1,0 +1,36 @@
+{"id":"geo-r1-03","cards":[
+{"f":"Fetch","b":"The distance of open water over which the wind has blown. A long fetch produces bigger, more powerful waves."},
+{"f":"Constructive wave","b":"Low, long wavelength, strong swash and weak backwash. Deposits material and builds up the beach."},
+{"f":"Destructive wave","b":"High, frequent, strong backwash and weak swash. Erodes material and removes the beach."},
+{"f":"Swash and backwash","b":"Swash: water moving up the beach. Backwash: water draining back down the beach."},
+{"f":"Hydraulic action (coast)","b":"Waves force air into cracks in the cliff. The compressed air breaks the rock apart."},
+{"f":"Abrasion (coast)","b":"Waves hurl sand and pebbles at the cliff, wearing it away like sandpaper."},
+{"f":"Freeze-thaw weathering","b":"Water enters cracks, freezes and expands, widening the crack. Repeated cycles break rock off."},
+{"f":"Types of weathering","b":"Mechanical (freeze-thaw), chemical (rainwater dissolving rock) and biological (roots and burrowing)."},
+{"f":"Sliding vs slumping","b":"Sliding: rock or soil moves along a flat surface. Slumping: saturated soft rock rotates down a curved surface."},
+{"f":"Longshore drift","b":"Swash carries material up at an angle, backwash returns it straight down. Material zigzags along the coast."},
+{"f":"Discordant coastline","b":"Bands of hard and soft rock lie at right angles to the coast, forming headlands and bays."},
+{"f":"Headlands and bays","b":"Soft rock erodes faster to form bays; hard rock remains as headlands. Beaches form in the sheltered bays."},
+{"f":"Wave-cut platform","b":"A flat rock area at the base of a cliff. Left behind when the cliff retreats after undercutting and collapse."},
+{"f":"Cave, arch, stack, stump","b":"Crack widened to a cave; cave breaks through to an arch; roof collapses leaving a stack; stack erodes to a stump."},
+{"f":"Spit","b":"A long ridge of sand or shingle joined to land at one end, formed by longshore drift where the coast changes direction."},
+{"f":"Bar","b":"A ridge of sand or shingle that grows across a bay, joining two headlands and trapping a lagoon."},
+{"f":"Two examples of how people affect coastal landforms","b":"Building sea walls and groynes change sediment movement; removing dunes or mangroves reduces natural protection."}
+],
+"gaps":[
+{"s":"Waves with a strong swash and weak backwash are called ___ waves.","a":["constructive"]},
+{"s":"Water draining back down a beach is called the ___.","a":["backwash"]},
+{"s":"A coastline with bands of rock at right angles to the sea is called a ___ coastline.","a":["discordant"]},
+{"s":"A column of rock left standing in the sea after an arch collapses is a ___.","a":["stack"]},
+{"s":"A flat platform of rock at the base of a cliff is a wave-cut ___.","a":["platform"]},
+{"s":"Water freezing in cracks and expanding is called ___ weathering.","a":["freeze-thaw","freeze thaw"]},
+{"s":"Seawater dissolving rocks such as chalk or limestone is called ___.","a":["solution"]},
+{"s":"Longshore drift moves material in a ___ pattern along the beach.","a":["zigzag","zig-zag","zig zag"]}
+],
+"short":[
+{"q":"Describe how a destructive wave differs from a constructive wave.","model":"A destructive wave is higher and more frequent with a strong backwash, so it erodes the beach. A constructive wave is lower with a strong swash and deposits material.","points":["destructive: strong backwash, erodes","constructive: strong swash, deposits"]},
+{"q":"Explain how headlands and bays form.","model":"Bands of hard and soft rock lie at right angles to the coast. The soft rock is eroded faster to form bays, while the harder rock remains as headlands.","points":["alternating hard and soft rock","soft rock erodes faster forming bays; hard rock remains as headlands"]},
+{"q":"Explain how a bar forms.","model":"Longshore drift builds a spit across a bay. It grows until it reaches the other side, joining two headlands and trapping a lagoon behind it.","points":["spit built by longshore drift/deposition","grows across the bay, trapping a lagoon"]},
+{"q":"Explain how mass movement affects a cliff made of clay.","model":"Heavy rain saturates the soft clay, making it heavy and unstable. It slumps down a curved surface, so the cliff retreats quickly.","points":["clay saturated by rain / unstable","slumps down the cliff, cliff retreats"]},
+{"q":"Describe the movement of material by longshore drift.","model":"Waves approach at an angle and swash pushes material up the beach at that angle. Backwash drags it straight down, so material moves along the coast in a zigzag.","points":["swash at an angle, backwash at right angles","zigzag movement along the coast"]}
+]}

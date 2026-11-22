@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-04",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How do you say 'I will play football tomorrow'?",
+   "options": [
+    "Ich werde morgen Fußball spielen.",
+    "Ich werde morgen spielen Fußball.",
+    "Ich werde morgen Fußball zu spielen.",
+    "Ich will morgen Fußball gespielt."
+   ],
+   "answer": 0,
+   "why": "Werden is second and the infinitive goes to the end, without zu."
+  },
+  {
+   "type": "mcq",
+   "q": "'Du darfst hier nicht parken' means",
+   "options": [
+    "You don't have to park here",
+    "You can't park here (you are not allowed)",
+    "You can park here",
+    "You should park here"
+   ],
+   "answer": 1,
+   "why": "Nicht dürfen = must not / not allowed. Nicht müssen = don't have to."
+  },
+  {
+   "type": "mcq",
+   "q": "Complete: Wenn ich Zeit hätte, ___ ich mehr lesen.",
+   "options": [
+    "werde",
+    "würde",
+    "wurde",
+    "wird"
+   ],
+   "answer": 1,
+   "why": "The conditional uses würde + infinitive; the main clause has verb first after a wenn-clause."
+  },
+  {
+   "type": "short",
+   "q": "Translate: 'If I had a lot of money, I would travel the world.'",
+   "model": "Wenn ich viel Geld hätte, würde ich um die Welt reisen.",
+   "points": [
+    "Wenn ich viel Geld hätte (verb at end)",
+    "würde ich (verb first)",
+    "reisen at the end"
+   ]
+  }
+ ]
+}

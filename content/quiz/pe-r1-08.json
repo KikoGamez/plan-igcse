@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A ligament is damaged when an ankle is twisted. This injury is a",
+   "options": [
+    "strain",
+    "sprain",
+    "fracture",
+    "dislocation"
+   ],
+   "answer": 1,
+   "why": "Sprains are ligament injuries; strains involve muscle or tendon."
+  },
+  {
+   "type": "mcq",
+   "q": "Which drug is most likely to be used by an archer to steady the hands?",
+   "options": [
+    "Anabolic steroid",
+    "Diuretic",
+    "Beta blocker",
+    "EPO"
+   ],
+   "answer": 2,
+   "why": "Beta blockers slow the heart and reduce tremor."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a risk of taking EPO?",
+   "options": [
+    "Blood clots",
+    "Weight loss",
+    "Loss of hearing",
+    "Weaker bones only"
+   ],
+   "answer": 0,
+   "why": "EPO thickens the blood, raising the risk of clots, stroke and heart attack."
+  },
+  {
+   "type": "short",
+   "q": "Give two reasons why a cool-down is important after exercise.",
+   "model": "It keeps blood flowing to remove waste products such as lactic acid. It lowers heart rate gradually and reduces muscle soreness.",
+   "points": [
+    "removes lactic acid / waste",
+    "gradually lowers heart rate / reduces soreness"
+   ]
+  }
+ ]
+}

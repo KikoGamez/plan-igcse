@@ -1,0 +1,160 @@
+{
+ "id": "art-r1-05",
+ "cards": [
+  {
+   "f": "Matrix",
+   "b": "The block, plate or screen that holds the image for printing."
+  },
+  {
+   "f": "Relief print",
+   "b": "A print made from raised areas of a block, e.g. lino or woodcut."
+  },
+  {
+   "f": "Monoprint",
+   "b": "A one-off print from an inked plate; every print is unique."
+  },
+  {
+   "f": "Edition",
+   "b": "A set of identical prints from one matrix, numbered e.g. 3/10."
+  },
+  {
+   "f": "Reduction print",
+   "b": "Multi-colour print from one block, carving away more between each colour. Picasso used it."
+  },
+  {
+   "f": "Collagraph",
+   "b": "A print from a board with textured materials glued on, giving rich texture."
+  },
+  {
+   "f": "Screen print",
+   "b": "Ink pushed through a stencil on a mesh screen; flat layers of colour. Warhol used it."
+  },
+  {
+   "f": "Why is a relief print reversed?",
+   "b": "The image flips when printed, like a stamp, so plan text and direction in reverse."
+  },
+  {
+   "f": "Lino cutting safety",
+   "b": "Cut away from hands, keep hands behind the blade, use a bench hook or non-slip mat."
+  },
+  {
+   "f": "How to ink a block",
+   "b": "Roll ink thin and even on a plate (crackling sound), then roll over the block in several directions."
+  },
+  {
+   "f": "Collage",
+   "b": "An artwork made by sticking paper, fabric or other materials onto a surface."
+  },
+  {
+   "f": "Photomontage",
+   "b": "A composite image made by cutting and joining photographs; Hannah Höch."
+  },
+  {
+   "f": "Kurt Schwitters",
+   "b": "German artist whose Merz collages used rubbish, tickets and scraps."
+  },
+  {
+   "f": "Mixed media",
+   "b": "Artwork combining different materials in one piece. Link them with colour, shape or texture."
+  },
+  {
+   "f": "Wax resist",
+   "b": "Wax crayon under a watercolour wash blocks the paint, leaving the pattern showing."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A one-off print from a plate is a ___.",
+   "a": [
+    "monoprint",
+    "mono print"
+   ]
+  },
+  {
+   "s": "A set of identical numbered prints is an ___.",
+   "a": [
+    "edition"
+   ]
+  },
+  {
+   "s": "The block or plate used for printing is the ___.",
+   "a": [
+    "matrix"
+   ]
+  },
+  {
+   "s": "Hannah Höch is known for ___.",
+   "a": [
+    "photomontage",
+    "collage"
+   ]
+  },
+  {
+   "s": "Cutting and joining photographs makes a ___.",
+   "a": [
+    "photomontage"
+   ]
+  },
+  {
+   "s": "Lino is carved with the cut always moving ___ from your hands.",
+   "a": [
+    "away"
+   ]
+  },
+  {
+   "s": "Wax and watercolour together create a ___.",
+   "a": [
+    "resist",
+    "wax resist"
+   ]
+  },
+  {
+   "s": "Picasso made multi-colour linocuts using the ___ method.",
+   "a": [
+    "reduction"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how to make a multi-colour reduction print.",
+   "model": "Print the lightest colour first, carve away more of the same block, print the next colour over it, and repeat so the block gets smaller each time.",
+   "points": [
+    "carve more of the same block",
+    "print colours in layers lightest to darkest"
+   ]
+  },
+  {
+   "q": "Describe two ways to create texture in printmaking.",
+   "model": "Use a collagraph with glued string, card or fabric, or add marks by rolling ink over a textured surface or by carving varied marks into the lino.",
+   "points": [
+    "collagraph/textured materials",
+    "varied carved marks"
+   ]
+  },
+  {
+   "q": "Why combine materials in mixed media?",
+   "model": "It adds contrast and texture, and allows you to show different qualities, as long as a repeated colour or shape unites the materials.",
+   "points": [
+    "contrast/texture/variety",
+    "unity through repeated element"
+   ]
+  },
+  {
+   "q": "How would you show AO2 in a collage?",
+   "model": "Make several collage tests with different materials and layering, review each against your intention, and select and refine the best with a reason.",
+   "points": [
+    "several tests",
+    "review and selection with reason"
+   ]
+  },
+  {
+   "q": "Describe how Schwitters used collage.",
+   "model": "He built Merz collages from found rubbish, such as tickets, newspaper and scraps, arranged into abstract compositions.",
+   "points": [
+    "found materials/rubbish",
+    "abstract/Merz compositions"
+   ]
+  }
+ ]
+}

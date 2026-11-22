@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-12",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What percentage of the Edexcel GCSE Music course is composing?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "30%"
+   ],
+   "answer": 3,
+   "why": "Performing 30%, composing 30%, written paper 40%."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a way to develop a motif?",
+   "options": [
+    "Use it as a sequence",
+    "Play it once only",
+    "Delete the rhythm",
+    "Change nothing"
+   ],
+   "answer": 0,
+   "why": "A sequence repeats it at a different pitch."
+  },
+  {
+   "type": "mcq",
+   "q": "Which criterion rewards dynamics, phrasing and tone in a performance?",
+   "options": [
+    "Accuracy",
+    "Expression and interpretation",
+    "Length",
+    "Notation"
+   ],
+   "answer": 1,
+   "why": "Expression and interpretation covers shaping the music."
+  },
+  {
+   "type": "short",
+   "q": "State two things you can do to earn higher marks in a composition.",
+   "model": "Develop ideas rather than repeat them and give a clear structure with contrast; follow the brief and notate dynamics and tempo.",
+   "points": [
+    "Develop ideas",
+    "Clear structure/follow brief"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "music-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What is a leitmotif?",
+   "options": [
+    "A short theme associated with a character or idea",
+    "A drum fill at the end of a verse",
+    "A chord pattern of twelve bars",
+    "A type of microphone effect"
+   ],
+   "answer": 0,
+   "why": "A leitmotif returns through a film or opera to represent a person or idea."
+  },
+  {
+   "type": "mcq",
+   "q": "Which chords make up the basic 12-bar blues?",
+   "options": [
+    "I, II, III",
+    "I, IV, V",
+    "I, vi, ii",
+    "I, V, vi"
+   ],
+   "answer": 1,
+   "why": "12-bar blues is built from I, IV and V."
+  },
+  {
+   "type": "mcq",
+   "q": "Music the characters in a film can hear is called:",
+   "options": [
+    "Non-diegetic",
+    "Underscore",
+    "Diegetic",
+    "Leitmotif"
+   ],
+   "answer": 2,
+   "why": "Diegetic music comes from within the film world (radio, band on screen)."
+  },
+  {
+   "type": "short",
+   "q": "Describe two ways in which a film composer can create tension.",
+   "model": "Use a repeated ostinato in low strings or percussion, a gradual crescendo and rising pitch, and dissonant or chromatic chords with tremolo strings.",
+   "points": [
+    "Ostinato/repeated pattern",
+    "Rising pitch/crescendo",
+    "Dissonance or tremolo"
+   ]
+  }
+ ]
+}

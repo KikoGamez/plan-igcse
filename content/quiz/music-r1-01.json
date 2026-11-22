@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-01",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What percentage of the qualification is the Appraising (listening) paper?",
+   "options": [
+    "30%",
+    "40%",
+    "50%",
+    "60%"
+   ],
+   "answer": 1,
+   "why": "Appraising is 40%; Performing and Composing are 30% each."
+  },
+  {
+   "type": "mcq",
+   "q": "Which set work is in the area of study Fusions?",
+   "options": [
+    "Queen: Killer Queen",
+    "Purcell: Music for a While",
+    "Afro Celt Sound System: Release",
+    "John Williams: Star Wars Main Title"
+   ],
+   "answer": 2,
+   "why": "Release and Samba Em Preludio are the Fusions set works."
+  },
+  {
+   "type": "mcq",
+   "q": "In a 4-mark listening question, how many separate points should you aim to give?",
+   "options": [
+    "1",
+    "2",
+    "4",
+    "8"
+   ],
+   "answer": 2,
+   "why": "Roughly one point per mark, each with a musical term and evidence."
+  },
+  {
+   "type": "short",
+   "q": "Give two things you should do to answer a listening question well.",
+   "model": "Underline the element the question asks about, then use a specific musical term with evidence from the extract.",
+   "points": [
+    "read the question and identify the element",
+    "use correct terms with evidence"
+   ]
+  }
+ ]
+}

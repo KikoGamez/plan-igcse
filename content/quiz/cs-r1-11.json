@@ -1,0 +1,6 @@
+{"id":"cs-r1-11","questions":[
+{"type":"mcq","q":"Which device connects different networks together and directs packets to their destination?","options":["Switch","Modem","Router","Wireless access point"],"answer":2,"why":"A router connects networks and forwards packets using IP addresses. A switch only connects devices within one LAN."},
+{"type":"mcq","q":"What does DNS do?","options":["Translates a domain name into an IP address","Encrypts web pages","Splits data into packets","Blocks unauthorised traffic"],"answer":0,"why":"The domain name system translates domain names such as www.example.com into IP addresses."},
+{"type":"mcq","q":"Which protocol is used to send an email from a client to a mail server?","options":["POP3","IMAP","FTP","SMTP"],"answer":3,"why":"SMTP sends email. POP3 and IMAP are used to receive or access email."},
+{"type":"short","q":"Describe one advantage and one disadvantage of a star topology.","model":"Advantage: each device has its own cable to the central switch, so a cable failure affects only that device and devices are easy to add. Disadvantage: if the central switch fails, the whole network stops working.","points":["advantage: failure of one cable only affects one device / easy to add devices / good performance","disadvantage: central switch is a single point of failure / needs more cable"]}
+]}

@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-05",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which energy system uses phosphocreatine and makes no lactic acid?",
+   "options": [
+    "Aerobic",
+    "Lactic acid",
+    "ATP-PC",
+    "Glycolysis"
+   ],
+   "answer": 2,
+   "why": "The ATP-PC system uses stored phosphocreatine without oxygen and produces no lactic acid."
+  },
+  {
+   "type": "mcq",
+   "q": "What are the by-products of the aerobic system?",
+   "options": [
+    "Lactic acid and water",
+    "Carbon dioxide and water",
+    "Carbon dioxide and lactic acid",
+    "Oxygen and water"
+   ],
+   "answer": 1,
+   "why": "Glucose and oxygen produce ATP, carbon dioxide and water."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a long-term effect of regular aerobic training?",
+   "options": [
+    "Lower resting heart rate",
+    "Higher resting heart rate",
+    "Lower stroke volume",
+    "Smaller heart"
+   ],
+   "answer": 0,
+   "why": "Stroke volume rises so fewer beats are needed at rest."
+  },
+  {
+   "type": "short",
+   "q": "Explain what EPOC is and why it is higher after a sprint than after a gentle jog.",
+   "model": "EPOC is the extra oxygen taken in after exercise to restore the body to its resting state. After a sprint, more anaerobic work was done, so there is more lactic acid to remove and more ATP/PC to restore.",
+   "points": [
+    "EPOC = extra oxygen after exercise to recover",
+    "greater anaerobic work / more lactic acid to remove after sprint"
+   ]
+  }
+ ]
+}

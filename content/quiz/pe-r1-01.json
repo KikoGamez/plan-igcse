@@ -1,0 +1,51 @@
+{
+ "id": "pe-r1-01",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which bones protect the heart and lungs?",
+   "options": [
+    "Vertebrae",
+    "Ribs",
+    "Pelvis",
+    "Scapula"
+   ],
+   "answer": 1,
+   "why": "The ribs form a cage around the heart and lungs."
+  },
+  {
+   "type": "mcq",
+   "q": "What joins muscle to bone?",
+   "options": [
+    "Ligament",
+    "Cartilage",
+    "Tendon",
+    "Synovial membrane"
+   ],
+   "answer": 2,
+   "why": "Tendons join muscle to bone; ligaments join bone to bone."
+  },
+  {
+   "type": "mcq",
+   "q": "A footballer straightens the knee to kick. What is this movement?",
+   "options": [
+    "Flexion",
+    "Extension",
+    "Abduction",
+    "Circumduction"
+   ],
+   "answer": 1,
+   "why": "Extension increases the angle at the joint."
+  },
+  {
+   "type": "short",
+   "q": "State two functions of the skeleton, each with a sporting example.",
+   "model": "Protection: the cranium protects the brain when a cyclist falls. Movement: bones act as levers so a footballer can kick a ball.",
+   "points": [
+    "function named (e.g. protection, support, movement, blood cell production, mineral storage)",
+    "linked to a correct sporting example",
+    "second function with example"
+   ]
+  }
+ ]
+}

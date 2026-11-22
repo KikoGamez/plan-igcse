@@ -1,0 +1,160 @@
+{
+ "id": "music-r1-09",
+ "cards": [
+  {
+   "f": "Raga",
+   "b": "Framework of notes and rules for melody and improvisation in Indian classical music, linked to a mood."
+  },
+  {
+   "f": "Tala",
+   "b": "Repeating rhythmic cycle in Indian music, e.g. Tintal (16 beats)."
+  },
+  {
+   "f": "Drone",
+   "b": "Sustained note(s), usually tonic and fifth, e.g. tanpura."
+  },
+  {
+   "f": "Alap",
+   "b": "Slow, free, unmetred opening of an Indian raga performance."
+  },
+  {
+   "f": "Polyrhythm",
+   "b": "Two or more different rhythms played at once."
+  },
+  {
+   "f": "Call and response",
+   "b": "Leader's phrase answered by a group."
+  },
+  {
+   "f": "Djembe",
+   "b": "West African hand drum played with the palms."
+  },
+  {
+   "f": "Jig",
+   "b": "Irish dance tune in 6/8."
+  },
+  {
+   "f": "Reel",
+   "b": "Irish dance tune in fast 4/4."
+  },
+  {
+   "f": "Bodhrán",
+   "b": "Irish frame drum played with a stick."
+  },
+  {
+   "f": "Sean-nós",
+   "b": "Ornamented, unaccompanied Irish singing."
+  },
+  {
+   "f": "Gamelan",
+   "b": "Indonesian ensemble of metallophones, gongs and drums."
+  },
+  {
+   "f": "Slendro and pelog",
+   "b": "Gamelan scales: slendro 5 near-equal notes; pelog 7 unequal notes."
+  },
+  {
+   "f": "Batucada",
+   "b": "Brazilian samba percussion ensemble (surdo, caixa, tamborim)."
+  },
+  {
+   "f": "Fusion",
+   "b": "A blend of two or more musical traditions."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A rhythmic cycle in Indian music is a ___.",
+   "a": [
+    "tala",
+    "taal"
+   ]
+  },
+  {
+   "s": "The tanpura plays a continuous ___.",
+   "a": [
+    "drone"
+   ]
+  },
+  {
+   "s": "Several rhythms played together is called ___.",
+   "a": [
+    "polyrhythm",
+    "polyrhythms"
+   ]
+  },
+  {
+   "s": "An Irish dance tune in 6/8 is a ___.",
+   "a": [
+    "jig"
+   ]
+  },
+  {
+   "s": "The Irish frame drum is the ___.",
+   "a": [
+    "bodhran",
+    "bodhrán"
+   ]
+  },
+  {
+   "s": "The two gamelan scales are slendro and ___.",
+   "a": [
+    "pelog"
+   ]
+  },
+  {
+   "s": "Different decorated versions of the same melody at once is called ___.",
+   "a": [
+    "heterophony"
+   ]
+  },
+  {
+   "s": "Brazilian samba percussion groups are called ___.",
+   "a": [
+    "batucada"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the difference between a raga and a tala.",
+   "model": "A raga is the melodic framework of notes and rules; a tala is the repeating rhythmic cycle.",
+   "points": [
+    "Raga = melody",
+    "Tala = rhythm"
+   ]
+  },
+  {
+   "q": "Describe the structure of a typical gamelan piece.",
+   "model": "A repeating cycle marked by gongs (colotomic), with interlocking parts on metallophones and heterophonic decoration of a core melody.",
+   "points": [
+    "Colotomic gong cycle",
+    "Interlocking/heterophony"
+   ]
+  },
+  {
+   "q": "Give two features of samba.",
+   "model": "Fast syncopated 2/4 rhythm played by a batucada of surdo, caixa and tamborim, often with call and response.",
+   "points": [
+    "Syncopated 2/4",
+    "Batucada percussion"
+   ]
+  },
+  {
+   "q": "Explain why polyrhythm is important in West African music.",
+   "model": "It builds a rich texture from interlocking drum parts, over which the master drummer improvises for dancers.",
+   "points": [
+    "Layered patterns",
+    "Improvisation over ostinati"
+   ]
+  },
+  {
+   "q": "Describe how a fusion piece can combine two traditions.",
+   "model": "It can use traditional instruments of each tradition, rhythms from one with melodies from the other, and electronic beats, e.g. Irish fiddle with African drumming.",
+   "points": [
+    "Instruments from both",
+    "Described combination"
+   ]
+  }
+ ]
+}

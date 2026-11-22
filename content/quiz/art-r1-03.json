@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-03",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which statement best describes a primary source?",
+   "options": [
+    "An image from a website",
+    "A drawing or photo you made yourself from direct experience",
+    "A page from an art book",
+    "A museum catalogue"
+   ],
+   "answer": 1,
+   "why": "Primary sources are first-hand: your own drawings and photos."
+  },
+  {
+   "type": "mcq",
+   "q": "Why measure with a pencil at arm's length?",
+   "options": [
+    "To make lines darker",
+    "To compare proportions accurately",
+    "To blend tone",
+    "To scale up a grid"
+   ],
+   "answer": 1,
+   "why": "Arm's length measuring lets you compare sizes of parts of the object."
+  },
+  {
+   "type": "mcq",
+   "q": "In AO3, the phrase 'as work progresses' means",
+   "options": [
+    "Only record at the start",
+    "Record only in the final piece",
+    "Keep recording throughout the project",
+    "Record after the exam"
+   ],
+   "answer": 2,
+   "why": "AO3 evidence should appear all through the project."
+  },
+  {
+   "type": "short",
+   "q": "Give two ways to make a photograph useful in your sketchbook.",
+   "model": "Take your own photos from varied angles and light, then draw from or crop and annotate them to show development.",
+   "points": [
+    "own photos with varied angle/light",
+    "draw from/annotate/develop them"
+   ]
+  }
+ ]
+}

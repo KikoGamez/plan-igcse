@@ -1,0 +1,159 @@
+{
+ "id": "geo-r1-11",
+ "cards": [
+  {
+   "f": "Globalisation",
+   "b": "The growing connection between countries through movement of goods, money, information and people."
+  },
+  {
+   "f": "Commodity chain",
+   "b": "The stages a product passes through from raw materials to the consumer, often across several countries."
+  },
+  {
+   "f": "Six factors encouraging globalisation",
+   "b": "Trade, foreign investment, aid, labour, modern transport and information technology."
+  },
+  {
+   "f": "WTO",
+   "b": "World Trade Organization: sets rules for international trade, settles disputes and encourages lower trade barriers."
+  },
+  {
+   "f": "IMF",
+   "b": "International Monetary Fund: lends money to countries in difficulty (with conditions) and promotes financial stability."
+  },
+  {
+   "f": "TNC",
+   "b": "Transnational corporation: a company operating in more than one country, e.g. Apple or Nike."
+  },
+  {
+   "f": "Benefits of a TNC to the host country",
+   "b": "Jobs, training, tax income, infrastructure, technology and a positive multiplier effect."
+  },
+  {
+   "f": "Costs of a TNC to the host country",
+   "b": "Profits sent abroad, low wages or poor conditions, environmental damage and loss of local firms."
+  },
+  {
+   "f": "Voluntary v forced migration",
+   "b": "Voluntary: people choose to move (e.g. work). Forced: people must leave (e.g. war, refugees)."
+  },
+  {
+   "f": "Push and pull factors",
+   "b": "Push: reasons to leave, e.g. unemployment, conflict. Pull: attractions, e.g. jobs, safety, better services."
+  },
+  {
+   "f": "Remittances",
+   "b": "Money migrants send home to their families."
+  },
+  {
+   "f": "Brain drain",
+   "b": "Loss of educated and skilled workers from a country to another."
+  },
+  {
+   "f": "Mass tourism",
+   "b": "Large numbers of people visiting the same popular places, often on package holidays."
+  },
+  {
+   "f": "Ecotourism",
+   "b": "Responsible tourism with low environmental impact that benefits local people."
+  },
+  {
+   "f": "How geopolitics affects tourism and trade",
+   "b": "Agreements and visa-free travel increase them; sanctions, tariffs, conflict or travel bans reduce them."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A company that operates in many countries is a ___ corporation.",
+   "a": [
+    "transnational",
+    "multinational"
+   ]
+  },
+  {
+   "s": "The ___ lends money to countries and promotes financial stability.",
+   "a": [
+    "IMF",
+    "International Monetary Fund"
+   ]
+  },
+  {
+   "s": "The WTO sets rules for international ___.",
+   "a": [
+    "trade"
+   ]
+  },
+  {
+   "s": "Money sent home by migrants is called ___.",
+   "a": [
+    "remittances"
+   ]
+  },
+  {
+   "s": "The loss of skilled workers from a country is ___ drain.",
+   "a": [
+    "brain"
+   ]
+  },
+  {
+   "s": "Refugees fleeing war are an example of ___ migration.",
+   "a": [
+    "forced"
+   ]
+  },
+  {
+   "s": "Tourism that protects the environment and helps local people is ___.",
+   "a": [
+    "ecotourism"
+   ]
+  },
+  {
+   "s": "Profits from tourism that go to foreign companies are called ___.",
+   "a": [
+    "leakage"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain two factors that have contributed to a more globalised economy.",
+   "model": "Modern transport such as container ships cuts costs of trade, and information technology lets firms manage global supply chains instantly.",
+   "points": [
+    "factor one developed",
+    "factor two developed"
+   ]
+  },
+  {
+   "q": "Explain one positive and one negative impact of migration on a destination country.",
+   "model": "Positive: fills labour shortages and migrants pay taxes. Negative: pressure on housing and public services.",
+   "points": [
+    "positive developed",
+    "negative developed"
+   ]
+  },
+  {
+   "q": "Explain how geopolitical relationships can affect tourism.",
+   "model": "Visa-free agreements make travel easy so tourism grows, while conflict or travel warnings between countries reduce visitor numbers.",
+   "points": [
+    "positive effect",
+    "negative effect or mechanism"
+   ]
+  },
+  {
+   "q": "Describe two ways tourism can be made more sustainable.",
+   "model": "Limit visitor numbers or charge entry fees to reduce damage; use locally owned accommodation so more income stays in the community.",
+   "points": [
+    "method one",
+    "method two"
+   ]
+  },
+  {
+   "q": "Suggest two reasons for the pattern of a TNC building factories in emerging countries.",
+   "model": "Labour is cheaper and trade barriers are lower, so production costs are less and goods can be exported.",
+   "points": [
+    "cheap labour",
+    "low costs or market/trade"
+   ]
+  }
+ ]
+}

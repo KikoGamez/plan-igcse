@@ -1,0 +1,158 @@
+{
+ "id": "geo-r1-10",
+ "cards": [
+  {
+   "f": "Urban challenges in a developed country",
+   "b": "Food, energy, transport and waste demands, concentrated resource consumption and segregation."
+  },
+  {
+   "f": "Urban challenges in a developing/emerging city",
+   "b": "Squatter settlements, informal economy, urban pollution and low quality of life."
+  },
+  {
+   "f": "Squatter settlement",
+   "b": "Housing built informally on land not owned, with makeshift materials and few services such as water and sanitation."
+  },
+  {
+   "f": "Greenfield site",
+   "b": "Land never built on before, usually on the edge of a city; cheap but loses countryside."
+  },
+  {
+   "f": "Brownfield site",
+   "b": "Land previously built on, now derelict; has existing services and protects countryside but may be contaminated."
+  },
+  {
+   "f": "Rural-urban fringe",
+   "b": "Edge of the city where housing estates, retail and business parks, and industrial estates are developed."
+  },
+  {
+   "f": "Segregation",
+   "b": "The separation of social, ethnic or income groups into different parts of a city."
+  },
+  {
+   "f": "Sustainable city",
+   "b": "Meets present needs without damaging the environment or the ability of future generations to meet theirs."
+  },
+  {
+   "f": "Six areas for improving urban quality of life",
+   "b": "Waste disposal, transport, education, health, employment and housing."
+  },
+  {
+   "f": "Self-help scheme",
+   "b": "Residents build or improve their own homes with materials and help from authorities, so it is cheaper."
+  },
+  {
+   "f": "Curitiba transport example",
+   "b": "Bus rapid transit with dedicated lanes and tube stations: cheap, fast and reduces car use."
+  },
+  {
+   "f": "London congestion charge",
+   "b": "Introduced 2003; drivers pay to enter the central zone, reducing traffic and funding public transport."
+  },
+  {
+   "f": "Role of planners",
+   "b": "Decide land use, zoning and protect green belt; balance competing needs."
+  },
+  {
+   "f": "Role of property developers",
+   "b": "Build homes, offices and shops for profit; often prefer cheaper greenfield sites."
+  },
+  {
+   "f": "Environmental quality survey",
+   "b": "Scoring sites for factors such as litter, noise, traffic and greenery to compare environmental quality."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Land that has never been built on is a ___ site.",
+   "a": [
+    "greenfield"
+   ]
+  },
+  {
+   "s": "Derelict land that has been built on before is a ___ site.",
+   "a": [
+    "brownfield"
+   ]
+  },
+  {
+   "s": "Housing built illegally without services is a ___ settlement.",
+   "a": [
+    "squatter"
+   ]
+  },
+  {
+   "s": "The separation of different social groups into different areas is called ___.",
+   "a": [
+    "segregation"
+   ]
+  },
+  {
+   "s": "Curitiba is known for its bus ___ transit system.",
+   "a": [
+    "rapid"
+   ]
+  },
+  {
+   "s": "The London ___ charge was introduced in 2003.",
+   "a": [
+    "congestion"
+   ]
+  },
+  {
+   "s": "The edge of a city where it meets the countryside is the rural-urban ___.",
+   "a": [
+    "fringe"
+   ]
+  },
+  {
+   "s": "A city that meets needs now without harming the future is ___.",
+   "a": [
+    "sustainable"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why brownfield development is preferred to greenfield development.",
+   "model": "It reuses land with roads and services and protects countryside from urban sprawl, while regenerating run-down areas.",
+   "points": [
+    "protects countryside/green belt",
+    "existing infrastructure or regeneration"
+   ]
+  },
+  {
+   "q": "For a named developing or emerging city, explain two challenges.",
+   "model": "Mumbai has squatter settlements with no sanitation causing disease, and traffic and factory pollution that cause poor air quality.",
+   "points": [
+    "challenge one developed",
+    "challenge two developed",
+    "named city"
+   ]
+  },
+  {
+   "q": "Explain how self-help schemes improve squatter settlements.",
+   "model": "Residents get materials and services, and build safer homes themselves, which is cheaper and gives them security.",
+   "points": [
+    "residents build with support",
+    "improved housing/services"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of a congestion charge.",
+   "model": "Advantage: reduces traffic and pollution in the centre. Disadvantage: affects low-income drivers and may push traffic to roads outside the zone.",
+   "points": [
+    "advantage developed",
+    "disadvantage developed"
+   ]
+  },
+  {
+   "q": "Describe the roles of two groups in managing urban change.",
+   "model": "Planners decide land use and protect green belt; developers build homes and shops for profit, so they may want cheaper greenfield land.",
+   "points": [
+    "group one role",
+    "group two role"
+   ]
+  }
+ ]
+}

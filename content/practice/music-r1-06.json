@@ -1,0 +1,160 @@
+{
+ "id": "music-r1-06",
+ "cards": [
+  {
+   "f": "Timbre",
+   "b": "The tone colour or quality of a sound."
+  },
+  {
+   "f": "Arco",
+   "b": "Played with the bow."
+  },
+  {
+   "f": "Pizzicato",
+   "b": "Plucked strings."
+  },
+  {
+   "f": "Tremolo",
+   "b": "Very fast repeated bow strokes or note repetition."
+  },
+  {
+   "f": "Col legno",
+   "b": "Hitting the strings with the wood of the bow."
+  },
+  {
+   "f": "Con sordino",
+   "b": "With a mute."
+  },
+  {
+   "f": "Double reed instruments",
+   "b": "Oboe, cor anglais, bassoon."
+  },
+  {
+   "f": "Single reed instruments",
+   "b": "Clarinet and saxophone."
+  },
+  {
+   "f": "How brass players make sound",
+   "b": "By buzzing their lips into a mouthpiece."
+  },
+  {
+   "f": "Tuned percussion",
+   "b": "Timpani, xylophone, glockenspiel, marimba, vibraphone."
+  },
+  {
+   "f": "Falsetto",
+   "b": "A light high register used by male singers above their normal range."
+  },
+  {
+   "f": "Melisma",
+   "b": "Many notes sung to one syllable."
+  },
+  {
+   "f": "Scat singing",
+   "b": "Improvised vocals using nonsense syllables."
+  },
+  {
+   "f": "Sampling",
+   "b": "Taking a short recorded sound and reusing it."
+  },
+  {
+   "f": "MIDI",
+   "b": "A digital system that lets instruments and computers send note information."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Plucked strings are played ___.",
+   "a": [
+    "pizzicato"
+   ]
+  },
+  {
+   "s": "A nasal double-reed woodwind is the ___.",
+   "a": [
+    "oboe"
+   ]
+  },
+  {
+   "s": "The lowest orchestral string instrument is the double ___.",
+   "a": [
+    "bass"
+   ]
+  },
+  {
+   "s": "Singing many notes on one syllable is called ___.",
+   "a": [
+    "melisma",
+    "melismatic"
+   ]
+  },
+  {
+   "s": "Brass players make sound by buzzing their ___.",
+   "a": [
+    "lips"
+   ]
+  },
+  {
+   "s": "The highest female voice is the ___.",
+   "a": [
+    "soprano"
+   ]
+  },
+  {
+   "s": "Layering separately recorded parts is called ___-tracking.",
+   "a": [
+    "multi",
+    "multi-"
+   ]
+  },
+  {
+   "s": "The tone colour of an instrument is its ___.",
+   "a": [
+    "timbre",
+    "sonority"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how a clarinet produces sound.",
+   "model": "Air blown across a single reed makes it vibrate, and keys change the pitch.",
+   "points": [
+    "single reed",
+    "vibrates"
+   ]
+  },
+  {
+   "q": "Name two electric guitar effects.",
+   "model": "Distortion and reverb (also wah-wah, delay, chorus).",
+   "points": [
+    "effect one",
+    "effect two"
+   ]
+  },
+  {
+   "q": "Describe belting.",
+   "model": "A powerful chest voice used in musical theatre and pop, often at high pitch.",
+   "points": [
+    "powerful",
+    "chest voice"
+   ]
+  },
+  {
+   "q": "Explain looping.",
+   "model": "A section of sound or phrase is repeated continuously to form a groove.",
+   "points": [
+    "repeated",
+    "groove"
+   ]
+  },
+  {
+   "q": "Why can't a harpsichord change dynamics by touch?",
+   "model": "Its strings are plucked mechanically, so the volume stays the same however hard the key is pressed.",
+   "points": [
+    "plucked",
+    "same volume"
+   ]
+  }
+ ]
+}

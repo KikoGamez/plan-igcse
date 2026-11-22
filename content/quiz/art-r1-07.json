@@ -1,0 +1,52 @@
+{
+ "id": "art-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which best describes a primary source in art research?",
+   "options": [
+    "A biography of an artist from a website",
+    "A postcard of a painting",
+    "A drawing you make in front of an original artwork",
+    "A video documentary"
+   ],
+   "answer": 2,
+   "why": "Primary sources are first-hand: your own drawings, photos or seeing the original."
+  },
+  {
+   "type": "mcq",
+   "q": "What does AO1 ask you to show?",
+   "options": [
+    "Develop ideas through investigations, demonstrating critical understanding of sources",
+    "Present a personal response with a neat finish",
+    "Record observations only from life",
+    "Use as many materials as possible"
+   ],
+   "answer": 0,
+   "why": "This is the AO1 wording from the Pearson specification."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sketchbook page would earn the highest AO1 credit?",
+   "options": [
+    "A printed artist photo with a copied biography",
+    "A neat copy of a painting with no comment",
+    "Many pages with a different artist on each",
+    "A study of the artist's technique on your own subject, with analysis and a note on how it will influence your outcome"
+   ],
+   "answer": 3,
+   "why": "Critical understanding means analysing, testing and linking the source to your own intentions."
+  },
+  {
+   "type": "short",
+   "q": "Explain how you would use an artist's work to develop your own idea, not just copy it.",
+   "model": "I would study how the artist works (technique, palette, composition), try the technique on my own subject, evaluate what worked, and use it deliberately in my final piece.",
+   "points": [
+    "study/analyse the artist's technique or ideas",
+    "apply it to own subject/work",
+    "evaluate or judge the result",
+    "link to own intentions/final piece"
+   ]
+  }
+ ]
+}

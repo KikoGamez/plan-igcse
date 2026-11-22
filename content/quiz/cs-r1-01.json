@@ -1,0 +1,51 @@
+{
+ "id": "cs-r1-01",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which flowchart symbol is used for a decision?",
+   "options": [
+    "Rectangle",
+    "Diamond",
+    "Parallelogram",
+    "Oval"
+   ],
+   "answer": 1,
+   "why": "A diamond asks a yes/no question and has two labelled exits."
+  },
+  {
+   "type": "mcq",
+   "q": "Removing unnecessary detail so only the important features of a problem remain is called",
+   "options": [
+    "decomposition",
+    "iteration",
+    "abstraction",
+    "initialisation"
+   ],
+   "answer": 2,
+   "why": "Abstraction hides or removes detail that is not needed; decomposition splits the problem up."
+  },
+  {
+   "type": "mcq",
+   "q": "In Pearson pseudocode, which line stores 0 in the variable Total?",
+   "options": [
+    "Total = 0",
+    "SET Total TO 0",
+    "RECEIVE Total FROM KEYBOARD",
+    "Total <- 0 END"
+   ],
+   "answer": 1,
+   "why": "Pearson pseudocode assigns with SET … TO …; a bare = is a comparison."
+  },
+  {
+   "type": "short",
+   "q": "Give two benefits of decomposing a problem into smaller sub-problems.",
+   "model": "Each part is easier to understand and solve, and can be tested separately. Different people can work on different parts at the same time, and parts can be reused as subprograms.",
+   "points": [
+    "easier to understand/solve smaller parts",
+    "parts can be tested separately",
+    "can be shared between programmers / reused"
+   ]
+  }
+ ]
+}

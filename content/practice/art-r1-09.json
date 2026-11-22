@@ -1,0 +1,162 @@
+{
+ "id": "art-r1-09",
+ "cards": [
+  {
+   "f": "Renaissance",
+   "b": "1400s-1500s, Italy first. Realism, linear perspective, anatomy, balance. Leonardo, Michelangelo, Raphael."
+  },
+  {
+   "f": "Sfumato",
+   "b": "Soft, smoky blending with no hard outlines, used by Leonardo in the Mona Lisa."
+  },
+  {
+   "f": "Chiaroscuro",
+   "b": "Strong contrast of light and dark to create volume and drama."
+  },
+  {
+   "f": "Baroque",
+   "b": "1600s: drama, movement, rich colour and tenebrism. Caravaggio, Rembrandt, Velázquez."
+  },
+  {
+   "f": "Tenebrism",
+   "b": "Very dark shadows lit by a spotlight-like light; typical of Caravaggio."
+  },
+  {
+   "f": "Las Meninas",
+   "b": "Velázquez, c.1656, Prado Museum, Madrid."
+  },
+  {
+   "f": "Neoclassicism",
+   "b": "Late 1700s France. Order, clarity, classical subjects. Jacques-Louis David."
+  },
+  {
+   "f": "Romanticism",
+   "b": "Emotion, imagination, nature and the sublime. Turner, Delacroix, Friedrich, Goya."
+  },
+  {
+   "f": "The Third of May 1808",
+   "b": "Goya, 1814: protest against war and a firing squad; in the Prado."
+  },
+  {
+   "f": "Realism",
+   "b": "Mid-1800s France: ordinary people and workers, painted honestly. Courbet, Millet."
+  },
+  {
+   "f": "Impressionism",
+   "b": "1860s-80s France: light, plein air, broken brushstrokes, pure colour. Monet, Renoir, Degas, Morisot."
+  },
+  {
+   "f": "En plein air",
+   "b": "Painting outdoors, directly from the subject."
+  },
+  {
+   "f": "Impression, Sunrise",
+   "b": "Monet, 1872: the painting that gave Impressionism its name."
+  },
+  {
+   "f": "Post-Impressionism",
+   "b": "Artists after Impressionism seeking more feeling, structure or symbolism: Van Gogh, Cézanne, Seurat, Gauguin."
+  },
+  {
+   "f": "Pointillism",
+   "b": "Seurat's technique of tiny dots of pure colour that mix in the viewer's eye."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Painting outdoors is called en plein ___.",
+   "a": [
+    "air"
+   ]
+  },
+  {
+   "s": "Seurat's dot technique is called ___.",
+   "a": [
+    "pointillism",
+    "pointillist"
+   ]
+  },
+  {
+   "s": "Leonardo's soft blending technique is called ___.",
+   "a": [
+    "sfumato"
+   ]
+  },
+  {
+   "s": "The painter of Las Meninas is ___.",
+   "a": [
+    "velázquez",
+    "velazquez",
+    "diego velázquez",
+    "diego velazquez"
+   ]
+  },
+  {
+   "s": "The first Impressionist exhibition was held in Paris in ___.",
+   "a": [
+    "1874"
+   ]
+  },
+  {
+   "s": "Van Gogh painted The Starry ___.",
+   "a": [
+    "night"
+   ]
+  },
+  {
+   "s": "___ is very dark shadows with a spotlight effect, used by Caravaggio.",
+   "a": [
+    "tenebrism"
+   ]
+  },
+  {
+   "s": "Cézanne's use of multiple viewpoints was a step towards ___.",
+   "a": [
+    "cubism"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give two features of Renaissance painting and one artist.",
+   "model": "Linear perspective and realistic anatomy/balanced composition; e.g. Leonardo da Vinci.",
+   "points": [
+    "feature 1",
+    "feature 2",
+    "artist named"
+   ]
+  },
+  {
+   "q": "How does Post-Impressionism differ from Impressionism?",
+   "model": "Post-Impressionists focused on personal expression, structure or symbolism rather than only capturing light.",
+   "points": [
+    "personal expression/structure/symbolism",
+    "contrast with light/optical focus"
+   ]
+  },
+  {
+   "q": "Describe how you could use Caravaggio in a still life study.",
+   "model": "Light the objects with one lamp on dark paper and draw with charcoal and white chalk for strong light and shadow.",
+   "points": [
+    "single strong light source",
+    "dark background/high contrast"
+   ]
+  },
+  {
+   "q": "Name one Spanish artist from this period and one work.",
+   "model": "Goya, The Third of May 1808 (or Velázquez, Las Meninas).",
+   "points": [
+    "artist",
+    "work"
+   ]
+  },
+  {
+   "q": "Why is it important to include dates and titles on research pages?",
+   "model": "They show accurate knowledge and context so the work can be identified and analysed.",
+   "points": [
+    "accuracy",
+    "context/identification"
+   ]
+  }
+ ]
+}

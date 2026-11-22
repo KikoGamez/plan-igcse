@@ -1,0 +1,163 @@
+{
+ "id": "cs-r1-01",
+ "cards": [
+  {
+   "f": "Algorithm",
+   "b": "A set of step-by-step instructions that solves a problem or completes a task."
+  },
+  {
+   "f": "Decomposition",
+   "b": "Breaking a problem down into smaller, more manageable sub-problems."
+  },
+  {
+   "f": "Abstraction",
+   "b": "Removing or hiding unnecessary detail so only the important features remain, e.g. a tube map."
+  },
+  {
+   "f": "Three programming constructs",
+   "b": "Sequence (in order), selection (choose using a condition) and iteration (repeat in a loop)."
+  },
+  {
+   "f": "Inputs, outputs, processing, initialisation",
+   "b": "The four things to identify when analysing a problem: data in, results out, calculations/decisions, and starting values."
+  },
+  {
+   "f": "Flowchart: Start/End symbol",
+   "b": "A rounded box (terminator) marks the start and end of an algorithm."
+  },
+  {
+   "f": "Flowchart: process symbol",
+   "b": "A rectangle: an action or calculation, e.g. add 1 to Count."
+  },
+  {
+   "f": "Flowchart: decision symbol",
+   "b": "A diamond with two exits labelled Yes/No (True/False)."
+  },
+  {
+   "f": "Flowchart: input/output symbol",
+   "b": "A parallelogram."
+  },
+  {
+   "f": "Flowchart: subprocess symbol",
+   "b": "A rectangle with double side lines: a step defined in a separate flowchart."
+  },
+  {
+   "f": "Pearson pseudocode: output",
+   "b": "SEND 'Hello' TO DISPLAY"
+  },
+  {
+   "f": "Pearson pseudocode: input",
+   "b": "RECEIVE Age FROM (INTEGER) KEYBOARD"
+  },
+  {
+   "f": "Pearson pseudocode: counted loop",
+   "b": "FOR Index FROM 1 TO 10 DO … END FOR (both ends included; optional STEP)."
+  },
+  {
+   "f": "Why initialise a total to 0?",
+   "b": "Otherwise it starts with an unknown value and every later total is wrong."
+  },
+  {
+   "f": "Fit for purpose",
+   "b": "An algorithm that meets the stated requirements, gives correct output for valid data and works efficiently."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "An algorithm is a set of ___ instructions that solves a problem.",
+   "a": [
+    "step-by-step",
+    "step by step",
+    "ordered"
+   ]
+  },
+  {
+   "s": "Breaking a large problem into smaller sub-problems is called ___.",
+   "a": [
+    "decomposition"
+   ]
+  },
+  {
+   "s": "Hiding unnecessary detail to keep only what matters is called ___.",
+   "a": [
+    "abstraction"
+   ]
+  },
+  {
+   "s": "A diamond in a flowchart shows a ___.",
+   "a": [
+    "decision"
+   ]
+  },
+  {
+   "s": "In Pearson pseudocode a comment starts with the ___ symbol.",
+   "a": [
+    "#",
+    "hash"
+   ]
+  },
+  {
+   "s": "The three constructs are sequence, selection and ___.",
+   "a": [
+    "iteration",
+    "repetition"
+   ]
+  },
+  {
+   "s": "Giving a variable its starting value is called ___.",
+   "a": [
+    "initialisation",
+    "initialization"
+   ]
+  },
+  {
+   "s": "A rectangle with double side lines in a flowchart represents a ___.",
+   "a": [
+    "subprocess",
+    "subprogram"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain what is meant by abstraction and give an example.",
+   "model": "Abstraction removes unnecessary detail so only the important features are kept. For example, a tube map shows stations and links but not real distances or streets.",
+   "points": [
+    "removing/hiding unnecessary detail",
+    "valid example"
+   ]
+  },
+  {
+   "q": "A program must run a quiz. Describe how decomposition could be used.",
+   "model": "Split it into smaller tasks such as choosing questions, asking each question, checking the answer and showing the score. Each task can be written and tested as its own subprogram.",
+   "points": [
+    "splits into smaller sub-problems (two named)",
+    "each can be a separate subprogram/tested separately"
+   ]
+  },
+  {
+   "q": "State what this does: SET T TO 0, RECEIVE N, WHILE N <> 0 add N to T and RECEIVE N again, then SEND T.",
+   "model": "It adds up the numbers entered until the user enters 0, then displays the total.",
+   "points": [
+    "adds the numbers entered",
+    "stops at 0 and displays the total"
+   ]
+  },
+  {
+   "q": "Write pseudocode to display 'Adult' if Age is 18 or more, otherwise 'Child'.",
+   "model": "IF Age >= 18 THEN SEND 'Adult' TO DISPLAY ELSE SEND 'Child' TO DISPLAY END IF.",
+   "points": [
+    "correct condition Age >= 18",
+    "correct output in both branches using ELSE"
+   ]
+  },
+  {
+   "q": "A program should average 5 marks but the loop runs FOR Index FROM 1 TO 4 and Total is never set to 0. Give two errors.",
+   "model": "The loop runs only 4 times instead of 5, and Total is not initialised to 0 before the loop.",
+   "points": [
+    "loop count wrong (should be 1 TO 5)",
+    "total not initialised to 0"
+   ]
+  }
+ ]
+}

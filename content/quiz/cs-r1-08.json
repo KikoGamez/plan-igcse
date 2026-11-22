@@ -1,0 +1,6 @@
+{"id":"cs-r1-08","questions":[
+{"type":"mcq","q":"A bitmap image uses 4 bits per pixel. How many different colours can it show?","options":["4","8","16","32"],"answer":2,"why":"Number of colours = 2^colour depth = 2⁴ = 16."},
+{"type":"mcq","q":"How many bytes are in one mebibyte (MiB)?","options":["1 000 000","1 048 576","1 024","1 073 741 824"],"answer":1,"why":"1 MiB = 1024 KiB = 1024 × 1024 = 1 048 576 bytes. A megabyte (MB) is 1 000 000 bytes."},
+{"type":"mcq","q":"Which is an example of a LOSSY compression format?","options":["ZIP","PNG","Run-length encoding","MP3"],"answer":3,"why":"MP3 (sound) and JPEG (images) permanently remove data. ZIP, PNG and RLE are lossless."},
+{"type":"short","q":"A sound file is recorded with a sample rate of 8000 Hz and a bit depth of 8 bits for 20 seconds (mono). Calculate the file size in bytes.","model":"8000 × 8 × 20 = 1 280 000 bits. Divide by 8 to get 160 000 bytes.","points":["8000 × 8 × 20 = 1 280 000 bits","÷ 8 = 160 000 bytes"]}
+]}

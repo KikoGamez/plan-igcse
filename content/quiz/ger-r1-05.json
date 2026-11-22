@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-05",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Choose the correct sentence.",
+   "options": [
+    "Ich sehe der Lehrer.",
+    "Ich sehe den Lehrer.",
+    "Ich sehe dem Lehrer.",
+    "Ich sehe des Lehrers."
+   ],
+   "answer": 1,
+   "why": "Direct object, masculine: accusative den."
+  },
+  {
+   "type": "mcq",
+   "q": "'Ich gehe in ___ Stadt' and 'Ich wohne in ___ Stadt':",
+   "options": [
+    "die / der",
+    "der / die",
+    "die / die",
+    "der / der"
+   ],
+   "answer": 0,
+   "why": "Movement into the town takes the accusative (die); location takes the dative (der)."
+  },
+  {
+   "type": "mcq",
+   "q": "Complete: Ich habe einen ___ Computer.",
+   "options": [
+    "neu",
+    "neuen",
+    "neuer",
+    "neues"
+   ],
+   "answer": 1,
+   "why": "Masculine accusative after einen: neuen."
+  },
+  {
+   "type": "short",
+   "q": "Translate: 'Because of the bad weather we stayed at home with our old dog.'",
+   "model": "Wegen des schlechten Wetters sind wir mit unserem alten Hund zu Hause geblieben.",
+   "points": [
+    "wegen + genitive (des schlechten Wetters)",
+    "mit + dative (unserem alten Hund)",
+    "sind ... geblieben"
+   ]
+  }
+ ]
+}

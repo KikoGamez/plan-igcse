@@ -1,0 +1,158 @@
+{
+ "id": "music-r1-12",
+ "cards": [
+  {
+   "f": "Performing weighting",
+   "b": "30% of the course (60 marks): solo 30 + ensemble 30."
+  },
+  {
+   "f": "Composing weighting",
+   "b": "30% of the course (60 marks): brief 30 + free 30."
+  },
+  {
+   "f": "Minimum performing time",
+   "b": "About 4 minutes in total (check with your teacher)."
+  },
+  {
+   "f": "Minimum composing time",
+   "b": "About 3 minutes in total (check with your teacher)."
+  },
+  {
+   "f": "Performing criteria",
+   "b": "Accuracy, fluency, expression/interpretation and technical demand."
+  },
+  {
+   "f": "Fluency",
+   "b": "Playing without hesitation and with a steady pulse."
+  },
+  {
+   "f": "Motif",
+   "b": "A short musical idea that can be developed."
+  },
+  {
+   "f": "Sequence",
+   "b": "A pattern repeated at a higher or lower pitch."
+  },
+  {
+   "f": "Ways to develop a motif",
+   "b": "Sequence, change rhythm, change key, inversion, new instrument, countermelody."
+  },
+  {
+   "f": "Lead sheet",
+   "b": "Melody, chords and lyrics notated."
+  },
+  {
+   "f": "Brief",
+   "b": "The task set by the exam board for one composition."
+  },
+  {
+   "f": "Ternary form",
+   "b": "A–B–A: theme, contrast, return."
+  },
+  {
+   "f": "Ensemble skills",
+   "b": "Timing together, balance, listening, cueing."
+  },
+  {
+   "f": "Structure in composition",
+   "b": "A clear plan with sections that contrast and link."
+  },
+  {
+   "f": "Finish early",
+   "b": "Leave a week to re-record and check the score."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Performing is worth ___ percent of the course.",
+   "a": [
+    "30",
+    "thirty"
+   ]
+  },
+  {
+   "s": "A short musical idea that is developed is a ___.",
+   "a": [
+    "motif"
+   ]
+  },
+  {
+   "s": "A pattern repeated at a different pitch is a ___.",
+   "a": [
+    "sequence"
+   ]
+  },
+  {
+   "s": "A–B–A form is called ___ form.",
+   "a": [
+    "ternary"
+   ]
+  },
+  {
+   "s": "Playing without hesitation is called ___.",
+   "a": [
+    "fluency"
+   ]
+  },
+  {
+   "s": "The task set by the board for one composition is the ___.",
+   "a": [
+    "brief"
+   ]
+  },
+  {
+   "s": "A score showing melody, chords and lyrics is a ___ sheet.",
+   "a": [
+    "lead"
+   ]
+  },
+  {
+   "s": "Dynamics and phrasing show expression and ___.",
+   "a": [
+    "interpretation"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Why is it better to choose a performance piece you can play well rather than one that is far too hard?",
+   "model": "Accuracy and fluency carry many marks; a piece played securely with expression scores higher than a harder piece full of errors.",
+   "points": [
+    "Accuracy/fluency",
+    "Expression"
+   ]
+  },
+  {
+   "q": "Describe how to plan a composition to a brief.",
+   "model": "Read the brief, choose key words, write a motif, plan a structure, develop it, and notate and record it with time to check.",
+   "points": [
+    "Read brief",
+    "Structure and development"
+   ]
+  },
+  {
+   "q": "List three ways to develop a melody.",
+   "model": "Sequence, change rhythm, change key, invert it, change the instrument or texture.",
+   "points": [
+    "Two correct techniques",
+    "Third correct technique"
+   ]
+  },
+  {
+   "q": "How can an ensemble performer earn high marks?",
+   "model": "Keep time with the others, balance dynamics, listen, give clear cues and play a significant part.",
+   "points": [
+    "Timing/balance",
+    "Listening/cues"
+   ]
+  },
+  {
+   "q": "What should you check before submitting a composition?",
+   "model": "The recording matches the score, the length is long enough, dynamics and tempo are marked, and the brief is answered.",
+   "points": [
+    "Score matches recording",
+    "Length/brief"
+   ]
+  }
+ ]
+}

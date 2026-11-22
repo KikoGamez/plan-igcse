@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-09",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "You hear: 'Der Film beginnt um halb acht.' What time is that?",
+   "options": [
+    "8.30",
+    "7.30",
+    "7.15",
+    "8.15"
+   ],
+   "answer": 1,
+   "why": "halb acht = half an hour before eight = 7.30."
+  },
+  {
+   "type": "mcq",
+   "q": "You hear: 'Ich wollte nach Spanien fahren, aber wir fahren jetzt nach Italien.' Where are they going?",
+   "options": [
+    "Spain",
+    "Italy",
+    "Germany",
+    "Austria"
+   ],
+   "answer": 1,
+   "why": "The real answer comes after 'aber': Italy."
+  },
+  {
+   "type": "mcq",
+   "q": "Which number is 'sechzig'?",
+   "options": [
+    "16",
+    "60",
+    "66",
+    "6"
+   ],
+   "answer": 1,
+   "why": "sechzehn = 16; sechzig = 60."
+  },
+  {
+   "type": "short",
+   "q": "A speaker says: 'Ich habe zwei Wochen in Spanien verbracht. Es war zu heiß, deshalb bin ich oft im Hotel geblieben.' How long was the holiday and why did she stay in the hotel?",
+   "model": "Two weeks; it was too hot.",
+   "points": [
+    "two weeks",
+    "too hot"
+   ]
+  }
+ ]
+}

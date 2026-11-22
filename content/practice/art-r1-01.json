@@ -1,0 +1,164 @@
+{
+ "id": "art-r1-01",
+ "cards": [
+  {
+   "f": "AO1",
+   "b": "Develop ideas through investigations, demonstrating critical understanding of sources."
+  },
+  {
+   "f": "AO2",
+   "b": "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes."
+  },
+  {
+   "f": "AO3",
+   "b": "Record ideas, observations and insights relevant to intentions as work progresses."
+  },
+  {
+   "f": "AO4",
+   "b": "Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language."
+  },
+  {
+   "f": "Component 1",
+   "b": "Personal Portfolio. One project from the course. 72 marks, 50%."
+  },
+  {
+   "f": "Component 2",
+   "b": "Externally Set Assignment: Pearson theme, preparatory studies, then a 10-hour supervised exam. 72 marks, 50%."
+  },
+  {
+   "f": "Marks per AO",
+   "b": "Each AO is marked out of 18. Four AOs make 72 marks per component."
+  },
+  {
+   "f": "Mark band 3 descriptor",
+   "b": "Emerging competent ability; generally adequate but safe (7–9 marks per AO)."
+  },
+  {
+   "f": "Mark band 6 descriptor",
+   "b": "Exceptional ability: in depth, perceptive and accomplished throughout (16–18 marks per AO)."
+  },
+  {
+   "f": "Preparatory studies",
+   "b": "Development work before the final piece. In Component 2, mounted on three A2 sheets, one side, no overlapping. Essential: marks are lost if missing."
+  },
+  {
+   "f": "Who marks the work?",
+   "b": "Pearson examiners, using one assessment grid. Your teacher does not mark it."
+  },
+  {
+   "f": "Is written annotation required?",
+   "b": "No. If used, it must support the visual work, not replace it, and use correct subject language."
+  },
+  {
+   "f": "Endorsed titles",
+   "b": "Fine Art, Graphic Communication, Photography, Textile Design, Three-dimensional Design."
+  },
+  {
+   "f": "What help may a teacher give in the 10-hour exam?",
+   "b": "Technical help only (space, materials, equipment). No direction or demonstration."
+  },
+  {
+   "f": "Why is 'ideas consolidated too early' a weakness?",
+   "b": "You stopped exploring too soon, so there are few experiments, little review and the idea is not fully realised (AO2)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The Personal Portfolio is Component ___.",
+   "a": [
+    "1",
+    "one"
+   ]
+  },
+  {
+   "s": "Each assessment objective is marked out of ___.",
+   "a": [
+    "18",
+    "eighteen"
+   ]
+  },
+  {
+   "s": "The externally set assignment exam lasts ___ hours.",
+   "a": [
+    "10",
+    "ten"
+   ]
+  },
+  {
+   "s": "Recording from observation is assessed in AO___.",
+   "a": [
+    "3",
+    "three"
+   ]
+  },
+  {
+   "s": "Experimenting with media is assessed in AO___.",
+   "a": [
+    "2",
+    "two"
+   ]
+  },
+  {
+   "s": "Preparatory studies are mounted on three sheets of ___ paper.",
+   "a": [
+    "A2"
+   ]
+  },
+  {
+   "s": "Each component is worth ___ marks.",
+   "a": [
+    "72",
+    "seventy-two",
+    "seventy two"
+   ]
+  },
+  {
+   "s": "Mark band 3 is described as emerging ___ ability.",
+   "a": [
+    "competent"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe what AO1 rewards.",
+   "model": "It rewards developing ideas through investigating real sources, such as artists, and showing critical understanding of why they matter to your own idea.",
+   "points": [
+    "investigating sources/artists",
+    "critical understanding linked to own ideas"
+   ]
+  },
+  {
+   "q": "Explain why the preparatory studies matter in the externally set assignment.",
+   "model": "They are an essential part of the exam and show AO1–AO3. Marks are lost if they are not submitted.",
+   "points": [
+    "essential part of exam",
+    "evidence of AO1–AO3 / marks lost if missing"
+   ]
+  },
+  {
+   "q": "What does 'safe' mean in the Band 3 descriptor and how could you move up?",
+   "model": "It means staying in your comfort zone with simple, deliberate work. Take risks, try varied media and review and refine ideas.",
+   "points": [
+    "comfort zone / adequate only",
+    "more variety, experiment, review"
+   ]
+  },
+  {
+   "q": "State two rules for the 10-hour exam.",
+   "model": "It is under formal supervision, can be split over up to four sessions in three weeks, and teachers give technical help only.",
+   "points": [
+    "formal supervision",
+    "max four sessions / no teacher direction"
+   ]
+  },
+  {
+   "q": "A final piece is excellent but the sketchbook is thin. Which AOs suffer?",
+   "model": "AO1, AO2 and AO3 suffer, because they are judged on development and recording; only AO4 mainly rewards the final piece.",
+   "points": [
+    "AO1, AO2, AO3 lack evidence",
+    "AO4 is about the final piece"
+   ]
+  }
+ ]
+}

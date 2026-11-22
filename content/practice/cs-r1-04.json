@@ -1,0 +1,168 @@
+{
+ "id": "cs-r1-04",
+ "cards": [
+  {
+   "f": "Variable",
+   "b": "A named location in memory holding a value that can change while the program runs."
+  },
+  {
+   "f": "Constant",
+   "b": "A named location holding a value that is set once and cannot change while the program runs."
+  },
+  {
+   "f": "Integer vs real",
+   "b": "Integer: whole number (7). Real: number with a fractional part (7.5)."
+  },
+  {
+   "f": "Character vs string",
+   "b": "Character: a single character ('A'). String: a sequence of characters ('Hello')."
+  },
+  {
+   "f": "Boolean",
+   "b": "A data type with two values only: True or False."
+  },
+  {
+   "f": "MOD and DIV",
+   "b": "MOD gives the remainder (17 MOD 5 = 2); DIV gives the whole-number result (17 DIV 5 = 3)."
+  },
+  {
+   "f": "Test if n is even",
+   "b": "n MOD 2 = 0 (Python: n % 2 == 0)."
+  },
+  {
+   "f": "Python: input as a whole number",
+   "b": "int(input('Age: ')). input() returns a string, so it must be converted."
+  },
+  {
+   "f": "Selection",
+   "b": "The program chooses which instructions to run depending on a condition (IF … ELSE)."
+  },
+  {
+   "f": "Count-controlled loop",
+   "b": "Repeats a set number of times, e.g. FOR i FROM 1 TO 5. Python: for i in range(1, 6)."
+  },
+  {
+   "f": "Python range(1, 6)",
+   "b": "Gives 1, 2, 3, 4, 5. It stops before the end value."
+  },
+  {
+   "f": "Condition-controlled loops",
+   "b": "WHILE tests first (may run zero times). REPEAT … UNTIL tests last (runs at least once)."
+  },
+  {
+   "f": "Rogue value",
+   "b": "A special input, such as 0, used to tell the program to stop reading data."
+  },
+  {
+   "f": "Python equivalent of REPEAT … UNTIL",
+   "b": "while True: … if condition: break"
+  },
+  {
+   "f": "Why use comments, good names and indentation?",
+   "b": "They make code easier to read, debug and maintain."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A variable that cannot change while the program runs is a ___.",
+   "a": [
+    "constant"
+   ]
+  },
+  {
+   "s": "A whole number is stored in the ___ data type.",
+   "a": [
+    "integer",
+    "int"
+   ]
+  },
+  {
+   "s": "The data type for True/False values is ___.",
+   "a": [
+    "Boolean",
+    "bool"
+   ]
+  },
+  {
+   "s": "20 DIV 6 is ___.",
+   "a": [
+    "3",
+    "three"
+   ]
+  },
+  {
+   "s": "The Python operator for the remainder is ___.",
+   "a": [
+    "%",
+    "mod"
+   ]
+  },
+  {
+   "s": "A ___ loop repeats a fixed number of times.",
+   "a": [
+    "count-controlled",
+    "count controlled",
+    "for",
+    "counted"
+   ]
+  },
+  {
+   "s": "Python's input() always returns a ___.",
+   "a": [
+    "string",
+    "str",
+    "text"
+   ]
+  },
+  {
+   "s": "Pearson pseudocode joins strings with the ___ operator.",
+   "a": [
+    "&",
+    "ampersand",
+    "append"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "State the data type you would use for (a) a person's height in metres, (b) the number of students in a class, (c) whether a door is open.",
+   "model": "(a) real, (b) integer, (c) Boolean.",
+   "points": [
+    "real for height",
+    "integer for count and Boolean for open"
+   ]
+  },
+  {
+   "q": "Write the result and show how it is found: 47 MOD 10 and 47 DIV 10.",
+   "model": "47 MOD 10 = 7, the last digit (remainder); 47 DIV 10 = 4, the whole-number part.",
+   "points": [
+    "MOD = 7",
+    "DIV = 4"
+   ]
+  },
+  {
+   "q": "Write a Python loop that prints the numbers 1 to 10.",
+   "model": "for i in range(1, 11): print(i)",
+   "points": [
+    "loop with correct range(1, 11)",
+    "print inside the loop"
+   ]
+  },
+  {
+   "q": "Explain why a user's age input must be converted with int() in Python before comparing it with 18.",
+   "model": "input() returns a string and a string cannot be properly compared with a number, so it must be converted to an integer first.",
+   "points": [
+    "input() returns a string",
+    "needs converting to an integer to compare/calculate"
+   ]
+  },
+  {
+   "q": "Explain the difference between a WHILE loop and a REPEAT … UNTIL loop.",
+   "model": "A WHILE loop tests its condition before each pass, so it may never run. REPEAT … UNTIL tests after each pass, so it always runs at least once.",
+   "points": [
+    "WHILE tests first / may run zero times",
+    "REPEAT tests at end / runs at least once"
+   ]
+  }
+ ]
+}

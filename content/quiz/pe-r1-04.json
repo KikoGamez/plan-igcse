@@ -1,0 +1,51 @@
+{
+ "id": "pe-r1-04",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+   "options": [
+    "Pulmonary artery",
+    "Aorta",
+    "Vena cava",
+    "Pulmonary vein"
+   ],
+   "answer": 3,
+   "why": "The pulmonary vein carries oxygenated blood from the lungs to the left atrium."
+  },
+  {
+   "type": "mcq",
+   "q": "HR = 60 bpm and SV = 80 ml. What is cardiac output?",
+   "options": [
+    "4800 ml/min",
+    "140 ml/min",
+    "480 ml/min",
+    "1.33 litres/min"
+   ],
+   "answer": 0,
+   "why": "Q = HR × SV = 60 × 80 = 4800 ml/min."
+  },
+  {
+   "type": "mcq",
+   "q": "What happens to the diaphragm during inspiration?",
+   "options": [
+    "Relaxes and domes upwards",
+    "Contracts and flattens",
+    "Contracts and domes",
+    "Relaxes and flattens"
+   ],
+   "answer": 1,
+   "why": "It contracts and flattens, increasing chest volume so air flows in."
+  },
+  {
+   "type": "short",
+   "q": "Explain how oxygen gets from the alveoli into the blood.",
+   "model": "There is more oxygen in the alveoli than in the blood in the capillaries, so oxygen diffuses across the thin walls into the blood and binds to haemoglobin in red blood cells.",
+   "points": [
+    "higher concentration in alveoli / concentration gradient",
+    "diffuses across thin alveolar and capillary walls",
+    "combines with haemoglobin"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "id": "ger-r1-02",
+ "cards": [
+  {
+   "f": "sein (ich, du, er, wir, ihr, sie)",
+   "b": "bin, bist, ist, sind, seid, sind"
+  },
+  {
+   "f": "haben (ich, du, er, wir, ihr, sie)",
+   "b": "habe, hast, hat, haben, habt, haben"
+  },
+  {
+   "f": "werden (ich, du, er)",
+   "b": "werde, wirst, wird; wir/sie werden, ihr werdet."
+  },
+  {
+   "f": "fahren, du / er",
+   "b": "du fährst, er fährt (a → ä)."
+  },
+  {
+   "f": "lesen, du / er",
+   "b": "du liest, er liest (e → ie)."
+  },
+  {
+   "f": "essen, du / er",
+   "b": "du isst, er isst (e → i, one s for du because stem ends in s)."
+  },
+  {
+   "f": "nehmen, du / er",
+   "b": "du nimmst, er nimmt (e → i and the consonant doubles)."
+  },
+  {
+   "f": "wissen (ich, du, er, wir)",
+   "b": "weiß, weißt, weiß, wissen (irregular: no vowel pattern like the others)."
+  },
+  {
+   "f": "arbeiten, du / er / ihr",
+   "b": "du arbeitest, er arbeitet, ihr arbeitet (extra -e after stem ending in -t)."
+  },
+  {
+   "f": "Separable verb word order",
+   "b": "Prefix goes to the end: Ich stehe um sieben Uhr auf. In a modal sentence: Ich muss früh aufstehen."
+  },
+  {
+   "f": "Inseparable prefixes",
+   "b": "be-, emp-, ent-, er-, ge-, ver-, zer-, miss- never separate: Ich besuche meine Oma."
+  },
+  {
+   "f": "Reflexive pronouns (accusative)",
+   "b": "mich, dich, sich, uns, euch, sich."
+  },
+  {
+   "f": "Dative reflexive: 'I brush my teeth'",
+   "b": "Ich putze mir die Zähne (dative mir when there is another object)."
+  },
+  {
+   "f": "seit + present tense",
+   "b": "Ich wohne seit drei Jahren in Madrid = I have lived in Madrid for three years."
+  },
+  {
+   "f": "kennen vs wissen",
+   "b": "kennen = know a person or place; wissen = know a fact: Ich weiß, wo er wohnt."
+  },
+  {
+   "f": "Imperative of lesen (du/ihr/Sie)",
+   "b": "Lies! Lest! Lesen Sie!"
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Er ___ jeden Tag mit dem Bus. (fahren)",
+   "a": [
+    "fährt",
+    "faehrt",
+    "fahrt"
+   ]
+  },
+  {
+   "s": "Ich ___ 15 Jahre alt.",
+   "a": [
+    "bin"
+   ]
+  },
+  {
+   "s": "Du ___ gern Krimis. (lesen)",
+   "a": [
+    "liest"
+   ]
+  },
+  {
+   "s": "Wir steigen am Bahnhof ___.",
+   "a": [
+    "aus"
+   ]
+  },
+  {
+   "s": "Ich interessiere ___ für Sport.",
+   "a": [
+    "mich"
+   ]
+  },
+  {
+   "s": "Ich putze ___ die Zähne.",
+   "a": [
+    "mir"
+   ]
+  },
+  {
+   "s": "Mein Bruder ___ abends fern. (fernsehen)",
+   "a": [
+    "sieht"
+   ]
+  },
+  {
+   "s": "Ich wohne ___ zwei Jahren hier.",
+   "a": [
+    "seit"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write three sentences about your morning routine using one separable and one reflexive verb.",
+   "model": "Ich stehe um sieben Uhr auf. Dann dusche ich mich und ziehe mich an. Ich esse Müsli.",
+   "points": [
+    "Separable verb with prefix at end",
+    "Reflexive pronoun correct",
+    "Verb second after Dann"
+   ]
+  },
+  {
+   "q": "Explain how separable verbs work and give an example with a modal verb.",
+   "model": "In the present tense the prefix goes to the end of the clause: Ich rufe dich an. With a modal the infinitive stays together: Ich muss früh aufstehen.",
+   "points": [
+    "Prefix goes to the end",
+    "Modal + whole infinitive at the end"
+   ]
+  },
+  {
+   "q": "Conjugate werden and say what it can mean.",
+   "model": "ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. It means to become (Ich werde Arzt).",
+   "points": [
+    "All six forms correct",
+    "Meaning: to become"
+   ]
+  },
+  {
+   "q": "Correct: 'Mein Vater fahrt zur Arbeit und ich aufstehe um sieben.'",
+   "model": "Mein Vater fährt zur Arbeit und ich stehe um sieben auf.",
+   "points": [
+    "fährt (stem change)",
+    "stehe ... auf (prefix at end)"
+   ]
+  },
+  {
+   "q": "Translate: 'She takes the bus and helps her mother.'",
+   "model": "Sie nimmt den Bus und hilft ihrer Mutter.",
+   "points": [
+    "nimmt",
+    "hilft + dative ihrer Mutter"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "cs-r1-03",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What is the output of A OR B when A = 1 and B = 1?",
+   "options": [
+    "0",
+    "1",
+    "Error",
+    "It depends on the order"
+   ],
+   "answer": 1,
+   "why": "OR gives 1 if at least one input is 1, including both."
+  },
+  {
+   "type": "mcq",
+   "q": "How many rows are needed in a truth table for a logic statement with 3 inputs?",
+   "options": [
+    "3",
+    "6",
+    "9",
+    "8"
+   ],
+   "answer": 3,
+   "why": "2 × 2 × 2 = 8 combinations of inputs."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement describes: a light comes on if the switch (S) is on and it is not daytime (D)?",
+   "options": [
+    "L = S OR D",
+    "L = S AND NOT D",
+    "L = NOT S AND D",
+    "L = NOT (S AND D)"
+   ],
+   "answer": 1,
+   "why": "Both conditions are needed (AND) and daytime must be false (NOT D)."
+  },
+  {
+   "type": "short",
+   "q": "What is a trace table used for?",
+   "model": "It records the values of variables (and any output) as an algorithm is followed step by step, so you can find its output, its purpose, or where an error occurs.",
+   "points": [
+    "records variable values step by step",
+    "used to find output/purpose/errors"
+   ]
+  }
+ ]
+}

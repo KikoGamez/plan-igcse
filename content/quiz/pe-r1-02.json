@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-02",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "In the upward phase of a bicep curl, which muscle is the antagonist?",
+   "options": [
+    "Biceps",
+    "Triceps",
+    "Deltoid",
+    "Quadriceps"
+   ],
+   "answer": 1,
+   "why": "The triceps relaxes and lengthens while the biceps (agonist) contracts."
+  },
+  {
+   "type": "mcq",
+   "q": "A muscle lengthens while it contracts to lower a weight. This is",
+   "options": [
+    "isometric",
+    "concentric",
+    "eccentric",
+    "fixator"
+   ],
+   "answer": 2,
+   "why": "Eccentric contractions control movement while the muscle lengthens."
+  },
+  {
+   "type": "mcq",
+   "q": "Which fibre type is best for a marathon runner?",
+   "options": [
+    "Fast glycolytic",
+    "Slow oxidative",
+    "Fast oxidative glycolytic",
+    "Cardiac"
+   ],
+   "answer": 1,
+   "why": "Slow oxidative fibres resist fatigue and work aerobically."
+  },
+  {
+   "type": "short",
+   "q": "Explain the role of the agonist and antagonist when the knee extends to kick a ball.",
+   "model": "The quadriceps is the agonist: it contracts (shortens) to straighten the knee. The hamstrings is the antagonist: it relaxes and lengthens to allow the movement.",
+   "points": [
+    "quadriceps agonist contracts",
+    "hamstrings antagonist relaxes/lengthens"
+   ]
+  }
+ ]
+}

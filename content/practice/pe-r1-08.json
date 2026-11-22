@@ -1,0 +1,159 @@
+{
+ "id": "pe-r1-08",
+ "cards": [
+  {
+   "f": "Three parts of a warm-up",
+   "b": "Pulse raiser, stretching, skill-related practice."
+  },
+  {
+   "f": "Why does a warm-up reduce injury?",
+   "b": "Warmer muscles are more elastic, blood flow rises and joints are lubricated, so less chance of strains."
+  },
+  {
+   "f": "Purpose of a cool-down",
+   "b": "Return the body to rest, remove waste such as lactic acid, reduce soreness."
+  },
+  {
+   "f": "Sprain",
+   "b": "Damage to a ligament (bone to bone), e.g. twisted ankle."
+  },
+  {
+   "f": "Strain",
+   "b": "Damage to a muscle or tendon, e.g. pulled hamstring."
+  },
+  {
+   "f": "Open fracture",
+   "b": "A broken bone that breaks through the skin. Also called compound."
+  },
+  {
+   "f": "Dislocation",
+   "b": "A bone forced out of its normal position in a joint."
+  },
+  {
+   "f": "Concussion first aid",
+   "b": "Stop play at once, do not return the same day, seek medical help."
+  },
+  {
+   "f": "PRICE",
+   "b": "Protection, Rest, Ice, Compression, Elevation."
+  },
+  {
+   "f": "Anabolic steroids",
+   "b": "Build muscle and strength. Risks: liver damage, high blood pressure, aggression."
+  },
+  {
+   "f": "Beta blockers",
+   "b": "Slow heart rate, reduce tremor. Used in archery and shooting. Risk: low blood pressure."
+  },
+  {
+   "f": "Diuretics",
+   "b": "Remove water to lose weight quickly or mask drugs. Risk: dehydration and cramps."
+  },
+  {
+   "f": "EPO",
+   "b": "Increases red blood cells for endurance. Risk: blood clots, stroke, heart attack."
+  },
+  {
+   "f": "Blood doping",
+   "b": "Re-infusing stored blood to raise red blood cell count. Banned. Risks: clots and infection."
+  },
+  {
+   "f": "WADA",
+   "b": "World Anti-Doping Agency. Sets the banned list and organises testing."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A torn ligament is called a ___.",
+   "a": [
+    "sprain"
+   ]
+  },
+  {
+   "s": "A pulled muscle is called a ___.",
+   "a": [
+    "strain"
+   ]
+  },
+  {
+   "s": "In PRICE, the letter C stands for ___.",
+   "a": [
+    "compression"
+   ]
+  },
+  {
+   "s": "Stimulants increase alertness and reduce ___.",
+   "a": [
+    "fatigue",
+    "tiredness"
+   ]
+  },
+  {
+   "s": "___ blockers are banned drugs that reduce shaking in shooting.",
+   "a": [
+    "beta"
+   ]
+  },
+  {
+   "s": "Blood doping increases the number of red blood ___.",
+   "a": [
+    "cells"
+   ]
+  },
+  {
+   "s": "Light jogging at the start of a warm-up is called a ___ raiser.",
+   "a": [
+    "pulse"
+   ]
+  },
+  {
+   "s": "Drugs that remove water from the body are called ___.",
+   "a": [
+    "diuretics",
+    "diuretic"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain two ways a coach can reduce injury risk in a school football match.",
+   "model": "Make sure players warm up and wear shin pads. Check the pitch for hazards and enforce the rules so dangerous tackles are stopped.",
+   "points": [
+    "warm-up / protective equipment",
+    "safe pitch / rules and referee"
+   ]
+  },
+  {
+   "q": "Describe how to treat a sprained ankle.",
+   "model": "Use PRICE: rest and protect the ankle, apply wrapped ice, compress with a bandage and raise it above the heart. Seek medical help if severe.",
+   "points": [
+    "rest / protect",
+    "ice / compression / elevation"
+   ]
+  },
+  {
+   "q": "Give one effect and one risk of stimulants.",
+   "model": "They increase alertness and delay fatigue. Risks include addiction, raised blood pressure and heart problems.",
+   "points": [
+    "valid effect",
+    "valid risk"
+   ]
+  },
+  {
+   "q": "Why are performance-enhancing drugs banned in sport?",
+   "model": "They give an unfair advantage, so they are cheating. They also damage health and set a bad example for young people.",
+   "points": [
+    "unfair advantage",
+    "health risk / role model"
+   ]
+  },
+  {
+   "q": "Explain why diuretics are misused in boxing.",
+   "model": "Diuretics remove water, so a boxer can lose weight quickly to make a lower weight category. They can also mask other drugs.",
+   "points": [
+    "weight loss for category",
+    "mask other drugs"
+   ]
+  }
+ ]
+}

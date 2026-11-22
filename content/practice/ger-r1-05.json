@@ -1,0 +1,165 @@
+{
+ "id": "ger-r1-05",
+ "cards": [
+  {
+   "f": "Nominative masculine/feminine/neuter/plural (definite)",
+   "b": "der, die, das, die."
+  },
+  {
+   "f": "Accusative (definite)",
+   "b": "den, die, das, die: only masculine changes."
+  },
+  {
+   "f": "Dative (definite)",
+   "b": "dem, der, dem, den (+n on plural nouns)."
+  },
+  {
+   "f": "Genitive (definite)",
+   "b": "des (+s/es), der, des (+s/es), der."
+  },
+  {
+   "f": "Indefinite: ein in nominative and accusative (masc)",
+   "b": "ein (nom), einen (acc)."
+  },
+  {
+   "f": "Accusative prepositions",
+   "b": "durch, für, gegen, ohne, um (also bis, entlang)."
+  },
+  {
+   "f": "Dative prepositions",
+   "b": "aus, bei, mit, nach, seit, von, zu (also außer, gegenüber)."
+  },
+  {
+   "f": "Two-way prepositions",
+   "b": "an, auf, hinter, in, neben, über, unter, vor, zwischen: accusative for movement, dative for location."
+  },
+  {
+   "f": "Genitive prepositions",
+   "b": "während, wegen, trotz, statt (anstatt)."
+  },
+  {
+   "f": "Contractions",
+   "b": "im = in dem, am = an dem, ins = in das, zum = zu dem, zur = zu der, vom = von dem, beim = bei dem."
+  },
+  {
+   "f": "Verbs with the dative",
+   "b": "helfen, danken, gefallen, gehören, schmecken, antworten, passen."
+  },
+  {
+   "f": "Adjective ending: der alte Mann (nom), den alten Mann (acc)",
+   "b": "Nom: -e (der alte Mann); acc masc: -en (den alten Mann)."
+  },
+  {
+   "f": "Adjective endings after ein (nom): masc, fem, neut",
+   "b": "ein alter Mann, eine alte Frau, ein altes Haus."
+  },
+  {
+   "f": "No article + adjective",
+   "b": "The adjective takes the article's ending: gute Freunde, frisches Brot, mit guten Freunden."
+  },
+  {
+   "f": "Comparative and superlative of gut, viel, gern",
+   "b": "besser/am besten, mehr/am meisten, lieber/am liebsten."
+  },
+  {
+   "f": "Dative plural",
+   "b": "Article den and add -n to the noun: mit den Kindern, mit den Freunden (not -s plurals)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Ich sehe ___ Lehrer. (der, Akkusativ)",
+   "a": [
+    "den"
+   ]
+  },
+  {
+   "s": "Ich helfe ___ Mädchen. (das, Dativ)",
+   "a": [
+    "dem"
+   ]
+  },
+  {
+   "s": "Ich fahre mit ___ Bus. (der, Dativ)",
+   "a": [
+    "dem"
+   ]
+  },
+  {
+   "s": "Wegen ___ Regens bleiben wir zu Hause. (der Regen, Genitiv)",
+   "a": [
+    "des"
+   ]
+  },
+  {
+   "s": "Wir gehen in ___ Kino. (das, Akkusativ, Kontraktion)",
+   "a": [
+    "das"
+   ]
+  },
+  {
+   "s": "Das ist ein ___ Haus. (klein)",
+   "a": [
+    "kleines"
+   ]
+  },
+  {
+   "s": "Ich habe eine ___ Idee. (gut)",
+   "a": [
+    "gute"
+   ]
+  },
+  {
+   "s": "Mein Bruder ist ___ als ich. (alt, Komparativ)",
+   "a": [
+    "älter",
+    "aelter",
+    "alter"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain when to use the accusative and the dative with 'in'.",
+   "model": "Accusative for movement into a place (Ich gehe in die Stadt); dative for location (Ich wohne in der Stadt).",
+   "points": [
+    "Accusative = movement, wohin",
+    "Dative = location, wo",
+    "Example"
+   ]
+  },
+  {
+   "q": "Translate: 'I give my brother a new book.'",
+   "model": "Ich gebe meinem Bruder ein neues Buch.",
+   "points": [
+    "meinem Bruder dative",
+    "ein neues Buch accusative neuter with correct endings"
+   ]
+  },
+  {
+   "q": "List the accusative prepositions and give one sentence.",
+   "model": "durch, für, gegen, ohne, um. Example: Ich kaufe ein Geschenk für meinen Vater.",
+   "points": [
+    "All five",
+    "Correct example with accusative"
+   ]
+  },
+  {
+   "q": "Translate: 'My best friend lives in a small town.'",
+   "model": "Meine beste Freundin wohnt in einer kleinen Stadt. (or Mein bester Freund ...)",
+   "points": [
+    "beste/bester with ending",
+    "in einer kleinen Stadt (dative feminine)"
+   ]
+  },
+  {
+   "q": "Correct: 'Ich gehe mit mein Freund in der Stadt. Er hat ein klein Auto.'",
+   "model": "Ich gehe mit meinem Freund in die Stadt. Er hat ein kleines Auto.",
+   "points": [
+    "meinem (dative)",
+    "in die Stadt (movement)",
+    "kleines"
+   ]
+  }
+ ]
+}

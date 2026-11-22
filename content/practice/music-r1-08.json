@@ -1,0 +1,164 @@
+{
+ "id": "music-r1-08",
+ "cards": [
+  {
+   "f": "Riff",
+   "b": "A short repeated melodic or rhythmic pattern, e.g. a guitar riff."
+  },
+  {
+   "f": "Hook",
+   "b": "A catchy idea, often in the chorus, that stays in the mind."
+  },
+  {
+   "f": "Backbeat",
+   "b": "Emphasis on beats 2 and 4 in rock and pop."
+  },
+  {
+   "f": "12-bar blues",
+   "b": "I–IV–I–V–IV–I pattern over twelve bars; uses blue notes."
+  },
+  {
+   "f": "Blue notes",
+   "b": "Flattened 3rd, 5th and 7th degrees in blues."
+  },
+  {
+   "f": "Leitmotif",
+   "b": "A recurring theme linked to a character, place or idea."
+  },
+  {
+   "f": "Diegetic music",
+   "b": "Music the characters in the film can hear."
+  },
+  {
+   "f": "Non-diegetic",
+   "b": "The score; only the audience hears it."
+  },
+  {
+   "f": "Underscore",
+   "b": "Quiet music beneath dialogue or action."
+  },
+  {
+   "f": "Mickey-mousing",
+   "b": "Music that copies the action on screen exactly."
+  },
+  {
+   "f": "Multi-tracking",
+   "b": "Recording parts separately and layering them."
+  },
+  {
+   "f": "Reverb",
+   "b": "Echo effect that simulates a room or hall."
+  },
+  {
+   "f": "Sampling",
+   "b": "Re-using part of an existing recording in a new track."
+  },
+  {
+   "f": "Reggae rhythm",
+   "b": "Off-beat guitar chords (skank), melodic bass, slow-moderate tempo."
+  },
+  {
+   "f": "Bridge (middle eight)",
+   "b": "A contrasting section, usually after the second chorus."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A short repeated pattern in a rock song is a ___.",
+   "a": [
+    "riff"
+   ]
+  },
+  {
+   "s": "A rock drummer emphasises beats 2 and 4, called the ___.",
+   "a": [
+    "backbeat"
+   ]
+  },
+  {
+   "s": "Music that characters can hear in a film is ___.",
+   "a": [
+    "diegetic"
+   ]
+  },
+  {
+   "s": "A theme linked to a character in a film is a ___.",
+   "a": [
+    "leitmotif"
+   ]
+  },
+  {
+   "s": "12-bar blues uses chords I, IV and ___.",
+   "a": [
+    "v",
+    "five",
+    "5"
+   ]
+  },
+  {
+   "s": "Recording parts separately and layering them is called ___.",
+   "a": [
+    "multi-tracking",
+    "multitracking",
+    "multi tracking",
+    "overdubbing"
+   ]
+  },
+  {
+   "s": "A contrasting section in a pop song is the ___.",
+   "a": [
+    "bridge",
+    "middle eight"
+   ]
+  },
+  {
+   "s": "Music that copies the action on screen is called ___.",
+   "a": [
+    "mickey-mousing",
+    "mickey mousing"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the main features of a typical pop song structure.",
+   "model": "Intro, verses, repeated chorus with a hook, a contrasting bridge, and an outro; often a four-chord loop.",
+   "points": [
+    "Verse–chorus structure",
+    "Bridge/middle eight for contrast"
+   ]
+  },
+  {
+   "q": "Explain how a leitmotif can show a change in a character.",
+   "model": "The theme returns but is changed, e.g. minor key, slower, different instrument, showing a change in the character or situation.",
+   "points": [
+    "Theme returns",
+    "Altered in key/tempo/instrument"
+   ]
+  },
+  {
+   "q": "Name two production effects used on a vocal and describe each.",
+   "model": "Reverb gives the sound of a large space; delay repeats the sound as an echo; auto-tune corrects pitch.",
+   "points": [
+    "Named effect",
+    "Correct description"
+   ]
+  },
+  {
+   "q": "Give two differences between diegetic and non-diegetic music.",
+   "model": "Diegetic is heard by the characters and comes from the film world; non-diegetic is the score added for the audience only.",
+   "points": [
+    "Diegetic heard by characters",
+    "Non-diegetic only audience"
+   ]
+  },
+  {
+   "q": "Describe two typical features of jazz.",
+   "model": "Swung rhythms and syncopation, improvisation, walking bass, extended chords.",
+   "points": [
+    "Improvisation/swing",
+    "Syncopation or walking bass"
+   ]
+  }
+ ]
+}

@@ -3,16 +3,15 @@
 (function(){
 const ES=document.documentElement.lang==='es';
 const PKEY='igcse-profile-v1';
-const HAVE=['math','stats','bio','chem','phys','bus','eng','fr','spa'];
+const HAVE=['math','stats','bio','chem','phys','bus','eng','fr','spa','geo','cs','ger','music','art','pe'].filter(k=>!window.DATA||DATA.S[k]);
 /* Subjects with no content yet: choosing one asks the admin to add it */
-const EXTRA=[['geo','Geografía','Geography'],['cs','Computer Science','Computer Science'],['ger','Alemán','German'],
-  ['music','Música','Music'],['art','Arte y diseño','Art and Design'],['pe','Educación física (PE)','Physical Education']];
+const EXTRA=[];
 const name=k=>{const e=EXTRA.find(x=>x[0]===k);if(e)return ES?e[1]:e[2];const s=window.DATA&&DATA.S[k];return s?(ES?s.es:s.en):k};
 const L=ES?{
   hi:n=>`¡Hola${n?', '+n:''}! 👋`,intro:'Vamos a preparar <b>tu</b> plan de estudio para los mocks. Son 4 pasos y tardas un minuto. Empiezas desde cero: solo verás tu avance.',
   s1:'¿Cómo quieres que te llame la app?',s2:'¿Qué día empiezan tus mocks?',s2n:'Haremos el plan para llegar a esa fecha con todo repasado.',
-  s3:'¿Qué asignaturas haces?',s3n:'Marca todas las que tienes en los mocks.',g1:'Con plan y ejercicios en la app',g2:'Aún sin contenido en la app',g2n:'Si marcas alguna, avisamos para prepararla. Mientras, tu plan incluye las demás.',
-  other:'Tengo una asignatura que no está en la lista',otherPh:'¿Cuál? (por ejemplo: Latín)',
+  s3:'¿Qué asignaturas haces?',s3n:'Marca todas las que tienes en los mocks.',g1:'Asignaturas de la app',g2:'Aún sin contenido en la app',g2n:'Si marcas alguna, avisamos para prepararla. Mientras, tu plan incluye las demás.',
+  other:'Tengo una asignatura que no está en la lista',otherPh:'¿Cuál? (por ejemplo: Historia)',otherN:'Avisaremos para añadirla a la app. Mientras, tu plan incluye las demás.',
   s4:'¿Cuántas horas puedes estudiar?',wk:'Lunes a viernes',sat:'Sábado',sun:'Domingo',hol:'Vacaciones de Navidad',from:'Desde',to:'Hasta',holH:'Horas al día en vacaciones',xmas:'Libres el 25 de diciembre y el 1 de enero',h:'h/día',
   need:'Necesitas',have:'Tienes',fits:m=>`✓ Te da tiempo a todo${m>0?`, y te sobran ${m} h para repasar lo que más te cueste`:''}.`,
   lots:'Te sobra bastante tiempo: si quieres, baja algunas horas. Las horas libres se reparten como repaso.',short:n=>`Te faltan ${n} h para que te dé tiempo a todo.`,fix:'Elige una de estas soluciones:',
@@ -24,8 +23,8 @@ const L=ES?{
 }:{
   hi:n=>`Hi${n?', '+n:''}! 👋`,intro:'Let’s set up <b>your</b> study plan for the mocks. 4 quick steps. You start from zero and only see your own progress.',
   s1:'What should the app call you?',s2:'When do your mocks start?',s2n:'The plan will get you there with everything revised.',
-  s3:'Which subjects do you take?',s3n:'Tick every subject in your mocks.',g1:'With a plan and practice in the app',g2:'No content in the app yet',g2n:'If you tick one, we’ll be told to add it. Meanwhile your plan covers the rest.',
-  other:'I have a subject that isn’t listed',otherPh:'Which one? (e.g. Latin)',
+  s3:'Which subjects do you take?',s3n:'Tick every subject in your mocks.',g1:'Subjects in the app',g2:'No content in the app yet',g2n:'If you tick one, we’ll be told to add it. Meanwhile your plan covers the rest.',
+  other:'I have a subject that isn’t listed',otherPh:'Which one? (e.g. History)',otherN:'We’ll be told so it can be added. Meanwhile your plan covers the rest.',
   s4:'How many hours can you study?',wk:'Monday to Friday',sat:'Saturday',sun:'Sunday',hol:'Christmas holidays',from:'From',to:'To',holH:'Hours a day in the holidays',xmas:'25 December and 1 January off',h:'h/day',
   need:'You need',have:'You have',fits:m=>`✓ You have time for everything${m>0?`, with ${m} h spare to revise what you find hardest`:''}.`,
   lots:'You have plenty of time: lower some hours if you like. Spare hours are spread out as review.',short:n=>`You are ${n} h short of fitting everything.`,fix:'Pick one of these fixes:',
@@ -119,8 +118,8 @@ function render(keepScroll){
   if(st.step===3){const box=(k,lbl)=>`<label class="sub"><input type="checkbox" data-sub="${k}" ${st.subj.includes(k)?'checked':''}><span>${esc(lbl)}</span></label>`;
     body=`<p class="stepn">${L.step(3,N)}</p><div class="card"><h3>${L.s3}</h3><p class="n">${L.s3n}</p>
     <div class="grp">${L.g1}</div><div class="subs">${HAVE.map(k=>box(k,name(k))).join('')}</div>
-    <div class="grp">${L.g2}</div><p class="n">${L.g2n}</p><div class="subs">${EXTRA.map(([k])=>box(k,name(k))).join('')}</div>
-    ${st.showOther?`<p style="margin:12px 0 4px">${L.other}</p><input type="text" id="obOther" value="${esc(st.other)}" placeholder="${L.otherPh}" maxlength="80">`:`<button type="button" class="lnk" data-a="other">+ ${L.other}</button>`}</div>`}
+    ${EXTRA.length?`<div class="grp">${L.g2}</div><p class="n">${L.g2n}</p><div class="subs">${EXTRA.map(([k])=>box(k,name(k))).join('')}</div>`:''}
+    ${st.showOther?`<p style="margin:12px 0 4px">${L.other}</p><input type="text" id="obOther" value="${esc(st.other)}" placeholder="${L.otherPh}" maxlength="80"><p class="n" style="margin:6px 0 0">${L.otherN}</p>`:`<button type="button" class="lnk" data-a="other">+ ${L.other}</button>`}</div>`}
   if(st.step===4)body=`<p class="stepn">${L.step(4,N)}</p><div class="card"><h3>${L.s4}</h3>
     ${stepper('wdv',st.wdv,L.wk,0,6)}${stepper('sat',st.sat,L.sat,0,8)}${stepper('sun',st.sun,L.sun,0,8)}</div>
     <div class="card"><h3>${L.hol}</h3><div class="two"><label>${L.from}<input type="date" id="obHF" value="${st.holFrom}"></label><label>${L.to}<input type="date" id="obHT" value="${st.holTo}"></label></div>

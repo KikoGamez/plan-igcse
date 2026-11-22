@@ -1,0 +1,159 @@
+{
+ "id": "music-r1-05",
+ "cards": [
+  {
+   "f": "Monophonic",
+   "b": "One melodic line only, with no accompaniment."
+  },
+  {
+   "f": "Homophonic",
+   "b": "Parts moving together in chords, or a melody with chordal accompaniment."
+  },
+  {
+   "f": "Polyphonic",
+   "b": "Two or more independent melodic lines of equal importance together."
+  },
+  {
+   "f": "Heterophonic",
+   "b": "The same melody played at once with slight variations."
+  },
+  {
+   "f": "Canon",
+   "b": "Strict imitation: the same melody enters in each part one after another."
+  },
+  {
+   "f": "Call and response",
+   "b": "A phrase answered by a different voice or instrument."
+  },
+  {
+   "f": "Binary form",
+   "b": "Two sections: A B."
+  },
+  {
+   "f": "Ternary form",
+   "b": "Three sections: A B A."
+  },
+  {
+   "f": "Rondo form",
+   "b": "Main tune alternates with episodes: A B A C A."
+  },
+  {
+   "f": "Strophic",
+   "b": "Every verse has the same music."
+  },
+  {
+   "f": "Through-composed",
+   "b": "No repeated sections; new music throughout."
+  },
+  {
+   "f": "Ground bass",
+   "b": "A bass line repeated throughout with changing music above it."
+  },
+  {
+   "f": "Ritornello form",
+   "b": "A returning orchestral theme between solo episodes, as in Bach's Brandenburg 5."
+  },
+  {
+   "f": "Sonata form",
+   "b": "Exposition, development, recapitulation."
+  },
+  {
+   "f": "Middle 8 / bridge",
+   "b": "A contrasting section of about eight bars late in a pop song."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A texture with several independent tunes is ___.",
+   "a": [
+    "polyphonic",
+    "contrapuntal"
+   ]
+  },
+  {
+   "s": "A texture of chords moving together is ___.",
+   "a": [
+    "homophonic",
+    "homophony"
+   ]
+  },
+  {
+   "s": "A strict imitation where each part enters in turn is a ___.",
+   "a": [
+    "canon"
+   ]
+  },
+  {
+   "s": "A B A is called ___ form.",
+   "a": [
+    "ternary"
+   ]
+  },
+  {
+   "s": "A closing section is called a ___.",
+   "a": [
+    "coda"
+   ]
+  },
+  {
+   "s": "In sonata form the themes are introduced in the ___.",
+   "a": [
+    "exposition"
+   ]
+  },
+  {
+   "s": "A solo showing-off passage in a concerto is a ___.",
+   "a": [
+    "cadenza"
+   ]
+  },
+  {
+   "s": "A bass line repeated all through a piece is a ___ bass.",
+   "a": [
+    "ground"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how the texture changes in a layered track that adds parts one at a time.",
+   "model": "It starts thin with one part and thickens as each part enters until it is a full, thick texture.",
+   "points": [
+    "starts thin",
+    "gets thicker"
+   ]
+  },
+  {
+   "q": "Describe verse-chorus structure.",
+   "model": "Verses tell the story, with a repeated chorus; often with an intro, middle 8 and final chorus.",
+   "points": [
+    "verse and chorus",
+    "repeated chorus"
+   ]
+  },
+  {
+   "q": "What happens in the development section of sonata form?",
+   "model": "Themes from the exposition are altered and moved through different keys.",
+   "points": [
+    "themes developed",
+    "different keys"
+   ]
+  },
+  {
+   "q": "Define imitation.",
+   "model": "A melody or motif is repeated by another part soon after it first appears.",
+   "points": [
+    "repeated by another part",
+    "soon after"
+   ]
+  },
+  {
+   "q": "What is a ritornello?",
+   "model": "A bold recurring theme played by the full group, returning in different keys between solo episodes.",
+   "points": [
+    "recurring theme",
+    "between episodes"
+   ]
+  }
+ ]
+}

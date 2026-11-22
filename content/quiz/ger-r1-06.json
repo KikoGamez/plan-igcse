@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-06",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which sentence has correct word order?",
+   "options": [
+    "Morgen ich gehe ins Kino.",
+    "Morgen gehe ich ins Kino.",
+    "Ich morgen gehe ins Kino.",
+    "Morgen ich ins Kino gehe."
+   ],
+   "answer": 1,
+   "why": "The verb is always the second idea in a main clause: Morgen gehe ich."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Ich bleibe zu Hause, weil ich bin müde.",
+    "Ich bleibe zu Hause, weil ich müde bin.",
+    "Ich bleibe zu Hause, weil bin ich müde.",
+    "Ich bleibe zu Hause, weil müde ich bin."
+   ],
+   "answer": 1,
+   "why": "After weil the verb goes to the end."
+  },
+  {
+   "type": "mcq",
+   "q": "Complete: Ich helfe meinem Bruder. Ich helfe ___ oft.",
+   "options": [
+    "ihn",
+    "er",
+    "ihm",
+    "ihr"
+   ],
+   "answer": 2,
+   "why": "Helfen takes the dative; masculine dative pronoun is ihm."
+  },
+  {
+   "type": "short",
+   "q": "Translate: 'When I was little, I lived in a house which had a big garden.'",
+   "model": "Als ich klein war, wohnte ich in einem Haus, das einen großen Garten hatte.",
+   "points": [
+    "Als ... war (verb at end)",
+    "wohnte ich (verb first)",
+    "relative pronoun das and verb at the end"
+   ]
+  }
+ ]
+}

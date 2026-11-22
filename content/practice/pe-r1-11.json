@@ -1,0 +1,161 @@
+{
+ "id": "pe-r1-11",
+ "cards": [
+  {
+   "f": "Definition of skill",
+   "b": "A learned ability to bring about a result with maximum certainty and minimum effort or time."
+  },
+  {
+   "f": "Skill vs ability",
+   "b": "Skills are learned; abilities are inherited and underlie skills."
+  },
+  {
+   "f": "Open skill",
+   "b": "Affected by the environment; the performer must adapt, e.g. a pass in football."
+  },
+  {
+   "f": "Closed skill",
+   "b": "Environment stable and predictable; same each time, e.g. a golf putt."
+  },
+  {
+   "f": "Gross vs fine skill",
+   "b": "Gross: large muscle groups (shot put). Fine: small precise movements (darts)."
+  },
+  {
+   "f": "Self-paced vs externally paced",
+   "b": "Self-paced: performer controls timing (serve). Externally paced: timing set by others (returning a serve)."
+  },
+  {
+   "f": "Massed vs distributed practice",
+   "b": "Massed: no rest. Distributed: rests or changes between. Distributed suits complex or dangerous skills."
+  },
+  {
+   "f": "SMART targets",
+   "b": "Specific, Measurable, Achievable, Recorded (or Realistic), Time-bound."
+  },
+  {
+   "f": "Visual guidance",
+   "b": "Demonstrations, videos, diagrams. Good for beginners."
+  },
+  {
+   "f": "Manual guidance",
+   "b": "Coach physically moves the performer. Good for safety and confidence."
+  },
+  {
+   "f": "Mechanical guidance",
+   "b": "Equipment support such as floats or a harness."
+  },
+  {
+   "f": "Intrinsic feedback",
+   "b": "From the performer’s own senses, e.g. how the shot felt."
+  },
+  {
+   "f": "Knowledge of results vs performance",
+   "b": "KR: outcome (score, time). KP: how the movement was done (technique)."
+  },
+  {
+   "f": "Intrinsic vs extrinsic motivation",
+   "b": "Intrinsic: from within (enjoyment). Extrinsic: from rewards (trophies, praise)."
+  },
+  {
+   "f": "Inverted-U theory",
+   "b": "Performance improves as arousal rises to an optimum, then falls if arousal gets too high."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A skill that must be adapted to a changing environment is an ___ skill.",
+   "a": [
+    "open"
+   ]
+  },
+  {
+   "s": "The T in SMART stands for ___.",
+   "a": [
+    "time-bound",
+    "time bound",
+    "timed",
+    "time"
+   ]
+  },
+  {
+   "s": "Spoken instructions from a coach are ___ guidance.",
+   "a": [
+    "verbal"
+   ]
+  },
+  {
+   "s": "Information about how a skill was performed is knowledge of ___.",
+   "a": [
+    "performance"
+   ]
+  },
+  {
+   "s": "Trophies and medals are ___ motivation.",
+   "a": [
+    "extrinsic"
+   ]
+  },
+  {
+   "s": "Picturing a perfect performance in your head is mental ___.",
+   "a": [
+    "rehearsal",
+    "imagery"
+   ]
+  },
+  {
+   "s": "A snooker shot is an example of a ___ skill.",
+   "a": [
+    "fine"
+   ]
+  },
+  {
+   "s": "The level of alertness and readiness to perform is called ___.",
+   "a": [
+    "arousal"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Classify a tennis serve on the self-paced–externally paced continuum and explain.",
+   "model": "It is self-paced because the server decides when to start and how to hit the ball.",
+   "points": [
+    "self-paced",
+    "performer controls timing"
+   ]
+  },
+  {
+   "q": "Why do coaches use SMART targets?",
+   "model": "They give a clear, measurable aim with a deadline. This increases motivation and lets the performer track progress.",
+   "points": [
+    "clear measurable aim",
+    "motivation / track progress"
+   ]
+  },
+  {
+   "q": "Suggest suitable guidance for a beginner learning a new gymnastics skill and justify it.",
+   "model": "Manual guidance with a demonstration. A spotter keeps the gymnast safe and the demonstration shows the shape of the skill.",
+   "points": [
+    "manual / visual",
+    "safety / confidence / shows skill"
+   ]
+  },
+  {
+   "q": "Give one advantage of positive feedback and one of negative feedback.",
+   "model": "Positive feedback builds confidence and motivation. Negative feedback shows errors so they can be corrected.",
+   "points": [
+    "positive builds confidence",
+    "negative corrects errors"
+   ]
+  },
+  {
+   "q": "Describe two ways a performer can control arousal before a penalty.",
+   "model": "Deep breathing and positive self-talk to stay calm, plus imagery of the kick going in.",
+   "points": [
+    "breathing / relaxation",
+    "self-talk / imagery"
+   ]
+  }
+ ]
+}

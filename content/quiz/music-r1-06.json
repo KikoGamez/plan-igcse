@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-06",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which woodwind instrument has a single reed?",
+   "options": [
+    "Oboe",
+    "Bassoon",
+    "Clarinet",
+    "Cor anglais"
+   ],
+   "answer": 2,
+   "why": "The clarinet has a single reed; the others are double reed."
+  },
+  {
+   "type": "mcq",
+   "q": "Pizzicato means",
+   "options": [
+    "played with the bow",
+    "plucked",
+    "played very quietly",
+    "muted"
+   ],
+   "answer": 1,
+   "why": "Pizzicato is plucking the strings."
+  },
+  {
+   "type": "mcq",
+   "q": "Recording parts separately and layering them is",
+   "options": [
+    "sampling",
+    "panning",
+    "multi-tracking",
+    "tremolo"
+   ],
+   "answer": 2,
+   "why": "Multi-tracking layers separately recorded parts."
+  },
+  {
+   "type": "short",
+   "q": "Name two techniques for string instruments and say what they are.",
+   "model": "Pizzicato is plucking; tremolo is very fast repeated bow strokes.",
+   "points": [
+    "pizzicato plucking",
+    "tremolo or other technique explained"
+   ]
+  }
+ ]
+}

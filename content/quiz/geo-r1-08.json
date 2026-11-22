@@ -1,0 +1,52 @@
+{
+ "id": "geo-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which of these is a renewable source of energy?",
+   "options": [
+    "uranium",
+    "natural gas",
+    "geothermal",
+    "shale gas"
+   ],
+   "answer": 2,
+   "why": "Geothermal uses heat from the Earth, which is continually replenished."
+  },
+  {
+   "type": "mcq",
+   "q": "Which describes an energy gap?",
+   "options": [
+    "energy demand is greater than a country can produce or afford",
+    "a gap between two power stations",
+    "too much energy production",
+    "a power cut lasting a day"
+   ],
+   "answer": 0,
+   "why": "An energy gap exists when demand exceeds supply."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a disadvantage of hydroelectric power (HEP)?",
+   "options": [
+    "it releases large amounts of CO₂ when generating",
+    "it can only be used at night",
+    "dams flood land and displace people",
+    "it needs uranium fuel"
+   ],
+   "answer": 2,
+   "why": "Reservoirs behind dams flood valleys, homes and habitats."
+  },
+  {
+   "type": "short",
+   "q": "Explain one advantage and one disadvantage of using solar panels to generate electricity.",
+   "model": "Advantage: no CO₂ emitted when generating, so it does not add to climate change. Disadvantage: only works when it is sunny, so needs back-up or costly batteries.",
+   "points": [
+    "advantage (e.g. no emissions)",
+    "advantage developed (reason/effect)",
+    "disadvantage (e.g. depends on sunshine, cost)",
+    "disadvantage developed"
+   ]
+  }
+ ]
+}

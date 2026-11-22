@@ -1,0 +1,34 @@
+{"id":"cs-r1-11","cards":[
+{"f":"LAN","b":"Local area network: covers a small geographical area such as a building or school, owned by one organisation."},
+{"f":"WAN","b":"Wide area network: covers a large geographical area, often linking LANs, e.g. the internet."},
+{"f":"PAN","b":"Personal area network: a few metres around one person, e.g. phone and earbuds linked by Bluetooth."},
+{"f":"Client-server network","b":"Clients request services from a central server. Centralised management, backup and security, but the server is costly and a single point of failure."},
+{"f":"Peer-to-peer network","b":"All computers are equal and share their own resources. Cheap and no server needed, but harder to secure and back up."},
+{"f":"Protocol","b":"A set of rules that allows devices to communicate, covering how data is formatted, sent and checked."},
+{"f":"HTTP vs HTTPS","b":"HTTP transfers web pages. HTTPS is HTTP with encryption, so data between browser and server is secure."},
+{"f":"SMTP, POP3, IMAP","b":"SMTP sends email. POP3 downloads email to your device. IMAP accesses email kept on the server and keeps devices in sync."},
+{"f":"Packet header contents","b":"Source and destination IP addresses and a packet number so packets can be put back in order."},
+{"f":"Packet switching","b":"Data is split into packets that may take different routes and are reassembled in order at the destination."},
+{"f":"Four layers of TCP/IP","b":"Application, transport, network (internet), data link."},
+{"f":"Switch vs router","b":"A switch connects devices within a LAN and sends data to the intended device. A router connects different networks and directs packets."},
+{"f":"IPv4 vs IPv6","b":"IPv4: 32-bit, four denary numbers separated by dots. IPv6: 128-bit, hexadecimal groups. IPv6 gives far more addresses."},
+{"f":"DNS","b":"Domain name system: translates a domain name (www.example.com) into the IP address of the web server."},
+{"f":"Internet vs world wide web","b":"The internet is the global network of networks. The web is a service on it: web pages accessed by a browser using HTTP/HTTPS."}
+],
+"gaps":[
+{"s":"A network covering one building is called a ___.","a":["LAN","local area network"]},
+{"s":"In a ___ topology every device connects to a central switch.","a":["star"]},
+{"s":"Data sent across the internet is split into ___.","a":["packets","packet"]},
+{"s":"A set of rules that allows devices to communicate is called a ___.","a":["protocol"]},
+{"s":"A ___ monitors incoming and outgoing network traffic and blocks unauthorised access.","a":["firewall"]},
+{"s":"An IPv4 address is made of ___ bits.","a":["32","thirty-two","thirty two"]},
+{"s":"Network speeds are measured in ___ per second.","a":["bits","bit"]},
+{"s":"The ___ protocol is used to transfer files between computers.","a":["FTP","file transfer protocol"]}
+],
+"short":[
+{"q":"Give two advantages of connecting computers in a network.","model":"Users can share files, printers and an internet connection. Data can be stored and backed up centrally, and users can communicate with each other.","points":["share resources (files, printers, internet)","central storage/backup/management or communication"]},
+{"q":"State two advantages of wired connections over wireless connections.","model":"Wired connections are usually faster and more stable. They are also more secure because data cannot be intercepted as easily without physical access.","points":["faster / more reliable","more secure"]},
+{"q":"Explain the role of a router in a home network.","model":"The router connects the home LAN to the internet and directs packets between the devices and the outside network using IP addresses.","points":["connects the LAN to the internet / other networks","directs packets using IP addresses"]},
+{"q":"Describe what happens when a browser requests www.example.com.","model":"The browser asks a DNS server for the IP address of the domain name. It then connects to the web server at that IP address and requests the page using HTTP or HTTPS.","points":["DNS translates domain name to IP address","browser requests the page from the web server using HTTP/HTTPS"]},
+{"q":"Explain why mesh networks are more reliable than bus networks.","model":"In a mesh, devices have many links so data can take another route if one link fails. In a bus, all devices share one cable, so a break in it stops the whole network.","points":["mesh has multiple routes so one failure does not stop it","bus relies on a single backbone cable"]}
+]}

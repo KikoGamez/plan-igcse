@@ -1,0 +1,163 @@
+{
+ "id": "music-r1-01",
+ "cards": [
+  {
+   "f": "How long is the Appraising paper?",
+   "b": "1 hour 45 minutes, 80 marks, 40% of the qualification."
+  },
+  {
+   "f": "Weighting of Performing and Composing",
+   "b": "30% each, marked by your teacher and moderated by Pearson."
+  },
+  {
+   "f": "Four areas of study",
+   "b": "Instrumental Music 1700–1820; Vocal Music; Music for Stage and Screen; Fusions."
+  },
+  {
+   "f": "Set works in Instrumental Music 1700–1820",
+   "b": "Bach: Brandenburg Concerto No. 5 (1st mvt); Beethoven: Piano Sonata No. 8 Pathétique (1st mvt)."
+  },
+  {
+   "f": "Set works in Vocal Music",
+   "b": "Purcell: Music for a While; Queen: Killer Queen."
+  },
+  {
+   "f": "Set works in Music for Stage and Screen",
+   "b": "Schwartz: Defying Gravity (Wicked); John Williams: Star Wars Main Title/Rebel Blockade Runner."
+  },
+  {
+   "f": "Set works in Fusions",
+   "b": "Afro Celt Sound System: Release; Esperanza Spalding: Samba Em Preludio."
+  },
+  {
+   "f": "What is dictation?",
+   "b": "Writing down pitches or rhythms you hear, usually on a partly completed stave."
+  },
+  {
+   "f": "What is Section B of the paper?",
+   "b": "One 12-mark extended answer comparing a set work with an unfamiliar piece."
+  },
+  {
+   "f": "Rule for answering listening questions",
+   "b": "Give a specific musical term plus evidence. 'Exciting' earns nothing."
+  },
+  {
+   "f": "How many listening hearings should you use?",
+   "b": "Use the first to get the overall picture, the second to answer, the last to check."
+  },
+  {
+   "f": "Comparing words for the 12-mark answer",
+   "b": "Both, whereas, in contrast, similarly. Give a similarity and a difference per element."
+  },
+  {
+   "f": "What is context in music?",
+   "b": "When, why and for whom the music was written; links to period and style."
+  },
+  {
+   "f": "Elements of music",
+   "b": "Melody, harmony, tonality, rhythm, metre, texture, structure, timbre, dynamics, tempo, articulation."
+  },
+  {
+   "f": "Which Baroque feature appears in Bach and Purcell?",
+   "b": "Basso continuo: a bass instrument plus chord instrument such as harpsichord."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The Appraising paper lasts 1 hour ___ minutes.",
+   "a": [
+    "45",
+    "forty-five",
+    "forty five"
+   ]
+  },
+  {
+   "s": "The Appraising paper is worth ___ of the qualification.",
+   "a": [
+    "40%",
+    "40",
+    "40 percent"
+   ]
+  },
+  {
+   "s": "Beethoven's Pathétique sonata is in the key of C ___.",
+   "a": [
+    "minor"
+   ]
+  },
+  {
+   "s": "Writing down pitches and rhythms you hear is called ___.",
+   "a": [
+    "dictation"
+   ]
+  },
+  {
+   "s": "Purcell's Music for a While is in the area of study called ___ Music.",
+   "a": [
+    "vocal"
+   ]
+  },
+  {
+   "s": "Bach's Brandenburg Concerto No. 5 was written in the ___ period.",
+   "a": [
+    "baroque"
+   ]
+  },
+  {
+   "s": "Section B is a ___-mark extended answer.",
+   "a": [
+    "12",
+    "twelve"
+   ]
+  },
+  {
+   "s": "A set work from Music for Stage and Screen is Defying ___.",
+   "a": [
+    "gravity"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe two things you should do in the first hearing of an extract.",
+   "model": "Read the question and underline the element, then listen for the overall picture (instruments, speed, mode, texture).",
+   "points": [
+    "identify element",
+    "overall picture"
+   ]
+  },
+  {
+   "q": "How can you earn full marks on a 3-mark describe question?",
+   "model": "Give three separate musical points, each using a correct term and evidence from the extract.",
+   "points": [
+    "three separate points",
+    "terms plus evidence"
+   ]
+  },
+  {
+   "q": "Outline a plan for the 12-mark comparison.",
+   "model": "Pick 3 or 4 elements, give a similarity and difference for each with evidence from both pieces, and add context.",
+   "points": [
+    "elements chosen",
+    "similarity and difference",
+    "context"
+   ]
+  },
+  {
+   "q": "Why is 'it sounds exciting' not worth a mark?",
+   "model": "It does not use a musical term or describe a feature of the music; say 'fast tempo' or 'loud brass fanfare'.",
+   "points": [
+    "no term",
+    "needs feature"
+   ]
+  },
+  {
+   "q": "Name the four areas of study.",
+   "model": "Instrumental Music 1700–1820, Vocal Music, Music for Stage and Screen and Fusions.",
+   "points": [
+    "Instrumental Music 1700–1820 and Vocal Music",
+    "Music for Stage and Screen and Fusions"
+   ]
+  }
+ ]
+}

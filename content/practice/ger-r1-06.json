@@ -1,0 +1,161 @@
+{
+ "id": "ger-r1-06",
+ "cards": [
+  {
+   "f": "Verb second rule",
+   "b": "In a main clause the conjugated verb is the second idea: Heute gehe ich ins Kino."
+  },
+  {
+   "f": "Time–Manner–Place",
+   "b": "Ich fahre morgen (T) mit dem Bus (M) in die Stadt (P)."
+  },
+  {
+   "f": "Co-ordinating conjunctions",
+   "b": "und, aber, oder, denn, sondern: no change in word order."
+  },
+  {
+   "f": "Subordinating conjunctions",
+   "b": "weil, dass, wenn, obwohl, als, ob, damit, während, bevor, nachdem: verb goes to the end."
+  },
+  {
+   "f": "Main clause after a subordinate clause",
+   "b": "Verb first: Wenn es regnet, bleibe ich zu Hause."
+  },
+  {
+   "f": "wenn vs als",
+   "b": "Als = a single event in the past; wenn = present/future or 'whenever'."
+  },
+  {
+   "f": "denn vs weil",
+   "b": "Both 'because'. Denn: normal order (denn ich bin müde); weil: verb last (weil ich müde bin)."
+  },
+  {
+   "f": "deshalb",
+   "b": "Therefore: verb comes right after it: Deshalb bleibe ich zu Hause."
+  },
+  {
+   "f": "um ... zu",
+   "b": "In order to + infinitive: Ich gehe in die Stadt, um ein Geschenk zu kaufen."
+  },
+  {
+   "f": "Personal pronouns: acc (ich, du, er, sie, es)",
+   "b": "mich, dich, ihn, sie, es."
+  },
+  {
+   "f": "Personal pronouns: dat (ich, du, er, sie, es)",
+   "b": "mir, dir, ihm, ihr, ihm."
+  },
+  {
+   "f": "Personal pronouns: wir, ihr, sie (acc / dat)",
+   "b": "uns / uns, euch / euch, sie / ihnen."
+  },
+  {
+   "f": "Two pronoun objects",
+   "b": "Accusative before dative: Ich gebe es ihm."
+  },
+  {
+   "f": "Relative pronouns (nom/acc)",
+   "b": "der, die, das, die (acc masc = den)."
+  },
+  {
+   "f": "Relative pronouns (dat)",
+   "b": "dem, der, dem, denen."
+  },
+  {
+   "f": "Relative clause punctuation and word order",
+   "b": "Comma on each side, verb at the end: Das Buch, das ich gelesen habe, war toll."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Ich bleibe zu Hause, ___ ich krank bin.",
+   "a": [
+    "weil"
+   ]
+  },
+  {
+   "s": "Ich glaube, ___ Sport wichtig ist.",
+   "a": [
+    "dass"
+   ]
+  },
+  {
+   "s": "___ es regnet, bleibe ich zu Hause.",
+   "a": [
+    "wenn"
+   ]
+  },
+  {
+   "s": "___ ich klein war, wohnte ich in Köln.",
+   "a": [
+    "als"
+   ]
+  },
+  {
+   "s": "Morgen ___ ich nach Berlin. (fahren)",
+   "a": [
+    "fahre"
+   ]
+  },
+  {
+   "s": "Ich besuche meinen Bruder und gebe ___ ein Geschenk.",
+   "a": [
+    "ihm"
+   ]
+  },
+  {
+   "s": "Der Mann, ___ neben mir wohnt, ist Arzt.",
+   "a": [
+    "der"
+   ]
+  },
+  {
+   "s": "Ich gehe in die Stadt, ___ ein Geschenk zu kaufen.",
+   "a": [
+    "um"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Combine with weil: 'Ich lerne Deutsch. Ich möchte nach Wien reisen.'",
+   "model": "Ich lerne Deutsch, weil ich nach Wien reisen möchte.",
+   "points": [
+    "Comma and weil",
+    "möchte at the end"
+   ]
+  },
+  {
+   "q": "Explain the difference between 'denn' and 'weil' in word order.",
+   "model": "Denn is a co-ordinating conjunction so the verb stays second (denn ich bin müde); weil sends the verb to the end (weil ich müde bin).",
+   "points": [
+    "Denn: normal order",
+    "Weil: verb at the end"
+   ]
+  },
+  {
+   "q": "Translate: 'He is tired because he got up at five.'",
+   "model": "Er ist müde, weil er um fünf Uhr aufgestanden ist.",
+   "points": [
+    "weil with verb at end",
+    "perfect with sein, ist at the end"
+   ]
+  },
+  {
+   "q": "Fill in the pronoun and explain: 'Ich helfe (er).' 'Ich sehe (er).'",
+   "model": "Ich helfe ihm (dative after helfen). Ich sehe ihn (accusative direct object).",
+   "points": [
+    "ihm with helfen",
+    "ihn as accusative"
+   ]
+  },
+  {
+   "q": "Write one sentence with a relative clause about a person you know.",
+   "model": "Das ist mein Freund, der in Madrid wohnt.",
+   "points": [
+    "Correct relative pronoun",
+    "Comma and verb at the end"
+   ]
+  }
+ ]
+}

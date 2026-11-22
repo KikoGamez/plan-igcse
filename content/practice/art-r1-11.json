@@ -1,0 +1,164 @@
+{
+ "id": "art-r1-11",
+ "cards": [
+  {
+   "f": "AO2 wording",
+   "b": "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes."
+  },
+  {
+   "f": "Development cycle",
+   "b": "Explore, experiment, review, refine, repeat."
+  },
+  {
+   "f": "Consolidated too early",
+   "b": "Settling on one idea before exploring alternatives; named in the lowest AO2 band."
+  },
+  {
+   "f": "Thumbnail",
+   "b": "A small, quick sketch to test a composition."
+  },
+  {
+   "f": "Maquette",
+   "b": "A small preliminary model for a 3D work."
+  },
+  {
+   "f": "Mood board",
+   "b": "A collection of images, colours and textures capturing atmosphere."
+  },
+  {
+   "f": "One variable rule",
+   "b": "Change one thing at a time so you know what caused the result."
+  },
+  {
+   "f": "What 'appropriate' means in AO2",
+   "b": "Media and materials suited to your intentions; explain why you chose them."
+  },
+  {
+   "f": "Ways to show review",
+   "b": "Side-by-side tests, annotated decisions, marked next steps, a refined second attempt."
+  },
+  {
+   "f": "Examples of composition experiments",
+   "b": "Viewpoint, crop, scale, symmetry, focal point, negative space."
+  },
+  {
+   "f": "Why show failed experiments",
+   "b": "They show reflection and learning, which earns AO2 marks."
+  },
+  {
+   "f": "Preparatory studies can include",
+   "b": "Sketchbooks, design sheets, rough studies, samples, test pieces, maquettes and digital material."
+  },
+  {
+   "f": "Sketch to final stages",
+   "b": "Thumbnails, composition studies, material tests, mock-up, annotated final plan."
+  },
+  {
+   "f": "Mind map",
+   "b": "Theme in the centre with branches for subjects, places, feelings, materials and artists."
+  },
+  {
+   "f": "Intentions",
+   "b": "What you are trying to express or achieve in your work."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A small quick sketch to test a layout is a ___.",
+   "a": [
+    "thumbnail"
+   ]
+  },
+  {
+   "s": "A small model for a 3D piece is called a ___.",
+   "a": [
+    "maquette"
+   ]
+  },
+  {
+   "s": "The cycle is explore, experiment, review, refine and ___.",
+   "a": [
+    "repeat"
+   ]
+  },
+  {
+   "s": "Look critically at your work to judge it: you ___ it.",
+   "a": [
+    "review",
+    "evaluate"
+   ]
+  },
+  {
+   "s": "AO2 is worth ___ marks out of 72 in each component.",
+   "a": [
+    "18",
+    "eighteen"
+   ]
+  },
+  {
+   "s": "Ideas that are settled on too soon are consolidated too ___.",
+   "a": [
+    "early"
+   ]
+  },
+  {
+   "s": "Change only one ___ at a time in an experiment.",
+   "a": [
+    "variable",
+    "thing"
+   ]
+  },
+  {
+   "s": "Materials should be appropriate to your personal ___.",
+   "a": [
+    "intentions",
+    "intention",
+    "ideas"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give two things to experiment with when developing a composition.",
+   "model": "Viewpoint and crop (also scale, colour, symmetry or focal point).",
+   "points": [
+    "composition element 1",
+    "element 2"
+   ]
+  },
+  {
+   "q": "Write a short review of an experiment where charcoal smudged too much.",
+   "model": "The smudging lost the fine detail; next time I will use harder charcoal pencil and fix each layer.",
+   "points": [
+    "what happened",
+    "reason",
+    "next step"
+   ]
+  },
+  {
+   "q": "Why are failed experiments useful for AO2?",
+   "model": "They show you reviewed, understood why something didn't work and used that insight to refine your work.",
+   "points": [
+    "reflection/review",
+    "refinement based on insight"
+   ]
+  },
+  {
+   "q": "Describe the steps from thumbnail to final plan.",
+   "model": "Draw several thumbnails, choose two, make larger composition and colour studies, test materials, then make an annotated plan.",
+   "points": [
+    "thumbnails/selection",
+    "studies and material tests",
+    "final plan"
+   ]
+  },
+  {
+   "q": "How would you explain a choice of materials?",
+   "model": "Say why they suit your theme and mood, e.g. soft watercolour for a fragile, nostalgic feeling.",
+   "points": [
+    "links to theme/intention",
+    "reason for choice"
+   ]
+  }
+ ]
+}

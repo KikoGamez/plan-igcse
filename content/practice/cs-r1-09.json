@@ -1,0 +1,34 @@
+{"id":"cs-r1-09","cards":[
+{"f":"Input-process-output model","b":"A system takes input, processes it and produces output. Storage keeps data and programs."},
+{"f":"Von Neumann architecture","b":"Instructions and data are stored in the same main memory as binary and fetched by the CPU one at a time."},
+{"f":"Stored program concept","b":"Program instructions are held in memory with the data, so a computer can do different tasks by loading different programs."},
+{"f":"Control unit (CU)","b":"Decodes instructions and sends control signals to coordinate the other components."},
+{"f":"Arithmetic logic unit (ALU)","b":"Performs arithmetic (add, subtract) and logic (AND, OR, NOT) operations and comparisons."},
+{"f":"Registers","b":"Very small, very fast storage locations inside the CPU holding data, addresses or instructions in use."},
+{"f":"Program counter (PC)","b":"Holds the address of the next instruction to be fetched. Incremented during fetch."},
+{"f":"MAR and MDR","b":"Memory address register holds the address being accessed. Memory data register holds the data or instruction just read or about to be written."},
+{"f":"Address bus","b":"Carries the address of the memory location being accessed. One direction: CPU to memory."},
+{"f":"Data bus","b":"Carries data and instructions between the CPU, memory and input/output devices. Two-way."},
+{"f":"Control bus","b":"Carries control signals such as memory read, memory write and the clock."},
+{"f":"Fetch-decode-execute","b":"Fetch the instruction from memory (PC increments). Decode it in the control unit. Execute it, e.g. in the ALU."},
+{"f":"Clock speed","b":"Number of cycles per second, in hertz (GHz). Higher means more instructions can be processed each second."},
+{"f":"Why more cores can improve performance","b":"Each core can process instructions at the same time (parallel), if the software can use several cores."},
+{"f":"Embedded system","b":"A computer system built into a larger device to perform a dedicated function, e.g. a washing machine controller."}
+],
+"gaps":[
+{"s":"The part of the CPU that carries out calculations is the ___.","a":["ALU","arithmetic logic unit","arithmetic and logic unit"]},
+{"s":"The ___ holds the address of the next instruction to be fetched.","a":["program counter","PC"]},
+{"s":"The three stages of the cycle are fetch, decode and ___.","a":["execute"]},
+{"s":"The ___ bus carries memory addresses from the CPU to memory.","a":["address"]},
+{"s":"A CPU clock speed of 3 GHz means 3 billion ___ per second.","a":["cycles","clock cycles"]},
+{"s":"Small, fast memory close to the CPU that holds frequently used data is called ___.","a":["cache","cache memory"]},
+{"s":"In the Von Neumann model, data and instructions are held in the same ___.","a":["memory","main memory","RAM"]},
+{"s":"Processing different parts of a task at the same time on several cores is called ___ processing.","a":["parallel"]}
+],
+"short":[
+{"q":"Describe what happens in the fetch stage of the fetch-decode-execute cycle.","model":"The address in the program counter is sent to memory, and the instruction at that address is brought into the CPU. The program counter is then incremented.","points":["instruction at address in PC fetched from memory","PC incremented"]},
+{"q":"Explain the purpose of the clock in a CPU.","model":"The clock sends regular pulses that synchronise the operations of the CPU. The faster the clock, the more cycles per second, so more instructions can be executed.","points":["sends regular pulses to synchronise operations","higher speed gives more cycles / instructions per second"]},
+{"q":"Give two characteristics of an embedded system.","model":"It is built into a larger device and performs one dedicated task. It is usually small, low-power and runs a fixed program stored in ROM.","points":["built into a larger device","dedicated / specific function (e.g. fixed program, low power)"]},
+{"q":"Describe the difference between the address bus and the data bus.","model":"The address bus carries the address of the memory location to be accessed, in one direction from the CPU. The data bus carries the data or instructions themselves, in both directions.","points":["address bus carries addresses (one way)","data bus carries data/instructions (two way)"]},
+{"q":"Explain how having more than one core can improve the performance of a computer.","model":"Each core can run instructions at the same time, so several tasks, or parts of one task, can be processed in parallel. This only helps if the software can use multiple cores.","points":["cores can process instructions at the same time / parallel","only if software is written to use multiple cores"]}
+]}

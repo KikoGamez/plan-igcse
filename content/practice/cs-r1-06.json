@@ -1,0 +1,162 @@
+{
+ "id": "cs-r1-06",
+ "cards": [
+  {
+   "f": "Subprogram",
+   "b": "A named block of code that does a specific job and can be called from elsewhere in the program."
+  },
+  {
+   "f": "Procedure vs function",
+   "b": "A function returns a value to the caller (RETURN); a procedure does not."
+  },
+  {
+   "f": "Benefits of subprograms",
+   "b": "Code is reused, program is shorter, easier to read, test and debug, and work can be shared."
+  },
+  {
+   "f": "Parameter",
+   "b": "A variable named in the subprogram definition that receives the value passed in when it is called."
+  },
+  {
+   "f": "Local vs global variable",
+   "b": "Local: declared in a subprogram and only usable there. Global: declared outside and usable anywhere."
+  },
+  {
+   "f": "Validation",
+   "b": "An automated check that data entered is reasonable and acceptable for the program to process."
+  },
+  {
+   "f": "Range check",
+   "b": "Tests that a value lies between limits, e.g. a mark from 0 to 100."
+  },
+  {
+   "f": "Length, presence and format checks",
+   "b": "Length: number of characters. Presence: not left empty. Format: matches a pattern, e.g. email has @."
+  },
+  {
+   "f": "Type check",
+   "b": "Tests that the data is the right type, e.g. an age is a whole number."
+  },
+  {
+   "f": "Syntax error",
+   "b": "Code breaks the rules of the language, so the program will not run, e.g. a missing bracket."
+  },
+  {
+   "f": "Runtime error",
+   "b": "The program starts but crashes while running, e.g. dividing by zero or index out of range."
+  },
+  {
+   "f": "Logic error",
+   "b": "The program runs but gives wrong results, e.g. a + b / 2 instead of (a + b) / 2."
+  },
+  {
+   "f": "Normal test data",
+   "b": "Valid, typical data that should be accepted."
+  },
+  {
+   "f": "Boundary test data",
+   "b": "Data at the very edge of the valid range, just inside and just outside, e.g. 0, 100, -1, 101."
+  },
+  {
+   "f": "Erroneous test data",
+   "b": "Invalid or wrong-type data that should be rejected, e.g. text where a number is needed."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A subprogram that returns a value is a ___.",
+   "a": [
+    "function"
+   ]
+  },
+  {
+   "s": "A variable declared inside a subprogram is a ___ variable.",
+   "a": [
+    "local"
+   ]
+  },
+  {
+   "s": "A check that a value lies between two limits is a ___ check.",
+   "a": [
+    "range"
+   ]
+  },
+  {
+   "s": "An error that crashes the program while it is running is a ___ error.",
+   "a": [
+    "runtime",
+    "run-time",
+    "run time"
+   ]
+  },
+  {
+   "s": "A typing mistake that breaks the language rules is a ___ error.",
+   "a": [
+    "syntax"
+   ]
+  },
+  {
+   "s": "A test plan lists the test data, its type and the ___ outcome.",
+   "a": [
+    "expected",
+    "expected result"
+   ]
+  },
+  {
+   "s": "Data just inside or outside the limit of valid data is called ___ data.",
+   "a": [
+    "boundary"
+   ]
+  },
+  {
+   "s": "A value passed into a subprogram when it is called is an ___.",
+   "a": [
+    "argument",
+    "arg"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give two benefits of using subprograms.",
+   "model": "They let you reuse code instead of repeating it, and each small part is easier to read, test and debug.",
+   "points": [
+    "code can be reused / shorter",
+    "easier to test/debug/read or share work"
+   ]
+  },
+  {
+   "q": "A quantity must be from 1 to 50. Give one normal, two boundary and one erroneous test value with expected results.",
+   "model": "Normal: 20 accepted. Boundary: 1 and 50 accepted (or 0 and 51 rejected). Erroneous: 'abc' rejected with an error message.",
+   "points": [
+    "normal value accepted",
+    "two boundary values with outcomes",
+    "erroneous value rejected"
+   ]
+  },
+  {
+   "q": "Name the type of error for each: (a) a missing bracket, (b) dividing by zero while running, (c) adding VAT using the wrong percentage.",
+   "model": "(a) syntax error, (b) runtime error, (c) logic error.",
+   "points": [
+    "syntax for missing bracket",
+    "runtime for divide by zero and logic for wrong percentage"
+   ]
+  },
+  {
+   "q": "Write a Python function double(n) that returns twice n, and show it being called.",
+   "model": "def double(n): return n * 2, then print(double(4)) which outputs 8.",
+   "points": [
+    "def with parameter and return",
+    "call with argument, result used"
+   ]
+  },
+  {
+   "q": "Describe how a validation loop for a password of at least 8 characters would work.",
+   "model": "Ask for the password, check its length, and if it is less than 8 characters show an error message and ask again. Repeat until it is 8 or more, then accept it.",
+   "points": [
+    "checks length at least 8",
+    "repeats with error message until valid"
+   ]
+  }
+ ]
+}

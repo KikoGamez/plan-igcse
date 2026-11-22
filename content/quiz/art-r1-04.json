@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-04",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which pair are complementary colours?",
+   "options": [
+    "Red and orange",
+    "Blue and orange",
+    "Yellow and green",
+    "Blue and purple"
+   ],
+   "answer": 1,
+   "why": "Complementary colours sit opposite each other on the wheel: blue and orange."
+  },
+  {
+   "type": "mcq",
+   "q": "Which paint is transparent and uses the white of the paper for highlights?",
+   "options": [
+    "Acrylic",
+    "Gouache",
+    "Watercolour",
+    "Oil pastel"
+   ],
+   "answer": 2,
+   "why": "Watercolour is transparent, so highlights are left as paper or lifted out."
+  },
+  {
+   "type": "mcq",
+   "q": "A tint is",
+   "options": [
+    "a hue with black added",
+    "a hue with white added",
+    "a colour's opposite",
+    "a very thick paint layer"
+   ],
+   "answer": 1,
+   "why": "Tint = hue + white; shade = hue + black."
+  },
+  {
+   "type": "short",
+   "q": "Describe how to mix a dark without using black.",
+   "model": "Mix two complementary colours, such as blue and orange, to make a deep brown-grey and adjust the balance; it is richer than black.",
+   "points": [
+    "mix complementaries",
+    "richer/more natural than black"
+   ]
+  }
+ ]
+}

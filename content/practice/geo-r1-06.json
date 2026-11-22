@@ -1,0 +1,37 @@
+{"id":"geo-r1-06","cards":[
+{"f":"Tropical cyclone","b":"A large rotating storm with low pressure, winds over 119 km/h, heavy rain and storm surge, forming over warm tropical oceans."},
+{"f":"Hurricane vs typhoon vs cyclone","b":"Same storm, different places: hurricane (Atlantic/NE Pacific), typhoon (NW Pacific), cyclone (Indian Ocean/South Pacific)."},
+{"f":"Where do tropical cyclones form?","b":"Over warm oceans between about 5° and 30° north and south of the equator."},
+{"f":"Sea temperature needed","b":"At least 27°C, to a depth of about 50 metres."},
+{"f":"Why not at the equator?","b":"The Coriolis force is too weak there to make the air spin."},
+{"f":"Coriolis force","b":"The effect of the Earth's rotation that makes moving air spin: anticlockwise in the north, clockwise in the south."},
+{"f":"Wind shear","b":"A change in wind speed or direction with height. High shear tears a developing storm apart, so low shear is needed."},
+{"f":"Eye of a cyclone","b":"The calm centre with sinking air, clear skies and light winds, surrounded by the eyewall with the strongest winds."},
+{"f":"Why does a cyclone weaken over land?","b":"It loses its supply of warm moist air (energy), and friction slows the wind."},
+{"f":"Saffir-Simpson scale","b":"Categories 1–5 based on sustained wind speed. Category 1 begins at 74 mph; Category 5 is 157 mph or more."},
+{"f":"Storm surge","b":"A rise in sea level caused by low pressure and strong winds; it floods low coasts and causes most deaths."},
+{"f":"Primary impacts of a cyclone","b":"Immediate: buildings destroyed, trees and power lines down, flooding, deaths and injuries."},
+{"f":"Secondary impacts of a cyclone","b":"Later: disease from dirty water, food shortages, homelessness, lost jobs, landslides, economic damage."},
+{"f":"Why are poorer countries more vulnerable?","b":"Weak housing, exposed locations, poor roads and warnings, less money for defences, shelters and recovery."},
+{"f":"Prediction methods","b":"Satellites, radar, aircraft and storm tracking show the path and strength, giving days of warning."},
+{"f":"Preparation methods","b":"Warnings, evacuation, cyclone shelters, stronger buildings, storm shutters, sea walls and hazard maps."},
+{"f":"Short-term relief","b":"Search and rescue, emergency food, water and medicine, temporary shelter and international aid."},
+{"f":"Long-term planning","b":"Rebuilding to higher standards, hazard mapping, risk assessment, improved defences and economic recovery."}
+],
+"gaps":[
+{"s":"A tropical cyclone needs a sea temperature of at least ___ °C.","a":["27"]},
+{"s":"The calm centre of a tropical cyclone is called the ___.","a":["eye"]},
+{"s":"In the north-west Pacific a tropical cyclone is called a ___.","a":["typhoon"]},
+{"s":"A tropical cyclone in the Atlantic Ocean is called a ___.","a":["hurricane"]},
+{"s":"The ___ force, caused by the Earth's rotation, makes the air spin.","a":["coriolis"]},
+{"s":"The scale used to classify tropical cyclones from 1 to 5 is the ___ scale.","a":["saffir-simpson","saffir simpson","saffir-simpson hurricane wind"]},
+{"s":"A rise in sea level caused by low pressure and strong winds is a storm ___.","a":["surge"]},
+{"s":"Disease spreading after a cyclone because of dirty water is a ___ impact.","a":["secondary"]}
+],
+"short":[
+{"q":"Explain why wind shear must be low for a tropical cyclone to form.","model":"High wind shear tears apart the tall column of rising air and clouds, so the storm cannot organise or intensify.","points":["high shear disrupts/tears apart the storm","low shear lets the rising column build"]},
+{"q":"Describe one way that storm tracking helps reduce deaths.","model":"Satellites and radar show the path and strength of the storm, so authorities can warn people and evacuate them from areas likely to be hit.","points":["tracking shows path/strength","warning and evacuation"]},
+{"q":"Give two reasons why a tropical cyclone may cause fewer deaths in a richer country.","model":"There is better warning and evacuation using good roads and communication, and stronger buildings and defences that survive the winds and surge.","points":["better warning/evacuation","stronger buildings/defences/emergency services"]},
+{"q":"Explain how a storm surge is produced by a tropical cyclone.","model":"Very low pressure at the centre lets the sea rise up, and strong winds push the water towards the coast, causing flooding when it reaches low land.","points":["low pressure lets sea level rise","winds push water onto the coast, flooding"]},
+{"q":"Explain one long-term response to a tropical cyclone.","model":"Rebuilding homes and infrastructure to higher standards, and drawing up hazard maps so that new building avoids flood-risk zones.","points":["rebuild stronger / improved defences","hazard mapping / planning / risk assessment"]}
+]}

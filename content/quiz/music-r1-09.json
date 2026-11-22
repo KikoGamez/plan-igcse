@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-09",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "In Indian classical music, a tala is:",
+   "options": [
+    "A drone instrument",
+    "A repeating rhythmic cycle",
+    "A type of melodic framework",
+    "A solo drum"
+   ],
+   "answer": 1,
+   "why": "Tala is the rhythmic cycle; raga is the melodic framework."
+  },
+  {
+   "type": "mcq",
+   "q": "Which instrument is associated with Irish folk music?",
+   "options": [
+    "Djembe",
+    "Sitar",
+    "Bodhrán",
+    "Saron"
+   ],
+   "answer": 2,
+   "why": "The bodhrán is an Irish frame drum."
+  },
+  {
+   "type": "mcq",
+   "q": "What is gamelan's colotomic structure?",
+   "options": [
+    "A cycle whose points are marked by gongs",
+    "A single melody without accompaniment",
+    "Free improvisation without pulse",
+    "Music in two keys at once"
+   ],
+   "answer": 0,
+   "why": "Gongs mark fixed points in the repeating cycle."
+  },
+  {
+   "type": "short",
+   "q": "Describe two features of West African drumming.",
+   "model": "Several drums play different rhythms together (polyrhythm), with call and response between leader and group; a master drummer improvises over repeated ostinati.",
+   "points": [
+    "Polyrhythm / cross-rhythms",
+    "Call and response / improvisation"
+   ]
+  }
+ ]
+}

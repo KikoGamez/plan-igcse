@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-05",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A monoprint is",
+   "options": [
+    "one of an edition of 20",
+    "a single unique print from a plate",
+    "a print from lino",
+    "a print using a mesh screen"
+   ],
+   "answer": 1,
+   "why": "A monoprint gives one unique impression."
+  },
+  {
+   "type": "mcq",
+   "q": "Which artist is known for Dada photomontage?",
+   "options": [
+    "Hannah Höch",
+    "Hokusai",
+    "Angie Lewin",
+    "Rembrandt"
+   ],
+   "answer": 0,
+   "why": "Hannah Höch made Dada photomontages from cut photographs."
+  },
+  {
+   "type": "mcq",
+   "q": "Why is a lino design drawn in reverse for text?",
+   "options": [
+    "Lino is soft",
+    "The print is flipped when pressed on paper",
+    "Ink dries backwards",
+    "It saves time"
+   ],
+   "answer": 1,
+   "why": "Relief prints mirror the block, so text must be reversed."
+  },
+  {
+   "type": "short",
+   "q": "Give two tips for a clean lino print.",
+   "model": "Roll ink thin and even; carve clean areas and apply even pressure with a baren or press.",
+   "points": [
+    "thin even ink",
+    "clean carving / even pressure"
+   ]
+  }
+ ]
+}

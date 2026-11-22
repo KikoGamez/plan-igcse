@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-12",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which three things make up the golden triangle?",
+   "options": [
+    "Sport, sponsorship, media",
+    "Sport, school, family",
+    "Media, money, fans",
+    "Sport, health, fitness"
+   ],
+   "answer": 0,
+   "why": "The golden triangle links sport, sponsorship and the media."
+  },
+  {
+   "type": "mcq",
+   "q": "Time-wasting when your team is ahead is an example of",
+   "options": [
+    "gamesmanship",
+    "hooliganism",
+    "drug use",
+    "positive deviance"
+   ],
+   "answer": 0,
+   "why": "Gamesmanship bends the rules without breaking them to gain an advantage."
+  },
+  {
+   "type": "mcq",
+   "q": "The mean of 10, 12, 14 and 20 is",
+   "options": [
+    "14",
+    "12",
+    "13",
+    "15"
+   ],
+   "answer": 0,
+   "why": "10 + 12 + 14 + 20 = 56, and 56 ÷ 4 = 14."
+  },
+  {
+   "type": "short",
+   "q": "Explain one positive and one negative effect of sponsorship on a sport.",
+   "model": "Positive: sponsorship brings money for facilities and professional athletes. Negative: sponsors can influence timings or rules, and may withdraw if results fall.",
+   "points": [
+    "positive effect with reason",
+    "negative effect with reason"
+   ]
+  }
+ ]
+}

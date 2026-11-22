@@ -1,12 +1,12 @@
 /* IGCSE plan app (shared by the Spanish and English shells). Data and texts come from data-<lang>.js as window.DATA. */
 (function(){
 const DATA=window.DATA,T=DATA.T,S=DATA.S,LANG=DATA.lang,BASE=DATA.base;
-const ALL_SUBJ=['math','stats','bio','chem','phys','bus','eng','fr','spa'];
+const BASE9=['math','stats','bio','chem','phys','bus','eng','fr','spa'],ALL_SUBJ=BASE9.concat(['geo','cs','ger','music','art','pe']).filter(k=>S[k]);
 /* A student's own profile (set by the welcome screen). No profile = Carlota's original plan. */
 const PKEY='igcse-profile-v1';
 const PROF=(()=>{let v=null;try{v=window.IGVIEW?window.IGVIEW[PKEY]:JSON.parse(localStorage.getItem(PKEY)||'null')}catch(e){}
   return v&&/^\d{4}-\d\d-\d\d$/.test(v.start||'')&&/^\d{4}-\d\d-\d\d$/.test(v.exam||'')&&v.rule&&Array.isArray(v.subj)&&v.subj.some(k=>ALL_SUBJ.includes(k))?v:null})();
-const ORDER=PROF?ALL_SUBJ.filter(k=>PROF.subj.includes(k)):ALL_SUBJ;
+const ORDER=PROF?ALL_SUBJ.filter(k=>PROF.subj.includes(k)):BASE9;
 const COL=k=>`var(--c-${k})`;
 const $=id=>document.getElementById(id);
 const IC={
@@ -19,6 +19,12 @@ const IC={
   stats:'<path d="M4 20V11M10 20V5M16 20v-8M21 20H3"/>',
   bus:'<rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 13h18"/>',
   fr:'<path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/>',
+  geo:'<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/>',
+  cs:'<path d="M8 7l-5 5 5 5M16 7l5 5-5 5M14 4l-4 16"/>',
+  ger:'<path d="M4 5h16v11H9l-5 4z"/><path d="M9 8v5M9 8h3a2 2 0 0 1 0 4H9"/>',
+  music:'<path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/>',
+  art:'<path d="M12 3a9 9 0 1 0 0 18c1.5 0 2-1 2-2s-1-1.5-1-2.5 1-1.5 2.5-1.5H18a3 3 0 0 0 3-3c0-5-4-9-9-9z"/><circle cx="7.5" cy="11" r="1"/><circle cx="10" cy="7" r="1"/><circle cx="15" cy="7" r="1"/>',
+  pe:'<path d="M6 7v10M18 7v10M3 10v4M21 10v4M6 12h12"/>',
   mix:'<path d="M20 11a8 8 0 1 0-2 6"/><path d="M20 5v6h-6"/>',
   hoy:'<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/>',
   calendario:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',

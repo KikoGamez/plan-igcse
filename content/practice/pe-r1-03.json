@@ -1,0 +1,169 @@
+{
+ "id": "pe-r1-03",
+ "cards": [
+  {
+   "f": "Parts of a lever in the body",
+   "b": "Fulcrum = joint; effort = muscle; load = body part or weight to be moved; bone acts as the lever."
+  },
+  {
+   "f": "First-class lever",
+   "b": "Fulcrum is in the middle (effort – fulcrum – load). Example: head tilting back at the neck."
+  },
+  {
+   "f": "Second-class lever",
+   "b": "Load is in the middle (fulcrum – load – effort). Example: standing on tiptoes."
+  },
+  {
+   "f": "Third-class lever",
+   "b": "Effort is in the middle (fulcrum – effort – load). Example: bicep curl. Most body levers."
+  },
+  {
+   "f": "Class order trick",
+   "b": "1-2-3 = F-L-E: the Fulcrum, Load or Effort is in the middle."
+  },
+  {
+   "f": "Mechanical advantage formula",
+   "b": "Effort arm ÷ load arm."
+  },
+  {
+   "f": "MA greater than 1 means",
+   "b": "A force multiplier: small effort moves a large load, but less speed and range."
+  },
+  {
+   "f": "MA less than 1 means",
+   "b": "More effort needed, but gives speed and range of movement."
+  },
+  {
+   "f": "Why third-class levers suit sport",
+   "b": "Short effort arm gives MA < 1, so limbs move fast and far for throwing, kicking, swinging."
+  },
+  {
+   "f": "Sagittal plane",
+   "b": "Divides body into left and right. Flexion/extension, e.g. running, somersault."
+  },
+  {
+   "f": "Frontal plane",
+   "b": "Divides body into front and back. Abduction/adduction, e.g. cartwheel, star jump."
+  },
+  {
+   "f": "Transverse plane",
+   "b": "Divides body into top and bottom. Rotation, e.g. discus, pirouette."
+  },
+  {
+   "f": "Frontal axis",
+   "b": "Runs side to side. Goes with sagittal plane, e.g. somersault."
+  },
+  {
+   "f": "Sagittal axis",
+   "b": "Runs front to back. Goes with frontal plane, e.g. cartwheel."
+  },
+  {
+   "f": "Longitudinal axis",
+   "b": "Runs head to toe. Goes with transverse plane, e.g. spin or twist."
+  },
+  {
+   "f": "Plane and axis for a bicep curl",
+   "b": "Sagittal plane, frontal axis (flexion at the elbow)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The joint in a body lever is the ___.",
+   "a": [
+    "fulcrum"
+   ]
+  },
+  {
+   "s": "The force provided by a muscle is the ___.",
+   "a": [
+    "effort"
+   ]
+  },
+  {
+   "s": "In a third-class lever the ___ is between the fulcrum and the load.",
+   "a": [
+    "effort"
+   ]
+  },
+  {
+   "s": "Standing on tiptoes is an example of a ___ class lever.",
+   "a": [
+    "second",
+    "2nd",
+    "2"
+   ]
+  },
+  {
+   "s": "Mechanical advantage equals effort arm divided by ___ arm.",
+   "a": [
+    "load"
+   ]
+  },
+  {
+   "s": "A somersault is in the sagittal plane about the ___ axis.",
+   "a": [
+    "frontal"
+   ]
+  },
+  {
+   "s": "Twisting movements happen in the ___ plane.",
+   "a": [
+    "transverse"
+   ]
+  },
+  {
+   "s": "The axis that runs from head to toe is the ___ axis.",
+   "a": [
+    "longitudinal"
+   ]
+  },
+  {
+   "s": "Abduction and adduction take place in the ___ plane.",
+   "a": [
+    "frontal"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Calculate the mechanical advantage when the effort arm is 2 cm and the load arm is 20 cm, and say what it means.",
+   "model": "MA = 2 ÷ 20 = 0.1. It is below 1, so a large effort is needed but the lever gives speed and range of movement.",
+   "points": [
+    "0.1",
+    "less than 1 means speed/range at cost of force"
+   ]
+  },
+  {
+   "q": "Describe the lever system used in a bicep curl.",
+   "model": "Third-class lever: elbow is the fulcrum, biceps pulls between the elbow and hand (effort), and the weight in the hand is the load.",
+   "points": [
+    "third class",
+    "fulcrum/effort/load identified"
+   ]
+  },
+  {
+   "q": "Name the plane and axis for a forward roll, and the type of movement.",
+   "model": "Sagittal plane and frontal axis; the movement is flexion and extension.",
+   "points": [
+    "sagittal plane",
+    "frontal axis"
+   ]
+  },
+  {
+   "q": "Explain why a longer lever, such as a hockey stick, can hit the ball harder.",
+   "model": "A longer lever increases the load arm so the end moves faster for the same rotation, giving a greater speed of contact, though more effort is needed.",
+   "points": [
+    "longer lever / larger load arm",
+    "faster at the end"
+   ]
+  },
+  {
+   "q": "Name the plane and axis of a discus thrower's spin and name the movement.",
+   "model": "Transverse plane, longitudinal axis; the movement is rotation.",
+   "points": [
+    "transverse plane",
+    "longitudinal axis"
+   ]
+  }
+ ]
+}

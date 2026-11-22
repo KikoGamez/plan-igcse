@@ -1,0 +1,6 @@
+{"id":"geo-r1-01","questions":[
+{"type":"mcq","q":"What name is given to the high land that separates one drainage basin from another?","options":["Confluence","Watershed","Source","Tributary"],"answer":1,"why":"The watershed is the ridge of high land that divides drainage basins."},
+{"type":"mcq","q":"Which process is when rocks carried by a river knock against each other and become smaller and rounder?","options":["Abrasion","Hydraulic action","Solution","Attrition"],"answer":3,"why":"Attrition is rock against rock; abrasion is rock against the bed and banks."},
+{"type":"mcq","q":"On a meander, what forms on the inside of the bend?","options":["A river cliff by erosion","A slip-off slope by deposition","A plunge pool by abrasion","A levee by erosion"],"answer":1,"why":"Water is slow and shallow on the inside, so material is deposited, forming a slip-off slope."},
+{"type":"short","q":"Explain how a waterfall forms.","model":"A river flows over hard rock lying above softer rock. The soft rock is eroded faster by hydraulic action and abrasion, undercutting the hard rock and creating a plunge pool. The overhang collapses and the waterfall retreats upstream, leaving a gorge.","points":["hard rock over soft rock; soft rock eroded faster / undercutting","plunge pool, overhang collapses","waterfall retreats upstream leaving a gorge"]}
+]}

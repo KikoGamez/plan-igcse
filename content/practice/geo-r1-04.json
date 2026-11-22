@@ -1,0 +1,37 @@
+{"id":"geo-r1-04","cards":[
+{"f":"Biotic vs abiotic","b":"Biotic: living parts of an ecosystem (plants, animals). Abiotic: non-living parts (temperature, salinity, light, soil)."},
+{"f":"Conditions for coral reefs","b":"Warm (about 23–29°C), clear, shallow, sunlit, salty water in tropical seas between about 30°N and 30°S."},
+{"f":"Why are coral reefs important?","b":"Very high biodiversity, protect coasts by absorbing wave energy, and support tourism and fishing."},
+{"f":"Mangrove features","b":"Salt-tolerant trees in muddy tropical shores with stilt roots. Nursery for fish, trap sediment, slow waves."},
+{"f":"Salt marsh","b":"Muddy, salty, tidal land in sheltered estuaries, with salt-tolerant plants. Absorbs wave energy and supports birds."},
+{"f":"Sand dune ecosystem","b":"Windblown sand stabilised by marram grass, which has long roots. Dunes act as a natural sea defence."},
+{"f":"Coral bleaching","b":"Stressed corals (warm water, pollution) expel their algae and turn white. Many then die."},
+{"f":"Threats from tourism","b":"Anchors and divers damage reefs; sewage and waste pollute water; hotels built on dunes and mangroves."},
+{"f":"Threats from agriculture","b":"Fertiliser and soil runoff cause algal blooms and cloudy water; pesticides poison marine life."},
+{"f":"Storm surge","b":"A rise in sea level caused by low air pressure and strong winds, especially at high tide."},
+{"f":"Causes of coastal flooding","b":"Storm surges, tsunamis and climate change (sea-level rise and stronger storms)."},
+{"f":"Sea wall: pros and cons","b":"Very effective at stopping erosion and flooding. But very expensive, can be ugly and erode at the base."},
+{"f":"Groynes: pros and cons","b":"Trap sediment and build beaches, relatively cheap. But starve beaches downdrift, causing more erosion there."},
+{"f":"Rip-rap and gabions","b":"Rip-rap: large boulders piled at the cliff base. Gabions: wire cages of stones. Cheap but can look unattractive."},
+{"f":"Beach replenishment","b":"Adding sand or shingle to the beach. Natural-looking and good for tourism, but must be repeated, costly and dredging harms habitats."},
+{"f":"Managed retreat","b":"Allowing the sea to flood land in a planned way. Cheap and creates marsh habitat, but people lose homes and land."},
+{"f":"Four SMP options","b":"Hold the line, advance the line, managed realignment (retreat), and do nothing."},
+{"f":"Conservation vs development","b":"Conservation protects nature but limits building; development brings jobs and income but can damage the environment."}
+],
+"gaps":[
+{"s":"Corals expel their algae and turn white in a process called coral ___.","a":["bleaching"]},
+{"s":"Trees such as mangroves that live in salty tidal mud have ___ roots.","a":["stilt","breathing","prop"]},
+{"s":"A rise in sea level caused by low pressure and strong winds is a storm ___.","a":["surge"]},
+{"s":"Barriers built at right angles to the beach to trap sediment are called ___.","a":["groynes","groyne"]},
+{"s":"Adding sand to a beach is known as beach ___.","a":["replenishment","nourishment"]},
+{"s":"Planned flooding of land and moving people back is called managed ___.","a":["retreat","realignment"]},
+{"s":"Water temperature and salinity are examples of ___ factors in an ecosystem.","a":["abiotic"]},
+{"s":"Plants that tolerate salt, found on salt marshes, are called ___.","a":["halophytes","halophyte"]}
+],
+"short":[
+{"q":"Explain why mangroves are important for coastal protection.","model":"Their roots slow waves and absorb wave energy, and trap sediment, which reduces erosion and flooding behind them.","points":["roots absorb wave energy / slow water","trap sediment, reducing erosion and flooding"]},
+{"q":"Give two ways that climate change threatens coral reefs.","model":"Warmer seas cause coral bleaching, and ocean acidification weakens coral skeletons. Sea-level rise can also change light levels.","points":["warm water causes bleaching","ocean acidification / sea-level rise"]},
+{"q":"Describe one disadvantage of hard engineering on the coast.","model":"Hard engineering such as sea walls is very expensive to build and maintain, and can increase erosion elsewhere along the coast.","points":["expensive","can increase erosion elsewhere / ugly / disrupts sediment"]},
+{"q":"Explain why managed retreat may be chosen instead of building a sea wall.","model":"It is much cheaper than defending low-value land, and the flooded land can become salt marsh that absorbs wave energy and provides habitat.","points":["cheaper than hard defences","creates natural habitat / sustainable"]},
+{"q":"State one conflict between conservationists and developers on a coast.","model":"Developers want to build hotels or ports for jobs and income, while conservationists want to protect habitats like dunes or mangroves from damage.","points":["developers want hotels/ports/jobs","conservationists want to protect habitats"]}
+]}

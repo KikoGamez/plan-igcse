@@ -1,0 +1,51 @@
+{
+ "id": "geo-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which employment sector would a research scientist belong to?",
+   "options": [
+    "primary",
+    "secondary",
+    "tertiary",
+    "quaternary"
+   ],
+   "answer": 3,
+   "why": "Research and development is knowledge-based work, the quaternary sector."
+  },
+  {
+   "type": "mcq",
+   "q": "In the Clark-Fisher model, which sector is largest in a low-income country?",
+   "options": [
+    "primary",
+    "secondary",
+    "tertiary",
+    "quaternary"
+   ],
+   "answer": 0,
+   "why": "Low-income countries rely on subsistence farming and extraction, so primary employment dominates."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is the best definition of informal employment?",
+   "options": [
+    "work done by children only",
+    "work that is not registered or taxed by the government",
+    "work in the quaternary sector",
+    "work in factories owned by TNCs"
+   ],
+   "answer": 1,
+   "why": "Informal jobs have no contract, tax or regulation, e.g. street vending."
+  },
+  {
+   "type": "short",
+   "q": "Explain one negative impact of an economic sector shift in a named developed country.",
+   "model": "In the UK the decline of coal mining led to job losses in South Wales mining towns, causing a negative multiplier as shops closed and young people moved away.",
+   "points": [
+    "named country and sector shift (e.g. decline of mining/manufacturing)",
+    "a negative impact such as unemployment",
+    "development such as negative multiplier or out-migration"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "music-r1-05",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A single unaccompanied melody has which texture?",
+   "options": [
+    "Homophonic",
+    "Polyphonic",
+    "Monophonic",
+    "Layered"
+   ],
+   "answer": 2,
+   "why": "Monophonic means one melodic line only."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the layout of ternary form?",
+   "options": [
+    "A B",
+    "A B A",
+    "A B A C A",
+    "A A A"
+   ],
+   "answer": 1,
+   "why": "Ternary is A B A."
+  },
+  {
+   "type": "mcq",
+   "q": "In a Baroque concerto, a recurring orchestral theme between solo episodes is called",
+   "options": [
+    "a ground bass",
+    "a coda",
+    "a ritornello",
+    "a cadenza"
+   ],
+   "answer": 2,
+   "why": "The ritornello returns in different keys between solo episodes."
+  },
+  {
+   "type": "short",
+   "q": "What is the difference between homophonic and polyphonic texture?",
+   "model": "Homophonic: chords or melody with accompaniment; polyphonic: two or more independent melodies at once.",
+   "points": [
+    "homophonic definition",
+    "polyphonic definition"
+   ]
+  }
+ ]
+}

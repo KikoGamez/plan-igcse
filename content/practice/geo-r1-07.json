@@ -1,0 +1,160 @@
+{
+ "id": "geo-r1-07",
+ "cards": [
+  {
+   "f": "Primary sector",
+   "b": "Extracting or growing raw materials, e.g. farming, fishing, mining, forestry."
+  },
+  {
+   "f": "Secondary sector",
+   "b": "Manufacturing: making goods from raw materials, e.g. car assembly, steel, food processing."
+  },
+  {
+   "f": "Tertiary sector",
+   "b": "Providing services, e.g. teaching, nursing, retail, banking, tourism."
+  },
+  {
+   "f": "Quaternary sector",
+   "b": "Knowledge-based work such as research, IT and development."
+  },
+  {
+   "f": "Clark-Fisher model",
+   "b": "As a country develops, employment shifts from primary to secondary and then to tertiary and quaternary."
+  },
+  {
+   "f": "Five reasons employment in sectors changes",
+   "b": "Raw materials, globalisation, mechanisation, demographic change and government policies."
+  },
+  {
+   "f": "Mechanisation",
+   "b": "Using machines to replace human labour: output rises but fewer workers are needed."
+  },
+  {
+   "f": "Informal employment",
+   "b": "Work not registered with, taxed or regulated by the government, e.g. street vending, waste picking."
+  },
+  {
+   "f": "Two causes of informal employment",
+   "b": "Rural-urban migration (more people than formal jobs) and slow economic development / lack of education."
+  },
+  {
+   "f": "Advantage of informal work",
+   "b": "Gives an income when there are no formal jobs; flexible hours and low start-up costs."
+  },
+  {
+   "f": "Disadvantage of informal work",
+   "b": "Low pay, no job security, sick pay or pension, and no tax paid so the government loses income."
+  },
+  {
+   "f": "Malthus",
+   "b": "Population grows exponentially but food only arithmetically, so famine, disease and war will check population."
+  },
+  {
+   "f": "Boserup",
+   "b": "Population growth stimulates innovation, so food production keeps up with growth."
+  },
+  {
+   "f": "Reading a triangular graph",
+   "b": "Each corner is 100% of one sector; read all three values and check they total 100%."
+  },
+  {
+   "f": "Negative multiplier effect",
+   "b": "Job losses in one industry reduce spending, so shops and other jobs also close and people leave."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Making goods from raw materials is the ___ sector.",
+   "a": [
+    "secondary"
+   ]
+  },
+  {
+   "s": "Work that is not registered or taxed is called ___ employment.",
+   "a": [
+    "informal"
+   ]
+  },
+  {
+   "s": "The ___ model links a country's level of development to its employment structure.",
+   "a": [
+    "Clark-Fisher",
+    "Clark Fisher"
+   ]
+  },
+  {
+   "s": "___ argued that population grows faster than food supply.",
+   "a": [
+    "Malthus"
+   ]
+  },
+  {
+   "s": "___ argued that population growth leads to innovation in farming.",
+   "a": [
+    "Boserup"
+   ]
+  },
+  {
+   "s": "Using robots and machines to replace workers is called ___.",
+   "a": [
+    "mechanisation",
+    "mechanization"
+   ]
+  },
+  {
+   "s": "People moving from villages to cities is called rural-___ migration.",
+   "a": [
+    "urban"
+   ]
+  },
+  {
+   "s": "A graph with three corners used to show employment in the three sectors is a ___ graph.",
+   "a": [
+    "triangular"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how employment structure changes as a country develops.",
+   "model": "Employment moves from mostly primary in low-income countries, to secondary as factories grow, then to tertiary and quaternary in high-income countries.",
+   "points": [
+    "primary to secondary",
+    "then tertiary/quaternary"
+   ]
+  },
+  {
+   "q": "Explain two reasons why manufacturing jobs have fallen in a developed country.",
+   "model": "Globalisation moved factories to cheaper-labour countries, and mechanisation replaced workers with robots, so fewer people are needed.",
+   "points": [
+    "globalisation/TNCs relocating",
+    "mechanisation/robots",
+    "development of each"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of informal employment.",
+   "model": "It provides income where formal jobs are scarce; but pay is low and unreliable with no job security or tax paid.",
+   "points": [
+    "advantage with explanation",
+    "disadvantage with explanation"
+   ]
+  },
+  {
+   "q": "Explain one positive and one negative impact of a shift to secondary employment in an emerging country.",
+   "model": "Positive: higher wages and a positive multiplier as workers spend money. Negative: pollution and overcrowding in cities as migrants arrive.",
+   "points": [
+    "positive impact developed",
+    "negative impact developed"
+   ]
+  },
+  {
+   "q": "Compare the views of Malthus and Boserup on population and resources.",
+   "model": "Malthus thought food supply cannot keep up with population, leading to famine; Boserup thought population growth drives innovation so food supply rises.",
+   "points": [
+    "Malthus: population outstrips food",
+    "Boserup: innovation increases food"
+   ]
+  }
+ ]
+}

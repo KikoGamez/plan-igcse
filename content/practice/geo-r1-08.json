@@ -1,0 +1,158 @@
+{
+ "id": "geo-r1-08",
+ "cards": [
+  {
+   "f": "Energy demand rises because of...",
+   "b": "Population growth, increased wealth and technological advances."
+  },
+  {
+   "f": "Energy gap",
+   "b": "When a country's demand for energy is greater than it can produce or afford."
+  },
+  {
+   "f": "Energy security",
+   "b": "Having a reliable and affordable supply of energy."
+  },
+  {
+   "f": "Balanced energy mix",
+   "b": "Using a range of energy sources so a country does not depend on one fuel or supplier."
+  },
+  {
+   "f": "Non-renewable energy examples",
+   "b": "Coal, oil, natural gas, uranium, shale gas/oil."
+  },
+  {
+   "f": "Renewable energy examples",
+   "b": "Solar, wind, hydroelectric power (HEP), geothermal and biomass."
+  },
+  {
+   "f": "Advantages and disadvantages of nuclear power",
+   "b": "No CO₂ when generating and high output; but radioactive waste, accident risk and high costs."
+  },
+  {
+   "f": "Disadvantage of wind power",
+   "b": "Unreliable because it depends on wind; can spoil views, make noise and harm birds."
+  },
+  {
+   "f": "Disadvantage of fossil fuels",
+   "b": "Burning them releases CO₂, which enhances the greenhouse effect and causes climate change."
+  },
+  {
+   "f": "Energy efficiency",
+   "b": "Using less energy to do the same job, e.g. LED bulbs, insulation, hybrid vehicles."
+  },
+  {
+   "f": "Energy conservation",
+   "b": "Reducing the amount of energy used, e.g. switching off lights, car-sharing, cycling."
+  },
+  {
+   "f": "Three ways to manage energy sustainably",
+   "b": "Education, efficiency and conservation (in industry, transport and the home)."
+  },
+  {
+   "f": "Carbon footprint",
+   "b": "The total greenhouse gases produced by a person, product, activity or country, measured in tonnes of CO₂."
+  },
+  {
+   "f": "Ecological footprint",
+   "b": "The area of land and sea needed to supply someone's resources and absorb their waste."
+  },
+  {
+   "f": "Shale gas disadvantages",
+   "b": "Fracking can cause small earth tremors and water pollution, and faces local opposition."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Coal, oil and gas are called ___ fuels.",
+   "a": [
+    "fossil"
+   ]
+  },
+  {
+   "s": "Solar and wind are ___ energy sources because they do not run out.",
+   "a": [
+    "renewable"
+   ]
+  },
+  {
+   "s": "When demand is greater than supply there is an energy ___.",
+   "a": [
+    "gap"
+   ]
+  },
+  {
+   "s": "A reliable, affordable energy supply is called energy ___.",
+   "a": [
+    "security"
+   ]
+  },
+  {
+   "s": "Using a variety of sources is called a balanced energy ___.",
+   "a": [
+    "mix"
+   ]
+  },
+  {
+   "s": "Using LED bulbs is an example of energy ___.",
+   "a": [
+    "efficiency"
+   ]
+  },
+  {
+   "s": "Switching off lights to use less energy is energy ___.",
+   "a": [
+    "conservation"
+   ]
+  },
+  {
+   "s": "Burning fossil fuels releases ___ dioxide.",
+   "a": [
+    "carbon"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain two reasons why global energy demand is increasing.",
+   "model": "Population growth means more people need energy; and increased wealth means more cars, appliances and industry, especially in emerging countries.",
+   "points": [
+    "population growth",
+    "increased wealth or technology",
+    "development"
+   ]
+  },
+  {
+   "q": "Explain one advantage and one disadvantage of nuclear power.",
+   "model": "Advantage: no CO₂ is emitted when generating, so less climate change. Disadvantage: radioactive waste remains dangerous for thousands of years.",
+   "points": [
+    "advantage developed",
+    "disadvantage developed"
+   ]
+  },
+  {
+   "q": "Explain why a balanced energy mix improves energy security.",
+   "model": "A country that uses several sources is not reliant on one fuel or supplier, so supply continues if one source becomes expensive or runs out.",
+   "points": [
+    "not reliant on one source",
+    "supply continues if a source fails"
+   ]
+  },
+  {
+   "q": "Explain two ways of managing energy sustainably in industry or transport.",
+   "model": "Efficiency: more efficient machines or electric vehicles use less energy for the same output. Conservation: car-sharing and public transport reduce energy used.",
+   "points": [
+    "method one with effect",
+    "method two with effect"
+   ]
+  },
+  {
+   "q": "Describe how a named country has changed its energy mix.",
+   "model": "The UK reduced coal use to almost zero by 2024 and increased gas and offshore wind, to cut CO₂ emissions.",
+   "points": [
+    "named country",
+    "change described with data or detail"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-02",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which of these is a form rather than a shape?",
+   "options": [
+    "A drawn square",
+    "A flat circle",
+    "A sphere",
+    "A triangle outline"
+   ],
+   "answer": 2,
+   "why": "Form is three-dimensional; a sphere has volume, the others are flat."
+  },
+  {
+   "type": "mcq",
+   "q": "Strong contrast of light and dark, as used by Rembrandt, is called",
+   "options": [
+    "impasto",
+    "chiaroscuro",
+    "frottage",
+    "sgraffito"
+   ],
+   "answer": 1,
+   "why": "Chiaroscuro means light-dark contrast for drama and solidity."
+  },
+  {
+   "type": "mcq",
+   "q": "What does frottage mean?",
+   "options": [
+    "Scratching through paint",
+    "Rubbing over a textured surface",
+    "Thick paint application",
+    "Dotting with a pen"
+   ],
+   "answer": 1,
+   "why": "Frottage is a rubbing taken over a textured surface."
+  },
+  {
+   "type": "short",
+   "q": "Explain how you would use tone to make a drawn apple look three-dimensional.",
+   "model": "Find the light source; put highlight where light hits, grade through mid-tones to a core shadow, add reflected light and a cast shadow on the surface.",
+   "points": [
+    "highlight and graded mid-tones to dark core shadow",
+    "cast shadow (and reflected light)"
+   ]
+  }
+ ]
+}

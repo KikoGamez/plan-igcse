@@ -1,0 +1,158 @@
+{
+ "id": "art-r1-06",
+ "cards": [
+  {
+   "f": "Rule of thirds",
+   "b": "Split the frame into a 3×3 grid and place the subject on lines or intersections."
+  },
+  {
+   "f": "Leading lines",
+   "b": "Lines in the scene (roads, fences) that lead the viewer's eye to the subject."
+  },
+  {
+   "f": "Depth of field",
+   "b": "How much of the image is sharp from front to back. Low f-number = shallow."
+  },
+  {
+   "f": "Aperture",
+   "b": "The lens opening, shown as f-number, controlling light and depth of field."
+  },
+  {
+   "f": "Shutter speed",
+   "b": "How long the sensor is exposed. Fast freezes movement; slow blurs it."
+  },
+  {
+   "f": "ISO",
+   "b": "Camera's sensitivity to light. High ISO brightens dark scenes but adds grain."
+  },
+  {
+   "f": "Golden hour",
+   "b": "The low, warm, soft light near sunrise and sunset."
+  },
+  {
+   "f": "Silhouette",
+   "b": "A dark shape against a light background, from backlighting."
+  },
+  {
+   "f": "Contact sheet",
+   "b": "A grid of small images of a whole shoot for comparing and selecting."
+  },
+  {
+   "f": "Photogram",
+   "b": "A camera-less image made by placing objects on light-sensitive paper. Man Ray called his rayographs."
+  },
+  {
+   "f": "Henri Cartier-Bresson",
+   "b": "French street photographer known for 'the decisive moment'."
+  },
+  {
+   "f": "Ansel Adams",
+   "b": "American photographer of black-and-white landscapes with a wide tonal range."
+  },
+  {
+   "f": "Cindy Sherman",
+   "b": "Photographer of staged self-portraits in many roles, exploring identity."
+  },
+  {
+   "f": "Why show before and after edits?",
+   "b": "It shows experiment and decision-making (AO2); add a note saying why you made the change."
+  },
+  {
+   "f": "AI use in Pearson Art and Design",
+   "b": "Any use of Artificial Intelligence must be clearly referenced."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The grid dividing the frame into nine is the rule of ___.",
+   "a": [
+    "thirds"
+   ]
+  },
+  {
+   "s": "Lines that lead the eye to the subject are ___ lines.",
+   "a": [
+    "leading"
+   ]
+  },
+  {
+   "s": "How long the sensor is exposed is the ___ speed.",
+   "a": [
+    "shutter"
+   ]
+  },
+  {
+   "s": "A camera-less image on light-sensitive paper is a ___.",
+   "a": [
+    "photogram"
+   ]
+  },
+  {
+   "s": "A dark shape against bright light is a ___.",
+   "a": [
+    "silhouette"
+   ]
+  },
+  {
+   "s": "A page of small frames from a shoot is a ___ sheet.",
+   "a": [
+    "contact"
+   ]
+  },
+  {
+   "s": "Henri Cartier-Bresson's famous idea is the 'decisive ___'.",
+   "a": [
+    "moment"
+   ]
+  },
+  {
+   "s": "A low f-number gives a ___ depth of field.",
+   "a": [
+    "shallow",
+    "small"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain how light can change a photograph's mood.",
+   "model": "Soft low warm light feels calm; hard side light makes strong shadows and drama; backlight makes silhouettes. Changing time or light direction changes the mood.",
+   "points": [
+    "soft vs hard/side light",
+    "effect on mood/shadows"
+   ]
+  },
+  {
+   "q": "Describe how to make a photograph the start of a drawing or painting.",
+   "model": "Crop to the best composition, print in black and white to study tone, transfer main shapes by sketch or grid, then interpret it in your own way.",
+   "points": [
+    "crop/tone study",
+    "transfer and develop own way"
+   ]
+  },
+  {
+   "q": "Give two reasons for using your own photographs.",
+   "model": "They are primary sources that show your own observation (AO3) and decisions, and you control viewpoint, light and crop for your intention.",
+   "points": [
+    "primary source/own observation",
+    "control of viewpoint/light"
+   ]
+  },
+  {
+   "q": "What does shutter speed do creatively?",
+   "model": "A fast speed freezes movement; a slow speed blurs it, showing motion.",
+   "points": [
+    "fast freezes",
+    "slow blurs"
+   ]
+  },
+  {
+   "q": "How can you show AO2 through editing?",
+   "model": "Try several edits such as crop, black and white and contrast, show before and after, and explain which you select and why.",
+   "points": [
+    "several edits tested",
+    "before/after with reason"
+   ]
+  }
+ ]
+}

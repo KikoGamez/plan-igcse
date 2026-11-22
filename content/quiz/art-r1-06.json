@@ -1,0 +1,50 @@
+{
+ "id": "art-r1-06",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A low f-number such as f/2 gives",
+   "options": [
+    "a deep depth of field",
+    "a shallow depth of field with blurred background",
+    "a long exposure blur",
+    "more grain"
+   ],
+   "answer": 1,
+   "why": "A wide aperture (low f-number) blurs the background."
+  },
+  {
+   "type": "mcq",
+   "q": "Which photographer is linked with 'the decisive moment'?",
+   "options": [
+    "Ansel Adams",
+    "Man Ray",
+    "Henri Cartier-Bresson",
+    "Cindy Sherman"
+   ],
+   "answer": 2,
+   "why": "Cartier-Bresson's street photography captured the decisive moment."
+  },
+  {
+   "type": "mcq",
+   "q": "A contact sheet shows",
+   "options": [
+    "a final print",
+    "all small frames from a shoot to choose from",
+    "the photographer's contacts",
+    "a photogram"
+   ],
+   "answer": 1,
+   "why": "Contact sheets let you compare and select images."
+  },
+  {
+   "type": "short",
+   "q": "Give two ways to improve the composition of a photograph.",
+   "model": "Use the rule of thirds, leading lines, framing or a different viewpoint, and crop to simplify the background.",
+   "points": [
+    "rule of thirds/leading lines/framing",
+    "viewpoint/crop/simple background"
+   ]
+  }
+ ]
+}

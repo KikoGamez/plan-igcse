@@ -1,0 +1,161 @@
+{
+ "id": "art-r1-03",
+ "cards": [
+  {
+   "f": "AO3 wording",
+   "b": "Record ideas, observations and insights relevant to intentions as work progresses."
+  },
+  {
+   "f": "Primary source",
+   "b": "A source you create from direct experience, such as your own drawing or photograph."
+  },
+  {
+   "f": "Secondary source",
+   "b": "An image or information made by someone else, such as a book or website."
+  },
+  {
+   "f": "Observational drawing",
+   "b": "Drawing what you see directly in front of you."
+  },
+  {
+   "f": "Proportion",
+   "b": "The size relationships between parts of an object."
+  },
+  {
+   "f": "Pencil measuring method",
+   "b": "Hold pencil at arm's length, arm locked; measure one part and compare others to it."
+  },
+  {
+   "f": "Negative space drawing",
+   "b": "Drawing the gaps around and between objects to check shapes and proportions."
+  },
+  {
+   "f": "Blind contour drawing",
+   "b": "Drawing the outline without looking at the paper; builds observation and expressive line."
+  },
+  {
+   "f": "Gesture drawing",
+   "b": "A quick 30 second to 2 minute drawing capturing movement and pose."
+  },
+  {
+   "f": "One-point perspective",
+   "b": "All depth lines meet at one vanishing point on the horizon."
+  },
+  {
+   "f": "Viewfinder",
+   "b": "A frame (card or phone camera) used to choose and crop a composition."
+  },
+  {
+   "f": "Line of enquiry",
+   "b": "A focus question that guides what you record, for example how light changes an object."
+  },
+  {
+   "f": "David Hockney's joiners",
+   "b": "Photo collages of one scene from many viewpoints; shows several moments and angles."
+  },
+  {
+   "f": "Alberto Giacometti's drawing",
+   "b": "Repeated, scratchy lines drawn again and again to search for the form."
+  },
+  {
+   "f": "Why record again after experiments?",
+   "b": "AO3 should continue as work progresses; new studies show development and relevance."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "AO3 is about ___ ideas, observations and insights.",
+   "a": [
+    "recording",
+    "record"
+   ]
+  },
+  {
+   "s": "A photo you take yourself is a ___ source.",
+   "a": [
+    "primary"
+   ]
+  },
+  {
+   "s": "An internet image is a ___ source.",
+   "a": [
+    "secondary"
+   ]
+  },
+  {
+   "s": "Drawing the gaps around an object is drawing ___ space.",
+   "a": [
+    "negative"
+   ]
+  },
+  {
+   "s": "A quick drawing capturing movement is a ___ drawing.",
+   "a": [
+    "gesture"
+   ]
+  },
+  {
+   "s": "In one-point perspective lines meet at the ___ point.",
+   "a": [
+    "vanishing"
+   ]
+  },
+  {
+   "s": "Egon Schiele is known for expressive ___ drawing.",
+   "a": [
+    "line",
+    "contour",
+    "figure"
+   ]
+  },
+  {
+   "s": "Each AO is marked out of ___ marks.",
+   "a": [
+    "18",
+    "eighteen"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why AO3 needs your own observation.",
+   "model": "Own observation shows genuine skill and personal insight, and is first-hand evidence that examiners can credit; copying other people's images shows little.",
+   "points": [
+    "first-hand / own source",
+    "shows skill and personal insight"
+   ]
+  },
+  {
+   "q": "Describe how to start an accurate observational drawing.",
+   "model": "Use light construction lines and basic shapes, measure proportions with a pencil at arm's length, check with plumb lines and negative space, then add detail.",
+   "points": [
+    "light construction/basic shapes",
+    "measure/check proportions"
+   ]
+  },
+  {
+   "q": "Give two ways to show variety in recording.",
+   "model": "Use different media (pencil, charcoal, pen), different viewpoints and crops, photographs, notes, rubbings or blind contour studies.",
+   "points": [
+    "different media/techniques",
+    "different viewpoints/methods"
+   ]
+  },
+  {
+   "q": "How can you make recording relevant to your intentions?",
+   "model": "State a line of enquiry and choose subjects, viewpoints and techniques that explore it, adding short notes linking each study to your aim.",
+   "points": [
+    "clear line of enquiry",
+    "choices and notes linked to aim"
+   ]
+  },
+  {
+   "q": "Describe how Hockney's photographic joiners could inspire your recording.",
+   "model": "Take many overlapping photos of one subject from different positions and assemble them to show several viewpoints, then draw from the result.",
+   "points": [
+    "many photos assembled",
+    "different viewpoints"
+   ]
+  }
+ ]
+}

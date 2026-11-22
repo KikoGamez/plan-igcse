@@ -1,0 +1,51 @@
+{
+ "id": "ger-r1-01",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many marks is the Listening paper worth, and how long is it (not counting reading time)?",
+   "options": [
+    "50 marks, 45 minutes",
+    "40 marks, 30 minutes",
+    "40 marks, 45 minutes",
+    "30 marks, 30 minutes"
+   ],
+   "answer": 1,
+   "why": "Paper 1 is 40 marks, 30 minutes plus 5 minutes reading time, and is 25% of the qualification."
+  },
+  {
+   "type": "mcq",
+   "q": "Which task requires 130–150 words?",
+   "options": [
+    "Q6",
+    "Q7",
+    "Q8",
+    "Speaking Task A"
+   ],
+   "answer": 1,
+   "why": "Q7 is the extended writing task with four bullet points (choice of three); Q6 is 60–75 words."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sub-topic can NOT be used for your Speaking picture?",
+   "options": [
+    "A2 Holidays",
+    "B1 School life",
+    "D2 Weather and climate",
+    "E2 Hobbies"
+   ],
+   "answer": 2,
+   "why": "A3, C3, C5, D2 and E4 are not assessed in Speaking."
+  },
+  {
+   "type": "short",
+   "q": "Describe what you should do in the 5 minutes of reading time in the Listening paper, and how to use the two playings.",
+   "model": "Read all the questions, underline the question words, and predict the kind of answer (number, time, opinion). On the first playing answer what you can; on the second check and fill gaps, and never leave a blank.",
+   "points": [
+    "Reads all questions and underlines the question words / predicts answer type",
+    "Answers on first play, checks and fills gaps on second",
+    "Does not leave blanks (no penalty for guessing)"
+   ]
+  }
+ ]
+}

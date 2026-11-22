@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "How many words should the Q7 extended writing task be?",
+   "options": [
+    "60–75",
+    "90–110",
+    "130–150",
+    "200–250"
+   ],
+   "answer": 2,
+   "why": "Q7 asks for 130–150 words and four bullet points; the short task Q6 is 60–75."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence has correct word order?",
+   "options": [
+    "Ich bin müde, weil ich habe schlecht geschlafen.",
+    "Ich bin müde, weil ich schlecht geschlafen habe.",
+    "Ich bin müde, weil habe ich schlecht geschlafen.",
+    "Ich bin müde, ich weil schlecht geschlafen habe."
+   ],
+   "answer": 1,
+   "why": "After weil the finite verb goes to the end of the clause."
+  },
+  {
+   "type": "mcq",
+   "q": "Complete: 'Ich habe einen ___ Computer.' (neu)",
+   "options": [
+    "neue",
+    "neuer",
+    "neuen",
+    "neues"
+   ],
+   "answer": 2,
+   "why": "der Computer in the accusative after einen needs -en."
+  },
+  {
+   "type": "short",
+   "q": "Write one German sentence in the future tense with a reason (um ... zu or weil).",
+   "model": "Nächstes Jahr werde ich nach Deutschland fahren, um meine Freunde zu besuchen.",
+   "points": [
+    "future with werden + infinitive at the end",
+    "reason clause correctly formed"
+   ]
+  }
+ ]
+}

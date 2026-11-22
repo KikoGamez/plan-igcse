@@ -1,0 +1,168 @@
+{
+ "id": "art-r1-08",
+ "cards": [
+  {
+   "f": "CFPM",
+   "b": "Content, Form, Process, Mood: a framework for analysing any artwork."
+  },
+  {
+   "f": "Content",
+   "b": "The subject matter and meaning of an artwork."
+  },
+  {
+   "f": "Form",
+   "b": "The visual elements and how they are arranged: line, tone, colour, texture, shape, composition."
+  },
+  {
+   "f": "Process",
+   "b": "The materials, techniques and tools used to make the work."
+  },
+  {
+   "f": "Mood",
+   "b": "The feeling or atmosphere created, and how."
+  },
+  {
+   "f": "PEEL",
+   "b": "Point, Evidence, Explain, Link."
+  },
+  {
+   "f": "Annotation",
+   "b": "Short written notes beside your work: what you did, why, what you learned, what next."
+  },
+  {
+   "f": "Three parts of annotating your own work",
+   "b": "What I did; what happened/what I notice; what I will do next."
+  },
+  {
+   "f": "Which AO does reflection support most?",
+   "b": "AO2: refining work driven by insights from exploring ideas and reflection. Also AO3 and AO1."
+  },
+  {
+   "f": "Weak annotation words to avoid",
+   "b": "nice, good, interesting, detailed: they say nothing specific."
+  },
+  {
+   "f": "Impasto",
+   "b": "Thick paint applied so brushstrokes stand out from the surface, as in Van Gogh."
+  },
+  {
+   "f": "Chiaroscuro",
+   "b": "Strong contrast of light and dark to create drama and a sense of form."
+  },
+  {
+   "f": "Complementary colours",
+   "b": "Colours opposite each other on the colour wheel, such as blue and orange."
+  },
+  {
+   "f": "Focal point",
+   "b": "The part of a composition the eye is drawn to first."
+  },
+  {
+   "f": "Guernica",
+   "b": "Picasso, 1937: black, white and grey oil painting about the bombing of Guernica; hangs in the Reina Sofía, Madrid."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The four parts of CFPM are content, form, process and ___.",
+   "a": [
+    "mood"
+   ]
+  },
+  {
+   "s": "The L in PEEL stands for ___.",
+   "a": [
+    "link"
+   ]
+  },
+  {
+   "s": "Thick paint that stands out from the surface is called ___.",
+   "a": [
+    "impasto"
+   ]
+  },
+  {
+   "s": "Annotation should be placed ___ the work it describes.",
+   "a": [
+    "next to",
+    "beside",
+    "near"
+   ]
+  },
+  {
+   "s": "Strong contrast between light and dark is called ___.",
+   "a": [
+    "chiaroscuro"
+   ]
+  },
+  {
+   "s": "Picasso's Guernica was painted in ___.",
+   "a": [
+    "1937"
+   ]
+  },
+  {
+   "s": "Blue and orange are ___ colours.",
+   "a": [
+    "complementary",
+    "opposite"
+   ]
+  },
+  {
+   "s": "Saying what you will do next shows a ___ decision.",
+   "a": [
+    "design",
+    "creative",
+    "development",
+    "reflective",
+    "considered",
+    "personal"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write a PEEL analysis (3-4 sentences) of a work you know.",
+   "model": "E.g. Van Gogh's brushstrokes in The Starry Night swirl; the thick impasto catches light; this makes the sky restless; I will use directional marks in my own study.",
+   "points": [
+    "point",
+    "evidence from the work",
+    "explanation of effect",
+    "link to own work"
+   ]
+  },
+  {
+   "q": "Explain why 'It looks nice' earns no marks.",
+   "model": "It is vague: no description of how it is made, no analysis of effect and no link to the student's own work.",
+   "points": [
+    "vague",
+    "no analysis/evidence"
+   ]
+  },
+  {
+   "q": "Analyse the mood of Guernica using two formal elements.",
+   "model": "The limited black, white and grey palette and the sharp, fragmented shapes create a mood of horror and chaos.",
+   "points": [
+    "palette/colour or tone",
+    "shape/line",
+    "effect on mood"
+   ]
+  },
+  {
+   "q": "Give two sentence starters that show evaluation.",
+   "model": "'This was successful because…' and 'It did not work as I hoped because…'.",
+   "points": [
+    "evaluative phrase 1",
+    "evaluative phrase 2"
+   ]
+  },
+  {
+   "q": "Why should annotation be next to the work?",
+   "model": "It makes the link between the writing and the evidence clear and is easy for the examiner to read.",
+   "points": [
+    "clear link to the work",
+    "readability/clarity"
+   ]
+  }
+ ]
+}

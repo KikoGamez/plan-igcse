@@ -1,0 +1,162 @@
+{
+ "id": "music-r1-02",
+ "cards": [
+  {
+   "f": "Treble clef lines",
+   "b": "E G B D F (Every Good Boy Deserves Fruit)."
+  },
+  {
+   "f": "Bass clef lines",
+   "b": "G B D F A (Good Boys Deserve Fruit Always)."
+  },
+  {
+   "f": "Order of sharps",
+   "b": "F C G D A E B."
+  },
+  {
+   "f": "Order of flats",
+   "b": "B E A D G C F."
+  },
+  {
+   "f": "Relative minor",
+   "b": "The minor key sharing a major key's signature; it starts a minor 3rd below the major tonic."
+  },
+  {
+   "f": "Harmonic minor scale",
+   "b": "Natural minor with the 7th note raised a semitone."
+  },
+  {
+   "f": "Melodic minor scale",
+   "b": "6th and 7th raised going up, natural minor coming down."
+  },
+  {
+   "f": "Pentatonic scale",
+   "b": "A five-note scale with no semitones, e.g. C D E G A."
+  },
+  {
+   "f": "Blues scale",
+   "b": "Minor pentatonic plus a flattened fifth, the blue note."
+  },
+  {
+   "f": "Conjunct vs disjunct",
+   "b": "Conjunct moves by step; disjunct moves by leaps."
+  },
+  {
+   "f": "Sequence",
+   "b": "A motif or phrase repeated at a higher or lower pitch."
+  },
+  {
+   "f": "Acciaccatura",
+   "b": "A very short grace note, shown with a slash, played just before the main note."
+  },
+  {
+   "f": "Appoggiatura",
+   "b": "A leaning grace note without a slash that takes some of the main note's value, then resolves."
+  },
+  {
+   "f": "Trill",
+   "b": "Rapid alternation between the main note and the note above."
+  },
+  {
+   "f": "Perfect 5th size",
+   "b": "Seven semitones, e.g. C to G."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The key of G major has one sharp, which is F ___.",
+   "a": [
+    "sharp",
+    "♯",
+    "#"
+   ]
+  },
+  {
+   "s": "A melody that moves mainly by step is called ___.",
+   "a": [
+    "conjunct",
+    "stepwise"
+   ]
+  },
+  {
+   "s": "A melody that moves by leaps is called ___.",
+   "a": [
+    "disjunct"
+   ]
+  },
+  {
+   "s": "The note raised in the harmonic minor scale is the ___ degree.",
+   "a": [
+    "7th",
+    "seventh",
+    "7"
+   ]
+  },
+  {
+   "s": "A scale using only five notes is called a ___ scale.",
+   "a": [
+    "pentatonic"
+   ]
+  },
+  {
+   "s": "A very short grace note with a slash is an ___.",
+   "a": [
+    "acciaccatura"
+   ]
+  },
+  {
+   "s": "A repeated pattern played continuously is called an ___.",
+   "a": [
+    "ostinato"
+   ]
+  },
+  {
+   "s": "The relative minor of C major is A ___.",
+   "a": [
+    "minor"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the difference between an acciaccatura and an appoggiatura.",
+   "model": "An acciaccatura is a very short crushed note; an appoggiatura is a longer leaning note that takes part of the main note's value.",
+   "points": [
+    "acciaccatura short",
+    "appoggiatura longer"
+   ]
+  },
+  {
+   "q": "Describe a conjunct melody.",
+   "model": "It moves mostly by step to adjacent notes, giving a smooth, singable line.",
+   "points": [
+    "by step",
+    "smooth"
+   ]
+  },
+  {
+   "q": "How do you find the relative minor of a major key?",
+   "model": "Go down a minor third (three semitones) from the tonic; it shares the key signature.",
+   "points": [
+    "down a minor third",
+    "same key signature"
+   ]
+  },
+  {
+   "q": "Name and describe a melodic device where a phrase repeats at a different pitch.",
+   "model": "A sequence: the motif is repeated higher or lower, often stepwise.",
+   "points": [
+    "sequence",
+    "different pitch"
+   ]
+  },
+  {
+   "q": "Why is the blues scale used in blues and rock?",
+   "model": "It contains blue notes (flattened fifth), giving the characteristic bent, expressive sound.",
+   "points": [
+    "blue note",
+    "characteristic sound"
+   ]
+  }
+ ]
+}

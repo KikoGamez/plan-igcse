@@ -1,0 +1,52 @@
+{
+ "id": "geo-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "What is the main role of the World Trade Organization (WTO)?",
+   "options": [
+    "lending money to countries in financial trouble",
+    "setting rules for international trade and settling trade disputes",
+    "running multinational companies",
+    "providing emergency food aid"
+   ],
+   "answer": 1,
+   "why": "The WTO regulates trade rules; lending is the IMF's role."
+  },
+  {
+   "type": "mcq",
+   "q": "Money sent home by migrants to their families is called...",
+   "options": [
+    "brain drain",
+    "tariffs",
+    "remittances",
+    "aid"
+   ],
+   "answer": 2,
+   "why": "Remittances are a major income for many source countries."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a push factor for migration?",
+   "options": [
+    "higher wages abroad",
+    "better schools abroad",
+    "war and conflict at home",
+    "a stable government elsewhere"
+   ],
+   "answer": 2,
+   "why": "Push factors make people leave the place they live; the others are pull factors."
+  },
+  {
+   "type": "short",
+   "q": "Explain one benefit and one cost of a TNC setting up a factory in a developing country.",
+   "model": "Benefit: provides jobs and wages, which raises incomes and creates a multiplier effect. Cost: much of the profit is sent back to the home country and low pay or poor conditions are possible.",
+   "points": [
+    "benefit",
+    "benefit developed",
+    "cost",
+    "cost developed"
+   ]
+  }
+ ]
+}

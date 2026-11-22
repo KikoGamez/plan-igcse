@@ -1,0 +1,165 @@
+{
+ "id": "art-r1-07",
+ "cards": [
+  {
+   "f": "AO1 wording",
+   "b": "Develop ideas through investigations, demonstrating critical understanding of sources."
+  },
+  {
+   "f": "AO1 share of marks",
+   "b": "25% of the qualification: 12.5% per component, 18 of the 72 marks in each component."
+  },
+  {
+   "f": "Primary source",
+   "b": "First-hand evidence: your own photos or drawings, or seeing an original artwork."
+  },
+  {
+   "f": "Secondary source",
+   "b": "Made by someone else: a book, website or image of a work."
+  },
+  {
+   "f": "Master study",
+   "b": "A careful copy of part of an artist's work to learn how it was made."
+  },
+  {
+   "f": "Context",
+   "b": "The time, place, culture and purpose in which a work was made."
+  },
+  {
+   "f": "Critical understanding",
+   "b": "Explaining and judging a source and how it relates to your own ideas, not just describing it."
+  },
+  {
+   "f": "Study in the style of",
+   "b": "Using an artist's technique or palette on your own subject."
+  },
+  {
+   "f": "Transcription",
+   "b": "Reinterpreting an artwork in a different medium."
+  },
+  {
+   "f": "Link test for choosing an artist",
+   "b": "What connects to my theme? What can I try? Does it give me something new?"
+  },
+  {
+   "f": "Five parts of a contextual study",
+   "b": "Visual evidence, practical response, analysis, context, connection to your own work."
+  },
+  {
+   "f": "Why gallery visits matter",
+   "b": "Fine Art requires first-hand experience of original work in primary research."
+  },
+  {
+   "f": "Madrid gallery examples",
+   "b": "Prado, Museo Reina Sofía, Museo Thyssen-Bornemisza, Sorolla Museum."
+  },
+  {
+   "f": "Continuity and change",
+   "b": "How art, craft and design ideas stay the same or develop over time."
+  },
+  {
+   "f": "Sentence that raises marks",
+   "b": "A judgement: 'This worked because… but next time I will…'."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A drawing you make while visiting an original painting is a ___ source.",
+   "a": [
+    "primary",
+    "primary source"
+   ]
+  },
+  {
+   "s": "A book about an artist is a ___ source.",
+   "a": [
+    "secondary",
+    "secondary source"
+   ]
+  },
+  {
+   "s": "A careful copy of part of an artist's work is called a ___ study.",
+   "a": [
+    "master"
+   ]
+  },
+  {
+   "s": "AO1 asks for critical ___ of sources.",
+   "a": [
+    "understanding"
+   ]
+  },
+  {
+   "s": "The time, place and culture in which a work was made is its ___.",
+   "a": [
+    "context"
+   ]
+  },
+  {
+   "s": "Using an artist's technique on your own subject is a study in the ___ of that artist.",
+   "a": [
+    "style"
+   ]
+  },
+  {
+   "s": "Each component is worth ___ marks in total.",
+   "a": [
+    "72",
+    "seventy-two",
+    "seventy two"
+   ]
+  },
+  {
+   "s": "Research should link to your own ___, meaning what you want to achieve.",
+   "a": [
+    "intentions",
+    "intention",
+    "aims",
+    "ideas"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain why a page of copied biography gains few AO1 marks.",
+   "model": "It shows no personal analysis and no link to the student's own ideas, so it shows limited critical understanding.",
+   "points": [
+    "no analysis or personal understanding",
+    "no link to own work/intentions"
+   ]
+  },
+  {
+   "q": "Name one artist and describe a practical study you could make from their work.",
+   "model": "Kara Walker: cut a layered black paper silhouette scene about my theme and photograph it against light to test contrast.",
+   "points": [
+    "real artist named accurately",
+    "practical study described",
+    "linked to theme or technique"
+   ]
+  },
+  {
+   "q": "Why does Pearson expect first-hand experience of original work?",
+   "model": "Seeing the original shows scale, surface and colour that reproductions lose, so your research is genuinely your own.",
+   "points": [
+    "scale/texture/colour seen first hand",
+    "evidence of personal investigation"
+   ]
+  },
+  {
+   "q": "Write one sentence of critical judgement about an artist's technique you tested.",
+   "model": "The blurred edges gave a memory-like effect, but they hid the faces, so I will blur only the background next time.",
+   "points": [
+    "says what worked",
+    "says limitation or next step"
+   ]
+  },
+  {
+   "q": "Give two things to include besides an image on a contextual study page.",
+   "model": "An analysis of how the work is made and a practical response, plus a note on how it will influence my own work.",
+   "points": [
+    "analysis",
+    "practical response/connection to own work"
+   ]
+  }
+ ]
+}

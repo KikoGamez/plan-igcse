@@ -1,0 +1,51 @@
+{
+ "id": "geo-r1-09",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A megacity is a city with a population of more than...",
+   "options": [
+    "1 million",
+    "5 million",
+    "10 million",
+    "50 million"
+   ],
+   "answer": 2,
+   "why": "Megacities have over 10 million people."
+  },
+  {
+   "type": "mcq",
+   "q": "Counter-urbanisation is the movement of people...",
+   "options": [
+    "from rural areas to cities",
+    "from the inner city to the suburbs",
+    "from cities to rural areas",
+    "between countries"
+   ],
+   "answer": 2,
+   "why": "Counter-urbanisation means people leaving the city for the countryside."
+  },
+  {
+   "type": "mcq",
+   "q": "Why is land most expensive in the CBD?",
+   "options": [
+    "it is the cheapest to build on",
+    "it is the most accessible, so competition for space is highest",
+    "it has the most farmland",
+    "it is furthest from roads"
+   ],
+   "answer": 1,
+   "why": "High accessibility means many customers, so businesses compete and bid up land values."
+  },
+  {
+   "type": "short",
+   "q": "Explain two ways rapid urbanisation can cause housing challenges.",
+   "model": "Migrants arrive faster than homes are built, causing shortages and high rents; poor migrants build squatter settlements without water, sanitation or electricity.",
+   "points": [
+    "housing shortage/overcrowding because migrants arrive faster than building",
+    "squatter settlements/informal housing",
+    "lack of services or health problems"
+   ]
+  }
+ ]
+}

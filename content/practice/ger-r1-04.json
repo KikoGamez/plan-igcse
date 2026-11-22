@@ -1,0 +1,168 @@
+{
+ "id": "ger-r1-04",
+ "cards": [
+  {
+   "f": "Future tense formula",
+   "b": "werden (2nd position) + infinitive (at the end): Ich werde nach Berlin fahren."
+  },
+  {
+   "f": "werden: ich, du, er, wir, ihr, sie",
+   "b": "werde, wirst, wird, werden, werdet, werden."
+  },
+  {
+   "f": "Present tense as future",
+   "b": "Use present + time word: Morgen fahre ich nach Wien."
+  },
+  {
+   "f": "können / müssen (ich, du, er)",
+   "b": "kann, kannst, kann / muss, musst, muss."
+  },
+  {
+   "f": "dürfen / wollen (ich, du, er)",
+   "b": "darf, darfst, darf / will, willst, will."
+  },
+  {
+   "f": "sollen / mögen (ich, du, er)",
+   "b": "soll, sollst, soll / mag, magst, mag."
+  },
+  {
+   "f": "möchte (ich, du, wir)",
+   "b": "möchte, möchtest, möchten (would like)."
+  },
+  {
+   "f": "Modal verb word order",
+   "b": "Modal in 2nd position, infinitive at the end: Ich muss heute lernen."
+  },
+  {
+   "f": "nicht müssen vs nicht dürfen",
+   "b": "Nicht müssen = don't have to. Nicht dürfen = must not, not allowed."
+  },
+  {
+   "f": "Conditional formula",
+   "b": "würde + infinitive: Ich würde gern reisen."
+  },
+  {
+   "f": "würde: ich, du, wir",
+   "b": "würde, würdest, würden."
+  },
+  {
+   "f": "hätte / wäre / könnte",
+   "b": "would have / would be / could (common conditional short forms)."
+  },
+  {
+   "f": "wenn clause with conditional",
+   "b": "Wenn ich Zeit hätte, würde ich lesen. (verb at end, then verb first)."
+  },
+  {
+   "f": "Ich hätte gern ...",
+   "b": "I would like (to have) ... + noun, a polite request."
+  },
+  {
+   "f": "Imperfect of können, müssen, wollen",
+   "b": "konnte, musste, wollte."
+  },
+  {
+   "f": "An deiner Stelle würde ich ...",
+   "b": "In your place, I would ... (giving advice)."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Ich ___ nächstes Jahr in Wien studieren. (werden)",
+   "a": [
+    "werde"
+   ]
+  },
+  {
+   "s": "Er ___ heute lernen. (müssen)",
+   "a": [
+    "muss"
+   ]
+  },
+  {
+   "s": "Du ___ hier nicht rauchen. (dürfen)",
+   "a": [
+    "darfst"
+   ]
+  },
+  {
+   "s": "Wenn ich reich wäre, ___ ich ein Haus kaufen.",
+   "a": [
+    "würde",
+    "wuerde"
+   ]
+  },
+  {
+   "s": "Ich ___ gern ein Eis, bitte. (haben, höflich)",
+   "a": [
+    "hätte",
+    "haette",
+    "hatte"
+   ]
+  },
+  {
+   "s": "Sie ___ gut schwimmen. (können)",
+   "a": [
+    "kann"
+   ]
+  },
+  {
+   "s": "Wir ___ morgen ins Kino gehen. (wollen)",
+   "a": [
+    "wollen"
+   ]
+  },
+  {
+   "s": "Wenn ich Zeit ___, würde ich mehr lesen.",
+   "a": [
+    "hätte",
+    "haette",
+    "hatte"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Write three sentences about your plans for next year using werden.",
+   "model": "Nächstes Jahr werde ich in Madrid zur Schule gehen. Ich werde viel lernen. Im Sommer werde ich nach Deutschland fahren.",
+   "points": [
+    "werden in second position",
+    "infinitive at the end",
+    "time phrases"
+   ]
+  },
+  {
+   "q": "Answer in German: Was würdest du machen, wenn du viel Geld hättest? (2–3 sentences)",
+   "model": "Wenn ich viel Geld hätte, würde ich um die Welt reisen. Ich würde auch ein großes Haus kaufen und armen Menschen helfen.",
+   "points": [
+    "wenn-clause with hätte",
+    "würde + infinitive",
+    "correct verb position"
+   ]
+  },
+  {
+   "q": "Explain the difference between 'Du musst nicht kommen' and 'Du darfst nicht kommen'.",
+   "model": "The first means you do not have to come; the second means you are not allowed to come.",
+   "points": [
+    "Nicht müssen = don't have to",
+    "Nicht dürfen = not allowed"
+   ]
+  },
+  {
+   "q": "Translate: 'I can swim, but I must not swim here.'",
+   "model": "Ich kann schwimmen, aber ich darf hier nicht schwimmen.",
+   "points": [
+    "kann ... schwimmen",
+    "darf ... nicht"
+   ]
+  },
+  {
+   "q": "Put into a subordinate clause: Ich bleibe zu Hause, weil ich muss lernen.",
+   "model": "Ich bleibe zu Hause, weil ich lernen muss.",
+   "points": [
+    "weil with a comma",
+    "Modal (muss) at the very end of the weil-clause"
+   ]
+  }
+ ]
+}

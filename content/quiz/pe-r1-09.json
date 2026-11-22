@@ -1,0 +1,50 @@
+{
+ "id": "pe-r1-09",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which of these is a mental benefit of exercise?",
+   "options": [
+    "Stronger bones",
+    "Making new friends",
+    "Lower blood pressure",
+    "Reduced stress"
+   ],
+   "answer": 3,
+   "why": "Reduced stress is mental; bones and blood pressure are physical; friends is social."
+  },
+  {
+   "type": "mcq",
+   "q": "A BMI of 31 puts a person in which category?",
+   "options": [
+    "Healthy",
+    "Overweight",
+    "Obese",
+    "Underweight"
+   ],
+   "answer": 2,
+   "why": "BMI of 30 or more is obese."
+  },
+  {
+   "type": "mcq",
+   "q": "Which body type is wide-shouldered, narrow-hipped and muscular?",
+   "options": [
+    "Mesomorph",
+    "Endomorph",
+    "Ectomorph",
+    "Sedentary"
+   ],
+   "answer": 0,
+   "why": "Mesomorphs have a muscular, athletic build."
+  },
+  {
+   "type": "short",
+   "q": "Explain how a sedentary lifestyle can harm health.",
+   "model": "Little activity can cause weight gain and obesity, which raises the risk of coronary heart disease and type 2 diabetes. It also weakens bones and muscles and can lower mood and self-esteem.",
+   "points": [
+    "weight gain / obesity",
+    "named disease (CHD, diabetes, osteoporosis)"
+   ]
+  }
+ ]
+}

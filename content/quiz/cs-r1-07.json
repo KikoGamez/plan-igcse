@@ -1,0 +1,6 @@
+{"id":"cs-r1-07","questions":[
+{"type":"mcq","q":"What is the 8-bit two's complement representation of −5?","options":["10000101","11111011","11111010","00000101"],"answer":1,"why":"5 = 00000101; flip to 11111010; add 1 to get 11111011. (10000101 is −5 in sign and magnitude.)"},
+{"type":"mcq","q":"Which hexadecimal number equals binary 10110101?","options":["A5","5B","B5","B3"],"answer":2,"why":"1011 = B and 0101 = 5, so B5."},
+{"type":"mcq","q":"01100100 is shifted left by 1 place in an 8-bit unsigned register. What happens?","options":["The value is halved","Overflow occurs","The value stays the same","The value is doubled, giving 11001000"],"answer":3,"why":"01100100 is 100. A left shift doubles it to 200 = 11001000, which still fits in 8 bits (0 to 255), so no overflow."},
+{"type":"short","q":"Explain why hexadecimal is often used instead of binary by programmers.","model":"Hexadecimal is much shorter than binary because one hex digit represents 4 bits, so it is easier for people to read and remember and there are fewer errors when copying it. It also converts easily to and from binary.","points":["shorter / more compact than binary (one hex digit = 4 bits)","easier for humans to read, remember or copy, so fewer errors","easy to convert to and from binary"]}
+]}

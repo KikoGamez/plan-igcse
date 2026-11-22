@@ -1,0 +1,171 @@
+{
+ "id": "pe-r1-01",
+ "cards": [
+  {
+   "f": "Functions of the skeleton",
+   "b": "Support/shape, protection, movement, blood cell production, mineral storage."
+  },
+  {
+   "f": "Where are blood cells made?",
+   "b": "In the bone marrow (e.g. femur, sternum, ribs)."
+  },
+  {
+   "f": "Bone: upper arm",
+   "b": "Humerus."
+  },
+  {
+   "f": "Bones of the forearm",
+   "b": "Radius (thumb side) and ulna (little-finger side)."
+  },
+  {
+   "f": "Bones of the lower leg",
+   "b": "Tibia (larger shin bone) and fibula (thinner, outer bone)."
+  },
+  {
+   "f": "Longest bone in the body",
+   "b": "Femur (thigh bone)."
+  },
+  {
+   "f": "Five regions of the vertebral column (top to bottom)",
+   "b": "Cervical, thoracic, lumbar, sacrum, coccyx."
+  },
+  {
+   "f": "Ligament",
+   "b": "Joins bone to bone; stabilises the joint."
+  },
+  {
+   "f": "Tendon",
+   "b": "Joins muscle to bone; transmits muscle force to move the bone."
+  },
+  {
+   "f": "Hinge joint: movement and examples",
+   "b": "Flexion and extension only (one plane). Elbow, knee, ankle."
+  },
+  {
+   "f": "Ball and socket joint: movement and examples",
+   "b": "Movement in all directions. Shoulder and hip."
+  },
+  {
+   "f": "Role of synovial fluid",
+   "b": "Lubricates the joint to reduce friction."
+  },
+  {
+   "f": "Role of articular cartilage",
+   "b": "Covers bone ends; reduces friction and absorbs shock."
+  },
+  {
+   "f": "Flexion vs extension",
+   "b": "Flexion decreases the joint angle; extension increases it."
+  },
+  {
+   "f": "Abduction vs adduction",
+   "b": "Abduction: away from the midline. Adduction: towards the midline."
+  },
+  {
+   "f": "Plantar flexion vs dorsi flexion",
+   "b": "Plantar: toes pointed down (tiptoe). Dorsi: toes pulled up towards the shin."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The bone that protects the brain is the ___.",
+   "a": [
+    "cranium",
+    "skull"
+   ]
+  },
+  {
+   "s": "Muscle is attached to bone by a ___.",
+   "a": [
+    "tendon",
+    "tendons"
+   ]
+  },
+  {
+   "s": "Bone is attached to bone by a ___.",
+   "a": [
+    "ligament",
+    "ligaments"
+   ]
+  },
+  {
+   "s": "The elbow is a ___ joint.",
+   "a": [
+    "hinge"
+   ]
+  },
+  {
+   "s": "The hip is a ___ and socket joint.",
+   "a": [
+    "ball"
+   ]
+  },
+  {
+   "s": "Moving a limb towards the midline of the body is called ___.",
+   "a": [
+    "adduction"
+   ]
+  },
+  {
+   "s": "Red blood cells are made in the bone ___.",
+   "a": [
+    "marrow"
+   ]
+  },
+  {
+   "s": "The shin bone at the front of the lower leg is the ___.",
+   "a": [
+    "tibia"
+   ]
+  },
+  {
+   "s": "A circular movement of the arm at the shoulder is called ___.",
+   "a": [
+    "circumduction"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe the structure and function of a ligament.",
+   "model": "A ligament is a tough band of tissue that joins bone to bone. It stabilises the joint and prevents dislocation.",
+   "points": [
+    "joins bone to bone",
+    "stabilises joint / prevents dislocation"
+   ]
+  },
+  {
+   "q": "Name the type of joint at the knee and the two movements it allows, with a sporting example.",
+   "model": "The knee is a hinge joint allowing flexion and extension, e.g. bending the knee when running and straightening it to kick.",
+   "points": [
+    "hinge",
+    "flexion and extension",
+    "sporting example"
+   ]
+  },
+  {
+   "q": "Explain why weight-bearing exercise is good for the skeleton.",
+   "model": "It makes bones denser and stronger, reducing the risk of osteoporosis, and strengthens ligaments and tendons.",
+   "points": [
+    "increases bone density / strength",
+    "lower risk of osteoporosis or injury"
+   ]
+  },
+  {
+   "q": "A gymnast does a cartwheel. Name the movement at the shoulder as her arms go out sideways away from the body.",
+   "model": "Abduction at the shoulder, a ball and socket joint, moves the arm away from the midline.",
+   "points": [
+    "abduction",
+    "away from the midline"
+   ]
+  },
+  {
+   "q": "Give two ways the skeleton helps a rugby player.",
+   "model": "Ribs protect the heart and lungs in tackles; bones act as levers so muscles can move the body to run and pass.",
+   "points": [
+    "protection with example",
+    "movement / support with example"
+   ]
+  }
+ ]
+}

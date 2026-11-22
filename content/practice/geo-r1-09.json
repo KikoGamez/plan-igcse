@@ -1,0 +1,160 @@
+{
+ "id": "geo-r1-09",
+ "cards": [
+  {
+   "f": "Urbanisation",
+   "b": "An increase in the proportion of a country's population living in towns and cities."
+  },
+  {
+   "f": "Megacity",
+   "b": "A city with a population of over 10 million."
+  },
+  {
+   "f": "Suburbanisation",
+   "b": "Movement of people from the inner city to the suburbs at the edge of the urban area."
+  },
+  {
+   "f": "Counter-urbanisation",
+   "b": "Movement of people from urban areas to rural areas, e.g. for a better quality of life."
+  },
+  {
+   "f": "Where is most urban growth today?",
+   "b": "In Asia and Africa, in low- and middle-income countries, mainly through rural-urban migration."
+  },
+  {
+   "f": "Two push factors from the countryside",
+   "b": "Poverty and lack of jobs; farm mechanisation; drought or conflict; poor services."
+  },
+  {
+   "f": "Two pull factors to the city",
+   "b": "Jobs and higher wages; better schools and hospitals; family already living there."
+  },
+  {
+   "f": "Natural increase",
+   "b": "Birth rate minus death rate; young migrants add to city growth by having children."
+  },
+  {
+   "f": "Six problems of rapid urbanisation",
+   "b": "Congestion, transport, employment, housing, crime and environmental problems."
+  },
+  {
+   "f": "Squatter settlement",
+   "b": "Housing built without permission or planning, often lacking water, sanitation and electricity."
+  },
+  {
+   "f": "What does CBD stand for?",
+   "b": "Central business district: the commercial heart of a city, with shops, offices and banks."
+  },
+  {
+   "f": "Why is the CBD the most expensive area?",
+   "b": "It is the most accessible point, so competition for land is highest."
+  },
+  {
+   "f": "Rural-urban fringe",
+   "b": "The edge of a city where the built-up area meets the countryside; retail parks and new estates locate here."
+  },
+  {
+   "f": "Urban sprawl",
+   "b": "The uncontrolled spread of a city into the countryside."
+  },
+  {
+   "f": "Land use in squatter settlements",
+   "b": "Often on cheap, unwanted or risky land such as steep slopes, floodplains or the city edge."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "The percentage of people living in cities is called ___.",
+   "a": [
+    "urbanisation",
+    "urbanization"
+   ]
+  },
+  {
+   "s": "A city of over 10 million people is a ___.",
+   "a": [
+    "megacity"
+   ]
+  },
+  {
+   "s": "People moving out of cities to rural areas is ___-urbanisation.",
+   "a": [
+    "counter"
+   ]
+  },
+  {
+   "s": "The movement of people from the inner city to its edges is ___.",
+   "a": [
+    "suburbanisation",
+    "suburbanization"
+   ]
+  },
+  {
+   "s": "The ___ is the commercial centre of a city.",
+   "a": [
+    "CBD",
+    "central business district"
+   ]
+  },
+  {
+   "s": "Land values are highest where ___ is best.",
+   "a": [
+    "accessibility"
+   ]
+  },
+  {
+   "s": "Housing built illegally without services is a ___ settlement.",
+   "a": [
+    "squatter"
+   ]
+  },
+  {
+   "s": "Birth rate minus death rate is natural ___.",
+   "a": [
+    "increase"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain two reasons why cities in low-income countries are growing rapidly.",
+   "model": "Rural-urban migration, as people are pushed by poverty and pulled by jobs; and natural increase because migrants are young and have children.",
+   "points": [
+    "rural-urban migration with push/pull",
+    "natural increase or industrialisation"
+   ]
+  },
+  {
+   "q": "Explain why counter-urbanisation happens.",
+   "model": "People want a better quality of life with less pollution and congestion, and improved transport and broadband let them commute or work from home.",
+   "points": [
+    "push from city (congestion, pollution, cost)",
+    "pull/enablers of rural areas or commuting"
+   ]
+  },
+  {
+   "q": "Describe two problems caused by rapid urbanisation.",
+   "model": "Congestion because there are too many vehicles for the roads; squatter settlements because housing cannot keep up with migrants.",
+   "points": [
+    "problem one with development",
+    "problem two with development"
+   ]
+  },
+  {
+   "q": "Explain why the CBD is located at the centre of a city.",
+   "model": "It is the most accessible place, with road and rail links from all directions, so it has the most customers and highest land values for shops and offices.",
+   "points": [
+    "accessibility",
+    "land value or customers"
+   ]
+  },
+  {
+   "q": "Suggest why most megacities are now found in Asia.",
+   "model": "Large populations, rapid industrialisation and rural-urban migration to coastal and capital cities, with high natural increase.",
+   "points": [
+    "large population or migration",
+    "industrialisation or economic growth"
+   ]
+  }
+ ]
+}

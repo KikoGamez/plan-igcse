@@ -1,0 +1,50 @@
+{
+ "id": "ger-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Ich helfe meine Mutter.",
+    "Ich helfe meiner Mutter.",
+    "Ich helfe meinen Mutter.",
+    "Ich helfe meiner Mutter zu."
+   ],
+   "answer": 1,
+   "why": "helfen takes the dative; feminine dative = meiner."
+  },
+  {
+   "type": "mcq",
+   "q": "What does 'der Müll' mean?",
+   "options": [
+    "mud",
+    "moon",
+    "rubbish",
+    "mile"
+   ],
+   "answer": 2,
+   "why": "der Müll = rubbish; Müll trennen = to separate rubbish."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is correct for 'I have a headache'?",
+   "options": [
+    "Ich habe Kopfschmerzen.",
+    "Ich bin Kopfschmerzen.",
+    "Ich tue Kopf weh.",
+    "Mein Kopf hat weh."
+   ],
+   "answer": 0,
+   "why": "Ich habe Kopfschmerzen, or Mein Kopf tut weh."
+  },
+  {
+   "type": "short",
+   "q": "Write two German sentences about how to protect the environment, using 'um ... zu' in one.",
+   "model": "Ich fahre mit dem Rad zur Schule, um die Umwelt zu schützen. Man sollte auch weniger Plastik benutzen.",
+   "points": [
+    "um ... zu with infinitive at the end",
+    "a second relevant sentence with a correct modal (sollte) or other verb"
+   ]
+  }
+ ]
+}

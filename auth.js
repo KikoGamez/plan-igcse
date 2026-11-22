@@ -4,7 +4,7 @@
 const CFG={url:'https://pijoiswrklwrkdzltnoy.supabase.co',key:'sb_publishable_ecb7RwDjk3OZKOUiTsE7dw_fhpnwxqd'};
 const SITE='https://kikogamez.github.io/plan-igcse/';
 const ADMIN='kiko.gamez@gmail.com';
-const KEYS=['igcse-plan-v1','igcse-moves-v1','igcse-quiz-v1','igcse-hours-v1','igcse-cards-v1'];
+const KEYS=['igcse-plan-v1','igcse-moves-v1','igcse-quiz-v1','igcse-hours-v1','igcse-cards-v1','igcse-profile-v1'];
 const OWNER='igcse-owner',TS='igcse-sync-ts',DIRTY='igcse-dirty';
 const ES=document.documentElement.lang==='es';
 const ls={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}},del:k=>{try{localStorage.removeItem(k)}catch(e){}}};
@@ -14,7 +14,7 @@ if(!CFG.url||!CFG.key||!window.supabase)return;
 const L=ES?{
   hi:'Entra en tu plan',sub:'Usa el usuario y la contraseña que te han enviado.',user:'Email',pass:'Contraseña',enter:'Entrar',wait:'Entrando…',
   bad:'Email o contraseña incorrectos.',net:'No hay conexión. Prueba otra vez.',lang:'English',
-  acct:'Tu cuenta',as:n=>`Has entrado como <b>${n}</b>`,inv:'Crear usuario nuevo',adm:'Alumnas (administrador)',admS:'Avance de cada cuenta.',admNone:'Aún no hay nadie con avance guardado. Las cuentas aparecen aquí cuando entran por primera vez.',ses:(a,b)=>`${a} de ${b} sesiones`,open:'Ver detalle →',viewing:n=>`Viendo a <b>${n}</b>`,ro:'solo lectura',act:'su última actividad',chk:'comprobado',exit:'Salir',ago:s=>s<5?'ahora':`hace ${s} s`,last:'Última actividad',never:'sin actividad',quizN:n=>`${n} quizzes hechos`,pw:'Cambiar contraseña',out:'Cerrar sesión',
+  acct:'Tu cuenta',as:n=>`Has entrado como <b>${n}</b>`,inv:'Crear usuario nuevo',adm:'Alumnas (administrador)',admS:'Avance de cada cuenta.',admNone:'Aún no hay nadie con avance guardado. Las cuentas aparecen aquí cuando entran por primera vez.',ses:(a,b)=>`${a} de ${b} sesiones`,open:'Ver detalle →',viewing:n=>`Viendo a <b>${n}</b>`,ro:'solo lectura',act:'su última actividad',chk:'comprobado',exit:'Salir',ago:s=>s<5?'ahora':`hace ${s} s`,last:'Última actividad',never:'sin actividad',quizN:n=>`${n} quizzes hechos`,pw:'Cambiar contraseña',redo:'Rehacer mi plan (fecha, asignaturas, horas)',reqH:'📌 Asignaturas pedidas sin contenido',reqS:'Alguna alumna las ha marcado al crear su plan. Pídeme el contenido para añadirlas.',subjOf:'Asignaturas',examOn:'Mocks',out:'Cerrar sesión',
   invH:'Crear usuario nuevo',invS:'Se crea la cuenta y te damos el mensaje con su usuario y contraseña para mandárselo.',name:'Nombre',mail:'Su email',newpw:'Contraseña',
   create:'Crear cuenta',creating:'Creando…',cancel:'Cancelar',close:'Cerrar',exists:'Ese email ya tiene cuenta.',badmail:'Revisa el email.',err:'No se pudo crear la cuenta: ',
   readyH:n=>`Cuenta de ${n} creada ✅`,readyS:'Mándale este mensaje:',byMail:'📧 Enviar por email',byWa:'💬 Abrir WhatsApp',copy:'Copiar mensaje',copied:'¡Copiado!',
@@ -25,7 +25,7 @@ const L=ES?{
 }:{
   hi:'Sign in to your plan',sub:'Use the username and password you were sent.',user:'Email',pass:'Password',enter:'Sign in',wait:'Signing in…',
   bad:'Wrong email or password.',net:'No connection. Try again.',lang:'Español',
-  acct:'Your account',as:n=>`Signed in as <b>${n}</b>`,inv:'Create new user',adm:'Students (admin)',admS:'Progress of each account.',admNone:'Nobody has saved progress yet. Accounts show up here after their first sign-in.',ses:(a,b)=>`${a} of ${b} sessions`,open:'See details →',viewing:n=>`Viewing <b>${n}</b>`,ro:'read-only',act:'her last activity',chk:'checked',exit:'Exit',ago:s=>s<5?'just now':`${s} s ago`,last:'Last activity',never:'no activity',quizN:n=>`${n} quizzes done`,pw:'Change password',out:'Sign out',
+  acct:'Your account',as:n=>`Signed in as <b>${n}</b>`,inv:'Create new user',adm:'Students (admin)',admS:'Progress of each account.',admNone:'Nobody has saved progress yet. Accounts show up here after their first sign-in.',ses:(a,b)=>`${a} of ${b} sessions`,open:'See details →',viewing:n=>`Viewing <b>${n}</b>`,ro:'read-only',act:'her last activity',chk:'checked',exit:'Exit',ago:s=>s<5?'just now':`${s} s ago`,last:'Last activity',never:'no activity',quizN:n=>`${n} quizzes done`,pw:'Change password',redo:'Redo my plan (date, subjects, hours)',reqH:'📌 Requested subjects with no content',reqS:'A student ticked these when creating her plan. Ask me for the content to add them.',subjOf:'Subjects',examOn:'Mocks',out:'Sign out',
   invH:'Create new user',invS:'This creates the account and gives you a message with the username and password to send.',name:'Name',mail:'Their email',newpw:'Password',
   create:'Create account',creating:'Creating…',cancel:'Cancel',close:'Close',exists:'That email already has an account.',badmail:'Check the email.',err:'Could not create the account: ',
   readyH:n=>`${n}'s account is ready ✅`,readyS:'Send this message:',byMail:'📧 Send by email',byWa:'💬 Open WhatsApp',copy:'Copy message',copied:'Copied!',
@@ -79,7 +79,7 @@ async function pushNow(){if(!user)return;clearTimeout(timer);busy=true;
   const d=localBlob(),nm=(d['igcse-hours-v1']&&d['igcse-hours-v1'].name)||(user.user_metadata&&user.user_metadata.name)||null;
   const {error}=await sb.from('progress').upsert({user_id:user.id,email:user.email,name:nm,data:d,updated_at:now});
   busy=false;if(!error){ls.set(TS,now);ls.del(DIRTY)}return !error}
-window.IGSync={ready:true,push(){ls.set(DIRTY,'1');clearTimeout(timer);timer=setTimeout(pushNow,800)}};
+window.IGSync={ready:true,push(){ls.set(DIRTY,'1');clearTimeout(timer);timer=setTimeout(pushNow,800)},flush(){ls.set(DIRTY,'1');return pushNow()}};
 addEventListener('pagehide',()=>{if(ls.get(DIRTY)&&user)pushNow()});
 
 /* Called with a signed-in user. Returns true if the page must reload with new data. */
@@ -132,10 +132,10 @@ function accountPanel(u){
   const me=(u.user_metadata&&u.user_metadata.name)||(window.PLAN&&PLAN.name)||u.email;
   box.innerHTML=`<div class="panel acct"><h3>${L.acct}</h3><p>${L.as(esc(me))} · <span class="note">${esc(u.email)}</span></p>
     <p class="note" id="acSync"></p>
-    <div class="actions">${u.email===ADMIN?`<button type="button" class="btn" data-ac="inv">${L.inv}</button>`:''}<button type="button" class="btn ghost" data-ac="pw">${L.pw}</button><button type="button" class="btn ghost" data-ac="out">${L.out}</button></div></div>`;
+    <div class="actions">${u.email===ADMIN?`<button type="button" class="btn" data-ac="inv">${L.inv}</button>`:''}${ls.get('igcse-profile-v1')&&u.email!==ADMIN?`<button type="button" class="btn ghost" data-ac="redo">${L.redo}</button>`:''}<button type="button" class="btn ghost" data-ac="pw">${L.pw}</button><button type="button" class="btn ghost" data-ac="out">${L.out}</button></div></div>`;
   const sync=()=>{const s=document.getElementById('acSync');if(s)s.textContent=ls.get(DIRTY)?L.offline:'✓ '+L.synced};sync();setInterval(sync,3000);
   box.onclick=e=>{const b=e.target.closest('[data-ac]');if(!b)return;const a=b.dataset.ac;
-    if(a==='inv')invite(me);else if(a==='pw')changePw();else if(a==='out')signOut()};
+    if(a==='inv')invite(me);else if(a==='redo'){if(window.IGOnboard)IGOnboard.redo()}else if(a==='pw')changePw();else if(a==='out')signOut()};
   if(u.email===ADMIN)adminPanel(box);
 }
 async function adminPanel(box){
@@ -147,12 +147,19 @@ async function adminPanel(box){
   if(!rows.length){list.innerHTML=`<p class="note">${L.admNone}</p>`;return}
   const tot=window.PLAN&&PLAN.mandatory?PLAN.mandatory().length:0;
   const when=t=>{if(!t)return L.never;const d=new Date(t);return d.toLocaleDateString(ES?'es-ES':'en-GB',{day:'numeric',month:'short'})+' · '+d.toLocaleTimeString(ES?'es-ES':'en-GB',{hour:'2-digit',minute:'2-digit'})};
+  const OB=window.IGOnboard,nmS=k=>OB?OB.name(k):k,fdt=k=>new Date(k+'T00:00:00Z').toLocaleDateString(ES?'es-ES':'en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});
+  const asks={};rows.forEach(r=>{const pf=r.data&&r.data['igcse-profile-v1'];if(!pf)return;const who=r.name||pf.name||r.email;
+    (pf.req||[]).forEach(k=>{(asks[nmS(k)]=asks[nmS(k)]||[]).push(who)});if(pf.other)(asks['“'+pf.other+'”']=asks['“'+pf.other+'”']||[]).push(who)});
+  const ak=Object.keys(asks);
+  if(ak.length){const rq=document.createElement('div');rq.className='adm-req';rq.innerHTML=`<b>${L.reqH}</b><p class="note">${L.reqS}</p><ul>${ak.map(k=>`<li><b>${esc(k)}</b> · ${asks[k].map(esc).join(', ')}</li>`).join('')}</ul>`;el.insertBefore(rq,list);
+    const nv=document.querySelector('#nav a[data-v="ajustes"] b');if(nv&&!nv.querySelector('.adm-dot'))nv.insertAdjacentHTML('beforeend',' <span class="adm-dot" title="'+esc(L.reqH)+'">●</span>')}
   list.innerHTML=rows.map(r=>{const p=(r.data&&r.data['igcse-plan-v1'])||{};const n=Object.values(p).filter(Boolean).length;
-    const q=Object.keys((r.data&&r.data['igcse-quiz-v1'])||{}).length;const pct=tot?Math.min(100,Math.round(100*n/tot)):0;
+    const pf=r.data&&r.data['igcse-profile-v1'];const tt=(pf&&pf.tot)||tot;
+    const q=Object.keys((r.data&&r.data['igcse-quiz-v1'])||{}).length;const pct=tt?Math.min(100,Math.round(100*n/tt)):0;
     const nm=r.name||(r.data&&r.data['igcse-hours-v1']&&r.data['igcse-hours-v1'].name)||r.email;
     return `<button type="button" class="adm-row" data-view="${esc(r.user_id)}"><div class="adm-top"><b>${esc(nm)}</b><span class="num">${pct}%</span></div>
       <div class="adm-bar"><i style="width:${pct}%"></i></div>
-      <div class="adm-meta"><span>${L.ses(n,tot||'?')} · ${L.quizN(q)}</span><span>${L.last}: ${when(r.updated_at)}</span><span class="note">${esc(r.email||'')}</span></div><span class="adm-open">${L.open}</span></button>`}).join('');
+      <div class="adm-meta"><span>${L.ses(n,tt||'?')} · ${L.quizN(q)}</span>${pf?`<span>${L.examOn} ${fdt(pf.exam)} · ${L.subjOf}: ${pf.subj.concat(pf.req||[]).map(nmS).map(esc).join(', ')}${pf.other?', “'+esc(pf.other)+'”':''}</span>`:''}<span>${L.last}: ${when(r.updated_at)}</span><span class="note">${esc(r.email||'')}</span></div><span class="adm-open">${L.open}</span></button>`}).join('');
   list.onclick=e=>{const b=e.target.closest('[data-view]');if(b){b.disabled=true;openView(b.dataset.view)}};
 }
 function invite(me){
@@ -197,6 +204,11 @@ function signOut(){
   m.querySelector('#soY').onclick=async()=>{if(ls.get(DIRTY))await pushNow();await sb.auth.signOut();KEYS.concat([OWNER,TS,DIRTY]).forEach(ls.del);location.reload()};
 }
 
+/* A new student (no profile and no progress of any kind) gets the welcome screen */
+function needsWelcome(){if(ls.get('igcse-profile-v1'))return false;
+  const j=k=>{try{return JSON.parse(ls.get(k)||'{}')||{}}catch(e){return {}}};
+  if(['igcse-plan-v1','igcse-quiz-v1','igcse-moves-v1','igcse-cards-v1'].some(k=>Object.keys(j(k)).length))return false;
+  const h=j('igcse-hours-v1');return !(h.rules&&h.rules.length)}
 /* ---------- start ---------- */
 async function start(){
   const {data}=await sb.auth.getSession();const u=data&&data.session&&data.session.user;
@@ -205,6 +217,7 @@ async function start(){
   if(await adopt(u)){location.reload();return}
   if(VIEW){user=u;viewBar();return}
   accountPanel(u);
+  if(u.email!==ADMIN&&needsWelcome()&&window.IGOnboard)IGOnboard.open({name:(u.user_metadata&&u.user_metadata.name)||''});
   let last=Date.now();
   document.addEventListener('visibilitychange',async()=>{if(document.visibilityState!=='visible'||Date.now()-last<30000||busy)return;last=Date.now();if(await adopt(u))location.reload()});
 }

@@ -1,7 +1,12 @@
 /* IGCSE plan app (shared by the Spanish and English shells). Data and texts come from data-<lang>.js as window.DATA. */
 (function(){
 const DATA=window.DATA,T=DATA.T,S=DATA.S,LANG=DATA.lang,BASE=DATA.base;
-const ORDER=['math','stats','bio','chem','phys','bus','eng','fr','spa'];
+const ALL_SUBJ=['math','stats','bio','chem','phys','bus','eng','fr','spa'];
+/* A student's own profile (set by the welcome screen). No profile = Carlota's original plan. */
+const PKEY='igcse-profile-v1';
+const PROF=(()=>{let v=null;try{v=window.IGVIEW?window.IGVIEW[PKEY]:JSON.parse(localStorage.getItem(PKEY)||'null')}catch(e){}
+  return v&&/^\d{4}-\d\d-\d\d$/.test(v.start||'')&&/^\d{4}-\d\d-\d\d$/.test(v.exam||'')&&v.rule&&Array.isArray(v.subj)&&v.subj.some(k=>ALL_SUBJ.includes(k))?v:null})();
+const ORDER=PROF?ALL_SUBJ.filter(k=>PROF.subj.includes(k)):ALL_SUBJ;
 const COL=k=>`var(--c-${k})`;
 const $=id=>document.getElementById(id);
 const IC={
@@ -32,8 +37,9 @@ const {MES,MESL,DIA}=T;
 const D=(y,m,d)=>new Date(Date.UTC(y,m,d));
 const iso=d=>d.toISOString().slice(0,10);
 const add=(d,n)=>{const x=new Date(d);x.setUTCDate(x.getUTCDate()+n);return x};
-const START=D(2026,10,16),END=D(2027,0,10),EXAM=D(2027,0,11);
-const R1_END='2026-12-28',R2_END='2027-01-08';
+const pd=k=>new Date(k+'T00:00:00Z');
+const START=PROF?pd(PROF.start):D(2026,10,16),EXAM=PROF?pd(PROF.exam):D(2027,0,11),END=add(EXAM,-1);
+let R1_END='2026-12-28',R2_END='2027-01-08';
 const SPECIAL={'2026-12-24':2,'2026-12-25':0,'2026-12-31':2,'2027-01-01':0};
 const fmt=d=>`${DIA[d.getUTCDay()]} ${d.getUTCDate()} ${MES[d.getUTCMonth()]}`;
 function hoursFor(d){const k=iso(d);if(k in SPECIAL)return SPECIAL[k];if(k>='2026-12-22')return 4;const w=d.getUTCDay();return (w===0||w===6)?4:2}
@@ -47,8 +53,50 @@ function pick(st,used,room){let b=null;for(const k of ORDER){if(!st.q[k].length|
   if(b===null)return null;st.pass[b]+=1/st.tot[b];const [t,dt]=st.q[b].shift();return {s:b,t,dt,id:sid(st,b)}}
 const R1=makeQueues('r1'),R2=makeQueues('r2');
 const FINAL=DATA.FINAL;Object.entries(FINAL).forEach(([k,a])=>a.forEach((s,i)=>s.id=`f-${k}-${i+1}`));
-const days=[];
-for(let d=new Date(START);d<=END;d=add(d,1)){
+const days=[];let leftover=[];
+/* Lays out a profile plan: which days are Round 1 / Round 2 / final sprint and how many sessions each day gets.
+   Free hours are spread evenly; also used by the welcome screen to say whether everything fits. */
+function layout(P,order){
+  const st=pd(P.start),ex=pd(P.exam),all=[];
+  for(let d=new Date(st);d<ex;d=add(d,1)){const k=iso(d);all.push({d:new Date(d),k,h:ruleHours(P.rule,k,d)})}
+  const nF=all.length>=14?2:0,body=all.slice(0,all.length-nF);all.slice(all.length-nF).forEach(x=>{x.phase='f';x.u=0;x.n=0});
+  const N1=order.reduce((a,k)=>a+((S[k]&&S[k].r1.length)||0),0),N2=order.reduce((a,k)=>a+((S[k]&&S[k].r2.length)||0),0);
+  const fi=body.findIndex(x=>x.h>0);
+  const base=i=>Math.max(0,body[i].h-(i===fi?1:0)),isRev=i=>body[i].d.getUTCDay()===0&&base(i)>0;
+  let b=body.length-1;
+  for(let it=0;it<3;it++){
+    const cum=[];let c=0;body.forEach((x,i)=>{c+=base(i)-(isRev(i)?1:0);cum.push(c)});
+    const after=i=>body.slice(i+1).reduce((a,x,j)=>a+base(i+1+j),0);
+    const C=c+0;let best=-1;
+    const total=i=>cum[i]+after(i);
+    for(let i=0;i<body.length;i++){if(cum[i]>=N1&&after(i)>=N2){const t1=total(i)*N1/Math.max(1,N1+N2);if(best<0||Math.abs(cum[i]-t1)<Math.abs(cum[best]-total(best)*N1/Math.max(1,N1+N2)))best=i}}
+    if(best<0){best=cum.findIndex(v=>v>=N1);if(best<0)best=body.length-1}
+    if(best===b)break;b=best}
+  body.forEach((x,i)=>{x.phase=i<=b?'r1':'r2';x.kick=i===fi;x.rev=x.phase==='r1'&&isRev(i);x.u=base(i)-(x.rev?1:0)});
+  const spread=(list,N)=>{const Cp=list.reduce((a,x)=>a+x.u,0),r=Cp?Math.min(1,N/Cp):0;let cum=0,prev=0;list.forEach(x=>{cum+=x.u;const v=Math.round(cum*r);x.n=v-prev;prev=v});return Cp};
+  const c1=spread(body.filter(x=>x.phase==='r1'),N1),c2=spread(body.filter(x=>x.phase==='r2'),N2);
+  const s1=Math.max(0,N1-c1),s2=Math.max(0,N2-c2);
+  return {days:all,N1,N2,c1,c2,need:N1+N2,hours:all.reduce((a,x)=>a+x.h,0),short:s1+Math.max(0,s2-Math.max(0,c1-N1)),r1short:s1,fits:s1+Math.max(0,s2-Math.max(0,c1-N1))===0}}
+window.IGLayout=(P,order)=>layout(P,order.filter(k=>S[k]));
+const FREE=()=>({s:'mix',t:T.freeT,dt:T.freeD});
+if(PROF){
+  const LY=layout(PROF,ORDER),fkeys=Object.keys(FINAL);let fi=0;
+  const r1d=LY.days.filter(x=>x.phase==='r1'),r2d=LY.days.filter(x=>x.phase==='r2');
+  if(r1d.length)R1_END=r1d[r1d.length-1].k;R2_END=r2d.length?r2d[r2d.length-1].k:R1_END;
+  LY.days.forEach(x=>{const slots=[];
+    if(x.phase==='f'){const src=(FINAL[fkeys[fi++]]||[]).filter(s=>ORDER.includes(s.s));slots.push(...src.slice(0,x.h))}
+    else{const st=x.phase==='r1'?R1:R2,used=new Set();
+      if(x.kick)slots.push({s:'mix',t:T.kickT,dt:T.kickD,kick:true,id:'kickoff'});
+      for(let i=0;i<x.n;i++){const p=pick(st,used,x.n-i);if(!p)break;used.add(p.s);slots.push(p);
+        if(isPair(p.t)&&st.q[p.s].length){const [t,dt]=st.q[p.s].shift();st.pass[p.s]+=1/st.tot[p.s];slots.push({s:p.s,t,dt,id:sid(st,p.s)});i++}}}
+    const rev=x.rev?[{s:'mix',t:T.revT,dt:T.revD,id:'weekly-review'}]:[];
+    while(slots.length+rev.length<x.h)slots.push(FREE());
+    slots.push(...rev);
+    days.push({d:x.d,k:x.k,h:x.h,phase:x.phase,slots})});
+  /* Round 1 topics that did not fit stay visible as "not placed" (the dashboard counts them) */
+  ORDER.forEach(k=>{while(R1.q[k].length){const [t,dt]=R1.q[k].shift();leftover.push({s:k,t,dt,id:sid(R1,k)})}});
+}
+else for(let d=new Date(START);d<=END;d=add(d,1)){
   const k=iso(d),h=hoursFor(d),phase=k<=R1_END?'r1':k<=R2_END?'r2':'f',slots=[];
   if(phase==='f'){slots.push(...FINAL[k].slice(0,h))}
   else{
@@ -62,7 +110,18 @@ for(let d=new Date(START);d<=END;d=add(d,1)){
   days.push({d:new Date(d),k,h,phase,slots});
 }
 days.forEach(x=>x.slots.forEach(s=>{if(s.id==='weekly-review'){s.topics=days.filter(y=>y.d<=x.d&&y.d>add(x.d,-7)).flatMap(y=>y.slots.filter(z=>z.id&&/-r1-/.test(z.id)).map(z=>z.id)).join(',')}}));
+/* A student's own dates and subjects replace Carlota's fixed texts */
+if(PROF){const dm=k=>{const d=pd(k);return `${d.getUTCDate()} ${MES[d.getUTCMonth()]}`},ES=LANG==='es',n=ORDER.length,fs=add(pd(R2_END),1);
+  const num=['','una','dos','tres','cuatro','cinco','seis','siete','ocho','nueve'][n]||String(n),numE=['','one','two','three','four','five','six','seven','eight','nine'][n]||String(n);
+  T.r1Sub=`${dm(iso(START))} → ${dm(R1_END)} · `;T.r2Sub=R2_END>R1_END?`${dm(iso(add(pd(R1_END),1)))} → ${dm(R2_END)}`:'';
+  T.examL=`${dm(iso(EXAM))} · MOCKS`;T.examLegend=`${dm(iso(EXAM))}: mocks`;
+  T.holidays=`${dm(PROF.rule.holFrom)} · ${ES?`vacaciones: ${PROF.rule.hol} h/día`:`holidays: ${PROF.rule.hol} h/day`}`;
+  const st0=T.stats;T.stats=(t,d,r1,r2)=>{const a=st0(t,d,r1,r2);a[1][1]=ES?`del ${dm(iso(START))} al ${dm(iso(END))}`:`from ${dm(iso(START))} to ${dm(iso(END))}`;return a};
+  T.routeAria=ES?`Fases: Ronda 1 hasta el ${dm(R1_END)}, Ronda 2 hasta el ${dm(R2_END)}, mocks el ${dm(iso(EXAM))}`:`Phases: Round 1 to ${dm(R1_END)}, Round 2 to ${dm(R2_END)}, mocks on ${dm(iso(EXAM))}`;
+  if(T.views&&T.views.reparto){const v=T.views.reparto.slice();v[2]=v[2].replace(/^Con nueve asignaturas/,`Con ${num} asignatura${n===1?'':'s'}`).replace(/^With nine subjects/,`With ${numE} subject${n===1?'':'s'}`);T.views.reparto=v}
+}
 days.forEach(x=>{x.base=x.slots.length;x.slots.forEach((s,i)=>{s.uid=s.id==='weekly-review'?'weekly-review@'+x.k:(s.id||('x@'+x.k+'-'+i));s.orig=x.k;s.ph=x.phase})});
+leftover.forEach(s=>{s.uid=s.id;s.orig=R1_END;s.ph='r1'});
 /* ----- Custom study hours ("Regenerate plan") ----- */
 const now=(()=>{let q=null;try{q=new URLSearchParams(location.search).get('today')}catch(e){}return q&&/^\d{4}-\d\d-\d\d$/.test(q)?new Date(q+'T12:00:00'):new Date()})();
 const todayK=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
@@ -71,11 +130,11 @@ const load=k=>{if(VIEW)return JSON.parse(JSON.stringify(VIEW[k]||{}));try{return
 const store=(k,v)=>{if(VIEW)return;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}if(window.IGSync)IGSync.push()};
 const KEY='igcse-plan-v1',QKEY='igcse-quiz-v1',HKEY='igcse-hours-v1';
 const done=load(KEY),quiz=load(QKEY),HS=load(HKEY);
-const DEF_RULE={wd:[2,2,2,2,2,4,4],hol:4,holFrom:'2026-12-22',holTo:'2027-01-10',xmasOff:true,half:true};
+const DEF_RULE=PROF?Object.assign({},PROF.rule):{wd:[2,2,2,2,2,4,4],hol:4,holFrom:'2026-12-22',holTo:'2027-01-10',xmasOff:true,half:true};
 function ruleHours(r,k,d){if(r.xmasOff&&(k==='2026-12-25'||k==='2027-01-01'))return 0;
   const inHol=k>=r.holFrom&&k<=r.holTo;if(r.half&&inHol&&(k==='2026-12-24'||k==='2026-12-31'))return Math.ceil(r.hol/2);
   if(inHol)return r.hol;return r.wd[(d.getUTCDay()+6)%7]}
-let overflow=[];
+let overflow=leftover.slice();
 function applyRule(r){
   const F=r.from;const past=days.filter(x=>x.k<F),fut=days.filter(x=>x.k>=F);if(!fut.length)return;
   const overdue=[];past.forEach(x=>{x.slots=x.slots.filter(s=>{if(done[s.uid]||!s.id)return true;overdue.push(s);return false});x.h=x.slots.length});
@@ -106,7 +165,7 @@ const VIEWS=['hoy','calendario','reparto','asignaturas','metodo','recursos','aju
 $('nav').innerHTML=VIEWS.map(v=>`<a href="#${v}" data-v="${v}">${ic(v)}<b>${T.nav[v]}</b><small>${T.navSub[v]}</small></a>`).join('');
 $('cdNum').textContent=left;$('cdTxt').textContent=T.daysLeft;$('cdMini').textContent=`${left} ${T.daysLeft}`;
 $('langLink').textContent=T.lang;$('langLink').href=T.langHref;
-$('brandT').textContent=T.brand;$('brandS').textContent=T.brandSub.replace(/^Carlota/,(load('igcse-hours-v1').name)||'Carlota');$('installHint').innerHTML=T.install;$('nav').setAttribute('aria-label',T.menu);
+$('brandT').textContent=T.brand;$('brandS').textContent=PROF?`${load('igcse-hours-v1').name||PROF.name||''} · Mocks ${EXAM.getUTCDate()} ${MES[EXAM.getUTCMonth()]} ${EXAM.getUTCFullYear()}`:T.brandSub.replace(/^Carlota/,(load('igcse-hours-v1').name)||'Carlota');$('installHint').innerHTML=T.install;$('nav').setAttribute('aria-label',T.menu);
 $('burger').innerHTML=ic('menu');$('burger').setAttribute('aria-label',T.menu);
 const app=$('app');
 function openMenu(o){app.classList.toggle('open',o);$('burger').setAttribute('aria-expanded',String(o))}
@@ -151,10 +210,11 @@ function renderReparto(){
   const seg=(a,b,c,label,sub)=>`<rect x="${X(a)}" y="58" width="${X(b)-X(a)-3}" height="26" rx="6" style="fill:${c}"/><text x="${X(a)+8}" y="76" style="fill:var(--surface);font:700 13px var(--f-display)">${label}</text><text x="${X(a)}" y="104" style="fill:var(--muted);font:11px var(--f-mono)">${sub}</text>`;
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${T.routeAria}">`;
   for(let d=new Date(START);d<=EXAM;d=add(d,1)){if(d.getUTCDay()===1)s+=`<line x1="${X(d)}" x2="${X(d)}" y1="44" y2="52" style="stroke:var(--line)"/><text x="${X(d)}" y="38" text-anchor="middle" style="fill:var(--muted);font:10px var(--f-mono)">${d.getUTCDate()} ${MES[d.getUTCMonth()]}</text>`}
-  s+=seg(START,D(2026,11,29),'var(--accent)',T.r1Label,T.r1Sub+r1h+' h');
-  s+=seg(D(2026,11,29),D(2027,0,9),'var(--warn)',T.r2Label,T.r2Sub);
-  s+=`<rect x="${X(D(2027,0,9))}" y="58" width="${X(EXAM)-X(D(2027,0,9))-3}" height="26" rx="6" style="fill:var(--ok)"/><text x="${X(D(2027,0,9))}" y="120" style="fill:var(--muted);font:11px var(--f-mono)">${T.sprint}</text>`;
-  s+=`<line x1="${X(D(2026,11,22))}" x2="${X(D(2026,11,22))}" y1="52" y2="132" style="stroke:var(--ink);stroke-dasharray:3 3"/><text x="${X(D(2026,11,22))-6}" y="140" text-anchor="end" style="fill:var(--ink);font:600 11px var(--f-mono)">${T.holidays}</text>`;
+  const R2S=add(pd(R1_END),1),FS=add(pd(R2_END),1),HOL=pd(DEF_RULE.holFrom);
+  s+=seg(START,R2S,'var(--accent)',T.r1Label,T.r1Sub+r1h+' h');
+  if(R2S<FS)s+=seg(R2S,FS,'var(--warn)',T.r2Label,T.r2Sub);
+  if(FS<EXAM)s+=`<rect x="${X(FS)}" y="58" width="${X(EXAM)-X(FS)-3}" height="26" rx="6" style="fill:var(--ok)"/><text x="${X(FS)}" y="120" style="fill:var(--muted);font:11px var(--f-mono)">${T.sprint}</text>`;
+  if(HOL>START&&HOL<EXAM)s+=`<line x1="${X(HOL)}" x2="${X(HOL)}" y1="52" y2="132" style="stroke:var(--ink);stroke-dasharray:3 3"/><text x="${X(HOL)-6}" y="140" text-anchor="end" style="fill:var(--ink);font:600 11px var(--f-mono)">${T.holidays}</text>`;
   const ex=X(EXAM);s+=`<circle cx="${ex-6}" cy="71" r="12" style="fill:var(--ink)"/><path d="M${ex-11} 71l4 4 7-8" style="fill:none;stroke:var(--bg);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"/><text x="${ex-6}" y="104" text-anchor="end" style="fill:var(--ink);font:700 12px var(--f-mono)">${T.examL}</text>`;
   if(todayUTC>=START&&todayUTC<=EXAM){const tx=X(todayUTC);s+=`<path d="M${tx} 56l-5-8h10z" style="fill:var(--ink)"/><text x="${tx+8}" y="18" style="fill:var(--ink);font:700 11px var(--f-mono)">${T.todayL}</text><line x1="${tx}" x2="${tx}" y1="22" y2="48" style="stroke:var(--ink)"/>`}
   $('route').innerHTML=s+'</svg>';
@@ -162,7 +222,7 @@ function renderReparto(){
    const pct=Math.max(0,Math.min(100,100*((todayUTC-START)/864e5)/N));
    const row=(c,l,sub)=>`<li style="--c:${c}"><b>${l}</b><span>${sub}</span></li>`;
    m.innerHTML=`<div class="rm-bar"><i style="width:${pct}%"></i>${todayUTC>=START&&todayUTC<=EXAM?`<em style="left:${pct}%">${T.todayL}</em>`:''}</div><ol>`+
-     row('var(--accent)',T.r1Label,T.r1Sub+r1h+' h')+row('var(--warn)',T.r2Label,T.r2Sub)+row('var(--ok)',T.sprint.toUpperCase(),LANG==='es'?'9 – 10 ene':'9 – 10 Jan')+row('var(--ink)',T.examL,'')+`</ol><p class="note">${T.holidays}</p>`}
+     row('var(--accent)',T.r1Label,T.r1Sub+r1h+' h')+row('var(--warn)',T.r2Label,T.r2Sub)+(FS<EXAM?row('var(--ok)',T.sprint.toUpperCase(),`${FS.getUTCDate()} – ${END.getUTCDate()} ${MES[END.getUTCMonth()]}`):'')+row('var(--ink)',T.examL,'')+`</ol><p class="note">${T.holidays}</p>`}
   // weekly
   {const weeks=[];const mon=d=>add(d,-((d.getUTCDay()+6)%7));
   days.forEach(x=>{const m=iso(mon(x.d));let w=weeks.find(w=>w.m===m);if(!w){w={m,d:mon(x.d),c:{}};weeks.push(w)}x.slots.forEach(s=>w.c[s.s]=(w.c[s.s]||0)+1)});
@@ -188,7 +248,8 @@ const chip=(k,attrs='')=>`<button type="button" class="chip" data-k="${k}" ${att
 function renderCalendar(){
   $('legend').innerHTML=[...ORDER,'mix'].map(k=>chip(k,'tabindex="-1" style="cursor:default"')).join('')+`<span class="legend-phase" style="align-self:center"><span><i class="sw" style="background:var(--ink)"></i>${T.examLegend}</span><span><i class="sw" style="background:var(--grid);border:1px solid var(--line)"></i>${T.restLegend}</span></span>`;
   const byK=Object.fromEntries(days.map(x=>[x.k,x]));
-  $('cal').innerHTML=[[2026,10],[2026,11],[2027,0]].map(([y,m])=>{
+  const MONTHS=[];for(let y=START.getUTCFullYear(),m=START.getUTCMonth();y*12+m<=EXAM.getUTCFullYear()*12+EXAM.getUTCMonth();m++){if(m>11){m=0;y++}MONTHS.push([y,m])}
+  $('cal').innerHTML=MONTHS.map(([y,m])=>{
     const first=D(y,m,1),off=(first.getUTCDay()+6)%7,n=new Date(Date.UTC(y,m+1,0)).getUTCDate();
     let g=T.DOWS.map(x=>`<div class="dow">${x}</div>`).join('');
     for(let i=0;i<off;i++)g+='<div class="cell empty"></div>';
@@ -203,7 +264,7 @@ function renderCalendar(){
   $('plan').innerHTML=weeks.map((w,i)=>{const a=w.list[0].d,b=w.list[w.list.length-1].d,h=w.list.reduce((s,x)=>s+x.h,0);
     const phases=[...new Set(w.list.map(x=>x.phase))].map(p=>`<span class="phase-pill ${PHC[p]}">${PHN(p)}</span>`).join('');
     return `<div class="week"><div class="week-h"><h3>${T.week} ${i+1}</h3><span class="meta num">${a.getUTCDate()} ${MES[a.getUTCMonth()]} – ${b.getUTCDate()} ${MES[b.getUTCMonth()]} · ${h} h</span>${phases}</div><div class="days">${w.list.map(x=>{
-      const body=x.h?`<ul class="slots">${x.slots.map((s,i)=>slotHTML(x,s,i)).join('')}</ul>`:`<p class="rest-note">${T.dayOff} ${x.k==='2026-12-25'?T.xmas:T.ny}</p>`;
+      const body=x.h?`<ul class="slots">${x.slots.map((s,i)=>slotHTML(x,s,i)).join('')}</ul>`:`<p class="rest-note">${T.dayOff}${x.k.endsWith('-12-25')?' '+T.xmas:x.k.endsWith('-01-01')?' '+T.ny:''}</p>`;
       return `<article class="day${x.k===todayK?' is-today':''}" id="d-${x.k}"><div class="day-h"><b>${fmt(x.d)}</b><span>${x.h} h</span></div>${body}</article>`}).join('')}</div></div>`}).join('');
   applyFilter();
 }
@@ -356,7 +417,7 @@ function renderSettings(){
   $('settings').innerHTML=`
   <div class="panel"><h3>${st.nameH}</h3><input id="setName" class="inp" type="text" value="${esc(HS.name||'Carlota')}" autocomplete="off"><p class="note">${st.nameNote}</p></div>
   <div class="panel"><h3>${st.weekH}</h3><p class="note">${st.weekNote}</p><div class="stps">${st.days.map((d,i)=>step('wd'+i,r.wd[i],d)).join('')}</div></div>
-  <div class="panel"><h3>${st.holH}</h3><div class="row2"><label>${st.from}<input id="holFrom" class="inp" type="date" value="${r.holFrom}" min="2026-11-16" max="2027-01-10"></label><label>${st.to}<input id="holTo" class="inp" type="date" value="${r.holTo}" min="2026-11-16" max="2027-01-10"></label></div>
+  <div class="panel"><h3>${st.holH}</h3><div class="row2"><label>${st.from}<input id="holFrom" class="inp" type="date" value="${r.holFrom}" min="${iso(START)}" max="${iso(END)}"></label><label>${st.to}<input id="holTo" class="inp" type="date" value="${r.holTo}" min="${iso(START)}" max="${iso(END)}"></label></div>
     <div class="stps">${step('hol',r.hol,st.holHours)}</div>
     <label class="chk"><input id="xmasOff" type="checkbox" ${r.xmasOff?'checked':''}> ${st.xmas}</label><label class="chk"><input id="half" type="checkbox" ${r.half?'checked':''}> ${st.half}</label></div>
   <div class="panel" id="setPrev"></div>
@@ -380,8 +441,9 @@ function renderSettings(){
     else if(a==='reset-yes'){delete HS.rules;store(HKEY,HS);store(MOVES_KEY,{});location.hash='hoy';location.reload()}};
 }
 /* ----- Expose for the dashboard ----- */
-window.PLAN={overflow,mandatory,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
+window.PLAN={START:iso(START),EXAM:iso(EXAM),R1_END,R2_END,PROF,overflow,mandatory,name:HS.name||'Carlota',ruleHours,DEF_RULE,HS,days,S,ORDER,COL,fmt,todayK,done,save,PH:Object.fromEntries(Object.entries(T.PH).map(([k,v])=>[k,[v,PHC[k]]])),moves,MOVES_KEY,slotHTML,renderToday,quiz,level,lang:LANG,base:BASE};
 renderReparto();renderCalendar();renderSubjects();renderSettings();
+if(PROF&&!VIEW&&PROF.tot!==mandatory().length){PROF.tot=mandatory().length;store(PKEY,PROF)}
 {let rw=innerWidth,rt;addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{if(Math.abs(innerWidth-rw)>40){rw=innerWidth;renderReparto()}},250)})}
 
 window.addEventListener('DOMContentLoaded',()=>{});

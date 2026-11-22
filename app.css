@@ -403,3 +403,6 @@ html.viewas .toolbar{top:calc(var(--topbar-h) + 60px)}
 .subj-topics li{display:flex;align-items:center;gap:4px}.subj-topics li>a{flex:1;min-width:0}
 .subj-topics .prc{all:unset;box-sizing:border-box;cursor:pointer;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;border:1px solid var(--line);background:var(--surface);font-size:1.05rem;flex:none}
 .subj-topics .prc:hover{border-color:var(--accent)}
+.adm-req{border:1px solid var(--warn);background:color-mix(in srgb,var(--warn) 12%,var(--surface));border-radius:12px;padding:12px 14px;margin:0 0 12px}
+.adm-req ul{margin:6px 0 0;padding-left:18px}.adm-req li{margin:3px 0}
+.adm-dot{color:var(--warn);font-size:.7em;vertical-align:middle}

@@ -206,7 +206,7 @@ function compute(){
 }
 
 function planMoves(c){
-  const K=c.K;let targets=P.days.filter(x=>x.k>K&&x.k<='2027-01-08'&&x.base>0);
+  const K=c.K;let targets=P.days.filter(x=>x.k>K&&x.k<=(P.R2_END||'2027-01-08')&&x.base>0);
   if(!targets.length)targets=P.days.filter(x=>x.k>=K&&x.base>0);
   if(!targets.length)return null;
   const load={};targets.forEach(x=>load[x.k]=0);const mv={};
@@ -218,7 +218,7 @@ const fd=d=>ES?P.fmt(d).replace(/^./,ch=>ch.toLowerCase()):P.fmt(d);
 function nmOf(s){return s.s==='mix'?(s.kick?(ES?'Arranque':'Kick-off'):(ES?'Repaso':'Review')):P.S[s.s].es}
 function options(t,K){
   const nm=t.s.s;
-  return P.days.filter(x=>x.k>=K&&x.k<='2027-01-08'&&x.base>0).map(x=>{
+  return P.days.filter(x=>x.k>=K&&x.k<=(P.R2_END||'2027-01-08')&&x.base>0).map(x=>{
     const open=x.slots.filter(s=>!P.done[s.uid]);const work=open.length,filler=open.some(s=>!s.id);
     const after=work-(filler?1:0)+1,extra=after-x.base;
     const adv=x.k>K?x.slots.find(s=>s.id&&P.done[s.uid]):null;
@@ -273,7 +273,7 @@ function render(){
   else if(ui.confirm==='undo'){actions=`<div class="confirm" role="alertdialog"><span>${T.undoQ}</span><b>${T.undoSure}</b><div class="actions"><button class="b warn" data-a="undo-yes" type="button">${T.undoYes}</button><button class="b ghost" data-a="cancel" type="button">${T.resNo}</button></div></div>`}
   else {actions=`<div class="actions">${c.overdue.length?`<button class="b" data-a="res" type="button">${T.resBtn}</button>`:''}${movedCount?`<button class="b ghost" data-a="undo" type="button">${T.undoBtn}</button><span class="note">${T.movedNote(movedCount)}</span>`:''}</div>`}
   const lvl={g:[T.riskG,T.riskGd],a:[T.riskA,T.riskAd],r:[T.riskR,T.riskRd]}[c.risk];
-  const daysTotal=Math.round((new Date('2027-01-11')-new Date('2026-11-16'))/864e5);const left=Math.max(0,Math.round((new Date('2027-01-11')-new Date(c.K))/864e5));
+  const daysTotal=Math.round((new Date(P.EXAM||'2027-01-11')-new Date(P.START||'2026-11-16'))/864e5);const left=Math.max(0,Math.round((new Date(P.EXAM||'2027-01-11')-new Date(c.K))/864e5));
   const pctAll=c.total?Math.round(100*c.n/c.total):0;
   const ring=(pct,col,big,small)=>{const r=42,C=2*Math.PI*r;return `<div class="ring"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:rgba(255,255,255,.14);stroke-width:10"/><circle cx="50" cy="50" r="${r}" style="fill:none;stroke:${col};stroke-width:10;stroke-linecap:round;stroke-dasharray:${C*Math.max(0,Math.min(100,pct))/100} ${C};transform:rotate(-90deg);transform-origin:50% 50%"/></svg><div><b class="num">${big}</b><span>${small}</span></div></div>`};
   const days=P.days;let mDay=days.find(x=>x.k===c.K),mLabel=T.mission;if(!mDay&&c.K<c.first){mDay=days[0];mLabel=T.missionFirst(P.fmt(mDay.d))}

@@ -3,48 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which algorithm requires the list to be sorted before it can be used?",
+   "q": "In ASCII, 'A' has the code 65. What is the code for 'H'?",
    "options": [
-    "Linear search",
-    "Bubble sort",
-    "Binary search",
-    "Merge sort"
+    "71",
+    "72",
+    "73",
+    "78"
    ],
-   "answer": 2,
-   "why": "Binary search discards half the list each time, which only works if the list is in order."
+   "answer": 1,
+   "why": "H is 7 letters after A, so 65 + 7 = 72."
   },
   {
    "type": "mcq",
-   "q": "A bubble sort (ascending) is run on 4 2 7 1. What is the list after the first pass?",
+   "q": "An image is 640 × 480 pixels with a colour depth of 8 bits. What is its file size?",
    "options": [
-    "2 4 1 7",
-    "2 4 7 1",
-    "1 2 4 7",
-    "2 1 4 7"
+    "2,400 KiB",
+    "37.5 KiB",
+    "307 KiB (using 1000 bytes)",
+    "300 KiB"
+   ],
+   "answer": 3,
+   "why": "640 × 480 × 8 = 2,457,600 bits ÷ 8 = 307,200 bytes ÷ 1024 = 300 KiB."
+  },
+  {
+   "type": "mcq",
+   "q": "Which shows WWWBBW compressed with run-length encoding?",
+   "options": [
+    "3W 2B 1W",
+    "3W 3B",
+    "W3 B2 W1 W",
+    "6W 3B"
    ],
    "answer": 0,
-   "why": "4,2 swap → 2 4 7 1; 4,7 no swap; 7,1 swap → 2 4 1 7."
-  },
-  {
-   "type": "mcq",
-   "q": "A binary search looks for 23 in the sorted list 4 11 15 19 23 30 42. Which item is checked first?",
-   "options": [
-    "4",
-    "15",
-    "19",
-    "23"
-   ],
-   "answer": 2,
-   "why": "Indices 0 to 6 give mid = 3, which holds 19."
+   "why": "RLE stores each run as a count and a value: three W, two B, one W."
   },
   {
    "type": "short",
-   "q": "Describe how a merge sort works.",
-   "model": "The list is split in half repeatedly until each sub-list holds one item. Pairs of sub-lists are then merged, comparing their first items and taking the smaller each time, until one sorted list remains.",
+   "q": "State two effects of increasing the colour depth of an image.",
+   "model": "More colours can be shown so the image is a more accurate/better quality picture, but the file size is larger because more bits are stored for every pixel.",
    "points": [
-    "repeatedly divide list in half until single items",
-    "merge pairs by comparing first items and taking the smaller",
-    "until one sorted list"
+    "more colours / better quality",
+    "larger file size"
    ]
   }
  ]

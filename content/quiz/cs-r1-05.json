@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "An array Names holds ['Ann', 'Ben', 'Cy', 'Dev']. What does Names[3] give?",
+   "q": "Which type of memory is volatile and holds the programs currently in use?",
    "options": [
-    "Cy",
-    "Dev",
-    "Ben",
-    "An error"
+    "ROM",
+    "Cache on the hard drive",
+    "Optical disc",
+    "RAM"
    ],
-   "answer": 1,
-   "why": "Indices start at 0, so index 3 is the fourth item, 'Dev'."
+   "answer": 3,
+   "why": "RAM loses its contents when the power is off and holds programs and data in use."
   },
   {
    "type": "mcq",
-   "q": "Which data structure is best for storing a student's name (string), age (integer) and form (string) together?",
+   "q": "Which storage type uses a laser and pits and lands to store data?",
    "options": [
-    "1D array",
-    "2D array",
-    "Record",
-    "Text file only"
+    "Optical",
+    "Magnetic",
+    "Solid state",
+    "Cloud"
    ],
-   "answer": 2,
-   "why": "A record has named fields that can hold different data types."
+   "answer": 0,
+   "why": "Optical discs have pits and lands that reflect laser light differently, read as 1s and 0s."
   },
   {
    "type": "mcq",
-   "q": "A file is opened in Python with mode \"w\". What happens to existing contents?",
+   "q": "Which is a valid IPv4 address?",
    "options": [
-    "They are kept and new data is added",
-    "They are erased",
-    "The program shows an error",
-    "They are read into a list"
+    "192.168.1.256",
+    "172.16.254.1",
+    "10.0.0",
+    "192.168.1.1.5"
    ],
    "answer": 1,
-   "why": "Write mode creates the file or erases what was there; append mode (\"a\") keeps it."
+   "why": "IPv4 has four numbers, each from 0 to 255, separated by dots."
   },
   {
    "type": "short",
-   "q": "In a 2D array Marks, state what Marks[2,5] refers to.",
-   "model": "The item in row 2, column 5 (the third row and sixth column, because indices start at 0).",
+   "q": "State two differences between a MAC address and an IP address.",
+   "model": "A MAC address is set by the manufacturer and does not change, but an IP address is allocated by the network and can change. A MAC address is 48 bits in hex; an IPv4 address is 32 bits.",
    "points": [
-    "row index 2 and column index 5",
-    "indices start at 0"
+    "MAC set by manufacturer and fixed; IP allocated by network and can change",
+    "MAC 48-bit hex; IPv4 32-bit / different format"
    ]
   }
  ]

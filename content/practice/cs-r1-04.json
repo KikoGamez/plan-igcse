@@ -2,166 +2,166 @@
  "id": "cs-r1-04",
  "cards": [
   {
-   "f": "Variable",
-   "b": "A named location in memory holding a value that can change while the program runs."
+   "f": "Von Neumann architecture",
+   "b": "A design in which instructions and data are stored in the same main memory (RAM) and fetched by the CPU one after another."
   },
   {
-   "f": "Constant",
-   "b": "A named location holding a value that is set once and cannot change while the program runs."
+   "f": "ALU",
+   "b": "Arithmetic logic unit: does calculations and logic operations such as AND, OR, NOT and comparisons."
   },
   {
-   "f": "Integer vs real",
-   "b": "Integer: whole number (7). Real: number with a fractional part (7.5)."
+   "f": "Control unit",
+   "b": "Decodes instructions, sends control signals and controls the flow of data around the CPU."
   },
   {
-   "f": "Character vs string",
-   "b": "Character: a single character ('A'). String: a sequence of characters ('Hello')."
+   "f": "PC and MAR",
+   "b": "PC: address of the next instruction to fetch. MAR: address of the memory location being read from or written to."
   },
   {
-   "f": "Boolean",
-   "b": "A data type with two values only: True or False."
+   "f": "MDR, CIR and ACC",
+   "b": "MDR: data or instruction just fetched. CIR: instruction being decoded and executed. ACC: results of ALU calculations."
   },
   {
-   "f": "MOD and DIV",
-   "b": "MOD gives the remainder (17 MOD 5 = 2); DIV gives the whole-number result (17 DIV 5 = 3)."
+   "f": "Address bus, data bus, control bus",
+   "b": "Address bus carries addresses (one way, CPU to memory). Data bus carries data and instructions (both ways). Control bus carries control signals."
   },
   {
-   "f": "Test if n is even",
-   "b": "n MOD 2 = 0 (Python: n % 2 == 0)."
+   "f": "Fetch stage",
+   "b": "PC copied to MAR; PC incremented; instruction at that address copied from RAM to MDR; then MDR to CIR."
   },
   {
-   "f": "Python: input as a whole number",
-   "b": "int(input('Age: ')). input() returns a string, so it must be converted."
+   "f": "Decode and execute",
+   "b": "Control unit decodes the instruction in the CIR using the instruction set. Then the instruction is carried out, e.g. ALU calculates or PC changes on a jump."
   },
   {
-   "f": "Selection",
-   "b": "The program chooses which instructions to run depending on a condition (IF … ELSE)."
+   "f": "Clock speed",
+   "b": "Number of fetch–decode–execute cycles per second, in Hz. Higher is faster but produces more heat."
   },
   {
-   "f": "Count-controlled loop",
-   "b": "Repeats a set number of times, e.g. FOR i FROM 1 TO 5. Python: for i in range(1, 6)."
+   "f": "Number of cores",
+   "b": "Each core runs its own FDE cycle, so more instructions run at once. It only helps if software can use several cores."
   },
   {
-   "f": "Python range(1, 6)",
-   "b": "Gives 1, 2, 3, 4, 5. It stops before the end value."
+   "f": "Cache",
+   "b": "Small, very fast memory in or next to the CPU that stores frequently used data and instructions."
   },
   {
-   "f": "Condition-controlled loops",
-   "b": "WHILE tests first (may run zero times). REPEAT … UNTIL tests last (runs at least once)."
+   "f": "Embedded system",
+   "b": "A computer system built into a device to do one dedicated task, e.g. washing machine, alarm, traffic lights."
   },
   {
-   "f": "Rogue value",
-   "b": "A special input, such as 0, used to tell the program to stop reading data."
+   "f": "Sensor",
+   "b": "An input device that measures a physical property such as temperature and sends readings to a processor."
   },
   {
-   "f": "Python equivalent of REPEAT … UNTIL",
-   "b": "while True: … if condition: break"
+   "f": "Actuator",
+   "b": "An output device that moves or controls something when it gets a signal from the processor, e.g. motor, valve, heater."
   },
   {
-   "f": "Why use comments, good names and indentation?",
-   "b": "They make code easier to read, debug and maintain."
+   "f": "Laser printer",
+   "b": "Laser draws the page on a charged drum; toner sticks to it, is transferred to paper and fused by heat."
   }
  ],
  "gaps": [
   {
-   "s": "A variable that cannot change while the program runs is a ___.",
+   "s": "The ___ register stores the address of the next instruction to be fetched.",
    "a": [
-    "constant"
+    "program counter",
+    "pc"
    ]
   },
   {
-   "s": "A whole number is stored in the ___ data type.",
+   "s": "The ___ register holds the results of calculations made by the ALU.",
    "a": [
-    "integer",
-    "int"
+    "accumulator",
+    "acc"
    ]
   },
   {
-   "s": "The data type for True/False values is ___.",
+   "s": "The ___ bus carries memory addresses from the CPU to memory.",
    "a": [
-    "Boolean",
-    "bool"
+    "address"
    ]
   },
   {
-   "s": "20 DIV 6 is ___.",
+   "s": "The list of all the commands a CPU can carry out is its ___ set.",
    "a": [
-    "3",
-    "three"
+    "instruction"
    ]
   },
   {
-   "s": "The Python operator for the remainder is ___.",
+   "s": "Clock speed is measured in ___.",
    "a": [
-    "%",
-    "mod"
+    "hertz",
+    "hz",
+    "ghz",
+    "gigahertz"
    ]
   },
   {
-   "s": "A ___ loop repeats a fixed number of times.",
+   "s": "A ___ is a processing unit inside the CPU that can run its own fetch–decode–execute cycle.",
    "a": [
-    "count-controlled",
-    "count controlled",
-    "for",
-    "counted"
+    "core"
    ]
   },
   {
-   "s": "Python's input() always returns a ___.",
+   "s": "A 3D printer builds an object ___ by layer.",
    "a": [
-    "string",
-    "str",
-    "text"
+    "layer"
    ]
   },
   {
-   "s": "Pearson pseudocode joins strings with the ___ operator.",
+   "s": "In a sensor-based system, the processor sends a signal to an ___ to make something happen.",
    "a": [
-    "&",
-    "ampersand",
-    "append"
+    "actuator"
    ]
   }
  ],
  "short": [
   {
-   "q": "State the data type you would use for (a) a person's height in metres, (b) the number of students in a class, (c) whether a door is open.",
-   "model": "(a) real, (b) integer, (c) Boolean.",
+   "type": "short",
+   "q": "Describe the purpose of the MAR and the MDR.",
+   "model": "The MAR holds the address of the memory location that is to be read from or written to. The MDR holds the data or instruction that has just been fetched from, or is about to be written to, memory.",
    "points": [
-    "real for height",
-    "integer for count and Boolean for open"
+    "MAR holds an address",
+    "MDR holds data/instruction fetched or to be written"
    ]
   },
   {
-   "q": "Write the result and show how it is found: 47 MOD 10 and 47 DIV 10.",
-   "model": "47 MOD 10 = 7, the last digit (remainder); 47 DIV 10 = 4, the whole-number part.",
+   "type": "short",
+   "q": "Explain why a computer with more cores may not run a program twice as fast.",
+   "model": "More cores allow more instructions to be processed at the same time, but only if the software can split its tasks across cores. Many programs cannot, so the speed-up is smaller.",
    "points": [
-    "MOD = 7",
-    "DIV = 4"
+    "more cores allow tasks run at same time",
+    "only if software can use multiple cores"
    ]
   },
   {
-   "q": "Write a Python loop that prints the numbers 1 to 10.",
-   "model": "for i in range(1, 11): print(i)",
+   "type": "short",
+   "q": "A central heating system keeps a house at 21 °C. Describe how a temperature sensor is used.",
+   "model": "The sensor sends readings to the processor continuously. The processor compares each reading with the stored value of 21 °C and, if it is too low, signals an actuator to switch the heater on (and off when too warm).",
    "points": [
-    "loop with correct range(1, 11)",
-    "print inside the loop"
+    "sensor sends readings to the processor",
+    "processor compares with stored value",
+    "signal sent to an actuator / heater"
    ]
   },
   {
-   "q": "Explain why a user's age input must be converted with int() in Python before comparing it with 18.",
-   "model": "input() returns a string and a string cannot be properly compared with a number, so it must be converted to an integer first.",
+   "type": "short",
+   "q": "Describe how a touchscreen with capacitive technology detects where it has been touched.",
+   "model": "A finger changes the electric field on the screen. The processor calculates the position of the change in the field and treats it as the touch position.",
    "points": [
-    "input() returns a string",
-    "needs converting to an integer to compare/calculate"
+    "finger changes the electric field",
+    "position calculated"
    ]
   },
   {
-   "q": "Explain the difference between a WHILE loop and a REPEAT … UNTIL loop.",
-   "model": "A WHILE loop tests its condition before each pass, so it may never run. REPEAT … UNTIL tests after each pass, so it always runs at least once.",
+   "type": "short",
+   "q": "State two features of an embedded system and give one example.",
+   "model": "It is built into a device and does one dedicated task. Example: a washing machine controller.",
    "points": [
-    "WHILE tests first / may run zero times",
-    "REPEAT tests at end / runs at least once"
+    "built into a device / single dedicated task",
+    "valid example"
    ]
   }
  ]

@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What is the output of A OR B when A = 1 and B = 1?",
+   "q": "Which item is NOT found in a packet header?",
+   "options": [
+    "The packet number",
+    "The destination address",
+    "The data being sent",
+    "The sender's (originator's) address"
+   ],
+   "answer": 2,
+   "why": "The data is in the payload. The header holds destination address, packet number and originator's address."
+  },
+  {
+   "type": "mcq",
+   "q": "Even parity is used with the 7-bit code 1101001. What is the parity bit?",
    "options": [
     "0",
     "1",
-    "Error",
-    "It depends on the order"
+    "2",
+    "It cannot be worked out"
    ],
-   "answer": 1,
-   "why": "OR gives 1 if at least one input is 1, including both."
+   "answer": 0,
+   "why": "1101001 has four 1s, which is already even, so the parity bit is 0."
   },
   {
    "type": "mcq",
-   "q": "How many rows are needed in a truth table for a logic statement with 3 inputs?",
+   "q": "Which type of data transmission sends data in both directions, but only one direction at a time?",
    "options": [
-    "3",
-    "6",
-    "9",
-    "8"
-   ],
-   "answer": 3,
-   "why": "2 × 2 × 2 = 8 combinations of inputs."
-  },
-  {
-   "type": "mcq",
-   "q": "Which statement describes: a light comes on if the switch (S) is on and it is not daytime (D)?",
-   "options": [
-    "L = S OR D",
-    "L = S AND NOT D",
-    "L = NOT S AND D",
-    "L = NOT (S AND D)"
+    "Simplex",
+    "Half-duplex",
+    "Full-duplex",
+    "Parallel"
    ],
    "answer": 1,
-   "why": "Both conditions are needed (AND) and daytime must be false (NOT D)."
+   "why": "Half-duplex is both directions but not at the same time (e.g. a walkie-talkie)."
   },
   {
    "type": "short",
-   "q": "What is a trace table used for?",
-   "model": "It records the values of variables (and any output) as an algorithm is followed step by step, so you can find its output, its purpose, or where an error occurs.",
+   "q": "Describe how a checksum is used to check that data has been sent correctly.",
+   "model": "The sender uses an algorithm to calculate a checksum from the data and sends it with the data. The receiver recalculates it from the data received and compares. If the two values differ, an error has occurred and the data is resent.",
    "points": [
-    "records variable values step by step",
-    "used to find output/purpose/errors"
+    "sender calculates checksum from data using an algorithm and sends it with the data",
+    "receiver recalculates and compares",
+    "if different, error detected / data resent"
    ]
   }
  ]

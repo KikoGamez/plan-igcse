@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "In a bicep curl the elbow is the fulcrum, the biceps pulls between the elbow and the hand. What class of lever is this?",
+   "q": "A sprinter of mass 70 kg accelerates at 4 m/s². What force is produced?",
    "options": [
-    "First",
-    "Second",
-    "Third",
-    "Fourth"
+    "17.5 N",
+    "66 N",
+    "280 N",
+    "74 N"
    ],
    "answer": 2,
-   "why": "The effort is between the fulcrum and the load: third class."
+   "why": "Force = mass × acceleration = 70 × 4 = 280 N."
   },
   {
    "type": "mcq",
-   "q": "A cartwheel happens in which plane and about which axis?",
+   "q": "In a third-class lever, which part is in the middle?",
    "options": [
-    "Sagittal plane, frontal axis",
-    "Frontal plane, sagittal axis",
-    "Transverse plane, longitudinal axis",
-    "Frontal plane, longitudinal axis"
+    "Fulcrum",
+    "Resistance",
+    "Effort",
+    "None, they are all at the ends"
    ],
-   "answer": 1,
-   "why": "Sideways movement is in the frontal plane about the sagittal axis."
+   "answer": 2,
+   "why": "Third class: F-E-R, effort between fulcrum and resistance (1-2-3 = F-R-E in the middle)."
   },
   {
    "type": "mcq",
-   "q": "Effort arm = 6 cm, load arm = 3 cm. What is the mechanical advantage?",
+   "q": "Which forces act on a sprinter in the starting blocks?",
    "options": [
-    "0.5",
-    "2",
-    "18",
-    "9"
+    "Gravity, ground reaction force, air resistance",
+    "Gravity, friction, buoyancy",
+    "Muscular force and lift only",
+    "Spin, drag and thrust"
    ],
-   "answer": 1,
-   "why": "MA = effort arm ÷ load arm = 6 ÷ 3 = 2."
+   "answer": 0,
+   "why": "The syllabus lists gravity, ground reaction force and air resistance."
   },
   {
    "type": "short",
-   "q": "Explain why a mechanical advantage of less than 1 is useful in sport, even though more effort is needed.",
-   "model": "A mechanical advantage below 1 means a short effort arm, so the limb moves quickly and through a large range of movement, e.g. a fast arm swing when throwing or kicking, although more muscular force is needed.",
+   "q": "Draw (describe) a first-class lever and give an example from the body.",
+   "model": "A first-class lever has the fulcrum between the effort and the resistance: effort – fulcrum – resistance. Example: the neck when nodding the head (fulcrum is the joint between the skull and spine).",
    "points": [
-    "MA < 1 needs more effort / force",
-    "gives speed and range of movement, with example"
+    "Fulcrum in the middle, effort and resistance at the ends",
+    "Correct body example such as the neck or triceps at the elbow"
    ]
   }
  ]

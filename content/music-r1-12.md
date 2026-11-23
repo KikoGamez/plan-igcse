@@ -1,147 +1,144 @@
 # Composing and performing: getting the marks
 
-> **In the exam:** Performing and composing are **coursework**, not exam papers. In the Pearson Edexcel GCSE Music specification (the closest match; see note below) they are worth **60% of the course**: **Performing 30%** (60 marks: solo 30 + ensemble 30) and **Composing 30%** (60 marks: one composition to a set brief 30 + one free composition 30). They are marked by your teacher and moderated by Pearson. The written paper is the other 40%. **Check the exact rules and dates with your teacher, as the school's board may be different.**
+> **In the exam:** There is no written exam for this topic. Component 2 (Performing, 50 marks, 30%) and Component 3 (Composing, 50 marks, 30%) are **coursework**, marked by your teacher and moderated by Cambridge. Together they are 60% of the IGCSE, more than the Listening paper (40%). Your school sets the deadlines; ask your teacher for the dates and for the Cambridge forms.
 
 ## What you need to know
 
-- **Performing:** a solo performance and an ensemble performance. Total at least **4 minutes**, with the ensemble piece at least 1 minute. You play or sing; your teacher marks a recording.
-- **Composing:** two pieces, total at least **3 minutes**: one **to a brief** set by the exam board (released in September of the exam year) and one **free** composition.
-- What the markers look for: **accuracy, fluency, control of technique, expression and interpretation** (performing); **development of musical ideas, use of the elements, structure and a clear final recording and score** (composing).
-- How to plan your time so that the work is finished early.
+**Component 2: Performing (50 marks, AO2)**
+- Two parts: **Part 1 solo** and **Part 2 performing with others**, each at least 2 minutes, together no more than 10 minutes. Singing or any instrument, any style.
+- Recorded; you may record each piece more than once, but the final recording must be a **single take, unedited**.
+- Five criteria, each marked out of 5, for each part: 25 + 25 = 50 marks.
+- Part 2 must show **rhythmic coordination and ensemble awareness**, with at least one other live performer. Your part must not be extensively doubled.
+
+**Component 3: Composing (50 marks, AO3)**
+- **Two contrasting compositions**, each marked out of 25 (five criteria out of 5).
+- **Composition 1:** notated in **staff notation** as a complete score, with a recording.
+- **Composition 2:** written to a brief **you define**, linked to one of the areas: music and words, music for dance, music for small ensemble, music for stage and screen. Submit a recording plus either a **written commentary** (with timings, on the Cambridge template) or a score in a notation suited to the style.
+- The two pieces must differ in the instruments, voices or electronic sounds, or Composition 2 gets **0 for Use of Medium**.
+- Not allowed: arrangements of existing pieces; a theme and variations on a theme you did not write. Work must be your own, unaided.
 
 ## Notes
 
-### How the marks are earned: performing
+### Performing: how the marks are earned
 
-Two pieces, each marked on a grid out of 30. Typically the examiner considers:
-
-| Criterion | Top-band idea |
-|---|---|
-| **Accuracy** | Correct pitches and rhythms, few or no errors |
-| **Fluency and control** | Steady pulse, smooth, secure technique, no stopping |
-| **Expression and interpretation** | Dynamics, phrasing, tone, character shown |
-| **Difficulty (technical demand)** | Piece suits the performer's level and is demanding enough |
-| **Ensemble skills** (ensemble only) | Keeping time together, balance, listening, your part's role |
-
-**How to get higher marks:**
-
-1. Pick music **at the right level**: a harder piece played badly gains less than a slightly easier piece played well. But the piece needs enough challenge to access the top bands.
-2. Learn the **dynamics, phrasing and tempo markings**, and perform them.
-3. Keep going: do not stop for mistakes. **Fluency** matters.
-4. In ensemble, show **leadership** (cues, starts, endings) and **balance**. A real part, not just a tiny accompaniment.
-5. Record on a good device. Use a quiet room. Play from memory only if you are confident; score or music stand is fine.
-6. Allow for **several full run-throughs** before the final recording.
-
-### How the marks are earned: composing
-
-You submit a **recording** (or a score/MIDI mockup) and a **score or lead sheet** for each piece. Typical criteria:
-
-| Criterion | Top-band idea |
-|---|---|
-| **Developing musical ideas** | Strong ideas (motif, theme, chords) that are repeated, varied and developed (sequence, inversion, change of key, rhythm, instrumentation) |
-| **Use of the elements and techniques** | Imaginative melody, harmony, rhythm, texture and timbre; correct use of instruments and ranges |
-| **Structure and coherence** | Clear structure; sections contrast and link logically (e.g. ternary, rondo, verse-chorus) |
-| **Notation/presentation** | Clear score or lead sheet; dynamics, tempo and expression; the recording matches the score |
-
-**Steps for a strong composition:**
-
-1. **Brief first.** Read the brief carefully; choose the one that suits your strengths. Underline the key words (mood, style, instruments, length).
-2. **Start with a motif.** Write a 2–4 bar idea (rhythm + pitch). Build a longer **melody** (8 bars: question and answer). Choose a **key** and write the chords (I, IV, V, vi, ii).
-3. **Structure plan:** e.g. A (theme) – B (contrast) – A (return). Mark where the key, texture and dynamics change.
-4. **Develop** ideas: change the rhythm, play it higher, put it in the minor, add a countermelody, change the instrument.
-5. **Texture and timbre:** choose instruments to suit the mood; vary the texture (solo → full band).
-6. **Finish** with a clear ending (perfect cadence or planned fade).
-7. **Check the notation:** tempo marking, dynamics, articulation, instrument ranges, accurate bar lines.
-
-### Free composition vs composition to a brief
-
-| | To a brief | Free |
+| Criterion (each out of 5) | What the teacher is looking for | How to score high |
 |---|---|---|
-| Who sets the task | The exam board | You |
-| Key advice | Show you answered the brief (mood, style, instruments) | Pick a style you know well; show clear development |
-| Danger | Ignoring the brief | No clear structure |
+| **(a) Confidence, fluency and accuracy** | Right notes and rhythms; no hesitation; improvisation that has direction | Know the piece so well that you don't stop; choose a piece you can play 95% accurately |
+| **(b) Tempo, coordination, rhythmic coordination** | Suitable tempo, kept steady (rubato only if in the style); locked in with accompaniment or other players | Practise with a metronome; choose a tempo you can keep from bar 1 to the end |
+| **(c) Character, style, ensemble awareness** | Dynamics, phrasing, articulation, style conventions; balance and matching with other players | Mark dynamics and phrasing on your copy; listen to the other players |
+| **(d) Technical control** | Tone, intonation, breathing, bowing, pedalling, diction | Warm up; work on your weakest technique |
+| **(e) The performance as a whole** | Does the piece show a range of skills and have enough demand? Is the performance convincing? | Pick music with some contrast (fast/slow, loud/soft) at the right level |
 
-### Using the musical elements
+**Choose carefully.** The syllabus says assessment is of **skills, not difficulty**. Very simple music limits the marks, but music that is too hard also loses marks. Choose a piece at the top of your comfortable level.
 
-For both composing and performing, think **DR SMITH**: **D**ynamics, **R**hythm/tempo, **S**tructure, **M**elody, **I**nstrumentation/timbre, **T**exture, **H**armony.
+**Part 2 do's and don'ts**
 
-### A work plan (use backwards from your school's deadlines)
-
-| When | Do |
+| Good for Part 2 | Not allowed for Part 2 |
 |---|---|
-| **Weeks 1–2** | Choose the solo and ensemble pieces; choose the brief; make a composition plan |
-| **Weeks 3–5** | Compose draft 1 of each piece; practise performance pieces daily (15–20 min) |
-| **Weeks 6–7** | Finish compositions; produce score and mockup; first recordings of performances |
-| **Week 8** | Final recordings; check lengths; label files; hand in early |
-| **Always** | Keep a log of what you did each week (some schools require it) |
+| A duet where both parts matter | A flute solo with piano accompaniment, if you play the flute |
+| A part in a small band or ensemble | A solo piece with extra parts added |
+| Singing a harmony part in a small vocal group | Vocal duets with alternating solos only |
+| Accompanying another performer (e.g. piano with a singer) | |
 
-Hand-in rules (authenticity, time limits, who can help) are strict. Follow your teacher's guidance.
+**Practical tips**
+- **Record early** and listen back, then record again. Check the recording is a single take.
+- Bring sheet music; if you change anything, mark it.
+- Check sound quality, microphone position and background noise.
+- Plan the **ensemble rehearsal** early: others must be available.
+
+### Composing: how the marks are earned
+
+| Criterion (each out of 5) | What it means | How to score high |
+|---|---|---|
+| **(a) Ideas** | Quality of melody, rhythm and chords; inventive and (for Composition 2) matching your brief | Write a **memorable motif** and give each section a clear idea; link to the brief |
+| **(b) Structure** | Clear sections, contrast and continuity, overall plan | Use a form such as ABA, rondo, verse–chorus; repeat and vary, and add a link between sections |
+| **(c) Use of medium** | Writing suitable to the instruments; range, balance, variety of texture | Stay within instrument ranges; change **texture** (solo, melody with accompaniment, unison, imitation) |
+| **(d) Compositional technique** | Developing ideas by sequence, inversion, repetition, ostinato; harmony that fits | Use **sequence**, **inversion**, **ostinato**, **modulation**; harmonise melodies with chords that suit the style |
+| **(e) Score/notation (Comp 1) or commentary (Comp 2)** | Accurate, clear notation with performance details; or a detailed commentary | Include tempo, dynamics, articulation, bar numbers; check rhythms add up in every bar |
+
+**Avoid** a piece with a single texture throughout, or two pieces for the same instruments (0 for use of medium in Composition 2). Don't use ideas that are not your own, including ready-made loops.
+
+### A composing plan (about 6–8 weeks per piece)
+
+1. **Brief and plan (week 1):** Composition 2: write your brief (e.g. "a film cue for a chase scene" or "a song with call and response"). Choose instruments and form.
+2. **Ideas (weeks 1–2):** write a main theme (4–8 bars), a contrasting theme, and a rhythm or chord pattern. Record yourself playing them.
+3. **Structure (week 3):** lay out the sections with bar counts. Decide keys (e.g. tonic, dominant, relative minor).
+4. **Develop (weeks 4–5):** use sequence, repetition, inversion, ostinato; vary texture and dynamics; add accompaniment and chords; plan the ending (perfect cadence or a clear final gesture).
+5. **Notate or write the commentary (week 6):** staff notation (Comp 1) with all performance markings; commentary (Comp 2) with timings for each section and how the effects were made.
+6. **Check and record (week 7):** play through, fix wrong notes, check ranges, rhythms and the balance.
+
+### Commentary template (Composition 2)
+
+| Timing | Details of the music |
+|---|---|
+| 0:00–0:15 | Introduction: solo piano, slow, ostinato in the left hand (E minor) |
+| 0:15–0:45 | Theme A: melody for flute, dynamics mp, accompanied by... |
+| ... | ... |
+
+Include: the **brief**, any stimulus (picture, poem), the structure, the instruments, the techniques (sequences, modulations, technology) and anything that explains the recording.
 
 ## Key terms and definitions
 
-- **Motif:** a short musical idea that can be developed.
-- **Sequence:** repetition of a pattern at a higher or lower pitch.
-- **Development:** changing and extending musical ideas.
-- **Texture:** the way layers of sound are combined (monophonic, homophonic, polyphonic).
-- **Phrasing:** shaping a melody into musical sentences.
-- **Fluency:** performing without hesitation and with a steady pulse.
-- **Lead sheet:** a score showing the melody, chords and lyrics.
-- **Ensemble:** a group of performers.
-- **Brief:** the task or theme set by the exam board for a composition.
-- **Score:** the notated music for all parts.
+- **Composition brief:** the plan you define for a piece, linked to an area of study.
+- **Motif:** a short musical idea, used and developed.
+- **Sequence:** a melodic or harmonic pattern repeated at a higher or lower pitch.
+- **Inversion:** a melody turned upside down: steps up become steps down.
+- **Texture:** how the parts of the music fit together: e.g. melody and accompaniment, unison, imitation.
+- **Idiomatic:** suited to the instrument: easy to play and sounding natural.
+- **Rhythmic coordination:** playing together in time with other performers or a backing track.
+- **Ensemble awareness:** listening to others, balancing dynamics and matching phrasing and articulation.
+- **Single take:** a performance recorded in one go, without editing.
+- **Score:** the music written in notation, with performance instructions.
 
 ## Worked examples
 
-**1. A student plays a grade-3 level piece accurately but with no dynamics and a stiff feel. What would hold their mark down? How could they improve it? [4]**
+**1. A student's composition uses a single texture (melody with chords) throughout. Which criterion is affected and how could they improve it? [3]**
+*Model answer:* "Use of medium (1). They should vary the texture (1), e.g. a section for solo instrument, a section in unison, a section with imitation between parts (1)."
 
-*Model answer:* The piece is accurate but lacks **expression and interpretation** [1], so it cannot reach the top band even though the notes are right [1]. They should add the written dynamics, phrasing and tempo changes [1] and shape the tone / use rubato or articulation where appropriate [1].
+**2. A performer plays accurately but with no change of dynamics or phrasing. Which criterion limits their mark? [2]**
+*Model answer:* "(c) Character, style and ensemble awareness (1) because there is little attention to dynamics, phrasing or articulation (1)."
 
-**2. Describe how you could develop a four-bar motif in a composition. [3]**
-
-*Model answer:* Repeat it as a sequence at a higher pitch [1]; change the rhythm (augment or diminish) or the key (e.g. minor) [1]; give it to a different instrument or add a counter-melody [1].
-
-**3. Explain how a composition could show a clear structure. [3]**
-
-*Model answer:* Choose a form such as ternary: A section with the main theme [1]; a contrasting B section in a different key, texture or tempo [1]; then A returns with a small change and a final cadence [1].
+**3. Explain why you should not choose a piece that is too difficult for Part 1. [2]**
+*Model answer:* "Marks are given for the skills shown, not the difficulty (1). A piece that is too hard causes errors and hesitation, which lowers marks for accuracy and fluency (1)."
 
 ## Common mistakes
 
-- Choosing a performance piece that is too hard and playing it with many errors.
-- Not showing expression in performing: dynamics, tone and phrasing count.
-- Composing a long piece that repeats the same idea with no **development**.
-- Ignoring the **brief** (style, mood, instruments).
-- Leaving notation until the end. Mistakes in the score cost marks.
-- Recording late, with no time to redo. Plan to finish **a week early**.
-- Forgetting lengths: check minimum durations.
+- Choosing a Part 2 piece where **you play the solo** and someone accompanies.
+- Using a **backing track only**: Part 2 needs at least one other **live** performer.
+- Recording with edits or sections joined together.
+- Two compositions for the same instruments.
+- Composition 1 without a **full score** or without a recording.
+- Writing out of the instrument's range, or not checking the bar lengths in the notation.
+- A written commentary that says "it is happy" without timings or technical details.
+- Leaving the recording and writing to the last week.
 
 ## Practice questions
 
-1. What percentage of the course is performing? [1]
-2. What is the minimum total length of the performances? [1]
-3. Name two criteria used to mark a performance. [2]
-4. Give two ways to develop a motif. [2]
-5. Why is it important to follow the brief for the set composition? [2]
-6. What should a composition's score or lead sheet include? [3]
-7. Give two ensemble skills examiners look for. [2]
-8. Write a four-week plan to finish a composition. [4]
+1. How long should each performing part last? [1]
+2. State two things Part 2 must show. [2]
+3. Which type of notation is required for Composition 1? [1]
+4. Name the four areas of study that Composition 2 may be linked to. [2]
+5. What happens if both compositions are for the same instruments? [1]
+6. Give two things you can do to improve the "Use of medium" mark. [2]
+7. Why can a backing track alone not be used for Part 2? [1]
+8. Name the five performing criteria. [3]
 
 <details><summary>Answers</summary>
 
-1. 30%.
-2. 4 minutes (check with your teacher for your specification).
-3. Any two: accuracy, fluency/control, expression and interpretation, technical difficulty.
-4. Any two: sequence, change rhythm, change key/mode, inversion, change instrument, add a countermelody, change dynamics.
-5. The composition is marked on how well it responds to the brief [1]; ignoring it loses marks for style/mood/instruments [1].
-6. Tempo [1], dynamics/expression [1], correct notes and rhythms/instrument parts or chords [1].
-7. Any two: keeping time together, balance, listening, cueing in/out, a significant part.
-8. Week 1: choose the brief and make a plan/motif [1]; week 2: write the melody and chords [1]; week 3: develop, structure and texture [1]; week 4: score, record and check [1].
+1. At least 2 minutes each, together not more than 10 minutes (1).
+2. Rhythmic coordination with others (1) and ensemble awareness (1).
+3. Staff notation, a complete score (1).
+4. Music and words, music for dance, music for small ensemble, music for stage and screen (2 for four, 1 for two or three).
+5. A mark of 0 for Use of medium in Composition 2 (1).
+6. Any two: write within the range of each instrument (1); vary textures (1); use idiomatic writing (1); choose different instruments from Composition 1 (1).
+7. At least one other live performer is needed (1).
+8. Confidence, fluency and accuracy; tempo and coordination; character, style and ensemble awareness; technical control; performance as a whole (3 for all five, 2 for three or four, 1 for two).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Read the performing and composing grids. Highlight the criteria in two colours.
-- **15 min** – Compose: write a four-bar motif and three developments on paper or in notation software.
-- **15 min** – Plan your work: fill in the work-plan table with real dates.
-- **15 min** – Practice questions and marking.
-- **5 min** – Record yourself playing your solo piece for one minute; listen for expression.
+- **0–10 min:** Read the criteria tables; write what you need to improve in each.
+- **10–30 min:** Performing: list your two pieces, tempo, and the weakest bars. Practise the weak passages and record a trial take.
+- **30–50 min:** Composing: write the brief for Composition 2 and draw the structure plan with bar counts and keys. Compose or revise a motif.
+- **50–60 min:** Make a dated work plan, with the teacher's deadlines, and put in two recording dates.

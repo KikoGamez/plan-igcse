@@ -2,173 +2,172 @@
  "id": "ger-r1-08",
  "cards": [
   {
-   "f": "die Geschwister (pl.)",
-   "b": "siblings (brothers and sisters)"
-  },
-  {
-   "f": "sich streiten / sich vertragen",
-   "b": "to argue / to get on (with someone)"
-  },
-  {
-   "f": "das Vorbild, -er",
-   "b": "role model"
-  },
-  {
-   "f": "das Taschengeld",
-   "b": "pocket money"
+   "f": "der Müll",
+   "b": "rubbish"
   },
   {
    "f": "die Umwelt",
-   "b": "environment (feminine)"
+   "b": "environment"
   },
   {
    "f": "der Klimawandel",
    "b": "climate change"
   },
   {
-   "f": "der Müll / der Plastikmüll",
-   "b": "rubbish / plastic waste"
+   "f": "das Rathaus",
+   "b": "town hall"
   },
   {
-   "f": "erneuerbare Energien",
-   "b": "renewable energy"
+   "f": "die Ampel",
+   "b": "traffic lights"
   },
   {
-   "f": "umweltfreundlich",
-   "b": "environmentally friendly"
+   "f": "gegenüber von",
+   "b": "opposite"
   },
   {
-   "f": "die Verspätung",
-   "b": "delay (trains, buses)"
+   "f": "die Hausaufgaben (pl.)",
+   "b": "homework"
   },
   {
-   "f": "das Wechselgeld",
-   "b": "change (money)"
+   "f": "das Zeugnis",
+   "b": "school report"
   },
   {
-   "f": "die Sendung, -en",
-   "b": "TV or radio programme"
+   "f": "der Stundenplan",
+   "b": "timetable"
   },
   {
-   "f": "das Cybermobbing",
-   "b": "cyberbullying"
+   "f": "die Ausbildung",
+   "b": "apprenticeship, vocational training"
   },
   {
-   "f": "sich gesund ernähren",
-   "b": "to eat healthily"
+   "f": "das Praktikum",
+   "b": "work experience, internship"
   },
   {
-   "f": "Ich habe Halsschmerzen.",
-   "b": "I have a sore throat."
+   "f": "der Beruf",
+   "b": "job, profession"
   },
   {
-   "f": "der Unfall, ¨-e",
-   "b": "accident"
+   "f": "Frohe Weihnachten!",
+   "b": "Merry Christmas!"
   },
   {
-   "f": "Man sollte mehr recyceln.",
-   "b": "One should recycle more."
+   "f": "der Feiertag",
+   "b": "public holiday"
+  },
+  {
+   "f": "Ich möchte Arzt werden.",
+   "b": "I would like to become a doctor (no article)."
+  },
+  {
+   "f": "der Vorteil / der Nachteil",
+   "b": "advantage / disadvantage"
+  },
+  {
+   "f": "Sehr gut = 1",
+   "b": "In German schools 1 is the best mark, 6 the worst."
   }
  ],
  "gaps": [
   {
-   "s": "Ich ___ gern Fußball (play).",
+   "s": "Ich spreche Deutsch und Spanisch, das sind zwei ___ . (languages)",
    "a": [
-    "spiele"
+    "Sprachen"
    ]
   },
   {
-   "s": "Ich gehe gern ___ (swimming).",
+   "s": "In Deutschland ist die Note 1 ___ ; 6 ist die schlechteste. (best/very good)",
    "a": [
-    "schwimmen"
+    "sehr gut",
+    "die beste",
+    "am besten",
+    "beste"
    ]
   },
   {
-   "s": "Er hat Fieber, deshalb ___ er zum Arzt gehen (should).",
+   "s": "Im Winter ___ es oft in den Bergen. (it snows)",
    "a": [
-    "sollte",
-    "soll",
-    "muss"
+    "schneit"
    ]
   },
   {
-   "s": "Ich fahre mit ___ Bus zur Schule. (der Bus, dative)",
+   "s": "Meine Schwester ist Krankenschwester; sie arbeitet im ___ . (hospital)",
    "a": [
-    "dem"
+    "Krankenhaus"
    ]
   },
   {
-   "s": "Wir müssen weniger Plastik benutzen, ___ die Umwelt zu schützen.",
+   "s": "Mit dem Handy kann man schnell Nachrichten ___ . (send)",
    "a": [
-    "um"
+    "schicken",
+    "senden"
    ]
   },
   {
-   "s": "Der Verkäufer gibt mir das ___ zurück (change, money).",
+   "s": "Das Abitur macht man am Ende vom ___ . (type of school, n)",
    "a": [
-    "Wechselgeld"
+    "Gymnasium"
    ]
   },
   {
-   "s": "Meine Eltern ___ sehr freundlich (to be, plural).",
+   "s": "Im Dezember feiern wir ___ mit einem Baum und Geschenken. (Christmas)",
    "a": [
-    "sind"
+    "Weihnachten"
    ]
   },
   {
-   "s": "Ich finde Cybermobbing schlimm, ___ es sehr verletzend ist.",
+   "s": "Ich fahre nächsten Sommer ___ Deutschland. (to)",
    "a": [
-    "weil",
-    "da"
-   ]
-  },
-  {
-   "s": "Mein Kopf tut ___. (hurts)",
-   "a": [
-    "weh"
+    "nach"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe your family in German (two sentences) and say who you get on best with.",
-   "model": "Ich habe einen Bruder und eine Schwester. Ich verstehe mich am besten mit meiner Schwester, weil sie lustig ist.",
+   "q": "Say in German what job you would like to do and give a reason.",
+   "model": "Ich möchte Ingenieurin werden, weil ich gut in Mathe bin und gern Probleme löse.",
    "points": [
-    "family members correctly named",
-    "opinion with reason",
-    "correct dative (mit meiner Schwester)"
+    "job with no article",
+    "reason with weil",
+    "correct word order"
    ]
   },
   {
-   "q": "Write two German sentences about problems with social media.",
-   "model": "Cybermobbing ist ein großes Problem. Viele Jugendliche schlafen zu wenig, weil sie zu lange am Handy sind.",
+   "q": "Give one advantage and one disadvantage of the internet.",
+   "model": "Ein Vorteil ist, dass man schnell Informationen findet. Ein Nachteil ist, dass man viel Zeit verliert.",
    "points": [
-    "problem named",
-    "reason with verb at end of weil-clause"
+    "advantage",
+    "disadvantage",
+    "dass + verb at the end"
    ]
   },
   {
-   "q": "Say in German what you did last weekend (free time), in the perfect tense, with an opinion.",
-   "model": "Am Samstag bin ich mit Freunden ins Kino gegangen. Der Film hat mir gut gefallen.",
+   "q": "Describe your town in three sentences (what there is and your opinion).",
+   "model": "Meine Stadt ist groß und laut. Es gibt viele Geschäfte und ein Kino, aber keinen Park. Ich finde sie interessant, weil immer etwas los ist.",
    "points": [
-    "perfect tense with correct auxiliary",
-    "opinion"
+    "there is / es gibt",
+    "opinion",
+    "weil clause"
    ]
   },
   {
-   "q": "Give two ways of saving energy or helping the environment, using man sollte / man kann.",
-   "model": "Man sollte weniger Strom verbrauchen. Man kann auch öfter mit dem Fahrrad fahren.",
+   "q": "Give directions from the school to the station: straight on, left at the lights.",
+   "model": "Gehen Sie geradeaus und an der Ampel links. Der Bahnhof ist gegenüber vom Park.",
    "points": [
-    "modal verb + infinitive at end",
-    "two ideas"
+    "Sie-imperative with verb first",
+    "geradeaus",
+    "links / an der Ampel"
    ]
   },
   {
-   "q": "You feel ill. Tell the doctor your symptoms in German (two sentences).",
-   "model": "Ich habe seit gestern Kopfschmerzen und Fieber. Mir tut auch der Hals weh.",
+   "q": "Say how a festival is celebrated in your family.",
+   "model": "Wir feiern Weihnachten mit der ganzen Familie. Wir essen zusammen und geben uns Geschenke.",
    "points": [
-    "two symptoms",
-    "correct structure (habe ... / tut ... weh)"
+    "name of festival",
+    "two activities",
+    "present tense accurate"
    ]
   }
  ]

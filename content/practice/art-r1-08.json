@@ -2,166 +2,160 @@
  "id": "art-r1-08",
  "cards": [
   {
-   "f": "CFPM",
-   "b": "Content, Form, Process, Mood: a framework for analysing any artwork."
+   "f": "Annotation",
+   "b": "Short notes beside your work that explain your ideas, choices, methods and evaluation."
+  },
+  {
+   "f": "Is annotation compulsory?",
+   "b": "No. If used it must be relevant to the theme, purposeful and written in English."
   },
   {
    "f": "Content",
-   "b": "The subject matter and meaning of an artwork."
+   "b": "What the artwork is about and what can be seen in it."
   },
   {
    "f": "Form",
-   "b": "The visual elements and how they are arranged: line, tone, colour, texture, shape, composition."
+   "b": "How the artwork is put together, using the formal elements and composition."
   },
   {
    "f": "Process",
-   "b": "The materials, techniques and tools used to make the work."
+   "b": "The materials, techniques and stages used to make the work."
   },
   {
    "f": "Mood",
-   "b": "The feeling or atmosphere created, and how."
-  },
-  {
-   "f": "PEEL",
-   "b": "Point, Evidence, Explain, Link."
-  },
-  {
-   "f": "Annotation",
-   "b": "Short written notes beside your work: what you did, why, what you learned, what next."
-  },
-  {
-   "f": "Three parts of annotating your own work",
-   "b": "What I did; what happened/what I notice; what I will do next."
-  },
-  {
-   "f": "Which AO does reflection support most?",
-   "b": "AO2: refining work driven by insights from exploring ideas and reflection. Also AO3 and AO1."
-  },
-  {
-   "f": "Weak annotation words to avoid",
-   "b": "nice, good, interesting, detailed: they say nothing specific."
-  },
-  {
-   "f": "Impasto",
-   "b": "Thick paint applied so brushstrokes stand out from the surface, as in Van Gogh."
-  },
-  {
-   "f": "Chiaroscuro",
-   "b": "Strong contrast of light and dark to create drama and a sense of form."
-  },
-  {
-   "f": "Complementary colours",
-   "b": "Colours opposite each other on the colour wheel, such as blue and orange."
+   "b": "The feeling or atmosphere created by the work."
   },
   {
    "f": "Focal point",
-   "b": "The part of a composition the eye is drawn to first."
+   "b": "The part of the work that first draws the eye."
   },
   {
-   "f": "Guernica",
-   "b": "Picasso, 1937: black, white and grey oil painting about the bombing of Guernica; hangs in the Reina Sofía, Madrid."
+   "f": "Composition",
+   "b": "The arrangement of elements within the picture."
+  },
+  {
+   "f": "Evaluation loop",
+   "b": "What did I intend? What happened? Why? What next?"
+  },
+  {
+   "f": "Intention starter",
+   "b": "'I want to show... because...'"
+  },
+  {
+   "f": "Evaluation starter",
+   "b": "'This worked because... It did not work because... Next I will...'"
+  },
+  {
+   "f": "Tense rule",
+   "b": "Write about your own work in the first person; about the artwork in the present tense."
+  },
+  {
+   "f": "Where to place annotation",
+   "b": "Close to the work it explains, short, neat and legible when scanned."
+  },
+  {
+   "f": "Which AOs does annotation support?",
+   "b": "AO1 intentions, AO2 choices, AO3 critical understanding, AO4 how the outcome realises intentions."
+  },
+  {
+   "f": "The Scream (1893)",
+   "b": "By Edvard Munch: wavy lines and orange sky create anxiety."
   }
  ],
  "gaps": [
   {
-   "s": "The four parts of CFPM are content, form, process and ___.",
+   "s": "Annotation in this course must be written in ___.",
+   "a": [
+    "English"
+   ]
+  },
+  {
+   "s": "The four words for analysing art are content, form, process and ___.",
    "a": [
     "mood"
    ]
   },
   {
-   "s": "The L in PEEL stands for ___.",
+   "s": "The part of a work that first draws the eye is the ___ point.",
    "a": [
-    "link"
+    "focal"
    ]
   },
   {
-   "s": "Thick paint that stands out from the surface is called ___.",
+   "s": "The arrangement of elements in a picture is the ___.",
    "a": [
-    "impasto"
+    "composition"
    ]
   },
   {
-   "s": "Annotation should be placed ___ the work it describes.",
+   "s": "Judging how successful your work is and how to improve it is ___.",
    "a": [
-    "next to",
-    "beside",
-    "near"
+    "evaluation"
    ]
   },
   {
-   "s": "Strong contrast between light and dark is called ___.",
+   "s": "Annotation should be placed ___ to the work it explains.",
    "a": [
-    "chiaroscuro"
+    "close",
+    "near",
+    "next"
    ]
   },
   {
-   "s": "Picasso's Guernica was painted in ___.",
+   "s": "Describing 'the materials, techniques and stages' covers the word ___.",
    "a": [
-    "1937"
+    "process"
    ]
   },
   {
-   "s": "Blue and orange are ___ colours.",
+   "s": "The Scream was painted by ___.",
    "a": [
-    "complementary",
-    "opposite"
-   ]
-  },
-  {
-   "s": "Saying what you will do next shows a ___ decision.",
-   "a": [
-    "design",
-    "creative",
-    "development",
-    "reflective",
-    "considered",
-    "personal"
+    "Munch",
+    "Edvard Munch"
    ]
   }
  ],
  "short": [
   {
-   "q": "Write a PEEL analysis (3-4 sentences) of a work you know.",
-   "model": "E.g. Van Gogh's brushstrokes in The Starry Night swirl; the thick impasto catches light; this makes the sky restless; I will use directional marks in my own study.",
+   "q": "Explain why 'I like this one' is weak annotation.",
+   "model": "It gives no reason, no art vocabulary and no decision, so it shows no thinking about intentions or choices.",
    "points": [
-    "point",
-    "evidence from the work",
-    "explanation of effect",
-    "link to own work"
+    "no reason",
+    "no art vocabulary or decision"
    ]
   },
   {
-   "q": "Explain why 'It looks nice' earns no marks.",
-   "model": "It is vague: no description of how it is made, no analysis of effect and no link to the student's own work.",
+   "q": "Rewrite: 'I tried watercolour and it didn't work.'",
+   "model": "I tried watercolour on thin paper but the colours ran and lost sharp edges, so I will try gouache for crisp shapes.",
    "points": [
-    "vague",
-    "no analysis/evidence"
+    "what happened and why",
+    "a decision for next step"
    ]
   },
   {
-   "q": "Analyse the mood of Guernica using two formal elements.",
-   "model": "The limited black, white and grey palette and the sharp, fragmented shapes create a mood of horror and chaos.",
+   "q": "Describe Starry Night using content, form, process and mood.",
+   "model": "A village under a swirling night sky (content); curved lines and blue/yellow contrast (form); thick oil impasto (process); restless, emotional mood.",
    "points": [
-    "palette/colour or tone",
-    "shape/line",
-    "effect on mood"
+    "content",
+    "form",
+    "process",
+    "mood (any three)"
    ]
   },
   {
-   "q": "Give two sentence starters that show evaluation.",
-   "model": "'This was successful because…' and 'It did not work as I hoped because…'.",
+   "q": "Why should annotation be short and specific?",
+   "model": "Examiners need clear evidence of your thinking quickly; long unrelated writing is not purposeful and may not be read.",
    "points": [
-    "evaluative phrase 1",
-    "evaluative phrase 2"
+    "clear evidence",
+    "relevant to theme"
    ]
   },
   {
-   "q": "Why should annotation be next to the work?",
-   "model": "It makes the link between the writing and the evidence clear and is easy for the examiner to read.",
+   "q": "State the evaluation loop.",
+   "model": "Ask what you intended, what happened, why, and what you will do next.",
    "points": [
-    "clear link to the work",
-    "readability/clarity"
+    "intention and result",
+    "reason and next step"
    ]
   }
  ]

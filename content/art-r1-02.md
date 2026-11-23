@@ -1,154 +1,159 @@
 # Formal elements: line, tone, colour, texture, shape and form
 
-> **In the exam:** There is no written paper, so the formal elements are marked through your artwork. They are the "visual language" in **AO4** (your final piece must show understanding of visual language through application of formal elements) and they carry your skill in **AO3** (drawing and recording) and **AO2** (choosing techniques). Examiners see them on every sketchbook page and in your final outcome. Using them deliberately, and naming them in short annotations, helps lift you into the higher mark bands.
+> **In the exam:** There is no written paper, so this topic is marked through your portfolios in both components. Formal elements are the base of **AO4** ("an understanding of visual language"), and every drawing or painting in your studies uses them for **AO1** (recording) and **AO2** (exploring techniques). Examiners reward you when you use them on purpose, and when your annotation names them correctly ("I used thick, broken line to show the rough bark"). Each AO is worth 25 of the 100 marks in each component.
 
 ## What you need to know
 
-- The six formal elements: **line, tone, colour, texture, shape, form** (plus pattern, space and composition as supporting ideas).
-- Mark-making techniques for line, tone and texture.
-- How to create the illusion of form with tone.
-- How the elements combine in composition (focal point, balance, contrast, rhythm).
-- How to use and name the elements when you describe your own work and the work of artists.
+- The formal elements: **line, tone, colour, texture, shape, form** (and pattern, space and composition as related terms).
+- How to make a wide range of marks with different tools and how each mark changes meaning.
+- How to build tone and form: hatching, cross-hatching, blending, stippling, shading.
+- How to use the formal elements deliberately to express an intention, and to talk about them in annotation using correct vocabulary.
+- How artists use them (examples) and how to apply them in any area of study, including digital work.
 
 ## Notes
 
-### The six elements at a glance
+### The elements at a glance
 
-| Element | What it is | Ways to change it | Effect on the viewer |
+| Element | What it is | Ways to vary it | Effect |
 |---|---|---|---|
-| **Line** | A mark made by a point moving; it can show edges, direction, movement | thick/thin, smooth/broken, curved/straight, continuous/sketchy, pressure | Thick bold lines feel strong; light broken lines feel delicate or nervous; diagonals feel active |
-| **Tone** | How light or dark something is | pencil grades (HB to 6B), pressure, layering, shading methods | Strong contrast feels dramatic; soft tonal change feels calm |
-| **Colour** | Hue (the colour), tint/shade, saturation (strength) | mixing, limited palette, warm vs cool | Warm colours advance and feel energetic; cool colours recede and feel calm or sad |
-| **Texture** | How a surface feels or looks as if it feels | mark-making, rubbing (frottage), thick paint (impasto), collage | Rough textures feel harsh or natural; smooth textures feel clean or calm |
-| **Shape** | A flat, two-dimensional area with an edge | geometric (circle, square) vs organic (natural, irregular) | Geometric shapes feel ordered; organic shapes feel natural and free |
-| **Form** | A three-dimensional object, real (sculpture) or implied (drawing) | tone, perspective, overlapping, cast shadow | Makes an object look solid and gives it weight |
+| **Line** | A mark that joins two points; has length and direction | Thick/thin, light/heavy, continuous/broken, straight/curved, contour, gestural | Shows edges, movement, energy or calm |
+| **Tone** | How light or dark something is | Full range white → grey → black; high contrast or low contrast | Creates depth, solidity, mood, drama |
+| **Colour** | Hue (the colour), value (light/dark) and saturation (intensity) | Warm/cool, bright/dull, complementary, analogous | Mood, focus, symbolism |
+| **Texture** | How a surface looks or feels | Real (actual) texture or implied (visual) texture; rough, smooth, soft, hard | Interest, realism, touch |
+| **Shape** | A flat, 2D area with an outline | Geometric (circle, square) or organic (leaf, cloud); positive and negative shape | Structure, pattern, abstraction |
+| **Form** | A 3D object, or the illusion of 3D | Built with tone, perspective, overlapping | Weight, realism, solidity |
 
-Memory trick: shape is **2D**, form is **3D**. A circle is a shape; a sphere is a form.
+Related terms examiners expect: **pattern** (repeated shapes or lines), **space** (positive and negative space, foreground, middle ground, background), **composition** (arrangement of elements on the page), **proportion**, **scale**, **balance**, **contrast**, **rhythm**.
 
 ### Line
 
-- **Contour line:** follows the outline and edges of an object.
-- **Continuous line / blind contour:** you draw without lifting your pen (or without looking), which gives a lively, expressive line. Good warm-up for AO3.
-- **Expressive line:** varied pressure and speed to show feeling. Egon Schiele used a nervous, confident contour line in figure drawing.
-- **Hatching, cross-hatching, scribbling, stippling:** line and dots used to make tone and texture. Vincent van Gogh's reed-pen drawings use dashes, dots and curls to build texture.
-- **Implied line:** the eye joins up a row of objects, or a gaze direction.
+- **Contour line** follows the edges of a form. **Gestural line** is quick, loose and expressive.
+- **Continuous line** drawing (pencil never leaves the page) trains eye-hand coordination and gives a modern, flowing look.
+- Line quality changes mood: thick, dark and jagged feels aggressive; thin, light and curved feels delicate.
+- Artists: **Albrecht Dürer** used precise engraved line; **Egon Schiele** used nervous, expressive contour; **Paul Klee** described drawing as "taking a line for a walk".
+- Try: draw the same object with a biro, a fine-liner, a brush pen and a stick dipped in ink. Compare.
 
 ### Tone
 
-Tone is the key to realistic drawing. Make a **tonal scale** with at least five steps from white to black.
+- Tone is built with **hatching** (parallel lines), **cross-hatching** (lines crossing), **stippling** (dots), **blending/smudging** (graphite, charcoal, pastel) and **layering**.
+- Use the full range: a drawing with only mid-greys looks flat. Press lightly for highlights, deeply for the darkest shadows.
+- **Chiaroscuro** (Italian: light-dark) is strong contrast of light and shadow to make drama; **Rembrandt** and **Caravaggio** are famous examples.
+- Use a **tonal scale** (a row of 5–7 squares from white to black) at the side of your page to check your range.
+- Cast shadows anchor an object to the surface; reflected light on the shadow side makes a form look round.
 
-| Technique | How | Best for |
-|---|---|---|
-| Hatching | parallel lines, closer together = darker | quick shading, pen and pencil |
-| Cross-hatching | layers of lines crossing | deep darks, pen |
-| Blending | smoothing with a finger, tissue or putty rubber | skin, smooth surfaces |
-| Stippling | dots; more dots = darker | pen drawings |
-| Rubber out | erase highlights from a dark charcoal ground | dramatic light |
+### Colour (introduction)
 
-**Chiaroscuro** means strong contrast of light and dark, used by artists like Rembrandt and Caravaggio to create drama and make forms look solid.
-
-To draw **form**: find the light source, then put the lightest tone where light hits (highlight), mid-tones next, the darkest on the side away from the light (core shadow), a little lighter **reflected light** on the edge of the shadow side, and a **cast shadow** on the ground.
-
-### Colour
-
-- **Hue:** the colour name. **Tint:** hue plus white. **Shade:** hue plus black. **Saturation:** how pure or strong a colour is.
-- **Warm** (reds, oranges, yellows) and **cool** (blues, greens, purples) colours.
-- A limited palette (for example three colours plus white) often looks more confident than using everything.
-- See topic art-r1-04 (Colour theory and painting techniques) for the colour wheel and harmonies.
-- Henri Matisse used flat, bold, pure colour to make strong shapes; Mark Rothko used soft blocks of colour for mood.
+- Primary, secondary and tertiary colours; warm (reds, oranges, yellows) advance, cool (blues, greens) recede.
+- **Tint** = colour + white; **shade** = colour + black; **tone** (in colour mixing) = colour + grey.
+- The next topic covers colour theory and painting techniques in depth; here, remember that colour is an element you must name and justify.
 
 ### Texture
 
-- **Actual texture:** you can feel it (thick paint, collage, fabric, clay).
-- **Visual (implied) texture:** drawn to look like a surface (fur, bark, glass) using mark-making.
-- Methods: frottage (rubbing over a textured surface with pencil or wax crayon), sgraffito (scratching through a layer), impasto (thick paint), scumbling (dry scrubbed paint), collage with real materials.
-- Make a **texture sample page**: 8 squares of different surfaces drawn with a different mark for each.
+| Type | Meaning | How to make it |
+|---|---|---|
+| **Actual (real) texture** | You can feel it | Impasto paint, collage materials, stitched fabric, clay, relief print |
+| **Visual (implied) texture** | It looks rough or smooth but the surface is flat | Hatching for fur, stippling for stone, dry-brush for wood, rubbings |
 
-### Shape, form and space
+Frottage (rubbing a pencil or crayon over a textured surface) is quick and good for AO2 experiments. Photograph or scan textures to use again in digital work.
 
-- **Positive space:** the object. **Negative space:** the area around and between objects. Drawing the negative space helps accuracy (the gaps are easier to judge than the object).
-- **Overlap, scale and perspective** make depth. Things that overlap look closer; things that are smaller and higher up the page look further away.
-- Sculptors like Barbara Hepworth (smooth abstract carved forms with holes) and Henry Moore (reclining figures) use form and negative space deliberately.
+### Shape and form
 
-### Composition: putting elements together
+- **Geometric shapes** (regular) suggest man-made, ordered things. **Organic shapes** (irregular, flowing) suggest nature.
+- **Positive shape** is the object; **negative shape** is the space around and between objects. Drawing the negative shapes helps with accurate proportion.
+- Form is made from shape + tone: a circle becomes a sphere when you add a gradient from light to dark, a highlight and a cast shadow.
+- Sculptors such as **Henry Moore** (smooth, hollowed, reclining figures) and **Barbara Hepworth** (pierced abstract forms) show how negative space can be part of the form.
 
-- **Focal point:** where the eye goes first (the strongest contrast of tone or colour, or the largest shape).
-- **Rule of thirds:** place key things on the thirds lines, not dead centre, for a more interesting layout.
-- **Balance:** symmetrical (mirror) or asymmetrical (different but balanced weights).
-- **Contrast:** light/dark, rough/smooth, big/small; contrast creates interest.
-- **Rhythm and pattern:** repeated shapes, lines or colours.
-- **Cropping:** cutting in close so the subject runs off the page. Makes the image bolder.
+### Composition
 
-### Using the elements to earn marks
+Elements must be arranged. Useful ideas:
+- **Rule of thirds:** place the focal point on a third line, not dead centre.
+- **Focal point:** the first place the eye goes (high contrast, strongest colour, sharpest detail).
+- **Cropping:** cutting in close for impact.
+- **Balance:** symmetrical or asymmetrical.
+- **Scale:** the size of objects relative to each other or to the page.
+- **Pattern and rhythm:** repetition that guides the eye.
 
-1. **AO3:** Show control: a tonal scale, a line study using three different line qualities, a texture study.
-2. **AO2:** Experiment: draw the same object with different elements emphasised (a line-only version, a tone-only version, a colour-only version) and choose.
-3. **AO4:** In the final piece, decide which element leads (e.g. "colour leads, tone supports") and make it clear.
-4. **Annotation (optional):** short precise notes such as "contrast of rough texture against smooth shape draws the eye to the focal point."
+### Using the elements as evidence of marks
+
+| AO | How formal elements earn marks |
+|---|---|
+| AO1 | Drawings that capture line, tone and texture accurately from observation |
+| AO2 | Experiments that explore marks, tones and textures in different media |
+| AO3 | Studies of how artists use the elements, linked to your own work |
+| AO4 | A final piece where the elements work together to communicate your intention |
+
+### Annotation that uses the vocabulary
+
+Pattern: **element + technique + effect + link to intention**.
+- "Cross-hatching in the shadows builds form (tone), and the heavy line on the left of the jug makes it look solid."
+- "I contrasted a smooth, glossy background with rough impasto paint (texture) so the fruit looks more alive."
 
 ## Key terms and definitions
 
-- **Line:** a mark made by a moving point, used to show edges, direction and movement.
-- **Tone:** the lightness or darkness of a surface or colour.
-- **Colour:** the hue, tint and shade of what we see; described by hue, tone and saturation.
-- **Texture:** the surface quality of something, either real (actual) or implied (visual).
-- **Shape:** a flat, enclosed two-dimensional area.
-- **Form:** a three-dimensional object, or the illusion of one.
-- **Contour:** a line that follows the edge of a form.
-- **Hatching / cross-hatching:** parallel lines (and crossing lines) used to build tone.
-- **Chiaroscuro:** strong contrast of light and dark.
-- **Composition:** the arrangement of elements within the work.
-- **Negative space:** the area around and between the main subjects.
+- **Line:** a mark made by a moving point, with length and direction.
+- **Tone:** the lightness or darkness of a colour or surface.
+- **Colour:** the property of an object seen as hue, value and saturation.
+- **Texture:** the surface quality of something; actual (can be felt) or visual (implied).
+- **Shape:** a flat, enclosed area defined by an edge or outline.
+- **Form:** a three-dimensional shape, or one made to look three-dimensional.
+- **Hatching / cross-hatching:** building tone using parallel lines / lines crossing at angles.
+- **Chiaroscuro:** the use of strong contrasts of light and dark.
+- **Positive and negative space:** the subject itself, and the space around it.
+- **Composition:** the way elements are arranged within the work.
+- **Contour:** the outline or edge of a form.
 
 ## Worked examples
 
-**1. Describe how an artist could use line to show movement. [3]**
-*Model answer:* Use diagonal and curving lines instead of vertical or horizontal ones (1). Make the lines repeat and vary in thickness or speed, with sketchy, broken marks that suggest motion (1). Direct the lines across the page so the eye follows them to the focal point (1).
+**1. "Describe how tone can be used to make a drawn apple look three-dimensional." [3]**
 
-**2. You are drawing a pear lit from the left. Explain how you make it look three-dimensional. [4]**
-*Model answer:* Put a highlight on the left where the light hits (1), grade smoothly through mid-tones to a dark core shadow on the right (1), add a lighter reflected light at the edge of the shadow (1) and draw a cast shadow on the table falling to the right, which anchors the pear to the surface (1).
+Add a gradation from light to dark across the surface (1), with a highlight where light hits and the darkest tone on the side furthest from the light (1). Add a cast shadow beneath, which makes the apple sit on the surface (1).
 
-**3. Write a two-sentence annotation for a study of a rusty tin, using the elements. [2]**
-*Model answer:* "I used frottage and cross-hatching to show the rough texture of the rust, with dark tone in the dents to create form (1). The warm orange-brown against the cool grey background makes the tin the focal point (1)."
+**2. Annotate this sketch: a pencil drawing of a boot with heavy outline and no shading.**
+
+Model: "The heavy contour line shows the shape of the boot clearly, but without tone the form looks flat. Next I will add hatching along the folds of the leather and use a 6B pencil for deep shadow inside the opening, to give weight and texture." (names line, tone, texture, form; says what to do next.)
+
+**3. Choose two formal elements for a close-up painting of a rusty gate and explain your choices. [4]**
+
+Texture: thick paint applied with a palette knife and sand mixed in to create actual rough texture like corroded metal (2). Colour: a limited warm palette of burnt orange, brown and ochre with small touches of its complement, blue-grey, to make the rust glow (2).
 
 ## Common mistakes
 
-- Mixing up **shape** and **form**. Shape is flat; form is 3D.
-- Making tone with outlines only: no shading, so objects look flat.
-- Pressing hard from the start, so there are no light tones left; build up in layers.
-- A tonal scale with only 2–3 steps. Aim for five or more.
-- Using every colour at once and losing the focal point.
-- Ignoring the background: a floating object with no cast shadow or negative space.
-- Annotating with vague words ("nice", "good") instead of element words.
+- Using only HB pencil and a narrow range of tone, so drawings look flat.
+- Confusing **shape** (flat) and **form** (3D).
+- Confusing actual and visual texture.
+- Annotating with vague words ("nice", "good detail") instead of element names.
+- Outlining everything with the same thick line.
+- Ignoring composition: placing the subject small in the centre with empty space.
+- Treating elements separately and never saying why they were chosen.
 
 ## Practice questions
 
-1. Define the term "form" and say how it differs from shape. [2]
-2. Name three techniques for creating tone with a pencil or pen. [3]
-3. What is chiaroscuro and name one artist who used it? [2]
-4. Describe the difference between actual and visual texture. [2]
-5. Describe two ways to make a line feel energetic. [2]
-6. Explain what negative space is and why drawing it helps. [2]
-7. Why might a limited colour palette help your final piece? [2]
-8. Give a short annotation using at least three formal elements for any object you have drawn. [3]
+1. Name the six formal elements listed in this topic. [3]
+2. Explain the difference between shape and form. [2]
+3. Describe two different ways to build tone in a pencil drawing. [2]
+4. What is the difference between actual texture and visual texture? Give one example of each. [4]
+5. What is chiaroscuro, and which artist is known for it? [2]
+6. Explain what is meant by negative space and why drawing it helps. [2]
+7. Write one sentence of annotation about line for a drawing of a tree, using the pattern element + technique + effect. [3]
+8. How could a student show AO2 in a page about texture? [2]
 
 <details><summary>Answers</summary>
 
-1. Form is a three-dimensional object (real or implied through tone); shape is a flat, two-dimensional area. For example, a circle is a shape and a sphere is a form.
-2. Any three: hatching, cross-hatching, blending, stippling, scribbling, using different pencil grades, erasing highlights.
-3. Strong contrast of light and dark to give drama and solidity. Rembrandt or Caravaggio.
-4. Actual texture can be felt (paint, collage, fabric); visual texture is drawn or painted to look like a texture.
-5. Any two: diagonal or curved lines; varied thickness; fast, broken, sketchy marks; repeated lines directing the eye.
-6. The space around and between objects. The gaps are easier to judge, so the object's proportions come out more accurately.
-7. It creates harmony and a confident look; a clear focal point; it avoids a messy, confusing image.
-8. Example: "Cross-hatching builds dark tone in the folds to make the form solid; the smooth, rounded shape contrasts with the rough texture of the table; the warm yellow against cool grey creates a focal point." (3 elements used accurately.)
+1. Line, tone, colour, texture, shape, form (any order; 1 per two correct, up to 3).
+2. Shape is flat (2D) (1); form is three-dimensional or made to look it (1).
+3. Any two: hatching, cross-hatching, stippling, blending/smudging, layering with different grades of pencil (1 + 1).
+4. Actual texture can be felt, e.g. thick impasto paint or collage fabric (2); visual texture only looks textured on a flat surface, e.g. hatching to imply fur or a pencil rubbing (2).
+5. Strong contrast of light and dark (1); Rembrandt or Caravaggio (1).
+6. The space around and between objects (1); drawing it helps you see true shapes and proportions (1).
+7. Example: "I used thick, broken charcoal lines for the trunk to show the rough bark, which makes the tree look old and strong." Element named (1), technique (1), effect (1).
+8. Make samples in different media (rubbings, collage, impasto) (1) and select the most successful, explaining why (1).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min:** Make a five-step tonal scale in pencil and a second in pen using hatching.
-- **15 min:** Line study: draw one object three times (continuous line, contour with thick/thin pressure, scribbled expressive line).
-- **15 min:** Texture page with eight squares, each a different mark-making method or rubbing.
-- **15 min:** Draw one object with strong side light. Show highlight, core shadow, reflected light, cast shadow.
-- **5 min:** Write a three-element annotation for the best drawing.
+- 10 min: read the notes; learn the six elements and one technique for each.
+- 15 min: sketchbook task 1: make a **mark-making page** with eight different marks using at least four tools (pencil, fine-liner, charcoal, ink and brush).
+- 15 min: sketchbook task 2: draw one object (a shoe or a pepper) three times: line only, tone only, then line + tone + texture. Add a tonal scale.
+- 15 min: write three annotations using element + technique + effect.
+- 5 min: quiz.

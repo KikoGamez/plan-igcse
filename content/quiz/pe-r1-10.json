@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which nutrient is the body’s main source of energy during exercise?",
+   "q": "What is the main function of protein?",
    "options": [
-    "Protein",
-    "Carbohydrate",
-    "Fibre",
-    "Vitamins"
+    "Provide quick energy",
+    "Growth and repair of tissue",
+    "Insulate the body",
+    "Store glycogen"
    ],
    "answer": 1,
-   "why": "Carbohydrate is the main fuel, stored as glycogen."
+   "why": "Protein is used for growth and repair, e.g. muscle."
   },
   {
    "type": "mcq",
-   "q": "Which mineral is needed to make haemoglobin?",
+   "q": "Where is glycogen stored?",
    "options": [
-    "Calcium",
-    "Sodium",
-    "Iron",
-    "Vitamin C"
-   ],
-   "answer": 2,
-   "why": "Iron is needed for haemoglobin, which carries oxygen."
-  },
-  {
-   "type": "mcq",
-   "q": "Which nutrient is mainly needed for growth and repair of muscle?",
-   "options": [
-    "Protein",
-    "Fat",
-    "Water",
-    "Carbohydrate"
+    "Muscles and liver",
+    "Heart and lungs",
+    "Bones and skin",
+    "Stomach and kidneys"
    ],
    "answer": 0,
-   "why": "Protein provides amino acids to build and repair muscle."
+   "why": "Glucose is stored as glycogen in muscles and the liver."
+  },
+  {
+   "type": "mcq",
+   "q": "A person takes in more energy than they use. What happens to the extra energy?",
+   "options": [
+    "It is lost as sweat",
+    "It is stored as fat",
+    "It is turned into protein",
+    "It is stored as water"
+   ],
+   "answer": 1,
+   "why": "Unused energy is stored as fat, which can lead to obesity."
   },
   {
    "type": "short",
-   "q": "Explain why drinking water is important during a long run in hot weather.",
-   "model": "Water replaces fluid lost through sweat, preventing dehydration. Dehydration thickens blood, raises heart rate and body temperature, and causes fatigue.",
+   "q": "Explain why a marathon runner eats a high-carbohydrate meal before a race.",
+   "model": "Carbohydrate is broken down to glucose and stored as glycogen in muscles and liver. This gives a bigger energy store so aerobic respiration can continue longer and fatigue is delayed.",
    "points": [
-    "replaces sweat / prevents dehydration",
-    "avoids overheating / fatigue / thicker blood"
+    "carbohydrate gives glucose / stored as glycogen",
+    "energy store lasts longer / delays fatigue"
    ]
   }
  ]

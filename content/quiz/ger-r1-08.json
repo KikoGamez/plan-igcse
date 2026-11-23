@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which sentence is correct?",
+   "q": "Welche Aussage ist richtig?",
    "options": [
-    "Ich helfe meine Mutter.",
-    "Ich helfe meiner Mutter.",
-    "Ich helfe meinen Mutter.",
-    "Ich helfe meiner Mutter zu."
+    "Ich bin eine Lehrerin.",
+    "Ich bin Lehrerin.",
+    "Ich bin Lehrer in.",
+    "Ich bin die Lehrerin."
    ],
    "answer": 1,
-   "why": "helfen takes the dative; feminine dative = meiner."
+   "why": "After sein and werden, jobs take no article: Ich bin Lehrerin."
   },
   {
    "type": "mcq",
-   "q": "What does 'der Müll' mean?",
+   "q": "Was bedeutet « der Klimawandel »?",
    "options": [
-    "mud",
-    "moon",
-    "rubbish",
-    "mile"
+    "the weather forecast",
+    "climate change",
+    "the water supply",
+    "the rubbish collection"
    ],
-   "answer": 2,
-   "why": "der Müll = rubbish; Müll trennen = to separate rubbish."
+   "answer": 1,
+   "why": "das Klima = climate; der Wandel = change."
   },
   {
    "type": "mcq",
-   "q": "Which is correct for 'I have a headache'?",
+   "q": "Wie komme ich zur Post? — « Gehen Sie … und dann die zweite Straße links. » Welches Wort passt?",
    "options": [
-    "Ich habe Kopfschmerzen.",
-    "Ich bin Kopfschmerzen.",
-    "Ich tue Kopf weh.",
-    "Mein Kopf hat weh."
+    "geradeaus",
+    "gegenüber",
+    "gestern",
+    "Gymnasium"
    ],
    "answer": 0,
-   "why": "Ich habe Kopfschmerzen, or Mein Kopf tut weh."
+   "why": "geradeaus = straight on, the usual start of directions."
   },
   {
    "type": "short",
-   "q": "Write two German sentences about how to protect the environment, using 'um ... zu' in one.",
-   "model": "Ich fahre mit dem Rad zur Schule, um die Umwelt zu schützen. Man sollte auch weniger Plastik benutzen.",
+   "q": "You read: « Ich möchte Köchin werden, weil ich gern kreativ bin. » Answer in German: Warum möchte sie Köchin werden?",
+   "model": "Sie ist gern kreativ.",
    "points": [
-    "um ... zu with infinitive at the end",
-    "a second relevant sentence with a correct modal (sollte) or other verb"
+    "gives the reason (kreativ)",
+    "answers in German",
+    "uses sie/ist correctly or gives the phrase"
    ]
   }
  ]

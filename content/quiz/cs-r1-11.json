@@ -1,6 +1,51 @@
-{"id":"cs-r1-11","questions":[
-{"type":"mcq","q":"Which device connects different networks together and directs packets to their destination?","options":["Switch","Modem","Router","Wireless access point"],"answer":2,"why":"A router connects networks and forwards packets using IP addresses. A switch only connects devices within one LAN."},
-{"type":"mcq","q":"What does DNS do?","options":["Translates a domain name into an IP address","Encrypts web pages","Splits data into packets","Blocks unauthorised traffic"],"answer":0,"why":"The domain name system translates domain names such as www.example.com into IP addresses."},
-{"type":"mcq","q":"Which protocol is used to send an email from a client to a mail server?","options":["POP3","IMAP","FTP","SMTP"],"answer":3,"why":"SMTP sends email. POP3 and IMAP are used to receive or access email."},
-{"type":"short","q":"Describe one advantage and one disadvantage of a star topology.","model":"Advantage: each device has its own cable to the central switch, so a cable failure affects only that device and devices are easy to add. Disadvantage: if the central switch fails, the whole network stops working.","points":["advantage: failure of one cable only affects one device / easy to add devices / good performance","disadvantage: central switch is a single point of failure / needs more cable"]}
-]}
+{
+ "id": "cs-r1-11",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which field would be the most suitable primary key in a table of students?",
+   "options": [
+    "Surname",
+    "Date of birth",
+    "Class",
+    "Student ID"
+   ],
+   "answer": 3,
+   "why": "A primary key must be unique for every record; only the student ID is."
+  },
+  {
+   "type": "mcq",
+   "q": "Which data type is best for a field that stores whether a book has been returned (yes or no)?",
+   "options": [
+    "Text",
+    "Integer",
+    "Boolean",
+    "Real"
+   ],
+   "answer": 2,
+   "why": "Two possible values, TRUE or FALSE, is a Boolean field."
+  },
+  {
+   "type": "mcq",
+   "q": "A table Car has fields Make and Price. Which query counts how many cars are made by Ford?",
+   "options": [
+    "SELECT COUNT(*) FROM Car WHERE Make = \"Ford\";",
+    "SELECT SUM(Make) FROM Car WHERE Ford;",
+    "SELECT Make FROM Car ORDER BY COUNT;",
+    "SELECT * FROM Car WHERE COUNT = \"Ford\";"
+   ],
+   "answer": 0,
+   "why": "COUNT(*) with FROM and a WHERE condition returns the number of matching records."
+  },
+  {
+   "type": "short",
+   "q": "Explain what a primary key is and why a table needs one.",
+   "model": "A primary key is a field whose value is unique for every record. It allows each record to be identified without confusion and stops duplicate records being stored.",
+   "points": [
+    "Field with a unique value for each record",
+    "Identifies each record",
+    "Prevents duplicates / confusion"
+   ]
+  }
+ ]
+}

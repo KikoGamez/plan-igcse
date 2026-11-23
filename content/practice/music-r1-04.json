@@ -2,161 +2,160 @@
  "id": "music-r1-04",
  "cards": [
   {
-   "f": "Semibreve",
-   "b": "Four crotchet beats (whole note)."
+   "f": "Crotchet, quaver, semiquaver",
+   "b": "1 beat, ½ beat, ¼ beat."
   },
   {
-   "f": "Minim",
-   "b": "Two crotchet beats (half note)."
-  },
-  {
-   "f": "Quaver",
-   "b": "Half a crotchet beat (eighth note)."
-  },
-  {
-   "f": "Semiquaver",
-   "b": "A quarter of a crotchet beat (sixteenth note)."
-  },
-  {
-   "f": "Effect of a dot",
-   "b": "Adds half the note's value."
+   "f": "Dot after a note",
+   "b": "Adds half the note's value; dotted crotchet is 1½ beats."
   },
   {
    "f": "Triplet",
    "b": "Three notes played in the time of two."
   },
   {
-   "f": "6/8 time",
-   "b": "Compound duple: two dotted-crotchet beats per bar, each divided into three."
+   "f": "Simple time",
+   "b": "Each beat divides into two, e.g. 2/4, 3/4, 4/4."
+  },
+  {
+   "f": "Compound time",
+   "b": "Each beat divides into three, e.g. 6/8, 9/8, 12/8."
+  },
+  {
+   "f": "6/8 type",
+   "b": "Compound duple: two dotted crotchet beats per bar."
   },
   {
    "f": "Syncopation",
-   "b": "Accenting weak beats or off-beats."
+   "b": "Emphasis on weak beats or off-beats against the pulse."
+  },
+  {
+   "f": "Hemiola",
+   "b": "Two bars of triple time felt as three beats of two."
   },
   {
    "f": "Anacrusis",
-   "b": "An upbeat; notes before the first full bar."
+   "b": "Unstressed note(s) before the first bar line; an upbeat."
   },
   {
-   "f": "Polyrhythm",
-   "b": "Two or more different rhythms played at the same time."
+   "f": "Clave",
+   "b": "Five-note Afro-Cuban rhythmic key pattern: forward 3–2 or reverse 2–3."
   },
   {
-   "f": "Rubato",
-   "b": "Flexible tempo, speeding up and slowing down for expression."
+   "f": "Tāla",
+   "b": "Hindustani repeating rhythmic cycle of beats, played on tabla."
   },
   {
-   "f": "Allegro, Andante, Adagio",
-   "b": "Fast; walking pace; slow."
+   "f": "Accelerando / rallentando",
+   "b": "Gradually faster / gradually slower."
   },
   {
-   "f": "Accelerando",
-   "b": "Gradually getting faster."
+   "f": "Allegro / andante / adagio",
+   "b": "Fast / walking pace / slow."
   },
   {
-   "f": "Sforzando (sfz)",
-   "b": "A sudden strong accent."
+   "f": "pp, p, mp, mf, f, ff",
+   "b": "Very quiet, quiet, mod. quiet, mod. loud, loud, very loud."
   },
   {
    "f": "Terraced dynamics",
-   "b": "Sudden changes between loud and quiet, typical of Baroque music."
+   "b": "Sudden steps between loud and quiet, typical of Baroque music."
   }
  ],
  "gaps": [
   {
-   "s": "A minim lasts ___ crotchet beats.",
+   "s": "A dotted crotchet is worth ___ beats.",
    "a": [
-    "2",
-    "two"
+    "1½",
+    "1.5",
+    "1 1/2",
+    "one and a half"
    ]
   },
   {
-   "s": "A dot adds ___ the note's value.",
-   "a": [
-    "half",
-    "1/2",
-    "0.5"
-   ]
-  },
-  {
-   "s": "Beats that divide into three are in ___ time.",
+   "s": "6/8 is a ___ time signature.",
    "a": [
     "compound"
    ]
   },
   {
-   "s": "Getting gradually quieter is ___.",
-   "a": [
-    "diminuendo",
-    "decrescendo"
-   ]
-  },
-  {
-   "s": "The Italian word for very fast is ___.",
-   "a": [
-    "presto"
-   ]
-  },
-  {
-   "s": "An upbeat before the first full bar is an ___.",
+   "s": "An upbeat before the first bar line is an ___.",
    "a": [
     "anacrusis"
    ]
   },
   {
-   "s": "The letters pp stand for ___.",
+   "s": "Gradually getting slower is ___.",
    "a": [
-    "pianissimo",
-    "very quiet"
+    "rallentando",
+    "ritardando"
    ]
   },
   {
-   "s": "4/4 has ___ crotchet beats in a bar.",
+   "s": "Stressing weak beats is called ___.",
    "a": [
-    "4",
-    "four"
+    "syncopation"
+   ]
+  },
+  {
+   "s": "The Hindustani rhythmic cycle is a ___.",
+   "a": [
+    "tala",
+    "tāla"
+   ]
+  },
+  {
+   "s": "ff stands for ___.",
+   "a": [
+    "fortissimo"
+   ]
+  },
+  {
+   "s": "Beats per minute is shortened to ___.",
+   "a": [
+    "BPM"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe what makes a rhythm syncopated.",
-   "model": "Accents fall on weak beats or off the beat, often with notes tied across the beat.",
+   "q": "Explain how compound time differs from simple time.",
+   "model": "In compound time each beat divides into three (e.g. 6/8); in simple time each beat divides into two (e.g. 3/4).",
    "points": [
-    "accent on weak or off beat",
-    "ties"
+    "compound beat splits into 3",
+    "simple beat splits into 2"
    ]
   },
   {
-   "q": "Explain how to count 6/8.",
-   "model": "Two main beats, each a dotted crotchet divided into three quavers: ONE-two-three TWO-two-three.",
+   "q": "What is a hemiola?",
+   "model": "Two bars of triple time felt as three groups of two beats, creating a broadening effect.",
    "points": [
-    "two beats",
-    "three quavers each"
+    "triple time",
+    "felt as groups of two"
    ]
   },
   {
-   "q": "Describe the tempo changes: Allegro, then rallentando.",
-   "model": "The music starts fast and lively, then gradually slows.",
+   "q": "Describe the difference between forward and reverse clave.",
+   "model": "Forward clave begins with the bar of three hits (3–2); reverse clave begins with the bar of two hits (2–3).",
    "points": [
-    "allegro fast",
-    "rallentando slowing"
+    "forward 3–2",
+    "reverse 2–3"
    ]
   },
   {
-   "q": "Why was the piano an advance on the harpsichord?",
-   "model": "It could vary dynamics by touch, including gradual crescendo and diminuendo.",
+   "q": "Give two Italian words for a fast tempo.",
+   "model": "Allegro and vivace (or presto).",
    "points": [
-    "dynamics by touch",
-    "gradual changes"
+    "two correct words",
+    "correct meaning"
    ]
   },
   {
-   "q": "Define polyrhythm and name a tradition using it.",
-   "model": "Several contrasting rhythms at once, as in West African drumming.",
+   "q": "What is rubato?",
+   "model": "Flexible tempo, with slight speeding up and slowing down for expression.",
    "points": [
-    "definition",
-    "example"
+    "flexible tempo",
+    "for expression"
    ]
   }
  ]

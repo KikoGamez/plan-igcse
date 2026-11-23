@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "In Bach's Brandenburg Concerto No. 5, which keyboard instrument is a soloist?",
+   "q": "Which statement about the focus works is correct?",
    "options": [
-    "Organ",
-    "Piano",
-    "Harpsichord",
-    "Clavichord"
-   ],
-   "answer": 2,
-   "why": "The harpsichord plays a solo role as well as continuo."
-  },
-  {
-   "type": "mcq",
-   "q": "What is the ground bass in Purcell's Music for a While?",
-   "options": [
-    "A repeated bass line",
-    "A drone",
-    "A solo cello melody",
-    "A chord progression with no bass"
-   ],
-   "answer": 0,
-   "why": "A ground bass is a bass pattern repeated while the upper parts change."
-  },
-  {
-   "type": "mcq",
-   "q": "Which form is the first movement of Beethoven's Pathétique sonata?",
-   "options": [
-    "Rondo",
-    "Sonata form",
-    "Ritornello form",
-    "Ternary"
+    "They are played in the exam and you answer questions about them",
+    "They are not used in the exam, but extracts relate to them",
+    "There is only one for the whole course",
+    "They are only for Area 4"
    ],
    "answer": 1,
-   "why": "It has exposition, development and recapitulation, plus the Grave introduction."
+   "why": "The syllabus states focus works will not be used in the exam; extracts are related in style, structure or genre."
+  },
+  {
+   "type": "mcq",
+   "q": "A clarinet in B flat reads a written C. What sounds?",
+   "options": [
+    "B flat",
+    "D",
+    "A",
+    "E flat"
+   ],
+   "answer": 0,
+   "why": "B flat clarinets sound a major 2nd lower than written."
+  },
+  {
+   "type": "mcq",
+   "q": "A phrase ends on chord V and sounds unfinished. This is a(n)...",
+   "options": [
+    "perfect cadence",
+    "interrupted cadence",
+    "imperfect cadence",
+    "plagal cadence"
+   ],
+   "answer": 2,
+   "why": "Imperfect cadences end on V."
   },
   {
    "type": "short",
-   "q": "Describe two production techniques used in Queen's Killer Queen.",
-   "model": "Multi-tracking of guitar and vocal harmonies, and panning/phasing/reverb effects to make a rich stereo sound.",
+   "q": "Explain how to identify the key of a printed extract. [3]",
+   "model": "Look at the key signature, then check for accidentals such as a raised seventh and at the final chord, to decide between the major key and its relative minor.",
    "points": [
-    "Multi-tracking/overdubbing",
-    "Panning, phasing or reverb"
+    "key signature",
+    "accidentals/raised 7th",
+    "final chord/relative minor"
    ]
   }
  ]

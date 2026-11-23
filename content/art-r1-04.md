@@ -1,170 +1,179 @@
 # Colour theory and painting techniques
 
-> **In the exam:** No written paper. Colour and paint skills are marked in your artwork: **AO2** (selecting and experimenting with appropriate media, materials, techniques and processes), **AO3** (skill when recording from observation, including colour studies) and **AO4** (understanding of visual language through application of formal elements: colour is one). Each AO is out of 18 in both components. In the 10-hour exam a painted final piece needs planned colour mixes and technique decisions made in your preparatory studies.
+> **In the exam:** There is no written paper. Colour and paint skills are judged in your digital portfolios for both components, mainly under **AO2** ("Explore and select appropriate resources, media, materials, techniques and processes") and **AO4** ("understanding of visual language"). Painting and related media is one of the five areas of study. Each AO is worth 25 of the 100 marks in a component. Examiners reward colour that is used on purpose, and experiments with paint that end in a clear choice.
 
 ## What you need to know
 
-- The colour wheel: primary, secondary and tertiary colours.
-- Colour terms: hue, tint, shade, tone, saturation, warm and cool.
-- Colour harmonies: complementary, analogous, monochromatic, triadic; and how each affects mood.
-- Mixing: clean mixing, greys, avoiding mud; mixing colours that fit your intention.
-- Properties and techniques of watercolour, acrylic and gouache, and when to choose each.
-- How to experiment, review and select media for your final piece (AO2).
+- The colour wheel: primary, secondary and tertiary colours; complementary, analogous, warm and cool.
+- Colour terms: hue, value (tone), saturation (intensity), tint, shade.
+- Colour harmonies and contrasts and the moods they create.
+- Painting media: watercolour, acrylic, gouache (and oil as an option), and the techniques for each.
+- How to explore, select and justify colour and paint choices in a sketchbook.
 
 ## Notes
 
 ### The colour wheel
 
-| Group | Colours | How made |
-|---|---|---|
-| **Primary** | red, yellow, blue (traditional paint wheel) | cannot be mixed from others |
-| **Secondary** | orange, green, purple | mix two primaries |
-| **Tertiary** | red-orange, yellow-green, blue-violet, etc. | mix a primary and a neighbouring secondary |
+| Group | Colours (paint, subtractive mixing) |
+|---|---|
+| **Primary** | Red, yellow, blue (cannot be mixed from others) |
+| **Secondary** | Orange (red + yellow), green (yellow + blue), purple (blue + red) |
+| **Tertiary** | A primary + the neighbouring secondary: red-orange, yellow-green, blue-violet etc. |
 
-In printing and digital work the primaries are different (cyan, magenta, yellow for print; red, green, blue for screens). For school painting, the traditional wheel is the standard one. If your paint set has a warm and a cool version of each primary (for example, warm red and cool red), the mixes will be cleaner.
+Note: printers and screens use other primaries (cyan, magenta, yellow / red, green, blue), but in painting you use the traditional wheel.
 
-### Colour language
+### Describing a colour
 
-- **Hue:** the pure colour name.
-- **Tint:** a hue with white added (lighter). **Shade:** a hue with black added (darker). **Tone:** a hue with grey added, or how light/dark a colour is.
-- **Saturation (intensity):** how pure or vivid a colour is. Add its complementary to lower saturation.
-- **Warm colours** (red, orange, yellow) seem to move forward and feel energetic; **cool colours** (blue, green, purple) recede and feel calm.
-- **Local colour:** the actual colour of an object (an apple is red). **Expressive colour:** chosen for mood, not realism (a blue face to show sadness).
+- **Hue:** which colour it is (red, blue).
+- **Value / tone:** how light or dark.
+- **Saturation (intensity):** how pure or dull. Adding grey or the complement lowers saturation.
+- **Tint:** colour + white. **Shade:** colour + black. **Tone (mixing):** colour + grey.
 
-### Colour harmonies
+Tip: black can make colours look dead. Darken with a darker colour (blue or brown), or with the complementary colour.
 
-| Harmony | Meaning | Example | Effect |
+### Warm and cool
+
+- **Warm:** reds, oranges, yellows. They seem to **advance**.
+- **Cool:** blues, greens, violets. They seem to **recede**.
+- Every colour has warm and cool versions (a warm red leans orange, a cool red leans purple). Landscapes often have warm foregrounds and cool backgrounds, giving depth (atmospheric or aerial perspective).
+
+### Harmonies and contrasts
+
+| Scheme | Meaning | Effect | Example artist or work |
 |---|---|---|---|
-| **Complementary** | opposite on the wheel | blue/orange, red/green, yellow/purple | high contrast, vibrant; each makes the other look stronger |
-| **Analogous** | neighbours on the wheel | yellow, yellow-green, green | calm, harmonious, natural |
-| **Monochromatic** | one hue with tints and shades | blues from pale to dark | unified, moody |
-| **Triadic** | three colours evenly spaced | red, yellow, blue | lively, balanced |
-| **Split complementary** | a colour plus the two neighbours of its complement | blue with yellow-orange and red-orange | contrast with less tension |
-| **Warm / cool contrast** | warm shapes against cool background | orange figure on blue | draws the eye to the warm focal point |
+| **Complementary** | Opposites on the wheel (red–green, blue–orange, yellow–violet) | Strong contrast, vibrant; mixed together they make neutral browns | Van Gogh used blue and orange in *Café Terrace at Night* |
+| **Analogous** | Neighbours (blue, blue-green, green) | Calm, harmonious | Monet's water scenes |
+| **Monochromatic** | One hue in different tints and shades | Unified, moody | Picasso's Blue Period |
+| **Triadic** | Three evenly spaced colours | Lively, balanced | Many pop art and children's illustration palettes |
+| **Limited palette** | Only 2–4 colours | Coherent, controlled | Morandi's muted still lifes |
 
-Artist examples: **Vincent van Gogh** used strong complementary contrasts (the blue and orange in *Starry Night*; red and green in *The Night Café*) to create intensity. **Claude Monet** painted with broken touches of colour to catch light, and used analogous cool harmonies in his water lily series. **Henri Matisse** used flat, bold, saturated colour for shape and joy. **Mark Rothko** used soft-edged colour blocks to evoke mood.
+**Simultaneous contrast:** placing two colours next to each other makes each look more intense. **Josef Albers** explored this in his *Homage to the Square* series.
 
-### Mixing colour well
+### Colour and meaning
 
-- Mix with a **palette knife** or clean brush, in a palette, before painting.
-- Start with the lighter colour and add small amounts of the darker one.
-- **Greys and browns** come from mixing complementaries (blue + orange gives a lively brown-grey), which are richer than black from the tube.
-- Avoid **mud** (muddy dull colours): don't mix more than three colours, and clean the brush between mixes.
-- Make a **colour mixing chart** with swatches and notes of how you made each colour. In the exam you can then match colours quickly.
-- To lighten: **add white in acrylic and gouache**; in watercolour, **add water** (the white of the paper is your white).
+Colour affects mood and symbolism. Warm reds can mean energy, danger or love; blues calm or sadness; yellow joy or anxiety. Cultural meanings vary, so explain what you intend.
 
-### Painting media compared
+### Colour mixing practice
 
-| | **Watercolour** | **Acrylic** | **Gouache** |
+- Make a **colour wheel** using only three primaries and white.
+- Make a **tonal strip** of one colour from tint to shade.
+- Mix **neutrals** by combining complementaries.
+- Make colour swatches taken from your own photographs of your subject (AO1/AO2) and paint them into your sketchbook.
+
+### Paint media
+
+| Medium | What it is | Techniques | Pros / limits |
 |---|---|---|---|
-| Opacity | transparent | opaque or thin glazes | opaque, matt |
-| Dilute with | water | water (or medium) | water |
-| Drying | fairly fast | very fast; permanent when dry | fast; can be rewetted and reworked |
-| Surface | watercolour paper (heavy, e.g. 300gsm) | paper, board or canvas | paper or card |
-| Good for | light, atmosphere, loose washes, quick studies | bold colour, texture, layering, large scale | flat even colour, graphic shapes, illustration, design |
-| Pitfalls | hard to correct; overworking makes mud; paper cockles | dries fast on the palette and brush; can look plastic; ruins brushes if left | can crack if thick; colours dry slightly lighter or darker |
+| **Watercolour** | Pigment in water-soluble binder; transparent; paper provides the white | **Wash** (flat or graded), **wet-on-wet** (soft blends), **wet-on-dry** (crisp edges), **glazing** (layers of thin colour), **dry brush**, lifting out with tissue, masking fluid, salt | Fresh and luminous; hard to correct. Work light to dark |
+| **Acrylic** | Pigment in plastic polymer; fast-drying, water-based while wet, waterproof when dry | **Thick (impasto)** with palette knife, **thin glazes** like watercolour, **layering**, scumbling (dry, broken colour over another), **sgraffito** (scratching through) | Flexible, versatile, dries fast (blends are harder); use a retarder or medium to slow it |
+| **Gouache** | Opaque water-based paint | Flat, even areas of colour; can be rewet; light colours over dark | Matte, bold, good for illustration and graphic work |
+| **Oil** (optional) | Pigment in oil; slow-drying | Blending, glazes, thick brushwork | Rich, slow; needs solvent and time. Not needed for IGCSE |
 
-### Watercolour techniques
+Watercolour, acrylic and gouache are the usual choices.
 
-- **Flat wash:** an even layer of colour; tilt the board and keep a wet edge.
-- **Graded wash:** colour fades from strong to pale by adding water.
-- **Wet-on-wet:** paint onto wet paper; colours bleed softly. Good for skies and atmosphere.
-- **Wet-on-dry:** paint onto dry paper; crisp edges for detail.
-- **Glazing / layering:** thin transparent layers over dry paint to deepen colour.
-- **Lifting out:** blot or lift wet or damp paint with tissue to create highlights, clouds.
-- **Salt or masking fluid:** salt on wet paint creates texture; masking fluid saves white areas.
-- Always work **light to dark** and leave the white paper for highlights.
-- Artists: **J.M.W. Turner** (atmospheric watercolour skies and light), **John Singer Sargent** (confident watercolour studies), **Emil Nolde** (bold, wet-on-wet colour).
+### Brushwork and application
 
-### Acrylic techniques
+- Brush shapes: round, flat, filbert, fan. Change the size to match the mark.
+- **Palette knife** gives thick, flat or ridged paint.
+- **Sponges, rags, cards, sticks** make unique textures.
+- **Impasto:** thick paint that holds the mark (Van Gogh).
+- **Glaze:** thin transparent layer over dry paint to deepen colour.
+- **Blending** wet-in-wet vs. **hatching** in colour.
+- **Underpainting:** a first layer in a single colour to set tone; common in oil and acrylic.
 
-- **Opaque layers:** cover earlier colours; allows changes.
-- **Glazing:** thin layers mixed with medium over a dry layer for glowing colour.
-- **Impasto:** thick paint with a brush or palette knife for texture.
-- **Dry brush / scumbling:** little paint on a dry brush for broken texture.
-- **Blocking in:** cover large areas with mid-tone colour first, then add darks and highlights.
-- Keep the palette moist (a spray bottle) and rinse brushes before the paint dries.
-- Artists: **David Hockney** (flat bright colour in his acrylic pool paintings such as *A Bigger Splash*); for the thick impasto look, see Frank Auerbach (who works in oil).
+### Artists to learn from
 
-### Gouache techniques
+- **J.M.W. Turner:** atmospheric watercolours, washes and light.
+- **Vincent van Gogh:** impasto, directional brushstrokes and expressive complementary colour.
+- **Claude Monet:** broken colour and optical mixing; light changing across a series.
+- **Henri Matisse:** bold flat colour; cut-outs painted in gouache.
+- **Mark Rothko:** large soft-edged colour fields for mood.
+- **Jacob Lawrence:** flat, bold gouache/tempera narrative scenes.
+- **Frida Kahlo:** symbolic colour in self-portraits.
 
-- Apply flat opaque colour, light over dark is possible.
-- Mix with white for a soft matt pastel tint.
-- Can be used thin like watercolour, or thick like acrylic.
-- Reworking: dry layers can lift when painted over, so apply layers quickly and avoid scrubbing.
-- Artists: Matisse used gouache-painted paper for his cut-outs; it is often used in poster and illustration work.
+Link any one of them to your theme: study their technique, paint a small copy of a section, then apply the technique to your own subject.
 
-### Using painting to earn marks
+### Showing AO2 in your sketchbook
 
-1. **AO2:** Test the same small subject in two or three paints, review which suits your idea, and select one with a reason. Show colour tests and mixing charts.
-2. **AO3:** Paint from observation: a still life with colour matched by eye. Include a colour note on the side.
-3. **AO4:** The final piece must show deliberate colour decisions linked to your intention: a limited palette, a clear focal point by contrast, expressive or local colour.
-4. **Planning for the 10 hours:** Do a small colour version of your final design first. Mix and record the main colours in your preparatory studies so you can match them quickly in the exam.
+1. Paint the same small subject in 3 media (watercolour, acrylic, gouache). 
+2. Try 2–3 colour schemes (complementary, analogous, limited).
+3. Annotate: "Watercolour wet-on-wet suited the misty mood, but acrylic gave the thick texture I needed, so I selected acrylic."
+4. Show **selection and review**: choose, refine, and explain the choice.
+
+### Safe, practical habits
+
+- Use a palette to mix before applying; clean brushes between colours.
+- Test colours on scrap paper; wet colours dry darker (acrylic) or lighter (watercolour).
+- Stretch or use heavy (300 gsm) paper for watercolour to stop warping.
+- Photograph artwork in even daylight for the portfolio, to avoid colour shifts.
 
 ## Key terms and definitions
 
-- **Primary colours:** colours that cannot be made by mixing: red, yellow, blue.
-- **Secondary colours:** made by mixing two primaries: orange, green, purple.
+- **Primary colours:** red, yellow, blue, which cannot be made by mixing other paints.
+- **Secondary colours:** made by mixing two primaries.
 - **Tertiary colours:** made by mixing a primary and its neighbouring secondary.
 - **Complementary colours:** colours opposite each other on the colour wheel.
 - **Analogous colours:** colours next to each other on the colour wheel.
-- **Tint / shade:** a colour with white added / with black added.
-- **Saturation:** the purity or intensity of a colour.
-- **Wash:** a thin, transparent layer of diluted paint.
+- **Hue / value / saturation:** the colour name / its lightness or darkness / its purity or intensity.
+- **Tint / shade:** a colour mixed with white / with black.
+- **Wash:** a thin layer of diluted paint spread over an area.
 - **Glaze:** a thin transparent layer of paint over a dry layer.
-- **Impasto:** paint applied thickly so brush or knife marks show.
-- **Opaque / transparent:** paint that covers what is under it / lets it show through.
+- **Impasto:** paint applied thickly so brushstrokes or knife marks show.
+- **Wet-on-wet:** applying wet paint onto a wet surface to blend softly.
+- **Gouache:** opaque water-based paint.
 
 ## Worked examples
 
-**1. Explain how complementary colours can be used in a painting. [3]**
-*Model answer:* Complementary colours are opposite on the wheel (1). Placing them side by side makes each look brighter and creates strong contrast and energy, as Van Gogh does with blue and orange in *Starry Night* (1). A small amount of one against a large area of the other creates a clear focal point (1).
+**1. Explain how complementary colours could be used in a painting of an orange. [3]**
 
-**2. You are painting a stormy sea. Choose a medium and justify it. [3]**
-*Model answer:* Acrylic, because it dries quickly so I can build layers (1), and I can use thick impasto with a palette knife for wave texture (1) and glazes for dark, deep water (1). (Watercolour with wet-on-wet would also be valid if justified: soft atmospheric clouds and light.)
+Place the orange against a blue background (opposite on the wheel) (1) so the contrast makes the orange look brighter (1). Mix a little blue into the orange for the shadow to make a natural, duller shade without using black (1).
 
-**3. Describe how to mix a dark colour without using black. [2]**
-*Model answer:* Mix two complementary colours, such as blue and orange, until they make a deep brown-grey (1), then adjust with more of one colour; this gives a richer, more natural dark than black (1).
+**2. Compare watercolour and acrylic for painting a stormy sky. [4]**
+
+Watercolour: wet-on-wet washes blend softly and look misty and transparent, but are hard to correct (2). Acrylic: can be built thickly with a knife for dramatic texture and layered over mistakes, but dries fast so blending needs speed or a retarder (2).
+
+**3. Write an annotation for a colour test.**
+
+"I mixed analogous blues and greens for the sea (analogous harmony) to feel calm. I added a small area of orange in the boat so it became the focal point (complementary contrast). I selected this version because the warm spot draws the eye first."
 
 ## Common mistakes
 
-- Using paint straight from the tube with no mixing.
-- Overmixing many colours so everything turns muddy.
-- Adding black to darken every colour, which dulls them; use complementaries or darker hues.
-- Forgetting that watercolour needs light-to-dark order and leaving white paper.
-- Painting in watercolour on thin paper that buckles.
-- Not rinsing acrylic brushes before it dries.
-- No notes on colour mixes, so you can't repeat them in the exam.
-- Using bright colour everywhere so nothing stands out.
+- Using paint straight from the tube with no mixing, so colour looks flat.
+- Adding black to darken every colour; it deadens mixes.
+- Muddy colour from over-mixing many hues or not cleaning water.
+- Watercolour: painting white areas instead of leaving the paper white; overworking until paper pills.
+- Acrylic: letting the paint dry on the palette; leaving brushes to dry (ruins them).
+- Trying paints but never choosing one or explaining why (AO2 needs selection).
+- Photographing paintings in poor light, changing the colours.
 
 ## Practice questions
 
-1. Name the three primary colours on the traditional paint wheel. [1]
-2. Name the complement of green and of blue. [2]
-3. Explain the difference between a tint and a shade. [2]
-4. Give two features of gouache compared with watercolour. [2]
-5. Describe the wet-on-wet technique and say when you might use it. [2]
-6. Explain two ways acrylic differs from watercolour. [2]
-7. Describe an analogous colour harmony and its effect. [2]
-8. How would you show AO2 when choosing a painting medium for your final piece? [3]
+1. Name the three primary colours in paint and the secondary colour made from red + yellow. [2]
+2. What are complementary colours? Give one pair. [2]
+3. State the difference between a tint and a shade. [2]
+4. Describe the technique called wet-on-wet in watercolour. [2]
+5. Give two reasons an artist might use impasto. [2]
+6. Explain why warm colours seem to advance and cool colours to recede, and how that helps a landscape painting. [3]
+7. Suggest a way to darken a green without using black. [1]
+8. Describe how a student could show AO2 using three different paint media in a sketchbook. [3]
 
 <details><summary>Answers</summary>
 
-1. Red, yellow, blue.
-2. Green: red. Blue: orange.
-3. A tint is a hue with white added; a shade is a hue with black added.
-4. Any two: opaque; matt finish; can be reworked by re-wetting; covers dark with light; good for flat colour.
-5. Painting onto wet paper so colours blend and bleed softly; used for skies, water and atmospheric backgrounds.
-6. Any two: acrylic is opaque or glazed but watercolour is transparent; acrylic dries quickly and is permanent; acrylic can be built thickly (impasto); watercolour uses the paper as white.
-7. Colours next to each other on the wheel (for example yellow, yellow-green, green); creates a calm, harmonious, unified effect.
-8. Test the same subject in two or three media, evaluate them against your intention, select one and explain the reason (for example, "gouache gives flat bold colour like my chosen artist"). Show the tests and the reasoning.
+1. Red, yellow, blue (1); orange (1).
+2. Colours opposite each other on the colour wheel (1); e.g. red–green, blue–orange, yellow–violet (1).
+3. Tint = colour + white (1); shade = colour + black (1).
+4. Applying wet paint onto wet paper or paint (1), so colours spread and blend softly (1).
+5. Any two: adds actual texture, shows energy of brushstrokes, makes paint catch the light, builds form (1 + 1).
+6. Warm colours (reds, oranges) appear closer and cool colours (blues) appear further away (1); put warm in the foreground and cool in the distance to create depth (1); this suggests atmospheric perspective (1).
+7. Add a little red (its complement) or a dark blue or brown.
+8. Paint the same small subject in watercolour, acrylic and gouache (1); compare the results (colour intensity, texture, ease) (1); select one and explain the choice in annotation (1).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min:** Draw a colour wheel in your sketchbook with mixes of primary, secondary and tertiary colours.
-- **10 min:** Make complementary and analogous swatches. Add a grey made from a complementary pair.
-- **20 min:** Paint the same small object three times: watercolour (wet-on-wet), acrylic (opaque), gouache (flat). Keep each about 8 cm.
-- **10 min:** Compare them; write one note about each (what worked, what didn't).
-- **10 min:** Choose the one best for an idea of yours and write why. Do a colour mixing chart for it.
+- 10 min: learn the wheel and the harmony words; draw a colour wheel in your sketchbook.
+- 20 min: sketchbook task 1: mix and paint a tonal strip and a neutral made from complementaries; paint a small still life in two colour schemes.
+- 20 min: sketchbook task 2: paint the same simple shape in watercolour and acrylic (or gouache); annotate the differences and select one.
+- 5 min: choose one artist (Van Gogh, Turner, Matisse) and note one technique to try next.
+- 5 min: quiz.

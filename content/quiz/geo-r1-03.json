@@ -1,6 +1,32 @@
-{"id":"geo-r1-03","questions":[
-{"type":"mcq","q":"Which landform is formed by DEPOSITION?","options":["Stack","Wave-cut platform","Cave","Spit"],"answer":3,"why":"A spit is a ridge of sand or shingle deposited by longshore drift."},
-{"type":"mcq","q":"What is the correct order of landforms from a crack in a headland?","options":["Arch, cave, stack, stump","Stack, arch, cave, stump","Cave, arch, stack, stump","Cave, stack, arch, stump"],"answer":2,"why":"A crack becomes a cave, then an arch, then a stack, then a stump."},
-{"type":"mcq","q":"In longshore drift, backwash carries material","options":["at an angle along the beach","straight down the beach at right angles to the coast","out to sea only","away from the shore in suspension"],"answer":1,"why":"Gravity pulls backwash straight down the slope; swash moves up at an angle, creating a zigzag."},
-{"type":"short","q":"Explain how a cave, arch and stack form.","model":"Hydraulic action and abrasion enlarge a crack in a headland to form a cave. The cave erodes through the headland, forming an arch. The arch is weakened by erosion and weathering and its roof collapses, leaving a stack.","points":["cave forms from crack by hydraulic action/abrasion; erodes through headland to arch","arch roof collapses leaving a stack"]}
-]}
+{
+  "id": "geo-r1-03",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which zone of a city usually has the highest land values?",
+      "options": ["Suburbs", "Rural-urban fringe", "CBD", "Inner city"],
+      "answer": 2,
+      "why": "The CBD is the most accessible zone, so competition for space pushes land values highest."
+    },
+    {
+      "type": "mcq",
+      "q": "In a settlement hierarchy, as you move from hamlet up to city, what happens?",
+      "options": ["There are more settlements", "Settlements get closer together", "The sphere of influence gets larger", "Fewer services are offered"],
+      "answer": 2,
+      "why": "Higher-order settlements have larger spheres of influence, more services and are fewer and further apart."
+    },
+    {
+      "type": "mcq",
+      "q": "What is rural-urban migration?",
+      "options": ["Movement from cities to the countryside", "Movement from the countryside to cities", "Movement between countries", "Movement between two cities"],
+      "answer": 1,
+      "why": "It is the main cause of urbanisation in LICs."
+    },
+    {
+      "type": "short",
+      "q": "Explain how a self-help scheme can improve housing in an informal settlement.",
+      "model": "Residents are given building materials and basic services such as water and electricity, so they can build or improve their own homes cheaply. This improves conditions without the government paying for whole new housing.",
+      "points": ["residents are given materials/services/training to build their own homes", "improved conditions at lower cost / more secure homes"]
+    }
+  ]
+}

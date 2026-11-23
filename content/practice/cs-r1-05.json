@@ -2,162 +2,167 @@
  "id": "cs-r1-05",
  "cards": [
   {
-   "f": "Array",
-   "b": "A fixed-size collection of items of the same data type, each accessed by its index."
+   "f": "RAM",
+   "b": "Random access memory: volatile primary memory that holds programs and data currently in use. Read and write."
   },
   {
-   "f": "Array index in Pearson pseudocode",
-   "b": "Starts at 0. A 5-item array has indices 0 to 4."
+   "f": "ROM",
+   "b": "Read-only memory: non-volatile primary memory that stores the bootstrap (start-up instructions that load the OS)."
   },
   {
-   "f": "Last index of an array",
-   "b": "LENGTH(array) - 1."
+   "f": "Volatile memory",
+   "b": "Memory that loses its contents when the power is turned off."
   },
   {
-   "f": "2D array",
-   "b": "An array of arrays: a table with rows and columns, so each item needs two indices."
+   "f": "Why secondary storage is needed",
+   "b": "RAM is volatile. Secondary storage is non-volatile so data and programs are kept when the power is off."
   },
   {
-   "f": "Record",
-   "b": "A data structure made of named fields that can have different data types, e.g. name, age, form."
+   "f": "Virtual memory",
+   "b": "When RAM is full, part of secondary storage is used as extra memory. Pages are swapped in and out, which is slower than RAM."
   },
   {
-   "f": "Array vs record",
-   "b": "Array: items all the same type, accessed by index. Record: fields can differ, accessed by field name."
+   "f": "Magnetic storage",
+   "b": "Tiny areas of a spinning platter are magnetised one way or the other. A read/write head reads or changes them. Example: hard disk drive."
   },
   {
-   "f": "Why use an array?",
-   "b": "Stores many related values under one name, processed with a loop, so code is shorter and easier to maintain."
+   "f": "Optical storage",
+   "b": "A laser reads pits and lands on a spinning disc, which reflect light differently. Examples: CD, DVD, Blu-ray."
   },
   {
-   "f": "Nested loops for a 2D array",
-   "b": "Outer loop for rows, inner loop for columns; the inner loop completes for each row."
+   "f": "Solid-state storage",
+   "b": "Flash memory with no moving parts; transistors trap or release charge for 1 and 0. Examples: SSD, USB stick, SD card."
   },
   {
-   "f": "String concatenation",
-   "b": "Joining strings together: 'Hello' & ' ' & 'World' (Python: +)."
+   "f": "SSD versus HDD",
+   "b": "SSD: faster, silent, durable, low power, but costs more per GB. HDD: cheaper per GB, larger capacity, but has moving parts."
   },
   {
-   "f": "Python: first three characters of w",
-   "b": "w[0:3]. The slice stops before index 3."
+   "f": "Cloud storage",
+   "b": "Data stored on remote servers accessed over the internet. Needs a connection; the provider holds your data."
   },
   {
-   "f": "Python: length of a string or list",
-   "b": "len(x). Pseudocode: LENGTH(x)."
+   "f": "Benefits of cloud storage",
+   "b": "Access from any device anywhere, easy sharing, automatic backup, and capacity easily increased."
   },
   {
-   "f": "Why store data in a text file?",
-   "b": "So the data persists after the program ends and can be used next time."
+   "f": "NIC",
+   "b": "Network interface card: hardware that connects a device to a network, wired or wireless. It holds the MAC address."
   },
   {
-   "f": "Python file modes",
-   "b": "\"r\" read, \"w\" write (erases existing contents), \"a\" append (adds to the end)."
+   "f": "MAC address",
+   "b": "Unique 48-bit address set by the manufacturer, shown as six pairs of hex digits. First half identifies the manufacturer."
   },
   {
-   "f": "Data read from a text file",
-   "b": "Always a string. Convert with int() or float() before calculating."
+   "f": "IPv4 and IPv6",
+   "b": "IPv4: 32 bits, four numbers 0–255. IPv6: 128 bits, eight groups of hex digits. IPv6 exists because IPv4 addresses are running out."
   },
   {
-   "f": "Why close a file?",
-   "b": "To save the data properly and free the file for other uses."
+   "f": "Router",
+   "b": "Connects different networks, reads the destination IP address of packets and sends them on the best route. Often assigns IP addresses."
   }
  ],
  "gaps": [
   {
-   "s": "The first item in an array is at index ___.",
+   "s": "The start-up instructions that load the operating system are called the ___.",
    "a": [
-    "0",
-    "zero"
+    "bootstrap",
+    "boot strap",
+    "bootstrap program"
    ]
   },
   {
-   "s": "An array holds items of the ___ data type.",
+   "s": "Memory that loses its contents when the power is off is called ___.",
    "a": [
-    "same"
+    "volatile",
+    "volatile memory"
    ]
   },
   {
-   "s": "A ___ groups fields of different data types about one thing.",
+   "s": "When RAM is full the operating system uses ___ memory on the secondary storage.",
    "a": [
-    "record"
+    "virtual"
    ]
   },
   {
-   "s": "A 2D array needs ___ indices to find one item.",
+   "s": "Solid-state drives use ___ memory and have no moving parts.",
    "a": [
-    "two",
-    "2"
+    "flash"
    ]
   },
   {
-   "s": "In Python, open a file with mode \"___\" to add to the end.",
+   "s": "A MAC address is ___ bits long.",
    "a": [
-    "a",
-    "append"
+    "48",
+    "forty-eight",
+    "forty eight"
    ]
   },
   {
-   "s": "Joining two strings together is called ___.",
+   "s": "An IPv6 address is ___ bits long.",
    "a": [
-    "concatenation",
-    "concatenating",
-    "appending"
+    "128",
+    "one hundred and twenty-eight"
    ]
   },
   {
-   "s": "The Python function that gives the number of items in a list is ___.",
+   "s": "A ___ connects different networks and sends packets using the destination IP address.",
    "a": [
-    "len",
-    "len()"
+    "router"
    ]
   },
   {
-   "s": "A 4-item array has a last index of ___.",
+   "s": "Blu-ray discs hold more data than DVDs because they use a ___ laser.",
    "a": [
-    "3",
-    "three"
+    "blue"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why an array is better than 30 separate variables for 30 test marks.",
-   "model": "One array stores all the marks under one name and can be processed with a loop, so the code is much shorter and easier to change.",
+   "type": "short",
+   "q": "Describe how data is stored and read on a magnetic hard disk drive.",
+   "model": "The platter surface is split into tiny areas that are magnetised one way or the other to represent 1 and 0. As the platters spin, a read/write head over the surface reads or changes the magnetisation.",
    "points": [
-    "one name for all values",
-    "loop can process them / shorter code"
+    "areas magnetised to represent 1 and 0",
+    "read/write head over spinning platters"
    ]
   },
   {
-   "q": "Write Python to print the total of the list marks = [56, 72, 48, 90].",
-   "model": "total = 0 then for m in marks: total = total + m, then print(total) which gives 266.",
+   "type": "short",
+   "q": "Explain why a computer becomes slower when it relies heavily on virtual memory.",
+   "model": "Data must be swapped between RAM and secondary storage, which is much slower to access than RAM, so the CPU waits for data.",
    "points": [
-    "total initialised to 0",
-    "loop adding each item then print"
+    "data swapped between RAM and secondary storage",
+    "secondary storage is slower than RAM"
    ]
   },
   {
-   "q": "Write Python to count the letter 'a' in a string word.",
-   "model": "count = 0, then for ch in word: if ch == 'a': count = count + 1, then print(count).",
+   "type": "short",
+   "q": "A student chooses an SSD instead of an HDD for a laptop. Give two reasons.",
+   "model": "An SSD has no moving parts so is more durable if the laptop is knocked, and it is faster to read and write, silent and uses less power.",
    "points": [
-    "loop through characters",
-    "count incremented when equal to 'a'"
+    "no moving parts / durable",
+    "faster / silent / lower power"
    ]
   },
   {
-   "q": "State the difference between opening a file in write mode and append mode.",
-   "model": "Write mode erases any existing contents of the file before writing. Append mode adds new data to the end and keeps the existing contents.",
+   "type": "short",
+   "q": "Give two benefits and one drawback of storing photos in cloud storage.",
+   "model": "Benefits: photos are accessible from any device with internet and are backed up if the phone is lost. Drawback: an internet connection is needed (and the data is held by a third party).",
    "points": [
-    "write replaces/erases contents",
-    "append adds to the end"
+    "two valid benefits",
+    "one valid drawback"
    ]
   },
   {
-   "q": "A 2D array Seats has 4 rows and 6 columns. Describe how to visit every seat.",
-   "model": "Use a nested loop: an outer loop for rows 0 to 3 and an inner loop for columns 0 to 5, accessing Seats[row, col] each time.",
+   "type": "short",
+   "q": "Describe the role of a router in a home network.",
+   "model": "It connects the home network to the internet. It reads the destination IP address of each packet and sends it on the best route, and usually assigns IP addresses to devices.",
    "points": [
-    "nested loops",
-    "correct row and column ranges (0-3, 0-5)"
+    "connects networks / to the internet",
+    "uses destination IP address to send packets",
+    "assigns IP addresses / provides Wi-Fi or firewall"
    ]
   }
  ]

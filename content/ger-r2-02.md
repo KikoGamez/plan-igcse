@@ -1,58 +1,65 @@
-# Past paper · Reading and Writing timed (1/2)
+# Past paper · Reading + marking
 
-> **Goal:** Do the **Reading section (Section A, Q1–Q5)** of a Pearson Edexcel International GCSE German Paper 2 under timed exam conditions, then mark it and find out which question types cost you marks.
+> **Goal:** Do one complete Cambridge IGCSE German 0525 Paper 2 Reading in exam conditions, then mark it with the mark scheme and log every error by cause.
 
 ## Before you start
 
-- **Which paper:** a Pearson Edexcel International GCSE German **Paper 2 Reading and Writing (4GN1/02)** from the Pearson qualifications website (past papers: question paper and mark scheme for the same series; use Summer 2023, 2024 or 2025 first). **You will use the same paper next session for the Writing section**, so keep it clean and do not look at Section B or the mark scheme yet.
-- Have ready: black pen, marking pen in another colour, a timer, no dictionary, no phone. Put the mark scheme face down in another room.
-- Print or open only **Section A**, if you can; otherwise cover Section B with a sheet of paper.
+- **Paper:** a recent Paper 2 Reading that you have **not** done: the specimen paper for the 2025–2027 syllabus, or May/June or Oct/Nov 2025 (Paper 21, 22 or 23). Papers before 2025 may be laid out differently, so check that yours has **six question groups and 45 marks**. Also get the matching **mark scheme** (same variant number) from your teacher; both are on the Cambridge School Support Hub.
+- Black pen, timer, error log. **No dictionary. Phone in another room.**
+- Keep the mark scheme closed until the timer stops.
 
 ## Exam format reminder
 
-- **Paper 2:** 1 hour 45 minutes, **80 marks, 50%** of the qualification: 40 marks reading and 40 marks writing. You are advised to spend about **52 minutes on each section**.
-- **Section A (Reading) = Q1–Q5, 40 marks:** Q1 multiple choice (6), Q2 multiple-choice gap-fill (6), Q3 multiple choice (8), Q4 literary text, answer in German (10), Q5 authentic text, questions and answers in German (10). Difficulty rises from Q1 to Q5.
-- Today: Section A only. Next session: Section B (Writing: Q6 10, Q7 20, Q8 10).
+- **Paper 2: 1 hour, 45 marks, six question groups.**
+- **G1 (5):** match short statements to pictures. **G2 (5):** match signs/notices to meanings (same context). **G3 (7):** 3-option MCQ on an email/message/postcard/letter. **G4 (12):** longer text (email, letter, blog), **short answers in German**. **G5 (5):** match people's requirements to places/events/services. **G6 (11):** article, **short answers in German**.
+- No dictionary. Texts come from topic areas A–E.
 
 ## How to do it
 
-1. **0–3 min:** set up and read the technique below.
-2. **3–55 min:** Section A under timed conditions (52 minutes): aim for Q1 5 min, Q2 5, Q3 8, Q4 15, Q5 19. Write your finishing time for each question in the margin. Never leave a blank.
-3. **55–58 min:** quick check of ticks (the correct number of boxes in Q3) and of answers in German (short and relevant).
-4. **58–60 min:** if possible, mark Q1–Q3 immediately (objective answers) and record the score; leave the marking of Q4–Q5 for the start of the next session or after your break if time is short.
-5. **Later (15 min):** finish marking with the mark scheme: what was accepted, what extra information lost the mark, and a vocabulary list of the words you did not know.
+1. **0–8 min:** G1 and G2 (10 marks). Don't spend longer: they are the easy matches.
+2. **8–16 min:** G3 (7 marks). Read the questions, then the text, then eliminate the wrong options.
+3. **16–30 min:** G4 (12 marks). Read the questions first, then the text. Underline the sentence that gives each answer.
+4. **30–38 min:** G5 (5 marks). Underline the key need of each person and the key features of each text.
+5. **38–53 min:** G6 (11 marks). Hardest text: read the title, questions, then the article. Short answers.
+6. **53–60 min:** **Check** (7 min): re-read the questions you were least sure about; add answers to any blanks.
+7. **After the timer** (spend the rest of your time): mark with the scheme. For each lost mark write one line: **Q# · my answer · correct answer · cause** (vocabulary, careless, misread question, too long/too short, grammar changing meaning).
+8. Choose **one** habit to change next time.
 
 ## Exam technique for this paper
 
-- **Q1–Q3:** read the question first, find the key word in the text, check negatives and opposites; eliminate wrong options; in gap-fill check gender, case and verb form.
-- **Q3 (tick the correct statements):** tick **exactly** the number stated in the instructions (e.g. eight); check each statement against the **right person**.
-- **Q4 literary text:** often in the **imperfect tense**: *ging, kam, sah, sagte, war, hatte, nahm*. Answers are short; copy only the **relevant** words; don't confuse *wer* (who) and *wo* (where).
-- **Q5 authentic text:** give **short answers in German**; full sentences are not needed. Do not add extra information; change pronouns and verb forms only if needed.
-- **Question words:** *Wer, Was, Wo, Wann, Warum, Wie viele, Wie lange, Welche*.
-- **Unknown words:** cognates, compound nouns (split them), word families, context.
-- **Time:** if you are stuck for more than a minute, skip and return.
+- **Questions first, then the text.** Questions follow the order of the text.
+- **Paraphrase.** The question rarely uses the text's words (*billig* ↔ *günstig*; *gern* ↔ *Spaß machen*). Look for meaning, not matching words.
+- **G1:** the picture detail (time, number, weather) often decides the answer.
+- **G2:** one word (*verboten, gratis, geschlossen, bitte nicht*) often gives the meaning. All five signs share a context (e.g. a swimming pool).
+- **G3 MCQ:** eliminate options that are the opposite or are not mentioned. Check negatives (*kein, nicht, nie*).
+- **G4 and G6 short answers (in German):** write only what is asked. Use words from the text, but make them fit the question. Answer **both parts** if the question asks for two things. Don't add contradictory details. Spelling must be recognisable; grammar errors don't matter unless they change the meaning.
+- **G5 matching:** each person has one or two key requirements; the best fit meets **all** of them. Cross out used letters.
+- **Unknown words:** split compounds (*Hausaufgaben*), look for cognates, watch false friends (*bekommen* = to get; *der Chef* = boss), use context.
+- **No blanks.** A sensible guess can score.
+- **Time:** save more time for G4–G6 than for G1–G2.
 
 ## Checklist while marking
 
-- [ ] Marks: Q1 __/6, Q2 __/6, Q3 __/8, Q4 __/10, Q5 __/10, total __/40.
-- [ ] For each lost mark: ① vocabulary, ② copied too much or extra wrong detail, ③ answered the wrong question word, ④ missed a negative or *obwohl/aber*, ⑤ grammar in gap-fill, ⑥ ran out of time.
-- [ ] Looked at the **mark scheme wording** for Q4–Q5 and compared with your answers.
-- [ ] Wrote all unknown words with article and plural into a list; will learn 10 tomorrow.
-- [ ] Which question was slowest? Plan how to speed it up.
-- [ ] Is the target 6–8 marks lost or fewer? If not, repeat Q4 or Q5 from another series.
+- Marks per group: G1 /5 · G2 /5 · G3 /7 · G4 /12 · G5 /5 · G6 /11. Which lost most?
+- For G4 and G6: did I answer **what was asked** (who/when/why/how many)?
+- Did I give **two details** when asked for two?
+- Were any marks lost by **adding wrong extra information**?
+- Did I misread **negatives** or numbers?
+- Did I **leave blanks**? Why?
+- How many errors came from vocabulary? List the words with article and plural.
+- How many came from not understanding the question word (*Wie lange? Wohin? Wieso?*)?
+- Total: ___ / 45. Target: +4 by fixing the biggest error cause.
 
 ## Quick-fire revision
 
-- Reading = 40 marks, 5 tasks: 6, 6, 8, 10, 10.
-- About 52 minutes for Section A.
-- *Wer?* person; *Wo?* place; *Wann?* time; *Warum?* reason; *Wie viele?* number.
-- *Vollständige Sätze sind nicht nötig.*
-- *obwohl* = although; *sondern* = but rather; *trotzdem* = nevertheless.
-- *bekommen* = get; *Chef* = boss; *Gift* = poison; *eventuell* = possibly.
-- *die Umweltverschmutzung* = Umwelt + Verschmutzung (compound: split it).
-- Separable verbs: prefix at the end (*Der Zug kommt an*).
-- Perfect: *haben/sein* + participle; imperfect in stories: *ging, kam, sah, sagte*.
-- Verb at the end after *weil, dass, wenn, obwohl*.
-- *-los* = without; *un-* = not; *-ung/-heit/-keit* = noun endings.
-- Don't leave blanks; no marks are lost for wrong answers.
-- Q4 and Q5 answers: short, only what the question asks.
+- **Reading = 45 marks, six groups, 1 hour.** Short answers in German in G4 and G6 only.
+- *Wer* who · *Was* what · *Wann* when · *Wo* where · *Wohin* where to · *Woher* where from · *Warum* why · *Wie lange* how long · *Wie viele* how many · *Welche* which.
+- *Eintritt frei* = free entry; *geöffnet/geschlossen* = open/closed; *Ausgang/Eingang* = exit/entrance; *verboten* = forbidden.
+- *bekommen* = to get; *der Chef* = boss; *das Gymnasium* = type of school; *sensibel* = sensitive.
+- *zu* + adjective = too (*zu teuer*); *genug* = enough.
+- *aber, jedoch, trotzdem, obwohl* = contrast words.
+- *früher / jetzt / bald / danach* = time shifts.
+- *erstens, zweitens, außerdem* = listing words.
+- Jobs: *Arzt/Ärztin, Lehrer/in, Verkäufer/in, Koch/Köchin*; Places: *Rathaus, Bahnhof, Schwimmbad, Bücherei*.
+- *seit* + dative = for/since; *vor* + dative = ago.
+- *Ich möchte … werden* = I want to become …; no article before jobs.

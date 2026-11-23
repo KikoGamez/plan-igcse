@@ -2,174 +2,179 @@
  "id": "ger-r1-07",
  "cards": [
   {
-   "f": "die Stadt / das Dorf / auf dem Land",
-   "b": "town / village / in the country (die Stadt, ¨-e; das Dorf, ¨-er)"
+   "f": "der Bahnhof",
+   "b": "station (m)"
   },
   {
-   "f": "die Sehenswürdigkeit",
-   "b": "sight, tourist attraction (plural: -en)"
+   "f": "die Haltestelle",
+   "b": "stop (bus, tram)"
   },
   {
-   "f": "die Unterkunft",
-   "b": "accommodation (die Unterkunft, ¨-e)"
+   "f": "die Verspätung",
+   "b": "delay"
   },
   {
-   "f": "die Jugendherberge",
-   "b": "youth hostel"
+   "f": "halb acht",
+   "b": "7.30 (half past seven)"
   },
   {
-   "f": "Wie komme ich zum Bahnhof?",
-   "b": "How do I get to the station?"
+   "f": "Viertel vor sechs",
+   "b": "5.45 (quarter to six)"
   },
   {
-   "f": "Biegen Sie links ab.",
-   "b": "Turn left."
+   "f": "übermorgen",
+   "b": "the day after tomorrow"
   },
   {
-   "f": "gegenüber von + dative",
-   "b": "opposite (gegenüber vom Bahnhof)"
+   "f": "die Kopfschmerzen (pl.)",
+   "b": "headache"
   },
   {
-   "f": "der Brauch, ¨-e",
-   "b": "custom, tradition"
+   "f": "Mir tut der Bauch weh.",
+   "b": "My stomach hurts."
   },
   {
-   "f": "der Stundenplan",
-   "b": "timetable"
+   "f": "die Geschwister (pl.)",
+   "b": "brothers and sisters, siblings"
   },
   {
-   "f": "das Fach, ¨-er",
-   "b": "school subject"
+   "f": "der Schrank",
+   "b": "wardrobe, cupboard"
   },
   {
-   "f": "das Zeugnis",
-   "b": "school report"
+   "f": "der Kühlschrank",
+   "b": "fridge"
   },
   {
-   "f": "die Klassenfahrt",
-   "b": "class trip lasting several days"
+   "f": "die Hose",
+   "b": "trousers (singular in German)"
   },
   {
-   "f": "das Praktikum",
-   "b": "work experience / placement"
+   "f": "gern, lieber, am liebsten",
+   "b": "like, prefer, like best"
   },
   {
-   "f": "die Ausbildung",
-   "b": "apprenticeship / vocational training"
+   "f": "mit dem Auto / mit der Bahn",
+   "b": "by car / by train: mit + dative"
   },
   {
-   "f": "sich bewerben um",
-   "b": "to apply for (Ich bewerbe mich um eine Stelle.)"
+   "f": "Ich langweile mich.",
+   "b": "I am bored. (reflexive verb)"
   },
   {
-   "f": "das Gehalt, ¨-er",
-   "b": "salary"
+   "f": "das Wohnzimmer",
+   "b": "living room (n)"
   },
   {
-   "f": "Der Gymnasium or das Gymnasium?",
-   "b": "das Gymnasium: grammar-type school leading to the Abitur (not a gym)"
+   "f": "der Nachtisch",
+   "b": "dessert"
   }
  ],
  "gaps": [
   {
-   "s": "Nach der Schule möchte ich ___ studieren.",
+   "s": "Zum Frühstück trinke ich gern ___ (juice).",
    "a": [
-    "Medizin"
+    "Saft",
+    "Apfelsaft",
+    "Orangensaft"
    ]
   },
   {
-   "s": "Mit Berufen verwendet man keinen Artikel: Ich bin ___ (teacher, f.).",
+   "s": "Wir haben heute Mathe. Morgen ist Freitag, also ist heute ___ .",
    "a": [
-    "Lehrerin"
+    "Donnerstag"
    ]
   },
   {
-   "s": "Im Sommer fahren wir ans Meer. Wir übernachten in einer ___ (youth hostel).",
+   "s": "Der Zug hat zehn Minuten ___ (delay).",
    "a": [
-    "Jugendherberge"
+    "Verspätung",
+    "Verspaetung",
+    "Verspatung"
    ]
   },
   {
-   "s": "Das ___ ist die Prüfung, die man nach dem Gymnasium macht, um zu studieren.",
+   "s": "Ich habe Kopf___ , ich nehme eine Tablette. (Kopf + pain)",
    "a": [
-    "Abitur"
+    "schmerzen"
    ]
   },
   {
-   "s": "Gehen Sie ___, dann links. (straight on)",
+   "s": "Meine Mutter hat zwei Brüder; sie sind meine ___ .",
    "a": [
-    "geradeaus"
+    "Onkel"
    ]
   },
   {
-   "s": "Letzten Sommer ___ ich nach Spanien gefahren.",
+   "s": "Im Winter ist es kalt, deshalb trage ich eine warme ___ . (woolly hat, f)",
    "a": [
-    "bin"
+    "Mütze",
+    "Muetze",
+    "Mutze",
+    "Wollmütze",
+    "Wollmuetze",
+    "Wollmutze"
    ]
   },
   {
-   "s": "Ich habe ein ___ in einem Krankenhaus gemacht (work experience).",
+   "s": "Ich esse nie Fleisch, weil ich ___ bin. (vegetarian)",
    "a": [
-    "Praktikum",
-    "Betriebspraktikum"
+    "Vegetarier",
+    "Vegetarierin",
+    "vegetarisch"
    ]
   },
   {
-   "s": "Ich finde Mathe interessant, ___ der Lehrer gut erklärt.",
+   "s": "Ich gehe jeden Samstag mit meinen Freunden ins ___ . (cinema)",
    "a": [
-    "weil",
-    "da"
-   ]
-  },
-  {
-   "s": "In Deutschland ist es nicht erlaubt, ein Handy im Unterricht zu ___ (benutzen).",
-   "a": [
-    "benutzen",
-    "nutzen"
+    "Kino"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the advantages and disadvantages of living in a town (in English or simple German).",
-   "model": "Advantages: lots to do, good transport, shops. Disadvantages: noise, traffic, pollution, expensive housing.",
+   "q": "Describe your best friend in German: looks and character, with one opinion.",
+   "model": "Meine beste Freundin heißt Lena. Sie hat lange, blonde Haare und ist sehr lustig, aber manchmal laut. Ich mag sie, weil sie immer nett ist.",
    "points": [
-    "one advantage",
-    "one disadvantage",
-    "a reason or detail"
+    "name/looks",
+    "character adjectives",
+    "opinion with weil, verb at end"
    ]
   },
   {
-   "q": "Write two German sentences about your future plans after school.",
-   "model": "Nach der Schule werde ich studieren. Ich möchte Ingenieurin werden, weil ich Mathe mag.",
+   "q": "Say in German what you usually eat and drink for breakfast and lunch.",
+   "model": "Zum Frühstück esse ich Brot mit Käse und trinke Tee. Mittags esse ich oft Nudeln mit Gemüse.",
    "points": [
-    "future with werden or möchte",
-    "job without article, infinitive at end",
-    "reason with weil"
+    "two meals",
+    "food and drink words",
+    "correct verbs (esse, trinke)"
    ]
   },
   {
-   "q": "Your friend asks where the tourist office is. Give directions in German (two sentences).",
-   "model": "Gehen Sie geradeaus und biegen Sie an der Ampel rechts ab. Das Touristeninformationsbüro ist gegenüber vom Rathaus.",
+   "q": "You have a cold. Say what is wrong, and that you must stay in bed.",
+   "model": "Ich bin krank. Ich habe Fieber und Husten und muss im Bett bleiben.",
    "points": [
-    "imperative Sie form",
-    "two direction phrases"
+    "two symptoms",
+    "muss + infinitive at the end",
+    "correct verb forms"
    ]
   },
   {
-   "q": "Name three school rules in German.",
-   "model": "Man darf kein Handy benutzen. Man muss pünktlich sein. Rauchen ist verboten.",
+   "q": "Describe your bedroom: three items of furniture and where they are.",
+   "model": "In meinem Schlafzimmer steht ein Bett neben dem Fenster. Der Schreibtisch ist vor dem Regal, und der Schrank ist links.",
    "points": [
-    "three rules",
-    "correct modal verbs or verboten/erlaubt"
+    "three items with correct gender",
+    "prepositions with dative",
+    "complete sentences"
    ]
   },
   {
-   "q": "Describe a work experience placement in two German sentences (perfect tense).",
-   "model": "Ich habe ein Praktikum in einem Büro gemacht. Es hat mir gut gefallen, weil die Kollegen nett waren.",
+   "q": "Say how you get to school and say two hobbies you like, with 'gern' and 'lieber'.",
+   "model": "Ich fahre mit dem Bus zur Schule. Ich schwimme gern, aber ich spiele lieber Fußball.",
    "points": [
-    "perfect tense",
-    "opinion with reason"
+    "mit dem Bus",
+    "gern / lieber used correctly",
+    "word order verb second"
    ]
   }
  ]

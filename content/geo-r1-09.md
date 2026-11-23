@@ -1,150 +1,157 @@
-# Urban environments: urbanisation and change
+# Development and globalisation
 
-> **In the exam:** Paper 2 (Human geography), Section A, Question 3 "Urban environments" (25 marks; you answer two of the three Section A questions), and Section B if your fieldwork was urban. Expect: multiple-choice (identify a megacity, a reason for developing a brownfield site) (1), "define counter-urbanisation" (1), "suggest one factor that has affected the land uses shown" on a map (2), "explain two ways urbanisation causes housing challenges" (4), "suggest one cause of the percentage of informal employment shown" (3) and an 8-mark "Analyse the reasons for rates of past and projected urbanisation" using a graph or map.
+> **In the exam:** Theme 3 (Economic development) on **Paper 1 Geographical Themes** (1 h 45 min, 75 marks; you answer one 25-mark question per theme). Expect "define development" [1–2], "describe the pattern on a map/graph of an indicator" [3], "explain why GNI per capita is not a good measure on its own" [3–4], "explain the causes of uneven development" [4–6], and a closing "evaluate / explain" of 6–8 marks about trade, aid or transnational companies. Some Theme 3 questions use a table of data, so also practise reading graphs for **Paper 2**.
 
 ## What you need to know
 
-- Contrasting **trends in urbanisation** over the last 50 years in different parts of the world, including **suburbanisation** and **counter-urbanisation**.
-- Factors affecting the **rate of urbanisation** and the emergence of **megacities**.
-- **Problems of rapid urbanisation**: congestion, transport, employment, crime and environmental issues.
-- Factors affecting **urban land use patterns**: locational needs, accessibility and land values.
-- Using maps, photographs and satellite images to investigate urban change.
-- Urban case studies (a developed country and a developing or emerging country) are needed: use the topic after this one for challenges and sustainability.
+- **Development** and the **indicators** used to measure it: economic, social and composite (HDI).
+- How to **classify** countries and **describe** the global pattern of development.
+- **Causes** and **consequences** of uneven development (within and between countries).
+- **International trade**, **interdependence** and **globalisation**.
+- The role, advantages and disadvantages of **transnational corporations (TNCs)**.
+- Know a named example of a TNC or trade link.
 
 ## Notes
 
-### Urbanisation: the basics
+### What is development?
 
-**Urbanisation** is an increase in the **proportion** of a country's population living in towns and cities. (Urban growth is the increase in the number of people in cities.) In 2007 for the first time more than half of the world's people lived in urban areas; the share is now about 57% and is predicted to reach around two-thirds by 2050. Almost all of the growth is in Africa and Asia.
+**Development** is the progress of a country in terms of **economic growth, use of technology and improvement in people's welfare** (health, education, living standards). More developed countries are often called **HICs** (high income), others **MICs** (middle income) or **LICs** (low income). The terms are about the average and can hide a lot of variation.
 
-A **megacity** is a city with more than **10 million** people. There are over 30 today, most in Asia (Tokyo, Delhi, Shanghai, Dhaka, Mumbai, Beijing, Karachi, Lagos, Cairo, Mexico City, São Paulo). Lahore (11.1 million) was a correct answer in the 2024 paper; Bogotá (7.4 million) was not. Most new megacities are in poorer and emerging countries.
+### Indicators of development
 
-### Contrasting trends
-
-| | High-income countries (HICs) e.g. UK, USA, Japan | Emerging and low-income countries (NEEs and LICs) e.g. India, Nigeria, China, Brazil |
+| Type | Indicator | A more developed country has |
 |---|---|---|
-| When | urbanised during the Industrial Revolution (1800s) | rapid urbanisation since about 1950 and still rising (China from about 20% urban in 1980 to over 60%) |
-| Now | already 80%+ urban; growth is slow; **suburbanisation** and **counter-urbanisation** | rate of urbanisation fast; **megacities** growing |
-| Main cause | industrialisation then services | **rural-urban migration** plus high natural increase |
+| **Economic** | **GNI per capita** (gross national income per person, in US$) | Higher GNI per head |
+| | Employment structure: % in primary, secondary, tertiary | Few in primary (farming), many in tertiary (services) |
+| **Social** | **Life expectancy** | Higher |
+| | **Infant mortality** (deaths of under 1s per 1000 births) | Lower |
+| | **Adult literacy rate** (%) | Higher |
+| | **People per doctor / doctors per 1000** | More doctors per person |
+| | **Access to clean water, electricity, internet** (%) | Higher |
+| | **Birth rate** | Lower (usually) |
+| **Composite** | **Human Development Index (HDI)** | Score close to 1 |
 
-- **Suburbanisation**: movement of people from the inner city to the edges (suburbs), with more car use and commuting.
-- **Counter-urbanisation**: movement of people **out of cities into rural areas** beyond the city, usually because of congestion, pollution, house prices, the wish for a better quality of life, and the ability to commute or work from home (broadband, remote work).
-- **Urbanisation** also includes **re-urbanisation** (people moving back to inner areas) in some HICs, but you need suburbanisation and counter-urbanisation for the spec.
+**HDI** combines three measures into one number from **0 to 1**:
+1. **Health:** life expectancy at birth.
+2. **Education:** years of schooling (mean and expected).
+3. **Wealth:** GNI per capita.
 
-### Why cities grow fast: factors affecting the rate of urbanisation
+Roughly: **very high** 0.8 and over; **high** 0.7–0.79; **medium** 0.55–0.69; **low** under 0.55.
 
-**Push factors (from the countryside):** poverty, lack of jobs and services, farm mechanisation, land shortages, **drought, floods or conflict**, poor health care and schools.
+**Why composite indicators are better:** one measure (like GNI per capita) is an **average** and hides **inequality**; it ignores quality of life, health and education. HDI covers more, but is still an average and does not show equality, freedom or environment.
 
-**Pull factors (to the city):** jobs and higher wages (formal and informal), better schools and hospitals, a wider choice of services, family already living there, and the hope of a better life.
+### The global pattern
 
-**Natural increase:** young migrants have children, so cities grow from births as well; death rates are low because of better health care.
+HICs (the "North": most of Europe, North America, Japan, Australia) have high HDI. The lowest HDI countries are mostly in **sub-Saharan Africa** and parts of South Asia. Many **MICs / newly industrialised countries (NICs)** in Asia and Latin America (e.g. China, India, Brazil) are developing quickly. Describe with places and values, and mention **anomalies** (e.g. oil-rich countries with high GNI but weaker social indicators).
 
-Other factors: **industrialisation and government investment** (special economic zones, new transport), globalisation and TNCs, and the lack of controls on settlement. Megacities emerge where these combine: large populations, a port or capital function, and strong economic growth. In HICs migration is mainly **international** and cities grow slowly.
+### Causes of uneven development
 
-### Problems of rapid urbanisation
-
-| Problem | What happens |
+| Type | Examples |
 |---|---|
-| **Congestion** | too many vehicles for too few roads; slow journeys, noise and pollution |
-| **Transport** | public transport cannot keep up; informal buses, long commutes, unsafe roads |
-| **Employment** | not enough formal jobs; **informal** employment, low pay, unemployment and underemployment |
-| **Housing** | shortage of homes; **squatter settlements** (informal housing) grow without water, sanitation or electricity; overcrowding |
-| **Crime** | poverty, inequality and weak policing increase theft and violence; unlit, crowded areas |
-| **Environmental issues** | air pollution (vehicles, factories), water pollution (waste in rivers), waste not collected, loss of green space, urban sprawl onto farmland |
+| **Physical** | **Landlocked** location, poor climate or soils, natural hazards (droughts, earthquakes, cyclones), few natural resources, disease (e.g. malaria) |
+| **Economic** | Dependence on **low-value primary goods**; **debt** repayments; poor infrastructure; lack of investment; unfair terms of trade |
+| **Historical / political** | **Colonial history** (resources exported, borders drawn badly); **war and conflict**; **corruption**, unstable government |
+| **Social** | Low education, poor health, inequality between men and women |
 
-### Urban land use patterns
+**Consequences:** people in poorer places have shorter lives, poorer health care and education, **migrate** to richer places, and the gap can widen ("vicious circle of poverty"). Within countries there is also **inequality**, e.g. **rural–urban**: cities and coastal regions richer.
 
-Land use in a city is the pattern of **where** different activities are. It depends on:
+### Trade and interdependence
 
-- **Locational needs**: shops need customers; factories need space and roads; housing needs quiet and services.
-- **Accessibility**: the **CBD** (central business district) is the most accessible point for roads, trains and buses, so shops, offices and banks locate there.
-- **Land values**: land is most expensive in the centre because competition is highest. Only activities that make high profit per square metre (shops, offices) can afford it; housing and industry occupy cheaper land further out.
+- **Trade:** buying (imports) and selling (exports) goods and services between countries.
+- LICs often export **primary products** (e.g. coffee, copper), which have **low and unstable prices**; HICs export **manufactured goods**, which are worth more. This is one reason the gap persists.
+- **Trade blocs and agreements** (e.g. the EU) reduce trade barriers (tariffs, quotas) among members.
+- **Interdependence:** countries rely on each other: one supplies raw materials, labour or markets, another provides technology, capital and goods.
+- **Aid** (money, food, skills) can help development, but it can create dependence and be tied to conditions.
 
-| Zone | Typical land use | Why |
-|---|---|---|
-| CBD | shops, offices, banks, entertainment; tall buildings | highest accessibility and land value |
-| Inner city | older terraced housing, small factories, redevelopment | close to old industry; many areas run-down then regenerated |
-| Suburbs | larger houses, gardens, schools, parks | cheaper land, more space, commuter links |
-| **Rural-urban fringe** | retail and business parks, golf courses, new estates, airports | cheap land, space, road access |
+### Globalisation
 
-In **developing cities** the pattern can differ: wealthy areas near the centre and **squatter settlements** on the edges or on poor land (steep hillsides, floodplains, near rubbish dumps) where no one else wants to live. Industry may be in zones along main roads.
+**Globalisation** is the increasing connection of countries through trade, movement of people, investment, communications and culture.
 
-### Interpreting urban maps and images (skills)
+**Drivers:** cheaper, faster **transport** (container ships, air freight), **ICT** (internet, mobile), **trade agreements**, and TNCs.
 
-- On a **land-use map or satellite image**, identify the CBD by dense buildings and a road/rail hub; green areas are parks; low density areas indicate suburbs.
-- Use **photographs** for evidence of change: new apartment blocks, abandoned buildings, informal housing.
-- Use data: choropleth maps of population density, graphs of urban population over time.
+| Advantages | Disadvantages |
+|---|---|
+| Cheaper goods and greater choice | Jobs lost in HICs when industry relocates |
+| Jobs, investment and technology to poorer countries | Poor pay and working conditions in some places |
+| Growth of trade and income | Local firms and cultures can be harmed; inequality can widen |
+| Sharing of ideas | Greater use of fossil fuels, pollution; countries become reliant on others |
+
+### Transnational corporations (TNCs)
+
+A **TNC** is a company operating in more than one country (e.g. Apple, Nike, Toyota, Coca-Cola, Samsung). The **head office and research** are usually in an HIC; **factories** are placed where labour is cheaper (e.g. Vietnam, China, Bangladesh).
+
+| Advantages to host country | Disadvantages to host country |
+|---|---|
+| Jobs and wages; training | Low wages, long hours, poor safety in some factories |
+| Taxes and foreign money | Profits often sent abroad; TNC may move if costs rise |
+| Better roads, power and technology; local suppliers grow | Pollution; loss of local businesses |
+
+A TNC may also gain by cutting production costs, accessing new markets and lowering tax.
 
 ## Key terms and definitions
 
-- **Urbanisation**: an increase in the proportion of people living in towns and cities.
-- **Megacity**: a city with a population of over 10 million people.
-- **Suburbanisation**: the movement of people from the inner city to the suburbs on the edge of the urban area.
-- **Counter-urbanisation**: the movement of people from urban areas to rural areas.
-- **Rural-urban migration**: the movement of people from the countryside to cities.
-- **Push factor / pull factor**: reason that forces people to leave a place / attracts people to a place.
-- **Natural increase**: birth rate minus death rate.
-- **CBD**: central business district, the commercial heart of a city.
-- **Land value**: the price of land, highest where accessibility is best.
-- **Squatter settlement**: an area of housing built illegally, without planning permission, services or tenure, often on land that is not owned by the residents.
-- **Rural-urban fringe**: the zone where the built-up area of a city meets the countryside.
-- **Urban sprawl**: the uncontrolled spread of a city into the surrounding countryside.
+- **Development:** the progress of a country in terms of economic growth, use of technology and improvement in welfare.
+- **GNI per capita:** the total income of a country's people (and businesses) divided by its population.
+- **Human Development Index (HDI):** a composite measure of life expectancy, education and income, scored 0 to 1.
+- **Infant mortality rate:** the number of children who die before age one for every 1000 live births.
+- **Globalisation:** the growing interconnection of countries through trade, investment, communication and the movement of people.
+- **Transnational corporation (TNC):** a large company that operates in several countries.
+- **Interdependence:** when countries rely on each other for goods, services, resources or markets.
+- **Primary product:** a raw material produced from farming, fishing, forestry or mining.
+- **Trade bloc:** a group of countries which agree to trade freely, usually with no tariffs between them.
 
 ## Worked examples
 
-**1. Define the term counter-urbanisation. [1]**
+**1. Explain why HDI is a better measure of development than GNI per capita alone. [3]**
 
-The movement of people from cities to rural areas (or small settlements outside the city).
+GNI per capita is an average and measures only wealth (1). HDI combines income with life expectancy and education, so it reflects people's health and learning as well as money (1). This gives a fuller picture of living standards (1).
 
-**2. Explain two ways urbanisation can sometimes cause housing challenges in cities that are growing rapidly. [4]**
+**2. Explain two causes of uneven development between countries. [4]**
 
-Migrants arrive faster than houses can be built (1), so there is a shortage and house prices and rents rise (1). Many poor migrants cannot afford formal housing, so they build squatter settlements (1) that lack clean water, sewage systems and electricity, creating health problems (1).
+Landlocked location makes trade costly because goods must cross other countries (1), which holds back growth (1). Dependence on primary products such as coffee, whose prices are low and unstable (1), means incomes are unreliable and little money is available to invest (1). (Other valid causes: conflict, colonial history, disease, debt.)
 
-**3. Suggest one factor that has affected the land uses shown on a map of a city. [2]**
+**3. Evaluate the impacts of a TNC on a host country. [6]**
 
-Accessibility: shops and offices are clustered where roads meet in the centre (1), because that is the point which the most customers can reach (1).
-
-**4. Analyse the reasons for rates of past and projected urbanisation (8 marks, resource: graph of % urban population by region, 1950 to 2050).**
-
-*Structure:* (1) describe the graph with data: Europe/North America already above 70% by 2000 and levelling; Africa/Asia climbing steeply, from under 20% in 1950 to maybe 50% by 2050. (2) Reasons for fast growth in Africa and Asia: rural-urban migration (push: poverty, mechanisation, conflict; pull: jobs, services), natural increase, industrialisation, government investment. (3) Reasons for slow growth in HICs: already highly urbanised, counter-urbanisation and suburbanisation spread people out. (4) Link to the resource at least twice, and finish with a short judgement on the most important cause.
+A TNC such as Nike in Vietnam creates thousands of jobs (1), paying wages which raise incomes and help workers support families (1). It brings foreign investment and taxes (1). However, wages can be low and conditions poor (1), profits go back to the home country (1), and the company may move if costs rise (1). Overall: benefits are real but depend on regulation, fair wages and the use of local suppliers (conclusion, 1).
 
 ## Common mistakes
 
-- Mixing up **urbanisation** (rise in the % in cities) with **urban growth** (more people in cities) and with **suburbanisation**.
-- Saying a megacity has "over a million" people: it is **over 10 million**.
-- Writing only "jobs" as a pull factor. Add detail and a place: "higher wages in factories in Shenzhen".
-- Describing problems with no link to rapid growth: always say **why** it happens (too many people, too few services).
-- Writing "land is expensive" without explaining that **accessibility** makes the CBD valuable.
-- Forgetting to quote the resource in an 8-mark question.
+- Using "wealth" and "development" as the same thing. Development includes **health and education**.
+- Describing GNI per capita as how much **each person** earns. It is an **average**, it hides inequality.
+- Forgetting HDI has **three** parts (health, education, income).
+- Saying TNCs are simply "good" or "bad". Give **both sides** and a judgement.
+- Using "third world" or "first world". Use **LICs, MICs, HICs** (or "less/more developed").
+- Not **quoting data** when describing a table or map: name countries and numbers.
+- Vague "trade helps". Say what is traded, who gains and why.
 
 ## Practice questions
 
-1. Define the terms urbanisation and megacity. [2]
-2. Identify which of these is a megacity: 7.4 million, 5.4 million, 11.1 million, 6.7 million. [1]
-3. Explain the difference between suburbanisation and counter-urbanisation. [2]
-4. Explain two push factors and two pull factors for rural-urban migration. [4]
-5. Explain why most urban growth is now in low- and middle-income countries. [3]
-6. Describe two problems caused by rapid urbanisation. [4]
-7. Suggest why shops and offices locate in the CBD rather than at the edge of a city. [3]
-8. Explain one reason why squatter settlements often develop on land at the edge or on steep slopes. [2]
+1. Define "development". [2]
+2. Name the three components of the HDI. [3]
+3. State two social indicators of development. [2]
+4. A country has a GNI per capita of $1,200 and a life expectancy of 56. Say what this suggests about its development. [2]
+5. Explain why a landlocked country may find it hard to develop. [3]
+6. Give two reasons why exporting primary products keeps a country poor. [2]
+7. Describe two advantages of TNCs for a host country. [2]
+8. Explain one disadvantage of globalisation. [3]
 
 <details><summary>Answers</summary>
 
-1. Urbanisation: an increase in the proportion of people living in towns and cities. Megacity: a city with over 10 million people.
-2. 11.1 million.
-3. Suburbanisation: people move from the inner city to the edges of the city (1). Counter-urbanisation: people move out of the city into rural areas (1).
-4. Push (any two): lack of jobs/poverty, farm mechanisation, drought/floods/conflict, few services. Pull (any two): jobs/higher wages, better schools/hospitals, family there. 1 mark each, with detail.
-5. High-income countries are already highly urbanised (1); low- and middle-income countries have large rural populations still moving to cities (1) and high natural increase, plus industrial growth (1).
-6. Any two with explanation: congestion (too many vehicles, slow, polluted); housing shortage (squatter settlements); unemployment/informal jobs; crime; air/water pollution. 2 marks each (problem + development).
-7. Most accessible (roads and public transport meet) so most customers (1); high land values but high profits per square metre (1); shops and offices benefit from being close together (1).
-8. Land is cheap or not wanted and owners do not use it (1); poor migrants cannot afford formal land/housing so they occupy it illegally (1).
+1. Progress of a country in terms of economic growth, use of technology (1) and improvement in people's welfare (1).
+2. Life expectancy / health (1); education / years of schooling (1); GNI per capita / income (1).
+3. Any two: life expectancy, infant mortality, literacy rate, doctors per 1000 people, access to clean water (1 each).
+4. Low income (1) and low life expectancy suggest a low-income, less developed country (1).
+5. No direct access to the sea or ports (1), so trade has to cross other countries (1), making transport slow and costly, which reduces exports and growth (1).
+6. Prices are low and unstable (1); processed or manufactured goods earn more, so the country misses out on higher value (1).
+7. Any two: jobs and wages (1); new technology and skills (1); taxes and foreign investment (1); better infrastructure (1).
+8. Example: jobs move from HICs to cheaper countries (1), so factories close and workers lose jobs (1), causing unemployment and inequality in the HIC (1). (Or: poor conditions; local firms harmed; pollution.)
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Read urbanisation basics and the HIC v LIC/NEE table; draw a sketch of urban zones with land values.
-- **10 min** – Learn push/pull factors and the six urban problems; add one place example for each.
-- **15 min** – Write an answer to worked example 4 using any graph from your notes (describe, explain, resource, judgement).
-- **20 min** – Practice questions, then check; fix any answer without a reason.
-- **5 min** – Error log.
+- **0–12 min:** Learn the indicators table and the three parts of HDI. Write the definitions.
+- **12–27 min:** Learn causes (physical, economic, historical) and consequences of uneven development.
+- **27–40 min:** Learn trade, interdependence and globalisation with advantages and disadvantages.
+- **40–50 min:** Choose a TNC example (such as Nike or Apple) and write three facts. Do worked example 3 without notes.
+- **50–60 min:** Practice questions and the quiz.

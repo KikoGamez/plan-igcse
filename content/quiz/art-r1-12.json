@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How long is the sustained focus period in the Externally-set Assignment?",
+   "q": "How long is the supervised test for Component 2 (Externally Set Assignment)?",
    "options": [
-    "5 hours",
-    "20 hours",
-    "10 hours",
-    "8 hours"
-   ],
-   "answer": 2,
-   "why": "The spec states a 10-hour period of sustained focus under exam conditions."
-  },
-  {
-   "type": "mcq",
-   "q": "When is the assignment released each year?",
-   "options": [
-    "2 January",
-    "1 September",
-    "15 March",
-    "1 May"
-   ],
-   "answer": 0,
-   "why": "Pearson releases it on 2 January each year."
-  },
-  {
-   "type": "mcq",
-   "q": "What must be submitted for Component 2?",
-   "options": [
-    "One sketchbook of any size",
-    "Ten A4 sheets",
-    "Only a final outcome",
-    "Three A2 sheets of supporting studies and one A2 sheet of final outcome(s)"
+    "2 hours",
+    "4 hours",
+    "6 hours",
+    "8 hours in total"
    ],
    "answer": 3,
-   "why": "Three sheets of supporting studies and one sheet of final outcome(s), max A2."
+   "why": "The final outcome is produced during a supervised test of 8 hours' total duration."
+  },
+  {
+   "type": "mcq",
+   "q": "What is Component 2 worth?",
+   "options": [
+    "50%, 100 marks",
+    "25% of the qualification",
+    "75%",
+    "40 marks"
+   ],
+   "answer": 0,
+   "why": "Component 2 is 100 marks and 50% of the qualification."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement is true about supporting studies?",
+   "options": [
+    "They are made after the test",
+    "They are not marked",
+    "They must be available to you during the test",
+    "They must repeat Component 1"
+   ],
+   "answer": 2,
+   "why": "Supporting studies are made in the preparation period and must be available during the supervised test."
   },
   {
    "type": "short",
-   "q": "Give two pieces of advice for using the 10 hours well.",
-   "model": "Have a clear design before starting and do the focal point first, then leave time at the end to review and finish.",
+   "q": "Explain the difference between supporting studies and the final outcome in Component 2.",
+   "model": "Supporting studies are made in the preparation period and show recording, research, experiments and development. The final outcome is made in the 8-hour supervised test. Both are marked together.",
    "points": [
-    "clear plan/design in advance",
-    "prioritise focal point or leave review time"
+    "supporting studies in preparation period",
+    "final outcome in 8-hour supervised test",
+    "marked together"
    ]
   }
  ]

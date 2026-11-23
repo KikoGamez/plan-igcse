@@ -1,6 +1,6 @@
 # Grammar: present tense, irregular and separable verbs
 
-> **In the exam:** The present tense is the base of everything you write and say. In **Paper 2 Q8** (grammar gap-fill) you must put verbs in the right form; in **Q6/Q7** and in **Speaking** wrong forms of *sein*, *haben*, and stem-changing verbs (*er fährt*, *sie liest*) are the errors examiners see most. In **Listening and Reading** you need to recognise separable verbs split across a sentence (*Der Zug fährt um 8 Uhr ab*).
+> **In the exam:** Cambridge IGCSE German 0525 has no separate grammar paper: accuracy is rewarded everywhere. In **Paper 3 Speaking** the *Quality of Language* mark (out of 15, over your two topic conversations) and each role-play answer (2 marks: accurate language, minor errors allowed) reward correct verb forms. In **Paper 4 Writing** Q2 (about 80–90 words, 12 marks) and Q3 (about 130–140 words, 28 marks) the examiner looks for accurate verbs from the syllabus list. In **Papers 1 and 2** you must recognise forms (*er fährt*, a separable verb split across a sentence) to know who does what. Wrong forms of *sein*, *haben* and stem-changing verbs are the errors examiners see most.
 
 ## What you need to know
 
@@ -9,6 +9,7 @@
 - Strong (stem-changing) verbs: e→i, e→ie, a→ä, au→äu.
 - **Separable** and inseparable verbs; position of the prefix.
 - **Reflexive** verbs and the reflexive pronoun (accusative and dative).
+- Impersonal verbs (*es gibt, es gefällt mir*), the three modes of address (*du, ihr, Sie*) and the imperative.
 - The present tense used with *seit* and for the near future.
 
 ## Notes
@@ -106,6 +107,12 @@ The action goes back to the subject. The pronoun changes with the person:
 - With an inversion the pronoun stays near the verb: *Am Wochenende **treffe ich mich** mit Freunden.*
 - Reflexive + separable: *Ich **ziehe mich an*** (anziehen), *Er **zieht sich um***, *Wir **sehen uns** den Film **an***.
 
+### Impersonal verbs, modes of address and the imperative
+
+- **Impersonal verbs** use *es*: *Es gibt einen Park in der Nähe* (there is a park nearby; *es gibt* + **accusative**), *Es regnet*, *Es geht mir gut*, *Es gefällt mir hier* (I like it here), *Es tut mir leid*.
+- **Modes of address:** **du** (one friend, a child, family), **ihr** (several friends), **Sie** (one or more adults you don't know well; always a capital S). The verb form follows: *Kommst du? Kommt ihr? Kommen Sie?*
+- **Imperative:** *du*: stem only (*Komm! Mach das Fenster zu!*); stem-changing e → i/ie verbs keep the change (*Lies! Gib! Nimm! Sprich!*), but a → ä verbs do not (*Fahr!*); *ihr*: *Kommt! Lest!*; *Sie*: *Kommen Sie! Lesen Sie!* (verb first, then *Sie*). *Seid* ruhig! / *Sei* ruhig! / *Seien Sie* ruhig! The **infinitive** is also used for signs and instructions: *Nicht rauchen! Bitte anschnallen!*
+
 ### Using the present tense
 
 - Present, as in English: *Ich lerne Deutsch.* Both "I learn" and "I am learning".
@@ -121,10 +128,11 @@ The action goes back to the subject. The pronoun changes with the person:
 - **Reflexive verb:** a verb used with a reflexive pronoun referring back to the subject.
 - **Reflexive pronoun:** *mich, dich, sich, uns, euch, sich* (accusative).
 - **Imperative:** the command form.
+- **Impersonal verb:** a verb used with *es*, e.g. *es gibt, es regnet*.
 
 ## Worked examples
 
-**1. Q8-style.** *Mein Bruder (fahren) jeden Tag mit dem Bus zur Schule. Er (aufstehen) um halb sieben.* → **fährt** (a → ä, *er*); **steht … auf** (separable: the prefix goes to the end). If the gap shows only the verb in brackets you write *steht ... auf* in a full sentence. Two marks for correct stem change and correct separation.
+**1. Gap-fill (verb in brackets).** *Mein Bruder (fahren) jeden Tag mit dem Bus zur Schule. Er (aufstehen) um halb sieben.* → **fährt** (a → ä, *er*); **steht … auf** (separable: the prefix goes to the end). If the gap shows only the verb in brackets you write *steht ... auf* in a full sentence. Two marks for correct stem change and correct separation.
 
 **2. Translate.** *I am meeting my friends in town and we are going to the cinema.* → *Ich treffe mich mit meinen Freunden in der Stadt und wir gehen ins Kino.* Marks: *treffe mich* (reflexive), *mit* + dative *meinen Freunden*, *gehen* (plural), *ins* = in das.
 

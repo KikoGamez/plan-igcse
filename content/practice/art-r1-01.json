@@ -2,162 +2,160 @@
  "id": "art-r1-01",
  "cards": [
   {
-   "f": "AO1",
-   "b": "Develop ideas through investigations, demonstrating critical understanding of sources."
-  },
-  {
-   "f": "AO2",
-   "b": "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes."
-  },
-  {
-   "f": "AO3",
-   "b": "Record ideas, observations and insights relevant to intentions as work progresses."
-  },
-  {
-   "f": "AO4",
-   "b": "Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language."
-  },
-  {
    "f": "Component 1",
-   "b": "Personal Portfolio. One project from the course. 72 marks, 50%."
+   "b": "Coursework: coursework studies plus final outcome on a theme. 100 marks, 50%."
   },
   {
    "f": "Component 2",
-   "b": "Externally Set Assignment: Pearson theme, preparatory studies, then a 10-hour supervised exam. 72 marks, 50%."
+   "b": "Externally Set Assignment: supporting studies plus final outcome from a Cambridge starting point. 100 marks, 50%."
   },
   {
-   "f": "Marks per AO",
-   "b": "Each AO is marked out of 18. Four AOs make 72 marks per component."
+   "f": "Supervised test length",
+   "b": "8 hours in total for the Component 2 final outcome."
   },
   {
-   "f": "Mark band 3 descriptor",
-   "b": "Emerging competent ability; generally adequate but safe (7–9 marks per AO)."
+   "f": "AO1 Record",
+   "b": "Record ideas, observations and insights relevant to intentions as work progresses."
   },
   {
-   "f": "Mark band 6 descriptor",
-   "b": "Exceptional ability: in depth, perceptive and accomplished throughout (16–18 marks per AO)."
+   "f": "AO2 Explore",
+   "b": "Explore and select appropriate resources, media, materials, techniques and processes."
   },
   {
-   "f": "Preparatory studies",
-   "b": "Development work before the final piece. In Component 2, mounted on three A2 sheets, one side, no overlapping. Essential: marks are lost if missing."
+   "f": "AO3 Develop",
+   "b": "Develop ideas through investigation, demonstrating critical understanding."
   },
   {
-   "f": "Who marks the work?",
-   "b": "Pearson examiners, using one assessment grid. Your teacher does not mark it."
+   "f": "AO4 Present",
+   "b": "Present a personal and coherent response that realises intentions and demonstrates an understanding of visual language."
   },
   {
-   "f": "Is written annotation required?",
-   "b": "No. If used, it must support the visual work, not replace it, and use correct subject language."
+   "f": "AO weighting",
+   "b": "Each AO is 25 marks: 25% of the qualification and of each component."
   },
   {
-   "f": "Endorsed titles",
-   "b": "Fine Art, Graphic Communication, Photography, Textile Design, Three-dimensional Design."
+   "f": "Mark bands (per AO)",
+   "b": "1–5 limited, 6–10 satisfactory, 11–15 competent, 16–20 confident, 21–25 excellent."
   },
   {
-   "f": "What help may a teacher give in the 10-hour exam?",
-   "b": "Technical help only (space, materials, equipment). No direction or demonstration."
+   "f": "Five areas of study",
+   "b": "Painting and related media, graphic communication, three-dimensional design, textiles and fashion, photography."
   },
   {
-   "f": "Why is 'ideas consolidated too early' a weakness?",
-   "b": "You stopped exploring too soon, so there are few experiments, little review and the idea is not fully realised (AO2)."
+   "f": "Digital portfolio",
+   "b": "All work, even paintings or sculpture, is photographed or scanned and submitted online."
+  },
+  {
+   "f": "Can I reuse work?",
+   "b": "No. Work for Component 2 must not be the same as work submitted for Component 1."
+  },
+  {
+   "f": "Supporting studies",
+   "b": "Preparation work for Component 2, available to you during the supervised test."
+  },
+  {
+   "f": "Is annotation compulsory?",
+   "b": "No, but if used it must be relevant, purposeful and written in English."
+  },
+  {
+   "f": "What are intentions?",
+   "b": "What you are trying to say or achieve; the examiner should see them throughout your work."
   }
  ],
  "gaps": [
   {
-   "s": "The Personal Portfolio is Component ___.",
+   "s": "The Externally Set Assignment final outcome is made in a supervised test lasting ___ hours.",
    "a": [
-    "1",
-    "one"
+    "8",
+    "eight"
    ]
   },
   {
-   "s": "Each assessment objective is marked out of ___.",
+   "s": "Component 1 is worth ___ percent of the qualification.",
    "a": [
-    "18",
-    "eighteen"
+    "50",
+    "50%",
+    "fifty"
    ]
   },
   {
-   "s": "The externally set assignment exam lasts ___ hours.",
+   "s": "Each assessment objective is worth ___ marks per component.",
    "a": [
-    "10",
-    "ten"
+    "25",
+    "twenty-five",
+    "twenty five"
    ]
   },
   {
-   "s": "Recording from observation is assessed in AO___.",
+   "s": "AO1 is called ___.",
    "a": [
-    "3",
-    "three"
+    "record"
    ]
   },
   {
-   "s": "Experimenting with media is assessed in AO___.",
+   "s": "AO3 asks you to develop ideas through investigation, demonstrating critical ___.",
    "a": [
-    "2",
-    "two"
+    "understanding"
    ]
   },
   {
-   "s": "Preparatory studies are mounted on three sheets of ___ paper.",
+   "s": "The top mark band for each AO is 21 to ___.",
    "a": [
-    "A2"
+    "25"
    ]
   },
   {
-   "s": "Each component is worth ___ marks.",
+   "s": "Preparation work for Component 2 is called supporting ___.",
    "a": [
-    "72",
-    "seventy-two",
-    "seventy two"
+    "studies"
    ]
   },
   {
-   "s": "Mark band 3 is described as emerging ___ ability.",
+   "s": "All work is submitted as a ___ portfolio.",
    "a": [
-    "competent"
+    "digital"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe what AO1 rewards.",
-   "model": "It rewards developing ideas through investigating real sources, such as artists, and showing critical understanding of why they matter to your own idea.",
+   "q": "Describe the difference between Component 1 and Component 2.",
+   "model": "Component 1 is a project on a theme set by the teacher (or agreed with them) with coursework studies and a final outcome. Component 2 starts from a Cambridge question paper, with supporting studies and an 8-hour supervised final outcome.",
    "points": [
-    "investigating sources/artists",
-    "critical understanding linked to own ideas"
+    "Component 1: theme, studies and final outcome over the course",
+    "Component 2: Cambridge starting point, supporting studies, 8-hour test"
    ]
   },
   {
-   "q": "Explain why the preparatory studies matter in the externally set assignment.",
-   "model": "They are an essential part of the exam and show AO1–AO3. Marks are lost if they are not submitted.",
+   "q": "What does the AO2 band 'confident' require compared with 'competent'?",
+   "model": "'Confident' means consistently selecting relevant resources and exploring media, materials, techniques and processes confidently; 'competent' shows clear selection. The key difference is consistency.",
    "points": [
-    "essential part of exam",
-    "evidence of AO1–AO3 / marks lost if missing"
+    "consistent selection of relevant resources",
+    "explores media, techniques and processes with confidence"
    ]
   },
   {
-   "q": "What does 'safe' mean in the Band 3 descriptor and how could you move up?",
-   "model": "It means staying in your comfort zone with simple, deliberate work. Take risks, try varied media and review and refine ideas.",
+   "q": "Give two ways to improve AO1 marks in a sketchbook.",
+   "model": "Record from a variety of first-hand sources such as your own drawings, photographs and gallery sketches, and state your intentions clearly as the work progresses.",
    "points": [
-    "comfort zone / adequate only",
-    "more variety, experiment, review"
+    "variety of relevant sources including first-hand",
+    "clear intentions shown"
    ]
   },
   {
-   "q": "State two rules for the 10-hour exam.",
-   "model": "It is under formal supervision, can be split over up to four sessions in three weeks, and teachers give technical help only.",
+   "q": "Explain why selection is important in AO2.",
+   "model": "AO2 asks you to explore and select. Trying media is not enough; you must choose the most suitable one and show why, which proves judgement.",
    "points": [
-    "formal supervision",
-    "max four sessions / no teacher direction"
+    "trying alternatives",
+    "choosing and justifying"
    ]
   },
   {
-   "q": "A final piece is excellent but the sketchbook is thin. Which AOs suffer?",
-   "model": "AO1, AO2 and AO3 suffer, because they are judged on development and recording; only AO4 mainly rewards the final piece.",
+   "q": "Name two rules about the two components' work.",
+   "model": "The work must be your own, presented as a digital portfolio, and work for Component 2 must not be the same as work submitted for Component 1.",
    "points": [
-    "AO1, AO2, AO3 lack evidence",
-    "AO4 is about the final piece"
+    "digital portfolio and own work",
+    "no repeated work across components"
    ]
   }
  ]

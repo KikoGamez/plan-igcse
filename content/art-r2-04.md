@@ -1,87 +1,102 @@
 # Sketchbook review against AO1–AO4
 
-> **Goal:** Mark your own sketchbook and sheets against the four assessment objectives, find what each one is missing, and make a short, concrete fix list for the next weeks.
+> **Goal:** Mark your own sketchbook or portfolio against the four Cambridge assessment objectives, find what each one is missing, and fix the biggest gaps in the hour.
 
 ## Before you start
 
-- **Material:** your full sketchbook (or your three A2 sheets and final outcome), sticky notes in four colours (one per AO), a pen, the AO wording below, and a timer. A friend or your teacher's feedback helps.
-- Look at the work as an examiner would: fresh, fast, and only at what is shown.
-- If you have an earlier teacher mark or comment, keep it beside you.
+- **What to use:** your whole Component 1 coursework portfolio or sketchbook, plus your mock supporting studies and final piece. You are the examiner today.
+- **Have ready:** the AO wording below (print or copy it), sticky notes, a pen in a different colour, and your phone to photograph pages as the examiner would see them.
+- **Timer:** 60 minutes, split as in "How to do it".
+- **Be honest:** mark what is on the page, not what you meant to do. Examiners only see the portfolio.
 
 ## Exam format reminder
 
-Both components are marked out of 72: **18 marks for each AO**. Each component carries 50% of the qualification. The AO wording from the Pearson Edexcel International GCSE Art and Design specification:
-
-| AO | Wording | What examiners look for |
-|---|---|---|
-| **AO1** | Develop ideas through investigations, demonstrating critical understanding of sources | Research of artists and sources; analysis; connections to your own ideas |
-| **AO2** | Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes | Experiments, review and refinement, appropriate materials |
-| **AO3** | Record ideas, observations and insights relevant to intentions as work progresses | Recording from observation/experience, skills, notes and insights |
-| **AO4** | Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language | Final outcome: personal, realised, formal elements, style |
-
-Mark bands: Limited (1–3), Basic (4–6), Emerging Competent (7–9), Competent and Consistent (10–12), Confident and Assured (13–15), Exceptional (16–18). Examiners use a best-fit judgement: "just", "mostly" or "fully" meets each band.
+- Cambridge IGCSE Art & Design 0400: two components, each **100 marks and 50%**: **Component 1 Coursework** (coursework studies plus a final outcome) and **Component 2 Externally Set Assignment** (supporting studies plus a final outcome made in a supervised test of 8 hours in total).
+- Each component is marked against the same four AOs, **25 marks each**:
+  - **AO1 Record:** record ideas, observations and insights relevant to intentions as work progresses.
+  - **AO2 Explore:** explore and select appropriate resources, media, materials, techniques and processes.
+  - **AO3 Develop:** develop ideas through investigation, demonstrating critical understanding.
+  - **AO4 Present:** present a personal and coherent response that realises intentions and demonstrates an understanding of visual language.
+- Level bands for each AO: **21–25** excellent, **16–20** confident, **11–15** competent, **6–10** satisfactory, **1–5** limited, 0 no creditable response.
+- Work is submitted as a **digital portfolio**. Annotation is optional but must be relevant, purposeful and in English.
 
 ## How to do it
 
-1. **0–5 min** – **Lay out** all your work. Number the pages. Put one coloured sticky for each AO where you can see evidence.
-2. **5–20 min** – **Find the evidence.** Go through page by page. For each AO, stick the matching colour note on the best evidence. Note which AO has the fewest stickies.
-3. **20–35 min** – **Mark yourself.** For each AO, read the band descriptors (below), choose a band and a mark (just/mostly/fully). Write the mark and one sentence of evidence.
-4. **35–50 min** – **Make the fix list.** For each AO write the single most valuable improvement and a time estimate.
-5. **50–58 min** – **Start one fix** (e.g. rewrite weak annotation, add one new test).
-6. **58–60 min** – **Plan.** Schedule the other fixes in your calendar.
+| Time | What to do |
+|---|---|
+| 0:00–0:05 | Lay out all pages in order. Number them. |
+| 0:05–0:15 | **AO1 check:** find your own drawings, photos and notes. Note the number of first-hand pieces and the range of sources. |
+| 0:15–0:25 | **AO2 check:** list every medium, technique and process you tried. Count the experiments and note which ones have a decision beside them. |
+| 0:25–0:35 | **AO3 check:** find your artist research. For each artist, is there a study, analysis and a link to your own work? |
+| 0:35–0:42 | **AO4 check:** look at your final outcome(s). Does it realise your intention and show a clear use of visual language? |
+| 0:42–0:55 | **Fix the weakest AO:** pick the lowest score and do one repair task (see the table). |
+| 0:55–1:00 | Write your three-step action list for the next week and photograph the fixed pages. |
 
-### What each AO is often missing, and the fix
+### Score yourself with this table
 
-**AO1 Research and critical understanding**
-- Missing: a link between artists and your own ideas; analysis; first-hand research; context.
-- Fix: add a CFPM analysis of one artwork; make a study in their technique; write a "how this changes my work" note; add an original gallery drawing.
+Give each AO a mark out of 25 using the bands, then note the gap.
 
-**AO2 Experiments and refinement**
-- Missing: only one composition or medium; no review; no variety of materials; ideas consolidated too early.
-- Fix: make three variants of a key image; test two new materials; annotate decisions with "I chose… because…"; show a refined version.
-
-**AO3 Recording and insights**
-- Missing: observations only from photos, limited drawing skills, no notes on what you noticed.
-- Fix: draw from life (tonal studies, mark-making) from a real object; take annotated photographs; record colour swatches and sketches with notes about what interests you.
-
-**AO4 Final outcome**
-- Missing: unfinished or rushed; weak focal point; not connected to development; limited use of formal elements.
-- Fix: plan a composition with clear contrast and palette; do a full-size trial; practise the timing plan.
+| AO | Typical gap | Quick fix for this hour |
+|---|---|---|
+| **AO1 Record** | Only secondary images; few observational drawings; no photographs of your own | Make two observational drawings from real objects with different media and photograph a sequence of 6–8 images from different viewpoints |
+| **AO2 Explore** | Only one or two media; experiments with no decisions; no failed tests shown | Do three 8-minute tests of different media on the same subject and write one line on each; circle the best and say why |
+| **AO3 Develop** | Pasted artist biography; no study; no link to own idea | Choose one artist: add a four-line analysis (content, form, process, mood), a small study in their style and a link sentence leading to a new idea drawing |
+| **AO4 Present** | Final piece does not clearly follow plan; weak focal point; tidy but not personal; poor photographs | Write your intention in one sentence; list three changes to improve the focal point or coherence; re-photograph the work well |
 
 ## Exam technique for this paper
 
-- Treat the **whole submission as one journey**: examiners expect all four AOs to be evidenced holistically.
-- Quality over quantity: three focused A2 sheets with clear progression can beat many scattered pages.
-- Make evidence **easy to see**: titles, annotations, arrows, numbered stages.
-- Show **decisions**: what you rejected and why.
-- **Continuity:** your final outcome should clearly follow from your studies.
-- Be honest: a mark one band too high helps no one; use the descriptors.
+- **Think like an examiner.** They look through the whole portfolio and ask: how much is recorded, explored, developed and presented, and is it personal?
+- **Show the journey.** Recording, experimenting, developing and presenting should be in a clear order so the examiner can follow it.
+- **Strong is selected, not full.** The syllabus says candidates should "carefully select" work; fewer, stronger pages beat many weak ones.
+- **Make links visible.** Use arrows, page references and short notes to connect research, experiments and final piece.
+- **Annotation:** optional, but good annotation raises clarity. Keep it relevant, purposeful and in English. Use content, form, process and mood.
+- **Include breadth and depth.** The final outcome "should be a resolved piece of work that demonstrates breadth and depth of exploration and inquiry".
+- **Keep Components separate.** Do not submit the same work in both components.
+- **Presentation counts.** Photograph pages evenly, in focus and cropped neatly, as examiners see only the digital copy.
+- **Credit sources.** Cite images and artist information; plagiarism is a serious problem.
 
 ## Checklist while marking
 
-- [ ] **AO1:** at least two sources, each with analysis, a practical response and a link to my idea; at least one first-hand source.
-- [ ] **AO2:** several experiments with different media/techniques; reviews that lead to a refined version; materials suited to my intentions.
-- [ ] **AO3:** observational drawing/photos with a good range of tone, line and colour; notes on insights.
-- [ ] **AO4:** (use mock or current outcome) personal, finished, clear visual language.
-- [ ] Annotation next to work, with specific vocabulary.
-- [ ] Clear development from first idea to final plan.
-- [ ] Sheets neat; titles and artist names correct.
-- [ ] Which AO is lowest? Fix that first.
+Use this as your examiner sheet (tick = evidence on the page):
 
-### How to apply the grid
-Descriptors are holistic: there is not one mark per descriptor. Decide whether your evidence "just", "mostly" or "fully" meets a band; where evidence spans bands, use best fit. For example, "Basic" for AO2 is "basic ability to explore ideas through a process of experimentation and review"; "Competent and Consistent" requires that this is consistent throughout.
+**AO1 Record**
+- [ ] Own drawings from observation
+- [ ] Own photographs
+- [ ] Secondary sources selected and credited
+- [ ] Recording continues throughout, not only at the start
+- [ ] Notes or marks show your intentions
+
+**AO2 Explore**
+- [ ] At least 3 media or techniques tried
+- [ ] Experiments linked to the idea
+- [ ] Reviews that say what worked and what to change
+- [ ] Clear choice of the best method
+
+**AO3 Develop**
+- [ ] 2–4 artists/designers/movements researched
+- [ ] Studies in their style, not just copies
+- [ ] Analysis showing understanding
+- [ ] Visible effect on your own ideas
+- [ ] Ideas move forward through thumbnails and refinement
+
+**AO4 Present**
+- [ ] Final outcome follows the plan and intention
+- [ ] Clear focal point and composition
+- [ ] Colour, tone and texture used deliberately
+- [ ] Personal, not a copy
+- [ ] Well photographed
 
 ## Quick-fire revision
 
-- AO1: develop ideas through investigations with critical understanding of sources.
-- AO2: refine by exploring, selecting and experimenting with media, materials, techniques and processes.
-- AO3: record ideas, observations and insights relevant to intentions as work progresses.
-- AO4: personal, meaningful response that realises intentions and shows visual language.
-- 18 marks per AO; 72 per component; 25% weighting each AO overall.
-- Submit three A2 sheets of supporting studies and one of final outcome.
-- Primary sources must include first-hand experience of original work.
-- AO2 weakness: "consolidated too early".
-- AO3 strength: skilled observational recording.
-- AO4 strength: resolved, focused outcome with personal style.
-- Use PEEL in annotation: point, evidence, explain, link.
-- Fix the lowest AO first; most improvement for least time.
+- Cambridge 0400: Component 1 Coursework (100 marks, 50%) and Component 2 ESA (100 marks, 50%, 8-hour supervised test).
+- AO1 Record, AO2 Explore, AO3 Develop, AO4 Present: 25 marks each in both components.
+- Bands: 21–25, 16–20, 11–15, 6–10, 1–5, 0.
+- AO3 needs critical understanding: analysis, a study, a link to your idea.
+- Contextual sources: artists, key art movements, historical events, local or national art, craft and design.
+- Content, form, process, mood: how to analyse art.
+- Renaissance (perspective), Baroque (drama), Impressionism (light and moment), Post-Impressionism (personal expression).
+- Cubism (several viewpoints), Surrealism (dreams), Pop Art (popular culture), Abstract Expressionism (gesture and colour).
+- Hokusai, Van Gogh, Kahlo, Kusama, Hockney, Basquiat, Gormley, Ai Weiwei: reliable artist references.
+- Plan, test, review, refine: a good outcome follows a chain.
+- Photograph pages flat, evenly lit, in focus.
+- Annotation, if used, must be relevant, purposeful and in English.

@@ -2,161 +2,164 @@
  "id": "cs-r1-03",
  "cards": [
   {
-   "f": "AND",
-   "b": "Output is 1 (True) only when both inputs are 1."
+   "f": "Parts of a packet",
+   "b": "Header (destination address, packet number, originator's address), payload (the data) and trailer (marks the end, may hold error checking)."
   },
   {
-   "f": "OR",
-   "b": "Output is 1 when at least one input is 1."
+   "f": "Packet switching",
+   "b": "Message split into packets that travel independently by different routes, chosen by routers, and are reassembled in order at the destination."
   },
   {
-   "f": "NOT",
-   "b": "Reverses its input: NOT 1 = 0, NOT 0 = 1."
+   "f": "Why packet numbers?",
+   "b": "Packets can arrive out of order, so the receiver uses the packet numbers to put them back in the right order."
   },
   {
-   "f": "Rows in a truth table",
-   "b": "2^n rows for n inputs: 4 for two inputs, 8 for three."
+   "f": "Serial transmission",
+   "b": "Bits sent one at a time down a single wire. Reliable over long distances. Used by USB."
   },
   {
-   "f": "Order of inputs in a truth table",
-   "b": "Use binary counting order (000, 001, 010 … 111) so no row is missed or repeated."
+   "f": "Parallel transmission",
+   "b": "Several bits sent at once down several wires. Faster only over short distances; skewing and crosstalk cause errors over distance."
   },
   {
-   "f": "Precedence of operators",
-   "b": "NOT first, then AND, then OR. Use brackets to be clear."
+   "f": "Simplex, half-duplex, full-duplex",
+   "b": "Simplex: one direction only. Half-duplex: both directions, not at the same time. Full-duplex: both directions at the same time."
   },
   {
-   "f": "Why add working columns to a truth table?",
-   "b": "They break a long expression into steps, reduce mistakes and may earn method marks."
+   "f": "Benefits of USB",
+   "b": "Standard connector; devices detected automatically; can supply power; backward compatible; built-in error checking."
   },
   {
-   "f": "Truth table for A AND B",
-   "b": "Output 1 only on the row A = 1, B = 1; 0 on the other three rows."
+   "f": "Parity check",
+   "b": "One extra bit makes the number of 1s in each byte even (even parity) or odd (odd parity). Detects errors but cannot say which bit is wrong."
   },
   {
-   "f": "Is NOT (A AND B) the same as NOT A AND NOT B?",
-   "b": "No. With A = 1, B = 0 the first is 1 and the second is 0."
+   "f": "Weakness of parity",
+   "b": "If two bits change, the parity still looks correct, so the error is not detected."
   },
   {
-   "f": "Trace table",
-   "b": "A table that records the values of variables and output as an algorithm is followed step by step."
+   "f": "Checksum",
+   "b": "A value calculated from the data by an algorithm and sent with it. The receiver recalculates and compares."
   },
   {
-   "f": "MOD",
-   "b": "Gives the remainder of a division: 17 MOD 5 = 2."
+   "f": "Echo check",
+   "b": "The receiver sends the data back to the sender, who compares it with the original. Differences show an error, but not where it happened."
   },
   {
-   "f": "DIV",
-   "b": "Whole-number division, ignoring the remainder: 17 DIV 5 = 3."
+   "f": "Check digit",
+   "b": "Last digit of a code, calculated from the other digits. Catches data entry errors such as wrong or transposed digits."
   },
   {
-   "f": "Boolean data type",
-   "b": "A data type with only two values, True or False."
+   "f": "ARQ",
+   "b": "Receiver sends a positive or negative acknowledgement. If negative, or no reply before the timeout, the sender resends the data."
   },
   {
-   "f": "Statement for 'alarm if door open and armed, or panic pressed'",
-   "b": "S = (D AND A) OR P"
+   "f": "Plaintext and ciphertext",
+   "b": "Plaintext is the original data. Ciphertext is the scrambled result after encryption with a key."
   },
   {
-   "f": "How to find the error with a trace table",
-   "b": "Compare each row with the expected values. The first row that is wrong points to the faulty line."
+   "f": "Symmetric vs asymmetric encryption",
+   "b": "Symmetric uses one shared key. Asymmetric uses a public key to encrypt and a private key to decrypt."
   }
  ],
  "gaps": [
   {
-   "s": "A truth table with 2 inputs has ___ rows.",
+   "s": "The actual data in a packet is called the ___.",
    "a": [
-    "4",
-    "four"
+    "payload"
    ]
   },
   {
-   "s": "The ___ operator gives 1 only if both inputs are 1.",
+   "s": "Sending bits one at a time down a single wire is called ___ transmission.",
    "a": [
-    "AND"
+    "serial"
    ]
   },
   {
-   "s": "NOT 0 gives ___.",
+   "s": "Data sent in both directions at the same time is called ___ duplex.",
    "a": [
-    "1",
-    "true"
+    "full",
+    "full-"
    ]
   },
   {
-   "s": "The remainder of a division is found using ___.",
+   "s": "In ARQ, the sender resends data if no acknowledgement arrives before the ___ expires.",
    "a": [
-    "MOD",
-    "modulus",
-    "modulo"
+    "timeout",
+    "time out",
+    "time-out"
    ]
   },
   {
-   "s": "In 29 DIV 6 the answer is ___.",
+   "s": "A ___ digit is added to the end of a barcode number to detect data entry errors.",
    "a": [
-    "4",
-    "four"
+    "check"
    ]
   },
   {
-   "s": "A table that records variable values as an algorithm runs is a ___ table.",
+   "s": "Scrambled data that cannot be understood is called ___.",
    "a": [
-    "trace"
+    "ciphertext",
+    "cipher text"
    ]
   },
   {
-   "s": "A data type that can only be True or False is ___.",
+   "s": "Asymmetric encryption uses a public key and a ___ key.",
    "a": [
-    "Boolean",
-    "bool"
+    "private"
    ]
   },
   {
-   "s": "In logic, ___ is evaluated before AND and OR.",
+   "s": "The extra bit added to a byte so the number of 1s is even or odd is the ___ bit.",
    "a": [
-    "NOT"
+    "parity"
    ]
   }
  ],
  "short": [
   {
-   "q": "Complete the truth table output for Q = A AND NOT B, for A,B = 00, 01, 10, 11.",
-   "model": "Q is 0, 0, 1, 0. Q is 1 only when A = 1 and B = 0.",
+   "type": "short",
+   "q": "A byte is received using odd parity: 01101011. Has an error been detected? Explain.",
+   "model": "01101011 has five 1s, which is odd. Odd parity is expected, so no error is detected (though two changed bits would not be noticed).",
    "points": [
-    "working column NOT B or correct method",
-    "outputs 0, 0, 1, 0"
+    "counts five 1s (odd)",
+    "odd matches odd parity so no error detected"
    ]
   },
   {
-   "q": "A fan (F) runs if the temperature is high (T) and the window is shut (W), or if the override (O) is on. Write the logic statement.",
-   "model": "F = (T AND W) OR O",
+   "type": "short",
+   "q": "Explain why packets of one message might arrive in a different order.",
+   "model": "Each packet travels independently and may take a different route, chosen by routers, so some arrive sooner than others.",
    "points": [
-    "T AND W",
-    "OR O (brackets/structure correct)"
+    "packets take different routes",
+    "routes differ in speed/congestion"
    ]
   },
   {
-   "q": "Trace: SET N TO 5, SET S TO 0, WHILE N > 0 DO SET S TO S + N, SET N TO N - 2 END WHILE. State the final S.",
-   "model": "N takes 5, 3, 1 then -1. S becomes 5, 8, 9. The final value is 9.",
+   "type": "short",
+   "q": "Give two reasons why serial transmission is used for long distances instead of parallel.",
+   "model": "In parallel the bits can arrive out of sync (skew) and the wires interfere with each other (crosstalk), causing errors. Serial avoids this and the cable is cheaper.",
    "points": [
-    "N values 5, 3, 1 then stops at -1",
-    "S = 9"
+    "parallel suffers skewing / bits arrive out of sync",
+    "crosstalk / interference, or serial cable cheaper"
    ]
   },
   {
-   "q": "What is 23 MOD 5 and 23 DIV 5?",
-   "model": "23 MOD 5 = 3 (remainder) and 23 DIV 5 = 4 (whole-number division).",
+   "type": "short",
+   "q": "Describe how ARQ ensures data is received correctly.",
+   "model": "The receiver checks the data and sends a positive acknowledgement if correct, or a negative one if not. The sender resends on a negative acknowledgement or if the timeout expires with no reply.",
    "points": [
-    "MOD = 3",
-    "DIV = 4"
+    "positive acknowledgement if no errors",
+    "negative acknowledgement or timeout leads to resend"
    ]
   },
   {
-   "q": "Explain how a trace table helps you find a logic error in an algorithm.",
-   "model": "You run test data through the algorithm and record each variable's value. The first row where a value is not what you expect shows which line is wrong.",
+   "type": "short",
+   "q": "Explain one advantage of asymmetric encryption over symmetric encryption.",
+   "model": "Asymmetric encryption uses a public key to encrypt and a private key to decrypt, so the private key is never sent and cannot be intercepted. With symmetric encryption the shared key must be sent to the receiver.",
    "points": [
-    "records variable values for test data",
-    "first wrong value identifies the faulty line"
+    "public key encrypts, private key decrypts",
+    "the decryption key is never sent / symmetric key can be intercepted"
    ]
   }
  ]

@@ -2,161 +2,169 @@
  "id": "cs-r1-01",
  "cards": [
   {
-   "f": "Algorithm",
-   "b": "A set of step-by-step instructions that solves a problem or completes a task."
+   "f": "Bit",
+   "b": "A single binary digit, 0 or 1."
   },
   {
-   "f": "Decomposition",
-   "b": "Breaking a problem down into smaller, more manageable sub-problems."
+   "f": "Nibble and byte",
+   "b": "A nibble is 4 bits; a byte is 8 bits."
   },
   {
-   "f": "Abstraction",
-   "b": "Removing or hiding unnecessary detail so only the important features remain, e.g. a tube map."
+   "f": "8-bit place values (left to right)",
+   "b": "128, 64, 32, 16, 8, 4, 2, 1."
   },
   {
-   "f": "Three programming constructs",
-   "b": "Sequence (in order), selection (choose using a condition) and iteration (repeat in a loop)."
+   "f": "How many values can n bits store?",
+   "b": "2ⁿ different values. 8 bits give 256 values (0 to 255)."
   },
   {
-   "f": "Inputs, outputs, processing, initialisation",
-   "b": "The four things to identify when analysing a problem: data in, results out, calculations/decisions, and starting values."
+   "f": "Hex digits for 10 to 15",
+   "b": "A = 10, B = 11, C = 12, D = 13, E = 14, F = 15."
   },
   {
-   "f": "Flowchart: Start/End symbol",
-   "b": "A rounded box (terminator) marks the start and end of an algorithm."
+   "f": "Convert binary to hex",
+   "b": "Split into nibbles of 4 bits (from the right). Each nibble is one hex digit, e.g. 1100 1011 = CB."
   },
   {
-   "f": "Flowchart: process symbol",
-   "b": "A rectangle: an action or calculation, e.g. add 1 to Count."
+   "f": "Why is hexadecimal used?",
+   "b": "It is shorter than binary, so easier to read and remember, and less likely to be mistyped. It converts easily to and from binary."
   },
   {
-   "f": "Flowchart: decision symbol",
-   "b": "A diamond with two exits labelled Yes/No (True/False)."
+   "f": "Four uses of hexadecimal",
+   "b": "Colour codes in HTML/CSS, MAC addresses, IPv6 addresses, error codes, memory dumps, URLs."
   },
   {
-   "f": "Flowchart: input/output symbol",
-   "b": "A parallelogram."
+   "f": "Overflow error",
+   "b": "The result of a calculation is too large to store in the available bits, e.g. an 8-bit addition that needs a ninth bit."
   },
   {
-   "f": "Flowchart: subprocess symbol",
-   "b": "A rectangle with double side lines: a step defined in a separate flowchart."
+   "f": "Logical shift left by n",
+   "b": "Bits move n places left, 0s fill the right, bits fall off the left. The number is multiplied by 2ⁿ."
   },
   {
-   "f": "Pearson pseudocode: output",
-   "b": "SEND 'Hello' TO DISPLAY"
+   "f": "Logical shift right by n",
+   "b": "Bits move n places right, 0s fill the left. The number is divided by 2ⁿ and the remainder is lost."
   },
   {
-   "f": "Pearson pseudocode: input",
-   "b": "RECEIVE Age FROM (INTEGER) KEYBOARD"
+   "f": "Problem with a logical shift",
+   "b": "If a 1 is shifted off the end, the answer is wrong (left) or truncated (right)."
   },
   {
-   "f": "Pearson pseudocode: counted loop",
-   "b": "FOR Index FROM 1 TO 10 DO … END FOR (both ends included; optional STEP)."
+   "f": "Two's complement: left-hand bit",
+   "b": "In 8 bits the left-hand bit has the value −128 instead of +128. Left bit 1 means a negative number."
   },
   {
-   "f": "Why initialise a total to 0?",
-   "b": "Otherwise it starts with an unknown value and every later total is wrong."
+   "f": "Range of 8-bit two's complement",
+   "b": "−128 to +127."
   },
   {
-   "f": "Fit for purpose",
-   "b": "An algorithm that meets the stated requirements, gives correct output for valid data and works efficiently."
+   "f": "Negative denary to two's complement",
+   "b": "Write the positive number in 8 bits, invert every bit, then add 1."
   }
  ],
  "gaps": [
   {
-   "s": "An algorithm is a set of ___ instructions that solves a problem.",
+   "s": "A group of four bits is called a ___.",
    "a": [
-    "step-by-step",
-    "step by step",
-    "ordered"
+    "nibble"
    ]
   },
   {
-   "s": "Breaking a large problem into smaller sub-problems is called ___.",
+   "s": "In 8-bit two's complement the left-hand bit has a place value of ___.",
    "a": [
-    "decomposition"
+    "-128",
+    "−128",
+    "minus 128"
    ]
   },
   {
-   "s": "Hiding unnecessary detail to keep only what matters is called ___.",
+   "s": "Hexadecimal is base ___.",
    "a": [
-    "abstraction"
+    "16",
+    "sixteen"
    ]
   },
   {
-   "s": "A diamond in a flowchart shows a ___.",
+   "s": "A logical shift left by 3 places multiplies a number by ___.",
    "a": [
-    "decision"
+    "8",
+    "eight"
    ]
   },
   {
-   "s": "In Pearson pseudocode a comment starts with the ___ symbol.",
+   "s": "An ___ error occurs when a result is too large to be stored in the bits available.",
    "a": [
-    "#",
-    "hash"
+    "overflow"
    ]
   },
   {
-   "s": "The three constructs are sequence, selection and ___.",
+   "s": "The denary value of the hexadecimal digit F is ___.",
    "a": [
-    "iteration",
-    "repetition"
+    "15",
+    "fifteen"
    ]
   },
   {
-   "s": "Giving a variable its starting value is called ___.",
+   "s": "In a logical shift, the empty places are filled with ___.",
    "a": [
-    "initialisation",
-    "initialization"
+    "0",
+    "zero",
+    "zeros",
+    "0s"
    ]
   },
   {
-   "s": "A rectangle with double side lines in a flowchart represents a ___.",
+   "s": "The largest denary number that 8 bits can store (unsigned) is ___.",
    "a": [
-    "subprocess",
-    "subprogram"
+    "255"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain what is meant by abstraction and give an example.",
-   "model": "Abstraction removes unnecessary detail so only the important features are kept. For example, a tube map shows stations and links but not real distances or streets.",
+   "type": "short",
+   "q": "Convert 11100111 to (a) denary and (b) hexadecimal.",
+   "model": "(a) 128+64+32+4+2+1 = 231. (b) 1110 = E and 0111 = 7, so E7.",
    "points": [
-    "removing/hiding unnecessary detail",
-    "valid example"
+    "231",
+    "E7"
    ]
   },
   {
-   "q": "A program must run a quiz. Describe how decomposition could be used.",
-   "model": "Split it into smaller tasks such as choosing questions, asking each question, checking the answer and showing the score. Each task can be written and tested as its own subprogram.",
+   "type": "short",
+   "q": "Add 10110110 and 00101101 as 8-bit numbers. Show the result and check it in denary.",
+   "model": "10110110 + 00101101 = 11100011. In denary 182 + 45 = 227, which is 128+64+32+2+1, so it fits in 8 bits and there is no overflow.",
    "points": [
-    "splits into smaller sub-problems (two named)",
-    "each can be a separate subprogram/tested separately"
+    "11100011",
+    "check 182 + 45 = 227 / no overflow"
    ]
   },
   {
-   "q": "State what this does: SET T TO 0, RECEIVE N, WHILE N <> 0 add N to T and RECEIVE N again, then SEND T.",
-   "model": "It adds up the numbers entered until the user enters 0, then displays the total.",
+   "type": "short",
+   "q": "Show −77 in 8-bit two's complement.",
+   "model": "77 = 01001101. Invert to 10110010, then add 1 to get 10110011.",
    "points": [
-    "adds the numbers entered",
-    "stops at 0 and displays the total"
+    "01001101",
+    "inverted 10110010",
+    "add 1 gives 10110011"
    ]
   },
   {
-   "q": "Write pseudocode to display 'Adult' if Age is 18 or more, otherwise 'Child'.",
-   "model": "IF Age >= 18 THEN SEND 'Adult' TO DISPLAY ELSE SEND 'Child' TO DISPLAY END IF.",
+   "type": "short",
+   "q": "Shift 10100000 right by 2 places. Give the result and its effect on the value.",
+   "model": "The result is 00101000. The value goes from 160 to 40, so it is divided by 4 (2²).",
    "points": [
-    "correct condition Age >= 18",
-    "correct output in both branches using ELSE"
+    "00101000",
+    "divided by 4"
    ]
   },
   {
-   "q": "A program should average 5 marks but the loop runs FOR Index FROM 1 TO 4 and Total is never set to 0. Give two errors.",
-   "model": "The loop runs only 4 times instead of 5, and Total is not initialised to 0 before the loop.",
+   "type": "short",
+   "q": "Shift 11000000 left by 1 place in an 8-bit register. Explain why the answer is wrong.",
+   "model": "The result is 10000000 (128), but 192 × 2 = 384. The leading 1 is shifted off the left end and lost, so the answer is wrong.",
    "points": [
-    "loop count wrong (should be 1 TO 5)",
-    "total not initialised to 0"
+    "result 10000000",
+    "a 1 is lost / shifted off the end"
    ]
   }
  ]

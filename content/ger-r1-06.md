@@ -1,6 +1,6 @@
 # Grammar: word order, conjunctions and pronouns
 
-> **In the exam:** Word order is the biggest accuracy marker in **Q6, Q7 and Speaking**: examiners look for verb-second, verbs at the end after *weil/dass/wenn*, and correct inversion after time phrases. Linking ideas with conjunctions and relative clauses is how you reach the top bands for range. Pronouns (*ihn, ihm, mir, sie*) must be right in **Q8** and are needed to follow who does what in **Reading and Listening**.
+> **In the exam:** Word order is the biggest accuracy marker in **Paper 4 Writing** (Q2 and Q3) and **Paper 3 Speaking** (*Quality of Language*, 15 marks): examiners look for verb-second, the verb at the end after *weil/dass/wenn*, and correct inversion after a time phrase. The Cambridge grammar list names *word order in main, subordinate and relative clauses, time–manner–place* and *the sequence of pronouns* (*er gibt es mir*). Linking ideas with conjunctions and relative clauses is how you show range in Q3. In **Papers 1 and 2** pronouns (*ihn, ihm, mir, sie*) tell you who does what to whom.
 
 ## What you need to know
 
@@ -8,7 +8,7 @@
 - Co-ordinating conjunctions (*und, aber, oder, denn, sondern*): no change in word order.
 - Subordinating conjunctions (*weil, dass, wenn, obwohl, als, ob, damit, während, bevor, nachdem*): verb to the end.
 - Time–Manner–Place, position of *nicht*, questions, *um … zu*.
-- Personal pronouns in nominative, accusative and dative; **relative pronouns**; *man*, *es*.
+- Personal pronouns (all cases); interrogative pronouns (*wer, wen, wem, wessen*); **relative pronouns**; *man*, *es*, *selbst*.
 
 ## Notes
 
@@ -82,6 +82,15 @@ After **weil, dass, wenn, obwohl, als, ob, damit, während, bevor, nachdem, seit
 - **Possessives** follow the *ein*-pattern (see the cases topic).
 - **man** = one/you/people (generic): *Man kann hier gut essen.* The verb is third person singular.
 
+### Interrogative pronouns (who? what?)
+
+| Nominative | Accusative | Dative | Genitive |
+|---|---|---|---|
+| wer (who) | wen (whom) | wem (to whom) | wessen (whose) |
+| was (what) | was | – | – |
+
+*Wer kommt mit? Wen siehst du? Mit wem gehst du ins Kino? Wessen Tasche ist das?* **selbst** adds emphasis: *Ich habe es selbst gemacht* (I did it myself).
+
 ### Relative pronouns (who, which, that)
 
 Look like the definite article, but the **gender and number from the noun being described** and the **case from its job in the relative clause**. The verb goes to the **end**, and a **comma** goes on each side.
@@ -113,6 +122,7 @@ Look like the definite article, but the **gender and number from the noun being 
 - **Co-ordinating conjunction:** a word (*und, aber, oder, denn, sondern*) that joins clauses without changing word order.
 - **Inversion:** putting the verb before the subject when a time/place word or clause starts the sentence.
 - **Personal pronoun:** a word that replaces a noun: *er, sie, es, ihn, ihm*.
+- **Interrogative pronoun:** a question word replacing a noun (*wer, wen, wem, wessen, was*).
 - **Relative pronoun:** a pronoun that introduces a relative clause (*der, die, das, den, dem, denen*).
 - **Relative clause:** a subordinate clause giving more information about a noun.
 
@@ -122,7 +132,7 @@ Look like the definite article, but the **gender and number from the noun being 
 
 **2. Translate.** *When I was little, I lived in a house that had a big garden.* [5] → *Als ich klein war, wohnte ich in einem Haus, das einen großen Garten hatte.* Marks: *Als* with verb at the end (*war*), verb first in the main clause (*wohnte ich*), *in einem Haus* (dative), relative pronoun *das* (neuter), *einen großen Garten* (accusative masculine) and *hatte* at the end of the relative clause.
 
-**3. Q8-style pronoun.** *Mein Bruder ist nett. Ich helfe (er) oft bei den Hausaufgaben.* → **ihm** (*helfen* takes the dative). *Wo ist deine Schwester? Ich sehe (sie) nicht.* → **sie** (accusative = *sie*).
+**3. Pronoun gap-fill.** *Mein Bruder ist nett. Ich helfe (er) oft bei den Hausaufgaben.* → **ihm** (*helfen* takes the dative). *Wo ist deine Schwester? Ich sehe (sie) nicht.* → **sie** (accusative = *sie*).
 
 ## Common mistakes
 

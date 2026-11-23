@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A low f-number such as f/2 gives",
+   "q": "Which describes the rule of thirds?",
    "options": [
-    "a deep depth of field",
-    "a shallow depth of field with blurred background",
-    "a long exposure blur",
-    "more grain"
+    "Place the subject in the exact centre",
+    "Use three colours only",
+    "Take three photographs",
+    "Divide the frame into a 3×3 grid and place the subject on the lines"
    ],
-   "answer": 1,
-   "why": "A wide aperture (low f-number) blurs the background."
+   "answer": 3,
+   "why": "The rule of thirds uses a 3×3 grid to place the focal point."
   },
   {
    "type": "mcq",
-   "q": "Which photographer is linked with 'the decisive moment'?",
+   "q": "Photographs taken by the student are:",
    "options": [
-    "Ansel Adams",
-    "Man Ray",
-    "Henri Cartier-Bresson",
-    "Cindy Sherman"
+    "Secondary sources",
+    "Not allowed",
+    "Primary (first-hand) sources",
+    "Worth no marks"
    ],
    "answer": 2,
-   "why": "Cartier-Bresson's street photography captured the decisive moment."
+   "why": "Your own photographs are first-hand sources, which support AO1."
   },
   {
    "type": "mcq",
-   "q": "A contact sheet shows",
+   "q": "What does a wide aperture (e.g. f/2) mainly give?",
    "options": [
-    "a final print",
-    "all small frames from a shoot to choose from",
-    "the photographer's contacts",
-    "a photogram"
+    "A blurred background (shallow depth of field)",
+    "Everything in sharp focus",
+    "A slower shutter",
+    "Black and white image"
    ],
-   "answer": 1,
-   "why": "Contact sheets let you compare and select images."
+   "answer": 0,
+   "why": "A wide aperture gives shallow depth of field."
   },
   {
    "type": "short",
-   "q": "Give two ways to improve the composition of a photograph.",
-   "model": "Use the rule of thirds, leading lines, framing or a different viewpoint, and crop to simplify the background.",
+   "q": "Why must a painted piece still be photographed or scanned?",
+   "model": "All work is submitted as a digital portfolio online, and the examiner can only mark what they can clearly see.",
    "points": [
-    "rule of thirds/leading lines/framing",
-    "viewpoint/crop/simple background"
+    "digital portfolio submission",
+    "examiner must see it clearly"
    ]
   }
  ]

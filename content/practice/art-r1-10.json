@@ -3,161 +3,155 @@
  "cards": [
   {
    "f": "Fauvism",
-   "b": "c.1905-10: wild, non-natural colour for emotion. Matisse, Derain."
+   "b": "1905-c.1910. Pure, non-natural colour. Matisse, Derain. 'Wild beasts'."
   },
   {
    "f": "Expressionism",
-   "b": "Distorted forms and strong colour to show feeling. Munch's The Scream (1893)."
+   "b": "Art showing inner feeling through distortion and strong colour. Munch, Kirchner."
   },
   {
    "f": "Cubism",
-   "b": "c.1907-14: objects as geometric fragments seen from several viewpoints. Picasso and Braque."
+   "b": "Objects broken into geometric shapes and shown from several viewpoints. Picasso and Braque."
   },
   {
-   "f": "Analytical vs Synthetic Cubism",
-   "b": "Analytical: muted browns/greys, fragmented. Synthetic (from 1912): simpler, brighter shapes and collage."
+   "f": "Analytic vs Synthetic Cubism",
+   "b": "Analytic (c.1908-12): browns and greys, fragments. Synthetic (from 1912): brighter, simpler, collage."
+  },
+  {
+   "f": "Guernica",
+   "b": "Picasso, 1937, about the bombing of Guernica in the Spanish Civil War. Museo Reina Sofia, Madrid."
   },
   {
    "f": "Futurism",
-   "b": "Italy, 1909: speed, machines and modern life. Boccioni, Balla."
+   "b": "Italian movement (1909): speed, machines, modern life. Boccioni, Balla."
   },
   {
    "f": "Dada",
-   "b": "1916 onwards: reaction to the First World War; anti-art, chance, readymades. Duchamp, Höch."
+   "b": "From 1916 in Zurich: anti-war, anti-art, chance and found objects. Duchamp, Hannah Höch."
   },
   {
    "f": "Readymade",
-   "b": "An ordinary manufactured object chosen and presented as art, e.g. Duchamp's Fountain (1917)."
+   "b": "An ordinary manufactured object presented as art, e.g. Duchamp's Fountain (1917)."
   },
   {
    "f": "Surrealism",
-   "b": "1920s-40s: dreams and the unconscious. Dalí, Magritte, Miró."
+   "b": "From 1924: dreams and the unconscious. Dali, Magritte, Miro."
+  },
+  {
+   "f": "The Persistence of Memory",
+   "b": "Dali, 1931: soft melting clocks."
   },
   {
    "f": "Abstract Expressionism",
-   "b": "1940s-50s New York: large abstract canvases about emotion. Pollock (action painting), Rothko (colour fields)."
+   "b": "1940s-50s USA: large gestural abstraction. Pollock (drip), Rothko (colour blocks)."
   },
   {
    "f": "Pop Art",
-   "b": "1950s-60s: popular culture and advertising. Warhol (screen print), Lichtenstein (Ben-Day dots)."
+   "b": "1950s-60s: popular culture and mass media. Warhol, Lichtenstein, Hamilton."
   },
   {
-   "f": "Banksy",
-   "b": "Anonymous street artist known for political stencil work."
+   "f": "Lichtenstein style",
+   "b": "Comic-strip images with Ben-Day dots and bold outlines."
   },
   {
-   "f": "Yayoi Kusama",
-   "b": "Known for obsessive dots and mirrored infinity rooms."
+   "f": "Conceptual art",
+   "b": "Art in which the idea matters more than the object, e.g. Sol LeWitt's instruction drawings."
   },
   {
-   "f": "Cindy Sherman",
-   "b": "Photographer of staged self-portraits: Untitled Film Stills (1977-80)."
-  },
-  {
-   "f": "Bauhaus",
-   "b": "German design school (1919-33): form follows function; simple geometric design."
-  },
-  {
-   "f": "Kara Walker",
-   "b": "Contemporary artist who makes cut-paper silhouettes about race and history."
+   "f": "Ai Weiwei, Sunflower Seeds",
+   "b": "2010 installation at Tate Modern of millions of hand-painted porcelain seeds."
   }
  ],
  "gaps": [
   {
-   "s": "The wild colour movement led by Matisse is called ___.",
+   "s": "Matisse and Derain were part of the movement called ___.",
    "a": [
-    "fauvism",
-    "fauves"
+    "Fauvism"
    ]
   },
   {
    "s": "Picasso and Braque developed ___.",
    "a": [
-    "cubism"
+    "Cubism"
    ]
   },
   {
-   "s": "Duchamp's Fountain is a ___ .",
+   "s": "Duchamp's Fountain is an example of a ___.",
    "a": [
     "readymade",
-    "ready-made",
-    "ready made"
+    "ready-made"
    ]
   },
   {
-   "s": "Warhol's Campbell's Soup Cans were made in ___.",
+   "s": "Dali and Magritte belong to ___.",
    "a": [
-    "1962"
+    "Surrealism"
    ]
   },
   {
-   "s": "Pollock's method of dripping paint is called ___ painting.",
+   "s": "Pollock's technique was to ___ and pour paint.",
    "a": [
-    "action"
+    "drip"
    ]
   },
   {
-   "s": "Rothko is known for ___ field painting.",
+   "s": "Warhol made screen prints of Campbell's ___ Cans.",
    "a": [
-    "colour",
-    "color"
+    "Soup"
    ]
   },
   {
-   "s": "Dalí and Magritte belong to the ___ movement.",
+   "s": "A picture made from cut-up photographs is a ___.",
    "a": [
-    "surrealism",
-    "surrealist"
+    "photomontage"
    ]
   },
   {
-   "s": "Picasso's Guernica is in the Museo ___ in Madrid.",
+   "s": "Art that does not show recognisable objects is called ___.",
    "a": [
-    "reina sofía",
-    "reina sofia",
-    "reina"
+    "abstract"
    ]
   }
  ],
  "short": [
   {
-   "q": "Name two features of Pop Art.",
-   "model": "It uses images from popular culture and advertising, and mass-production techniques such as screen printing and repetition.",
+   "q": "Describe two features of Cubism.",
+   "model": "Objects are broken into geometric shapes and shown from several viewpoints at once; analytic Cubism used a limited palette of browns and greys.",
    "points": [
-    "popular culture/advertising/comics",
-    "mass production/repetition/screen print"
+    "geometric / fragmented",
+    "several viewpoints"
    ]
   },
   {
-   "q": "Explain how Cubism changed how artists show objects.",
-   "model": "Objects were broken into geometric planes and shown from several viewpoints at once rather than from a single fixed viewpoint.",
+   "q": "Why was Duchamp's Fountain important?",
+   "model": "It presented an ordinary urinal as art, challenging ideas of what art is and helping start conceptual art.",
    "points": [
-    "geometric fragments/planes",
-    "multiple viewpoints"
+    "readymade / ordinary object",
+    "challenged definition of art"
    ]
   },
   {
-   "q": "Name one contemporary artist or designer linked to your endorsed title and a work by them.",
-   "model": "E.g. Cindy Sherman, Untitled Film Stills (Photography); Antony Gormley, Angel of the North (3D).",
+   "q": "Describe Pollock's technique.",
+   "model": "He laid canvas on the floor and dripped or poured paint onto it while moving around, recording his gestures.",
    "points": [
-    "practitioner",
-    "specific work"
+    "canvas on floor",
+    "drip / pour"
    ]
   },
   {
-   "q": "Why did Dada artists use readymades?",
-   "model": "To challenge traditional ideas of art and skill, suggesting that the artist's idea and choice make something art.",
+   "q": "Choose a movement for 'Dreams and memory' and say how to use it.",
+   "model": "Surrealism: combine unrelated objects and change scale in a painting or collage, as in Dali or Magritte.",
    "points": [
-    "challenge ideas of art",
-    "idea over skill"
+    "movement and artist",
+    "technique applied to theme"
    ]
   },
   {
-   "q": "Describe a study you could make inspired by Kusama.",
-   "model": "A pattern of repeated dots at different scales on a coloured ground, then annotated to compare repetition and mood.",
+   "q": "Compare Fauvism and Expressionism.",
+   "model": "Both use strong colour and depart from realism; Fauvism uses colour for vibrancy, Expressionism distorts forms to show inner feeling.",
    "points": [
-    "repeated dots/pattern",
-    "annotation/evaluation"
+    "similarity",
+    "difference"
    ]
   }
  ]

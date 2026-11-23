@@ -2,161 +2,161 @@
  "id": "music-r1-11",
  "cards": [
   {
-   "f": "Defying Gravity",
-   "b": "Stephen Schwartz, from the musical Wicked (2003). Act 1 finale; Elphaba decides to rebel."
+   "f": "Syllabic",
+   "b": "One note for each syllable of text."
   },
   {
-   "f": "Belting",
-   "b": "Loud, strong chest-voice singing used in musical theatre."
+   "f": "Melismatic",
+   "b": "Many notes sung to one syllable."
   },
   {
-   "f": "Defying Gravity build",
-   "b": "Gradual crescendo, ostinato, key changes and belting build to a climax."
+   "f": "Word-painting",
+   "b": "Music that imitates or reflects the meaning of the words."
   },
   {
-   "f": "Star Wars Main Title",
-   "b": "John Williams, 1977, London Symphony Orchestra; late-Romantic style."
+   "f": "Strophic form",
+   "b": "The same music is used for each verse."
   },
   {
-   "f": "Star Wars fanfare",
-   "b": "Loud brass, rising fifth, triplet rhythms; heroic major key."
+   "f": "Through-composed",
+   "b": "New music for each section of the text; no repeated verse tune."
+  },
+  {
+   "f": "Bridge / middle eight",
+   "b": "Contrasting section in a song, often after the second chorus."
+  },
+  {
+   "f": "A cappella",
+   "b": "Singing without instrumental accompaniment."
+  },
+  {
+   "f": "SATB",
+   "b": "Soprano, alto, tenor, bass: the four standard choir parts."
   },
   {
    "f": "Leitmotif",
-   "b": "Recurring theme linked to a character or idea."
+   "b": "A recurring theme associated with a character or idea."
   },
   {
-   "f": "Afro Celt Sound System",
-   "b": "Fusion band: Irish + West African + electronic dance; album Volume 2: Release (1999)."
+   "f": "Fanfare",
+   "b": "Short loud brass flourish, heroic or ceremonial."
   },
   {
-   "f": "Sean-nós",
-   "b": "Ornamented, unaccompanied Irish singing."
+   "f": "Loop (video games)",
+   "b": "A section that repeats continuously, with layers added or removed as the action changes."
   },
   {
-   "f": "Release texture",
-   "b": "Layers of percussion, electronic sounds and instruments built up over a groove."
+   "f": "The Rite of Spring",
+   "b": "Stravinsky ballet (1913): irregular rhythms, ostinato, dissonance, big orchestra."
   },
   {
-   "f": "Samba Em Prelúdio",
-   "b": "Esperanza Spalding, 2008, double bass and voice, samba/bossa nova with jazz."
+   "f": "Star Wars (Williams)",
+   "b": "Film score with Romantic orchestra, brass fanfares and leitmotifs."
   },
   {
-   "f": "Bossa nova",
-   "b": "Gentle Brazilian style mixing samba with jazz harmony."
+   "f": "Areas 4–7 starting points",
+   "b": "Not prescribed; the exam plays other examples of the same style."
   },
   {
-   "f": "Scat singing",
-   "b": "Improvised singing with nonsense syllables."
+   "f": "Command word: describe",
+   "b": "State the points of a topic: give characteristics and main features."
   },
   {
-   "f": "Fusion",
-   "b": "Blend of two or more traditions."
-  },
-  {
-   "f": "Ostinato in Defying Gravity",
-   "b": "Repeated accompaniment pattern that drives the song to its climax."
-  },
-  {
-   "f": "Compare set works: plan",
-   "b": "Context, similarities, differences, musical terms, conclusion."
+   "f": "Command word: suggest",
+   "b": "Apply knowledge to a situation with several valid answers."
   }
  ],
  "gaps": [
   {
-   "s": "Defying Gravity comes from the musical ___.",
+   "s": "One note per syllable is called ___.",
    "a": [
-    "wicked"
+    "syllabic"
    ]
   },
   {
-   "s": "The Star Wars Main Title was composed by John ___.",
+   "s": "Many notes on one syllable is a ___.",
    "a": [
-    "williams"
+    "melisma"
    ]
   },
   {
-   "s": "The Star Wars fanfare is played mainly by ___ instruments.",
+   "s": "When music imitates the meaning of the words it is called word-___.",
    "a": [
-    "brass"
+    "painting"
    ]
   },
   {
-   "s": "A theme linked to a character is a ___.",
+   "s": "Singing without instruments is ___.",
+   "a": [
+    "a cappella",
+    "acappella",
+    "a capella"
+   ]
+  },
+  {
+   "s": "A recurring theme for a film character is a ___.",
    "a": [
     "leitmotif"
    ]
   },
   {
-   "s": "Irish unaccompanied ornamented singing is ___.",
+   "s": "The Rite of Spring was a ___ by Stravinsky.",
    "a": [
-    "sean-nós",
-    "sean-nos",
-    "sean nós",
-    "sean nos"
+    "ballet"
    ]
   },
   {
-   "s": "Afro Celt Sound System blend Irish, African and ___ music.",
+   "s": "A short loud brass flourish is a ___.",
    "a": [
-    "electronic",
-    "dance",
-    "electronic dance"
+    "fanfare"
    ]
   },
   {
-   "s": "Esperanza Spalding plays the double ___.",
+   "s": "The contrasting section in a pop song is the middle ___ or bridge.",
    "a": [
-    "bass"
-   ]
-  },
-  {
-   "s": "Changing key to raise the energy is called ___.",
-   "a": [
-    "modulation",
-    "key change"
+    "eight"
    ]
   }
  ],
  "short": [
   {
-   "q": "Why did John Williams use a late-Romantic orchestra for Star Wars?",
-   "model": "It gives a grand, heroic, emotional sound that links to Wagner and Holst and told the audience immediately that this was an epic adventure.",
+   "q": "Explain the difference between strophic and through-composed.",
+   "model": "Strophic repeats the same music for each verse; through-composed has new music for each section of the words.",
    "points": [
-    "Romantic orchestral style",
-    "Heroic/epic effect"
+    "strophic = same music",
+    "through-composed = new music"
    ]
   },
   {
-   "q": "Describe how Defying Gravity builds to its climax.",
-   "model": "It grows from quiet to loud with crescendo, rising melody, an ostinato, key changes and belted vocals with full orchestra.",
+   "q": "Describe how film music creates tension.",
+   "model": "Tremolo strings, low sustained notes, dissonance, ostinato and a gradual crescendo.",
    "points": [
-    "Crescendo/texture build",
-    "Key change/belting"
+    "two techniques",
+    "link to tension"
    ]
   },
   {
-   "q": "What makes Release a fusion?",
-   "model": "It blends Irish sean-nós and instruments with West African drums and electronic dance beats and samples.",
+   "q": "Describe two features of Stravinsky's The Rite of Spring.",
+   "model": "Irregular, changing metre with strong accents; ostinato, dissonant chords and a large orchestra with powerful percussion.",
    "points": [
-    "Irish elements",
-    "African and electronic elements"
+    "rhythm feature",
+    "harmony/orchestra feature"
    ]
   },
   {
-   "q": "Describe the rhythm of Samba Em Prelúdio.",
-   "model": "A syncopated samba rhythm with a lilting feel and changes of tempo, played by drums and percussion with a walking-style bass.",
+   "q": "How does a pop song or musical song build to a big chorus?",
+   "model": "It adds instruments and voices, crescendos and raises the intensity, with a memorable repeated hook.",
    "points": [
-    "Syncopated samba",
-    "Tempo changes/percussion"
+    "texture/instruments added",
+    "dynamics/crescendo"
    ]
   },
   {
-   "q": "Give two similarities between Release and Killer Queen.",
-   "model": "Both use layered multi-tracked recording and studio effects, and both have a strong rhythm section with repeated patterns.",
+   "q": "Give two features of video game music.",
+   "model": "Loops that repeat seamlessly; layers added or removed with the action; often orchestral or electronic sounds.",
    "points": [
-    "Multi-tracking/studio",
-    "Repeated patterns/rhythm section"
+    "looping",
+    "adapts to action"
    ]
   }
  ]

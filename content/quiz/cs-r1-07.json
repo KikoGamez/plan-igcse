@@ -1,6 +1,51 @@
-{"id":"cs-r1-07","questions":[
-{"type":"mcq","q":"What is the 8-bit two's complement representation of −5?","options":["10000101","11111011","11111010","00000101"],"answer":1,"why":"5 = 00000101; flip to 11111010; add 1 to get 11111011. (10000101 is −5 in sign and magnitude.)"},
-{"type":"mcq","q":"Which hexadecimal number equals binary 10110101?","options":["A5","5B","B5","B3"],"answer":2,"why":"1011 = B and 0101 = 5, so B5."},
-{"type":"mcq","q":"01100100 is shifted left by 1 place in an 8-bit unsigned register. What happens?","options":["The value is halved","Overflow occurs","The value stays the same","The value is doubled, giving 11001000"],"answer":3,"why":"01100100 is 100. A left shift doubles it to 200 = 11001000, which still fits in 8 bits (0 to 255), so no overflow."},
-{"type":"short","q":"Explain why hexadecimal is often used instead of binary by programmers.","model":"Hexadecimal is much shorter than binary because one hex digit represents 4 bits, so it is easier for people to read and remember and there are fewer errors when copying it. It also converts easily to and from binary.","points":["shorter / more compact than binary (one hex digit = 4 bits)","easier for humans to read, remember or copy, so fewer errors","easy to convert to and from binary"]}
-]}
+{
+ "id": "cs-r1-07",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which statement correctly describes the World Wide Web?",
+   "options": [
+    "The global network of cables and routers",
+    "A collection of web pages accessed using the internet",
+    "A program used to view web pages",
+    "A system that converts domain names to IP addresses"
+   ],
+   "answer": 1,
+   "why": "The web is the collection of pages; the internet is the network, a browser is the program and DNS does the conversion."
+  },
+  {
+   "type": "mcq",
+   "q": "What does a DNS server do?",
+   "options": [
+    "Encrypts data sent to a website",
+    "Stores the website's pages",
+    "Converts a domain name into an IP address",
+    "Blocks unauthorised network traffic"
+   ],
+   "answer": 2,
+   "why": "DNS translates the domain name typed by the user into the IP address of the web server."
+  },
+  {
+   "type": "mcq",
+   "q": "A worm differs from a virus because a worm…",
+   "options": [
+    "asks for a ransom to unlock files",
+    "pretends to be useful software",
+    "records the keys a user presses",
+    "replicates itself across a network without needing a host file"
+   ],
+   "answer": 3,
+   "why": "A worm is self-replicating and spreads on its own; a virus attaches to a file and needs it to be run."
+  },
+  {
+   "type": "short",
+   "q": "Explain how a firewall helps to protect a school network from hackers.",
+   "model": "A firewall monitors all incoming and outgoing network traffic and compares it with a set of rules. It blocks traffic that is not allowed, so unauthorised users cannot get into the network.",
+   "points": [
+    "Examines/monitors incoming and outgoing traffic",
+    "Compares it against rules / criteria",
+    "Blocks unauthorised traffic or access"
+   ]
+  }
+ ]
+}

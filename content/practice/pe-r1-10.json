@@ -2,158 +2,161 @@
  "id": "pe-r1-10",
  "cards": [
   {
-   "f": "Seven components of a balanced diet",
-   "b": "Carbohydrate, fat, protein, vitamins, minerals, fibre, water."
+   "f": "Carbohydrates",
+   "b": "Main source of energy; broken down to glucose. Pasta, rice, bread."
   },
   {
-   "f": "Macronutrients vs micronutrients",
-   "b": "Macro: large amounts (carbohydrate, fat, protein). Micro: small amounts (vitamins, minerals)."
+   "f": "Fats",
+   "b": "Energy store, insulation and protection of organs."
   },
   {
-   "f": "Function of carbohydrate",
-   "b": "Main energy source, stored as glycogen in muscles and liver."
+   "f": "Proteins",
+   "b": "Growth and repair of tissue. Meat, fish, eggs, beans."
   },
   {
-   "f": "Function of protein",
-   "b": "Growth and repair of muscle and other tissues."
+   "f": "Water",
+   "b": "Prevents dehydration, carries nutrients and helps control temperature."
   },
   {
-   "f": "Functions of fat",
-   "b": "Energy store, insulation, protects organs, carries fat-soluble vitamins."
+   "f": "Balanced diet",
+   "b": "Right proportions of all nutrients the body needs."
   },
   {
-   "f": "Function of calcium",
-   "b": "Builds strong bones and teeth."
+   "f": "Energy balance",
+   "b": "Energy taken in from food compared with energy used."
   },
   {
-   "f": "Function of iron",
-   "b": "Makes haemoglobin, which carries oxygen in red blood cells."
+   "f": "Unused energy",
+   "b": "Stored as fat; can lead to obesity."
   },
   {
-   "f": "Function of fibre",
-   "b": "Keeps digestion working and prevents constipation."
-  },
-  {
-   "f": "Energy per gram",
-   "b": "Carbohydrate and protein about 4 kcal; fat about 9 kcal."
-  },
-  {
-   "f": "Simple vs complex carbohydrates",
-   "b": "Simple: fast energy (sugar). Complex: slow release (pasta, rice, bread)."
-  },
-  {
-   "f": "Carbohydrate loading",
-   "b": "Eating extra carbohydrate before endurance events to store more glycogen."
+   "f": "Glucose",
+   "b": "Sugar used by muscle cells in respiration to release energy."
   },
   {
    "f": "Glycogen",
-   "b": "Stored form of carbohydrate in muscles and liver."
+   "b": "Stored glucose in the muscles and liver."
   },
   {
-   "f": "Effects of dehydration",
-   "b": "Thicker blood, higher heart rate and temperature, cramp, fatigue, poor concentration."
+   "f": "Carbohydrate loading",
+   "b": "Eating a lot of carbohydrate before endurance events to build glycogen stores."
   },
   {
-   "f": "Isotonic drink",
-   "b": "Same concentration as body fluids; replaces water, sugar and salts."
+   "f": "Dehydration",
+   "b": "Too much water lost; raises heart rate and causes fatigue and cramps."
   },
   {
-   "f": "What to eat after exercise",
-   "b": "Carbohydrate to refill glycogen and protein to repair muscle, plus fluids."
+   "f": "Teenager v child energy",
+   "b": "Teenagers need more energy for growth and activity."
+  },
+  {
+   "f": "Active v sedentary energy needs",
+   "b": "Active people need more energy than sedentary people."
+  },
+  {
+   "f": "Male v female energy needs",
+   "b": "Males usually need more because of larger size and muscle mass."
+  },
+  {
+   "f": "Source of protein",
+   "b": "Meat, fish, eggs, dairy, beans, tofu."
+  },
+  {
+   "f": "Source of fat",
+   "b": "Oils, butter, nuts, oily fish."
   }
  ],
  "gaps": [
   {
-   "s": "Carbohydrate is stored in the muscles and liver as ___.",
+   "s": "The main source of energy in the diet is ___.",
    "a": [
-    "glycogen"
+    "carbohydrate",
+    "carbohydrates"
    ]
   },
   {
-   "s": "Fat provides about ___ kcal per gram.",
-   "a": [
-    "9",
-    "nine"
-   ]
-  },
-  {
-   "s": "The mineral needed for strong bones is ___.",
-   "a": [
-    "calcium"
-   ]
-  },
-  {
-   "s": "Excessive water loss from the body is called ___.",
-   "a": [
-    "dehydration"
-   ]
-  },
-  {
-   "s": "Pasta and rice are examples of ___ carbohydrates.",
-   "a": [
-    "complex"
-   ]
-  },
-  {
-   "s": "Vitamins and minerals are called ___ because they are needed in small amounts.",
-   "a": [
-    "micronutrients",
-    "micro nutrients"
-   ]
-  },
-  {
-   "s": "Protein is needed for growth and ___.",
+   "s": "Protein is needed for growth and ___ of muscles.",
    "a": [
     "repair"
    ]
   },
   {
-   "s": "Plant material that is not digested but helps the gut is ___.",
+   "s": "Glucose is stored as ___ in the muscles and liver.",
    "a": [
-    "fibre",
-    "fiber"
+    "glycogen"
+   ]
+  },
+  {
+   "s": "Energy that is not used is stored as ___.",
+   "a": [
+    "fat"
+   ]
+  },
+  {
+   "s": "Losing too much water from the body is called ___.",
+   "a": [
+    "dehydration"
+   ]
+  },
+  {
+   "s": "Being very overweight is called ___.",
+   "a": [
+    "obesity"
+   ]
+  },
+  {
+   "s": "A ___ diet contains all nutrients in the right amounts.",
+   "a": [
+    "balanced"
+   ]
+  },
+  {
+   "s": "Pasta and rice are sources of ___.",
+   "a": [
+    "carbohydrate",
+    "carbohydrates"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why a marathon runner would eat more carbohydrate than a weightlifter.",
-   "model": "Marathons use a lot of energy over a long time, so more glycogen is needed. A weightlifter needs more protein for muscle growth.",
+   "q": "State two functions of fat in the body.",
+   "model": "It is an energy store and provides insulation or protection for organs.",
    "points": [
-    "glycogen / energy for endurance",
-    "weightlifter needs protein"
+    "energy store",
+    "insulation/protection"
    ]
   },
   {
-   "q": "Describe two effects of dehydration on performance.",
-   "model": "Blood becomes thicker so heart rate rises, and body temperature increases causing fatigue and cramp.",
+   "q": "Explain why an athlete needs protein.",
+   "model": "Protein repairs and builds muscle tissue after training.",
    "points": [
-    "thicker blood / higher heart rate",
-    "fatigue / cramp / overheating"
+    "growth and repair",
+    "link to muscle"
    ]
   },
   {
-   "q": "Why is calcium important to a teenage gymnast?",
-   "model": "Calcium builds strong bones and teeth. This reduces the risk of fractures during landings.",
+   "q": "Describe two effects of dehydration on a performer.",
+   "model": "Heart rate increases and the performer feels tired or gets cramp.",
    "points": [
-    "strong bones",
-    "fewer fractures"
+    "valid effect",
+    "second valid effect"
    ]
   },
   {
-   "q": "Give one source and one function of protein.",
-   "model": "Sources include meat, fish, eggs and beans. It repairs and builds muscle tissue.",
+   "q": "Explain how obesity can develop.",
+   "model": "If more energy is taken in than is used, the extra is stored as fat, causing weight gain.",
    "points": [
-    "valid source",
-    "growth and repair"
+    "energy in greater than out",
+    "stored as fat"
    ]
   },
   {
-   "q": "What should an athlete eat in the 2–4 hours before an event, and why?",
-   "model": "A meal high in complex carbohydrate and low in fat and fibre. It releases energy slowly and is easy to digest.",
+   "q": "Why does a teenage athlete need more energy than a sedentary adult?",
+   "model": "The teenager uses energy in exercise and for growth, whereas the sedentary adult uses less.",
    "points": [
-    "complex carbohydrate",
-    "slow release / easily digested"
+    "energy for activity",
+    "energy for growth"
    ]
   }
  ]

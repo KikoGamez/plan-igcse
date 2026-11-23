@@ -2,120 +2,96 @@
  "id": "pe-r1-05",
  "cards": [
   {
-   "f": "ATP",
-   "b": "Adenosine triphosphate: the molecule that provides the energy for muscle contraction."
+   "f": "Aerobic respiration equation",
+   "b": "Glucose + oxygen → carbon dioxide + water (plus energy)."
   },
   {
-   "f": "ATP-PC system",
-   "b": "Anaerobic; fuel is phosphocreatine; lasts about 10 seconds; no lactic acid. Shot put, 100 m."
+   "f": "Anaerobic respiration equation",
+   "b": "Glucose → lactic acid (plus a little energy)."
   },
   {
-   "f": "Lactic acid system",
-   "b": "Anaerobic; fuel is glucose; about 10 seconds to 3 minutes; produces lactic acid. 400 m."
+   "f": "When is aerobic respiration used?",
+   "b": "For longer, lower-intensity activity, e.g. marathon running."
   },
   {
-   "f": "Aerobic system",
-   "b": "Uses oxygen; fuel is glucose and fats; lasts over 3 minutes; makes CO₂ and water. Marathon."
+   "f": "When is anaerobic respiration used?",
+   "b": "For short, high-intensity activity, e.g. a 100 m sprint."
   },
   {
-   "f": "Aerobic vs anaerobic",
-   "b": "Aerobic: with oxygen. Anaerobic: without oxygen."
+   "f": "Glycogen",
+   "b": "How glucose is stored in the muscles and liver."
   },
   {
-   "f": "Energy continuum",
-   "b": "All three systems work together; the dominant one depends on intensity and duration."
+   "f": "Lactic acid",
+   "b": "Waste product of anaerobic respiration that causes muscle fatigue."
   },
   {
    "f": "EPOC",
-   "b": "Excess post-exercise oxygen consumption: extra oxygen used in recovery to return the body to rest."
+   "b": "Excess Post-exercise Oxygen Consumption (oxygen debt): extra oxygen after exercise to remove lactic acid."
   },
   {
-   "f": "Uses of oxygen in recovery",
-   "b": "Replace oxygen stores, restore ATP and PC, remove lactic acid."
+   "f": "Factors affecting recovery time",
+   "b": "Fitness level, intensity and duration of exercise, age, cool down, diet and rest."
   },
   {
-   "f": "DOMS",
-   "b": "Delayed onset muscle soreness 24–72 hours after exercise, from micro-tears in muscle fibres."
+   "f": "Short-term effect: heart rate",
+   "b": "Increases to deliver more oxygen to the working muscles."
   },
   {
-   "f": "Short-term effects on the cardiovascular system",
-   "b": "Heart rate, stroke volume and cardiac output rise; vascular shunting; blood pressure rises."
+   "f": "Short-term effect: breathing rate",
+   "b": "Increases to take in more oxygen and remove carbon dioxide."
   },
   {
-   "f": "Short-term effects on the respiratory system",
-   "b": "Breathing rate and tidal volume increase, so minute ventilation rises."
+   "f": "Short-term effect: red skin and sweating",
+   "b": "Blood vessels widen and sweat evaporates to cool the body (heat control)."
   },
   {
-   "f": "Short-term effects on muscles",
-   "b": "Muscle temperature rises, lactic acid builds up, fatigue."
+   "f": "Fatigue and nausea",
+   "b": "Short-term effects when lactic acid builds up or intensity is too high."
   },
   {
-   "f": "Long-term effects on the heart",
-   "b": "Cardiac hypertrophy, higher stroke volume, lower resting heart rate, higher maximum cardiac output."
-  },
-  {
-   "f": "Long-term effects on muscles",
-   "b": "Hypertrophy, more capillaries, myoglobin and mitochondria, better muscle tone."
-  },
-  {
-   "f": "Long-term effects on bones",
-   "b": "Increased bone density and strength; stronger ligaments and tendons."
+   "f": "Hypertrophy of the heart",
+   "b": "Long-term effect: the heart muscle gets bigger and stronger."
   },
   {
    "f": "Bradycardia",
-   "b": "Resting heart rate below 60 bpm, common in trained endurance athletes."
+   "b": "Resting heart rate below 60 bpm as a result of training."
+  },
+  {
+   "f": "Long-term effect on lactic acid",
+   "b": "Training increases tolerance of lactic acid, delaying fatigue."
   }
  ],
  "gaps": [
   {
-   "s": "The energy system without oxygen that uses phosphocreatine is the ATP-___ system.",
+   "s": "Glucose is stored in muscles and the liver as ___.",
    "a": [
-    "PC",
-    "pc"
+    "glycogen"
    ]
   },
   {
-   "s": "The by-product of the lactic acid system is ___ acid.",
+   "s": "Anaerobic respiration produces ___ acid.",
    "a": [
     "lactic"
    ]
   },
   {
-   "s": "Aerobic means with ___.",
+   "s": "Aerobic respiration releases carbon dioxide and ___.",
    "a": [
-    "oxygen"
+    "water"
    ]
   },
   {
-   "s": "Extra oxygen taken in after exercise is called ___.",
+   "s": "Oxygen debt is also called ___.",
    "a": [
     "EPOC",
-    "oxygen debt"
+    "excess post-exercise oxygen consumption"
    ]
   },
   {
-   "s": "Muscle pain 24–72 hours after exercise is called ___.",
-   "a": [
-    "DOMS",
-    "delayed onset muscle soreness"
-   ]
-  },
-  {
-   "s": "Regular training lowers the resting ___ rate.",
-   "a": [
-    "heart"
-   ]
-  },
-  {
-   "s": "An increase in the size of a muscle is ___.",
+   "s": "An increase in the size of the heart muscle is called ___.",
    "a": [
     "hypertrophy"
-   ]
-  },
-  {
-   "s": "Regular training increases bone ___.",
-   "a": [
-    "density"
    ]
   },
   {
@@ -123,47 +99,59 @@
    "a": [
     "bradycardia"
    ]
+  },
+  {
+   "s": "A marathon uses mainly ___ respiration.",
+   "a": [
+    "aerobic"
+   ]
+  },
+  {
+   "s": "Training increases ___ volume, the blood pumped per beat.",
+   "a": [
+    "stroke"
+   ]
   }
  ],
  "short": [
   {
-   "q": "Name the dominant energy system in a marathon and give two reasons.",
-   "model": "The aerobic system, because the effort is long and at low to moderate intensity, so oxygen supply meets demand.",
+   "q": "Explain why a netball player uses both aerobic and anaerobic respiration in a match.",
+   "model": "She uses aerobic respiration for lower-intensity jogging over the whole game, and anaerobic respiration for short high-intensity sprints and jumps.",
    "points": [
-    "aerobic system",
-    "long duration / low intensity / oxygen available"
+    "Aerobic for low intensity / long duration",
+    "Anaerobic for short bursts / sprints"
    ]
   },
   {
-   "q": "Explain why the lactic acid system is the main system in a 400 m race.",
-   "model": "The race lasts about 45–60 seconds at high intensity, beyond the ATP-PC system, so glucose is broken down without oxygen with lactic acid produced.",
+   "q": "Describe the short-term effects of exercise on heart rate and breathing rate and give a reason.",
+   "model": "Both increase, to deliver more oxygen to the working muscles and remove carbon dioxide.",
    "points": [
-    "high intensity about 1 minute",
-    "glucose used anaerobically / lactic acid made"
+    "Both heart rate and breathing rate increase",
+    "Reason: more oxygen needed by muscles"
    ]
   },
   {
-   "q": "Describe two short-term effects of exercise on the cardiovascular system.",
-   "model": "Heart rate increases and stroke volume increases, so cardiac output rises to deliver more oxygen to muscles.",
+   "q": "State two factors that affect recovery time after exercise.",
+   "model": "Fitness level and the intensity of the exercise (also cool down, age, diet).",
    "points": [
-    "heart rate rises",
-    "stroke volume / cardiac output rises"
+    "One valid factor",
+    "A second valid factor"
    ]
   },
   {
-   "q": "Describe two long-term effects of regular endurance training on the cardiovascular system.",
-   "model": "The heart gets bigger and stronger, increasing stroke volume, so resting heart rate falls. More capillaries also form around muscles.",
+   "q": "Explain what causes fatigue in anaerobic exercise.",
+   "model": "Without enough oxygen, glucose is broken down to lactic acid, which builds up in the muscles and causes fatigue.",
    "points": [
-    "stroke volume / heart size increases",
-    "resting heart rate falls or capillarisation"
+    "Anaerobic respiration produces lactic acid",
+    "Lactic acid build-up causes fatigue"
    ]
   },
   {
-   "q": "Explain why an active cool-down helps recovery.",
-   "model": "It keeps blood flowing so oxygen is delivered and lactic acid is removed faster, helping the body return to its resting state.",
+   "q": "Describe two long-term effects of training on the heart.",
+   "model": "The heart gets bigger and stronger (hypertrophy), increasing stroke volume, and the resting heart rate falls (bradycardia).",
    "points": [
-    "keeps blood flowing / oxygen delivered",
-    "removes lactic acid faster"
+    "Hypertrophy / stroke volume increase",
+    "Bradycardia / lower resting heart rate"
    ]
   }
  ]

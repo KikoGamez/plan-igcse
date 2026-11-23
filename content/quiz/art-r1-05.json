@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A monoprint is",
+   "q": "Which is a relief printing process?",
    "options": [
-    "one of an edition of 20",
-    "a single unique print from a plate",
-    "a print from lino",
-    "a print using a mesh screen"
+    "Monoprint",
+    "Photogram",
+    "Lino cut",
+    "Papier collé"
    ],
-   "answer": 1,
-   "why": "A monoprint gives one unique impression."
+   "answer": 2,
+   "why": "Lino printing uses the raised surface of the block; the carved parts stay white."
   },
   {
    "type": "mcq",
-   "q": "Which artist is known for Dada photomontage?",
+   "q": "Why must lettering be carved in reverse on a lino block?",
    "options": [
-    "Hannah Höch",
-    "Hokusai",
-    "Angie Lewin",
-    "Rembrandt"
+    "It prints as a mirror image",
+    "It dries faster",
+    "It uses less ink",
+    "It makes the block softer"
    ],
    "answer": 0,
-   "why": "Hannah Höch made Dada photomontages from cut photographs."
+   "why": "The print is a mirror image of the block."
   },
   {
    "type": "mcq",
-   "q": "Why is a lino design drawn in reverse for text?",
+   "q": "What is a monoprint?",
    "options": [
-    "Lino is soft",
-    "The print is flipped when pressed on paper",
-    "Ink dries backwards",
-    "It saves time"
+    "A print made in an edition of 50",
+    "A print on a single colour",
+    "A collage of newspaper",
+    "A one-off print from an inked smooth plate"
    ],
-   "answer": 1,
-   "why": "Relief prints mirror the block, so text must be reversed."
+   "answer": 3,
+   "why": "Mono means one; each monoprint is unique."
   },
   {
    "type": "short",
-   "q": "Give two tips for a clean lino print.",
-   "model": "Roll ink thin and even; carve clean areas and apply even pressure with a baren or press.",
+   "q": "Explain the difference between collage and assemblage.",
+   "model": "Collage sticks flat materials such as paper or photographs onto a surface. Assemblage arranges three-dimensional or found objects together.",
    "points": [
-    "thin even ink",
-    "clean carving / even pressure"
+    "collage = flat materials stuck",
+    "assemblage = 3D objects"
    ]
   }
  ]

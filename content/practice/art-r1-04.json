@@ -3,66 +3,96 @@
  "cards": [
   {
    "f": "Primary colours",
-   "b": "Red, yellow and blue on the traditional paint wheel; they cannot be mixed from other colours."
+   "b": "Red, yellow, blue; cannot be mixed from other paints."
   },
   {
    "f": "Secondary colours",
-   "b": "Orange, green and purple, made by mixing two primaries."
+   "b": "Orange, green, purple; each is made by mixing two primaries."
   },
   {
    "f": "Tertiary colours",
-   "b": "Made by mixing a primary with a neighbouring secondary, e.g. blue-green."
+   "b": "A primary mixed with its neighbouring secondary, e.g. red-orange."
   },
   {
    "f": "Complementary colours",
-   "b": "Opposite each other on the wheel (blue/orange, red/green, yellow/purple). High contrast."
+   "b": "Opposites on the wheel; strong contrast, and dull neutrals when mixed."
   },
   {
    "f": "Analogous colours",
-   "b": "Neighbours on the wheel, e.g. yellow, yellow-green, green. Calm and harmonious."
+   "b": "Neighbours on the wheel; calm, harmonious."
+  },
+  {
+   "f": "Hue, value, saturation",
+   "b": "Colour name; lightness or darkness; purity or intensity."
   },
   {
    "f": "Tint and shade",
-   "b": "Tint: hue plus white. Shade: hue plus black."
-  },
-  {
-   "f": "Saturation",
-   "b": "How pure or vivid a colour is. Mixing in its complement lowers it."
+   "b": "Tint = colour + white; shade = colour + black."
   },
   {
    "f": "Warm and cool colours",
-   "b": "Warm (red, orange, yellow) advance and feel energetic; cool (blue, green, purple) recede and feel calm."
+   "b": "Warm (red, orange, yellow) advance; cool (blue, green) recede."
   },
   {
-   "f": "Wet-on-wet",
-   "b": "Paint onto wet paper so colours bleed softly. Good for skies and atmosphere."
-  },
-  {
-   "f": "Wet-on-dry",
-   "b": "Paint onto dry paper for crisp edges and detail."
+   "f": "Watercolour wash",
+   "b": "A thin diluted layer of paint; flat or graded."
   },
   {
    "f": "Glaze",
-   "b": "A thin transparent layer of paint over a dry layer to deepen colour."
+   "b": "A thin transparent layer over a dry layer to deepen colour."
   },
   {
    "f": "Impasto",
-   "b": "Thickly applied paint, often with a palette knife, so marks stand out."
+   "b": "Thick paint where brush or knife marks show; used by Van Gogh."
   },
   {
-   "f": "Gouache properties",
-   "b": "Opaque, matt, water-based; can be rewetted and reworked; good for flat colour."
+   "f": "Gouache",
+   "b": "Opaque, water-based, matte paint good for flat colour and illustration."
   },
   {
-   "f": "Acrylic properties",
-   "b": "Fast-drying and permanent when dry; opaque or glazed; good for layers, texture and bold colour."
+   "f": "Acrylic",
+   "b": "Fast-drying plastic-based paint; waterproof when dry; thick or thin."
   },
   {
-   "f": "Watercolour properties",
-   "b": "Transparent; work light to dark; the paper provides the white; hard to correct."
+   "f": "Sgraffito",
+   "b": "Scratching through a layer of paint to reveal the layer below."
+  },
+  {
+   "f": "Simultaneous contrast",
+   "b": "Colours side by side look more intense; explored by Josef Albers."
   }
  ],
  "gaps": [
+  {
+   "s": "Colours opposite each other on the colour wheel are called ___ colours.",
+   "a": [
+    "complementary"
+   ]
+  },
+  {
+   "s": "Colours next to each other on the wheel are called ___.",
+   "a": [
+    "analogous"
+   ]
+  },
+  {
+   "s": "A colour mixed with white is called a ___.",
+   "a": [
+    "tint"
+   ]
+  },
+  {
+   "s": "Paint applied thickly so marks show is called ___.",
+   "a": [
+    "impasto"
+   ]
+  },
+  {
+   "s": "A thin transparent layer over dry paint is a ___.",
+   "a": [
+    "glaze"
+   ]
+  },
   {
    "s": "Red, yellow and blue are the ___ colours.",
    "a": [
@@ -70,87 +100,58 @@
    ]
   },
   {
-   "s": "Blue's complement is ___.",
+   "s": "Scratching through paint to reveal a lower layer is called ___.",
    "a": [
-    "orange"
+    "sgraffito"
    ]
   },
   {
-   "s": "A hue with white added is a ___.",
+   "s": "Warm colours seem to ___ and cool colours to recede.",
    "a": [
-    "tint"
-   ]
-  },
-  {
-   "s": "Paint applied thickly with a knife is called ___.",
-   "a": [
-    "impasto"
-   ]
-  },
-  {
-   "s": "A thin transparent layer over a dry layer is a ___.",
-   "a": [
-    "glaze"
-   ]
-  },
-  {
-   "s": "Colours next to each other on the wheel are ___.",
-   "a": [
-    "analogous"
-   ]
-  },
-  {
-   "s": "The medium that is opaque, matt and can be rewetted is ___.",
-   "a": [
-    "gouache"
-   ]
-  },
-  {
-   "s": "In watercolour, white is made by leaving the ___ unpainted.",
-   "a": [
-    "paper"
+    "advance",
+    "come forward"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain how to avoid muddy colours.",
-   "model": "Mix no more than three colours, clean the brush between mixes, use complementaries to darken instead of black, and avoid overworking wet paint.",
+   "q": "Why avoid adding black to darken colours?",
+   "model": "Black can make colours look dull and dead. A darker colour or the complement gives richer shadows.",
    "points": [
-    "limit colours/clean brush",
-    "complementaries not black / don't overwork"
+    "black deadens colour",
+    "alternative such as complement or dark blue"
    ]
   },
   {
-   "q": "Compare acrylic and watercolour in two ways.",
-   "model": "Acrylic is opaque and permanent when dry and can be built thickly; watercolour is transparent, works light to dark and uses the paper as white.",
+   "q": "Compare watercolour and acrylic.",
+   "model": "Watercolour is transparent and good for soft washes but hard to correct. Acrylic is opaque or thin, dries fast and can be built thickly with texture.",
    "points": [
-    "acrylic opaque/impasto/permanent",
-    "watercolour transparent/light to dark"
+    "watercolour transparent/wash",
+    "acrylic opaque/fast-drying/thick"
    ]
   },
   {
-   "q": "How can complementary colours create a focal point?",
-   "model": "Placing a small area of one colour against a large area of its opposite makes it look brighter and draws the eye.",
+   "q": "How can colour be used to create a focal point?",
+   "model": "Place a small area of a complementary or warm contrasting colour against a cool or neutral background so the eye goes there first.",
    "points": [
-    "small area vs large area",
-    "opposite colour makes it stand out"
+    "contrast in colour",
+    "small area against opposing background"
    ]
   },
   {
-   "q": "Describe the effect of an analogous palette.",
-   "model": "It gives a calm, harmonious, unified look because the colours are neighbours on the wheel.",
+   "q": "Name an artist known for colour and explain one technique.",
+   "model": "Van Gogh used impasto and expressive complementary colour such as blue and orange to create energy.",
    "points": [
-    "neighbours on wheel",
-    "calm and harmonious"
+    "correct artist",
+    "correct technique"
    ]
   },
   {
-   "q": "How do you show AO2 when choosing a medium?",
-   "model": "Test the same subject in several media, review them against your intention and select one with a written or visual reason.",
+   "q": "Why is selection important when testing paint media?",
+   "model": "You must choose the medium that best suits your idea and explain why, which shows AO2 judgement, not just trying things.",
    "points": [
-    "tests in several media",
-    "review and reasoned selection"
+    "choose best",
+    "explain reasons"
    ]
   }
  ]

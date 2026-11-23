@@ -1,64 +1,65 @@
-# Past paper · Reading and Writing timed (2/2)
+# Past paper · Writing timed
 
-> **Goal:** Do the **Writing section (Section B, Q6–Q8)** of the same Pearson Edexcel International GCSE German Paper 2 under timed conditions, then mark both sections and set your three targets for the exam.
+> **Goal:** Do one complete Cambridge IGCSE German 0525 Paper 4 Writing (form, 80–90 words, 130–140 words) in 1 hour, then check it against the marking criteria and log every language error.
 
 ## Before you start
 
-- **Which paper:** the **same Paper 2 (4GN1/02)** as last session (Pearson qualifications website, past papers). You need the **question paper (Section B)** and the **mark scheme** for the same series. If you are short of time, do Q6 and Q8 fully and plan Q7 only.
-- Have ready: pen, a different colour for marking, timer, **no dictionary**, lined paper if the booklet is not printed with space, your Section A results from last time.
-- Revise for 5 minutes the planning grid (below) but then close your notes.
-- If you finished the marking of Section A last time, bring the total (__/40).
+- **Paper:** a recent Paper 4 Writing that you have **not** done: the specimen paper for the 2025–2027 syllabus, or May/June or Oct/Nov 2025 (Paper 41, 42 or 43), with its **mark scheme** (your teacher can get these from the Cambridge School Support Hub). Papers before 2025 may be laid out differently, so check that yours has Q1 (form), Q2 (80–90 words) and Q3 (choice, 130–140 words).
+- Lined paper, black pen, timer. **No dictionary, no phone, no notes.**
+- Your error log is closed until the checking stage.
 
 ## Exam format reminder
 
-- **Paper 2 total: 80 marks**; Section B (Writing) = **40 marks**, about **52 minutes** advised.
-- **Q6:** short task, **60–75 words**, including **four prescribed words or phrases** (10 marks).
-- **Q7:** extended task, **choice of three questions** on different themes, **130–150 words**, four bullet points (20 marks).
-- **Q8:** grammar task, change the words in brackets to fit the text (10 marks).
-- Q6 and Q7 are marked for **communication and content** and for **linguistic knowledge and accuracy**; Q8 for grammatical accuracy, punctuation and spelling.
+- **Paper 4: 1 hour, 45 marks, three questions.**
+- **Q1 (5 marks):** fill in a **form** with single words or short phrases.
+- **Q2 (12 marks):** **directed writing**, about **80–90 words**, on a familiar topic; cover every bullet point.
+- **Q3 (28 marks):** choose **one** of two tasks (**email/letter** or **article/blog**) and write about **130–140 words**.
+- Marking covers communication of content, range of language and accuracy. Q3 is more than half the paper.
 
 ## How to do it
 
-1. **0–3 min:** set up. Read the technique below.
-2. **3–15 min: Q6.** 2 minutes planning (tenses and where to use the four words), 8 minutes writing, 2 minutes count and check.
-3. **15–42 min: Q7** (27 minutes). Choose the question in 1 minute; plan the four bullets in 3 (tense, opinion, reason, structure); write 130–150 words in 17; check in 5.
-4. **42–50 min: Q8** (8 minutes). For each gap decide: word type → tense/person or gender/case → ending. Remember that some words stay unchanged.
-5. **50–60 min: marking.** Use the mark scheme for Q8 first (a quick score), then mark Q6 and Q7 against the criteria honestly. If you cannot finish, complete it after the session and then add the total for Paper 2: Section A __/40 + Section B __/40.
+1. **0–5 min:** Read the whole paper. Do **Q1** (3 minutes): single words in German; check spelling of names and numbers.
+2. **5–25 min:** **Q2** (about 18 min). Underline the situation and every bullet. Plan one or two sentences per bullet (2 min). Write 80–90 words (12 min). Tick each bullet off. Count the words (or lines) and cut or add.
+3. **25–55 min:** **Q3** (about 30 min).
+   - **Choose (2 min):** choose the task where you know the vocabulary and can use past, present and future.
+   - **Plan (3 min):** write the bullets with 3 key words each and the language you will show (opinion + *weil*, Perfekt, *werde*, *würde*).
+   - **Write (20 min)** 130–140 words, in paragraphs.
+   - **Count** words.
+4. **55–60 min:** **Check** with the accuracy checklist below. Fix at least three errors.
+5. **After the timer:** check against the criteria (below), read the mark scheme and the **examiner's sample answers** if provided. Update the error log.
 
 ## Exam technique for this paper
 
-- **Q6:** include **all four** prescribed items; two tenses; one opinion with a reason; count to stay at 60–75 words.
-- **Q7:** answer **all four bullets** in order, each with detail; use **past, present and future**; include a conditional or a *dass/weil/obwohl* clause; give opinions with reasons.
-- **Choose the question** where you have the vocabulary; do not pick on topic alone.
-- Use connectives: *weil, denn, aber, trotzdem, außerdem, deshalb, obwohl, während*.
-- **Accuracy:** verb in position 2 (main clause), verb last (subordinate), capital letters on all nouns, perfect with *sein/haben* and a participle at the end, cases after prepositions.
-- **Q8:** change only what must change: verbs (tense, person, participles), adjectives (endings), articles and pronouns; check against the sentence meaning.
-- **Last 5 minutes:** check verbs, endings, spelling, word count.
-- Don't use English words, and don't write sentences that you cannot build correctly: keep the language **simple but accurate and varied**.
+- **Cover every bullet.** Missing one costs content marks.
+- **Answer the task type:** informal (*du*, *Lieber Max,*) or formal (*Sie*, *Sehr geehrte Damen und Herren,*). For an article/blog use a title and an engaging start.
+- **Stick to 130–140 words** (Q3) and **80–90 words** (Q2). Writing more is not rewarded and adds errors.
+- **Show range:** opinion + reason (*Ich finde …, weil …*); at least two time frames; connectives (*obwohl, wenn, dass, außerdem, deshalb*); a comparative; a modal verb; a conditional (*würde*).
+- **Accuracy checklist (last 5 min):** (1) every noun has a capital; (2) verb **second** in main clauses; (3) verb **at the end** after *weil, dass, wenn, obwohl*; (4) Perfekt with the right auxiliary (*bin gefahren, habe gespielt*) and participle at the end; (5) case after prepositions (*mit dem*, *für den*); (6) adjective endings; (7) *du/Sie* consistency.
+- **Use words you know.** Don't try to translate English phrases word for word.
+- **Don't write in English.** If you can't remember a word, use a simpler German one.
 
 ## Checklist while marking
 
-- [ ] Q6: all four words used? 60–75 words? two tenses? opinion and reason?
-- [ ] Q7: four bullets answered, each with detail? 130–150 words? past + future + opinion?
-- [ ] Count errors by type: verb position, perfect (aux/participle), gender/case, adjective endings, spelling/capitals.
-- [ ] Q8: what rule did each lost mark involve? Write it as a one-line rule.
-- [ ] Compare your Q7 with the model/examiner comments in the mark scheme or an examiner report (also on the Pearson site).
-- [ ] Rewrite **one paragraph** of Q7 with the errors corrected and one extra structure.
-- [ ] Total Paper 2: A __/40 + B __/40 = __/80. Write your **three targets** (e.g. word order after weil, perfect with sein, adjective endings).
+- **Content:** Is every bullet answered fully? Is there at least one reason or example for each?
+- **Range:** Did I use past, present **and** future? How many *weil/dass/wenn* clauses? Any conditional? Any comparative?
+- **Accuracy:** count errors in the categories: capitals; verb position; Perfekt auxiliary/participle; case; adjective endings; spelling.
+- **Length:** Q2 within 80–90? Q3 within 130–140?
+- **Register:** *du* or *Sie* consistent and correct, with correct opening and closing.
+- **Errors log:** each error → correction → rule. Pick the three most common and write one correct example sentence for each.
+- Compare your answer with the sample in your mark scheme (if any). Which one phrase would you borrow?
+- Total: Q1 ___/5; Q2 ___/12; Q3 ___/28. Be honest with the band descriptors.
 
 ## Quick-fire revision
 
-- Writing = 40 marks: Q6 10, Q7 20, Q8 10; about 52 minutes.
-- Q6: 60–75 words, four prescribed words; Q7: 130–150 words, four bullets.
-- Verb second: *Letztes Jahr bin ich nach Rom gefahren.*
-- Verb last: *…, weil ich müde bin.* / *…, dass er kommt.* / *…, obwohl es regnet.*
-- Perfect with *sein*: *gefahren, gegangen, geblieben, aufgestanden, geflogen*.
-- Conditional: *Wenn ich Zeit hätte, würde ich reisen.*
-- Future: *Ich werde … + infinitive at the end.*
-- *um … zu*: *Ich spare Geld, um ein Auto zu kaufen.*
-- Dative after *mit, von, zu, bei, nach, aus, seit*; accusative after *für, durch, ohne, gegen*.
-- Adjective endings: *der kleine Hund*, *ein kleiner Hund*, *mit dem kleinen Hund*, *die kleinen Hunde*.
-- Capitals on all nouns; *Jahre alt* with age.
-- Opinion + reason: *Ich finde … , weil …*; *Meiner Meinung nach …*
-- Don't write much over the word limits.
-- Check endings, word order and spelling in the last 5 minutes.
+- **Writing = 45 marks: Q1 5, Q2 12, Q3 28.**
+- Informal opening: *Lieber Tom, / Liebe Lena,* · closing: *Viele Grüße, … / Schreib bald!*
+- Formal opening: *Sehr geehrte Damen und Herren,* · closing: *Mit freundlichen Grüßen*.
+- *weil* → verb at the end: *…, weil es Spaß **macht**.*
+- Main clause verb second: *Am Samstag **gehe** ich …*
+- Perfekt: *Ich **habe** Tennis **gespielt**. Ich **bin** nach Berlin **gefahren**.*
+- Future: *Nächstes Jahr **werde** ich … **fahren**.*
+- Conditional: *Wenn ich Zeit **hätte**, **würde** ich …*
+- Opinion: *Meiner Meinung nach … · Ich finde, dass …*
+- Connectives: *außerdem, deshalb, obwohl, aber, denn, trotzdem*.
+- Time: *letztes Jahr, nächste Woche, jeden Tag, früher*.
+- Check: capitals, verb position, auxiliary, cases, endings.

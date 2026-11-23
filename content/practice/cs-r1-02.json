@@ -2,166 +2,165 @@
  "id": "cs-r1-02",
  "cards": [
   {
-   "f": "Linear search",
-   "b": "Checks each item in turn from the start until the target is found or the list ends. Works on unsorted lists."
+   "f": "Character set",
+   "b": "All the characters and symbols a computer can recognise, each with its own binary code."
   },
   {
-   "f": "Binary search",
-   "b": "On a sorted list, compare with the middle item and discard the half that cannot contain the target; repeat."
+   "f": "ASCII",
+   "b": "A character set using 7 bits per character (128 characters). Extended ASCII uses 8 bits (256)."
   },
   {
-   "f": "Binary search: middle index",
-   "b": "mid = (low + high) DIV 2, rounding down. For indices 0 to 7 the middle is 3."
+   "f": "Unicode",
+   "b": "A character set using more bits per character (e.g. 16 or 32) so it can represent every language, symbols and emojis."
   },
   {
-   "f": "Binary search: the target is bigger than the middle item",
-   "b": "Search the upper half: set low = mid + 1."
+   "f": "Why was Unicode needed?",
+   "b": "ASCII has too few characters for languages such as Chinese, Arabic or Hindi. The first 128 Unicode characters match ASCII."
   },
   {
-   "f": "Binary search: when does it stop with 'not found'?",
-   "b": "When low becomes greater than high."
+   "f": "Sample rate",
+   "b": "The number of samples of a sound wave taken each second, measured in hertz (Hz)."
   },
   {
-   "f": "Bubble sort",
-   "b": "Compares neighbouring items and swaps them if out of order; repeats passes until a pass has no swaps."
+   "f": "Sample resolution",
+   "b": "The number of bits used to store each sound sample (bit depth)."
   },
   {
-   "f": "After each bubble sort pass",
-   "b": "The largest unsorted item has moved to the end of the list."
+   "f": "Sound file size formula",
+   "b": "Sample rate × sample resolution × length in seconds, giving bits. Divide by 8 for bytes."
   },
   {
-   "f": "Why does a swap need a temporary variable?",
-   "b": "Copying one value over another would lose the overwritten value, so it is held in a temp first."
+   "f": "Pixel and image resolution",
+   "b": "A pixel is the smallest element of an image. Resolution is the number of pixels, as width × height."
   },
   {
-   "f": "Why use a swapped flag in bubble sort?",
-   "b": "To stop as soon as a whole pass makes no swaps, avoiding unnecessary passes."
+   "f": "Colour depth",
+   "b": "The number of bits used for each pixel's colour. n bits give 2ⁿ colours."
   },
   {
-   "f": "Merge sort: divide phase",
-   "b": "Keep splitting the list in half until every sub-list has one item."
+   "f": "Image file size formula",
+   "b": "Width × height × colour depth, giving bits. Divide by 8 for bytes."
   },
   {
-   "f": "Merge sort: merge phase",
-   "b": "Compare the first items of two sorted lists, take the smaller, repeat; this builds a bigger sorted list."
+   "f": "Metadata (image)",
+   "b": "Data about the file, such as width, height and colour depth, needed to rebuild the image."
   },
   {
-   "f": "Advantage of linear search",
-   "b": "Works on unsorted data and is very simple to write."
+   "f": "Data units above a byte",
+   "b": "1 KiB = 1024 bytes; 1 MiB = 1024 KiB; 1 GiB = 1024 MiB; 1 TiB = 1024 GiB; 1 PiB = 1024 TiB."
   },
   {
-   "f": "Advantage of binary search",
-   "b": "Much faster on long lists because the search area is halved each time."
+   "f": "Lossless compression",
+   "b": "File made smaller with no data lost; the original can be rebuilt exactly. Used for text and program files."
   },
   {
-   "f": "Bubble sort vs merge sort",
-   "b": "Bubble sort: simple, no extra memory, slow on long lists. Merge sort: much faster on long lists but needs more memory."
+   "f": "Lossy compression",
+   "b": "Some data is permanently removed, giving a bigger reduction but lower quality. Used for JPEG, MP3 and MP4."
   },
   {
-   "f": "Worst case for linear search",
-   "b": "The target is last or not in the list, so every item is checked."
+   "f": "Run-length encoding (RLE)",
+   "b": "A lossless method that replaces a run of repeated data with one value and a count, e.g. AAAB becomes 3A 1B."
   }
  ],
  "gaps": [
   {
-   "s": "Binary search only works if the list is ___.",
+   "s": "ASCII uses ___ bits for each character.",
    "a": [
-    "sorted",
-    "in order",
-    "ordered"
+    "7",
+    "seven"
    ]
   },
   {
-   "s": "Linear search checks each item in ___.",
+   "s": "One kibibyte is ___ bytes.",
    "a": [
-    "turn",
-    "order",
-    "sequence"
+    "1024",
+    "1,024"
    ]
   },
   {
-   "s": "A bubble sort stops when a pass makes no ___.",
+   "s": "A colour depth of 8 bits allows ___ different colours.",
    "a": [
-    "swaps",
-    "swap",
-    "changes"
+    "256"
    ]
   },
   {
-   "s": "The middle index for indices 0 to 6 is ___.",
+   "s": "Run-length encoding is a ___ compression method because no data is lost.",
    "a": [
-    "3"
+    "lossless"
    ]
   },
   {
-   "s": "Merge sort first ___ the list into single items.",
+   "s": "The number of sound samples taken per second is called the sample ___.",
    "a": [
-    "divides",
-    "splits",
-    "halves",
-    "divide",
-    "split"
+    "rate"
    ]
   },
   {
-   "s": "In a swap, the value of one item is held in a ___ variable.",
+   "s": "Data about an image, such as its width and height, is called ___.",
    "a": [
-    "temporary",
-    "temp"
+    "metadata",
+    "meta data"
    ]
   },
   {
-   "s": "A full pass through a list in a sort is called a ___.",
+   "s": "JPEG photographs use ___ compression.",
    "a": [
-    "pass"
+    "lossy"
    ]
   },
   {
-   "s": "Merge sort is a divide and ___ algorithm.",
+   "s": "The first 128 Unicode characters are the same as ___.",
    "a": [
-    "conquer"
+    "ascii"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why binary search cannot be used on the unsorted list 9 2 14 6.",
-   "model": "Binary search compares with the middle item and discards half the list. In an unsorted list the target could be in the discarded half, so it might be missed.",
+   "type": "short",
+   "q": "A sound is recorded for 20 seconds with a sample rate of 44,100 Hz and a sample resolution of 16 bits. Calculate the file size in KiB.",
+   "model": "44,100 × 16 × 20 = 14,112,000 bits ÷ 8 = 1,764,000 bytes ÷ 1024 = 1722.66 KiB (about 1722.7).",
    "points": [
-    "works by discarding half based on the middle item",
-    "needs sorted data, otherwise target could be in the discarded half"
+    "44,100 × 16 × 20 = 14,112,000 bits",
+    "÷ 8 then ÷ 1024",
+    "1722.66 KiB"
    ]
   },
   {
-   "q": "Show the list 6 2 9 4 after each pass of a bubble sort (ascending).",
-   "model": "Pass 1: 2 6 4 9. Pass 2: 2 4 6 9. Pass 3: no swaps, so it is sorted: 2 4 6 9.",
+   "type": "short",
+   "q": "An image is 800 pixels wide and 600 pixels high with a colour depth of 24 bits. Calculate the file size in bytes.",
+   "model": "800 × 600 = 480,000 pixels × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes.",
    "points": [
-    "pass 1: 2 6 4 9",
-    "pass 2: 2 4 6 9 and final pass with no swaps"
+    "480,000 pixels × 24 bits",
+    "÷ 8",
+    "1,440,000 bytes"
    ]
   },
   {
-   "q": "A sorted list is 3 8 12 15 21 27 34 40. Trace a binary search for 12 and give the items checked.",
-   "model": "Items checked: 15 (mid index 3), then 8 (mid index 1), then 12 (mid index 2) where it is found.",
+   "type": "short",
+   "q": "Explain why Unicode is used instead of ASCII for a website with text in several languages.",
+   "model": "ASCII has only 128 characters so it cannot represent languages such as Chinese or Arabic. Unicode uses more bits per character and has over 140,000 characters.",
    "points": [
-    "first middle 15",
-    "then 8 and 12 found"
+    "ASCII has too few characters",
+    "Unicode has many more characters / uses more bits per character"
    ]
   },
   {
-   "q": "Give one advantage and one disadvantage of merge sort compared with bubble sort.",
-   "model": "Advantage: much faster on long lists. Disadvantage: needs extra memory and is more complex to code.",
+   "type": "short",
+   "q": "Describe two ways a sound file can be compressed using lossy compression.",
+   "model": "Reduce the sample rate and/or the sample resolution, and remove sounds humans cannot easily hear. This permanently loses data but makes the file smaller.",
    "points": [
-    "faster on long lists",
-    "needs more memory / more complex"
+    "reduce sample rate or sample resolution",
+    "remove sounds that cannot easily be heard / data permanently lost"
    ]
   },
   {
-   "q": "A list of 50,000 sorted customer numbers is searched many times a day. Which search should be used and why?",
-   "model": "Binary search, because the list is already sorted and halving the search area each time is far quicker than checking numbers one by one.",
+   "type": "short",
+   "q": "Show the run-length encoding of XXXXXXYYZZZZZZZZ and say whether it is lossy or lossless.",
+   "model": "6X 2Y 8Z. It is lossless because the original can be rebuilt exactly.",
    "points": [
-    "binary search",
-    "sorted data/halves each time so much faster"
+    "6X 2Y 8Z",
+    "lossless"
    ]
   }
  ]

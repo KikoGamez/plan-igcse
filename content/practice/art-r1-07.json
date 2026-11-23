@@ -2,163 +2,160 @@
  "id": "art-r1-07",
  "cards": [
   {
-   "f": "AO1 wording",
-   "b": "Develop ideas through investigations, demonstrating critical understanding of sources."
-  },
-  {
-   "f": "AO1 share of marks",
-   "b": "25% of the qualification: 12.5% per component, 18 of the 72 marks in each component."
-  },
-  {
-   "f": "Primary source",
-   "b": "First-hand evidence: your own photos or drawings, or seeing an original artwork."
-  },
-  {
-   "f": "Secondary source",
-   "b": "Made by someone else: a book, website or image of a work."
-  },
-  {
-   "f": "Master study",
-   "b": "A careful copy of part of an artist's work to learn how it was made."
-  },
-  {
-   "f": "Context",
-   "b": "The time, place, culture and purpose in which a work was made."
+   "f": "AO3 Develop wording",
+   "b": "Develop ideas through investigation, demonstrating critical understanding. 25 of 100 marks in each component."
   },
   {
    "f": "Critical understanding",
-   "b": "Explaining and judging a source and how it relates to your own ideas, not just describing it."
+   "b": "Looking closely at artists' work, explaining how and why it works, and using it to develop your own ideas."
   },
   {
-   "f": "Study in the style of",
-   "b": "Using an artist's technique or palette on your own subject."
+   "f": "First-hand source",
+   "b": "Evidence you make or see yourself: your own drawings, photographs, gallery visits."
   },
   {
-   "f": "Transcription",
-   "b": "Reinterpreting an artwork in a different medium."
+   "f": "Secondary source",
+   "b": "Images and information made by others: books, magazines, websites."
   },
   {
-   "f": "Link test for choosing an artist",
-   "b": "What connects to my theme? What can I try? Does it give me something new?"
+   "f": "Contextual source",
+   "b": "An artist, art movement, historical event or local/national art, craft or design that gives your work a background."
   },
   {
-   "f": "Five parts of a contextual study",
-   "b": "Visual evidence, practical response, analysis, context, connection to your own work."
+   "f": "Study in the style of an artist",
+   "b": "Your own piece that copies a method to learn from it, then applies it to your subject. Not tracing."
   },
   {
-   "f": "Why gallery visits matter",
-   "b": "Fine Art requires first-hand experience of original work in primary research."
+   "f": "How many artists to research?",
+   "b": "About three to five across a project, with at least one living or recent artist."
   },
   {
-   "f": "Madrid gallery examples",
-   "b": "Prado, Museo Reina Sofía, Museo Thyssen-Bornemisza, Sorolla Museum."
+   "f": "Hokusai, famous work",
+   "b": "The Great Wave off Kanagawa (c.1831): Japanese woodblock print with strong outline and flat colour."
   },
   {
-   "f": "Continuity and change",
-   "b": "How art, craft and design ideas stay the same or develop over time."
+   "f": "Van Gogh, key features",
+   "b": "Thick directional brush marks (impasto) and intense colour, e.g. The Starry Night (1889)."
   },
   {
-   "f": "Sentence that raises marks",
-   "b": "A judgement: 'This worked because… but next time I will…'."
+   "f": "Frida Kahlo, key features",
+   "b": "Mexican painter of symbolic self-portraits about identity, pain and culture."
+  },
+  {
+   "f": "Yayoi Kusama, key features",
+   "b": "Japanese artist known for polka dots, repetition and Infinity Mirror Rooms."
+  },
+  {
+   "f": "Basquiat, key features",
+   "b": "American artist (1960-1988): raw scribbled lines, words and symbols; started as a graffiti artist."
+  },
+  {
+   "f": "Antony Gormley",
+   "b": "British sculptor of body casts and the Angel of the North (1998). Useful for form, figure and scale."
+  },
+  {
+   "f": "Strong link sentence",
+   "b": "Names the artist's feature and says how you used it in your own theme, e.g. repetition to show a busy city."
+  },
+  {
+   "f": "Why credit images?",
+   "b": "Using others' work without citing it is plagiarism; the syllabus requires proper citation."
   }
  ],
  "gaps": [
   {
-   "s": "A drawing you make while visiting an original painting is a ___ source.",
+   "s": "AO3 is called ___.",
    "a": [
-    "primary",
-    "primary source"
+    "Develop"
    ]
   },
   {
-   "s": "A book about an artist is a ___ source.",
+   "s": "Your own drawings and photographs are ___ sources.",
    "a": [
-    "secondary",
-    "secondary source"
+    "first-hand",
+    "first hand",
+    "primary"
    ]
   },
   {
-   "s": "A careful copy of part of an artist's work is called a ___ study.",
+   "s": "Books and websites are ___ sources.",
    "a": [
-    "master"
+    "secondary"
    ]
   },
   {
-   "s": "AO1 asks for critical ___ of sources.",
+   "s": "Using someone else's work without crediting it is ___.",
    "a": [
-    "understanding"
+    "plagiarism"
    ]
   },
   {
-   "s": "The time, place and culture in which a work was made is its ___.",
+   "s": "A piece that copies an artist's method to learn from it is a ___ in their style.",
    "a": [
-    "context"
+    "study"
    ]
   },
   {
-   "s": "Using an artist's technique on your own subject is a study in the ___ of that artist.",
+   "s": "Annotation, if used, must be relevant, purposeful and written in ___.",
    "a": [
-    "style"
+    "English"
    ]
   },
   {
-   "s": "Each component is worth ___ marks in total.",
+   "s": "The Great Wave off Kanagawa was made by ___.",
    "a": [
-    "72",
-    "seventy-two",
-    "seventy two"
+    "Hokusai"
    ]
   },
   {
-   "s": "Research should link to your own ___, meaning what you want to achieve.",
+   "s": "AO3 is worth ___ marks in each component.",
    "a": [
-    "intentions",
-    "intention",
-    "aims",
-    "ideas"
+    "25"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why a page of copied biography gains few AO1 marks.",
-   "model": "It shows no personal analysis and no link to the student's own ideas, so it shows limited critical understanding.",
+   "q": "Explain what 'critical understanding' means.",
+   "model": "It means looking carefully at an artist's work, explaining how and why it works, and using that to develop your own ideas.",
    "points": [
-    "no analysis or personal understanding",
-    "no link to own work/intentions"
+    "looking closely / analysing",
+    "explains how or why",
+    "uses it in own work"
    ]
   },
   {
-   "q": "Name one artist and describe a practical study you could make from their work.",
-   "model": "Kara Walker: cut a layered black paper silhouette scene about my theme and photograph it against light to test contrast.",
+   "q": "Describe how to make a study in the style of an artist.",
+   "model": "Choose a small part of the work, use similar materials, note what you found hard, then apply the method to your own subject.",
    "points": [
-    "real artist named accurately",
-    "practical study described",
-    "linked to theme or technique"
+    "selects part and similar materials",
+    "notes what was learned",
+    "applies to own subject"
    ]
   },
   {
-   "q": "Why does Pearson expect first-hand experience of original work?",
-   "model": "Seeing the original shows scale, surface and colour that reproductions lose, so your research is genuinely your own.",
+   "q": "Why are gallery visits useful for research?",
+   "model": "You see real scale, colour and surface, and can make first-hand sketches and notes that you can use to change your own work.",
    "points": [
-    "scale/texture/colour seen first hand",
-    "evidence of personal investigation"
+    "real scale/colour/surface",
+    "first-hand recording",
+    "used in own work"
    ]
   },
   {
-   "q": "Write one sentence of critical judgement about an artist's technique you tested.",
-   "model": "The blurred edges gave a memory-like effect, but they hid the faces, so I will blur only the background next time.",
+   "q": "Why is a pasted biography weak evidence?",
+   "model": "It shows no thinking of your own: no analysis, no study and no link to your idea, so it earns little for AO3.",
    "points": [
-    "says what worked",
-    "says limitation or next step"
+    "no analysis",
+    "no link to own work"
    ]
   },
   {
-   "q": "Give two things to include besides an image on a contextual study page.",
-   "model": "An analysis of how the work is made and a practical response, plus a note on how it will influence my own work.",
+   "q": "Give a strong link sentence for Kusama.",
+   "model": "Kusama repeats one shape to fill space, so I repeated bus tickets to show the rush of city life.",
    "points": [
-    "analysis",
-    "practical response/connection to own work"
+    "accurate feature of artist",
+    "applied to own theme"
    ]
   }
  ]

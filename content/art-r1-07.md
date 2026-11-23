@@ -1,139 +1,154 @@
-# Researching artists: contextual studies (AO1)
+# Researching artists and critical understanding (AO3)
 
-> **In the exam:** There is no written paper. AO1 is marked in **both components** (Personal Portfolio and Externally-set Assignment), 18 of the 72 marks each time, from your three A2 sheets of supporting studies and your final outcome. Examiners look for "critical understanding of sources": you must show that artists, designers, cultures or first-hand sources have genuinely shaped your ideas. Primary sources (first-hand experience of original work) are required.
+> **In the exam:** Cambridge IGCSE Art & Design 0400 has two components, each worth 100 marks (50%): Component 1 Coursework and Component 2 Externally Set Assignment (ESA). Both are marked on a digital portfolio. **AO3 Develop** ("Develop ideas through investigation, demonstrating critical understanding") is worth **25 of the 100 marks** in each component. Researching artists, designers and cultural influences is the main way to earn it. There is no written paper: the evidence is in your sketchbook or portfolio pages.
 
 ## What you need to know
 
-- **AO1:** "Develop ideas through investigations, demonstrating critical understanding of sources." Worth 25% of the qualification (12.5% per component).
-- The grid assesses: the **development of ideas through investigations**, the **critical understanding of the context** of your own ideas and the sources that informed them, and how well you **analyse and make connections**.
-- Research must use **primary and secondary sources**. For Fine Art, primary sources must include **first-hand experience of original work** (a gallery, museum, studio or exhibition visit).
-- You need to know a range of work from **contemporary practice, past practice and different cultures**, to show **continuity and change** in art, craft and design.
-- Your research must be **relevant to your own intentions**, not a separate fact-file on an artist.
+- The syllabus asks you to "carry out in-depth research into artists, designers and cultural influences to inform the development of their ideas" (painting area; the other areas say the same in their own words).
+- Your sources can be **first-hand** (a gallery visit, a talk by a local artist or craftsperson, your own photos) and **secondary** (books, magazines, the internet).
+- You must **select, give context to and organise** what you collect in a coherent way, and **make personal investigations**.
+- Contextual sources can be artists, key art movements, historical events, or local or national art, craft and design.
+- Annotation is optional, but if you write it, it must be **relevant to the theme, purposeful and written in English**.
+- AO3 wants **critical understanding**: not just "who made it" but how and why it works, and how it changes your own work.
+- Your research must show a **link** to your own intentions and theme, and your own work must visibly change because of it.
 
 ## Notes
 
-### Primary versus secondary sources
+### 1. What "critical understanding" means
+Critical does not mean negative. It means you **look closely, explain and judge**. A page earns AO3 marks when it shows that you have thought about the artist's choices and used them.
 
-| | Primary source | Secondary source |
+| Level of research | What it looks like | AO3 effect |
 |---|---|---|
-| What it is | Your own first-hand experience | Someone else's record of something |
-| Examples | Your photos and drawings from life; seeing a painting in the Prado or Reina Sofía; a gallery sketch; an interview you did | A book, website, postcard, catalogue image, video |
-| Value | Shows your own looking and decisions | Gives background and detail you can't see yourself |
+| Basic | Printed biography and a pasted picture, no comment | Limited ("basic investigation") |
+| Better | A copy of the artwork plus a few sentences on what it looks like | Some understanding |
+| Good | Your own study in the artist's style, with notes on technique, composition and meaning | Consistent |
+| Best | A study, a comment on why the artist did it that way, and a **new piece of your own** that borrows an idea and applies it to your theme | Effective critical understanding |
 
-Living in Madrid, you have outstanding **first-hand access**: the Prado, Museo Reina Sofía, Museo Thyssen-Bornemisza and the Sorolla Museum. A drawing made *in front of* a real painting is stronger evidence than a copy from a screen.
+### 2. Choosing artists
+Choose artists who **help your idea**, not the first names on a search engine. Ask three questions:
 
-### Choosing artists: the "link test"
-Pick artists who solve a problem **you** have. Before you commit, answer:
-1. What in their work connects to my theme, subject, material or mood?
-2. What could I actually try (technique, composition, colour, scale)?
-3. Does this artist give me something different from the one before?
+1. Do they deal with my **theme** (for example identity, the city, nature, food, memory, protest)?
+2. Do they use a **technique or material** I want to try (collage, line, bold colour, printmaking, stitched textiles)?
+3. Can I **say something** about their work that is not on the museum label?
 
-Aim for **2–3 well-chosen sources per project**, ideally from different times or cultures, instead of five weak ones. Good mixes: one historical + one contemporary; one painter + one photographer or printmaker; one from a different culture.
+Aim for **three to five artists** across a project, from different places and periods. Include at least one **living or recent artist** and, where you can, one from a different culture. For the ESA, choose artists *after* you have picked your starting point.
 
-### What a strong contextual study includes
-Each study (one A2 sheet section or sketchbook page) should have:
-1. **Visual evidence**: an image reference or sketch of the original (small, not the whole page).
-2. **A response in practice**: a copy, **master study**, or a study in the artist's **style** using their technique, then your own version of the technique on *your* subject.
-3. **Analysis**: what the artist does and why (use content, form, process, mood; see the annotation topic).
-4. **Context**: when, where, why it was made (movement, culture, purpose).
-5. **Connection**: "This will influence my work by…" with a next step.
+Real artists and what they can offer a project (all accurate and widely documented):
 
-### Ways to respond to an artist
-| Approach | What you do | Marks risk |
+| Artist | Known for | Good for a project on |
 |---|---|---|
-| Copy / master study | Accurately reproduce part of the work to learn how it was made | Fine if you then use what you learned |
-| Study in the style of | Apply their technique/palette to your own subject | Strongest bridge to your own ideas |
-| Transcription | Reinterpret a work in a new medium | Shows understanding |
-| Comparison | Put two artists side by side and compare | Shows critical thinking |
-| Own response | Your own piece using lessons learned | Needed for AO2 and AO4 as well |
+| **Vincent van Gogh** (1853–1890, Dutch) | Thick, directional brush marks (impasto) and strong colour, e.g. *The Starry Night* (1889) | Landscape, emotion, mark-making |
+| **Hokusai** (1760–1849, Japanese) | Woodblock prints, e.g. *The Great Wave off Kanagawa* (c.1831) | Water, flat colour, strong outline, printmaking |
+| **Frida Kahlo** (1907–1954, Mexican) | Self-portraits with symbolism about identity, pain and culture | Identity, symbolism, portraiture |
+| **Yayoi Kusama** (b. 1929, Japanese) | Polka dots, repeated pattern, *Infinity Mirror Rooms* | Pattern, repetition, installation |
+| **David Hockney** (b. 1937, British) | Bright colour, flat space, swimming pool paintings, iPad drawings | Landscape, colour, digital drawing |
+| **Jean-Michel Basquiat** (1960–1988, American) | Raw, scribbled lines, words and symbols on canvas | Text and image, identity, mark-making |
+| **Antony Gormley** (b. 1950, British) | Human body casts, e.g. *Angel of the North* (1998) | Form, figure, scale, 3D |
+| **Ai Weiwei** (b. 1957, Chinese) | Conceptual work and installation about politics and society | Protest, found objects, social issues |
 
-A page that is only a printed image, a biography pasted from the internet and a neat copy shows **basic** understanding. A page that shows you **tested** the artist's idea and **changed your own work** because of it earns higher bands.
+Use artists you can describe accurately. If you quote a date or title, check it in two sources.
 
-### Real examples of linking artist to idea
-- **Theme: "Reflections / memory."** Gerhard Richter blurs photographic images into soft painted surfaces, which can suggest how memory fades. A study: paint a family photo, then drag a dry brush or squeegee across it while wet.
-- **Theme: "Everyday objects."** Giorgio Morandi painted bottles and jugs repeatedly in muted, chalky tones with very similar compositions. A study: arrange your own objects, limit the palette to five tones, vary the spacing only.
-- **Theme: "Identity."** Frida Kahlo painted self-portraits full of symbols (plants, animals, clothing) to tell her own story. A study: draw yourself surrounded by 3–4 objects chosen for personal meaning.
-- **Theme: "Silhouette / history."** Kara Walker cuts black paper silhouettes to tell difficult stories from American history. A study: cut a layered silhouette composition and photograph it against light.
-- **Theme: "Pattern and repetition."** Yayoi Kusama repeats dots and nets obsessively in paintings and immersive installations. A study: a repeat-dot composition at three scales.
+### 3. How to research an artist: the five-step page
+1. **Image:** a clear picture of one artwork (print or sketch it, and credit the artist and title).
+2. **Context:** two or three lines: who, when, where, and what was happening around them.
+3. **Analysis:** what you see (see **content, form, process, mood** in topic 8): lines, colour, composition, materials.
+4. **Your own study:** a **copy or study in their style** (a section of the image is fine). The aim is to learn how they work, not to trace.
+5. **Link to you:** one sentence beginning "I will use…" or "This makes me want to…", then a **developed idea** on the next page.
 
-(These are examples. Choose artists that fit *your* theme and say why.)
+### 4. Studies in the style of an artist
+A good study is not a perfect copy. It shows you have understood the method.
+- **Choose a small part** of the artwork (a face, a corner of sky).
+- **Use the same materials** or a close match. If the artist used oil, you could use acrylic and say so.
+- **Note what you found hard**, for example "Hockney's flat colour needs the edges to be crisp."
+- **Then apply it** to your own subject: draw your own object, in your own surroundings, using the artist's colour or mark-making.
 
-### Showing critical understanding
-Not "I like it because it is nice", but:
-- **Describe** → "Richter blurs the edges of the photographic image."
-- **Explain** → "This removes detail so that the image feels distant, like a faded memory."
-- **Connect** → "I will use the same blur on my school-corridor photograph to suggest time passing."
-- **Judge** → "However, the heavy blur lost the faces, so in my next version I will blur only the background."
+### 5. Linking the research to your idea
+Examiners look for **a trail**: research → experiment → development → final piece. Show it with arrows, page numbers or titles ("Kusama-inspired pattern test").
 
-The last line (a judgement or limitation) is what separates "competent" from "confident and assured".
+Strong link sentences:
+- "Kusama repeats one shape until it fills the space. I used repetition of bus tickets to show the rush of city life."
+- "Basquiat's rough writing makes the image feel urgent, so I scratched words into my print."
+
+Weak link sentences:
+- "I like Van Gogh because he is famous."
+- "This artist is interesting."
+
+### 6. First-hand research
+First-hand work is valued under AO1 and supports AO3. In Madrid you have the **Museo del Prado**, the **Museo Reina Sofía** (where Picasso's *Guernica* is displayed), the **Museo Thyssen-Bornemisza** and many street-art areas. A sketch made in front of an artwork, with notes on what you can see, is better evidence than an internet image.
+
+### 7. Presenting the research
+- **Few, well-chosen pages** beat many pasted ones.
+- **Credit sources**: artist name, title, date, where you saw it. The syllabus warns about plagiarism: material produced by someone else must be cited. Your own study is yours; a pasted image is not.
+- **Keep it tidy but personal**: use your own handwriting or typed text, and be consistent.
+- **Photograph or scan** each page clearly. Your portfolio is submitted digitally, so poor photos lose marks.
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Context | The time, place, culture and purpose in which a work was made |
-| Primary source | First-hand evidence, such as your own drawing or photograph, or seeing an original artwork |
-| Secondary source | Information or images produced by someone else, such as a book or website |
-| Master study | A careful copy of part of an artist's work to learn how it was made |
-| Influence | The way another artist's ideas or techniques shape your own work |
-| Critical understanding | Explaining and judging a source and its relevance to your own work, not just describing it |
-| Continuity and change | How ideas and practices stay the same or develop over time in art, craft and design |
-| Intentions | What you are trying to communicate or achieve in your work |
+- **Critical understanding:** looking carefully at artists' work, explaining how and why it works, and using that to develop your own ideas.
+- **Contextual source:** an artist, art movement, historical event or piece of local or national art, craft or design that gives your work a background.
+- **First-hand source:** evidence you make or see yourself, such as your own drawings, photographs and gallery visits.
+- **Secondary source:** images and information made by others, such as books, magazines and websites.
+- **Study (in the style of):** a piece of your own that copies an artist's method to learn from it.
+- **Investigation:** looking into an idea or artist in depth and recording what you find out.
+- **Intention:** what you plan to say or show with your work.
+- **Plagiarism:** passing off someone else's work or ideas as your own, or using them without crediting them.
 
 ## Worked examples
 
-**1.** A student's page has a printed image of a Monet painting, a paragraph copied from the internet and a neat pencil copy. Using AO1, what is missing and how would you improve it? [4]
+**Q1. Your theme is "Street life". Explain how you would use the artist Jean-Michel Basquiat in your project. [4]**
 
-*Model answer:* The page shows **limited analysis** and no **connection to the student's own idea** (1). The copied text is not the student's own understanding (1). Improve it by adding the student's own analysis of colour, brushwork and mood (1), a study of Monet's technique applied to the student's own subject, and a final note on how it will influence their outcome (1).
+*Model answer:* "I would look at his work from the early 1980s, which mixes scribbled figures, crowns, words and bold colour (**what the artist did**). I would make a study of a small section using oil pastel and acrylic to copy his rough, fast line (**my own study**). I would then draw people I photographed near Sol and add words I heard on the street, scratching through the paint, so that my work has the same urgent feel (**applying it to my theme**). I would note that the rough marks suit the energy of city life (**my judgement**)."
 
-**2.** Write a 3-sentence annotation linking Käthe Kollwitz to a project on "people under pressure". [3]
+*Why it earns marks:* it names the artist's real features, describes a study, links it to the student's own photos and theme, and says why it fits.
 
-*Model answer:* "Käthe Kollwitz made powerful charcoal drawings and prints of working-class figures, using heavy dark tone and expressive faces to show hardship. I copied a section of her self-portrait using soft charcoal and a putty rubber to lift out the highlights, which showed me how contrast creates emotion. I will use heavy shadow and cropped faces in my own portrait series to show stress."
+**Q2. A student has pasted a picture of Hockney's *A Bigger Splash* (1967) with the caption "David Hockney was born in 1937 in Bradford. He is a famous painter." What would you add to earn more AO3 marks? [4]**
 
-*Marks:* description of the artist's technique (1), own response and what was learnt (1), clear link to own intentions (1).
+*Model answer:* "Add observations about the painting: flat, bright acrylic colour, hard-edged shapes, the splash painted with fine white lines against calm blue, and a strongly horizontal composition (**analysis**). Add a study of the splash or of a modern building in the same flat style (**study**). Then add a sentence about how this will change my work, for example 'I will use flat colour blocks for the hotel's walls and one detailed area to draw the eye' (**link**)."
 
-**3.** Explain the difference between a primary and a secondary source and give one example of each from your own project. [4]
+**Q3. How does a gallery visit improve your research? [3]**
 
-*Model answer:* A primary source is first-hand evidence, such as a drawing I made at the Reina Sofía of Picasso's *Guernica* (2). A secondary source is someone else's record, such as an image of the work in a book (2).
+*Model answer:* "It lets me see the real scale, colour and surface of the work, which a screen hides (1). I can make first-hand sketches and notes, which counts as my own recording (1). I can then use what I saw to change my own piece, for example copying the brushwork, and show that link on the page (1)."
 
 ## Common mistakes
 
-- **Biography pages**: a long "life story" with no link to your work. Keep context to what helps your idea.
-- Copying an artist's work but never using what you learned in your own work.
-- Using only the internet and never an original piece: the spec requires first-hand experience.
-- Choosing too many artists with no depth, or all from the same period.
-- Saying you "like" the work instead of analysing how it is made.
-- No reference or title for the work studied (artist, title, date).
-- Not saying what you will do next because of the research.
+- Pasting biographies and facts from the internet with **no comment of your own**.
+- Choosing artists because they are famous, not because they relate to your theme.
+- Making a study and then **doing nothing with it**: no later page shows what you learned.
+- Tracing or copying exactly without noting how and why the artist worked that way.
+- Forgetting to **credit** images or quote sources.
+- Choosing only artists from one period or country; a variety looks more thoughtful.
+- Mixing up artists and movements in annotation (see topics 9 and 10 for accurate details).
+- Writing annotation that is not relevant to your theme: the syllabus asks for relevant and purposeful notes.
 
 ## Practice questions
 
-1. Explain the difference between primary and secondary sources. [2]
-2. Give two reasons why drawing from an original artwork in a gallery may earn more credit than copying from a website. [2]
-3. Name an artist who could support a project on "memory" and explain the link. [3]
-4. List the five parts of a strong contextual study. [3]
-5. What does "critical understanding" mean in AO1? [2]
-6. Describe a study in the style of an artist, and explain how you would then use it in your own work. [4]
-7. Explain why using three well-chosen artists can be better than using eight. [2]
-8. Rewrite this weak annotation to improve it: "Monet is a famous painter and I like his colours." [4]
+1. State the Cambridge AO3 in your own words, and give its weighting in each component. [2]
+2. Give two examples of first-hand sources and two of secondary sources. [4]
+3. Explain what is meant by "critical understanding" in art research. [3]
+4. Name one real artist who would suit a project on **identity**, and describe two features of their work that you could use. [3]
+5. Describe the five-step research page. [5]
+6. A student's research page has a pasted image of Kusama's *Infinity Mirror Room* and a biography. Suggest three changes that would improve the AO3 evidence. [3]
+7. Explain how a study in the style of an artist can help your own final piece. [3]
+8. Why must images and sources be credited in your portfolio? [2]
 
-<details><summary>Answers</summary>
+<details>
+<summary>Answers</summary>
 
-1. Primary: first-hand (your own drawings/photos or seeing real work). Secondary: produced by others (books, websites, photos of art).
-2. You see real scale, texture, colour and brushwork that screens lose; it is your own evidence and shows personal judgement.
-3. e.g. Gerhard Richter: blurred painted photographs suggest fading memory (artist 1, link 2). Accept other valid examples.
-4. Visual evidence of the work; practical response/study; analysis; context; connection to own work.
-5. Explaining and judging how and why sources were made and how they relate to your own ideas, not just describing them.
-6. E.g. paint a still life using Morandi's muted palette (1) and compare to a version in bright colour (1); then choose the better palette for my final piece and say why (2).
-7. More depth: you can analyse, test and apply their ideas, and show a clear link to your intentions.
-8. E.g. "Claude Monet painted outdoors, using short broken brushstrokes of pure colour to capture changing light. I tried this with acrylic on my garden photograph, which made the leaves shimmer. I will use broken colour in my final landscape to show sunlight." (Artist's technique, own response, evaluation, link.)
+1. AO3 Develop: develop your ideas by investigating and showing that you understand the work you looked at (1). It is 25 marks out of 100, which is 25%, in both Component 1 and Component 2 (1).
+2. First-hand: your own drawings, your own photographs, a gallery visit, a talk by a local artist (any two, 2). Secondary: books, magazines, websites, postcards (any two, 2).
+3. Looking closely at artists' work (1), explaining how and why they made their choices (1), and using that understanding to develop your own ideas (1).
+4. For example Frida Kahlo (1) with two accurate features such as self-portraits (1) and symbolic objects/plants/animals linked to her culture and experience (1). Other valid answers: Basquiat, Kehinde Wiley and so on, if the features are accurate.
+5. Image (1); context (1); analysis of what you see (1); your own study in their style (1); a link sentence stating how you will use it (1).
+6. Add analysis of the work (mirrors, repeated dots, a sense of infinity) (1); add your own study using repetition (1); add a link showing how you will use repeating pattern in your own piece (1). Also accept: credit the source; add your own first-hand photo or drawing.
+7. It shows you understand the technique (1); it lets you test materials, colours or marks before the final piece (1); you can then apply the method to your own subject, which shows development (1).
+8. To show where information and images come from (1); because using work without crediting is plagiarism, and the syllabus requires proper citation (1).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Read the notes; list the three artists/designers/sources you are using now.
-- **15 min** – Choose one artist and fill the "five parts" for them (sketchbook page plan).
-- **20 min** – Make a quick study in their style on your own subject (20 min, one medium).
-- **10 min** – Write a four-sentence analysis: describe, explain, connect, judge.
-- **5 min** – Note one first-hand gallery visit you could do (Prado, Reina Sofía, Thyssen).
+- **10 min:** Read the notes, and write the AO3 wording and the five-step page from memory.
+- **10 min:** Choose three artists for a theme of your own (use the three questions in the notes).
+- **25 min:** Make one **research page** for one artist: image, context, analysis, a small study in their style, link sentence.
+- **10 min:** Develop one **idea sketch** that clearly uses what you learned.
+- **5 min:** Do the quiz and fix any weak points.

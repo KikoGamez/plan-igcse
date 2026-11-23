@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which energy system uses phosphocreatine and makes no lactic acid?",
+   "q": "Which is the correct word equation for aerobic respiration?",
    "options": [
-    "Aerobic",
-    "Lactic acid",
-    "ATP-PC",
-    "Glycolysis"
-   ],
-   "answer": 2,
-   "why": "The ATP-PC system uses stored phosphocreatine without oxygen and produces no lactic acid."
-  },
-  {
-   "type": "mcq",
-   "q": "What are the by-products of the aerobic system?",
-   "options": [
-    "Lactic acid and water",
-    "Carbon dioxide and water",
-    "Carbon dioxide and lactic acid",
-    "Oxygen and water"
+    "Glucose → lactic acid",
+    "Glucose + oxygen → carbon dioxide + water",
+    "Glucose + water → oxygen + carbon dioxide",
+    "Oxygen → glucose + water"
    ],
    "answer": 1,
-   "why": "Glucose and oxygen produce ATP, carbon dioxide and water."
+   "why": "Aerobic respiration uses glucose and oxygen and produces carbon dioxide and water."
   },
   {
    "type": "mcq",
-   "q": "Which is a long-term effect of regular aerobic training?",
+   "q": "Which activity relies mainly on anaerobic respiration?",
    "options": [
-    "Lower resting heart rate",
-    "Higher resting heart rate",
-    "Lower stroke volume",
-    "Smaller heart"
+    "Marathon",
+    "A 100 m sprint",
+    "Walking",
+    "Long-distance cycling"
    ],
-   "answer": 0,
-   "why": "Stroke volume rises so fewer beats are needed at rest."
+   "answer": 1,
+   "why": "A sprint is short and high-intensity, so energy is released without oxygen."
+  },
+  {
+   "type": "mcq",
+   "q": "What is a long-term effect of regular endurance training?",
+   "options": [
+    "Higher resting heart rate",
+    "Smaller stroke volume",
+    "Bradycardia",
+    "Less tolerance of lactic acid"
+   ],
+   "answer": 2,
+   "why": "Training lowers resting heart rate (bradycardia) because stroke volume increases."
   },
   {
    "type": "short",
-   "q": "Explain what EPOC is and why it is higher after a sprint than after a gentle jog.",
-   "model": "EPOC is the extra oxygen taken in after exercise to restore the body to its resting state. After a sprint, more anaerobic work was done, so there is more lactic acid to remove and more ATP/PC to restore.",
+   "q": "A runner is still breathing heavily after finishing a 400 m race. Explain why.",
+   "model": "She worked anaerobically and built up lactic acid. Extra oxygen is needed to remove the lactic acid (EPOC / oxygen debt), so breathing stays high after she stops.",
    "points": [
-    "EPOC = extra oxygen after exercise to recover",
-    "greater anaerobic work / more lactic acid to remove after sprint"
+    "Anaerobic work produced lactic acid / oxygen debt",
+    "Extra oxygen needed to remove lactic acid (EPOC)"
    ]
   }
  ]

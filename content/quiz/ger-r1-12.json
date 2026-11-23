@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How long is the Paper 3 Speaking test and how many marks?",
+   "q": "How many marks is each of the five role play answers worth?",
    "options": [
-    "5 minutes, 20 marks",
-    "8–10 minutes, 40 marks",
-    "15 minutes, 60 marks",
-    "10–12 minutes, 70 marks"
+    "1",
+    "2",
+    "3",
+    "5"
    ],
    "answer": 1,
-   "why": "Paper 3 lasts 8–10 minutes and is worth 40 marks (25%)."
+   "why": "Each role play task is marked out of 2 (total 10)."
   },
   {
    "type": "mcq",
-   "q": "Which prompts may the examiner use in Task A?",
+   "q": "Which role play answer gets full marks for « Was möchten Sie trinken? »",
    "options": [
-    "Any follow-up question",
-    "Warum (nicht)? / Noch etwas? / Ist das alles?",
-    "Only yes/no questions",
-    "None at all"
+    "Wasser.",
+    "Ich habe Durst.",
+    "Ich möchte bitte ein Mineralwasser.",
+    "Trinken."
    ],
-   "answer": 1,
-   "why": "Only these three prompts are allowed, and questions may be repeated but not rephrased."
+   "answer": 2,
+   "why": "A clear, complete, polite sentence that gives the information asked for."
   },
   {
    "type": "mcq",
-   "q": "How is the German 'w' pronounced?",
+   "q": "Which sentence is correct?",
    "options": [
-    "like English w",
-    "like English v",
-    "like English f",
-    "like English y"
+    "Ich mag Tennis, weil ich spiele gern im Team.",
+    "Ich mag Tennis, weil ich gern im Team spiele.",
+    "Ich mag Tennis, weil gern ich im Team spiele.",
+    "Ich mag Tennis, weil ich gern spiele im Team."
    ],
    "answer": 1,
-   "why": "German w = v (Wasser). German v is usually f (Vater)."
+   "why": "After weil the verb goes to the end of the clause."
   },
   {
    "type": "short",
-   "q": "Give a two-sentence German answer to 'Was machst du in deiner Freizeit?' that includes an opinion with a reason and a future plan.",
-   "model": "Ich spiele gern Fußball, weil ich Mannschaftssport mag. Nächstes Jahr werde ich in einem Verein trainieren.",
+   "q": "Give an answer in German to « Wie kommst du zur Schule? » with a reason (two sentences).",
+   "model": "Ich fahre mit dem Bus, weil meine Schule weit weg ist. Das dauert zwanzig Minuten.",
    "points": [
-    "opinion with reason (weil)",
-    "future with werden + infinitive"
+    "mit dem Bus (dative)",
+    "weil + verb at the end",
+    "two sentences"
    ]
   }
  ]

@@ -3,94 +3,85 @@
  "cards": [
   {
    "f": "Primary chords",
-   "b": "Chords I, IV and V."
+   "b": "I, IV and V."
   },
   {
-   "f": "Dominant chord",
-   "b": "Chord V, built on the fifth note of the scale; creates tension and wants to go to I."
+   "f": "Secondary chords",
+   "b": "ii, iii and vi (and vii°)."
   },
   {
    "f": "Perfect cadence",
-   "b": "V followed by I (or V7 to I); sounds finished like a full stop."
+   "b": "V followed by I; sounds final."
   },
   {
    "f": "Imperfect cadence",
    "b": "Ends on chord V; sounds unfinished."
   },
   {
-   "f": "Plagal cadence",
-   "b": "IV followed by I, the Amen cadence; gentler."
-  },
-  {
    "f": "Interrupted cadence",
-   "b": "V followed by VI, a surprise; avoids the expected ending."
+   "b": "V followed by vi; a surprise instead of I."
   },
   {
-   "f": "Tierce de Picardie",
-   "b": "A major chord ending a piece or section in a minor key."
+   "f": "Dominant seventh",
+   "b": "Chord V with a minor 7th added, e.g. G B D F in C major."
+  },
+  {
+   "f": "Diminished seventh",
+   "b": "Four notes in stacked minor 3rds; tense and unstable."
+  },
+  {
+   "f": "Suspension",
+   "b": "A note held over into the next chord that clashes, then falls by step to resolve."
+  },
+  {
+   "f": "Tonic pedal",
+   "b": "A long held tonic note in the bass while the chords above change."
+  },
+  {
+   "f": "Dominant pedal",
+   "b": "A held 5th degree in the bass; builds tension, often before a return."
+  },
+  {
+   "f": "Diatonic",
+   "b": "Uses only notes of the key."
+  },
+  {
+   "f": "Chromatic",
+   "b": "Uses notes outside the key; colourful, typical of Romantic music."
   },
   {
    "f": "Modulation",
    "b": "A change of key within a piece."
   },
   {
-   "f": "Common modulations from major",
-   "b": "To the dominant or the relative minor."
+   "f": "Related keys of C major",
+   "b": "G major (dominant), F major (subdominant), A minor (relative minor)."
   },
   {
-   "f": "Common modulation from minor",
-   "b": "To the relative major or the dominant."
-  },
-  {
-   "f": "Pedal note",
-   "b": "A long held or repeated bass note while chords change above it."
-  },
-  {
-   "f": "Drone",
-   "b": "A continuous sustained note or fifth, typical in folk music."
-  },
-  {
-   "f": "Suspension",
-   "b": "A held note from the previous chord that clashes, then resolves downwards by step."
-  },
-  {
-   "f": "Harmonic rhythm",
-   "b": "How often the chords change."
-  },
-  {
-   "f": "Atonal",
-   "b": "Music with no key centre and no tonic."
+   "f": "Tonic major to tonic minor",
+   "b": "Same tonic but the mode changes, e.g. C major to C minor."
   }
  ],
  "gaps": [
   {
-   "s": "Chord I is called the ___ chord.",
+   "s": "A perfect cadence is chord V followed by chord ___.",
    "a": [
-    "tonic"
+    "I",
+    "1"
    ]
   },
   {
-   "s": "Chord V is called the ___.",
+   "s": "An interrupted cadence goes from V to ___.",
    "a": [
-    "dominant"
+    "vi",
+    "6"
    ]
   },
   {
-   "s": "A V to I cadence is called a ___ cadence.",
+   "s": "An imperfect cadence ends on chord ___.",
    "a": [
-    "perfect"
-   ]
-  },
-  {
-   "s": "IV to I is a ___ cadence.",
-   "a": [
-    "plagal"
-   ]
-  },
-  {
-   "s": "V to VI is an ___ cadence.",
-   "a": [
-    "interrupted"
+    "V",
+    "5"
    ]
   },
   {
@@ -100,57 +91,69 @@
    ]
   },
   {
-   "s": "A long held bass note under changing chords is a ___ note.",
+   "s": "The key a fifth above the tonic is the ___ key.",
    "a": [
-    "pedal"
+    "dominant"
    ]
   },
   {
-   "s": "Music with no key centre is called ___.",
+   "s": "A held bass note on the 5th degree is a ___ pedal.",
    "a": [
-    "atonal"
+    "dominant"
+   ]
+  },
+  {
+   "s": "Harmony using notes outside the key is ___.",
+   "a": [
+    "chromatic"
+   ]
+  },
+  {
+   "s": "A note held over that clashes with a new chord is a ___.",
+   "a": [
+    "suspension"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain how a perfect cadence differs from an imperfect cadence.",
-   "model": "A perfect cadence is V to I and sounds finished; an imperfect cadence ends on V and sounds unfinished.",
+   "q": "Describe the sound and effect of an interrupted cadence.",
+   "model": "It moves V to vi; the listener expects the final chord I but hears vi, so it sounds like a surprise and the phrase continues.",
    "points": [
-    "perfect V to I",
-    "imperfect ends on V"
+    "V to vi",
+    "surprise/expected I"
    ]
   },
   {
-   "q": "Describe a pedal note.",
-   "model": "A sustained or repeated note, usually in the bass, held while the chords above change.",
+   "q": "How can you recognise a modulation to the dominant from the notation?",
+   "model": "A new sharp (raised 7th of the old key) appears, and a perfect cadence confirms the new key.",
    "points": [
-    "held bass note",
-    "chords change above"
+    "new sharp or accidental",
+    "cadence in the new key"
    ]
   },
   {
-   "q": "Give two likely destinations for modulation from a minor key.",
-   "model": "The relative major and the dominant.",
+   "q": "Name the chords I, IV and V in C major.",
+   "model": "C major, F major and G major.",
    "points": [
-    "relative major",
-    "dominant"
+    "C",
+    "F and G"
    ]
   },
   {
-   "q": "How can harmony create tension?",
-   "model": "Dissonant chords or suspensions, chromatic notes, a dominant pedal, or an unresolved or interrupted cadence.",
+   "q": "Why is a dominant pedal effective in the Baroque or Classical music?",
+   "model": "It holds the dominant note, building tension that is released when the tonic returns.",
    "points": [
-    "dissonance or chromatic",
-    "unresolved resolution"
+    "builds tension",
+    "resolves to tonic"
    ]
   },
   {
-   "q": "What does harmonic rhythm mean?",
-   "model": "It is the rate at which chords change; slow changes sound calm and fast changes sound busy.",
+   "q": "Explain the difference between consonant and dissonant harmony.",
+   "model": "Consonant harmony sounds stable and at rest; dissonant harmony sounds tense and needs to resolve.",
    "points": [
-    "rate of chord change",
-    "effect"
+    "consonant stable",
+    "dissonant tense/resolves"
    ]
   }
  ]

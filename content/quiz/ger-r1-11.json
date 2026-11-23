@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many words should the Q7 extended writing task be?",
+   "q": "Welcher Satz ist richtig?",
    "options": [
-    "60–75",
-    "90–110",
-    "130–150",
-    "200–250"
-   ],
-   "answer": 2,
-   "why": "Q7 asks for 130–150 words and four bullet points; the short task Q6 is 60–75."
-  },
-  {
-   "type": "mcq",
-   "q": "Which sentence has correct word order?",
-   "options": [
-    "Ich bin müde, weil ich habe schlecht geschlafen.",
-    "Ich bin müde, weil ich schlecht geschlafen habe.",
-    "Ich bin müde, weil habe ich schlecht geschlafen.",
-    "Ich bin müde, ich weil schlecht geschlafen habe."
+    "Ich spiele gern Tennis, weil es macht Spaß.",
+    "Ich spiele gern Tennis, weil es Spaß macht.",
+    "Ich spiele gern Tennis, weil macht es Spaß.",
+    "Ich spiele gern Tennis, weil es Spaß machen."
    ],
    "answer": 1,
-   "why": "After weil the finite verb goes to the end of the clause."
+   "why": "After weil the verb goes to the end of the clause."
   },
   {
    "type": "mcq",
-   "q": "Complete: 'Ich habe einen ___ Computer.' (neu)",
+   "q": "In Paper 4 Question 3, how many words should you write?",
    "options": [
-    "neue",
-    "neuer",
-    "neuen",
-    "neues"
+    "30–40",
+    "80–90",
+    "130–140",
+    "200+"
    ],
    "answer": 2,
-   "why": "der Computer in the accusative after einen needs -en."
+   "why": "Q3 is an email/letter or article/blog of about 130–140 words (28 marks)."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is the correct Perfekt?",
+   "options": [
+    "Ich habe nach Berlin gefahren.",
+    "Ich bin nach Berlin gefahren.",
+    "Ich habe nach Berlin gefahrt.",
+    "Ich bin nach Berlin fahren."
+   ],
+   "answer": 1,
+   "why": "fahren (movement) forms the Perfekt with sein: ich bin gefahren."
   },
   {
    "type": "short",
-   "q": "Write one German sentence in the future tense with a reason (um ... zu or weil).",
-   "model": "Nächstes Jahr werde ich nach Deutschland fahren, um meine Freunde zu besuchen.",
+   "q": "Write in German: Last weekend I played football with my friends.",
+   "model": "Letztes Wochenende habe ich mit meinen Freunden Fußball gespielt.",
    "points": [
-    "future with werden + infinitive at the end",
-    "reason clause correctly formed"
+    "Perfekt with habe ... gespielt",
+    "participle at the end",
+    "verb second after Letztes Wochenende (habe before ich)"
    ]
   }
  ]

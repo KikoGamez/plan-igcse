@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A program runs without crashing but gives the wrong answer because it uses > instead of >=. This is a",
+   "q": "Which is an example of a software interrupt?",
    "options": [
-    "syntax error",
-    "runtime error",
-    "logic error",
-    "validation error"
+    "A key is pressed",
+    "A printer runs out of paper",
+    "A program tries to divide by zero",
+    "The power fails"
    ],
    "answer": 2,
-   "why": "The program runs and gives no error message, but the output is wrong: a logic error."
+   "why": "Program errors such as division by zero are software interrupts. The others come from hardware."
   },
   {
    "type": "mcq",
-   "q": "A mark must be between 0 and 100 inclusive. Which is boundary test data?",
+   "q": "When does the CPU check for interrupts?",
    "options": [
-    "50",
-    "100",
-    "-50",
-    "abc"
+    "Only when the user presses a key",
+    "At the end of each fetch–decode–execute cycle",
+    "At the start of the program",
+    "Once every second"
    ],
    "answer": 1,
-   "why": "100 is on the edge of the valid range; 50 is normal and -50 and abc are erroneous."
+   "why": "The CPU checks at the end of each FDE cycle and handles the interrupt if its priority is high enough."
   },
   {
    "type": "mcq",
-   "q": "What is the difference between a function and a procedure?",
+   "q": "Which translator converts assembly language into machine code?",
    "options": [
-    "A function returns a value",
-    "A procedure returns a value",
-    "A function has no parameters",
-    "A procedure cannot be called twice"
+    "Assembler",
+    "Compiler",
+    "Interpreter",
+    "Linker"
    ],
    "answer": 0,
-   "why": "Functions send a value back with RETURN; procedures do not."
+   "why": "An assembler translates assembly language. Compilers and interpreters translate high-level languages."
   },
   {
    "type": "short",
-   "q": "Explain what is meant by validation and state one thing it cannot do.",
-   "model": "Validation is an automated check that data is reasonable and acceptable to the program, for example a range check. It cannot check that the data is actually correct, e.g. age 21 typed instead of 20 still passes.",
+   "q": "Give two differences between a compiler and an interpreter.",
+   "model": "A compiler translates the whole program at once into an executable file, but an interpreter translates and runs one line at a time. A compiled program runs faster and does not need the compiler to run, but an interpreter stops at the first error.",
    "points": [
-    "automatic check data is reasonable/allowed",
-    "cannot ensure data is correct/accurate"
+    "compiler translates all at once, interpreter line by line",
+    "one other valid difference (speed, errors, executable, source code)"
    ]
   }
  ]

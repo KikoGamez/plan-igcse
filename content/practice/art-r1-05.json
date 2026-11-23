@@ -2,158 +2,158 @@
  "id": "art-r1-05",
  "cards": [
   {
-   "f": "Matrix",
-   "b": "The block, plate or screen that holds the image for printing."
-  },
-  {
    "f": "Relief print",
-   "b": "A print made from raised areas of a block, e.g. lino or woodcut."
+   "b": "Ink on the raised surface of a block, e.g. lino or woodcut; carved areas stay white."
   },
   {
    "f": "Monoprint",
-   "b": "A one-off print from an inked plate; every print is unique."
-  },
-  {
-   "f": "Edition",
-   "b": "A set of identical prints from one matrix, numbered e.g. 3/10."
-  },
-  {
-   "f": "Reduction print",
-   "b": "Multi-colour print from one block, carving away more between each colour. Picasso used it."
+   "b": "One-off print from ink or paint on a smooth plate."
   },
   {
    "f": "Collagraph",
-   "b": "A print from a board with textured materials glued on, giving rich texture."
+   "b": "Print from a plate built up from textured materials, sealed before inking."
   },
   {
-   "f": "Screen print",
-   "b": "Ink pushed through a stencil on a mesh screen; flat layers of colour. Warhol used it."
+   "f": "Edition",
+   "b": "A set of identical prints from one plate."
   },
   {
-   "f": "Why is a relief print reversed?",
-   "b": "The image flips when printed, like a stamp, so plan text and direction in reverse."
+   "f": "Registration",
+   "b": "Lining up each layer or colour in a multi-layer print."
   },
   {
-   "f": "Lino cutting safety",
-   "b": "Cut away from hands, keep hands behind the blade, use a bench hook or non-slip mat."
+   "f": "Reduction linocut",
+   "b": "One block carved more between colour layers; Picasso used it."
   },
   {
-   "f": "How to ink a block",
-   "b": "Roll ink thin and even on a plate (crackling sound), then roll over the block in several directions."
+   "f": "Hokusai",
+   "b": "Japanese woodblock artist; The Great Wave off Kanagawa, c. 1831, with flat colour and outline."
   },
   {
    "f": "Collage",
-   "b": "An artwork made by sticking paper, fabric or other materials onto a surface."
+   "b": "Sticking paper, photographs, fabric or other flat materials onto a surface."
+  },
+  {
+   "f": "Assemblage",
+   "b": "Combining three-dimensional found objects."
   },
   {
    "f": "Photomontage",
-   "b": "A composite image made by cutting and joining photographs; Hannah Höch."
+   "b": "Collage made from photographs, e.g. Hannah Höch."
   },
   {
-   "f": "Kurt Schwitters",
-   "b": "German artist whose Merz collages used rubbish, tickets and scraps."
+   "f": "Papier collé",
+   "b": "Cubist pasted paper, first by Braque and Picasso around 1912."
+  },
+  {
+   "f": "Matisse cut-outs",
+   "b": "Shapes cut from gouache-painted paper, e.g. The Snail, 1953."
   },
   {
    "f": "Mixed media",
-   "b": "Artwork combining different materials in one piece. Link them with colour, shape or texture."
+   "b": "Using more than one medium or process in one piece, each chosen for a reason."
   },
   {
-   "f": "Wax resist",
-   "b": "Wax crayon under a watercolour wash blocks the paint, leaving the pattern showing."
+   "f": "Layering",
+   "b": "Building an image in layers; allow drying and use transparent layers to show beneath."
+  },
+  {
+   "f": "Lino safety",
+   "b": "Cut away from your body and hands; use a bench hook or cutting mat."
   }
  ],
  "gaps": [
   {
-   "s": "A one-off print from a plate is a ___.",
+   "s": "A print made from the raised surface of a carved block is a ___ print.",
+   "a": [
+    "relief"
+   ]
+  },
+  {
+   "s": "A one-off print is called a ___.",
    "a": [
     "monoprint",
-    "mono print"
+    "mono print",
+    "mono-print"
    ]
   },
   {
-   "s": "A set of identical numbered prints is an ___.",
+   "s": "Lining up layers in a multi-layer print is called ___.",
    "a": [
-    "edition"
+    "registration"
    ]
   },
   {
-   "s": "The block or plate used for printing is the ___.",
-   "a": [
-    "matrix"
-   ]
-  },
-  {
-   "s": "Hannah Höch is known for ___.",
-   "a": [
-    "photomontage",
-    "collage"
-   ]
-  },
-  {
-   "s": "Cutting and joining photographs makes a ___.",
+   "s": "Collage made of photographs is called ___.",
    "a": [
     "photomontage"
    ]
   },
   {
-   "s": "Lino is carved with the cut always moving ___ from your hands.",
+   "s": "Hokusai made Japanese ___ prints.",
    "a": [
-    "away"
+    "woodblock",
+    "woodcut"
    ]
   },
   {
-   "s": "Wax and watercolour together create a ___.",
+   "s": "A work made by arranging found three-dimensional objects is an ___.",
    "a": [
-    "resist",
-    "wax resist"
+    "assemblage"
    ]
   },
   {
-   "s": "Picasso made multi-colour linocuts using the ___ method.",
+   "s": "Kurt Schwitters made collages he called ___.",
    "a": [
-    "reduction"
+    "merz"
+   ]
+  },
+  {
+   "s": "A group of identical prints from the same plate is an ___.",
+   "a": [
+    "edition"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain how to make a multi-colour reduction print.",
-   "model": "Print the lightest colour first, carve away more of the same block, print the next colour over it, and repeat so the block gets smaller each time.",
+   "q": "Describe how to make a lino print.",
+   "model": "Draw the design in reverse on the block, carve away the areas that should stay white, roll ink on the surface, press paper onto it and peel off the print.",
    "points": [
-    "carve more of the same block",
-    "print colours in layers lightest to darkest"
+    "design in reverse and carve",
+    "ink, press, peel"
    ]
   },
   {
-   "q": "Describe two ways to create texture in printmaking.",
-   "model": "Use a collagraph with glued string, card or fabric, or add marks by rolling ink over a textured surface or by carving varied marks into the lino.",
+   "q": "Give two safety rules for lino cutting.",
+   "model": "Cut away from your body and hand, and use a bench hook or cutting mat.",
    "points": [
-    "collagraph/textured materials",
-    "varied carved marks"
+    "cut away from body",
+    "bench hook or mat"
+   ]
+  },
+  {
+   "q": "Name one collage artist and describe their work.",
+   "model": "Hannah Höch cut up magazine photographs to make Dada photomontages that questioned society.",
+   "points": [
+    "correct artist",
+    "correct description"
    ]
   },
   {
    "q": "Why combine materials in mixed media?",
-   "model": "It adds contrast and texture, and allows you to show different qualities, as long as a repeated colour or shape unites the materials.",
+   "model": "Each material adds a quality, such as transparent tissue for memory or sand for rough texture, so the piece communicates the idea more strongly.",
    "points": [
-    "contrast/texture/variety",
-    "unity through repeated element"
+    "materials add qualities",
+    "linked to idea"
    ]
   },
   {
-   "q": "How would you show AO2 in a collage?",
-   "model": "Make several collage tests with different materials and layering, review each against your intention, and select and refine the best with a reason.",
+   "q": "Why is a print test useful for AO2?",
+   "model": "You can compare inks, pressures and colours, select the best version and explain why, which shows exploring and selecting.",
    "points": [
-    "several tests",
-    "review and selection with reason"
-   ]
-  },
-  {
-   "q": "Describe how Schwitters used collage.",
-   "model": "He built Merz collages from found rubbish, such as tickets, newspaper and scraps, arranged into abstract compositions.",
-   "points": [
-    "found materials/rubbish",
-    "abstract/Merz compositions"
+    "compare variations",
+    "select and justify"
    ]
   }
  ]

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many marks is each assessment objective worth in each component?",
+   "q": "How is Cambridge IGCSE Art & Design 0400 assessed?",
    "options": [
-    "12",
-    "18",
-    "24",
-    "36"
+    "One 2-hour written paper",
+    "Two components, each worth 50%, marked from digital portfolios",
+    "Coursework only, worth 100%",
+    "A practical exam worth 75% plus a written paper worth 25%"
    ],
    "answer": 1,
-   "why": "Each AO is marked out of 18, so 4 × 18 = 72 per component."
+   "why": "Component 1 (Coursework) and Component 2 (Externally Set Assignment) are each 100 marks and 50%, submitted as digital portfolios."
   },
   {
    "type": "mcq",
-   "q": "Which objective is about presenting a personal and meaningful response that realises intentions?",
+   "q": "How long is the supervised test in Component 2 in total?",
    "options": [
-    "AO1",
-    "AO2",
-    "AO3",
-    "AO4"
-   ],
-   "answer": 3,
-   "why": "AO4 is the final response and understanding of visual language."
-  },
-  {
-   "type": "mcq",
-   "q": "How long is the supervised exam in Component 2?",
-   "options": [
+    "3 hours",
     "5 hours",
     "8 hours",
-    "10 hours",
-    "15 hours"
+    "12 hours"
    ],
    "answer": 2,
-   "why": "The externally set assignment has a 10-hour exam, possibly split over up to four sessions."
+   "why": "The final outcome is made in a supervised test of 8 hours' total duration."
+  },
+  {
+   "type": "mcq",
+   "q": "How many marks is each assessment objective worth in each component?",
+   "options": [
+    "25",
+    "10",
+    "20",
+    "50"
+   ],
+   "answer": 0,
+   "why": "AO1 to AO4 are each 25 marks, so 25% of each component."
   },
   {
    "type": "short",
-   "q": "Give two ways to show AO2 in a sketchbook.",
-   "model": "Try several media or techniques on the same subject, review which worked, and select one for your final piece with a reason.",
+   "q": "Explain why the final outcome alone cannot earn a top mark.",
+   "model": "The final outcome mainly shows AO4, which is only 25% of the marks. AO1, AO2 and AO3 are judged from the studies (recording, exploring and selecting, developing with critical understanding), so strong studies are needed too.",
    "points": [
-    "experiments with different media/materials/techniques",
-    "review and reasoned selection"
+    "AO4 is only 25 of the 100 marks",
+    "AO1–AO3 are shown mainly through the studies"
    ]
   }
  ]

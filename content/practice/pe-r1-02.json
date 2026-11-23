@@ -2,168 +2,158 @@
  "id": "pe-r1-02",
  "cards": [
   {
-   "f": "Agonist (prime mover)",
-   "b": "The muscle that contracts to produce movement at a joint."
+   "f": "Agonist",
+   "b": "The prime mover: the muscle that contracts to produce movement."
   },
   {
    "f": "Antagonist",
-   "b": "The muscle that relaxes and lengthens to allow the agonist to move the joint."
+   "b": "The muscle that relaxes (lengthens) to allow the agonist to move the joint."
   },
   {
-   "f": "Fixator",
-   "b": "A muscle that stabilises a joint or body part so the agonist has a firm base."
+   "f": "Tendon",
+   "b": "Strong, inelastic tissue attaching muscle to bone."
   },
   {
-   "f": "Agonist and antagonist for elbow flexion",
-   "b": "Biceps is the agonist; triceps is the antagonist."
+   "f": "Antagonistic pair at the elbow",
+   "b": "Biceps and triceps: biceps flex the elbow, triceps extend it."
   },
   {
-   "f": "Agonist and antagonist for knee extension",
-   "b": "Quadriceps is the agonist; hamstrings is the antagonist."
+   "f": "Antagonistic pair at the knee",
+   "b": "Quadriceps (extend) and hamstrings (flex)."
   },
   {
-   "f": "Agonist for ankle plantar flexion",
-   "b": "Gastrocnemius (antagonist: tibialis anterior)."
+   "f": "Antagonistic pair at the hip",
+   "b": "Hip flexors (flex the hip) and gluteals (extend the hip)."
   },
   {
-   "f": "Muscle that extends the hip",
-   "b": "Gluteus maximus (antagonist: hip flexors)."
+   "f": "Antagonistic pair at the ankle",
+   "b": "Gastrocnemius (plantar flexion) and tibialis anterior (dorsiflexion)."
+  },
+  {
+   "f": "Antagonistic pair at the shoulder",
+   "b": "Deltoid (raises the arm) and latissimus dorsi (pulls it down and back)."
+  },
+  {
+   "f": "Trapezius",
+   "b": "Upper back and neck muscle; raises the shoulders and pulls the shoulder blades together."
+  },
+  {
+   "f": "Pectorals",
+   "b": "Chest muscles that pull the arm across the body, e.g. in a bench press."
+  },
+  {
+   "f": "Abdominals",
+   "b": "Stomach muscles that flex the trunk and hold posture and core stability."
   },
   {
    "f": "Concentric contraction",
-   "b": "Muscle shortens while contracting, e.g. biceps lifting in a curl."
+   "b": "Isotonic contraction where the muscle shortens, e.g. biceps lifting in a bicep curl."
   },
   {
    "f": "Eccentric contraction",
-   "b": "Muscle lengthens while contracting, e.g. biceps lowering the weight."
+   "b": "Isotonic contraction where the muscle lengthens under control, e.g. lowering into a squat."
   },
   {
    "f": "Isometric contraction",
-   "b": "Muscle contracts without changing length and there is no movement, e.g. holding a plank."
+   "b": "The muscle contracts without changing length and there is no movement, e.g. a plank."
   },
   {
-   "f": "Slow oxidative fibres",
-   "b": "Slow, fatigue-resistant, aerobic, red. Suit marathon and endurance sports."
-  },
-  {
-   "f": "Fast glycolytic fibres",
-   "b": "Fastest, most forceful, anaerobic, tire quickly. Suit 100 m sprint, weightlifting."
-  },
-  {
-   "f": "Fast oxidative glycolytic fibres",
-   "b": "Fast and powerful, moderately resistant to fatigue. Suit 400 m, 800 m, team sports."
-  },
-  {
-   "f": "Muscle hypertrophy",
-   "b": "An increase in the size of muscle fibres from training."
-  },
-  {
-   "f": "Latissimus dorsi: where and action",
-   "b": "Large back muscle; pulls the arm down and back (adduction), e.g. pull-ups, butterfly."
-  },
-  {
-   "f": "Pectoralis major: where and sport use",
-   "b": "Chest; brings the arm across the body, e.g. bench press, throwing."
+   "f": "Slow vs fast twitch fibres",
+   "b": "Slow: low force, fatigue-resistant, aerobic (marathon). Fast: high force, fatigue quickly, anaerobic (sprint)."
   }
  ],
  "gaps": [
   {
-   "s": "The muscle at the back of the upper arm is the ___.",
-   "a": [
-    "triceps"
-   ]
-  },
-  {
-   "s": "The muscle that contracts to cause movement is the ___.",
-   "a": [
-    "agonist",
-    "prime mover"
-   ]
-  },
-  {
-   "s": "A muscle that relaxes to allow a movement is the ___.",
+   "s": "The muscle that relaxes while the agonist contracts is called the ___.",
    "a": [
     "antagonist"
    ]
   },
   {
-   "s": "A contraction where the muscle shortens is called ___.",
+   "s": "The muscle on the front of the thigh that extends the knee is the ___ group.",
    "a": [
-    "concentric"
+    "quadriceps",
+    "quads"
    ]
   },
   {
-   "s": "A contraction with no change in muscle length is ___.",
+   "s": "A tendon joins muscle to ___.",
+   "a": [
+    "bone"
+   ]
+  },
+  {
+   "s": "In an eccentric contraction the muscle ___ while it contracts.",
+   "a": [
+    "lengthens",
+    "gets longer",
+    "lengthen"
+   ]
+  },
+  {
+   "s": "Holding a plank is an ___ contraction.",
    "a": [
     "isometric"
    ]
   },
   {
-   "s": "The antagonist of the quadriceps at the knee is the ___.",
-   "a": [
-    "hamstrings",
-    "hamstring"
-   ]
-  },
-  {
-   "s": "The calf muscle is the ___.",
+   "s": "The calf muscle that causes plantar flexion is the ___.",
    "a": [
     "gastrocnemius"
    ]
   },
   {
-   "s": "Slow oxidative fibres are resistant to ___.",
+   "s": "___ twitch fibres resist fatigue and use aerobic energy.",
    "a": [
-    "fatigue",
-    "tiring"
+    "slow"
    ]
   },
   {
-   "s": "An increase in muscle size is called ___.",
+   "s": "The muscle at the top of the shoulder that raises the arm is the ___.",
    "a": [
-    "hypertrophy"
+    "deltoid"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why muscles work in antagonistic pairs.",
-   "model": "Muscles can only pull, not push, so one muscle contracts to move the bone and its pair relaxes. The pair then reverses the movement.",
+   "q": "A footballer kicks a ball. Name the agonist and antagonist at the knee.",
+   "model": "The quadriceps are the agonist, contracting to extend the knee. The hamstrings are the antagonist and relax.",
    "points": [
-    "muscles only pull",
-    "one contracts while the other relaxes"
+    "Quadriceps agonist",
+    "Hamstrings antagonist"
    ]
   },
   {
-   "q": "Describe the muscle actions at the elbow during the upward and downward phases of a bicep curl.",
-   "model": "Upward: biceps contracts concentrically and triceps relaxes. Downward: the biceps lengthens under control (eccentric) as the weight lowers.",
+   "q": "Explain the difference between concentric and eccentric contractions using the biceps.",
+   "model": "In a concentric contraction the biceps shortens as the weight is lifted. In an eccentric contraction the biceps lengthens under tension as the weight is lowered.",
    "points": [
-    "upward biceps concentric/shortens",
-    "downward biceps eccentric/lengthens"
+    "Concentric: muscle shortens",
+    "Eccentric: muscle lengthens while contracting"
    ]
   },
   {
-   "q": "Explain why a 100 m sprinter benefits from fast glycolytic fibres.",
-   "model": "They contract quickly and produce high force for powerful short bursts, using anaerobic energy, which suits a race of about 10 seconds.",
+   "q": "Why do sprinters have mostly fast twitch fibres?",
+   "model": "Fast twitch fibres produce high force and use anaerobic energy, which suits a short, explosive sprint. Fatigue does not matter in about 10 seconds.",
    "points": [
-    "fast and forceful contraction",
-    "anaerobic / short duration"
+    "High force/speed",
+    "Anaerobic, short duration so fatigue irrelevant"
    ]
   },
   {
-   "q": "Name the muscle that pulls the toes up (dorsi flexion) and explain when a runner uses it.",
-   "model": "Tibialis anterior. It lifts the toes so the heel strikes first as the foot lands.",
+   "q": "Name the muscles used for a sit-up and for pushing up onto tiptoes.",
+   "model": "The abdominals perform the sit-up and the gastrocnemius works in plantar flexion to rise onto the toes.",
    "points": [
-    "tibialis anterior",
-    "linked to running/landing"
+    "Abdominals",
+    "Gastrocnemius"
    ]
   },
   {
-   "q": "Give an example of an isometric contraction in sport and explain why it is isometric.",
-   "model": "Holding a handstand in gymnastics: the muscles contract against the load but do not change length and there is no movement.",
+   "q": "Describe the roles of the hip flexors and gluteals in sprinting.",
+   "model": "The hip flexors lift the knee forward as the leg swings through. The gluteals extend the hip, driving the leg back and propelling the sprinter forward.",
    "points": [
-    "valid example",
-    "no change in length / no movement"
+    "Hip flexors flex hip / lift knee",
+    "Gluteals extend hip / drive the leg back"
    ]
   }
  ]

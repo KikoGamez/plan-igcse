@@ -1,6 +1,32 @@
-{"id":"geo-r1-06","questions":[
-{"type":"mcq","q":"What is the minimum sea surface temperature needed for a tropical cyclone to form?","options":["15°C","20°C","27°C","35°C"],"answer":2,"why":"Warm water of at least 27°C provides the evaporation and heat energy that fuel the storm."},
-{"type":"mcq","q":"Why do tropical cyclones not form on the equator?","options":["The sea is too cold","The Coriolis force is too weak to make the air spin","Wind shear is always too low","There is no ocean there"],"answer":1,"why":"The Coriolis force is weakest at the equator, so rising air does not start to spin."},
-{"type":"mcq","q":"Which of the following is a SECONDARY impact of a tropical cyclone?","options":["Roofs ripped off by wind","Power lines blown down","A storm surge flooding the coast","Cholera from contaminated water"],"answer":3,"why":"Disease is a later effect caused by the primary impacts such as flooding."},
-{"type":"short","q":"Explain why prediction and preparation reduce the impacts of tropical cyclones.","model":"Satellites and storm tracking give days of warning, so people can be evacuated to shelters. Stronger building design and defences reduce damage, so fewer people are killed.","points":["tracking/forecasts give warning so people can evacuate","building design / shelters / defences reduce damage and deaths"]}
-]}
+{
+  "id": "geo-r1-06",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which type of wave has a strong swash and weak backwash and builds beaches?",
+      "options": ["Destructive", "Constructive", "Tidal", "Storm"],
+      "answer": 1,
+      "why": "Constructive waves are low with strong swash, so they deposit material."
+    },
+    {
+      "type": "mcq",
+      "q": "What is the correct order of landforms when a headland is eroded?",
+      "options": ["Stack, arch, cave, stump", "Cave, arch, stack, stump", "Arch, cave, stump, stack", "Cave, stack, arch, stump"],
+      "answer": 1,
+      "why": "A crack becomes a cave, then an arch when it erodes through, then a stack when the roof collapses, then a stump."
+    },
+    {
+      "type": "mcq",
+      "q": "Which condition is needed for coral reefs to grow?",
+      "options": ["Cold, deep water", "Fresh water from rivers", "Warm, shallow, clear and salty water", "Muddy, murky water"],
+      "answer": 2,
+      "why": "Corals need warm water (about 23 to 29 degrees C), sunlight for their algae, salinity and clear water."
+    },
+    {
+      "type": "short",
+      "q": "Explain one disadvantage of building groynes to protect a beach.",
+      "model": "Groynes trap sand on one side, so the beach further along the coast is starved of sediment. This increases erosion downdrift.",
+      "points": ["trap sediment / stop longshore drift", "beaches further along are starved and eroded faster"]
+    }
+  ]
+}

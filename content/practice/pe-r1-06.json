@@ -2,71 +2,85 @@
  "id": "pe-r1-06",
  "cards": [
   {
-   "f": "Cardiovascular fitness",
-   "b": "The ability of the heart, lungs and blood vessels to supply oxygen to the working muscles over a long period."
+   "f": "Fitness (definition)",
+   "b": "The ability to cope with (or meet) the demands of the environment."
   },
   {
-   "f": "Muscular strength",
-   "b": "The maximum force a muscle can apply in a single contraction."
+   "f": "Cardiovascular endurance",
+   "b": "Ability of the heart and lungs to supply oxygen to muscles for long periods."
   },
   {
    "f": "Muscular endurance",
-   "b": "The ability of a muscle to contract repeatedly without tiring."
+   "b": "Ability of a muscle or group to contract repeatedly without tiring."
   },
   {
-   "f": "Flexibility",
-   "b": "The range of movement possible at a joint."
-  },
-  {
-   "f": "Body composition",
-   "b": "The percentage of body weight that is fat, muscle, bone and water."
-  },
-  {
-   "f": "Agility",
-   "b": "The ability to change direction quickly while keeping control."
+   "f": "Strength",
+   "b": "Maximum force a muscle can exert in one contraction."
   },
   {
    "f": "Power",
    "b": "Strength × speed: producing force quickly."
   },
   {
+   "f": "Agility",
+   "b": "Changing direction quickly while keeping control."
+  },
+  {
+   "f": "Static vs dynamic balance",
+   "b": "Static: staying balanced while still. Dynamic: balance while moving."
+  },
+  {
    "f": "Reaction time",
-   "b": "The time between a stimulus and the start of a response."
+   "b": "The time between a stimulus and the start of the response."
   },
   {
-   "f": "Coordination",
-   "b": "Using two or more body parts together smoothly and accurately."
+   "f": "Multi-Stage Fitness Test",
+   "b": "Cardiovascular endurance: 20 m shuttle runs to bleeps getting faster; level reached is recorded."
   },
   {
-   "f": "Balance",
-   "b": "Keeping the centre of mass over the base of support."
+   "f": "Sit and Reach",
+   "b": "Flexibility: reach forward along a ruler with straight legs; distance in cm."
   },
   {
-   "f": "Tests for cardiovascular fitness",
-   "b": "Cooper 12-minute run, multi-stage fitness (bleep) test, Harvard step test."
+   "f": "Vertical Jump Test",
+   "b": "Power: difference in cm between standing reach and jump height."
   },
   {
-   "f": "Test for flexibility and what it measures",
-   "b": "Sit and reach; hamstring and lower back flexibility, measured in cm."
+   "f": "Ruler Drop Test",
+   "b": "Reaction time: catch a dropped ruler; the distance caught is measured."
   },
   {
-   "f": "Test for power",
-   "b": "Vertical jump or standing broad jump."
+   "f": "Standing Stork Test",
+   "b": "Static balance: stand on one leg with heel raised; time until balance is lost."
   },
   {
-   "f": "Valid test",
-   "b": "Measures what it is supposed to measure."
+   "f": "Reasons for fitness testing",
+   "b": "Strengths and weaknesses, monitor improvement, compare to others, plan training, motivation, suitability."
   },
   {
-   "f": "Reliable test",
-   "b": "Gives consistent results when repeated under the same conditions."
-  },
-  {
-   "f": "Percentage change formula",
-   "b": "(new − old) ÷ old × 100."
+   "f": "VO₂ max",
+   "b": "Maximum volume of oxygen the body can take in, transport and use per minute; measure of cardiovascular endurance."
   }
  ],
  "gaps": [
+  {
+   "s": "The test for flexibility is the Sit and ___.",
+   "a": [
+    "reach"
+   ]
+  },
+  {
+   "s": "The test for speed is the 30-metre ___.",
+   "a": [
+    "sprint"
+   ]
+  },
+  {
+   "s": "The Illinois test measures ___.",
+   "a": [
+    "agility"
+   ]
+  },
   {
    "s": "The ruler drop test measures ___ time.",
    "a": [
@@ -74,96 +88,70 @@
    ]
   },
   {
-   "s": "The test using a dynamometer measures muscular ___.",
+   "s": "The bleep test measures cardiovascular ___.",
+   "a": [
+    "endurance",
+    "stamina"
+   ]
+  },
+  {
+   "s": "The hand grip dynamometer measures ___.",
    "a": [
     "strength"
    ]
   },
   {
-   "s": "The 12-minute run is called the ___ test.",
+   "s": "Factors affecting VO₂ max include age, gender, genetics, lifestyle and ___.",
    "a": [
-    "Cooper",
-    "Cooper's"
+    "training"
    ]
   },
   {
-   "s": "Strength multiplied by speed is called ___.",
+   "s": "Strength × speed equals ___.",
    "a": [
     "power"
-   ]
-  },
-  {
-   "s": "A test that gives consistent results is ___.",
-   "a": [
-    "reliable"
-   ]
-  },
-  {
-   "s": "The Illinois run is a test of ___.",
-   "a": [
-    "agility"
-   ]
-  },
-  {
-   "s": "The stork stand tests ___.",
-   "a": [
-    "balance"
-   ]
-  },
-  {
-   "s": "Fat, muscle, bone and water make up body ___.",
-   "a": [
-    "composition"
-   ]
-  },
-  {
-   "s": "In a sprint test a lower time means a ___ result.",
-   "a": [
-    "better",
-    "faster",
-    "improved"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why the bleep test is not always a good measure of fitness for a footballer.",
-   "model": "It tests only cardiovascular fitness in a straight-line shuttle run, so it is not sport-specific and does not measure skills like power or agility.",
+   "q": "Describe how to carry out the Sit and Reach Test.",
+   "model": "Sit with straight legs and feet against the box. Reach forward slowly as far as possible, hold for two seconds and record the distance in cm.",
    "points": [
-    "only one component / not sport-specific",
-    "does not match football movements"
+    "Legs straight, feet against box",
+    "Reach forward slowly and record the distance"
    ]
   },
   {
-   "q": "Describe how to carry out the Cooper 12-minute run.",
-   "model": "Run as far as possible around a marked track in 12 minutes, then record the distance covered in metres.",
+   "q": "Which fitness components are most important for a goalkeeper? Justify your answer.",
+   "model": "Reaction time to respond to shots and agility to move quickly to save the ball; also power to dive.",
    "points": [
-    "12 minutes maximum distance",
-    "record distance"
+    "Two valid components",
+    "Linked to a goalkeeper action"
    ]
   },
   {
-   "q": "A student's sit and reach score rises from 6 cm to 12 cm. State what this shows and calculate the percentage change.",
-   "model": "Flexibility has improved. The change is (12 − 6) ÷ 6 × 100 = 100%.",
+   "q": "Explain what is meant by VO₂ max.",
+   "model": "The maximum volume of oxygen the body can take in, transport and use per minute during exercise; a high value means better cardiovascular endurance.",
    "points": [
-    "flexibility improved",
-    "100%"
+    "Maximum oxygen taken in and used",
+    "Measure of cardiovascular endurance"
    ]
   },
   {
-   "q": "Explain why power is important to a volleyball player.",
-   "model": "Power lets her jump high quickly to spike or block, combining strength and speed in the take-off.",
+   "q": "A player's 30 m sprint time falls from 4.8 s to 4.5 s. What does this show and why was it tested?",
+   "model": "It shows her speed has improved by 0.3 s so training worked; tests monitor improvement and show strengths and weaknesses.",
    "points": [
-    "power = strength × speed",
-    "jumping / spiking link"
+    "Speed improved by 0.3 s",
+    "Reason for testing (monitor improvement)"
    ]
   },
   {
-   "q": "Give two ways to make a fitness test more reliable.",
-   "model": "Use the same equipment, surface, tester, warm-up and time of day each time, and give the same instructions.",
+   "q": "State two factors that affect VO₂ max, with a reason for each.",
+   "model": "Age: it falls as the heart and lungs work less well. Training: aerobic training improves oxygen delivery and use.",
    "points": [
-    "standardise conditions",
-    "any specific factor e.g. same tester/equipment"
+    "Valid factor with reason",
+    "Second valid factor with reason"
    ]
   }
  ]

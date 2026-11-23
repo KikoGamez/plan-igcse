@@ -1,37 +1,37 @@
-{"id":"geo-r1-01","cards":[
-{"f":"Drainage basin","b":"The area of land drained by a river and its tributaries."},
-{"f":"Watershed","b":"The ridge of high land that separates one drainage basin from the next."},
-{"f":"Confluence","b":"The point where a tributary joins a larger river."},
-{"f":"Transpiration vs evaporation","b":"Transpiration is water lost from plants through their leaves. Evaporation is liquid water turning to vapour from surfaces such as oceans and rivers."},
-{"f":"Infiltration, throughflow, percolation","b":"Infiltration: water soaking into soil. Throughflow: moving sideways through soil. Percolation: moving down into rock."},
-{"f":"Four erosion processes","b":"Hydraulic action, abrasion, attrition and solution."},
-{"f":"Hydraulic action","b":"The force of water pushes air into cracks in the bank and bed, breaking off pieces of rock."},
-{"f":"Abrasion vs attrition","b":"Abrasion: rocks carried by the river scrape the bed and banks. Attrition: rocks knock against each other and become smaller and rounder."},
-{"f":"Four transport processes","b":"Solution (dissolved), suspension (fine particles in water), saltation (bounced), traction (rolled along the bed)."},
-{"f":"Discharge formula","b":"Discharge = cross-sectional area × velocity. Measured in cubic metres per second (cumecs)."},
-{"f":"How do velocity and discharge change downstream?","b":"Both increase. Velocity rises because the channel is deeper and smoother (less friction); discharge rises as tributaries add water."},
-{"f":"How does sediment change downstream?","b":"It gets smaller and more rounded because of attrition."},
-{"f":"V-shaped valley","b":"Formed in the upper course by vertical erosion, with weathering and mass movement wearing back the valley sides."},
-{"f":"Interlocking spurs","b":"Ridges of hard land that overlap like zip teeth, because the river lacks the power to erode through them and winds around them."},
-{"f":"Waterfall formation","b":"Hard rock over soft rock. Soft rock eroded and undercut, plunge pool forms, overhang collapses, falls retreat upstream leaving a gorge."},
-{"f":"Meander: outside vs inside bend","b":"Outside: fast flow, erosion, river cliff. Inside: slow flow, deposition, slip-off slope."},
-{"f":"Oxbow lake formation","b":"Meander neck narrows by erosion, river breaks through in a flood, deposition seals off the old loop."},
-{"f":"How is a levee formed?","b":"The river floods, loses energy and drops its heaviest material next to the channel. Repeated floods build up raised banks."}
-],
-"gaps":[
-{"s":"The point where a river ends and meets the sea is called its ___.","a":["mouth"]},
-{"s":"Water soaking down into the soil is called ___.","a":["infiltration"]},
-{"s":"Small pebbles bounced along the river bed is the process of ___.","a":["saltation"]},
-{"s":"Rocks carried by the river scraping the banks is called ___.","a":["abrasion","corrasion"]},
-{"s":"Erosion on the outside of a meander forms a steep river ___.","a":["cliff"]},
-{"s":"When a river cuts through the neck of a meander, the old loop becomes an ___ lake.","a":["oxbow"]},
-{"s":"A river with a cross-sectional area of 10 m² and velocity of 2 m/s has a discharge of ___ cumecs.","a":["20"]},
-{"s":"A deep pool at the base of a waterfall is called a ___ pool.","a":["plunge"]}
-],
-"short":[
-{"q":"Describe how the long profile of a river differs between its upper and lower courses.","model":"The upper course is steep, while the lower course has a very gentle gradient. The long profile is concave, flattening towards the mouth.","points":["upper course steep","lower course gentle / flat gradient"]},
-{"q":"Explain why velocity increases downstream even though the gradient decreases.","model":"The channel becomes wider, deeper and smoother with smaller sediment, so there is less friction with the bed and banks. More water from tributaries also increases efficiency.","points":["less friction with bed and banks","channel deeper / smoother / more efficient"]},
-{"q":"Explain how a flood plain forms.","model":"When a river floods it slows and loses energy, so it deposits silt across the valley floor. Meanders also move sideways and deposit sediment, building a wide, flat flood plain.","points":["river floods and loses energy, deposits silt","meanders migrate sideways / repeated flooding builds flat land"]},
-{"q":"Give two factors that affect the rate of river erosion.","model":"Geology (soft rock erodes faster than hard rock) and discharge or slope (steeper slopes and higher discharge give more energy for erosion).","points":["geology / rock type","slope, discharge or climate"]},
-{"q":"Explain why the sediment in the lower course is smaller than in the upper course.","model":"Rocks are broken down by attrition as they are carried downstream, so they become smaller and more rounded. Larger rocks are also deposited earlier when energy drops.","points":["attrition wears rocks down","smaller and more rounded; bigger load dropped earlier"]}
-]}
+{
+  "id": "geo-r1-01",
+  "cards": [
+    {"f": "Birth rate", "b": "The number of live births per 1,000 people in a year."},
+    {"f": "Death rate", "b": "The number of deaths per 1,000 people in a year."},
+    {"f": "Natural change", "b": "Birth rate minus death rate. Positive is natural increase, negative is natural decrease."},
+    {"f": "Fertility rate", "b": "The average number of children a woman has in her lifetime. About 2.1 is replacement level in HICs."},
+    {"f": "Infant mortality", "b": "Deaths of children under one year old per 1,000 live births per year."},
+    {"f": "Two reasons for high birth rates in LICs", "b": "High infant mortality, so parents have more children; children work and support parents; little contraception."},
+    {"f": "Two reasons for low birth rates in HICs", "b": "Contraception widely available; women in education and careers; children are costly; low infant mortality."},
+    {"f": "Overpopulation", "b": "Too many people for the resources available, so living standards are low or falling."},
+    {"f": "Underpopulation", "b": "Too few people to make full use of the resources, so living standards could be higher."},
+    {"f": "Optimum population", "b": "The number of people that makes the best use of resources and gives the highest standard of living."},
+    {"f": "Youthful pyramid shape", "b": "Wide base (high birth rate), steep narrowing with age (high death rate, low life expectancy)."},
+    {"f": "Ageing pyramid shape", "b": "Narrow base (low birth rate), wide top (long life expectancy), more women than men at the top."},
+    {"f": "Dependent population", "b": "People aged under 15 and over 64, who rely on the working-age population (15 to 64)."},
+    {"f": "Anti-natalist vs pro-natalist", "b": "Anti-natalist policies reduce the birth rate; pro-natalist policies encourage more births."},
+    {"f": "China one-child policy facts", "b": "Started 1979; changed to two children 2016, three in 2021. Fertility fell, but ageing, 4-2-1 problem and more males than females."}
+  ],
+  "gaps": [
+    {"s": "Birth rate is the number of live births per ___ people per year.", "a": ["1000", "1,000", "thousand", "1 000"]},
+    {"s": "Natural change equals the birth rate minus the ___ rate.", "a": ["death", "mortality"]},
+    {"s": "A country with too many people for its resources is described as ___.", "a": ["overpopulated", "overpopulation", "over populated"]},
+    {"s": "The population that gives the highest standard of living is called the ___ population.", "a": ["optimum", "optimal"]},
+    {"s": "People aged 0 to 14 and over 64 are called the ___ population.", "a": ["dependent", "dependant"]},
+    {"s": "A policy that tries to increase the number of births is ___.", "a": ["pro-natalist", "pro natalist", "pronatalist"]},
+    {"s": "China introduced its one-child policy in ___.", "a": ["1979"]},
+    {"s": "In China, one child supporting two parents and four grandparents is called the ___ problem.", "a": ["4-2-1", "421", "4 2 1"]}
+  ],
+  "short": [
+    {"q": "Explain why infant mortality is linked to high birth rates.", "model": "Where many babies die, parents have more children to make sure some survive to adulthood. This keeps the birth rate high.", "points": ["high infant mortality leads parents to have more children", "so some survive to support the family/work"]},
+    {"q": "Describe the features of an ageing population pyramid.", "model": "It has a narrow base showing a low birth rate and a wide top showing high life expectancy. There are more women than men in the oldest age groups.", "points": ["narrow base/low birth rate", "wide top/many elderly", "more older women than men"]},
+    {"q": "Explain why an ageing population is a problem for a government.", "model": "There are fewer workers paying tax but more elderly needing pensions and healthcare. This raises costs and may lead to labour shortages.", "points": ["fewer workers/taxpayers", "higher spending on pensions/healthcare"]},
+    {"q": "Explain why overpopulation is about resources, not just numbers.", "model": "A country is overpopulated when it has too many people for its resources and technology, so living standards fall. A densely populated rich country may not be overpopulated.", "points": ["balance of people and resources", "valid contrast (e.g. rich, dense country not overpopulated)"]},
+    {"q": "Explain one success and one problem of a named population policy.", "model": "China's one-child policy cut the fertility rate from about 5.8 to about 1.6, easing pressure on resources. However, it created an ageing population with fewer workers.", "points": ["named policy with a valid success", "valid problem with explanation"]}
+  ]
+}

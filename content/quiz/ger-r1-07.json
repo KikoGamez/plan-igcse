@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which word means 'timetable'?",
+   "q": "Wie spät ist es? « Es ist halb acht. »",
    "options": [
-    "der Stundenplan",
-    "die Stunde",
-    "der Plan",
-    "das Zeugnis"
-   ],
-   "answer": 0,
-   "why": "der Stundenplan is the school timetable; das Zeugnis is the report."
-  },
-  {
-   "type": "mcq",
-   "q": "What does 'bekommen' mean?",
-   "options": [
-    "to become",
-    "to get",
-    "to bring",
-    "to book"
+    "8.30",
+    "7.30",
+    "7.45",
+    "8.00"
    ],
    "answer": 1,
-   "why": "bekommen = to get/receive; 'to become' is werden (a false friend)."
+   "why": "halb acht means half an hour before eight, so 7.30."
   },
   {
    "type": "mcq",
-   "q": "Which sentence is correct?",
+   "q": "Welcher Satz ist richtig? Ich fahre jeden Tag …",
    "options": [
-    "Ich möchte eine Lehrerin werden.",
-    "Ich möchte werden Lehrerin.",
-    "Ich möchte Lehrerin werden.",
-    "Ich möchte Lehrerin zu werden."
+    "mit der Bus zur Schule",
+    "mit dem Bus zur Schule",
+    "mit den Bus zur Schule",
+    "mit Bus zur Schule"
    ],
-   "answer": 2,
-   "why": "No article with jobs, and werden goes at the end as an infinitive."
+   "answer": 1,
+   "why": "mit always takes the dative; der Bus is masculine, so mit dem Bus."
+  },
+  {
+   "type": "mcq",
+   "q": "Was bedeutet « Mein Rücken tut weh »?",
+   "options": [
+    "My back hurts.",
+    "My leg is broken.",
+    "I am hungry.",
+    "I have a cold."
+   ],
+   "answer": 0,
+   "why": "der Rücken = back; weh tun = to hurt."
   },
   {
    "type": "short",
-   "q": "Say in German what you did on your last holiday and give one opinion with a reason (2 sentences).",
-   "model": "Letzten Sommer bin ich mit meiner Familie nach Italien gefahren. Das Wetter war toll, weil die Sonne jeden Tag geschienen hat.",
+   "q": "You read: « Ich spiele gern Tennis, weil es Spaß macht. » Answer in German: Warum spielt er gern Tennis?",
+   "model": "Es macht ihm Spaß.",
    "points": [
-    "perfect tense with correct auxiliary (bin ... gefahren)",
-    "opinion with a reason, correct verb position after weil"
+    "gives the reason (Spaß / it is fun)",
+    "answers in German",
+    "no extra, contradicting information"
    ]
   }
  ]

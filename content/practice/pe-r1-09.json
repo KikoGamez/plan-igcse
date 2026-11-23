@@ -2,156 +2,159 @@
  "id": "pe-r1-09",
  "cards": [
   {
-   "f": "Definition of health",
-   "b": "A state of complete physical, mental and social well-being, not merely the absence of disease."
+   "f": "WHO definition of health",
+   "b": "A state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
   },
   {
-   "f": "Definition of fitness",
-   "b": "The ability to meet the demands of the environment."
+   "f": "Fitness",
+   "b": "The ability to cope with (or meet) the demands of the environment."
   },
   {
-   "f": "Well-being",
-   "b": "Feeling healthy, happy and content with your life."
+   "f": "Physical well-being",
+   "b": "All body systems working well; free from illness, injury and disease; able to do everyday tasks."
   },
   {
-   "f": "Physical benefit of exercise",
-   "b": "E.g. stronger heart and lungs, stronger bones, healthy weight, lower risk of disease."
+   "f": "Mental well-being",
+   "b": "Coping with stress, controlling emotions and feeling good about yourself."
+  },
+  {
+   "f": "Social well-being",
+   "b": "Friendship and support, needs met, having value in society and mixing with others."
+  },
+  {
+   "f": "Fit but not healthy",
+   "b": "E.g. an athlete who trains well but smokes or has an illness."
+  },
+  {
+   "f": "Ill health and fitness",
+   "b": "Illness can stop training, so fitness falls."
   },
   {
    "f": "Mental benefit of exercise",
-   "b": "E.g. reduces stress, releases endorphins, improves self-esteem and sleep."
+   "b": "Reduces stress and anxiety and improves self-esteem."
   },
   {
    "f": "Social benefit of exercise",
-   "b": "E.g. make friends, teamwork, sense of belonging, leadership."
+   "b": "Make friends, teamwork and feeling part of a group."
+  },
+  {
+   "f": "Physical benefit of exercise",
+   "b": "Stronger heart, lungs and muscles; lower risk of heart disease and obesity."
   },
   {
    "f": "Sedentary lifestyle",
-   "b": "A way of life with very little physical activity and a lot of sitting."
+   "b": "Very little physical activity; can lead to obesity and heart disease."
   },
   {
    "f": "Obesity",
-   "b": "Excess body fat; BMI of 30 or more. Raises risk of CHD, diabetes and joint problems."
+   "b": "Being very overweight from stored excess fat."
   },
   {
-   "f": "Coronary heart disease",
-   "b": "Fatty deposits narrow the coronary arteries, reducing blood flow to the heart muscle."
+   "f": "Healthy lifestyle",
+   "b": "Active, balanced diet, enough sleep, no smoking or drugs."
   },
   {
-   "f": "Osteoporosis",
-   "b": "Loss of bone density making bones weak. Weight-bearing exercise helps prevent it."
+   "f": "Agility",
+   "b": "Ability to change direction quickly while keeping control."
   },
   {
-   "f": "BMI formula",
-   "b": "Weight in kg divided by height in metres squared."
+   "f": "Cardiovascular endurance",
+   "b": "Ability of the heart and lungs to supply oxygen over a long period."
   },
   {
-   "f": "Healthy BMI range",
-   "b": "18.5 to 24.9."
-  },
-  {
-   "f": "Why is BMI unreliable for athletes?",
-   "b": "It does not separate muscle from fat, so muscular people can look overweight."
-  },
-  {
-   "f": "Ectomorph, mesomorph, endomorph",
-   "b": "Ecto: thin, narrow. Meso: muscular, athletic. Endo: rounded, stores fat easily."
-  },
-  {
-   "f": "Activity guideline for 5–18 year olds",
-   "b": "At least an average of 60 minutes of moderate to vigorous activity a day."
+   "f": "Reaction time",
+   "b": "The time taken to respond to a stimulus."
   }
  ],
  "gaps": [
   {
-   "s": "Chemicals released during exercise that improve mood are called ___.",
+   "s": "Health means physical, mental and ___ well-being.",
    "a": [
-    "endorphins"
+    "social"
    ]
   },
   {
-   "s": "Fatty deposits narrowing arteries cause coronary ___ disease.",
+   "s": "Fitness is the ability to meet the ___ of the environment.",
    "a": [
-    "heart"
+    "demands"
    ]
   },
   {
-   "s": "A person with a BMI of 27 is classed as ___.",
+   "s": "Being able to control emotions is part of ___ health.",
    "a": [
-    "overweight"
+    "mental"
    ]
   },
   {
-   "s": "The body type that is thin with narrow shoulders is the ___.",
+   "s": "Having friends and support is part of ___ health.",
    "a": [
-    "ectomorph"
+    "social"
    ]
   },
   {
-   "s": "The body type that is muscular is the ___.",
+   "s": "A lifestyle with very little activity is called ___.",
    "a": [
-    "mesomorph"
+    "sedentary"
    ]
   },
   {
-   "s": "Weak, brittle bones are a sign of ___.",
+   "s": "Excess stored fat leading to health problems is called ___.",
    "a": [
-    "osteoporosis"
+    "obesity"
    ]
   },
   {
-   "s": "Having more body fat than is healthy for your height is called being ___.",
+   "s": "Exercise can reduce stress and ___.",
    "a": [
-    "overweight",
-    "obese"
+    "anxiety"
    ]
   },
   {
-   "s": "BMI is weight in kg divided by height in metres ___.",
+   "s": "Illness can lead to a loss of ___.",
    "a": [
-    "squared"
+    "fitness"
    ]
   }
  ],
  "short": [
   {
    "q": "Explain the difference between health and fitness.",
-   "model": "Health is complete physical, mental and social well-being. Fitness is the ability to meet the demands of the environment, so you can be fit but not fully healthy.",
+   "model": "Health is complete physical, mental and social well-being, whereas fitness is the ability to meet the demands of an activity.",
    "points": [
-    "health definition",
-    "fitness definition"
+    "health defined as physical/mental/social",
+    "fitness defined as meeting demands"
    ]
   },
   {
-   "q": "Give two ways that regular exercise helps mental well-being.",
-   "model": "It releases endorphins that improve mood and reduces stress and anxiety. It also builds self-confidence.",
+   "q": "Describe two physical benefits of exercise.",
+   "model": "Stronger heart and lungs, and a lower risk of obesity or heart disease.",
    "points": [
-    "endorphins / mood",
-    "reduces stress / builds confidence"
+    "valid benefit",
+    "second valid benefit"
    ]
   },
   {
-   "q": "Calculate the BMI of someone who weighs 80 kg and is 1.8 m tall.",
-   "model": "BMI = 80 ÷ 1.8² = 80 ÷ 3.24 = 24.7, which is in the healthy range.",
+   "q": "Explain how team sport can improve social health.",
+   "model": "It allows people to make friends and feel supported and part of a group.",
    "points": [
-    "80 ÷ 3.24",
-    "24.7"
+    "friendship/support",
+    "sense of belonging"
    ]
   },
   {
-   "q": "Explain how smoking harms an athlete’s performance.",
-   "model": "Carbon monoxide reduces the oxygen carried by haemoglobin, and lung damage reduces gas exchange, so the athlete tires faster.",
+   "q": "Give two risks of a sedentary lifestyle.",
+   "model": "Obesity and heart disease; or weak muscles and poor mental health.",
    "points": [
-    "less oxygen carried",
-    "tires sooner / lung damage"
+    "valid risk",
+    "second valid risk"
    ]
   },
   {
-   "q": "Which somatotype suits a rugby prop and why?",
-   "model": "An endomorph or strong mesomorph; a large, heavy, powerful body helps in scrums and tackles.",
+   "q": "Explain why a gymnast needs flexibility.",
+   "model": "Flexibility allows a large range of movement at joints for moves like splits and reduces injury risk.",
    "points": [
-    "endomorph/mesomorph",
-    "heavy and strong"
+    "large range of movement",
+    "link to gymnastics"
    ]
   }
  ]

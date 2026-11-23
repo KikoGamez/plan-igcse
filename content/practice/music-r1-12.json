@@ -2,156 +2,162 @@
  "id": "music-r1-12",
  "cards": [
   {
-   "f": "Performing weighting",
-   "b": "30% of the course (60 marks): solo 30 + ensemble 30."
+   "f": "Performing total",
+   "b": "50 marks (AO2): two parts, solo and with others; 30% of the IGCSE."
   },
   {
-   "f": "Composing weighting",
-   "b": "30% of the course (60 marks): brief 30 + free 30."
+   "f": "Composing total",
+   "b": "50 marks (AO3): two compositions, 25 each; 30% of the IGCSE."
   },
   {
-   "f": "Minimum performing time",
-   "b": "About 4 minutes in total (check with your teacher)."
+   "f": "Performing length",
+   "b": "At least 2 minutes per part; no more than 10 minutes in total."
   },
   {
-   "f": "Minimum composing time",
-   "b": "About 3 minutes in total (check with your teacher)."
+   "f": "Recording rule",
+   "b": "Final recording of each piece must be a single take, not edited."
+  },
+  {
+   "f": "Part 2 requirement",
+   "b": "Rhythmic coordination and ensemble awareness with at least one live performer."
   },
   {
    "f": "Performing criteria",
-   "b": "Accuracy, fluency, expression/interpretation and technical demand."
+   "b": "Fluency/accuracy; tempo/coordination; character/style/ensemble; technical control; whole performance."
   },
   {
-   "f": "Fluency",
-   "b": "Playing without hesitation and with a steady pulse."
+   "f": "Composition 1",
+   "b": "Notated in staff notation as a complete score, with a recording."
   },
   {
-   "f": "Motif",
-   "b": "A short musical idea that can be developed."
+   "f": "Composition 2",
+   "b": "Written to your own brief linked to an area of study; recording plus commentary or suitable score."
+  },
+  {
+   "f": "Composing criteria",
+   "b": "Ideas, structure, use of medium, compositional technique, score or commentary."
+  },
+  {
+   "f": "Use of medium",
+   "b": "Suitable writing for instruments, ranges and a variety of textures."
+  },
+  {
+   "f": "Compositional technique",
+   "b": "Developing ideas (sequence, inversion, ostinato) with suitable harmony."
+  },
+  {
+   "f": "Not allowed in composing",
+   "b": "Arrangements of existing pieces; theme and variations on someone else's theme."
+  },
+  {
+   "f": "Commentary content",
+   "b": "Brief, timings, structure and content, how effects were made."
   },
   {
    "f": "Sequence",
-   "b": "A pattern repeated at a higher or lower pitch."
+   "b": "A pattern repeated higher or lower."
   },
   {
-   "f": "Ways to develop a motif",
-   "b": "Sequence, change rhythm, change key, inversion, new instrument, countermelody."
+   "f": "Inversion",
+   "b": "A melody turned upside down."
   },
   {
-   "f": "Lead sheet",
-   "b": "Melody, chords and lyrics notated."
-  },
-  {
-   "f": "Brief",
-   "b": "The task set by the exam board for one composition."
-  },
-  {
-   "f": "Ternary form",
-   "b": "A–B–A: theme, contrast, return."
-  },
-  {
-   "f": "Ensemble skills",
-   "b": "Timing together, balance, listening, cueing."
-  },
-  {
-   "f": "Structure in composition",
-   "b": "A clear plan with sections that contrast and link."
-  },
-  {
-   "f": "Finish early",
-   "b": "Leave a week to re-record and check the score."
+   "f": "Ensemble awareness",
+   "b": "Listening, balancing dynamics and matching phrasing with other performers."
   }
  ],
  "gaps": [
   {
-   "s": "Performing is worth ___ percent of the course.",
+   "s": "Performing coursework is worth ___ marks.",
    "a": [
-    "30",
-    "thirty"
+    "50",
+    "fifty"
    ]
   },
   {
-   "s": "A short musical idea that is developed is a ___.",
+   "s": "The performing recording must be a single ___.",
    "a": [
-    "motif"
+    "take"
    ]
   },
   {
-   "s": "A pattern repeated at a different pitch is a ___.",
+   "s": "Composition 1 must be notated in ___ notation.",
+   "a": [
+    "staff"
+   ]
+  },
+  {
+   "s": "A melody turned upside down is an ___.",
+   "a": [
+    "inversion"
+   ]
+  },
+  {
+   "s": "A pattern repeated at a higher or lower pitch is a ___.",
    "a": [
     "sequence"
    ]
   },
   {
-   "s": "A–B–A form is called ___ form.",
+   "s": "Part 2 needs at least one other ___ performer.",
    "a": [
-    "ternary"
+    "live"
    ]
   },
   {
-   "s": "Playing without hesitation is called ___.",
+   "s": "Composing marks are 30% of the ___.",
    "a": [
-    "fluency"
+    "igcse",
+    "grade",
+    "qualification"
    ]
   },
   {
-   "s": "The task set by the board for one composition is the ___.",
+   "s": "Composition 2 is written to a ___ that you define.",
    "a": [
     "brief"
-   ]
-  },
-  {
-   "s": "A score showing melody, chords and lyrics is a ___ sheet.",
-   "a": [
-    "lead"
-   ]
-  },
-  {
-   "s": "Dynamics and phrasing show expression and ___.",
-   "a": [
-    "interpretation"
    ]
   }
  ],
  "short": [
   {
-   "q": "Why is it better to choose a performance piece you can play well rather than one that is far too hard?",
-   "model": "Accuracy and fluency carry many marks; a piece played securely with expression scores higher than a harder piece full of errors.",
+   "q": "How does the Cambridge syllabus judge the difficulty of a performing piece?",
+   "model": "Marks are for the skills shown, not for difficulty, but very simple pieces limit marks and pieces that are too hard cause errors.",
    "points": [
-    "Accuracy/fluency",
-    "Expression"
+    "skills not difficulty",
+    "too simple/too hard problem"
    ]
   },
   {
-   "q": "Describe how to plan a composition to a brief.",
-   "model": "Read the brief, choose key words, write a motif, plan a structure, develop it, and notate and record it with time to check.",
+   "q": "Give two requirements for Composition 2.",
+   "model": "It follows your own brief linked to an area of study, and comes with a recording plus a commentary or style-appropriate notation; it must use different instruments from Composition 1.",
    "points": [
-    "Read brief",
-    "Structure and development"
+    "brief/area of study",
+    "commentary/notation/different medium"
    ]
   },
   {
-   "q": "List three ways to develop a melody.",
-   "model": "Sequence, change rhythm, change key, invert it, change the instrument or texture.",
+   "q": "What is ensemble awareness?",
+   "model": "Listening to other performers, balancing dynamics and matching phrasing and articulation.",
    "points": [
-    "Two correct techniques",
-    "Third correct technique"
+    "listening/balance",
+    "matching phrasing"
    ]
   },
   {
-   "q": "How can an ensemble performer earn high marks?",
-   "model": "Keep time with the others, balance dynamics, listen, give clear cues and play a significant part.",
+   "q": "How can you improve the structure of a composition?",
+   "model": "Plan sections with contrast and links, use repetition and variation, and keep an overall shape with a clear ending.",
    "points": [
-    "Timing/balance",
-    "Listening/cues"
+    "sections/contrast",
+    "continuity/ending"
    ]
   },
   {
-   "q": "What should you check before submitting a composition?",
-   "model": "The recording matches the score, the length is long enough, dynamics and tempo are marked, and the brief is answered.",
+   "q": "What should a composition commentary include?",
+   "model": "The brief, timings, the structure and content of each section and how effects were achieved (instruments, devices, keys, technology).",
    "points": [
-    "Score matches recording",
-    "Length/brief"
+    "brief/timings",
+    "structure/how achieved"
    ]
   }
  ]

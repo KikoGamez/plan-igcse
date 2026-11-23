@@ -1,64 +1,65 @@
 # Mock: timed practical (1/2)
 
-> **Goal:** Complete the first half of your mock timed piece in one hour of exam-style conditions: composition, base layers and the start of your focal point, working from your plan and your own preparatory studies only.
+> **Goal:** Make the first part of your final piece under supervised, exam-style conditions, following your plan from session 1, so that the main structure, composition and colour are secured and you are on schedule for the finish in session 2/2.
 
 ## Before you start
 
-- **Material:** your plan from the previous session (design, materials and timing), your **preparatory studies** (you may look at them but not add to them), all materials ready, paper/surface prepared, a timer.
-- Use the same **endorsed title** as your portfolio; follow the theme set for your mock (your teacher's or a Pearson ESA paper).
-- Conditions: a quiet space, no phone (except as a clock), **no help** from others, and no internet or new research. In the real exam you may not take work in or out of the room between sessions, so don't plan to "finish at home".
-- Put your name and the date on the back of the work. Photograph your plan before you start.
+- **What to use:** your final plan from the previous session (design drawing, colour plan, materials list, time plan) and your supporting studies (research, experiments, development) laid out beside you. In the real Cambridge IGCSE Art & Design 0400 Component 2 test the supporting studies must be available to you.
+- **Materials:** everything on your materials list, plus a spare of your key colours, a pencil, eraser, water or cleaning materials, and protection for the table.
+- **Timer:** this session is one hour. Your real test is 8 hours in total; this mock is about 2 hours across two sessions, so scale the plan: about 55 minutes of actual working time today.
+- **Conditions:** work alone and in silence, no phone (except to photograph at the end), no internet, no copying someone else's idea. The syllabus requires the work to be your own.
+- **Start by photographing** your plan and the blank surface for a before/after record.
 
 ## Exam format reminder
 
-- Real exam: **10 hours of sustained focus**, unaided, in up to four sessions within three consecutive weeks; work is kept securely between sessions.
-- You work from your preparatory studies; you may **not** add to or alter them once the period has begun.
-- Final outcome (max A2) can be a single piece, a series or a group of artefacts.
-- **AO4** (18 marks): present a personal and meaningful response that realises intentions and demonstrates understanding of visual language. Your timed work must still reflect all four AOs through its link to your preparatory studies.
+- **Component 2 final outcome:** produced during the supervised test of **8 hours' total duration**; marked together with the supporting studies for **100 marks (50%)**.
+- **AO4 Present:** a personal and coherent response that realises intentions and shows an understanding of visual language.
+- Any area of study, any size or medium (digital, non-digital or mixed), provided it is photographed or scanned for the digital portfolio.
+- Today is the **first half** of your mock: setting up and building the main structure.
 
 ## How to do it
 
-1. **0–5 min** – Set up. Look at your plan and timing sheet. Write start and planned finish times for each stage on a sticky note.
-2. **5–15 min** – **Composition.** Lightly draw the composition at full size, checking proportion and placement. Don't press hard; rub out only if you must.
-3. **15–30 min** – **Base layers.** Block in the main areas of tone or colour: broad, loose and fast. Don't detail yet. Keep the light/dark pattern clear.
-4. **30–50 min** – **Focal point.** Work on the most important area: the face, central object or main shape. Build tone, texture and colour with your tested technique.
-5. **50–55 min** – **Mid-point review.** Step back 2 m (or photograph and look at the screen). Is the composition balanced? Is the focal point strong? Are the colours as planned? Note two things to adjust next session.
-6. **55–60 min** – Tidy up; write a 3-line "next session" note for yourself and store the work safely.
+| Time | What to do |
+|---|---|
+| 0:00–0:05 | Set up. Lay out materials. Read your intention and time plan. Check what you should have done by the end of today. |
+| 0:05–0:15 | Transfer the composition: lightly draw the main shapes, proportions and focal point onto the final surface (or open and set up the digital canvas or the 3D base). |
+| 0:15–0:40 | **Block in the large areas:** background, main colours, main forms. Work from the biggest to the smallest. Use the techniques you tested in your experiments. |
+| 0:40–0:52 | **Start the focal point:** begin the area that matters most while you are fresh. Aim for the right values (lights and darks) first, detail later. |
+| 0:52–0:57 | **Step back** (or photograph the work and view it on screen) to check against the plan and the intention. Make a quick note on what to fix. |
+| 0:57–1:00 | Tidy up, protect the work, photograph it, and write three bullet points for the next session. |
 
 ## Exam technique for this paper
 
-- **Keep to the plan.** The timed piece should be a development of your studies; don't start a new idea now.
-- **General to detail:** large shapes and tones first, detail later.
-- **Focal point first** while you are fresh.
-- Use **contrast** to show intentions (light against dark, warm against cool).
-- Use the techniques you tested in your preparatory studies; avoid trying something brand new.
-- **Stop** if a problem appears, think for one minute, then use your fallback.
-- Keep the table and materials organised to save time.
-- Don't compare yourself with others; work to your own plan and time.
+- **Follow the plan.** The plan is the exam answer you prepared, so use it. Change only what is not working.
+- **Start big, finish small.** Large shapes and colours first; fine detail is last, when time is secure.
+- **Use your tested media.** Do not try a new technique in the exam. If you want a texture, use the one from your experiments.
+- **Check tone and contrast early.** The most common weak point in final pieces is a flat image with too little tonal range. Get the darkest dark and lightest light into the focal point early.
+- **Watch drying times.** Wet layers need to dry; fill the wait by working on another area or on a small detail.
+- **Work from your supporting studies.** Look at your drawings and colour tests; they show what you intend.
+- **Stay in control.** If part of the work goes wrong, adjust, don't panic and restart.
+- **Be on schedule at the half-way mark.** If behind, simplify the background or reduce the number of details.
 
 ## Checklist while marking
 
-Check at the end of the hour:
-- [ ] Composition is correct and fills the format well.
-- [ ] Base layers are complete and the tonal pattern is clear.
-- [ ] Focal point has started to show detail and quality.
-- [ ] I am on time, or I know what I will drop.
-- [ ] The work follows my design and my artist links (AO1, AO2).
-- [ ] It reflects my observations (AO3).
-- [ ] I have written my note for the next session.
-- [ ] The surface is clean (no smudges, creases).
+Check yourself at the end of the session (a quick tick or cross):
+- Is the **composition** laid out as planned, and is the **focal point** clear?
+- Are the **main colours/forms** in place, in line with the colour plan?
+- Are **techniques** from my experiments being used with control?
+- Is the **time plan** on schedule? (How many minutes behind or ahead?)
+- Have I recorded my **progress** by photograph?
+- Do I know exactly what the **first 10 minutes** of the next session are?
 
 ## Quick-fire revision
 
-- Timed piece = personal response (AO4) built from your preparatory studies.
-- Real exam is 10 hours in up to four sessions within three consecutive weeks.
-- Unaided; no adding to preparatory studies once the 10 hours begin.
-- Plan: composition, base layers, main development, refining, finishing, review.
-- General to detail; focal point first.
-- Use contrast and a controlled palette for impact.
-- Keep 10% for review at the end.
-- Step back regularly to see the whole.
-- Use techniques you have already tested.
-- Fallback plan if you run late.
-- AO4: realise intentions and show understanding of visual language.
-- Finished, resolved work scores better than unfinished ambition.
+- Composition: arrangement of shapes and elements; use a focal point.
+- Contrast guides the eye: light/dark, bright/dull, sharp/soft.
+- Tone: how light or dark something is; a good range gives depth.
+- Texture: real or visual surface; build it with layers, scraping, collage or mark-making.
+- Layering: build from thin to thick, light to dark (depends on medium).
+- Impasto (Van Gogh) is thick paint with visible brush marks.
+- Sfumato (Leonardo): soft blending. Tenebrism (Caravaggio): strong spotlight on dark.
+- Pointillism (Seurat): dots of colour. Impressionism (Monet): broken strokes, light and moment.
+- Pop Art (Warhol) repetition; Cubism (Picasso) multiple viewpoints.
+- Colour wheel: primary (red, yellow, blue), secondary, complementary pairs sit opposite.
+- AO4: personal, coherent, realises intentions, uses visual language.
+- Photograph the work flat, in good light, with no shadows.

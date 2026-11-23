@@ -2,162 +2,158 @@
  "id": "art-r1-11",
  "cards": [
   {
-   "f": "AO2 wording",
-   "b": "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes."
+   "f": "AO2 Explore wording",
+   "b": "Explore and select appropriate resources, media, materials, techniques and processes. 25 marks."
   },
   {
-   "f": "Development cycle",
-   "b": "Explore, experiment, review, refine, repeat."
+   "f": "Explore vs select",
+   "b": "Explore: try a range. Select: choose the most suitable for your idea and say why."
   },
   {
-   "f": "Consolidated too early",
-   "b": "Settling on one idea before exploring alternatives; named in the lowest AO2 band."
+   "f": "Purposeful experiment",
+   "b": "A test that answers a question about your idea, e.g. which medium shows peeling paint best?"
   },
   {
-   "f": "Thumbnail",
-   "b": "A small, quick sketch to test a composition."
+   "f": "Four ways to change a drawing",
+   "b": "Change the medium, surface, scale or composition/viewpoint."
+  },
+  {
+   "f": "Thumbnail sketch",
+   "b": "A small, quick drawing of an idea (about 5 minutes)."
   },
   {
    "f": "Maquette",
-   "b": "A small preliminary model for a 3D work."
+   "b": "A small preliminary model of a 3D design to test form and structure."
   },
   {
-   "f": "Mood board",
-   "b": "A collection of images, colours and textures capturing atmosphere."
+   "f": "Mixed media idea",
+   "b": "For example ink over wax resist, or collage combined with paint."
   },
   {
-   "f": "One variable rule",
-   "b": "Change one thing at a time so you know what caused the result."
+   "f": "Why keep failed tests?",
+   "b": "They show range of exploration; with a note they show reflection and refinement."
   },
   {
-   "f": "What 'appropriate' means in AO2",
-   "b": "Media and materials suited to your intentions; explain why you chose them."
+   "f": "Review questions",
+   "b": "Which worked best and why? What do I change? What next?"
   },
   {
-   "f": "Ways to show review",
-   "b": "Side-by-side tests, annotated decisions, marked next steps, a refined second attempt."
+   "f": "Resolved outcome",
+   "b": "A finished piece where idea, materials and composition work together."
   },
   {
-   "f": "Examples of composition experiments",
-   "b": "Viewpoint, crop, scale, symmetry, focal point, negative space."
+   "f": "Development chain",
+   "b": "Starting point, recording, research, experiments, ideas, review, refinement, final outcome."
   },
   {
-   "f": "Why show failed experiments",
-   "b": "They show reflection and learning, which earns AO2 marks."
+   "f": "Syllabus: 'select, review and refine'",
+   "b": "Work throughout the process to produce a personal and resolved response."
   },
   {
-   "f": "Preparatory studies can include",
-   "b": "Sketchbooks, design sheets, rough studies, samples, test pieces, maquettes and digital material."
+   "f": "Can you work digitally?",
+   "b": "Yes: entirely digital, entirely non-digital, or both, provided the AOs are met."
   },
   {
-   "f": "Sketch to final stages",
-   "b": "Thumbnails, composition studies, material tests, mock-up, annotated final plan."
+   "f": "Crop and zoom",
+   "b": "Use a viewfinder card to find the strongest area of an image."
   },
   {
-   "f": "Mind map",
-   "b": "Theme in the centre with branches for subjects, places, feelings, materials and artists."
-  },
-  {
-   "f": "Intentions",
-   "b": "What you are trying to express or achieve in your work."
+   "f": "Before the final piece, prepare:",
+   "b": "Design drawing, colour plan, materials list, time plan, risk check."
   }
  ],
  "gaps": [
   {
-   "s": "A small quick sketch to test a layout is a ___.",
+   "s": "AO2 is called ___.",
+   "a": [
+    "Explore"
+   ]
+  },
+  {
+   "s": "A small, quick drawing of an idea is a ___ sketch.",
    "a": [
     "thumbnail"
    ]
   },
   {
-   "s": "A small model for a 3D piece is called a ___.",
+   "s": "A small model made to test a 3D design is a ___.",
    "a": [
     "maquette"
    ]
   },
   {
-   "s": "The cycle is explore, experiment, review, refine and ___.",
+   "s": "Choosing the best experiment and giving a reason is ___.",
    "a": [
-    "repeat"
+    "selecting",
+    "selection"
    ]
   },
   {
-   "s": "Look critically at your work to judge it: you ___ it.",
+   "s": "Looking back at work to decide what to do next is a ___.",
    "a": [
-    "review",
-    "evaluate"
+    "review"
    ]
   },
   {
-   "s": "AO2 is worth ___ marks out of 72 in each component.",
+   "s": "The syllabus says to 'reflect, refine and ___'.",
    "a": [
-    "18",
-    "eighteen"
+    "adapt"
    ]
   },
   {
-   "s": "Ideas that are settled on too soon are consolidated too ___.",
+   "s": "AO2 is worth ___ marks in each component.",
    "a": [
-    "early"
+    "25"
    ]
   },
   {
-   "s": "Change only one ___ at a time in an experiment.",
+   "s": "A finished piece where all parts work together is ___.",
    "a": [
-    "variable",
-    "thing"
-   ]
-  },
-  {
-   "s": "Materials should be appropriate to your personal ___.",
-   "a": [
-    "intentions",
-    "intention",
-    "ideas"
+    "resolved"
    ]
   }
  ],
  "short": [
   {
-   "q": "Give two things to experiment with when developing a composition.",
-   "model": "Viewpoint and crop (also scale, colour, symmetry or focal point).",
+   "q": "Why are experiments not enough without a review?",
+   "model": "Without a review there is no visible decision, so examiners cannot see selection or reflection.",
    "points": [
-    "composition element 1",
-    "element 2"
+    "no decision shown",
+    "need to select with reason"
    ]
   },
   {
-   "q": "Write a short review of an experiment where charcoal smudged too much.",
-   "model": "The smudging lost the fine detail; next time I will use harder charcoal pencil and fix each layer.",
+   "q": "List three ways to develop a drawing.",
+   "model": "Change the medium, change the composition or viewpoint, and change the scale or crop to a detail.",
    "points": [
-    "what happened",
-    "reason",
-    "next step"
+    "changes the medium or surface",
+    "changes composition, viewpoint or scale",
+    "a third valid way (crop, colour scheme, mixed media)"
    ]
   },
   {
-   "q": "Why are failed experiments useful for AO2?",
-   "model": "They show you reviewed, understood why something didn't work and used that insight to refine your work.",
+   "q": "Explain how to present a page of experiments.",
+   "model": "Group related tests in order, label each with materials and technique, and add a short review of what worked.",
    "points": [
-    "reflection/review",
-    "refinement based on insight"
+    "grouped / ordered",
+    "labelled",
+    "review"
    ]
   },
   {
-   "q": "Describe the steps from thumbnail to final plan.",
-   "model": "Draw several thumbnails, choose two, make larger composition and colour studies, test materials, then make an annotated plan.",
+   "q": "Why is a plan useful before the final outcome?",
+   "model": "A design drawing, colour plan, materials list and time plan reduce risk and let you realise your intentions.",
    "points": [
-    "thumbnails/selection",
-    "studies and material tests",
-    "final plan"
+    "design/colour plan",
+    "reduces risk / timing"
    ]
   },
   {
-   "q": "How would you explain a choice of materials?",
-   "model": "Say why they suit your theme and mood, e.g. soft watercolour for a fragile, nostalgic feeling.",
+   "q": "Why should you photograph work carefully?",
+   "model": "The portfolio is submitted digitally, so poor lighting or focus hides the quality of the work and loses marks.",
    "points": [
-    "links to theme/intention",
-    "reason for choice"
+    "digital submission",
+    "quality seen"
    ]
   }
  ]

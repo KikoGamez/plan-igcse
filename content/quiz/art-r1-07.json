@@ -3,49 +3,49 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which best describes a primary source in art research?",
+   "q": "What does AO3 'Develop' ask you to do in Cambridge IGCSE Art & Design?",
    "options": [
-    "A biography of an artist from a website",
-    "A postcard of a painting",
-    "A drawing you make in front of an original artwork",
-    "A video documentary"
+    "Copy an artist's work exactly",
+    "Develop ideas through investigation, demonstrating critical understanding",
+    "Present a finished piece",
+    "Record observations only"
+   ],
+   "answer": 1,
+   "why": "AO3 is 'Develop ideas through investigation, demonstrating critical understanding'."
+  },
+  {
+   "type": "mcq",
+   "q": "Which is a first-hand source?",
+   "options": [
+    "A book about Hockney",
+    "A website image of Kusama",
+    "Your own sketch made in a gallery",
+    "A magazine photo"
    ],
    "answer": 2,
-   "why": "Primary sources are first-hand: your own drawings, photos or seeing the original."
+   "why": "First-hand sources are made or seen by you, such as your own drawings and photographs."
   },
   {
    "type": "mcq",
-   "q": "What does AO1 ask you to show?",
+   "q": "Which research page shows the strongest critical understanding?",
    "options": [
-    "Develop ideas through investigations, demonstrating critical understanding of sources",
-    "Present a personal response with a neat finish",
-    "Record observations only from life",
-    "Use as many materials as possible"
-   ],
-   "answer": 0,
-   "why": "This is the AO1 wording from the Pearson specification."
-  },
-  {
-   "type": "mcq",
-   "q": "Which sketchbook page would earn the highest AO1 credit?",
-   "options": [
-    "A printed artist photo with a copied biography",
-    "A neat copy of a painting with no comment",
-    "Many pages with a different artist on each",
-    "A study of the artist's technique on your own subject, with analysis and a note on how it will influence your outcome"
+    "A printed biography",
+    "A pasted picture with the title",
+    "A copy of the artwork with no comment",
+    "A study in the artist's style, notes on how it works, and a new piece applying it to your theme"
    ],
    "answer": 3,
-   "why": "Critical understanding means analysing, testing and linking the source to your own intentions."
+   "why": "Examiners want analysis, a study, and a visible link to your own developed idea."
   },
   {
    "type": "short",
-   "q": "Explain how you would use an artist's work to develop your own idea, not just copy it.",
-   "model": "I would study how the artist works (technique, palette, composition), try the technique on my own subject, evaluate what worked, and use it deliberately in my final piece.",
+   "q": "Explain how you would use one real artist's work to develop a project on 'The city'.",
+   "model": "Choose an artist such as Basquiat or Hockney, describe real features (rough line and text, or flat bright colour), make a small study in that style, then apply the method to your own photos of the city and explain the link.",
    "points": [
-    "study/analyse the artist's technique or ideas",
-    "apply it to own subject/work",
-    "evaluate or judge the result",
-    "link to own intentions/final piece"
+    "names a real artist with an accurate feature of their work",
+    "makes or describes a study in their style",
+    "applies it to the theme with your own source",
+    "says why it suits the idea"
    ]
   }
  ]

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which three things make up the golden triangle?",
+   "q": "Which is an example of gamesmanship?",
    "options": [
-    "Sport, sponsorship, media",
-    "Sport, school, family",
-    "Media, money, fans",
-    "Sport, health, fitness"
+    "Helping an injured opponent",
+    "Shaking hands after the match",
+    "Time-wasting to protect a lead",
+    "Accepting the referee's decision"
    ],
-   "answer": 0,
-   "why": "The golden triangle links sport, sponsorship and the media."
+   "answer": 2,
+   "why": "Gamesmanship bends the rules to gain an advantage, e.g. time-wasting."
   },
   {
    "type": "mcq",
-   "q": "Time-wasting when your team is ahead is an example of",
+   "q": "Which level of the sports development pyramid is at the base?",
    "options": [
-    "gamesmanship",
-    "hooliganism",
-    "drug use",
-    "positive deviance"
+    "Elite",
+    "Performance",
+    "Participation",
+    "Foundation"
    ],
-   "answer": 0,
-   "why": "Gamesmanship bends the rules without breaking them to gain an advantage."
+   "answer": 3,
+   "why": "Foundation is the lowest level: basic skills, often in school."
   },
   {
    "type": "mcq",
-   "q": "The mean of 10, 12, 14 and 20 is",
+   "q": "Which is an advantage of hosting a major sports event?",
    "options": [
-    "14",
-    "12",
-    "13",
-    "15"
+    "Cost of stadium building",
+    "Home advantage",
+    "Disruption to local people",
+    "Security risks"
    ],
-   "answer": 0,
-   "why": "10 + 12 + 14 + 20 = 56, and 56 ÷ 4 = 14."
+   "answer": 1,
+   "why": "Home advantage, along with facilities, tourism and legacy, is a benefit."
   },
   {
    "type": "short",
-   "q": "Explain one positive and one negative effect of sponsorship on a sport.",
-   "model": "Positive: sponsorship brings money for facilities and professional athletes. Negative: sponsors can influence timings or rules, and may withdraw if results fall.",
+   "q": "Explain one advantage and one disadvantage of sponsorship for a performer.",
+   "model": "Advantage: money or free equipment lets the performer train full-time. Disadvantage: the sponsor may withdraw after poor performance, or the performer faces pressure to promote the brand.",
    "points": [
-    "positive effect with reason",
-    "negative effect with reason"
+    "valid advantage with explanation",
+    "valid disadvantage with explanation"
    ]
   }
  ]

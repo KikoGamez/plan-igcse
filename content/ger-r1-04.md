@@ -1,6 +1,6 @@
 # Grammar: future, conditional and modal verbs
 
-> **In the exam:** To reach the higher bands in Writing and Speaking you must refer to the **future** and show a **conditional** (*ich würde gern …*). Q7 bullet points often ask about plans (*was du nächstes Jahr machen wirst*). Modal verbs (*können, müssen, dürfen …*) appear in Listening and Reading in every theme (rules at school, health, rights and duties) and in **Q8**, where you may need the modal in the present or imperfect and an infinitive at the end.
+> **In the exam:** Cambridge IGCSE German 0525 lists the **future (Futur I)**, the **conditional (Konjunktiv II: würde + infinitive and common irregular forms)** and **modal verbs** in all persons. To score well for range in **Paper 4 Writing** (Q3, 130–140 words: usually plans, hopes and opinions as well as past events) and in the **Paper 3 Speaking** topic conversations, you must refer to the future and show a conditional (*ich würde gern …*). Modals appear in every theme in **Papers 1 and 2** (rules at school, health, work). The syllabus also lists **indirect speech and the passive for recognition only** (you need to understand them, not write them); they are at the end of the notes.
 
 ## What you need to know
 
@@ -89,7 +89,14 @@ Used for dreams, polite requests, "I would ..." and *wenn*-clauses.
 - In a *wenn*-clause the verb goes **to the end**; in the next clause the verb is **first**: *Wenn ich Zeit **hätte**, **würde** ich mehr lesen.* (comma, then verb first: the *wenn*-clause counts as position one.)
 - Other useful conditionals: *Ich würde gern ... (+ infinitive)*, *Ich hätte gern ... (+ noun)*, *Es wäre schön, wenn ...*, *An deiner Stelle würde ich ...* (In your place, I would ...).
 
-### Putting tenses together (for the top band)
+### Recognition only: the passive and indirect speech
+
+You will meet these in reading and listening texts (news items, articles). You do not need to write them.
+
+- **Passive** = **werden + past participle**: *Das Haus wird gebaut* (is being built), *Das Haus wurde 1990 gebaut* (was built), *Das Haus ist gebaut worden* (has been built). *von* + dative gives the person doing it: *Der Brief wird von der Lehrerin geschrieben.* Note *worden* (not *geworden*) in the perfect passive.
+- **Indirect speech (Konjunktiv I)** reports what someone said: *Er sagt, er **sei** müde. Sie sagte, sie **habe** keine Zeit. Er sagt, sie **komme** morgen.* The forms *sei, habe, komme* are the *er/sie* forms with **-e** (and no -t). When Konjunktiv I looks like the normal present, Konjunktiv II is used: *Sie sagten, sie **hätten** keine Zeit. Er sagte, sie **würden** kommen.* The meaning is simply "he says/said that ...", not "would".
+
+### Putting tenses together (for the top marks)
 
 *Letztes Jahr **bin** ich nach Paris **gefahren** (perfect). Dort **war** es toll (imperfect). Nächstes Jahr **werde** ich nach Rom **fahren** (future), und wenn ich Geld **hätte**, **würde** ich auch nach New York **fliegen** (conditional).*
 
@@ -99,13 +106,15 @@ Used for dreams, polite requests, "I would ..." and *wenn*-clauses.
 - **Conditional:** a mood for what would happen if something else were true, formed with *würde* + infinitive (or *hätte, wäre, könnte*).
 - **Modal verb:** a verb (*können, müssen, dürfen, wollen, sollen, mögen*) that is used with an infinitive to express ability, necessity, permission, wish or obligation.
 - **Infinitive:** the base form of the verb; with modals and *werden* it goes to the end of the clause.
+- **Passive (recognition):** *werden* + past participle; the subject receives the action.
+- **Indirect speech (recognition):** reporting what someone said, often with Konjunktiv I (*er sei, sie habe*).
 - **Subordinate clause:** a clause beginning with a conjunction like *wenn* or *weil*, with the verb at the end.
 
 ## Worked examples
 
-**1. Translate.** *Next year I will go to university and I would like to study medicine.* [4] → *Nächstes Jahr werde ich an die Universität gehen und ich möchte Medizin studieren.* Marks: *Nächstes Jahr* with **verb second** (*werde ich*), infinitive at the end, *möchte* + infinitive, *Medizin*. (*zur Uni gehen* is also fine.)
+**1. Translate (sentence-level writing).** *Next year I will go to university and I would like to study medicine.* [4] → *Nächstes Jahr werde ich an die Universität gehen und ich möchte Medizin studieren.* Marks: *Nächstes Jahr* with **verb second** (*werde ich*), infinitive at the end, *möchte* + infinitive, *Medizin*. (*zur Uni gehen* is also fine.)
 
-**2. Speaking Task B: "Was würdest du machen, wenn du viel Geld hättest?"** Model: *Wenn ich viel Geld hätte, würde ich zuerst ein großes Haus am Meer kaufen. Ich würde auch viel reisen, weil ich andere Kulturen kennenlernen möchte. Außerdem würde ich armen Menschen helfen, denn das finde ich wichtig.* → conditional with *wenn*, *würde* + infinitive, *weil*/*denn*, opinion: scores for range, accuracy and communication.
+**2. Speaking topic conversation: "Was würdest du machen, wenn du viel Geld hättest?"** Model: *Wenn ich viel Geld hätte, würde ich zuerst ein großes Haus am Meer kaufen. Ich würde auch viel reisen, weil ich andere Kulturen kennenlernen möchte. Außerdem würde ich armen Menschen helfen, denn das finde ich wichtig.* → conditional with *wenn*, *würde* + infinitive, *weil*/*denn*, opinion: earns marks for communication (a developed opinion) and for the range and accuracy of structures.
 
 **3. Reading/Listening trap.** *Im Park darf man nicht Fußball spielen.* → Playing football is **not allowed** (not "you don't have to"). *Du musst nicht kommen* = you **don't have to** come.
 

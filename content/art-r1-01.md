@@ -1,142 +1,163 @@
 # How Art and Design is assessed (AO1–AO4)
 
-> **In the exam:** Pearson Edexcel International GCSE Art and Design (9–1) has no written paper. It has two components, each worth **72 marks and 50%**: **Component 1 Personal Portfolio** (work you make during the course) and **Component 2 Externally Set Assignment** (a preparatory study period, then a **10-hour** supervised exam). Both are marked by Pearson examiners using one grid. Each of the four assessment objectives (AO1–AO4) is marked out of **18**, so every objective is worth the same: 18 × 4 = 72 per component.
+> **In the exam:** Cambridge IGCSE Art & Design (0400) has no written paper. You are assessed on two digital portfolios, each marked out of 100 by Cambridge examiners and each worth 50%. **Component 1: Coursework** is a project on a theme (set by your teacher, or chosen by you with your teacher) made of coursework studies and a final outcome. **Component 2: Externally Set Assignment** starts from a question paper released by Cambridge: you make supporting studies in a preparation period, then a final outcome in a supervised test of 8 hours in total. In both, the same four assessment objectives are marked at 25 marks each.
 
 ## What you need to know
 
-- The two components, their marks and weightings, and what you hand in for each.
-- The four assessment objectives and the exact skills they reward:
-  - **AO1** Develop ideas through investigations, demonstrating critical understanding of sources.
-  - **AO2** Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes.
-  - **AO3** Record ideas, observations and insights relevant to intentions as work progresses.
-  - **AO4** Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language.
-- How the six mark bands work, from Limited to Exceptional.
-- How the externally set assignment works: the preparatory period, the 10-hour exam, and the three A2 sheets.
-- That written annotation is **not required**, but can help if it supports your visual work.
+- The two components, their weighting (50% each), marks (100 each) and what each contains.
+- The four assessment objectives and their exact wording: AO1 Record, AO2 Explore, AO3 Develop, AO4 Present, each 25% of the qualification and of each component.
+- The five mark bands per objective (1–5, 6–10, 11–15, 16–20, 21–25) and what moves work up a band.
+- The areas of study: painting and related media, graphic communication, three-dimensional design, textiles and fashion, photography. You do not have to work in all of them.
+- Work must be your own, presented as a digital portfolio, and the two components must not contain the same work.
+- Annotation is optional, but if you use it, it must be relevant, purposeful and in English.
 
 ## Notes
 
-### The structure of the qualification
+### The two components
 
-| | Component 1: Personal Portfolio | Component 2: Externally Set Assignment |
+| | Component 1: Coursework | Component 2: Externally Set Assignment |
 |---|---|---|
-| Marks / weighting | 72 marks, 50% | 72 marks, 50% |
-| What it is | One project chosen from your course work. Your best work journey, built around a sustained line of enquiry | A theme set by Pearson each year (released in January). You respond in a preparatory period, then a timed exam |
-| Time | No fixed hours; made over the course | Preparatory period: no prescribed limit. Exam: **10 hours** under supervision |
-| Handed in | Supporting studies (three A2 sheets) plus final outcome(s) (one A2 sheet), or a presentation of up to 20 slides | Preparatory studies (three A2 sheets) plus the final piece from the 10 hours |
-| Marked by | Pearson examiners (not your teacher) | Pearson examiners |
+| Weighting and marks | 50%, 100 marks | 50%, 100 marks |
+| Who sets it | Your teacher (or you, agreed with your teacher): a theme | Cambridge: a question paper with starting points |
+| What you submit | Coursework studies + a final outcome | Supporting studies (preparation period) + a final outcome (supervised test) |
+| Time | Over the course, no fixed hours | Preparation period, then **8 hours** supervised test in total |
+| Marked | Online by Cambridge examiners | Online by Cambridge examiners |
 
-You take one **endorsed title**: Fine Art, Graphic Communication, Photography, Textile Design or Three-dimensional Design. The assessment objectives and grid are the same for all of them. Your school chooses the title; ask your teacher which one you are entered for.
+Key rules:
+- Both are submitted as a **digital portfolio**, even if you make real paintings, prints or 3D work: you photograph or scan the work.
+- You pick **one** starting point from the question paper in Component 2.
+- You may use the same area of study in both components, but you must **not submit the same work** twice, and you should avoid a Component 2 question that is the same or very similar to your coursework theme.
+- Your Component 2 supporting studies must be available to you during the supervised test, because you use them to make the final outcome.
+- You can work in any size and any media (traditional, digital, or a mix) as long as all four AOs are met.
 
-Examiners look at the **whole body of work together** and award each AO a mark. The objectives overlap, so one page can earn marks in several AOs at once.
+### The four assessment objectives (exact wording)
 
-### The four AOs in plain English
+| AO | Wording | Marks |
+|---|---|---|
+| **AO1 Record** | Record ideas, observations and insights relevant to intentions as work progresses. | 25 |
+| **AO2 Explore** | Explore and select appropriate resources, media, materials, techniques and processes. | 25 |
+| **AO3 Develop** | Develop ideas through investigation, demonstrating critical understanding. | 25 |
+| **AO4 Present** | Present a personal and coherent response that realises intentions and demonstrates an understanding of visual language. | 25 |
 
-| AO | Examiners want to see | Where it shows | Sketchbook proof |
-|---|---|---|---|
-| **AO1** Develop ideas through investigations, demonstrating critical understanding of sources | You look at real artists, designers, cultures or objects, understand why they work, and use that to push your own ideas | Artist research, studies in an artist's style, links back to your theme | A study "in the style of" an artist, with a clear idea taken from them and applied to your subject |
-| **AO2** Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes | You try different materials and methods, review what worked, and choose the best for your intention | Experiments, tests, changes after review | A page of three media tests, with your choice and the reason |
-| **AO3** Record ideas, observations and insights relevant to intentions as work progresses | You record from direct observation, experience and ideas, with skill, all the way through | Drawings from real objects, your own photos, notes | Observational drawings and photographs made yourself, not copied from the internet |
-| **AO4** Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language | Your final piece is personal, finished, and shows control of the **formal elements** (line, tone, colour, texture, shape, form) | The final outcome(s) | A final piece that clearly links to your earlier studies |
+All four are weighted equally: 25% of the qualification and 25% of each component. A great final piece alone can earn at most about a quarter of the marks. The other three quarters come from the way your studies show recording, exploring and developing.
 
-Because AO1–AO3 are marked on your *development*, and AO4 on the *final piece*, the preparatory studies and final piece are both essential. In the externally set assignment, the preparatory studies are an essential part of the exam and **marks will be lost if they are not submitted**.
+### What each AO means in practice
 
-### The mark bands
+| AO | What the examiner looks for | How to show it |
+|---|---|---|
+| AO1 Record | Skilled recording of observations from a **variety of relevant sources**, and a clear sense of **intentions** (what you are trying to say or do) | First-hand drawings, your own photographs, notes, gallery sketches, plus some secondary sources (books, internet). Not just copying images from the web |
+| AO2 Explore | Exploring and **selecting** appropriate resources, media, materials, techniques and processes | Experiments (pencil vs. charcoal, collage vs. paint, lino vs. monoprint), then a clear choice of what works and why |
+| AO3 Develop | Ideas that **grow** through investigation, with **critical understanding** | Research into artists, designers, movements and cultures; studies in their style; reviewing and refining your own ideas; linking all of it to your theme |
+| AO4 Present | A **personal, coherent** final outcome that realises your intentions and shows understanding of **visual language** | A resolved piece using formal elements (line, tone, colour, texture, shape, form, composition) on purpose, that clearly comes from your studies |
 
-Each AO is marked out of 18. Marks sit in six bands of three marks (Just / Mostly / Fully).
+### The mark bands (same descriptors for both components)
 
-| Band | Marks per AO | Descriptor | What it feels like |
-|---|---|---|---|
-| 1 | 1–3 | Limited ability | Very little evidence, no clear structure |
-| 2 | 4–6 | Basic ability | Simple and deliberate; ideas are repeated |
-| 3 | 7–9 | Emerging competent | Adequate but safe |
-| 4 | 10–12 | Competent and consistent | Secure, work holds together |
-| 5 | 13–15 | Confident and assured | Effective and focused throughout |
-| 6 | 16–18 | Exceptional ability | In depth, perceptive, accomplished throughout |
+Each AO has the same five bands. The words change by one step each time, so the difference between bands is the quality of the verb.
 
-Key phrases to notice: "safe" (Band 3) means you stayed in your comfort zone; "repeat ideas" (Band 2) means one idea, done several times; "ideas consolidated too early" (low AO2) means you picked the first idea and stopped exploring. To climb, show **variety, review and risk**, and make each page lead to the next.
+| Marks | Band descriptor (AO1 example) |
+|---|---|
+| 21–25 | **Excellent** skill in recording observations from a variety of relevant sources, showing intentions effectively |
+| 16–20 | **Confident** skill, consistently showing intentions |
+| 11–15 | **Competent** skill, showing clear intentions |
+| 6–10 | **Satisfactory** skill from several relevant sources, showing some intentions |
+| 1–5 | **Limited** skill from one or more sources, showing basic intentions |
+| 0 | No creditable response |
 
-### What "good" looks like for each AO
+For AO2 the key words are "selection of relevant resources" (effective, consistent, clear, some, basic). For AO3 they are "critical understanding" (effective, consistent, clear, some). For AO4 they are "realisation of intentions" and "understanding of visual language".
 
-- **AO1:** Do not just copy an artist. Say what they do (composition, colour, technique, meaning) and show how you used it. "Critical understanding of sources" means you can explain why a source matters to *your* idea. Use more than one source and link them.
-- **AO2:** Show a **process**: try → look → change → try again. Record what you rejected and why. Use at least three different media or techniques before choosing the final one.
-- **AO3:** Draw from life and from your own photos. Show skill in the first pages and keep recording as the work goes on, not only at the start. Record things that matter for your *intention*, such as the light you plan to use or the composition you want.
-- **AO4:** Plan the final piece, make it, and finish it. Show how your studies led to it. Use the formal elements deliberately. A personal style is rewarded: "imaginative", "independent and exciting" at the top bands.
+What moves you up a band:
+- **Variety** of sources (not one photo, drawn five times).
+- **Intentions** that you can see: a clear idea that runs through the portfolio.
+- **Selection**: showing that you chose a medium or idea and rejecting others, not just trying everything.
+- **Critical understanding**: explaining why an artist's technique or meaning matters to your own work, not describing their life.
+- **Coherence**: a final outcome that obviously grows out of the studies.
 
-### Annotation
+### Choosing an area of study
 
-The specification does not require writing. If you add it, it must support the visual work and use the correct language for your discipline. Short, precise notes beat long diary entries. Example: "Cross-hatching builds the dark tone under the chin; I tried charcoal next to see if it gave softer edges."
+| Area | Typical work |
+|---|---|
+| Painting and related media | Painting, drawing, assemblage/collage, printmaking, mixed media |
+| Graphic communication | Illustration, packaging, typography, posters, digital design |
+| Three-dimensional design | Sculpture, ceramics, product or architectural models |
+| Textiles and fashion | Fabric, stitch, printing and dyeing, garment design |
+| Photography | Camera work, darkroom or digital editing, installation |
 
-### The externally set assignment
+You are not expected to work in all areas. Depth in one area with a good range of media usually beats a thin spread across five.
 
-1. **Paper released** by Pearson in January each year, with a theme and suggested starting points. (The sample paper theme was "Balance".)
-2. **Preparatory period:** you explore the theme in a personal and creative way. Your school sets the length. Work is done under informal supervision.
-3. **10-hour exam:** under formal supervision, in the studio. It can be split across several sessions (a maximum of four within three consecutive weeks). Your teacher may help with technical problems only (space, materials, equipment), not with direction or demonstration. You take your preparatory studies into the room to help you.
-4. **Hand in:** preparatory studies are selected and mounted on **three sheets of A2 paper**, one side only, with no overlapping. Large or 3D final work is photographed.
+### Planning your portfolio so every AO is covered
 
-For this unit, check your own school's calendar: your mock may be a shortened version of this process.
+A strong set of studies has a **journey**: record → explore → develop → present.
+1. Start with first-hand recording (AO1): drawings and photographs of your subject.
+2. Try media and processes on that subject (AO2) and note which works.
+3. Research artists and build their ideas into your own (AO3).
+4. Make 2–3 design ideas, choose one and refine it.
+5. Produce the final outcome (AO4) and photograph it well for the digital portfolio.
+
+**Annotation:** optional, but short, specific notes help examiners see your intentions and critical understanding. Good: "I used cross-hatching in biro to copy Dürer's dense line, but it made my shell look flat, so next I tried charcoal for softer tone." Weak: "I like this drawing. It is nice."
 
 ## Key terms and definitions
 
-- **Assessment objective (AO):** a skill the examiners mark. There are four, each out of 18 marks.
-- **Component:** one of the two parts of the qualification (Personal Portfolio; Externally Set Assignment).
-- **Personal Portfolio:** Component 1; one project from the course, shown as a full work journey. 72 marks, 50%.
-- **Externally Set Assignment:** Component 2; a Pearson theme, preparatory studies, then a 10-hour exam. 72 marks, 50%.
-- **Preparatory studies:** the development work made before the final piece, handed in on three A2 sheets.
-- **Formal elements:** line, tone, colour, texture, shape and form; the visual language of art.
-- **Line of enquiry:** a focused question or idea you follow through your project.
-- **Intention:** what you are trying to say or show in your work.
-- **Work journey:** the visible path from first ideas to final piece.
+- **Assessment objective (AO):** a skill the examiner marks. There are four, each worth 25 marks per component.
+- **Coursework studies:** the work in Component 1 that shows research, exploration, development and evaluation leading to the final outcome.
+- **Supporting studies:** the preparation work in Component 2, made before the supervised test, in response to the starting point.
+- **Final outcome:** the resolved piece of work that completes a component; in Component 2 it is made in the 8-hour supervised test.
+- **Intentions:** what you aim to say or achieve in your work.
+- **Visual language:** the way you use formal elements and composition to communicate.
+- **Digital portfolio:** the online submission of your photographed or scanned work.
+- **Starting point:** a prompt on the Cambridge question paper that you respond to in Component 2.
 
 ## Worked examples
 
-**1. Which AO is this evidence for, and why?** "A page shows three small paintings of the same fruit bowl, in watercolour, acrylic and gouache. Next to them: 'Gouache gave flat, bold colour, so I will use it for the final piece.'"
-*Model answer:* This is **AO2** (it explores several media, then selects one for the intention). It also gives a little AO3 evidence because the studies are recorded from observation. The reason for the choice is what moves it from a simple test to a reasoned decision, which is what higher bands reward.
+**1. "Explain why a student who produces a beautiful final piece may still not get a top mark in Component 1." [4]**
 
-**2. A student's sketchbook has 12 pages of beautiful pencil drawings of shells and a final painting of shells. Which AOs are weak and what would you add?**
-*Model answer:* AO3 is strong. AO1 is weak: there is no artist research or sources. AO2 is weak: only one medium and no sign of experiments or review. AO4 may be held back because the final piece may not use the studies. Add: two artist studies linked to shells (for example, Barbara Hepworth's forms), three media tests, and one planning page that links drawings to the final piece.
+The final piece mainly shows AO4, which is only 25 of the 100 marks (1). The other three objectives are judged in the coursework studies: recording from varied sources (AO1), exploring and selecting media (AO2) and developing ideas through investigation with critical understanding (AO3) (1). If the studies are thin or the piece does not obviously grow out of them, those three AOs will sit in a lower band (1). So a top mark needs strong evidence for all four equally (1).
 
-**3. Explain why a student with a polished final piece but few preparatory sheets could still score low overall.**
-*Model answer:* Only AO4 is mainly about the final piece. AO1, AO2 and AO3 are judged on development and recording. With little preparatory work those three objectives (54 of 72 marks) have little evidence. In the externally set assignment the preparatory studies are essential, and marks are lost if they are not submitted.
+**2. Which band descriptor fits? A student's sketchbook has twelve drawings, all from one photograph found online, with no personal intention stated.**
+
+AO1 asks for recording from a **variety** of relevant sources and for showing intentions. One secondary source and no intentions fits "limited" (1–5) or at best "satisfactory" (6–10) on skill. To rise: draw from real objects, take her own photographs, visit somewhere, and write what she is trying to express.
+
+**3. Plan a Component 2 preparation period in four steps.**
+
+Choose one starting point and write it at the top of the first page (1). Record first-hand (drawings, own photos) and add secondary sources (1). Experiment with 3–4 media or processes and select one, saying why (1). Research two artists linked to the starting point, make studies in their style, then plan the final piece in a timed 8-hour plan (1).
 
 ## Common mistakes
 
-- Thinking the final piece is all that counts. Three of four AOs are about the process.
-- Copying an artist without explaining what you learned or using it in your own idea (AO1 needs critical understanding).
-- Choosing the first idea and finishing early, with no experiments (low AO2).
-- Using only internet images instead of your own observation and photos (AO3).
-- Writing long diary-style annotation instead of showing visual work.
-- Leaving the preparatory sheets unfinished, or mounting them overlapping or on both sides.
-- Using the exam's 10 hours to start planning rather than to make.
+- Thinking the final piece is "the exam". It is one quarter of the marks (AO4); the studies matter more than most students realise.
+- Using only images copied from the internet, which limits AO1.
+- Trying many media but never selecting one: AO2 needs **selection**, not just a list.
+- Writing about an artist's life instead of what you learned from their work and how you used it (AO3).
+- Submitting the same work for both components, or choosing a Component 2 question too close to your coursework theme.
+- Annotation that says "I like it" instead of stating an intention, a technique and a result.
+- Forgetting the portfolio is digital: blurry, dark or badly cropped photographs cost marks.
 
 ## Practice questions
 
-1. How many marks is each component worth, and what is its weighting? [2]
-2. Write the AO that is about recording from observation, experience and ideas. [1]
-3. Which AO rewards experimenting with media, materials, techniques and processes? [1]
-4. State two things the 10-hour exam must NOT include as teacher help. [2]
-5. Explain why "ideas consolidated too early" would lower your AO2 mark. [2]
-6. Name two things examiners look for in an AO1 page about an artist. [2]
-7. How is the preparatory work submitted for the externally set assignment? [2]
-8. A student has excellent drawings (AO3) but only one idea and one medium. Give two actions to raise the mark. [2]
+1. State the percentage weighting of Component 1 and of Component 2. [2]
+2. How many hours does the supervised test for Component 2 last in total? [1]
+3. Write out the AO2 objective in full. [2]
+4. What is the difference between "coursework studies" and "supporting studies"? [2]
+5. Give two ways you could show AO1 "variety of relevant sources" in a project about the sea. [2]
+6. Explain what "selection" means in AO2 and give an example. [3]
+7. Why is annotation useful even though it is optional? [2]
+8. A student's final piece is excellent but their studies contain only one medium and no artist research. Which AOs will be weakest and why? [3]
 
 <details><summary>Answers</summary>
 
-1. Each is worth **72 marks**, which is **50%** of the qualification.
-2. **AO3**: record ideas, observations and insights relevant to intentions as work progresses.
-3. **AO2**.
-4. Any two: teacher direction; demonstration; preparation of workspaces or materials; clearing or storage of work. (The teacher may help with technical problems only.)
-5. You stop exploring and refining too soon, so the work shows little experimentation or review, and the idea is not fully realised.
-6. Any two: critical understanding of why the artist's work matters; links to your own idea; studies that use the artist's ideas or techniques; analysis, not just description.
-7. Selected and mounted, with no overlapping, on **three sheets of A2** paper, using one side only (or the same content submitted as scans or a slide presentation if your centre does it that way).
-8. Any two: try several different media or techniques and choose one with a reason; develop more than one idea and review them; add artist research (AO1) that feeds into the work.
+1. Each is 50% (1 + 1).
+2. 8 hours.
+3. "Explore and select appropriate resources, media, materials, techniques and processes." (2)
+4. Coursework studies are made over the course for Component 1; supporting studies are made in the preparation period for Component 2 before the supervised test (1 + 1).
+5. Any two: drawings from shells or driftwood, own photographs at the beach, a visit to an aquarium or gallery sketched, notes on the sea's colours, secondary images from books (1 + 1).
+6. Selection means choosing the most suitable media or process after trying alternatives and explaining the choice (2). Example: "I tried watercolour and acrylic for waves; acrylic held the thick texture I wanted, so I chose it" (1).
+7. It shows your intentions and critical understanding, which the examiner cannot see just from images (1); it explains choices and reviews, so it helps AO1–AO3 (1).
+8. AO2 (only one medium, so no real exploration or selection) and AO3 (no artist research, so no critical understanding) (2 + 1). AO4 may be fine.
 
 </details>
 
 ## Plan for this hour
 
-- **10 min:** Read the AO table above. Write each AO in your own words on one sheet.
-- **15 min:** Take your own sketchbook (or a page from it). Label each page with the AO it best shows.
-- **15 min:** Find the weakest AO. Plan three pages that would fix it.
-- **15 min:** Do one of them now: for example, an AO2 page with three media tests of one object.
-- **5 min:** Quiz yourself on the AO wording until you can write all four from memory.
+- 10 min: read the assessment overview table and the four AO wordings; copy the AO wording onto a page for the front of your sketchbook.
+- 15 min: read the mark bands; underline the verbs that change (excellent, confident, competent, satisfactory, limited).
+- 20 min: sketchbook task: open your current project, label each page AO1, AO2, AO3 or AO4 in pencil, and list what is missing.
+- 10 min: write a short plan of three pages to add this week, one for each weakest AO.
+- 5 min: do the quiz.

@@ -2,158 +2,156 @@
  "id": "geo-r1-12",
  "cards": [
   {
-   "f": "Four-figure grid reference",
-   "b": "Give eastings (along the bottom) first, then northings (up the side): along the corridor, then up the stairs."
+   "f": "Grid reference rule",
+   "b": "Eastings (along) first, then northings (up); use the bottom left of the square."
   },
   {
-   "f": "Map scale 1:50,000",
-   "b": "1 cm on the map is 50,000 cm (500 m) on the ground."
+   "f": "Six-figure reference",
+   "b": "Add a third and sixth figure for tenths of a square along and up, e.g. 367822."
+  },
+  {
+   "f": "1:25 000 scale",
+   "b": "1 cm on the map = 250 m; 4 cm = 1 km."
+  },
+  {
+   "f": "1:50 000 scale",
+   "b": "1 cm = 500 m; 2 cm = 1 km."
+  },
+  {
+   "f": "Bearing",
+   "b": "A three-figure angle measured clockwise from north, e.g. 045°."
+  },
+  {
+   "f": "Close contours",
+   "b": "Steep slope; widely spaced contours show gentle slope."
+  },
+  {
+   "f": "Contour interval",
+   "b": "The height difference between two neighbouring contour lines."
   },
   {
    "f": "Gradient",
-   "b": "Vertical change divided by horizontal distance, e.g. 50 m in 1,000 m = 1 in 20."
-  },
-  {
-   "f": "Range",
-   "b": "Highest value minus lowest value."
-  },
-  {
-   "f": "Percentage change",
-   "b": "(change ÷ original value) × 100."
-  },
-  {
-   "f": "Median",
-   "b": "The middle value of an ordered list; if two middle values, find their mean."
-  },
-  {
-   "f": "Interquartile range",
-   "b": "Upper quartile minus lower quartile: the spread of the middle half of the data."
-  },
-  {
-   "f": "Richter scale",
-   "b": "Logarithmic: each whole number is a tenfold increase in wave amplitude (about 32 times more energy)."
-  },
-  {
-   "f": "Three types of sampling",
-   "b": "Random (by chance), systematic (regular intervals), stratified (in proportion to groups)."
-  },
-  {
-   "f": "Reliability v accuracy",
-   "b": "Reliability: results repeatable. Accuracy: how close a measurement is to the true value."
-  },
-  {
-   "f": "Anomaly",
-   "b": "A data point that does not fit the pattern."
+   "b": "Vertical height difference divided by horizontal distance, e.g. 1 in 20."
   },
   {
    "f": "How to describe a graph",
-   "b": "State the overall trend, quote two data values with units, and mention any anomaly."
+   "b": "State the trend, quote figures with units, note anomalies."
   },
   {
-   "f": "Triangular graph",
-   "b": "Each corner is 100% of one category; read along gridlines and check three values total 100."
+   "f": "Scatter graph correlation",
+   "b": "Positive, negative or none; draw a line of best fit."
   },
   {
-   "f": "Choropleth map",
-   "b": "A map with areas shaded by value; darker usually means higher."
+   "f": "Mean, median, mode, range",
+   "b": "Average value, middle value, most common value, highest minus lowest."
   },
   {
-   "f": "Evaluate fieldwork sampling (8 marks)",
-   "b": "Say what you did, give strengths and weaknesses, explain the effect on results, suggest improvements, and give a judgement."
+   "f": "Percentage change",
+   "b": "(New − old) ÷ old × 100."
+  },
+  {
+   "f": "Primary vs secondary data",
+   "b": "Primary is collected by you; secondary is collected by others."
+  },
+  {
+   "f": "Three sampling methods",
+   "b": "Random, systematic (every nth) and stratified."
+  },
+  {
+   "f": "Why repeat measurements?",
+   "b": "It reduces errors and anomalies, making results more reliable."
   }
  ],
  "gaps": [
   {
-   "s": "On a grid reference, ___ come first.",
+   "s": "In a grid reference, ___ come before northings.",
    "a": [
-    "eastings"
+    "eastings",
+    "easting"
    ]
   },
   {
-   "s": "Percentage change = change divided by the ___ value, times 100.",
+   "s": "A line on a map joining points of equal height is a ___ line.",
    "a": [
-    "original",
-    "starting",
-    "old"
+    "contour"
    ]
   },
   {
-   "s": "Highest value minus lowest value gives the ___.",
+   "s": "A bearing is measured clockwise from ___.",
    "a": [
-    "range"
+    "north"
    ]
   },
   {
-   "s": "Data that does not fit the pattern is an ___.",
+   "s": "A testable statement for an enquiry is a ___.",
    "a": [
-    "anomaly"
+    "hypothesis"
    ]
   },
   {
-   "s": "Choosing every 10th site is ___ sampling.",
+   "s": "Data you collect yourself is ___ data.",
+   "a": [
+    "primary"
+   ]
+  },
+  {
+   "s": "Choosing every fifth person is ___ sampling.",
    "a": [
     "systematic"
    ]
   },
   {
-   "s": "Sampling in proportion to the size of each group is ___ sampling.",
+   "s": "The middle value in an ordered set is the ___.",
    "a": [
-    "stratified"
+    "median"
    ]
   },
   {
-   "s": "The ___ scale is logarithmic and measures earthquakes.",
+   "s": "A result that does not fit the pattern is an ___.",
    "a": [
-    "Richter"
-   ]
-  },
-  {
-   "s": "A line joining places of equal height on a map is a ___.",
-   "a": [
-    "contour"
+    "anomaly"
    ]
   }
  ],
  "short": [
   {
-   "q": "Calculate the percentage increase in beach gradient from 4° to 6°.",
-   "model": "(6 − 4) ÷ 4 × 100 = 50% increase.",
+   "q": "Describe two features of relief shown by contour lines on a map.",
+   "model": "Contours close together show a steep slope. Widely spaced contours show gentle slopes, and V-shaped contours show valleys.",
    "points": [
-    "correct method: change ÷ original",
-    "answer 50%"
+    "steep or gentle slope explained",
+    "valley/hilltop or heights with figures"
    ]
   },
   {
-   "q": "Describe how you would use one piece of equipment in your enquiry.",
-   "model": "We used a tape measure placed across the river from bank to bank, and recorded the width to the nearest centimetre at each site.",
+   "q": "Explain how to read a six-figure grid reference.",
+   "model": "Read the easting first, using the third digit for tenths along the square, then the northing with the sixth digit for tenths up.",
    "points": [
-    "equipment named",
-    "how it was used"
+    "eastings first",
+    "tenths for third and sixth digits"
    ]
   },
   {
-   "q": "Explain one advantage and one disadvantage of annotated field sketches.",
-   "model": "Advantage: they focus on key features and need no equipment. Disadvantage: they are subjective and do not provide numerical data.",
+   "q": "State two ways to present fieldwork data and when each is useful.",
+   "model": "A line graph shows change with distance, e.g. river width downstream. A scatter graph shows the relationship between two variables.",
    "points": [
-    "advantage",
-    "disadvantage"
+    "method 1 with use",
+    "method 2 with use"
    ]
   },
   {
-   "q": "Explain one way to make sure fieldwork results are accurate.",
-   "model": "Repeat each measurement three times and take a mean, so that errors and anomalies have less effect.",
+   "q": "Explain why a stratified sample may be better than a random one in a questionnaire.",
+   "model": "It ensures each age group is represented in proportion, so the sample is less biased and more representative.",
    "points": [
-    "method",
-    "reason it improves accuracy"
+    "each group represented",
+    "less bias / more representative"
    ]
   },
   {
-   "q": "Evaluate how effective your sampling was in helping you answer your enquiry title.",
-   "model": "Systematic sampling every 20 m gave even coverage along the beach, but with only 6 sites some changes could be missed, so more sites would improve reliability.",
+   "q": "Suggest two ways to improve the reliability of beach pebble measurements.",
+   "model": "Measure a larger sample of pebbles at each site. Use the same person and method each time and repeat at more sites.",
    "points": [
-    "states sampling used",
-    "strength",
-    "weakness and improvement"
+    "larger sample / more sites",
+    "consistent method / repeat"
    ]
   }
  ]

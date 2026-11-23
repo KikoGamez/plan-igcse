@@ -2,165 +2,158 @@
  "id": "art-r1-12",
  "cards": [
   {
-   "f": "Externally-set Assignment",
-   "b": "Component 2: Pearson sets a broad theme; 72 marks, 50% of the qualification."
+   "f": "Component 2",
+   "b": "Externally Set Assignment: 100 marks, 50%, one starting point from a Cambridge paper."
   },
   {
-   "f": "Release date",
-   "b": "2 January each year."
+   "f": "Supporting studies",
+   "b": "Work made in the preparation period: recording, research, experiments, development."
   },
   {
-   "f": "Sustained focus period",
-   "b": "10 hours under exam conditions, unaided."
-  },
-  {
-   "f": "Sessions allowed",
-   "b": "Up to four sessions within three consecutive weeks."
-  },
-  {
-   "f": "What to submit",
-   "b": "Three A2 sheets of supporting studies plus one A2 sheet of final outcome(s)."
-  },
-  {
-   "f": "3D or oversize work",
-   "b": "Photograph it (about four angles, colour) and mount the photos on one side of an A2 sheet."
-  },
-  {
-   "f": "Preparatory studies rule",
-   "b": "They must stop when the 10 hours begin; you cannot add to or alter them."
+   "f": "Final outcome (ESA)",
+   "b": "The resolved final piece made in the supervised test of 8 hours' total duration."
   },
   {
    "f": "AO4 wording",
-   "b": "Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language."
+   "b": "Present a personal and coherent response that realises intentions and demonstrates an understanding of visual language."
   },
   {
-   "f": "Marks per AO",
-   "b": "18 per AO, 72 marks per component."
+   "f": "Are the supporting studies available in the test?",
+   "b": "Yes, they must be available so they can inform the final outcome."
   },
   {
-   "f": "Same endorsed title",
-   "b": "Component 2 must continue in the same title as Component 1."
+   "f": "Can ESA repeat Component 1?",
+   "b": "No. The work must not be the same, and you should avoid a similar theme."
   },
   {
-   "f": "Planning rule: focal point",
-   "b": "Do the hardest or most important area first, while fresh."
+   "f": "How many starting points do you answer?",
+   "b": "One, chosen from the question paper."
   },
   {
-   "f": "Planning rule: review time",
-   "b": "Keep about 30 minutes at the end to step back, check and adjust."
+   "f": "Weighting of each AO",
+   "b": "25 marks each, so 25% of each component."
   },
   {
-   "f": "General to detail",
-   "b": "Block in large areas first; add fine detail last."
+   "f": "Portfolio format",
+   "b": "Digital portfolio: photographed or scanned and uploaded to Cambridge."
   },
   {
-   "f": "Endorsed titles",
-   "b": "Fine Art, Graphic Communication, Photography, Textile Design, Three-dimensional Design."
+   "f": "Choosing a starting point",
+   "b": "Circle key words, check first-hand sources, materials and artists, then commit."
   },
   {
-   "f": "Personal style in AO4",
-   "b": "Moves from 'methodical' to 'imaginative' to 'independence and exciting' as marks rise."
+   "f": "Parts of a final plan",
+   "b": "Intention, design drawing, materials, time plan, back-up plan."
+  },
+  {
+   "f": "Test strategy",
+   "b": "Start with big areas, refine later, step back regularly, simplify if behind."
+  },
+  {
+   "f": "What 'coherent' means",
+   "b": "Idea, materials, composition and colour work together and link to intentions."
+  },
+  {
+   "f": "Visual language",
+   "b": "The formal elements and principles used deliberately to communicate."
+  },
+  {
+   "f": "Preparation period",
+   "b": "Time between receiving the paper and the test, used for supporting studies."
   }
  ],
  "gaps": [
   {
-   "s": "The assignment is released on 2 ___.",
+   "s": "Component 2 is the Externally Set ___.",
    "a": [
-    "january"
+    "Assignment"
    ]
   },
   {
-   "s": "The sustained focus period lasts ___ hours.",
+   "s": "The supervised test lasts ___ hours in total.",
    "a": [
-    "10",
-    "ten"
+    "8",
+    "eight"
    ]
   },
   {
-   "s": "It can be split into a maximum of ___ sessions.",
+   "s": "AO4 is called ___.",
    "a": [
-    "4",
-    "four"
+    "Present"
    ]
   },
   {
-   "s": "Final work larger than A2 must be ___.",
+   "s": "The work made before the test is called supporting ___.",
    "a": [
-    "photographed",
-    "photographed."
+    "studies"
    ]
   },
   {
-   "s": "Each component is worth ___ marks.",
+   "s": "You respond to ___ starting point.",
    "a": [
-    "72",
-    "seventy-two",
-    "seventy two"
+    "one",
+    "1"
    ]
   },
   {
-   "s": "Preparatory studies must ___ when the 10 hours begin.",
+   "s": "Work for Component 2 must not be the same as ___ 1.",
    "a": [
-    "stop",
-    "end",
-    "conclude"
+    "Component"
    ]
   },
   {
-   "s": "You submit ___ sheets of supporting studies.",
+   "s": "All work is submitted as a ___ portfolio.",
    "a": [
-    "3",
-    "three"
+    "digital"
    ]
   },
   {
-   "s": "You work ___ during the sustained focus period.",
+   "s": "Each AO is worth ___ marks.",
    "a": [
-    "unaided",
-    "alone",
-    "independently"
+    "25"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why your final idea should be planned before the 10 hours start.",
-   "model": "Time in the exam is for making; a clear design avoids wasting time and helps you realise your intentions.",
+   "q": "Why avoid a Component 1 theme in the ESA?",
+   "model": "The syllabus says the work must not be the same and candidates should avoid a similar theme, so you show two separate pieces of work.",
    "points": [
-    "time is for making",
-    "helps realise intentions"
+    "must not be the same",
+    "show breadth"
    ]
   },
   {
-   "q": "State two rules about preparatory studies during the 10-hour period.",
-   "model": "You can only use your own studies and cannot add to or alter them.",
+   "q": "What should a final plan include?",
+   "model": "An intention, design drawing, materials list, time plan and back-up plan.",
    "points": [
-    "only access own studies",
-    "no adding/altering"
+    "design drawing",
+    "time plan",
+    "intention/materials"
    ]
   },
   {
-   "q": "Write a simple time plan for a 10-hour painting.",
-   "model": "1h composition, 2h underpainting, 3h main development, 2h refining, 1h finishing, 1h review.",
+   "q": "Describe two strategies for managing the 8 hours.",
+   "model": "Work from a time plan and block in large areas first; step back regularly and simplify if behind.",
    "points": [
-    "stages in logical order",
-    "time adds to 10 hours"
+    "plan/timing",
+    "start big / check"
    ]
   },
   {
-   "q": "What does AO4 mean by 'visual language'?",
-   "model": "How you use formal elements such as line, tone, colour and composition to communicate your ideas.",
+   "q": "What does AO4 reward?",
+   "model": "A personal, coherent final piece that does what you intended and uses visual language deliberately.",
    "points": [
-    "formal elements",
-    "communicate ideas"
+    "personal and coherent",
+    "realises intentions / visual language"
    ]
   },
   {
-   "q": "How should 3D work be submitted?",
-   "model": "As photographs from about four angles in colour mounted on one side of an A2 sheet.",
+   "q": "Why test materials before the supervised test?",
+   "model": "New materials can fail and waste hours; supporting studies should show you can control the techniques.",
    "points": [
-    "photographs from different angles",
-    "mounted on A2"
+    "risk of failure",
+    "evidence in studies"
    ]
   }
  ]

@@ -5,45 +5,45 @@
    "type": "mcq",
    "q": "Which pair are complementary colours?",
    "options": [
-    "Red and orange",
     "Blue and orange",
+    "Red and orange",
     "Yellow and green",
-    "Blue and purple"
+    "Blue and green"
    ],
-   "answer": 1,
-   "why": "Complementary colours sit opposite each other on the wheel: blue and orange."
+   "answer": 0,
+   "why": "Complementary colours are opposite each other on the colour wheel: blue and orange."
   },
   {
    "type": "mcq",
-   "q": "Which paint is transparent and uses the white of the paper for highlights?",
+   "q": "What is a tint?",
    "options": [
-    "Acrylic",
-    "Gouache",
+    "A colour mixed with black",
+    "A colour mixed with its complement",
+    "A thin watercolour layer",
+    "A colour mixed with white"
+   ],
+   "answer": 3,
+   "why": "Tint is colour plus white; shade is colour plus black."
+  },
+  {
+   "type": "mcq",
+   "q": "Which medium is opaque, water-based and gives flat matte areas of colour?",
+   "options": [
     "Watercolour",
+    "Charcoal",
+    "Gouache",
     "Oil pastel"
    ],
    "answer": 2,
-   "why": "Watercolour is transparent, so highlights are left as paper or lifted out."
-  },
-  {
-   "type": "mcq",
-   "q": "A tint is",
-   "options": [
-    "a hue with black added",
-    "a hue with white added",
-    "a colour's opposite",
-    "a very thick paint layer"
-   ],
-   "answer": 1,
-   "why": "Tint = hue + white; shade = hue + black."
+   "why": "Gouache is opaque water-based paint; watercolour is transparent."
   },
   {
    "type": "short",
-   "q": "Describe how to mix a dark without using black.",
-   "model": "Mix two complementary colours, such as blue and orange, to make a deep brown-grey and adjust the balance; it is richer than black.",
+   "q": "Describe the wet-on-wet technique in watercolour.",
+   "model": "Apply wet paint onto wet paper or wet paint so the colours spread and blend softly. It suits skies and misty effects.",
    "points": [
-    "mix complementaries",
-    "richer/more natural than black"
+    "wet paint on wet surface",
+    "soft blended edges"
    ]
   }
  ]

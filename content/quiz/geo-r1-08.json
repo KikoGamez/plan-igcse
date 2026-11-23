@@ -3,49 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which of these is a renewable source of energy?",
+   "q": "Which feature helps rainforest trees survive on thin soils?",
    "options": [
-    "uranium",
-    "natural gas",
-    "geothermal",
-    "shale gas"
+    "Spines",
+    "Buttress roots",
+    "Tap roots 30 m deep",
+    "Waxy stems that store water"
    ],
-   "answer": 2,
-   "why": "Geothermal uses heat from the Earth, which is continually replenished."
+   "answer": 1,
+   "why": "Buttress roots give support to tall trees with shallow roots."
   },
   {
    "type": "mcq",
-   "q": "Which describes an energy gap?",
+   "q": "Which is an adaptation of a cactus to drought?",
    "options": [
-    "energy demand is greater than a country can produce or afford",
-    "a gap between two power stations",
-    "too much energy production",
-    "a power cut lasting a day"
+    "Drip tips",
+    "Thin leaves",
+    "Wide, shallow roots",
+    "Buttress roots"
+   ],
+   "answer": 2,
+   "why": "Shallow, wide roots soak up light rain before it evaporates."
+  },
+  {
+   "type": "mcq",
+   "q": "Why does soil erosion increase after deforestation?",
+   "options": [
+    "Roots no longer bind the soil and rain hits bare ground",
+    "Trees add water to the soil",
+    "More leaf litter forms",
+    "Temperatures fall"
    ],
    "answer": 0,
-   "why": "An energy gap exists when demand exceeds supply."
-  },
-  {
-   "type": "mcq",
-   "q": "Which is a disadvantage of hydroelectric power (HEP)?",
-   "options": [
-    "it releases large amounts of CO₂ when generating",
-    "it can only be used at night",
-    "dams flood land and displace people",
-    "it needs uranium fuel"
-   ],
-   "answer": 2,
-   "why": "Reservoirs behind dams flood valleys, homes and habitats."
+   "why": "With no roots or canopy, heavy rain washes the topsoil away."
   },
   {
    "type": "short",
-   "q": "Explain one advantage and one disadvantage of using solar panels to generate electricity.",
-   "model": "Advantage: no CO₂ emitted when generating, so it does not add to climate change. Disadvantage: only works when it is sunny, so needs back-up or costly batteries.",
+   "q": "Explain one way the rainforest can be managed sustainably.",
+   "model": "Selective logging: only mature trees are cut and the rest left, so the forest can regrow and keep providing timber, habitats and carbon storage in future.",
    "points": [
-    "advantage (e.g. no emissions)",
-    "advantage developed (reason/effect)",
-    "disadvantage (e.g. depends on sunshine, cost)",
-    "disadvantage developed"
+    "a valid strategy (selective logging, replanting, reserves, ecotourism)",
+    "explanation of how it protects the forest for the future"
    ]
   }
  ]

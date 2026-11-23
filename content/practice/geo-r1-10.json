@@ -2,156 +2,158 @@
  "id": "geo-r1-10",
  "cards": [
   {
-   "f": "Urban challenges in a developed country",
-   "b": "Food, energy, transport and waste demands, concentrated resource consumption and segregation."
+   "f": "Subsistence farming",
+   "b": "Food grown mainly for the farmer's own family."
   },
   {
-   "f": "Urban challenges in a developing/emerging city",
-   "b": "Squatter settlements, informal economy, urban pollution and low quality of life."
+   "f": "Commercial farming",
+   "b": "Produce grown mainly to sell for profit."
   },
   {
-   "f": "Squatter settlement",
-   "b": "Housing built informally on land not owned, with makeshift materials and few services such as water and sanitation."
+   "f": "Intensive vs extensive",
+   "b": "Intensive: high inputs per hectare, small area. Extensive: low inputs per hectare, large area."
   },
   {
-   "f": "Greenfield site",
-   "b": "Land never built on before, usually on the edge of a city; cheap but loses countryside."
+   "f": "Farm inputs, processes, outputs",
+   "b": "Inputs: seeds, labour, fertiliser. Processes: ploughing, harvesting. Outputs: crops, meat, profit."
   },
   {
-   "f": "Brownfield site",
-   "b": "Land previously built on, now derelict; has existing services and protects countryside but may be contaminated."
+   "f": "Physical factors in farming",
+   "b": "Climate, relief, soil and water supply."
   },
   {
-   "f": "Rural-urban fringe",
-   "b": "Edge of the city where housing estates, retail and business parks, and industrial estates are developed."
+   "f": "Four causes of food shortage",
+   "b": "Drought, flood, conflict, poverty, pests, poor storage, soil erosion."
   },
   {
-   "f": "Segregation",
-   "b": "The separation of social, ethnic or income groups into different parts of a city."
+   "f": "Malnutrition",
+   "b": "Poor health caused by a lack of food or an unbalanced diet."
   },
   {
-   "f": "Sustainable city",
-   "b": "Meets present needs without damaging the environment or the ability of future generations to meet theirs."
+   "f": "Irrigation: pro and con",
+   "b": "Pro: water for crops in dry areas. Con: expensive and can cause salinisation or water shortage."
   },
   {
-   "f": "Six areas for improving urban quality of life",
-   "b": "Waste disposal, transport, education, health, employment and housing."
+   "f": "HYV seeds",
+   "b": "High-yielding varieties give more crop per hectare but need fertiliser and cost more."
   },
   {
-   "f": "Self-help scheme",
-   "b": "Residents build or improve their own homes with materials and help from authorities, so it is cheaper."
+   "f": "Primary, secondary, tertiary",
+   "b": "Extracting raw materials, manufacturing, services."
   },
   {
-   "f": "Curitiba transport example",
-   "b": "Bus rapid transit with dedicated lanes and tube stations: cheap, fast and reduces car use."
+   "f": "Factors in industrial location",
+   "b": "Raw materials, energy, labour, transport, markets, capital, government and land."
   },
   {
-   "f": "London congestion charge",
-   "b": "Introduced 2003; drivers pay to enter the central zone, reducing traffic and funding public transport."
+   "f": "Deindustrialisation",
+   "b": "Decline of manufacturing in a place, as in many HICs."
   },
   {
-   "f": "Role of planners",
-   "b": "Decide land use, zoning and protect green belt; balance competing needs."
+   "f": "Why have NICs grown in manufacturing?",
+   "b": "Cheap labour, government support, TNC investment and ports."
   },
   {
-   "f": "Role of property developers",
-   "b": "Build homes, offices and shops for profit; often prefer cheaper greenfield sites."
+   "f": "Leakage in tourism",
+   "b": "Profits flowing out to foreign-owned companies rather than staying local."
   },
   {
-   "f": "Environmental quality survey",
-   "b": "Scoring sites for factors such as litter, noise, traffic and greenery to compare environmental quality."
+   "f": "Sustainable tourism",
+   "b": "Tourism meeting today's needs without harming environment or culture for future generations."
   }
  ],
  "gaps": [
   {
-   "s": "Land that has never been built on is a ___ site.",
+   "s": "Farming for the farmer's own family is called ___ farming.",
    "a": [
-    "greenfield"
+    "subsistence"
    ]
   },
   {
-   "s": "Derelict land that has been built on before is a ___ site.",
+   "s": "Farming for sale is called ___ farming.",
    "a": [
-    "brownfield"
+    "commercial"
    ]
   },
   {
-   "s": "Housing built illegally without services is a ___ settlement.",
+   "s": "Car making belongs to the ___ sector.",
    "a": [
-    "squatter"
+    "secondary"
    ]
   },
   {
-   "s": "The separation of different social groups into different areas is called ___.",
+   "s": "A decline in manufacturing in a place is called ___.",
    "a": [
-    "segregation"
+    "deindustrialisation",
+    "deindustrialization"
    ]
   },
   {
-   "s": "Curitiba is known for its bus ___ transit system.",
+   "s": "Extreme food shortage with many deaths is a ___.",
    "a": [
-    "rapid"
+    "famine"
    ]
   },
   {
-   "s": "The London ___ charge was introduced in 2003.",
+   "s": "Tourism where profits go abroad shows ___.",
    "a": [
-    "congestion"
+    "leakage"
    ]
   },
   {
-   "s": "The edge of a city where it meets the countryside is the rural-urban ___.",
+   "s": "Tourism that protects the environment is ___ tourism.",
    "a": [
-    "fringe"
+    "sustainable",
+    "eco",
+    "ecotourism"
    ]
   },
   {
-   "s": "A city that meets needs now without harming the future is ___.",
+   "s": "Farming with high inputs on a small area is ___ farming.",
    "a": [
-    "sustainable"
+    "intensive"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why brownfield development is preferred to greenfield development.",
-   "model": "It reuses land with roads and services and protects countryside from urban sprawl, while regenerating run-down areas.",
+   "q": "Explain two human factors that affect farming.",
+   "model": "Access to markets and transport lets farmers sell produce, so more commercial farming occurs near cities. Capital allows purchase of machinery and fertiliser, raising yields.",
    "points": [
-    "protects countryside/green belt",
-    "existing infrastructure or regeneration"
+    "factor 1 with explanation",
+    "factor 2 with explanation"
    ]
   },
   {
-   "q": "For a named developing or emerging city, explain two challenges.",
-   "model": "Mumbai has squatter settlements with no sanitation causing disease, and traffic and factory pollution that cause poor air quality.",
+   "q": "Explain how conflict can cause food shortage.",
+   "model": "Fighting forces farmers to leave their land and destroys crops and roads. Food cannot be grown or moved, and prices rise.",
    "points": [
-    "challenge one developed",
-    "challenge two developed",
-    "named city"
+    "farming disrupted/people flee",
+    "transport or supply affected"
    ]
   },
   {
-   "q": "Explain how self-help schemes improve squatter settlements.",
-   "model": "Residents get materials and services, and build safer homes themselves, which is cheaper and gives them security.",
+   "q": "Explain why an electronics factory might locate in China's Pearl River Delta.",
+   "model": "There is a large, cheap labour force, and ports allow cheap export. The government offers tax incentives and the area has good infrastructure.",
    "points": [
-    "residents build with support",
-    "improved housing/services"
+    "labour",
+    "ports/government/infrastructure"
    ]
   },
   {
-   "q": "Explain one advantage and one disadvantage of a congestion charge.",
-   "model": "Advantage: reduces traffic and pollution in the centre. Disadvantage: affects low-income drivers and may push traffic to roads outside the zone.",
+   "q": "Describe two environmental costs of tourism.",
+   "model": "Footpaths erode and litter builds up. Coral reefs and habitats can be damaged by divers, boats and development.",
    "points": [
-    "advantage developed",
-    "disadvantage developed"
+    "cost 1",
+    "cost 2"
    ]
   },
   {
-   "q": "Describe the roles of two groups in managing urban change.",
-   "model": "Planners decide land use and protect green belt; developers build homes and shops for profit, so they may want cheaper greenfield land.",
+   "q": "Explain one way to increase food supply in a low-income country.",
+   "model": "Irrigation brings water to dry areas, so crops can grow and several harvests can be taken a year, raising total production.",
    "points": [
-    "group one role",
-    "group two role"
+    "valid method",
+    "how it increases output"
    ]
   }
  ]

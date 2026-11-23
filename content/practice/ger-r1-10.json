@@ -2,174 +2,169 @@
  "id": "ger-r1-10",
  "cards": [
   {
-   "f": "Wer? / Wo? / Wann?",
-   "b": "Who? / Where? / When?"
+   "f": "Reading: how many marks and groups?",
+   "b": "45 marks, 1 hour, six question groups."
   },
   {
-   "f": "Warum? / Wie viele? / Wie lange?",
-   "b": "Why? / How many? / How long?"
+   "f": "G4 and G6",
+   "b": "Longer texts with short answers in German (12 and 11 marks)."
   },
   {
-   "f": "Welche(r/s)?",
-   "b": "Which?"
+   "f": "G1, G2 and G5",
+   "b": "Matching tasks: pictures, signs, people to places."
   },
   {
-   "f": "Womit?",
-   "b": "With what?"
+   "f": "Wie lange?",
+   "b": "How long?"
   },
   {
-   "f": "Vollständige Sätze sind nicht nötig.",
-   "b": "Full sentences are not necessary (short answers are fine)."
+   "f": "Warum? / Wieso?",
+   "b": "Why?"
   },
   {
-   "f": "obwohl",
-   "b": "although (verb to the end)"
+   "f": "Wohin? / Woher?",
+   "b": "Where to? / Where from?"
   },
   {
-   "f": "sondern",
-   "b": "but (rather), after a negative: nicht ... sondern ..."
+   "f": "Eintritt frei",
+   "b": "Free entry."
   },
   {
-   "f": "eventuell",
-   "b": "possibly (false friend: not 'eventually')"
+   "f": "geöffnet / geschlossen",
+   "b": "open / closed"
   },
   {
    "f": "bekommen",
-   "b": "to get, receive (not 'become')"
+   "b": "to get, to receive (not 'become')."
   },
   {
-   "f": "aktuell",
-   "b": "current, up to date (not 'actual')"
+   "f": "der Chef",
+   "b": "boss (not 'chef')."
   },
   {
-   "f": "die Umweltverschmutzung",
-   "b": "environmental pollution (Umwelt + Verschmutzung)"
+   "f": "billig / günstig / preiswert",
+   "b": "cheap / good value."
   },
   {
-   "f": "-los",
-   "b": "without, e.g. arbeitslos (unemployed)"
+   "f": "anfangen / beginnen / starten",
+   "b": "to begin."
   },
   {
-   "f": "un-",
-   "b": "not, e.g. unfreundlich (unfriendly)"
+   "f": "Method for short answers",
+   "b": "Write only the information asked for; use words from the text; give both parts if two details are asked."
   },
   {
-   "f": "-ung / -heit / -keit",
-   "b": "endings that make feminine nouns"
+   "f": "kein, nicht, nie, niemand",
+   "b": "negatives: check they don't reverse the meaning."
   },
   {
-   "f": "Perfect tense clue",
-   "b": "haben or sein + past participle at the end of the clause"
+   "f": "Skimming vs scanning",
+   "b": "Skim = general idea; scan = find a specific detail."
   },
   {
-   "f": "Separable verb in a text",
-   "b": "prefix at the end: Der Zug kommt um acht an (ankommen)"
-  },
-  {
-   "f": "Reading time split in Paper 2 (Section A)",
-   "b": "About 52 minutes for the five reading tasks"
+   "f": "Hausaufgaben",
+   "b": "homework (Haus + Aufgaben)."
   }
  ],
  "gaps": [
   {
-   "s": "Reading is worth ___ marks in Paper 2 (number).",
+   "s": "Reading has ___ question groups. (number)",
    "a": [
-    "40",
-    "vierzig",
-    "forty"
+    "six",
+    "6",
+    "sechs"
    ]
   },
   {
-   "s": "Section A has ___ tasks (number).",
+   "s": "The paper lasts one ___ . (time unit)",
    "a": [
-    "5",
-    "five",
-    "fünf"
+    "hour",
+    "stunde"
    ]
   },
   {
-   "s": "___ fragt nach einer Person (question word).",
+   "s": "Wie lange dauert der Film? ___ lange asks about duration. (question word)",
    "a": [
-    "Wer"
+    "Wie"
    ]
   },
   {
-   "s": "___ fragt nach einem Ort (question word).",
+   "s": "« Er kommt aus Spanien. » Question: ___ kommt er? (where from)",
    "a": [
-    "Wo"
+    "Woher"
    ]
   },
   {
-   "s": "___ fragt nach einem Grund (question word).",
+   "s": "Das Gegenteil von « teuer » ist ___ .",
    "a": [
-    "Warum"
+    "billig",
+    "günstig",
+    "guenstig",
+    "gunstig",
+    "preiswert"
    ]
   },
   {
-   "s": "Ich spiele Tennis, ___ ich es mag. (because)",
+   "s": "Ein Wort, das wie ein englisches klingt und dasselbe bedeutet, ist ein ___ .",
    "a": [
-    "weil"
+    "Kognat",
+    "cognate"
    ]
   },
   {
-   "s": "Er ist nicht krank, ___ müde. (but rather)",
+   "s": "Ein falscher Freund: « der Chef » bedeutet auf Englisch ___ .",
    "a": [
-    "sondern"
+    "boss",
+    "Boss"
    ]
   },
   {
-   "s": "Wir ___ nach Berlin gefahren. (haben or sein?)",
+   "s": "Zeitung = newspaper; Handschuh = Hand + ___ . (glove)",
    "a": [
-    "sind"
-   ]
-  },
-  {
-   "s": "Der Text in Q4 ist ein ___ Text (literary, German adjective starting with l).",
-   "a": [
-    "literarischer",
-    "literarisch"
+    "Schuh"
    ]
   }
  ],
  "short": [
   {
-   "q": "How should you answer a question that starts with 'Wann'?",
-   "model": "Give a time or date only, a short phrase copied or adapted from the text, e.g. 'im Mai'.",
+   "q": "Why should you read the questions before the text?",
+   "model": "You know what information to look for, so you read faster and find answers more accurately.",
    "points": [
-    "time expression only",
-    "short phrase, no extra wrong information"
+    "know what to look for",
+    "saves time"
    ]
   },
   {
-   "q": "The text says 'Sie fährt mit dem Rad, obwohl der Bus vor ihrer Tür hält.' Why must you be careful with 'obwohl'?",
-   "model": "It shows a contrast: the bus is available but she does not use it, so the bus is a distractor.",
+   "q": "Elif plays volleyball on Tuesdays and Thursdays. Write the short answer to: Wann hat sie Training?",
+   "model": "Dienstags und donnerstags.",
    "points": [
-    "obwohl = although",
-    "bus is a distractor / she cycles"
+    "both days",
+    "in German"
    ]
   },
   {
-   "q": "Split 'die Kinderbetreuung' to guess the meaning.",
-   "model": "Kinder (children) + Betreuung (care) = childcare, and it is feminine because Betreuung is.",
+   "q": "How do you decide between three MCQ options?",
+   "model": "Find the sentence in the text, eliminate options that say the opposite or are not mentioned, watch for negatives.",
    "points": [
-    "two parts",
-    "gender from last word"
+    "locate the sentence",
+    "eliminate wrong options",
+    "check negatives"
    ]
   },
   {
-   "q": "What is the difference between 'Wie viel' and 'Wie viele'?",
-   "model": "Wie viel is how much (uncountable, e.g. money); wie viele is how many (countable plural).",
+   "q": "What can you do with an unknown compound noun?",
+   "model": "Split it into parts and translate each: Hausaufgaben = Haus + Aufgaben.",
    "points": [
-    "how much",
-    "how many"
+    "split it",
+    "combine meanings"
    ]
   },
   {
-   "q": "List two things to check in a gap-fill task apart from the meaning.",
-   "model": "Gender and case of the article/adjective, and the verb ending (agreement with the subject).",
+   "q": "Give two things to avoid in short-answer questions.",
+   "model": "Copying too much text with a wrong detail; leaving it blank; mixing a correct and a wrong answer.",
    "points": [
-    "gender or case",
-    "verb form"
+    "any two correct points",
+    "each stated clearly"
    ]
   }
  ]

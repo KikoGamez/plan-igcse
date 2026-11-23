@@ -2,161 +2,160 @@
  "id": "music-r1-01",
  "cards": [
   {
-   "f": "How long is the Appraising paper?",
-   "b": "1 hour 45 minutes, 80 marks, 40% of the qualification."
+   "f": "Paper 1 Listening: format",
+   "b": "About 1 h 15 min, 70 marks, 40%. Eight extracts, at least one per area of study, each played 3 to 5 times."
   },
   {
-   "f": "Weighting of Performing and Composing",
-   "b": "30% each, marked by your teacher and moderated by Pearson."
+   "f": "Component 2 Performing",
+   "b": "50 marks, 30%. Solo piece and performing with others; each part at least 2 minutes, total no more than 10."
   },
   {
-   "f": "Four areas of study",
-   "b": "Instrumental Music 1700–1820; Vocal Music; Music for Stage and Screen; Fusions."
+   "f": "Component 3 Composing",
+   "b": "50 marks, 30%. Two contrasting compositions."
   },
   {
-   "f": "Set works in Instrumental Music 1700–1820",
-   "b": "Bach: Brandenburg Concerto No. 5 (1st mvt); Beethoven: Piano Sonata No. 8 Pathétique (1st mvt)."
+   "f": "Seven areas of study",
+   "b": "Baroque, Classical, Romantic, Music and words, Music for dance, Music for small ensemble, Music for stage and screen."
   },
   {
-   "f": "Set works in Vocal Music",
-   "b": "Purcell: Music for a While; Queen: Killer Queen."
+   "f": "Baroque focus works",
+   "b": "Vivaldi Spring (1st mvt) and Handel Concerto Grosso in D, Op. 6 No. 5 (mvts 1, 2, 4, 6)."
   },
   {
-   "f": "Set works in Music for Stage and Screen",
-   "b": "Schwartz: Defying Gravity (Wicked); John Williams: Star Wars Main Title/Rebel Blockade Runner."
+   "f": "Classical focus work",
+   "b": "Mozart Quintet for piano and winds in E♭, K. 452, 1st movement."
   },
   {
-   "f": "Set works in Fusions",
-   "b": "Afro Celt Sound System: Release; Esperanza Spalding: Samba Em Preludio."
+   "f": "Romantic focus work",
+   "b": "Smetana: Vltava from Má vlast."
   },
   {
-   "f": "What is dictation?",
-   "b": "Writing down pitches or rhythms you hear, usually on a partly completed stave."
+   "f": "Are focus works in the exam?",
+   "b": "No. Exam extracts are different pieces related in style, genre or structure."
   },
   {
-   "f": "What is Section B of the paper?",
-   "b": "One 12-mark extended answer comparing a set work with an unfamiliar piece."
+   "f": "Extract lengths and marks",
+   "b": "Each extract is worth 6 to 16 marks; seven have MCQ/short answers, one has a short descriptive question."
   },
   {
-   "f": "Rule for answering listening questions",
-   "b": "Give a specific musical term plus evidence. 'Exciting' earns nothing."
+   "f": "Listening checklist MHRTSDI",
+   "b": "Melody, Harmony/tonality, Rhythm/metre/tempo, Texture, Structure, Dynamics/articulation, Instruments/timbre."
   },
   {
-   "f": "How many listening hearings should you use?",
-   "b": "Use the first to get the overall picture, the second to answer, the last to check."
+   "f": "Concert pitch",
+   "b": "The real sounding pitch, as opposed to the written pitch of a transposing instrument."
   },
   {
-   "f": "Comparing words for the 12-mark answer",
-   "b": "Both, whereas, in contrast, similarly. Give a similarity and a difference per element."
+   "f": "How to earn description marks",
+   "b": "Make specific points with the correct term and say where they happen; avoid vague words like nice."
   },
   {
-   "f": "What is context in music?",
-   "b": "When, why and for whom the music was written; links to period and style."
+   "f": "Before play one",
+   "b": "Read all the questions and the area of study printed on the paper."
   },
   {
-   "f": "Elements of music",
-   "b": "Melody, harmony, tonality, rhythm, metre, texture, structure, timbre, dynamics, tempo, articulation."
+   "f": "Types of question",
+   "b": "Identify, describe, compare passages, follow score, key, intervals, chords/cadences, transpose, composer, structure."
   },
   {
-   "f": "Which Baroque feature appears in Bach and Purcell?",
-   "b": "Basso continuo: a bass instrument plus chord instrument such as harpsichord."
+   "f": "AO1 Listening",
+   "b": "Listen attentively, use musical terminology, and comment on music from different traditions, times and places."
   }
  ],
  "gaps": [
   {
-   "s": "The Appraising paper lasts 1 hour ___ minutes.",
+   "s": "Paper 1 is worth ___ marks.",
    "a": [
-    "45",
-    "forty-five",
-    "forty five"
+    "70"
    ]
   },
   {
-   "s": "The Appraising paper is worth ___ of the qualification.",
+   "s": "Paper 1 is ___ percent of the whole qualification.",
    "a": [
-    "40%",
     "40",
-    "40 percent"
+    "40%",
+    "forty"
    ]
   },
   {
-   "s": "Beethoven's Pathétique sonata is in the key of C ___.",
+   "s": "There are ___ extracts in Paper 1.",
    "a": [
-    "minor"
+    "8",
+    "eight"
    ]
   },
   {
-   "s": "Writing down pitches and rhythms you hear is called ___.",
+   "s": "The Romantic focus work is Vltava by ___.",
    "a": [
-    "dictation"
+    "Smetana"
    ]
   },
   {
-   "s": "Purcell's Music for a While is in the area of study called ___ Music.",
+   "s": "The Classical focus work is by ___.",
    "a": [
-    "vocal"
+    "Mozart"
    ]
   },
   {
-   "s": "Bach's Brandenburg Concerto No. 5 was written in the ___ period.",
+   "s": "Each extract is played between three and ___ times.",
    "a": [
-    "baroque"
+    "5",
+    "five"
    ]
   },
   {
-   "s": "Section B is a ___-mark extended answer.",
+   "s": "There are ___ areas of study.",
    "a": [
-    "12",
-    "twelve"
+    "7",
+    "seven"
    ]
   },
   {
-   "s": "A set work from Music for Stage and Screen is Defying ___.",
+   "s": "A B♭ clarinet's written C sounds at ___ pitch.",
    "a": [
-    "gravity"
+    "concert"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe two things you should do in the first hearing of an extract.",
-   "model": "Read the question and underline the element, then listen for the overall picture (instruments, speed, mode, texture).",
+   "q": "State two things you should do before the first play of an extract.",
+   "model": "Read all the questions, and note the area of study and genre printed on the paper to predict the features.",
    "points": [
-    "identify element",
-    "overall picture"
+    "read questions",
+    "use area of study to predict features"
    ]
   },
   {
-   "q": "How can you earn full marks on a 3-mark describe question?",
-   "model": "Give three separate musical points, each using a correct term and evidence from the extract.",
+   "q": "Why is it a mistake to memorise the focus works for Paper 1?",
+   "model": "They are not used in the exam; the extracts are different pieces, so you need to know the features and be able to recognise them in unfamiliar music.",
    "points": [
-    "three separate points",
-    "terms plus evidence"
+    "focus works not in the exam",
+    "need transferable features"
    ]
   },
   {
-   "q": "Outline a plan for the 12-mark comparison.",
-   "model": "Pick 3 or 4 elements, give a similarity and difference for each with evidence from both pieces, and add context.",
+   "q": "Give three headings of a checklist for describing music.",
+   "model": "Melody, harmony and tonality, rhythm and tempo, texture, structure, dynamics, instruments (any three).",
    "points": [
-    "elements chosen",
-    "similarity and difference",
-    "context"
+    "first correct feature from the list (1 mark)",
+    "second correct feature from the list (1 mark)"
    ]
   },
   {
-   "q": "Why is 'it sounds exciting' not worth a mark?",
-   "model": "It does not use a musical term or describe a feature of the music; say 'fast tempo' or 'loud brass fanfare'.",
+   "q": "Which two components are coursework and what is each worth?",
+   "model": "Performing and Composing, each 30%.",
    "points": [
-    "no term",
-    "needs feature"
+    "Performing and Composing",
+    "30% each"
    ]
   },
   {
-   "q": "Name the four areas of study.",
-   "model": "Instrumental Music 1700–1820, Vocal Music, Music for Stage and Screen and Fusions.",
+   "q": "Explain how to write a good point in a descriptive answer.",
+   "model": "Name a specific feature with the correct term and say where it occurs, e.g. a crescendo leading to a tutti at the end.",
    "points": [
-    "Instrumental Music 1700–1820 and Vocal Music",
-    "Music for Stage and Screen and Fusions"
+    "specific feature with term",
+    "where/when in the extract"
    ]
   }
  ]

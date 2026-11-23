@@ -2,158 +2,156 @@
  "id": "geo-r1-07",
  "cards": [
   {
-   "f": "Primary sector",
-   "b": "Extracting or growing raw materials, e.g. farming, fishing, mining, forestry."
+   "f": "Weather vs climate",
+   "b": "Weather is short-term conditions; climate is the average over at least 30 years."
   },
   {
-   "f": "Secondary sector",
-   "b": "Manufacturing: making goods from raw materials, e.g. car assembly, steel, food processing."
+   "f": "Anemometer",
+   "b": "Measures wind speed in km/h or m/s, in an open site about 10 m up."
   },
   {
-   "f": "Tertiary sector",
-   "b": "Providing services, e.g. teaching, nursing, retail, banking, tourism."
+   "f": "Barometer",
+   "b": "Measures air pressure in hPa (millibars)."
   },
   {
-   "f": "Quaternary sector",
-   "b": "Knowledge-based work such as research, IT and development."
+   "f": "Wind vane",
+   "b": "Shows wind direction, named by where the wind comes FROM."
   },
   {
-   "f": "Clark-Fisher model",
-   "b": "As a country develops, employment shifts from primary to secondary and then to tertiary and quaternary."
+   "f": "Rain gauge",
+   "b": "Funnel and cylinder in an open site; measures rainfall in mm, read at the same time daily."
   },
   {
-   "f": "Five reasons employment in sectors changes",
-   "b": "Raw materials, globalisation, mechanisation, demographic change and government policies."
+   "f": "Oktas",
+   "b": "Unit of cloud cover: eighths of the sky covered, 0 to 8."
   },
   {
-   "f": "Mechanisation",
-   "b": "Using machines to replace human labour: output rises but fewer workers are needed."
+   "f": "Wet and dry bulb thermometers",
+   "b": "Measure humidity: a bigger difference between them means drier air."
   },
   {
-   "f": "Informal employment",
-   "b": "Work not registered with, taxed or regulated by the government, e.g. street vending, waste picking."
+   "f": "Stevenson screen: why louvres?",
+   "b": "Let air flow through but keep out direct sun and rain."
   },
   {
-   "f": "Two causes of informal employment",
-   "b": "Rural-urban migration (more people than formal jobs) and slow economic development / lack of education."
+   "f": "Stevenson screen: why raised 1.2 m?",
+   "b": "Avoids heat given off by the ground."
   },
   {
-   "f": "Advantage of informal work",
-   "b": "Gives an income when there are no formal jobs; flexible hours and low start-up costs."
+   "f": "Equatorial temperature",
+   "b": "About 26–28 °C all year, annual range only 1–3 °C."
   },
   {
-   "f": "Disadvantage of informal work",
-   "b": "Low pay, no job security, sick pay or pension, and no tax paid so the government loses income."
+   "f": "Equatorial rainfall",
+   "b": "Over 2000 mm, all months, mostly afternoon convectional storms."
   },
   {
-   "f": "Malthus",
-   "b": "Population grows exponentially but food only arithmetically, so famine, disease and war will check population."
+   "f": "Why is the equator hot all year?",
+   "b": "The sun is high (nearly overhead) all year, giving strong concentrated heating."
   },
   {
-   "f": "Boserup",
-   "b": "Population growth stimulates innovation, so food production keeps up with growth."
+   "f": "Hot desert rainfall",
+   "b": "Under 250 mm a year, unreliable, often in flash-flood storms."
   },
   {
-   "f": "Reading a triangular graph",
-   "b": "Each corner is 100% of one sector; read all three values and check they total 100%."
+   "f": "Why do hot deserts have big day-night ranges?",
+   "b": "Cloudless skies: strong heating by day, heat escapes quickly at night."
   },
   {
-   "f": "Negative multiplier effect",
-   "b": "Job losses in one industry reduce spending, so shops and other jobs also close and people leave."
+   "f": "Why is it dry in hot deserts?",
+   "b": "Air sinks under high pressure, warms and forms no cloud."
   }
  ],
  "gaps": [
   {
-   "s": "Making goods from raw materials is the ___ sector.",
+   "s": "The average weather over at least 30 years is called ___.",
    "a": [
-    "secondary"
+    "climate"
    ]
   },
   {
-   "s": "Work that is not registered or taxed is called ___ employment.",
+   "s": "Cloud cover is measured in ___.",
    "a": [
-    "informal"
+    "oktas",
+    "eighths"
    ]
   },
   {
-   "s": "The ___ model links a country's level of development to its employment structure.",
+   "s": "Wind direction is shown by a wind ___.",
    "a": [
-    "Clark-Fisher",
-    "Clark Fisher"
+    "vane"
    ]
   },
   {
-   "s": "___ argued that population grows faster than food supply.",
+   "s": "The Stevenson screen is painted ___ to reflect sunlight.",
    "a": [
-    "Malthus"
+    "white"
    ]
   },
   {
-   "s": "___ argued that population growth leads to innovation in farming.",
+   "s": "Rainfall in the equatorial climate is mainly ___ rainfall.",
    "a": [
-    "Boserup"
+    "convectional"
    ]
   },
   {
-   "s": "Using robots and machines to replace workers is called ___.",
+   "s": "Hot deserts lie under zones of ___ pressure.",
    "a": [
-    "mechanisation",
-    "mechanization"
+    "high"
    ]
   },
   {
-   "s": "People moving from villages to cities is called rural-___ migration.",
+   "s": "Air pressure is measured with a ___.",
    "a": [
-    "urban"
+    "barometer"
    ]
   },
   {
-   "s": "A graph with three corners used to show employment in the three sectors is a ___ graph.",
+   "s": "Hot deserts receive less than ___ mm of rain a year.",
    "a": [
-    "triangular"
+    "250"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe how employment structure changes as a country develops.",
-   "model": "Employment moves from mostly primary in low-income countries, to secondary as factories grow, then to tertiary and quaternary in high-income countries.",
+   "q": "Describe how a rain gauge is used to measure rainfall.",
+   "model": "It is set in an open space away from trees and buildings, with the funnel top level and above the ground to avoid splash. Rain collects in the cylinder and is read in mm at the same time each day.",
    "points": [
-    "primary to secondary",
-    "then tertiary/quaternary"
+    "sited in the open, away from obstacles",
+    "read in mm at the same time each day"
    ]
   },
   {
-   "q": "Explain two reasons why manufacturing jobs have fallen in a developed country.",
-   "model": "Globalisation moved factories to cheaper-labour countries, and mechanisation replaced workers with robots, so fewer people are needed.",
+   "q": "Explain why temperatures in the equatorial climate vary very little through the year.",
+   "model": "The sun is high in the sky all year so heating is constant. Day length is also about 12 hours all year and cloud limits night cooling.",
    "points": [
-    "globalisation/TNCs relocating",
-    "mechanisation/robots",
-    "development of each"
+    "sun high/overhead all year",
+    "constant heating, no seasons (day length similar)"
    ]
   },
   {
-   "q": "Explain one advantage and one disadvantage of informal employment.",
-   "model": "It provides income where formal jobs are scarce; but pay is low and unreliable with no job security or tax paid.",
+   "q": "Explain why hot deserts are very cold at night.",
+   "model": "The skies are cloudless and the air is dry, so the heat gained in the day escapes quickly into the atmosphere after sunset.",
    "points": [
-    "advantage with explanation",
-    "disadvantage with explanation"
+    "no cloud cover to trap heat",
+    "heat escapes quickly / dry air holds little heat"
    ]
   },
   {
-   "q": "Explain one positive and one negative impact of a shift to secondary employment in an emerging country.",
-   "model": "Positive: higher wages and a positive multiplier as workers spend money. Negative: pollution and overcrowding in cities as migrants arrive.",
+   "q": "Explain how convectional rain forms.",
+   "model": "The sun heats the ground, which heats the air so it rises. The rising air cools, its water vapour condenses into cloud, and heavy rain falls.",
    "points": [
-    "positive impact developed",
-    "negative impact developed"
+    "heated air rises",
+    "cools and condenses to cloud then rain"
    ]
   },
   {
-   "q": "Compare the views of Malthus and Boserup on population and resources.",
-   "model": "Malthus thought food supply cannot keep up with population, leading to famine; Boserup thought population growth drives innovation so food supply rises.",
+   "q": "State two differences between the climates of the equator and a hot desert.",
+   "model": "The equator has over 2000 mm rain all year, hot deserts under 250 mm. The equator has a tiny annual range of 1–3 °C, deserts have a much larger daily and annual range.",
    "points": [
-    "Malthus: population outstrips food",
-    "Boserup: innovation increases food"
+    "rainfall difference with figures",
+    "temperature range difference"
    ]
   }
  ]

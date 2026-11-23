@@ -3,156 +3,155 @@
  "cards": [
   {
    "f": "Monophonic",
-   "b": "One melodic line only, with no accompaniment."
+   "b": "A single melodic line with no accompaniment."
   },
   {
    "f": "Homophonic",
-   "b": "Parts moving together in chords, or a melody with chordal accompaniment."
+   "b": "A melody with chordal accompaniment."
   },
   {
    "f": "Polyphonic",
-   "b": "Two or more independent melodic lines of equal importance together."
+   "b": "Two or more independent melodies at once."
   },
   {
    "f": "Heterophonic",
-   "b": "The same melody played at once with slight variations."
+   "b": "Different versions of the same melody played simultaneously."
   },
   {
-   "f": "Canon",
-   "b": "Strict imitation: the same melody enters in each part one after another."
+   "f": "Antiphonal",
+   "b": "Two groups answering each other."
   },
   {
-   "f": "Call and response",
-   "b": "A phrase answered by a different voice or instrument."
+   "f": "Alberti bass",
+   "b": "Broken chords in a low–high–middle–high pattern, typical of Classical piano."
   },
   {
-   "f": "Binary form",
-   "b": "Two sections: A B."
+   "f": "Sequence",
+   "b": "A phrase repeated higher or lower in pitch."
+  },
+  {
+   "f": "Ostinato",
+   "b": "A short pattern repeated persistently."
   },
   {
    "f": "Ternary form",
-   "b": "Three sections: A B A."
+   "b": "A B A: contrasting middle section, then the first returns."
   },
   {
    "f": "Rondo form",
-   "b": "Main tune alternates with episodes: A B A C A."
+   "b": "A B A C A: the main theme returns between episodes."
   },
   {
-   "f": "Strophic",
-   "b": "Every verse has the same music."
-  },
-  {
-   "f": "Through-composed",
-   "b": "No repeated sections; new music throughout."
-  },
-  {
-   "f": "Ground bass",
-   "b": "A bass line repeated throughout with changing music above it."
-  },
-  {
-   "f": "Ritornello form",
-   "b": "A returning orchestral theme between solo episodes, as in Bach's Brandenburg 5."
+   "f": "Ritornello",
+   "b": "Recurring tutti theme in a Baroque concerto; soloists play the episodes."
   },
   {
    "f": "Sonata form",
-   "b": "Exposition, development, recapitulation."
+   "b": "Exposition, development, recapitulation (plus optional coda)."
   },
   {
-   "f": "Middle 8 / bridge",
-   "b": "A contrasting section of about eight bars late in a pop song."
+   "f": "Recapitulation",
+   "b": "Both subjects return in the tonic."
+  },
+  {
+   "f": "Cadenza",
+   "b": "Virtuoso unaccompanied solo passage in a concerto movement."
+  },
+  {
+   "f": "Strophic vs through-composed",
+   "b": "Same music for every verse vs new music for each verse."
   }
  ],
  "gaps": [
   {
-   "s": "A texture with several independent tunes is ___.",
+   "s": "A texture with one melody and no accompaniment is ___.",
    "a": [
-    "polyphonic",
-    "contrapuntal"
+    "monophonic"
    ]
   },
   {
-   "s": "A texture of chords moving together is ___.",
-   "a": [
-    "homophonic",
-    "homophony"
-   ]
-  },
-  {
-   "s": "A strict imitation where each part enters in turn is a ___.",
-   "a": [
-    "canon"
-   ]
-  },
-  {
-   "s": "A B A is called ___ form.",
-   "a": [
-    "ternary"
-   ]
-  },
-  {
-   "s": "A closing section is called a ___.",
-   "a": [
-    "coda"
-   ]
-  },
-  {
-   "s": "In sonata form the themes are introduced in the ___.",
+   "s": "In sonata form the themes are first presented in the ___.",
    "a": [
     "exposition"
    ]
   },
   {
-   "s": "A solo showing-off passage in a concerto is a ___.",
+   "s": "A short repeated pattern is an ___.",
    "a": [
-    "cadenza"
+    "ostinato"
    ]
   },
   {
-   "s": "A bass line repeated all through a piece is a ___ bass.",
+   "s": "A structure A B A is called ___ form.",
    "a": [
-    "ground"
+    "ternary"
+   ]
+  },
+  {
+   "s": "Songs with the same music for every verse are ___.",
+   "a": [
+    "strophic"
+   ]
+  },
+  {
+   "s": "The contrasting section in a pop song is the ___.",
+   "a": [
+    "bridge",
+    "middle eight"
+   ]
+  },
+  {
+   "s": "In the recapitulation both subjects are in the ___ key.",
+   "a": [
+    "tonic"
+   ]
+  },
+  {
+   "s": "In EDM the full-energy section after the build-up is the ___.",
+   "a": [
+    "drop"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe how the texture changes in a layered track that adds parts one at a time.",
-   "model": "It starts thin with one part and thickens as each part enters until it is a full, thick texture.",
+   "q": "Describe the structure of sonata form.",
+   "model": "Exposition with two subjects in different keys, a development that modulates and develops the themes, and a recapitulation with both subjects in the tonic.",
    "points": [
-    "starts thin",
-    "gets thicker"
+    "exposition, development, recapitulation",
+    "second subject changes key then returns to tonic"
    ]
   },
   {
-   "q": "Describe verse-chorus structure.",
-   "model": "Verses tell the story, with a repeated chorus; often with an intro, middle 8 and final chorus.",
+   "q": "What is heterophony? Give an example of music that uses it.",
+   "model": "Different versions of one melody played at once, e.g. in silk and bamboo or takht ensembles.",
    "points": [
-    "verse and chorus",
-    "repeated chorus"
+    "definition",
+    "valid example"
    ]
   },
   {
-   "q": "What happens in the development section of sonata form?",
-   "model": "Themes from the exposition are altered and moved through different keys.",
+   "q": "Describe how a theme can be varied in a theme and variations.",
+   "model": "Change the melody, rhythm, harmony, key, tempo, texture or instruments while the theme stays recognisable.",
    "points": [
-    "themes developed",
-    "different keys"
+    "two ways of varying",
+    "theme still recognisable"
    ]
   },
   {
-   "q": "Define imitation.",
-   "model": "A melody or motif is repeated by another part soon after it first appears.",
+   "q": "What is the function of the development section?",
+   "model": "To take material from the exposition, break it into fragments and move through different keys, creating tension before the recapitulation.",
    "points": [
-    "repeated by another part",
-    "soon after"
+    "themes developed/fragmented",
+    "modulates, builds tension"
    ]
   },
   {
-   "q": "What is a ritornello?",
-   "model": "A bold recurring theme played by the full group, returning in different keys between solo episodes.",
+   "q": "What is call and response?",
+   "model": "One performer or group calls and another answers.",
    "points": [
-    "recurring theme",
-    "between episodes"
+    "call",
+    "answer"
    ]
   }
  ]

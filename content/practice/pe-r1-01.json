@@ -2,169 +2,157 @@
  "id": "pe-r1-01",
  "cards": [
   {
-   "f": "Functions of the skeleton",
-   "b": "Support/shape, protection, movement, blood cell production, mineral storage."
+   "f": "Four functions of the skeleton",
+   "b": "Shape and support; muscle attachment for movement; protection; red blood cell production."
   },
   {
-   "f": "Where are blood cells made?",
-   "b": "In the bone marrow (e.g. femur, sternum, ribs)."
+   "f": "Cranium",
+   "b": "Skull bone (flat) that protects the brain."
   },
   {
-   "f": "Bone: upper arm",
-   "b": "Humerus."
+   "f": "Clavicle",
+   "b": "Collarbone; holds the shoulder in position and links the scapula to the sternum."
   },
   {
-   "f": "Bones of the forearm",
-   "b": "Radius (thumb side) and ulna (little-finger side)."
+   "f": "Scapula",
+   "b": "Shoulder blade; flat bone giving attachment for shoulder muscles."
   },
   {
-   "f": "Bones of the lower leg",
-   "b": "Tibia (larger shin bone) and fibula (thinner, outer bone)."
+   "f": "Radius vs ulna",
+   "b": "Forearm bones; the radius is on the thumb side."
   },
   {
-   "f": "Longest bone in the body",
-   "b": "Femur (thigh bone)."
+   "f": "Patella",
+   "b": "Kneecap; protects the knee joint at the front."
   },
   {
-   "f": "Five regions of the vertebral column (top to bottom)",
-   "b": "Cervical, thoracic, lumbar, sacrum, coccyx."
+   "f": "Talus",
+   "b": "Ankle bone linking the tibia and fibula to the foot."
   },
   {
-   "f": "Ligament",
-   "b": "Joins bone to bone; stabilises the joint."
+   "f": "Long, short and flat bones: examples",
+   "b": "Long: femur, humerus. Short: carpals, tarsals. Flat: cranium, scapula, ribs, pelvis."
   },
   {
-   "f": "Tendon",
-   "b": "Joins muscle to bone; transmits muscle force to move the bone."
+   "f": "Fixed joint",
+   "b": "Immovable (fibrous) joint, e.g. between the bones of the cranium."
   },
   {
-   "f": "Hinge joint: movement and examples",
-   "b": "Flexion and extension only (one plane). Elbow, knee, ankle."
+   "f": "Slightly movable joint",
+   "b": "Cartilaginous joint allowing small movement, e.g. between the vertebrae."
   },
   {
-   "f": "Ball and socket joint: movement and examples",
-   "b": "Movement in all directions. Shoulder and hip."
+   "f": "Ball and socket joint",
+   "b": "Freely movable joint with a large range but less stability: shoulder and hip."
   },
   {
-   "f": "Role of synovial fluid",
-   "b": "Lubricates the joint to reduce friction."
+   "f": "Hinge joint",
+   "b": "Moves only in flexion and extension, more stable: elbow, knee, ankle."
   },
   {
-   "f": "Role of articular cartilage",
-   "b": "Covers bone ends; reduces friction and absorbs shock."
+   "f": "Role of ligaments",
+   "b": "Join bone to bone, stabilise the joint and prevent dislocation."
   },
   {
    "f": "Flexion vs extension",
-   "b": "Flexion decreases the joint angle; extension increases it."
+   "b": "Flexion decreases the angle at a joint; extension increases it."
   },
   {
-   "f": "Abduction vs adduction",
-   "b": "Abduction: away from the midline. Adduction: towards the midline."
-  },
-  {
-   "f": "Plantar flexion vs dorsi flexion",
-   "b": "Plantar: toes pointed down (tiptoe). Dorsi: toes pulled up towards the shin."
+   "f": "Plantar flexion vs dorsiflexion",
+   "b": "Plantar flexion: pointing the toes down. Dorsiflexion: pulling the toes up towards the shin."
   }
  ],
  "gaps": [
   {
-   "s": "The bone that protects the brain is the ___.",
-   "a": [
-    "cranium",
-    "skull"
-   ]
-  },
-  {
-   "s": "Muscle is attached to bone by a ___.",
-   "a": [
-    "tendon",
-    "tendons"
-   ]
-  },
-  {
-   "s": "Bone is attached to bone by a ___.",
-   "a": [
-    "ligament",
-    "ligaments"
-   ]
-  },
-  {
-   "s": "The elbow is a ___ joint.",
-   "a": [
-    "hinge"
-   ]
-  },
-  {
-   "s": "The hip is a ___ and socket joint.",
-   "a": [
-    "ball"
-   ]
-  },
-  {
-   "s": "Moving a limb towards the midline of the body is called ___.",
-   "a": [
-    "adduction"
-   ]
-  },
-  {
-   "s": "Red blood cells are made in the bone ___.",
+   "s": "Red blood cells are produced in the bone ___.",
    "a": [
     "marrow"
    ]
   },
   {
-   "s": "The shin bone at the front of the lower leg is the ___.",
+   "s": "Joints in the cranium are ___ joints, which do not move.",
    "a": [
-    "tibia"
+    "fixed",
+    "immovable",
+    "fibrous"
    ]
   },
   {
-   "s": "A circular movement of the arm at the shoulder is called ___.",
+   "s": "The ___ membrane produces synovial fluid.",
    "a": [
-    "circumduction"
+    "synovial"
+   ]
+  },
+  {
+   "s": "Movement towards the midline of the body is called ___.",
+   "a": [
+    "adduction"
+   ]
+  },
+  {
+   "s": "The shoulder is a ball and ___ joint.",
+   "a": [
+    "socket"
+   ]
+  },
+  {
+   "s": "Pointing the toes downwards is called ___ flexion.",
+   "a": [
+    "plantar"
+   ]
+  },
+  {
+   "s": "The knee and elbow are ___ joints.",
+   "a": [
+    "hinge"
+   ]
+  },
+  {
+   "s": "The ribs, scapula and cranium are classed as ___ bones.",
+   "a": [
+    "flat"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the structure and function of a ligament.",
-   "model": "A ligament is a tough band of tissue that joins bone to bone. It stabilises the joint and prevents dislocation.",
+   "q": "Name the bone in the thigh and the bone known as the kneecap, and state one function of each.",
+   "model": "Femur: muscle attachment for running and kicking. Patella: protects the front of the knee joint.",
    "points": [
-    "joins bone to bone",
-    "stabilises joint / prevents dislocation"
+    "Femur with function",
+    "Patella with function"
    ]
   },
   {
-   "q": "Name the type of joint at the knee and the two movements it allows, with a sporting example.",
-   "model": "The knee is a hinge joint allowing flexion and extension, e.g. bending the knee when running and straightening it to kick.",
+   "q": "Explain why the shoulder joint is less stable than the knee joint.",
+   "model": "The shoulder is a ball and socket joint with a shallow socket and a large range of movement, so it is less stable. The knee is a hinge that moves in one direction only.",
    "points": [
-    "hinge",
-    "flexion and extension",
-    "sporting example"
+    "Shoulder is ball and socket with larger range",
+    "Larger range means less stable / hinge is more stable"
    ]
   },
   {
-   "q": "Explain why weight-bearing exercise is good for the skeleton.",
-   "model": "It makes bones denser and stronger, reducing the risk of osteoporosis, and strengthens ligaments and tendons.",
+   "q": "Name the movement at the elbow and knee when a footballer kicks a ball.",
+   "model": "At the knee: extension as the leg straightens. At the elbow: flexion as the arm bends for balance.",
    "points": [
-    "increases bone density / strength",
-    "lower risk of osteoporosis or injury"
+    "Extension at knee",
+    "Flexion at elbow (or accept suitable alternative)"
    ]
   },
   {
-   "q": "A gymnast does a cartwheel. Name the movement at the shoulder as her arms go out sideways away from the body.",
-   "model": "Abduction at the shoulder, a ball and socket joint, moves the arm away from the midline.",
+   "q": "Give two ways the skeleton helps a goalkeeper.",
+   "model": "It protects organs such as the brain and the heart when landing, and gives muscles bones to pull on to move quickly.",
    "points": [
-    "abduction",
-    "away from the midline"
+    "Protection with example",
+    "Muscle attachment / movement"
    ]
   },
   {
-   "q": "Give two ways the skeleton helps a rugby player.",
-   "model": "Ribs protect the heart and lungs in tackles; bones act as levers so muscles can move the body to run and pass.",
+   "q": "Describe the movement of the ankle as a sprinter pushes off the blocks.",
+   "model": "Plantar flexion: the toes point down and the foot extends away from the shin, driven by the gastrocnemius.",
    "points": [
-    "protection with example",
-    "movement / support with example"
+    "Plantar flexion",
+    "Toes point down / foot pushes away"
    ]
   }
  ]

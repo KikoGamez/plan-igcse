@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many main beats are in a bar of 6/8?",
+   "q": "How many crotchet beats is a dotted minim worth?",
    "options": [
-    "6",
-    "3",
     "2",
-    "4"
+    "3",
+    "4",
+    "1½"
+   ],
+   "answer": 1,
+   "why": "A minim is 2 beats and the dot adds half (1), so 3 beats."
+  },
+  {
+   "type": "mcq",
+   "q": "What type of time signature is 6/8?",
+   "options": [
+    "Simple duple",
+    "Simple triple",
+    "Compound duple",
+    "Compound triple"
    ],
    "answer": 2,
-   "why": "6/8 is compound duple: two dotted-crotchet beats, each dividing into three."
+   "why": "6/8 has two beats per bar, each divided into three quavers."
   },
   {
    "type": "mcq",
    "q": "What does rallentando mean?",
    "options": [
-    "Getting louder",
-    "Getting faster",
-    "Gradually slowing down",
-    "Suddenly loud"
+    "Gradually faster",
+    "Gradually slower",
+    "Suddenly loud",
+    "Very quiet"
    ],
-   "answer": 2,
+   "answer": 1,
    "why": "Rallentando means gradually slowing down."
   },
   {
-   "type": "mcq",
-   "q": "Syncopation is best described as",
-   "options": [
-    "a steady beat on every crotchet",
-    "accents on weak beats or off the beat",
-    "a very slow tempo",
-    "notes played smoothly"
-   ],
-   "answer": 1,
-   "why": "Syncopation displaces accents to weak or off-beats."
-  },
-  {
    "type": "short",
-   "q": "What is the difference between simple and compound time?",
-   "model": "In simple time each beat divides into two; in compound time each beat divides into three.",
+   "q": "Explain what syncopation is.",
+   "model": "Syncopation is placing emphasis on weak beats or off-beats so the rhythm cuts across the main pulse.",
    "points": [
-    "simple divides into two",
-    "compound divides into three"
+    "accent/emphasis on weak beat or off-beat",
+    "goes against the regular pulse"
    ]
   }
  ]

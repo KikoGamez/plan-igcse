@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which data type is most suitable for storing a telephone number such as 0034 612 345 678?",
+   "q": "Which register holds the address of the next instruction to be fetched?",
    "options": [
-    "Integer",
-    "Real",
-    "String",
-    "Boolean"
+    "Program counter (PC)",
+    "Memory data register (MDR)",
+    "Current instruction register (CIR)",
+    "Accumulator (ACC)"
    ],
-   "answer": 2,
-   "why": "You do not calculate with it and leading zeros/spaces must be kept, so use a string."
+   "answer": 0,
+   "why": "The PC holds the address of the next instruction. The CIR holds the current one."
   },
   {
    "type": "mcq",
-   "q": "What is the value of 17 MOD 5?",
+   "q": "What is the purpose of the control unit?",
    "options": [
-    "3",
-    "2",
-    "3.4",
-    "12"
+    "To perform arithmetic and logic",
+    "To decode instructions and send control signals to other parts",
+    "To store frequently used data",
+    "To hold the results of calculations"
    ],
    "answer": 1,
-   "why": "17 = 3 × 5 + 2, so the remainder is 2."
+   "why": "The control unit decodes instructions and coordinates the other parts. The ALU does calculations and logic."
   },
   {
    "type": "mcq",
-   "q": "Which loop always runs its body at least once?",
+   "q": "Which is an embedded system?",
    "options": [
-    "WHILE … END WHILE",
-    "FOR … END FOR",
-    "REPEAT … UNTIL",
-    "FOR EACH"
+    "A laptop",
+    "A desktop PC",
+    "The controller in a microwave oven",
+    "A games console that runs many programs"
    ],
    "answer": 2,
-   "why": "REPEAT … UNTIL tests its condition at the end of each pass."
+   "why": "An embedded system is built into a device to do one dedicated task."
   },
   {
    "type": "short",
-   "q": "Give two reasons for using a constant such as VAT_RATE instead of typing 0.2 each time.",
-   "model": "The value only has to be changed in one place if it changes, and the code is easier to read because the name explains what the number means.",
+   "q": "Explain how a larger cache can improve the performance of a CPU.",
+   "model": "Cache is much faster than RAM and is next to the CPU. A larger cache can hold more frequently used instructions and data, so the CPU waits less for data from RAM.",
    "points": [
-    "change in one place only",
-    "easier to read/understand"
+    "cache is faster than RAM / close to the CPU",
+    "stores more frequently used instructions or data so fewer slower trips to RAM"
    ]
   }
  ]

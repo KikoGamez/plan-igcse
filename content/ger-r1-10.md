@@ -1,135 +1,124 @@
 # Reading: practice
 
-> **In the exam:** Reading is **Section A of Paper 2 (4GN1/02)**, a 1 hour 45 minute paper worth **80 marks (50% of the qualification)**, with **40 marks for reading** and 40 for writing. There are **five reading tasks** of increasing difficulty: Q1 multiple choice (6 marks), Q2 multiple-choice gap-fill (6), Q3 multiple choice (8), Q4 a **literary text** (an adapted extract) with short answers in German (10), Q5 an **authentic German text** with questions in German to answer in German (10). The paper advises about **52 minutes** on each section. No dictionary.
+> **In the exam:** Paper 2 Reading is **25%** of Cambridge IGCSE German 0525: **1 hour, 45 marks, six question groups**. Groups 1, 2 and 5 are matching (pictures, signs, people to places or activities); group 3 is multiple choice (3 options) on a short email/message/postcard; groups 4 and 6 need **short answers in German** on a longer text (12 and 11 marks). No dictionary. Today you practise the method on original texts, then (time permitting) attempt a real past paper from your teacher.
 
 ## What you need to know
 
-- The **five themes** appear in the texts: Home and abroad; Education and employment; Personal life and relationships; The world around us; Social activities, fitness and health.
-- **Question words in German:** *Wer, Was, Wo, Wohin, Woher, Wann, Warum, Wie, Wie viele, Wie lange, Welche(r/s), Womit.*
-- How to answer **in German** with the right information, without copying whole sentences.
-- How to work out **unknown words**: cognates, compound nouns, word families, context.
-- Recognising **tenses, separable verbs, modal verbs and connectives** in a text so you understand who did what and when.
-- **Time management** across five tasks.
+- The six groups and their marks: **G1** match statements to pictures (5); **G2** match signs/notices to explanations (5); **G3** 3-option MCQ on a short text (7); **G4** short answers on a longer text (12); **G5** match people's needs to places/events (5); **G6** short answers on an article (11).
+- Read the **questions first**, then the text. Questions follow the order of the text.
+- **Synonyms and paraphrase**: the question rarely repeats the text's words (*Fahrrad* ↔ *Rad*; *gern* ↔ *Spaß machen*).
+- How much German to write in short answers: only the information asked for.
+- **Cognates and compounds**: use them to guess new words (*das Kaufhaus* = Kauf + Haus = department store).
 
 ## Notes
 
-### Task by task
+### Timing for 60 minutes
+| Group | Marks | Minutes |
+|---|---|---|
+| G1 + G2 (pictures, signs) | 10 | 8 |
+| G3 (short text, MCQ) | 7 | 8 |
+| G4 (longer text, short answers) | 12 | 14 |
+| G5 (matching) | 5 | 8 |
+| G6 (article, short answers) | 11 | 15 |
+| Check | | 7 |
 
-| Task | Marks | What to do | Tip |
-|---|---|---|---|
-| Q1 | 6 | Short texts; multiple choice | Match key words; watch for opposites (*gut/schlecht, mehr/weniger*) |
-| Q2 | 6 | Gap-fill: choose the missing word from options | Check grammar (gender, case, verb form) as well as meaning |
-| Q3 | 8 | Tick the correct statements (about three people) | Read the instruction for how many boxes to tick (in 2025: 8 correct statements, 8 marks); tick exactly that number, and check each statement against the right person |
-| Q4 | 10 | Literary extract; complete notes in German | Short answers; copy only the relevant words |
-| Q5 | 10 | Authentic text; German questions, answers in German | Answer with a **short phrase** from the text; may need to change verb forms |
+### Method for every text
+1. Read the **question/instruction** and underline the key word (*Wann? Warum? Wie viele? Was?*).
+2. Skim the text, then find the sentence that answers the question; it will use **different words**.
+3. For MCQ: eliminate wrong options by finding the exact reason each is wrong (the text says the opposite, or does not mention it).
+4. For short answers: write **only** what is asked. Copy the key phrase from the text, then adapt it so it fits the question. Don't copy a whole sentence if only two words answer it.
 
-Spend about **5–6 minutes** on Q1, 5 on Q2, 8 on Q3, 15 on Q4 and 18 on Q5 (about 52 minutes for Section A). Don't get stuck on one word.
+### Question words
+*Wer?* who · *Was?* what · *Wann?* when · *Wo?* where · *Wohin?* where to · *Woher?* where from · *Warum? / Wieso?* why · *Wie?* how · *Wie viel / Wie viele?* how much / how many · *Welche(r/s)?* which · *Wie lange?* how long.
 
-### A step-by-step method for every text
-1. **Read the title and the question first.** The title and picture tell you the topic.
-2. **Skim** the text for the gist (who, where, what).
-3. **Underline** the key words in each question, then find them (or their synonyms) in the text.
-4. The answer is usually **close** to the key word, but questions follow the text in order.
-5. **Check the whole sentence** for negatives (*nicht, kein, nie*) and for words like *aber, obwohl, sondern* that change the meaning.
-6. Write the answer. If it is a multiple choice, **eliminate** the wrong ones. If it is open, give only the detail asked.
+### Synonyms you often meet
+| Question uses | Text uses |
+|---|---|
+| anfangen, beginnen | starten, losgehen |
+| gern, mögen | Spaß machen, gefallen, lieben |
+| billig | günstig, preiswert |
+| Freizeit | freie Zeit, Hobby |
+| Arbeit | Job, Stelle |
+| wohnen | leben |
+| schnell | rasch |
+| groß | riesig |
+| Kind | Junge / Mädchen |
 
-### Working out unfamiliar words
-- **Cognates:** *das Konzert, die Familie, der Sport, trinken (drink), das Wasser (water), das Haus (house).*
-- **Compound nouns:** split them: *die Umweltverschmutzung* = Umwelt (environment) + Verschmutzung (pollution); *der Fahrradweg* = bike + path; *die Kinderbetreuung* = child + care. The **last** word gives the gender and the basic meaning.
-- **Prefixes and suffixes:** *un-* = not (*unfreundlich*), *-los* = without (*arbeitslos*), *-lich/-ig* = adjective, *-ung/-heit/-keit* = noun, *-chen* = small (*das Mädchen*).
-- **Word families:** *fahren* → *die Fahrt, der Fahrer, das Fahrrad*.
-- **Context:** is the sentence positive or negative? What word type is it (noun with capital letter, verb at the end of a clause)?
-- **Separable verbs:** the prefix is at the **end**: *Der Zug kommt um 8 Uhr an* (arrives). *Ich stehe früh auf* (get up).
-- **Past participles** begin with *ge-* and end in *-t* or *-en*: *gespielt, gegangen*; verbs with a separable prefix: *angekommen*, *aufgestanden*. With inseparable prefixes there is no *ge-*: *besucht, verstanden*.
+### Dealing with unknown words
+- **Compounds:** split them. *Hausaufgaben* = Haus + Aufgaben (homework); *Handschuh* = Hand + Schuh (glove).
+- **Cognates:** *Problem, Telefon, Kaffee, Student, modern, Musik.* Beware false friends: *das Gift* = poison; *bekommen* = to get; *der Chef* = boss; *sensibel* = sensitive; *Rente* = pension; *Gymnasium* = school.
+- **Prefix clues:** *aus-* (out), *ein-* (in), *ab-* (off), *an-* (on), *zurück-* (back); *un-* (not), *-los* (without), *-voll* (full of), *-lich/-ig* (adjective endings).
+- **Context:** use the sentence before and after. Don't panic: only one word usually matters.
 
-### Reading the tenses and structures
-- **Perfect:** *haben/sein* + participle at the end: *Wir sind nach Wien gefahren.*
-- **Imperfect:** in stories (Q4 often): *Er ging, sah, kam, war, hatte, sagte, fuhr, nahm, wurde.*
-- **Future:** *werden* + infinitive: *Ich werde mehr lernen.*
-- **Conditional:** *würde* + infinitive, *wäre, hätte*: *Wenn ich Zeit hätte, würde ich reisen.*
-- **Modal verbs:** *können, müssen, dürfen, sollen, wollen, mögen* with an infinitive at the end.
-- **Connectives:** *weil/obwohl/dass/wenn/als/ob* send the verb to the end of the clause: *…, weil er krank ist.*
-- **Relative clauses:** *Der Mann, der dort wohnt, …* (verb at the end).
-- **Question words** and **indirect questions:** *Ich weiß nicht, wo er wohnt.*
-
-### Answering questions in German (Q4 and Q5)
-- Look at the **question word**: *Wer?* needs a person; *Wo?* a place; *Wann?* a time; *Warum?* a reason (often begins *weil* or *um … zu*, but a short phrase is fine).
-- **Short answers are fine**: *Vollständige Sätze sind nicht nötig* (full sentences are not necessary).
-- Copy the key words from the text but **don't copy a whole sentence** if it includes extra, wrong or contradicting information. Only relevant information counts, and irrelevant extra information may cost the mark.
-- Make **small changes** where needed: *Wann hat Anna angerufen?* If the text says *Anna rief gestern an*, answer *gestern*.
-- Don't answer with a pronoun only if the name is the answer: *Georg*, not *er*.
-- Watch the difference between questions that look alike: *Wer* (who) vs *Wo* (where), *Wie viele* (how many) vs *Wie viel* (how much), *Was* vs *Warum*.
-- Spelling in the answer matters less than **clarity**; but copy words correctly from the text.
-
-### Common false friends and trap words in reading
-*bekommen* (get), *Gift* (poison), *Rock* (skirt), *Chef* (boss), *Handy* (mobile phone), *aktuell* (current), *eventuell* (possibly), *sensibel* (sensitive), *die Fabrik* (factory).
+### Short answers in German
+- Spelling must be recognisable; grammar errors are ignored **unless they change the meaning**.
+- Give both parts if the question asks for two things (*Nennen Sie zwei Gründe*).
+- Don't mix an answer and its distractor (*Sie fährt mit dem Bus und mit dem Rad* if only one is correct).
+- Use the question's subject: *Warum geht Tim ins Kino?* → *Er hat Freizeit / Er mag Filme.*
 
 ## Key terms and definitions
 
-- **authentic text:** a real German text (article, advert, interview) written for German speakers, adapted slightly for the exam.
-- **literary text:** a short extract from a story or novel, simplified for the exam.
-- **gist:** the general meaning.
-- **skimming:** reading quickly to get the overall idea.
-- **scanning:** looking quickly for specific details such as names or numbers.
-- **distractor:** an option or detail that is in the text but does not answer the question.
-- **synonym:** a word with the same meaning (e.g. *billig* and *günstig*).
-- **Vollständige Sätze sind nicht nötig:** full sentences are not needed (so answer briefly).
+- **Paraphrase:** saying the same thing in different words.
+- **Distractor:** a wrong option using words from the text.
+- **Skim:** read quickly for the general idea.
+- **Scan:** look for specific information (a number, a name, a time).
+- **Cognate:** a word that looks like English and means the same (*Hotel*, *Musik*).
 
 ## Worked examples
 
-**1. [2 marks] Text: *Lena fährt jeden Tag mit dem Rad zur Schule, obwohl der Bus vor ihrer Haustür hält. Sie findet das gesünder.* Question (in German): Wie fährt Lena zur Schule? Warum?**
-Model answer: Mit dem Rad (1) weil es gesünder ist / sie findet es gesünder (1). The distractor is the bus: it stops in front of her house but she doesn't use it (*obwohl*).
+**Example 1 (G2: sign).** *Rauchen verboten! Bitte benutzen Sie den Raucherbereich im Hof.* → Which explanation fits? A Smoking is allowed here. B Smoke in the yard only. C Don't bring food. **Answer: B.** *verboten* = forbidden; *Raucherbereich im Hof* = smoking area in the yard.
 
-**2. [1 mark] Gap-fill: *Meine Schwester ___ seit einem Jahr in Berlin.* A wohne B wohnen C wohnt D wohnst.**
-Answer **C**. Subject *meine Schwester* needs the *er/sie/es* form: wohnt.
+**Example 2 (G3: MCQ, postcard).** *"Liebe Oma, wir sind in Österreich. Das Wetter ist leider schlecht, es regnet jeden Tag, aber die Berge sind wunderschön. Morgen fahren wir mit der Seilbahn nach oben."* Wie ist das Wetter? A sonnig B regnerisch C warm. **Answer: B.** **[1]** *Wie sind die Berge?* A hässlich B zu hoch C schön. **Answer: C.**
 
-**3. [2 marks] Q5 style. Text: *Seit 2015 organisiert die Stadt jedes Jahr im Mai einen Umwelttag, an dem 500 Freiwillige den Park putzen.* Fragen: (a) Wann ist der Umwelttag? (b) Wie viele Menschen helfen?**
-Model answer: (a) im Mai (1). (b) 500 (Freiwillige) (1). *Seit 2015* is a distractor for (a).
-
-**4. [2 marks] Q4 style (literary text). Text: *Der Junge öffnete die Tür. Im Zimmer saß ein alter Mann am Fenster. „Wer bist du?“ fragte er leise.* Notes: (a) Wo saß der Mann? (b) Wie sprach er?**
-Model answer: (a) am Fenster / im Zimmer (1). (b) leise (1). Imperfect: *öffnete, saß, fragte*.
+**Example 3 (G4: short answer).** *"Ich arbeite jeden Samstag in einem Café, weil ich Geld für ein neues Handy sparen will."* Warum arbeitet Mia im Café? **[1]**
+Model: *Sie will Geld für ein Handy sparen.* **Marks:** *Geld*, *Handy* and *sparen/sparen wollen* give the point. Writing "samstags" does not.
 
 ## Common mistakes
 
-- Spending 10 minutes on one word: skip, finish, come back.
-- Not reading the **question words** (answering *Wer?* with a place).
-- Copying a long chunk with extra information, e.g. both the correct and an incorrect detail.
-- Ignoring negatives (*nicht, kein, nie, ohne*).
-- Missing **time markers** (*früher, jetzt, später*): the same text can talk about past and future.
-- In multiple choice, picking an option because **one word** matches the text: check the whole statement.
-- Writing a long answer when a one-word answer is enough.
-- Leaving blanks: always give an answer, as there is no penalty for a wrong one.
-- Misreading **numbers** (*dreißig* / *dreizehn*) and **dates**.
-- Not checking that gap-fill answers match **gender, case and verb form**.
+- Choosing an option because **one word matches** the text without checking the rest of the sentence.
+- Missing negatives (*kein*, *nicht*, *nie*, *niemand*) that reverse the meaning.
+- Copying long chunks including a wrong detail.
+- Confusing **false friends** (*bekommen* ≠ become).
+- Leaving short-answer questions blank (guess, using context).
+- Matching tasks: using the same item twice when each is used once.
+- Not reading the instruction (e.g. "two details").
 
 ## Practice questions
 
-Read each short text and answer the question in German (short answers are fine).
+**Text A (G2-type signs).** Match each sign (1–3) with the meaning (A–E, two are extra).
 
-1. *Tom macht seit zwei Jahren Judo. Er trainiert dreimal pro Woche in einem Sportverein.* Wie oft trainiert Tom? [1]
-2. *Die Familie Schmidt wohnt in einem kleinen Dorf in den Bergen. Im Winter ist es dort sehr kalt, aber man kann gut Ski fahren.* Was kann man im Winter machen? [1]
-3. *Anna möchte Ärztin werden. Deshalb macht sie im Sommer ein Praktikum im Krankenhaus.* Warum macht Anna ein Praktikum? [1]
-4. *Ich bin am Samstag mit meiner Oma einkaufen gegangen. Wir haben ein Kleid gekauft, aber es war zu teuer.* Was haben sie gekauft? Was war das Problem? [2]
-5. Gap-fill: *Ich ___ gern ins Kino.* A gehe B gehst C geht D gehen [1]
-6. Gap-fill: *Wir haben ___ neuen Lehrer.* A ein B einen C einem D eine [1]
-7. Tick the true statement: *Im Winter bleibt Max zu Hause, weil er gern liest.* A Max geht gern aus. B Max liest gern. C Max hasst den Winter. [1]
-8. Which word means "in order to" in: *Ich fahre mit dem Rad, um Geld zu sparen.*? Why is the verb at the end? [2]
+1. *Eintritt frei für Kinder unter 6* · 2. *Bitte Schuhe ausziehen!* · 3. *Heute geschlossen*
+A Children under six pay nothing. B Take your shoes off. C Open all day. D Please be quiet. E Closed today.
+**[3]**
+
+**Text B (G3-type MCQ).** *Hallo Sara! Wie geht's? Ich war gestern mit meiner Familie im Zoo. Wir haben Elefanten und Affen gesehen. Die Pinguine waren am besten. Mein kleiner Bruder wollte nicht nach Hause gehen. Am Sonntag gehen wir ins Schwimmbad. Kommst du mit? Dein Jan.*
+4. Wo war Jan gestern? A im Zoo B im Schwimmbad C im Kino. **[1]**
+5. Was war am besten? A Elefanten B Affen C Pinguine. **[1]**
+6. Was macht Jan am Sonntag? A er geht schwimmen B er bleibt zu Hause C er besucht den Zoo. **[1]**
+
+**Text C (G4-type short answers).** *Ich heiße Elif und bin sechzehn. Ich wohne in einer kleinen Stadt in der Nähe von Köln. Meine Eltern kommen aus der Türkei, aber ich bin in Deutschland geboren. Zu Hause sprechen wir Türkisch und Deutsch. In meiner Freizeit spiele ich Volleyball. Das Training ist dienstags und donnerstags. Nach dem Abitur möchte ich Medizin studieren, weil ich anderen Menschen helfen will. Leider ist das Studium sehr lang.*
+7. Wo wohnt Elif? **[1]**
+8. Welche Sprachen spricht sie zu Hause? **[1]**
+9. Wann hat Elif Volleyballtraining? **[1]**
+10. Was will Elif nach dem Abitur machen, und warum? **[2]**
+11. Was ist ein Nachteil dieses Studiums? **[1]**
 
 <details><summary>Answers</summary>
 
-1. Dreimal pro Woche.
-2. Ski fahren.
-3. Weil sie Ärztin werden möchte.
-4. Ein Kleid (1); es war zu teuer (1).
-5. A gehe.
-6. B einen (masculine accusative: *Lehrer* is der).
-7. B.
-8. *um … zu* (1); the infinitive goes at the end of the clause with *zu* (1).
+1. A. 2. B. 3. E.
+4. A. 5. C. 6. A.
+7. In einer kleinen Stadt (in der Nähe von Köln).
+8. Türkisch und Deutsch (both needed).
+9. Dienstags und donnerstags (both days).
+10. Sie will Medizin studieren (1); sie will anderen Menschen helfen (1).
+11. Es ist sehr lang / dauert lange.
 
 </details>
 
 ## Plan for this hour
 
-- **0–5 min:** read the notes on the five tasks, then pick a past Pearson 4GN1 Paper 2 from the Pearson website (Section A only).
-- **5–50 min:** do the five reading tasks under timed conditions (about 52 minutes if you have it; stop at 45 minutes for this session and note where you are).
-- **50–60 min:** mark with the mark scheme, list the lost marks by type (vocabulary, trap, copying, grammar) and add unknown words to your vocabulary list.
+- **0–10 min:** Read the notes and the synonym table; write 5 words you didn't know on a card.
+- **10–25 min:** Do the practice questions under timed conditions (about 12 minutes), then mark.
+- **25–45 min:** Take a real past-paper Reading (G3 or G4 text) if you have one; underline the words that gave each answer.
+- **45–55 min:** Make a list of the unknown words you met; learn 10 with article and plural.
+- **55–60 min:** Write your three biggest mistakes and how to avoid them.

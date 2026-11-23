@@ -1,147 +1,167 @@
-# Coasts: ecosystems, threats and management
+# Plate tectonics: earthquakes and volcanoes
 
-> **In the exam:** Paper 1, Section A (coasts question, about 25 marks). Expect a world map or photo of an ecosystem (1–3 marks), a food web or nutrient-cycle diagram (2–3 marks), "explain how human activity threatens an ecosystem" (4 marks), advantage/disadvantage of a defence (2–4 marks), and a 6-mark case-study question on coastal management in a developed and a developing/emerging country, often as "evaluate" or "to what extent". Use your school's named case studies.
+> **In the exam:** Paper 1 (Geographical Themes, 75 marks), Theme 2 The natural environment. Expect a map or diagram of plates and boundaries, "describe the distribution" [3], "explain why earthquakes/volcanoes occur at plate boundaries" [3–4], labelling a cross-section [1–3], hazards and management [4–6], and a 7-mark extended question on the effects and responses to a **named earthquake or volcanic eruption**. Plate and volcano maps may also appear in Paper 2 (Geographical Skills).
 
 ## What you need to know
 
-- Distribution and features of coastal ecosystems: coral reefs, mangroves, sand dunes, salt marshes.
-- Abiotic and biotic characteristics of one named ecosystem; food webs and nutrient cycles.
-- How ecosystems are threatened by people (industrialisation, agricultural practices, tourism, deforestation).
-- Conflicts between coastal users, with different views (conservation or development).
-- Causes of coastal flooding (storm surges, tsunamis, climate change); prediction and prevention (forecasting, building design, planning, education).
-- Advantages and disadvantages of hard engineering (groynes, revetments, sea walls, gabions, rip-rap), soft engineering (beach replenishment, cliff regrading, ecosystem rehabilitation and revegetation, managed retreat) and shoreline management plans.
-- Case studies of coastal management in a developed and a developing/emerging country.
+- The structure of the Earth (crust, mantle, outer and inner core) and the idea that plates move.
+- Plate boundaries: divergent, convergent (oceanic–continental, continental–continental) and conservative, and the landforms and hazards at each.
+- Distribution of earthquakes and volcanoes, including the Pacific Ring of Fire.
+- Features and types of volcanoes (composite and shield) and the causes of earthquakes (focus, epicentre, seismic waves).
+- Hazards and impacts of earthquakes and volcanoes (primary and secondary), and measurement (Richter/magnitude and Mercalli).
+- Management: monitoring, prediction, preparation and building design, with case studies.
+- Why people live near hazard zones.
 
 ## Notes
 
-### Coastal ecosystems
+### Structure of the Earth
 
-An **ecosystem** is the living things (**biotic**: plants, animals) and non-living things (**abiotic**: water, temperature, salinity, soil, light) in an area and how they interact. In a **food web** energy passes from producers (plants, algae) to consumers (herbivores, then carnivores), and decomposers recycle nutrients in a **nutrient cycle**.
-
-| Ecosystem | Where | Abiotic conditions | Biotic features and importance |
-|---|---|---|---|
-| **Coral reef** | tropical seas, roughly between 30°N and 30°S (Great Barrier Reef, Caribbean, Indonesia, Red Sea) | warm (about 23–29°C), clear, shallow water (sunlight needed, so less than about 50 m deep), normal salinity | coral polyps live with algae; very high biodiversity (about a quarter of marine species); protect coasts by absorbing wave energy; tourism and fishing |
-| **Mangrove** | tropical and sub-tropical muddy shores and estuaries (Bangladesh/India Sundarbans, SE Asia, W Africa, Caribbean) | salty, waterlogged, low-oxygen mud; flooded twice daily by tides | trees with **stilt roots** and breathing roots, salt-tolerant; nursery for fish; roots trap sediment and slow waves; store carbon |
-| **Salt marsh** | sheltered estuaries and behind spits in cooler temperate areas (UK, N. Europe, USA) | muddy, salty, regularly flooded by tides | salt-tolerant plants (halophytes) such as cord grass; breeding and feeding ground for birds; absorb wave energy |
-| **Sand dune** | sandy coasts with onshore winds and a supply of sand | dry, windy, sandy, low in nutrients | marram grass with long roots stabilises dunes; dunes act as a natural sea defence |
-
-**Named ecosystem tip:** pick one (e.g. coral reef or mangrove) and learn two abiotic and two biotic characteristics, a food web with at least four links, and how the nutrient cycle works (nutrients stored in biomass, litter and soil, with inputs from rain and rock weathering and losses by runoff and harvest).
-
-### Threats to coastal ecosystems
-
-| Cause | Impact |
+| Layer | Features |
 |---|---|
-| **Tourism** | boats, anchors and divers damage coral; waste and sewage; hotels built on dunes and mangroves |
-| **Industrialisation** | pollution from factories, oil spills, ports and dredging; warm water discharge |
-| **Agriculture** | fertiliser runoff adds nutrients, causing algal blooms that smother coral and use up oxygen; pesticides; soil runoff makes water cloudy |
-| **Deforestation** | clearing mangroves for shrimp farms, timber and charcoal; loss of nursery areas and storm protection |
-| **Climate change** | warming water causes **coral bleaching** (corals expel their algae and turn white; many die), ocean acidification weakens coral skeletons, sea-level rise drowns marshes and mangroves |
-| **Overfishing and destructive fishing** | dynamite and cyanide fishing, disturbing food webs |
+| **Inner core** | Solid iron and nickel, about 5,000 °C+ |
+| **Outer core** | Liquid iron and nickel |
+| **Mantle** | Thickest layer; semi-molten rock (magma) that moves slowly in **convection currents** |
+| **Crust** | Thin outer layer; **continental crust** (thicker, lighter, older) and **oceanic crust** (thinner, denser, younger) |
 
-### Conflicts and views
+The crust is split into **tectonic plates** that float on the mantle. Convection currents in the mantle (heat from the core) move plates a few centimetres per year. Most earthquakes and volcanoes occur along plate **boundaries (margins)**.
 
-Coastal users want different things: **developers and tourism businesses** (hotels, marinas, jobs, income), **fishermen**, **farmers and homeowners** (protect land), **conservationists** (protect habitats), **local councils and governments** (money, jobs, safety). **Conservation** protects nature but limits development; **development** brings jobs and money but can damage the environment.
+### Plate boundaries
 
-### Coastal flooding
+| Boundary | Movement | What happens | Landforms and hazards | Example |
+|---|---|---|---|---|
+| **Divergent (constructive)** | Plates move **apart** | Magma rises and makes new crust | Mid-ocean ridges, rift valleys, shield volcanoes; gentle eruptions; small earthquakes | Mid-Atlantic Ridge (Iceland); East African Rift |
+| **Convergent: oceanic meets continental** | Plates move **together**; denser oceanic plate **subducts** | Subduction → melting → magma rises; friction builds up pressure | **Ocean trenches**, **fold mountains**, **composite volcanoes**; powerful earthquakes | Nazca plate beneath South American plate (Andes) |
+| **Convergent: continental meets continental** | Neither sinks (both light) | Crust crumples and folds | **Fold mountains**; strong earthquakes; no volcanoes | Himalayas (Indian and Eurasian plates) |
+| **Conservative (transform)** | Plates slide **past** each other (or same direction at different speeds) | Plates stick, then jerk free | Violent **earthquakes**; no volcanoes | San Andreas Fault, California |
 
-Causes: **storm surges** (low pressure and strong winds pile up the sea, especially at high tide), **tsunamis** (huge waves caused by earthquakes or volcanoes under the sea), **climate change** (sea-level rise from melting ice and thermal expansion; more intense storms).
+**Subduction explained (4-mark answer):** the denser oceanic plate sinks beneath the continental plate (1); friction and heat melt the plate to form magma (1); the magma is less dense and rises through cracks (1) and erupts, forming a composite volcano (1). Pressure also builds as the plates stick, then is released as an earthquake.
 
-Prediction and prevention: weather forecasting and storm-surge warnings; tsunami warning systems; flood-proof building design (raised buildings, flood doors); planning rules (no building on low-lying land); education and evacuation drills; **shoreline management plans**.
+**Distribution:** Volcanoes and earthquakes mostly lie along plate boundaries. The **Pacific Ring of Fire** contains about 75% of the world's active volcanoes and 90% of earthquakes. Exceptions are **hot spots** (e.g. Hawaii), where magma rises through the middle of a plate.
 
-### Coastal management strategies
+### Volcanoes
 
-**Hard engineering**
-
-| Strategy | Advantages | Disadvantages |
+| | **Composite (strato) volcano** | **Shield volcano** |
 |---|---|---|
-| **Sea wall** (concrete wall, often curved) | very effective; reflects waves; protects the land behind | very expensive to build and maintain; ugly; can erode at base and increase erosion elsewhere |
-| **Groynes** (wooden or rock barriers at right angles to the beach) | trap sediment by longshore drift, building up a beach that absorbs wave energy; relatively cheap | starve beaches further down the coast of sediment (so erosion increases there); look unattractive |
-| **Revetments** (sloping slatted barriers) | absorb wave energy; cheaper than sea wall | need maintenance; not suitable for very big waves |
-| **Rip-rap / rock armour** (large boulders piled at the cliff base) | cheap, easy to build, absorbs energy | can look unattractive; can be moved by powerful waves |
-| **Gabions** (wire cages of rocks) | cheap, flexible | short life (rust), look untidy |
+| Boundary | Convergent (subduction) | Divergent / hot spots |
+| Shape | Steep sides, cone | Gentle, wide, low |
+| Lava | Thick, sticky (viscous) | Runny |
+| Eruption | Violent and explosive; ash, gas, pyroclastic flows | Gentle; lava flows |
+| Examples | Mount Fuji, Mount St Helens | Mauna Loa, Kilauea (Hawaii) |
 
-**Soft engineering**
+Cross-section features to label: **crater, vent, magma chamber, layers of ash and lava, secondary cones, main pipe**.
 
-| Strategy | Advantages | Disadvantages |
+**Hazards:** lava flows, **ash clouds** (disrupt flights, e.g. Eyjafjallajökull 2010), **pyroclastic flows** (very hot gas and ash, deadly), **lahars** (mudflows), gas, and landslides.
+**Benefits:** very fertile volcanic soils, geothermal energy (Iceland), tourism, minerals.
+
+### Earthquakes
+
+- The **focus** is the point underground where the earthquake starts; the **epicentre** is the point on the surface directly above it. Energy travels as **seismic waves**, which are strongest near the epicentre.
+- **Measurement:** the **Richter scale** (or moment magnitude scale) measures **magnitude**, a logarithmic scale (each step is about 10 times larger amplitude); the **Mercalli scale** measures **intensity (damage)** from I to XII.
+- **Primary effects** (directly from shaking): building collapse, deaths and injuries, roads and bridges damaged, gas and water pipes broken.
+- **Secondary effects:** **tsunamis**, fires from broken gas pipes, landslides, **liquefaction**, disease (dirty water), homelessness, loss of jobs, economic damage.
+- Tsunamis form when an earthquake displaces the sea floor.
+
+### Why impacts differ
+
+| Factor | Higher impact | Lower impact |
 |---|---|---|
-| **Beach replenishment** (sand added to the beach) | looks natural; wide beach absorbs waves and helps tourism | has to be repeated; sand must be dredged elsewhere, which damages habitat; costs recur |
-| **Cliff regrading / drainage** | reduces slumping | expensive; needs space |
-| **Ecosystem rehabilitation / revegetation** (replanting dunes, mangroves, marshes) | cheap, sustainable, habitats and protection | takes time; does not stop big storms |
-| **Managed retreat** (let the sea flood land on purpose and move people back) | cheap; creates salt marsh habitats | people lose homes and farmland; compensation costs; very unpopular |
+| **Magnitude and depth** | Strong, shallow focus | Weak, deep focus |
+| **Wealth** | LICs: poor buildings, little preparation | HICs: building codes, early warning, emergency services |
+| **Population density** | Dense cities | Sparse areas |
+| **Time of day** | Night (people sleeping indoors) | Day |
+| **Distance from epicentre, geology** | Near; soft sediment | Far; solid rock |
 
-**Shoreline management plans (SMPs)** divide the coast into sections and set a policy for each: **hold the line** (keep defences), **advance the line** (build further out to sea), **managed realignment / retreat**, or **do nothing**. They balance cost, benefits and environment.
+### Case studies (learn two)
 
-### Case studies
+| | **Haiti 2010** | **Japan (Tōhoku) 2011** |
+|---|---|---|
+| Type | Earthquake, magnitude 7.0 (LIC) | Earthquake magnitude 9.0 with tsunami (HIC) |
+| Cause | Conservative plate boundary near Port-au-Prince; shallow focus | Subduction of the Pacific plate under the North American/Okhotsk plate |
+| Effects | Over 100,000 deaths (estimates vary widely, up to 200,000+); many buildings collapsed; cholera followed | About 18,000 deaths mostly from the tsunami; Fukushima nuclear accident; major economic damage |
+| Response | Slow, depended on international aid; poor infrastructure | Strict building codes and early warning saved many lives; fast emergency response |
 
-Your school will have named two. Learn for each: location, **why management was needed** (erosion, flooding, value of land), **strategies used** and cost, **who benefits and who loses**, and an **evaluation**.
+Other examples: **Nepal 2015** (magnitude 7.8; about 9,000 deaths; Himalayan collision zone); **Christchurch 2011** (magnitude 6.3, 185 deaths; shallow focus close to a city). Volcano: **Eyjafjallajökull (Iceland) 2010** (ash closed European airspace) or **Mount Merapi (Indonesia) 2010**.
 
-- Developed example (e.g. UK, Holderness or Happisburgh in Norfolk, or the Netherlands). Holderness is one of Europe's fastest-eroding coasts because its cliffs are soft boulder clay. Some villages are protected by sea walls, others are left unprotected, causing conflict.
-- Developing/emerging example (e.g. Bangladesh, Vietnam, or the Maldives). Focus on mangrove planting, cyclone shelters, embankments and community-based approaches, and compare costs and available money.
+### Management of hazards
+
+| | Earthquakes | Volcanoes |
+|---|---|---|
+| **Monitoring and prediction** | Earthquakes cannot be **predicted**; seismometers and early warning sensors give seconds or minutes of notice; hazard maps | Eruptions **can be monitored**: seismometers (tremors), gas emissions, ground tilt, thermal imaging, past patterns → evacuate in time |
+| **Preparation** | Drills, emergency kits, **earthquake-proof buildings** (reinforced concrete, steel frames, flexible foundations, shutters), strict building codes, tsunami walls | Evacuation plans and exclusion zones; lava barriers; trained emergency teams |
+| **Response** | Rescue teams, medical help, aid, temporary shelter, clean water | Evacuate; give ash masks; close airspace |
+
+**Why people still live in hazard zones:** fertile soil, jobs and tourism, geothermal power, they cannot afford to move, low risk of eruption in a person's lifetime, trust in the monitoring.
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Ecosystem | A community of living things (biotic) interacting with their non-living (abiotic) environment |
-| Biodiversity | The variety of plant and animal species in an area |
-| Coral bleaching | When stressed corals (by warm water or pollution) expel their algae and turn white |
-| Storm surge | A rise in sea level caused by low air pressure and strong winds, often at high tide |
-| Hard engineering | Man-made structures built to protect the coast |
-| Soft engineering | Management that works with natural processes to protect the coast |
-| Managed retreat | Allowing an area to flood in a controlled way, moving people and defences back |
-| Beach replenishment | Adding sand or shingle to a beach to replace what has been lost |
-| Shoreline management plan | A plan setting the strategy for each section of coast: hold, advance, retreat or do nothing |
-| Sustainable | Meeting present needs without damaging the ability of future generations to meet theirs |
+- **Tectonic plate:** a large slab of the Earth's crust that moves slowly over the mantle.
+- **Plate boundary (margin):** where two tectonic plates meet.
+- **Subduction:** when a denser plate sinks beneath another plate at a convergent boundary.
+- **Focus:** the point underground where an earthquake begins.
+- **Epicentre:** the point on the Earth's surface directly above the focus.
+- **Magnitude:** the amount of energy released by an earthquake (Richter or moment magnitude scale).
+- **Composite volcano:** a steep-sided volcano made of alternating layers of ash and lava, found at destructive boundaries.
+- **Shield volcano:** a wide, gently sloping volcano formed by runny lava, found at constructive boundaries.
+- **Tsunami:** a series of large sea waves caused by the displacement of the sea floor, for example by an earthquake.
+- **Pyroclastic flow:** a fast, hot cloud of ash, gas and rock that rushes down a volcano's slopes.
+- **Liquefaction:** when shaking turns water-saturated soil into a liquid so buildings sink or tilt.
 
 ## Worked examples
 
-**1. Explain how tourism can threaten a coral reef. [4]**
-Boats drop anchors and divers touch or break the coral (1), which destroys the structure (1). Hotels and tourists produce sewage and waste which pollute the water (1), causing algal growth that blocks sunlight and reduces oxygen (1).
+**1. Describe the distribution of volcanoes shown on a world map. [3]**
 
-**2. Describe how groynes protect a beach. [3]**
-Groynes are barriers built at right angles to the beach (1). They trap sediment moved by longshore drift (1), building up a wider beach that absorbs wave energy (1).
+Mostly along plate boundaries (1), especially around the Pacific Ocean in the "Ring of Fire" (1), plus some along mid-ocean ridges such as the Mid-Atlantic and isolated hot spots such as Hawaii (1). Name locations and use compass directions.
 
-**3. Evaluate the use of sea walls to manage coastal erosion. [6]**
-Advantages: sea walls are very effective at stopping erosion and flooding of the land behind and can protect homes, roads and businesses (1–2). Disadvantages: very expensive to build and maintain (1), can be unsightly and may increase erosion at the end of the wall or further along the coast (1). They are justified where land has high value, e.g. a town, but not for farmland or empty cliffs (1). Judgement: they are cost-effective only in high-value places, otherwise soft engineering or managed retreat may be better (1). Add a located example.
+**2. Explain why earthquakes occur at conservative plate boundaries. [3]**
+
+Two plates slide past each other and stick because of friction (1); pressure builds up over time (1); when the plates suddenly slip, energy is released as seismic waves, causing an earthquake (1).
+
+**3. Explain how the effects of an earthquake can be reduced. [4]**
+
+Earthquake-proof buildings with steel frames and flexible foundations absorb shaking, so fewer collapse (2). Emergency drills and warning systems mean people can take cover or evacuate quickly (2). Add a named example (Japan) for support.
+
+**4. "Earthquakes cause more damage in LICs than in HICs." How far do you agree? Use named examples. [7]**
+
+Compare **Haiti 2010** (magnitude 7.0, over 100,000 dead, poor buildings, slow response) and **Japan 2011** (magnitude 9.0 but building codes and drills limited deaths; the tsunami caused most deaths). Agree, but note magnitude, depth, time of day and tsunamis. End with a **judgement**: wealth is important but not the only factor.
 
 ## Common mistakes
 
-- Treating "coral reefs" as living in any warm sea. They need **clear, shallow, warm** water with plenty of sunlight.
-- Mixing biotic (living) and abiotic (non-living) features.
-- Describing groynes as stopping erosion on the whole coast. They protect one beach but can **increase erosion downdrift**.
-- Calling managed retreat "doing nothing". It is a planned strategy with costs and compensation.
-- Giving a case study with no facts: no place name, cost, dates or strategy names.
-- In "evaluate" questions, listing only advantages. Give both sides and a final judgement.
-- Confusing river (dams, embankments) with coastal (groynes, sea walls, rip-rap) defences.
+- Saying plates "float on the core": they float on the **mantle**.
+- Saying volcanoes happen at "all" plate boundaries. Conservative boundaries have **no volcanoes**; continental–continental boundaries have **fold mountains** and no volcanoes.
+- Mixing up **focus** and **epicentre**.
+- Saying earthquakes can be predicted. They can be **monitored and prepared for, but not predicted accurately**.
+- Describing effects with no development. For example, "buildings collapse" needs "…because they were not built with reinforced concrete".
+- Using a case study with no figures (magnitude, deaths, date).
+- Confusing the **Richter scale** (magnitude) with the **Mercalli scale** (damage).
 
 ## Practice questions
 
-1. State two abiotic conditions needed for coral reefs. [2]
-2. Which is hard engineering? A beach replenishment B managed retreat C revetment D dune planting [1]
-3. Define "storm surge". [1]
-4. Describe the distribution of coral reefs. [2]
-5. Explain how deforestation of mangroves threatens a coastal area. [4]
-6. Explain one advantage and one disadvantage of beach replenishment. [4]
-7. Explain why different groups of people may disagree about how to manage a coastline. [4]
-8. Evaluate managed retreat as a way to manage a coastline. [6]
+1. Define the term **epicentre**. [1]
+2. Name the type of plate boundary where plates move apart. [1]
+3. Describe the features of a shield volcano. [3]
+4. Explain why composite volcanoes are found at convergent plate boundaries. [4]
+5. Explain two reasons why a volcanic area may be attractive to people. [4]
+6. State the difference between primary and secondary effects of an earthquake, with an example of each. [3]
+7. Explain how a named volcano can be monitored to give warning of eruption. [3]
+8. For a named earthquake or volcanic eruption, assess how effective the responses to the event were. [7]
 
 <details><summary>Answers</summary>
 
-1. Warm water (about 23–29°C) (1); clear, shallow water so sunlight reaches the coral (1). Also acceptable: normal salinity.
-2. C.
-3. A rise in sea level caused by low pressure and strong winds, usually at high tide.
-4. Found in tropical seas (1), roughly between 30°N and 30°S, e.g. the Great Barrier Reef, Caribbean and Indonesia (1).
-5. Mangroves absorb wave energy and protect the coast (1), so removing them increases erosion and flooding (1). They are nursery areas for fish (1), so fish stocks and local fishing incomes fall; the roots also trap sediment and store carbon (1).
-6. Advantage: creates a natural-looking, wider beach that absorbs wave energy and attracts tourists (2). Disadvantage: temporary and must be repeated, which is expensive; dredging sand harms habitats (2).
-7. Developers/businesses want hotels and harbours for jobs (1); homeowners and farmers want protection for property (1); conservationists want habitats left natural (1); councils have limited budgets so cannot protect everywhere (1).
-8. For: cheap compared with building defences; creates salt marsh habitat which absorbs wave energy and encourages wildlife; sustainable long-term (2). Against: people lose homes and farmland; compensation and social conflict; not suitable for towns (2). Judgement: best for low-value land such as farmland, not valuable built-up areas (1–2).
+1. The point on the Earth's surface directly above the focus of an earthquake. [1]
+2. Divergent (constructive) boundary. [1]
+3. Wide with gently sloping sides (1); formed by runny lava that flows long distances (1); gentle, non-explosive eruptions (1). [3]
+4. Oceanic plate sinks (subducts) beneath continental plate (1); melts to form magma (1); magma rises through cracks to the surface (1); repeated eruptions of ash and sticky lava build a steep cone (1). [4]
+5. Fertile soil for farming (2); geothermal energy or tourism/minerals (2). [4]
+6. Primary: damage directly from shaking, e.g. buildings collapse [1]; secondary: events triggered later, e.g. tsunami, fires, disease [1]; one clear example of each [1]. [3]
+7. Seismometers measure small earthquakes/tremors before eruption (1); gas sensors measure sulphur dioxide rising (1); tiltmeters/satellites detect the ground bulging; thermal images (1). [3]
+8. Named event with date and magnitude; effects; responses (short-term and long-term, local and international); evaluation of how effective with evidence; clear judgement. [7]
 
 </details>
 
 ## Plan for this hour
 
-- 15 min: Learn the four ecosystems table. Pick one for your named example and write a four-link food web.
-- 10 min: Learn the threats table and the causes of coastal flooding.
-- 15 min: Learn the hard and soft engineering tables (one pro and one con each), and the four SMP options.
-- 15 min: Prepare your two case studies on cards (place, problem, strategies, costs, winners and losers, evaluation).
-- 5 min: Do the quiz.
+- 10 min: Earth structure and the four boundary types; sketch each with arrows.
+- 10 min: Volcanoes and earthquakes (types, causes, measurement); questions 1–3.
+- 15 min: Hazards, effects, management; questions 4–7.
+- 15 min: Learn two case studies (one LIC, one HIC) with figures; plan question 8.
+- 10 min: Answer question 8, check, then quiz and flashcards.

@@ -2,158 +2,158 @@
  "id": "geo-r1-09",
  "cards": [
   {
-   "f": "Urbanisation",
-   "b": "An increase in the proportion of a country's population living in towns and cities."
+   "f": "Development",
+   "b": "Progress in economic growth, technology and people's welfare."
   },
   {
-   "f": "Megacity",
-   "b": "A city with a population of over 10 million."
+   "f": "GNI per capita",
+   "b": "A country's total income divided by its population, in US$; an average."
   },
   {
-   "f": "Suburbanisation",
-   "b": "Movement of people from the inner city to the suburbs at the edge of the urban area."
+   "f": "HDI",
+   "b": "Composite index (0–1) of life expectancy, education and income."
   },
   {
-   "f": "Counter-urbanisation",
-   "b": "Movement of people from urban areas to rural areas, e.g. for a better quality of life."
+   "f": "HDI 0.8 and over means",
+   "b": "A very high human development country."
   },
   {
-   "f": "Where is most urban growth today?",
-   "b": "In Asia and Africa, in low- and middle-income countries, mainly through rural-urban migration."
+   "f": "Infant mortality rate",
+   "b": "Deaths of children under one per 1000 live births."
   },
   {
-   "f": "Two push factors from the countryside",
-   "b": "Poverty and lack of jobs; farm mechanisation; drought or conflict; poor services."
+   "f": "Three social indicators",
+   "b": "Life expectancy, literacy rate, infant mortality (also doctors per 1000, clean water access)."
   },
   {
-   "f": "Two pull factors to the city",
-   "b": "Jobs and higher wages; better schools and hospitals; family already living there."
+   "f": "Why use HDI not GNI alone?",
+   "b": "It combines health, education and income, so it gives a fuller picture."
   },
   {
-   "f": "Natural increase",
-   "b": "Birth rate minus death rate; young migrants add to city growth by having children."
+   "f": "Landlocked",
+   "b": "No coast or port; trade costs more, which limits development."
   },
   {
-   "f": "Six problems of rapid urbanisation",
-   "b": "Congestion, transport, employment, housing, crime and environmental problems."
+   "f": "Physical cause of poor development",
+   "b": "Hazards, drought, disease, poor soils or few resources."
   },
   {
-   "f": "Squatter settlement",
-   "b": "Housing built without permission or planning, often lacking water, sanitation and electricity."
+   "f": "Historical cause of uneven development",
+   "b": "Colonial history, conflict and unstable or corrupt government."
   },
   {
-   "f": "What does CBD stand for?",
-   "b": "Central business district: the commercial heart of a city, with shops, offices and banks."
+   "f": "Primary products",
+   "b": "Raw materials from farming, mining, forestry or fishing; low and unstable prices."
   },
   {
-   "f": "Why is the CBD the most expensive area?",
-   "b": "It is the most accessible point, so competition for land is highest."
+   "f": "Globalisation",
+   "b": "Growing links between countries through trade, communications and movement of people."
   },
   {
-   "f": "Rural-urban fringe",
-   "b": "The edge of a city where the built-up area meets the countryside; retail parks and new estates locate here."
+   "f": "Drivers of globalisation",
+   "b": "Cheaper transport, ICT, trade agreements and TNCs."
   },
   {
-   "f": "Urban sprawl",
-   "b": "The uncontrolled spread of a city into the countryside."
+   "f": "TNC",
+   "b": "A company operating in more than one country, e.g. Nike."
   },
   {
-   "f": "Land use in squatter settlements",
-   "b": "Often on cheap, unwanted or risky land such as steep slopes, floodplains or the city edge."
+   "f": "One advantage and one disadvantage of a TNC",
+   "b": "Advantage: jobs and investment. Disadvantage: low wages and profits leave the country."
   }
  ],
  "gaps": [
   {
-   "s": "The percentage of people living in cities is called ___.",
+   "s": "A composite measure of life expectancy, education and income is the ___.",
    "a": [
-    "urbanisation",
-    "urbanization"
+    "HDI",
+    "human development index"
    ]
   },
   {
-   "s": "A city of over 10 million people is a ___.",
+   "s": "GNI per capita is an ___ that hides inequality.",
    "a": [
-    "megacity"
+    "average"
    ]
   },
   {
-   "s": "People moving out of cities to rural areas is ___-urbanisation.",
+   "s": "A company that operates in many countries is a ___.",
    "a": [
-    "counter"
+    "TNC",
+    "transnational corporation",
+    "transnational"
    ]
   },
   {
-   "s": "The movement of people from the inner city to its edges is ___.",
+   "s": "Countries relying on each other for goods and resources show ___.",
    "a": [
-    "suburbanisation",
-    "suburbanization"
+    "interdependence"
    ]
   },
   {
-   "s": "The ___ is the commercial centre of a city.",
+   "s": "Raw materials such as copper or coffee are called ___ products.",
    "a": [
-    "CBD",
-    "central business district"
+    "primary"
    ]
   },
   {
-   "s": "Land values are highest where ___ is best.",
+   "s": "Deaths of under-ones per 1000 births is the ___ mortality rate.",
    "a": [
-    "accessibility"
+    "infant"
    ]
   },
   {
-   "s": "Housing built illegally without services is a ___ settlement.",
+   "s": "A country with no coastline is said to be ___.",
    "a": [
-    "squatter"
+    "landlocked"
    ]
   },
   {
-   "s": "Birth rate minus death rate is natural ___.",
+   "s": "A group of countries that trade freely with each other is a trade ___.",
    "a": [
-    "increase"
+    "bloc"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain two reasons why cities in low-income countries are growing rapidly.",
-   "model": "Rural-urban migration, as people are pushed by poverty and pulled by jobs; and natural increase because migrants are young and have children.",
+   "q": "Describe the global pattern of development.",
+   "model": "HICs are concentrated in Europe, North America, Japan and Australia, with high HDI. The lowest HDI countries are mostly in sub-Saharan Africa and parts of South Asia, while MICs in Asia and Latin America are developing fast.",
    "points": [
-    "rural-urban migration with push/pull",
-    "natural increase or industrialisation"
+    "high HDI region named",
+    "low HDI region named"
    ]
   },
   {
-   "q": "Explain why counter-urbanisation happens.",
-   "model": "People want a better quality of life with less pollution and congestion, and improved transport and broadband let them commute or work from home.",
+   "q": "Explain why a high GNI per capita does not always mean a high quality of life.",
+   "model": "GNI per capita is an average, so wealth may be shared unequally. It also ignores health, education and the environment.",
    "points": [
-    "push from city (congestion, pollution, cost)",
-    "pull/enablers of rural areas or commuting"
+    "average hides inequality",
+    "ignores social factors/health/education"
    ]
   },
   {
-   "q": "Describe two problems caused by rapid urbanisation.",
-   "model": "Congestion because there are too many vehicles for the roads; squatter settlements because housing cannot keep up with migrants.",
+   "q": "Explain how conflict can hold back development.",
+   "model": "War destroys homes, roads and factories and forces people to flee. Money is spent on weapons rather than schools and hospitals, and investors stay away.",
    "points": [
-    "problem one with development",
-    "problem two with development"
+    "destruction/displacement",
+    "money diverted / investment lost"
    ]
   },
   {
-   "q": "Explain why the CBD is located at the centre of a city.",
-   "model": "It is the most accessible place, with road and rail links from all directions, so it has the most customers and highest land values for shops and offices.",
+   "q": "Explain one advantage of globalisation for a low-income country.",
+   "model": "TNCs set up factories that create jobs and bring investment and technology. Workers' wages raise living standards and taxes pay for services.",
    "points": [
-    "accessibility",
-    "land value or customers"
+    "jobs/investment/technology",
+    "link to income or living standards"
    ]
   },
   {
-   "q": "Suggest why most megacities are now found in Asia.",
-   "model": "Large populations, rapid industrialisation and rural-urban migration to coastal and capital cities, with high natural increase.",
+   "q": "Explain one disadvantage of TNCs for a host country.",
+   "model": "Wages and safety standards can be poor, and profits are sent to the home country. The TNC may close the factory and move if costs rise.",
    "points": [
-    "large population or migration",
-    "industrialisation or economic growth"
+    "valid disadvantage",
+    "development of the point"
    ]
   }
  ]

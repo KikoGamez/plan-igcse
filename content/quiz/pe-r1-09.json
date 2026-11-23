@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which of these is a mental benefit of exercise?",
+   "q": "Which is the best definition of fitness?",
    "options": [
-    "Stronger bones",
-    "Making new friends",
-    "Lower blood pressure",
-    "Reduced stress"
+    "Being free from illness",
+    "The ability to cope with the demands of the environment",
+    "Having a low body weight",
+    "Being able to run a long way"
    ],
-   "answer": 3,
-   "why": "Reduced stress is mental; bones and blood pressure are physical; friends is social."
+   "answer": 1,
+   "why": "Cambridge definition: the ability to cope with (or meet) the demands of the environment."
   },
   {
    "type": "mcq",
-   "q": "A BMI of 31 puts a person in which category?",
+   "q": "Which is an example of social health and well-being?",
    "options": [
-    "Healthy",
-    "Overweight",
-    "Obese",
-    "Underweight"
+    "Having a healthy heart",
+    "Controlling emotions",
+    "Having friends and support",
+    "Having a balanced diet"
    ],
    "answer": 2,
-   "why": "BMI of 30 or more is obese."
+   "why": "Friendship and support are part of social well-being."
   },
   {
    "type": "mcq",
-   "q": "Which body type is wide-shouldered, narrow-hipped and muscular?",
+   "q": "A person who smokes but plays football every week is best described as",
    "options": [
-    "Mesomorph",
-    "Endomorph",
-    "Ectomorph",
-    "Sedentary"
+    "fit but not healthy",
+    "healthy but not fit",
+    "both fit and healthy",
+    "neither"
    ],
    "answer": 0,
-   "why": "Mesomorphs have a muscular, athletic build."
+   "why": "They can meet the demands of football but smoking harms health."
   },
   {
    "type": "short",
-   "q": "Explain how a sedentary lifestyle can harm health.",
-   "model": "Little activity can cause weight gain and obesity, which raises the risk of coronary heart disease and type 2 diabetes. It also weakens bones and muscles and can lower mood and self-esteem.",
+   "q": "Describe two benefits of regular exercise for mental health.",
+   "model": "Exercise reduces stress and anxiety because it releases feel-good chemicals, and it improves self-esteem by giving a sense of achievement.",
    "points": [
-    "weight gain / obesity",
-    "named disease (CHD, diabetes, osteoporosis)"
+    "reduces stress/anxiety/improves mood",
+    "improves self-esteem/confidence/concentration"
    ]
   }
  ]

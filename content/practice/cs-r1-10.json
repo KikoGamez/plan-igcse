@@ -1,34 +1,164 @@
-{"id":"cs-r1-10","cards":[
-{"f":"RAM","b":"Random-access memory. Volatile main memory that holds the programs and data currently in use. Can be read and written."},
-{"f":"ROM","b":"Read-only memory. Non-volatile; stores the start-up (boot) instructions. Normally only read."},
-{"f":"Volatile","b":"Loses its contents when the power is turned off. RAM is volatile; ROM and secondary storage are not."},
-{"f":"Cache","b":"Small, very fast memory near the CPU holding frequently used instructions and data. Faster but smaller than RAM."},
-{"f":"Virtual memory","b":"Part of secondary storage used as if it were RAM when RAM is full. Allows more programs to run, but is much slower."},
-{"f":"Magnetic storage","b":"Data stored as magnetised areas on spinning platters (hard disk drive). Cheap per GB, large capacity, but has moving parts."},
-{"f":"Optical storage","b":"A laser reads pits and lands on a disc (CD, DVD, Blu-ray). Cheap and portable, but low capacity and easily scratched."},
-{"f":"Solid state storage","b":"Flash memory with no moving parts (SSD, USB stick, SD card). Fast, silent, durable, low power, but dearer per GB."},
-{"f":"Cloud storage: disadvantages","b":"Needs an internet connection, may cost a subscription, security and privacy risks, and depends on the provider."},
-{"f":"Operating system functions","b":"Manages files, processes and memory, hardware (device drivers), the user interface (GUI or command line), and security."},
-{"f":"Device driver","b":"Software that lets the operating system communicate with and control a particular hardware device."},
-{"f":"Defragmentation","b":"Rearranges the fragments of files on a hard disk so each file is stored together, making access faster. Not needed for SSDs."},
-{"f":"System vs application software","b":"System software runs and manages the computer (OS, utilities). Application software lets users do tasks (word processor, browser)."},
-{"f":"High-level vs low-level language","b":"High-level: English-like, portable, easier to write and debug. Low-level (machine code, assembly): close to hardware, processor-specific, harder to write."},
-{"f":"Compiler vs interpreter","b":"Compiler translates the whole program to an executable before running (fast). Interpreter translates and runs line by line (stops at first error, slower)."}
-],
-"gaps":[
-{"s":"Memory that loses its data when the power is turned off is called ___.","a":["volatile"]},
-{"s":"The start-up program of a computer is stored in ___.","a":["ROM","read-only memory","read only memory"]},
-{"s":"An SSD uses ___ memory to store data.","a":["flash","solid state","solid-state"]},
-{"s":"A ___ translates a whole high-level program into machine code in one go.","a":["compiler"]},
-{"s":"An ___ translates assembly language into machine code.","a":["assembler"]},
-{"s":"Software that allows the operating system to control a printer is called a device ___.","a":["driver"]},
-{"s":"Using secondary storage as an extension of RAM is called ___ memory.","a":["virtual"]},
-{"s":"A backup is made so that data can be ___ after loss or damage.","a":["restored","recovered","restore","recover"]}
-],
-"short":[
-{"q":"State two differences between RAM and ROM.","model":"RAM is volatile and ROM is non-volatile. RAM can be read from and written to, while ROM is normally read-only and holds the boot program.","points":["volatile vs non-volatile","read/write vs read only (or purpose: data in use vs boot program)"]},
-{"q":"Explain one advantage and one disadvantage of using an SSD instead of a hard disk drive.","model":"An SSD has no moving parts so it is faster, quieter and more durable. However it costs more per gigabyte.","points":["advantage: faster / no moving parts / durable / silent","disadvantage: more expensive per GB"]},
-{"q":"Describe what is meant by an operating system and give two of its functions.","model":"An operating system is system software that manages the hardware and software of a computer and provides a user interface. For example it manages files and shares processor time between running programs.","points":["system software that manages hardware/software and gives a user interface","two functions e.g. file management, process/memory management, device drivers"]},
-{"q":"Give two reasons why a programmer might choose a high-level language rather than a low-level language.","model":"High-level languages are easier to read, write and debug because they are close to English. They are also portable, so the same program can be translated to run on different processors.","points":["easier to read/write/debug","portable between different processors"]},
-{"q":"A developer is testing a new program. Explain why an interpreter might be more useful than a compiler during testing.","model":"An interpreter runs the program line by line and stops at the first error, so the developer can find and fix errors immediately and re-run without a full compile each time.","points":["translates and runs line by line / stops at the first error","easy to find and fix errors quickly"]}
-]}
+{
+ "id": "cs-r1-10",
+ "cards": [
+  {
+   "f": "INTEGER",
+   "b": "Data type for whole numbers."
+  },
+  {
+   "f": "REAL",
+   "b": "Data type for numbers with a decimal part."
+  },
+  {
+   "f": "CHAR vs STRING",
+   "b": "CHAR holds a single character; STRING holds text of any length."
+  },
+  {
+   "f": "When to use a constant",
+   "b": "For a value that must not change while the program runs, e.g. VAT rate, so it is changed in one place only."
+  },
+  {
+   "f": "MOD",
+   "b": "Gives the remainder after division: 17 MOD 5 = 2."
+  },
+  {
+   "f": "DIV",
+   "b": "Gives the whole-number part of a division: 17 DIV 5 = 3."
+  },
+  {
+   "f": "SUBSTRING",
+   "b": "SUBSTRING(Text, Start, Length) returns part of a string; the first character is at position 1."
+  },
+  {
+   "f": "LENGTH(Text)",
+   "b": "Returns the number of characters in a string."
+  },
+  {
+   "f": "Array",
+   "b": "Stores several items of the same data type under one identifier, accessed by an index."
+  },
+  {
+   "f": "2D array",
+   "b": "A table: Grid[row, column]. Needs nested loops to visit every element."
+  },
+  {
+   "f": "Procedure",
+   "b": "Subroutine that does a task and does not return a value; called with CALL."
+  },
+  {
+   "f": "Function",
+   "b": "Subroutine that returns a value using RETURN; used in an expression."
+  },
+  {
+   "f": "Parameter",
+   "b": "A value passed into a subroutine when it is called."
+  },
+  {
+   "f": "Local vs global variable",
+   "b": "Local: usable only in its subroutine. Global: usable anywhere in the program."
+  },
+  {
+   "f": "EOF",
+   "b": "End of file: true when there is no more data to read from the file."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A ___ is a subroutine that returns a value.",
+   "a": [
+    "function"
+   ]
+  },
+  {
+   "s": "The pseudocode operator ___ gives the remainder of a division.",
+   "a": [
+    "MOD"
+   ]
+  },
+  {
+   "s": "Data stored in an array is accessed using its ___.",
+   "a": [
+    "index",
+    "subscript"
+   ]
+  },
+  {
+   "s": "A variable declared inside a subroutine and only usable there is a ___ variable.",
+   "a": [
+    "local"
+   ]
+  },
+  {
+   "s": "A value passed into a subroutine is called a ___.",
+   "a": [
+    "parameter",
+    "argument"
+   ]
+  },
+  {
+   "s": "In pseudocode, ___(\"Hello\") returns 5.",
+   "a": [
+    "LENGTH"
+   ]
+  },
+  {
+   "s": "A named value that cannot change while the program runs is a ___.",
+   "a": [
+    "constant"
+   ]
+  },
+  {
+   "s": "A text file read in a loop is processed until ___ is true.",
+   "a": [
+    "EOF",
+    "end of file"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give two reasons for using subroutines in a program.",
+   "model": "Subroutines split a large program into smaller parts that are easier to write and test, and the same code can be reused many times without being rewritten.",
+   "points": [
+    "Breaks program into manageable parts",
+    "Code can be reused",
+    "Easier to test/maintain"
+   ]
+  },
+  {
+   "q": "Write a function Double that takes an integer and returns twice its value.",
+   "model": "FUNCTION Double(N : INTEGER) RETURNS INTEGER\n  RETURN N * 2\nENDFUNCTION",
+   "points": [
+    "Function header with parameter and RETURNS",
+    "Correct calculation",
+    "RETURN and ENDFUNCTION"
+   ]
+  },
+  {
+   "q": "Write pseudocode to input a word and output it in upper case followed by its length.",
+   "model": "INPUT Word\nOUTPUT UCASE(Word)\nOUTPUT LENGTH(Word)",
+   "points": [
+    "Input word",
+    "UCASE used correctly",
+    "LENGTH output"
+   ]
+  },
+  {
+   "q": "A 1D array Prices[1:50] holds prices. Write pseudocode to output the total of all prices.",
+   "model": "Total ← 0\nFOR I ← 1 TO 50\n  Total ← Total + Prices[I]\nNEXT I\nOUTPUT Total",
+   "points": [
+    "Total initialised to 0",
+    "Loop 1 to 50 accessing Prices[I]",
+    "Total updated and output"
+   ]
+  },
+  {
+   "q": "Explain why the programmer should use meaningful variable names and comments.",
+   "model": "Meaningful names and comments make the code easier to understand, so it is easier for another programmer to debug and maintain or update later.",
+   "points": [
+    "Easier to understand/read",
+    "Easier to debug/maintain"
+   ]
+  }
+ ]
+}

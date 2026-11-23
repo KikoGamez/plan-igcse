@@ -1,175 +1,156 @@
 # Instruments, voices and timbre
 
-> **In the exam:** Timbre (sonority) questions appear throughout the Appraising paper (1 h 45 min, 80 marks): **name the instrument** or voice type (1 mark), identify a **playing technique** (1 mark), describe how sounds are made or processed (2–3 marks), and discuss instruments and music technology in set works and the 12-mark comparison. These are among the most reliable marks if you learn the families and techniques.
+> **In the exam:** Paper 1 (70 marks). Expect "Name the instrument playing the melody" [1] (multiple choice or write-in), "Which playing technique is used (pizzicato, tremolo, glissando…)?" [1], "Name the type of voice" [1], "Which ensemble is performing?" [1], word-setting questions (syllabic, melisma, word-painting) [1], and 4 to 8 marks in a descriptive answer for naming instruments and how they are played. All seven areas ask about instruments, so this is a high-yield topic.
 
 ## What you need to know
 
-- The **orchestral families**: strings, woodwind, brass, percussion; also keyboard instruments.
-- **Playing techniques** for each family.
-- **Voices**: types, vocal techniques, backing vocals.
-- **Pop and jazz instruments**: guitars, bass, drum kit, synthesiser.
-- **Music technology**: synthesisers, sampling, looping, effects, multi-tracking, studio techniques.
-- **Timbre** words: bright, warm, breathy, nasal, harsh, mellow.
+- Common orchestral instruments (strings, woodwind, brass, percussion), piano, harpsichord, organ.
+- Voices: soprano, alto, tenor, bass.
+- Ensembles: chamber music (string quartet, piano trio), Baroque concerto groups (ripieno, concertino, basso continuo), pop and rock groups, orquesta típica, salsa band, Hindustani, silk and bamboo, takht.
+- Techniques: pizzicato, arco, glissando, portamento, pitch-bending, tremolo, double stopping, roll, melisma, syllabic, rap, word-painting.
+- Music technology and production: sample, loop, chorus, reverb, delay, overdubbing, double-tracking, multi-tracking, drum machine.
 
 ## Notes
 
-### Timbre
+### 1. The orchestra
 
-**Timbre** (or **sonority**) is the quality or colour of a sound that makes a violin sound different from a flute playing the same note. Use descriptive words: bright, dull, warm, rich, thin, breathy, brassy, nasal, mellow, harsh, shimmering, rasping. Always name the instrument as well as the adjective.
+| Family | Instruments (high to low) | How the sound is made | Typical roles |
+|---|---|---|---|
+| **Strings** | violin, viola, cello, double bass (harp) | bowing or plucking strings | the core: melody (violins), harmony (violas), bass (cellos/basses) |
+| **Woodwind** | piccolo, flute, oboe, clarinet, bassoon | blowing across or through a reed/air column | solos, colour; flute light and agile, oboe nasal, clarinet warm and smooth, bassoon low and comic or sad |
+| **Brass** | trumpet, horn, trombone, tuba | buzzing lips into a mouthpiece | fanfares, power and climaxes; horn warm and mellow |
+| **Percussion** | timpani (tuned), snare drum, cymbals, triangle, xylophone, bass drum | striking, shaking | rhythm, climaxes, special effects |
+| **Keyboard** | piano, harpsichord, organ | | piano: hammers strike strings (dynamics possible); harpsichord: strings plucked (no dynamic control, so terraced); organ: pipes by air |
 
-### Strings
+**Baroque** orchestras were smaller and string-based with a **basso continuo** (a harpsichord or organ playing chords plus a cello or bass on the bass line). **Romantic** orchestras were much bigger with more brass, percussion and woodwind (e.g. Smetana's *Vltava* uses flutes, clarinets, horns, harp, strings). **Classical** chamber music uses small groups: the **string quartet** (two violins, viola, cello), the **piano trio** (violin, cello, piano) and mixed groups like Mozart's quintet for **piano, oboe, clarinet, horn and bassoon**.
 
-| Instrument | Notes |
-|---|---|
-| Violin | highest, plays melodies |
-| Viola | slightly lower, warmer |
-| Cello | rich, singing tone, also bass lines (continuo) |
-| Double bass | lowest, foundation of bass line |
-| Harp | plucked, glissandos and arpeggios |
+### 2. Baroque concerto groups
 
-**Techniques**: **arco** (with the bow), **pizzicato** (plucked), **tremolo** (very quick repeated bow strokes), **vibrato** (small wobble in pitch), **double stopping** (two strings at once), **harmonics** (light touch giving high, whistling notes), **con sordino** (with a mute), **col legno** (with the wood of the bow), **legato** (smooth), **spiccato** (bouncing bow), **glissando** (slide), **sul ponticello** (near the bridge, glassy).
+- **Solo concerto:** one soloist (e.g. violin) against the orchestra.
+- **Concerto grosso:** a small group of soloists, the **concertino** (often 2 violins and a cello), against the full string orchestra, the **ripieno** (or "tutti"). **Basso continuo** supports both.
 
-### Woodwind
-
-| Instrument | Type | Sound |
-|---|---|---|
-| Piccolo, flute | air across hole, no reed | piccolo shrill, flute smooth and airy |
-| Oboe | **double reed** | nasal, pastoral |
-| Cor anglais | double reed | lower, mournful |
-| Clarinet | **single reed** | wide range, mellow low notes |
-| Bassoon | double reed | low, comic or dark |
-| Saxophone | single reed (metal body) | jazz and pop |
-
-**Techniques**: **flutter-tonguing**, tonguing/articulation, trills, **overblowing**, breath sounds.
-
-### Brass
-
-Trumpet (bright, heroic), French horn (mellow, noble, hunting), trombone (slide; glissando), tuba (lowest). The sound is made by **buzzing lips** into a mouthpiece. **Mutes** (con sordino) change the sound; **fanfare** (bold, brass call) is the stand-out brass feature in Star Wars; **vibrato** and **glissando** (trombone slide) are used in jazz.
-
-### Percussion
-
-- **Tuned**: timpani (kettledrums), xylophone, glockenspiel, marimba, vibraphone, tubular bells.
-- **Untuned**: snare drum, bass drum, cymbals (crash, suspended), tambourine, triangle, castanets, claves, maracas, congas, bongos, djembe.
-- **Techniques**: **roll** (rapid beats), **rim shot**, **brush**, **hi-hat open/closed**, **cross-stick**, **fill** (short break in a drum pattern).
-- **Drum kit**: kick drum, snare, hi-hat, toms, cymbals; typical groove: kick on beats 1 and 3, snare on 2 and 4.
-
-### Keyboards
-
-**Harpsichord**: strings are plucked, so the dynamics cannot change by touch; used for continuo and solo in Baroque music (Bach's Brandenburg Concerto No. 5). **Organ**: sustained sounds, pipes, used in church. **Piano**: strings hit by hammers, can change dynamics with touch (Beethoven's sonata). **Synthesiser / electric keyboard**: electronic (see below).
-
-### Guitars and pop/rock instruments
-
-**Acoustic guitar** (strummed, fingerpicked), **electric guitar** (distortion, overdrive, wah-wah, reverb, **power chords**, **riffs**, **solos**, bends), **bass guitar** (picked or slapped, plays the bass line), **drum kit**, **keyboards**, **lead and backing vocals**. In *Killer Queen* the layered, multi-tracked guitar parts, close harmony backing vocals and a music-hall style piano are all part of the sound.
-
-### Voices
+### 3. Voices and word-setting
 
 | Voice | Range |
 |---|---|
-| Soprano | highest female |
-| Mezzo-soprano | middle female |
-| Alto | lowest female / high male (countertenor) |
-| Tenor | highest male |
-| Baritone | middle male |
-| Bass | lowest male |
+| **Soprano** | highest female |
+| **Alto** | lower female (or boys/countertenors) |
+| **Tenor** | higher male |
+| **Bass** | lowest male |
 
-**Vocal techniques**: **vibrato**, **falsetto** (male high, lighter register), **belting** (powerful chest voice; musical theatre and pop, e.g. *Defying Gravity*), **melisma** (many notes on one syllable) vs **syllabic** (one note per syllable), **scat singing** (improvised nonsense syllables, common in jazz; Spalding's jazz vocal style in *Samba Em Preludio* is related, check your set-work notes), **vocal harmony**, **backing vocals**, **unison**, **a cappella** (no accompaniment), **chest voice / head voice**, **spoken or rap**, **word painting** (music reflects the words, e.g. Purcell).
+A choir with these four parts is **SATB**. Other terms: **unison** singing, **a cappella** (without accompaniment).
 
-### Ensembles
+**Word-setting:**
+- **Syllabic:** one note per syllable (clear words, often in pop and hymns).
+- **Melismatic:** many notes on one syllable (**melisma**); expressive, decorative (gospel, pop vocals, Baroque arias).
+- **Word-painting:** the music imitates the meaning of the words (a rising line for "heaven", falling for "death", fast notes for "running").
+- **Rap:** rhythmic, spoken rhymed lyrics over a beat.
 
-**Orchestra** (strings, woodwind, brass, percussion), **chamber group** (string quartet: two violins, viola, cello), **baroque concerto** ensemble (small: strings, continuo, solo instruments), **big band** (saxophones, trumpets, trombones, rhythm section), **rock band**, **choir** (SATB), **continuo group**.
-
-### Music technology and production
+### 4. Playing and vocal techniques
 
 | Term | Meaning |
 |---|---|
-| **Synthesiser** | creates sounds electronically; can imitate instruments or make new ones |
-| **Sampling** | recording a short sound and reusing it |
-| **Looping** | repeating a sample or phrase |
-| **Drum machine / sequencer** | programs rhythms and note patterns, often using **MIDI** |
-| **MIDI** | digital language that tells instruments which notes to play |
-| **Multi-tracking** | recording parts separately and layering them |
-| **Reverb** | echo or spaciousness |
-| **Delay** | repeated echoes |
-| **Distortion / overdrive** | gritty, "fuzzy" sound |
-| **Compression** | evens out volume |
-| **Panning** | position of a sound between left and right speakers |
-| **EQ** | changes bass, mid and treble |
-| **Auto-tune / pitch correction** | adjusts pitch, as an effect or fix |
-| **DAW** | digital audio workstation (Logic, Cubase, GarageBand) |
-| **Flanger / phaser / chorus** | swirling modulation effects |
+| **Arco** | played with the bow |
+| **Pizzicato** | plucked string |
+| **Tremolo** | very fast repeated bow strokes (or repeated notes) producing a shimmering effect (e.g. storm or tension) |
+| **Double stopping** | two strings played at the same time |
+| **Glissando** | slide between two notes, passing through all the notes between (harp, trombone, piano) |
+| **Portamento** | a smooth slide of voice or string from one note to another (smaller, expressive) |
+| **Pitch-bending** | altering the pitch of a note up or down (guitar string bend, sitar, voice) |
+| **Roll** | rapid repeated strokes on drums (e.g. timpani) building tension |
+| **Legato / staccato** | smooth / short and detached |
+| **Vibrato** | a slight wobble in pitch for warmth |
 
-In *Release* (Afro Celt Sound System) acoustic instruments (Irish and West African instruments; check your set-work notes for which) are combined with **electronic sampling, drum machines and synthesisers**. In *Defying Gravity* the pit orchestra is supported by synthesisers.
+### 5. Popular and world ensembles (see topics 9 and 11 for more)
 
-### How to answer a timbre question
+| Ensemble | Instruments |
+|---|---|
+| **Pop / rock band** | lead vocals, electric guitar, bass guitar, drum kit, keyboard |
+| **Orquesta típica** (tango) | violins, **bandoneón** (a button accordion), piano, double bass; sometimes viola/cello |
+| **Salsa band** | congas, bongos, timbales, clave, güiro, cowbell, piano, bass, trumpets and trombones, lead vocalist and chorus |
+| **Hindustani** | **sitar** (plucked, with drones and pitch-bending), **tabla** (a pair of hand drums), **tanpura** (drone), also sarod, bansuri (bamboo flute), harmonium, sarangi |
+| **Silk and bamboo** | silk-stringed instruments (**erhu**, **pipa**, **guzheng**, **yangqin**) and bamboo flutes (**dizi**) |
+| **Takht (Arab)** | **oud** (lute), **qanun** (plucked zither), **nay** (end-blown flute), violin, and percussion (**riq**, **darbuka**) |
 
-1. Name the instrument or voice (specific).
-2. Say how it is played or sung (technique).
-3. Add one descriptive word ("a **muted trumpet**", "a **breathy** flute with flutter-tonguing", "**belting** soprano with vibrato").
+### 6. Music technology
+
+| Term | Meaning |
+|---|---|
+| **Sample** | a short recorded sound reused in a track |
+| **Loop** | a sample or pattern repeated continuously |
+| **Drum machine** | an electronic device producing drum sounds and patterns |
+| **Multi-tracking** | recording separate parts on different tracks and mixing them together |
+| **Overdubbing** | recording a new part over an existing recording |
+| **Double-tracking** | recording the same part twice and layering it for a thicker sound |
+| **Chorus** | an effect making one sound seem like several (slightly detuned copies) |
+| **Reverb** | an effect adding an echo-like room or hall ambience |
+| **Delay** | repeats of a sound after a short time (echo effect) |
+
+### 7. Describing timbre
+
+**Timbre** is the "colour" of a sound. Use adjectives that fit: bright, warm, mellow, nasal, thin, rich, harsh, breathy, muted, distorted. For marks: **name the instrument + technique + effect** ("muted trumpet with a harsh, nasal tone").
 
 ## Key terms and definitions
 
-- **Timbre**: the quality or tone colour of a sound.
-- **Sonority**: the combination of instruments and their sound quality.
-- **Arco**: played with the bow.
-- **Pizzicato**: plucked strings.
-- **Tremolo**: very fast repetition of a note.
-- **Vibrato**: a small, rapid variation in pitch to give warmth.
-- **Falsetto**: a high, light male voice register above the normal range.
-- **Melisma**: singing many notes to one syllable.
-- **Scat singing**: improvised vocals using nonsense syllables.
-- **Sampling**: taking a section of recorded sound and reusing it in a new piece.
-- **Multi-tracking**: recording separate parts one at a time and combining them.
-- **Reverb**: an effect that gives the sound a sense of space.
-- **MIDI**: a system that allows electronic instruments and computers to communicate.
+- **Timbre:** the quality or colour of a sound.
+- **Ensemble:** a group of musicians performing together.
+- **Basso continuo:** the Baroque bass line and chords played by a keyboard (harpsichord or organ) with a cello or bass.
+- **Concertino / ripieno:** the small group of soloists / the full orchestra in a concerto grosso.
+- **Chamber music:** music for a small group, one player to a part.
+- **Pizzicato:** plucked strings. **Arco:** bowed strings.
+- **Glissando:** a slide through all the notes between two pitches.
+- **Melisma:** several notes sung to one syllable.
+- **Syllabic:** one note for each syllable.
+- **Word-painting:** music that reflects the meaning of the words.
 
 ## Worked examples
 
-**1. Name two ways a string player could produce a different sound from normal bowing. [2]**
-Pizzicato (plucking) (1); tremolo or col legno or harmonics (1).
+**1. A violin plays very fast repeated bow strokes on one note while the timpani rolls. Name the technique and the effect. [2]**
+**Tremolo** [1], creating tension or a shimmering, stormy mood [1].
 
-**2. Identify the instrument playing the melody (a nasal, reedy sound in a high register). [1]**
-Oboe (double-reed woodwind).
+**2. Name two ways the sound of the harpsichord differs from the piano. [2]**
+The strings are **plucked** rather than hit by hammers, so it has a bright, "metallic" tone [1] and the **dynamics cannot be changed by touch**, giving terraced dynamics [1].
 
-**3. Describe how music technology is used in a fusion track. [3]**
-"Sampled sounds are looped to make a repeating groove (1), a drum machine provides a steady electronic beat (1), and reverb/delay effects are added to the traditional instruments and voices (1)."
+**3. "Describe how the instruments are used in this film-music extract." [4]**
+"**Trumpets and horns** play a heroic **fanfare** [1], strings provide a sustained **tremolo** [1], **timpani rolls** build excitement [1] and the piece ends with a loud **cymbal crash** [1]."
 
 ## Common mistakes
 
-- Giving only the family ("brass") when the question wants the **instrument** ("trumpet"), or answering with a family when the question wants the family.
-- Calling the clarinet a double-reed instrument (it has a single reed; oboe and bassoon are double reed).
-- Mixing up **pizzicato** (plucked) with **staccato** (short) and **arco**.
-- Saying "high" or "loud" for **timbre**. Timbre is the tone colour.
-- Putting the **harpsichord** under strings: it is a keyboard instrument with plucked strings. Its dynamics cannot change by touch.
-- Not using vocabulary for voices: say "soprano", "falsetto", "belting", "backing vocals".
+- Mixing up violin and viola. The viola is slightly bigger than the violin and plays lower (alto clef).
+- Writing "wind instruments" for brass, e.g. trumpet is brass.
+- Confusing **pizzicato** (plucked) with **staccato** (short notes).
+- Confusing **glissando** (slide through notes) with **portamento** (smooth glide between two notes) and **pitch-bend**.
+- Saying "high voice" instead of naming the voice type.
+- Describing an electric instrument without naming it (e.g. "synth", "electric guitar", "drum machine").
 
 ## Practice questions
 
-1. Name the four families of the orchestra. [2]
-2. What is the difference between arco and pizzicato? [2]
-3. Name one single-reed woodwind instrument and one double-reed instrument. [2]
-4. What type of voice sings the highest? [1]
-5. What does MIDI stand for or do? [2]
-6. Define *sampling*. [2]
-7. Name two effects used on electric guitars or vocals. [2]
-8. Describe the timbre of a muted trumpet. [1]
+1. Name the four instruments in a string quartet. [2]
+2. Which instrument plays the continuo realisation in Baroque music (name two)? [2]
+3. What is the difference between pizzicato and arco? [2]
+4. Name the four voice types in an SATB choir. [2]
+5. What is a melisma? [1]
+6. Name the Argentinian button accordion used in tango. [1]
+7. Name the drone instrument of Hindustani music. [1]
+8. Name a technique where a recorded sound is repeated as a pattern in EDM. [1]
 
 <details><summary>Answers</summary>
 
-1. Strings, woodwind, brass, percussion.
-2. Arco = played with the bow (1); pizzicato = plucked with the fingers (1).
-3. Single reed: clarinet or saxophone (1); double reed: oboe, cor anglais or bassoon (1).
-4. Soprano.
-5. Musical Instrument Digital Interface (1); it lets electronic instruments and computers communicate / send note information (1).
-6. Recording or taking a short sound or section from existing music (1) and reusing it, often looped, in a new piece (1).
-7. Any two from reverb, delay, distortion, wah-wah, chorus, flanger, compression, panning.
-8. Any suitable answer, e.g. thin, nasal, buzzy, distant, harsh or "muffled".
+1. Two violins, viola and cello (1 mark for the two violins and viola, 1 for the cello).
+2. A harpsichord or organ (chords), with a cello or double bass (bass line).
+3. Pizzicato: strings plucked [1]; arco: played with the bow [1].
+4. Soprano, alto, tenor, bass.
+5. Several notes sung to a single syllable.
+6. Bandoneón.
+7. Tanpura.
+8. A loop (made from a sample).
 
 </details>
 
 ## Plan for this hour
 
-- 15 min: strings, woodwind, brass, percussion: tables and techniques.
-- 10 min: voices and vocal techniques.
-- 10 min: music technology terms.
-- 10 min: worked examples and practice questions.
-- 15 min: listen to three extracts (one orchestral, one pop, one fusion) and name instruments, techniques and effects for each.
+- 15 min: orchestra table: name each family and three instruments; listen to the sounds of each (any recording).
+- 10 min: techniques and voices: say the meaning and what each sounds like.
+- 15 min: ensembles table: match instruments to styles (pop, tango, salsa, Hindustani, silk and bamboo, takht).
+- 10 min: production terms and timbre adjectives.
+- 10 min: quiz and flashcards.

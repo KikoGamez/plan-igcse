@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which chords make a perfect cadence?",
+   "q": "Which two chords make a perfect cadence?",
    "options": [
-    "IV then I",
-    "V then I",
     "I then V",
-    "V then VI"
+    "V then vi",
+    "V then I",
+    "IV then I"
    ],
-   "answer": 1,
-   "why": "A perfect cadence is V to I."
+   "answer": 2,
+   "why": "A perfect cadence is V followed by I."
   },
   {
    "type": "mcq",
-   "q": "What is a Tierce de Picardie?",
+   "q": "A phrase ends V then vi. Which cadence is this?",
    "options": [
-    "A minor piece ending on a major chord",
-    "A key change to the dominant",
-    "A held bass note",
-    "A cadence ending on V"
+    "Perfect",
+    "Imperfect",
+    "Interrupted",
+    "Plagal"
+   ],
+   "answer": 2,
+   "why": "V to vi is the interrupted cadence: the ear expects I but hears vi."
+  },
+  {
+   "type": "mcq",
+   "q": "A piece in C major introduces F♯ and cadences in G major. What has happened?",
+   "options": [
+    "Modulation to the dominant",
+    "Modulation to the subdominant",
+    "Modulation to the relative minor",
+    "No modulation"
    ],
    "answer": 0,
-   "why": "It is a major tonic chord at the end of a minor-key section."
-  },
-  {
-   "type": "mcq",
-   "q": "A piece in C major moves to G major. This is a ___.",
-   "options": [
-    "pedal",
-    "modulation",
-    "sequence",
-    "suspension"
-   ],
-   "answer": 1,
-   "why": "A change of key is a modulation; G is the dominant key."
+   "why": "G is the dominant of C and has F♯ in its key signature."
   },
   {
    "type": "short",
-   "q": "Describe the effect of an imperfect cadence.",
-   "model": "It ends on chord V and sounds unfinished, like a comma or question.",
+   "q": "What is a suspension?",
+   "model": "A note held over from one chord into the next, creating a dissonance with the new chord, which then resolves by falling one step.",
    "points": [
-    "ends on V",
-    "unfinished"
+    "note held over/tied into the next chord causing a clash",
+    "resolves downwards by step"
    ]
   }
  ]

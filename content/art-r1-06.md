@@ -1,171 +1,192 @@
 # Photography and digital media in the sketchbook
 
-> **In the exam:** No written paper. Photography is one of the five endorsed titles (Fine Art, Graphic Communication, **Photography**, Textile Design, Three-dimensional Design); for every other title it is still a normal way to record and develop ideas. Photos and digital work earn marks mostly in **AO3** (recording from observation and experience), **AO2** (experimenting with techniques and processes, e.g. editing) and **AO1** (studies of photographers and artists). Each AO is out of 18 in both components. Pearson's guidance says any use of Artificial Intelligence must be clearly referenced.
+> **In the exam:** There is no written paper. **Photography** is one of the five areas of study, and digital media can be used within any area. The syllabus says candidates can work entirely in digital media, entirely non-digital, or a mixture, as long as the assessment objectives are met, and that all work must be recorded digitally in a digital portfolio. Photographs and edits support **AO1** (recording), **AO2** (exploring processes), **AO3** and **AO4**. Each AO is worth 25 of 100 marks in a component.
 
 ## What you need to know
 
-- How to take purposeful photographs: framing, viewpoint, light, depth of field, composition.
-- Camera basics (aperture, shutter speed, ISO) and phone equivalents.
-- Editing: crop, contrast, colour, black and white, layers; how to show edits as experiments.
-- Building photos into the sketchbook: selecting, annotating, developing into drawing, painting, print and collage.
-- Photographers and artists to learn from.
-- Keeping work original and referenced.
+- How to take effective photographs: framing, composition, viewpoint, light, depth of field.
+- How to edit images (crop, exposure, contrast, colour, filters, layers) and why.
+- How to build photographs and digital work into the portfolio as evidence of AO1–AO4, not as decoration.
+- How to combine digital and hand-made work, and how to photograph or scan your own artwork well.
+- Research into photographers and digital artists, and referencing secondary images.
 
 ## Notes
 
-### Why photographs matter for marks
+### Why photographs help, and their limits
 
-| AO | How photography/digital helps |
+| Use | AO |
 |---|---|
-| AO1 | Study a photographer's style (light, crop, subject) and make photos "in the style of", linking to your idea |
-| AO2 | Try different lighting, edits, filters and processes; review and select the best; combine with other media |
-| AO3 | Record your own observations quickly; capture detail, texture, scale; photograph work as it progresses |
-| AO4 | Present a final photograph or digital piece with control of the formal elements and a personal style |
+| Record a subject you cannot draw on location (movement, crowds, light) | AO1 |
+| Record a first-hand source for later drawing or painting | AO1 |
+| Test compositions quickly | AO2 |
+| Explore processes: editing, double exposure, cyanotype, photograms | AO2 |
+| Study photographers' styles and link them to your work | AO3 |
+| Produce a final photographic outcome | AO4 |
 
-Rule: use **your own photographs** as primary sources. Show the **process**: contact sheet or thumbnail grid, selection, edits, final.
+Limit: examiners want to see skill and personal thinking. A photo dump with no selection, notes or development earns little. Also, **photographs you take yourself count as first-hand**; photos downloaded from the internet are secondary and should be cited.
 
-### Taking better photographs
+### Framing and composition
 
-**Composition**
-- **Rule of thirds:** place the subject on a thirds line or intersection (turn on the phone grid).
-- **Leading lines:** roads, fences, shadows lead the eye to the subject.
-- **Framing:** use doorways or branches to frame the subject.
-- **Viewpoint:** low angle makes things look powerful; high angle makes them look small; close-up shows detail and texture.
-- **Cropping and negative space:** simplify, fill the frame or leave room for mood.
-- **Symmetry, pattern and repetition, contrast** for visual interest.
+- **Rule of thirds:** imagine a 3×3 grid; place the subject along the lines or intersections.
+- **Leading lines:** roads, rails, fences that lead the eye to the focal point.
+- **Frame within a frame:** a doorway or window around the subject.
+- **Symmetry and pattern:** centre composition with repeated shapes.
+- **Cropping:** fill the frame with the subject; cut away distractions.
+- **Negative space:** empty area around a small subject gives calm or isolation.
+- **Viewpoint:** low angle makes a subject powerful; high angle makes it small; close-up shows texture.
+- **Foreground interest** adds depth.
 
-**Light**
-- **Natural light:** soft light on overcast days; low, warm light near sunrise and sunset ("golden hour").
-- **Hard light** (bright midday) gives strong shadows and high contrast.
-- **Backlight and silhouette:** light behind the subject gives dark outlines.
-- **Side light** shows texture and form; **flat front light** looks flat.
-- Photograph the same subject at different times to show how light changes it.
+### Light
 
-**Camera settings (if you use a camera)**
+| Light | Effect |
+|---|---|
+| **Side light** | Long shadows, texture and form |
+| **Backlight / silhouette** | Dramatic shapes, mood |
+| **Golden hour** (soon after sunrise or before sunset) | Warm, soft, flattering |
+| **Overcast** | Soft, even, low contrast; good for portraits and colour |
+| **Hard midday sun** | Strong contrast and harsh shadows |
+| **Artificial / flash / torch** | Controlled, theatrical |
 
-| Setting | What it controls | Creative effect |
-|---|---|---|
-| **Aperture** (f-number) | how much light enters; depth of field | Low f-number (f/2) = blurred background, subject sharp. High (f/16) = everything sharp |
-| **Shutter speed** | how long the sensor is exposed | Fast (1/1000 s) freezes movement; slow (1/15 s or longer) blurs movement |
-| **ISO** | sensitivity to light | Low = clean image; high = brighter in the dark but grainy |
+Use a window, lamp or torch for still-life photographs. Compare shots of the same subject in different light and select the best.
 
-On a phone, tap to focus and adjust exposure, use portrait mode for depth of field, and avoid digital zoom (move closer instead).
+### Camera controls (if available; phones have similar settings)
 
-### Editing and digital techniques
+- **Aperture** controls depth of field: a wide aperture (small f-number, e.g. f/2) gives a blurred background; a narrow aperture (f/16) keeps everything sharp.
+- **Shutter speed:** fast freezes movement; slow shows blur or light trails (use a tripod).
+- **ISO:** sensitivity to light; high ISO adds noise.
+- **Focus and exposure:** tap the subject on a phone; adjust brightness.
+- Take many shots, vary angles, and shoot in good light.
 
-| Technique | What it does | Mark-earning use |
-|---|---|---|
-| **Crop / straighten** | improve composition | show the original and cropped version |
-| **Levels / curves / contrast** | adjust light and dark | make a moodier or brighter image |
-| **Black and white** | removes colour so tone and texture lead | tonal study before drawing |
-| **Colour balance / saturation** | warm or cool the image | experiment with mood |
-| **Layers and masks** | combine images, edit parts | montage, double exposure |
-| **Filters / effects** | stylise | use sparingly and test; avoid default looks |
-| **Photograms / cyanotype** | camera-less images made with objects on light-sensitive paper | an alternative process |
+### Editing digitally
 
-Show **before and after** and write one line on why you edited ("raised contrast to emphasise the rough texture of the wall").
+Free or common tools: Photoshop, Photopea (free, browser), GIMP, Procreate, Lightroom, phone editors.
 
-Digital drawing and design (for example on a tablet or vector software) also count as media. Show the **process** (screenshots of stages, layers, alternatives), and link to your observational drawing.
+| Edit | What it does |
+|---|---|
+| **Crop** | Improves composition |
+| **Exposure / brightness** | Lightens or darkens |
+| **Contrast / curves** | Strengthens tonal range |
+| **Black and white** | Focuses on tone and texture |
+| **Saturation / hue** | Changes colour mood |
+| **Layers and masks** | Combine images and edit parts separately |
+| **Blend modes (multiply, overlay)** | Combine textures and photographs |
+| **Filters** | Quick effects; use with care |
 
-### Building photography into the sketchbook
+Keep the **original** and save versions so you can show before and after. Explain: "I converted to black and white and raised contrast so the textures of the brickwork became the focus."
 
-1. **Contact sheet:** 12–20 small thumbnails of a shoot. Circle the best three, with a reason.
-2. **Selected prints:** a few good photos, printed large enough to see.
-3. **Annotations:** short notes on viewpoint, light and what you intended.
-4. **Development:** draw, paint or print from your best photo, or collage cropped sections.
-5. **Experiments:** double exposure, photocopy and paint, cyanotype, transfer prints, stitch or paint on a print.
-6. **Link to artists:** a study from a photographer and a photo in their style.
-7. **Photograph work in progress:** ruler in shot for large pieces, several angles for 3D.
+### Alternative and traditional processes
 
-Tip: print in black and white (photocopy or printer setting) so you can study tone, then paint colour over it.
+- **Photogram** (Man Ray's "rayographs"): place objects on light-sensitive paper, expose to light.
+- **Cyanotype:** blue sun print on coated paper.
+- **Double exposure / layering** in-camera or digital.
+- **Pinhole camera:** simple camera with a tiny hole.
+- **Photocopy and transfer:** print an image and transfer onto paper or fabric.
+- **Drawing or painting over prints** for mixed media.
 
-### Photographers and digital artists to learn from
+### Photographers and digital artists
 
-- **Ansel Adams:** black-and-white American landscapes with a huge tonal range.
-- **Henri Cartier-Bresson:** street photography and "the decisive moment".
-- **Dorothea Lange:** documentary portraits, including *Migrant Mother* (1936).
-- **Man Ray:** experimental photography, including photograms he called "rayographs".
-- **Cindy Sherman:** staged self-portraits in many roles; identity.
-- **David Hockney:** photographic joiners that show many viewpoints.
-- **Andreas Gursky:** large, detailed images with strong pattern and scale.
+- **Henri Cartier-Bresson:** street photographer; "the decisive moment".
+- **Dorothea Lange:** documentary photographer of the Great Depression (*Migrant Mother*, 1936).
+- **Ansel Adams:** black-and-white American landscapes with very full tonal range.
+- **Man Ray:** experimental photography, photograms.
+- **David Hockney:** "joiners", collages of many photographs forming one scene; shows many viewpoints, a link to cubism.
+- **Vivian Maier:** street photography in Chicago and New York, discovered after her death.
+- **Gregory Crewdson:** staged, cinematic night scenes.
+- **Hannah Höch:** photomontage (cut-up photographs) using printed images.
 
-Choose artists whose approach suits your theme. Explain what you learned from them and test it in your own photos.
+Choose one or two linked to your theme. Take photographs in their style, and write what you learned.
 
-### Originality, copyright and AI
+### Building photographs into the sketchbook (AO1–AO4)
 
-- Use your own photographs; if you use someone else's image, reference it.
-- Any use of Artificial Intelligence must be clearly referenced.
-- Don't submit images that are only filters or downloaded; examiners reward your own recording and decisions.
+1. **Contact sheet:** 12–20 small photographs of one subject; circle the best three.
+2. **Select and explain:** a note on why they work (light, angle, composition).
+3. **Edit:** show original and edited versions with annotation.
+4. **Link to artists:** a page of your photographs in the style of Lange or Hockney, with notes.
+5. **Mix with hand work:** print a photograph and draw or paint over it; or draw the subject, photograph it and edit.
+6. **Plan the final outcome:** thumbnails or a digital mock-up.
+7. **Final outcome:** a printed or digital piece, photographed or exported at high quality.
 
-### In the timed exam
+### Presenting your portfolio
 
-If photography is your title or part of your process: plan shoots in the preparatory period, bring your contact sheets and prints into the exam, and make sure the final outcome is finished within the 10 hours; the editing and printing time counts. Check how your school handles printing and equipment.
+- All work, whether painted, printed or digital, must be submitted digitally to Cambridge.
+- Photograph artwork in even daylight, from straight above, with no flash glare, in focus and well cropped.
+- Scan flat work when you can.
+- Name files clearly and keep a back-up.
+- Make sure text in annotation is readable at screen size.
+- Cite secondary images (source or photographer). Do not pass off others' images as your own.
+
+### Ethics and copyright
+
+- Ask permission before photographing people closely, and avoid private spaces.
+- Do not copy another photographer's work; use it as inspiration and make your own.
+- If you use AI-generated or downloaded images, say so, and remember the work must be your own: examiners reward your recording, development and decisions.
 
 ## Key terms and definitions
 
-- **Composition:** how elements are arranged within the frame.
-- **Rule of thirds:** dividing the image into a 3 × 3 grid and placing the subject on the lines or intersections.
-- **Depth of field:** how much of the picture is in sharp focus from near to far.
-- **Aperture:** the opening in the lens that controls light and depth of field (f-number).
-- **Shutter speed:** how long the sensor is exposed to light.
-- **ISO:** the camera's sensitivity to light; high ISO gives more grain.
-- **Exposure:** the amount of light reaching the sensor.
-- **Contact sheet:** a set of small images showing every frame from a shoot.
-- **Photomontage:** an image made by combining several photographs.
-- **Photogram:** a camera-less image made by placing objects on light-sensitive paper.
-- **Contrast:** the difference between light and dark areas.
-- **Silhouette:** a dark shape against a light background.
+- **Composition:** the arrangement of elements within the frame.
+- **Rule of thirds:** a guide that divides the frame into thirds, with subjects placed along the lines.
+- **Depth of field:** the part of an image, near to far, that is in sharp focus.
+- **Exposure:** the amount of light that reaches the camera sensor or film.
+- **Aperture:** the opening in a lens that controls how much light enters; affects depth of field.
+- **Shutter speed:** how long the camera's shutter stays open.
+- **Photogram:** an image made by placing objects on light-sensitive paper and exposing it.
+- **Photomontage:** an image made by combining photographs.
+- **Layer (digital):** a separate level of an image in editing software that can be adjusted independently.
+- **Digital portfolio:** your work presented online for submission.
 
 ## Worked examples
 
-**1. Describe how you would use light to create a dramatic photograph of a chair. [3]**
-*Model answer:* Place the chair near a window or use a single lamp from one side so strong shadows fall across it (1), lower the exposure slightly to keep the darks deep and create contrast (1), and use a low viewpoint and a plain background so the light and shadow shape form the focal point (1).
+**1. "Explain how a student could use photography for AO1 in a project on 'Windows'." [4]**
 
-**2. Explain why a contact sheet is useful in a sketchbook. [3]**
-*Model answer:* It shows all the photos from one shoot so I can compare angles, light and crops (1). I can circle the best images and explain my selection, which shows review and decision-making (AO2) (1). It shows the progress from recording to the chosen image (AO3) (1).
+Photograph windows at different angles and times (1); take close-ups of frames, reflections and light patterns (1); select the strongest images and say why (1); then use them as sources for drawing or painting, showing first-hand recording (1).
 
-**3. Describe how you could develop a photograph into a painting. [3]**
-*Model answer:* Crop the photo to the strongest composition and print it in black and white to study tone (1). Draw a grid or sketch to transfer the main shapes (1), then paint with a limited palette, changing colour or texture to express my idea instead of copying the photo exactly (1).
+**2. Compare side lighting and overcast light for photographing a textured wall. [3]**
+
+Side light creates long shadows which emphasise the texture (1). Overcast light is soft and even, so texture looks flatter but colour is clearer (1). For a project about texture, side light would be best (1).
+
+**3. Write an annotation for an edited photograph.**
+
+"I cropped the image tightly to the cracked paint, raised the contrast and converted it to black and white to focus on texture. This links to Ansel Adams' wide tonal range. I will use it as a base for a monoprint."
 
 ## Common mistakes
 
-- Using downloaded images instead of your own photos.
-- Dozens of similar snapshots with no selection or annotation.
-- Over-using filters so every image looks the same.
-- Subject in the centre with a messy background; no thought to composition.
-- Shooting only in harsh midday light.
-- Not showing edits or process (just a final image).
-- Printing too small or low quality so examiners cannot see detail.
-- Forgetting to reference AI or other sources.
+- Taking only a few similar photographs, no variety of viewpoint.
+- Photos that are dark, blurry or have distracting backgrounds.
+- Using other people's images without citing them (and not making your own).
+- Over-editing with heavy filters, so the image looks fake and not personal.
+- Pasting in photographs with no annotation, selection or follow-up.
+- Poor photographs of your own paintings (shadows, glare, crooked).
+- Relying on photographs only and avoiding drawing.
+- Forgetting to link the images to your theme and artist research.
 
 ## Practice questions
 
-1. Explain the rule of thirds. [2]
-2. State the effect of a low f-number (wide aperture). [2]
-3. What does a fast shutter speed do? [1]
-4. Give two ways to improve a snapshot using composition. [2]
-5. Name one photographer and describe their approach. [2]
-6. Describe how a contact sheet helps show AO2. [2]
-7. Why should you show a "before and after" of an edit? [2]
-8. What does Pearson require if you use AI in your work? [1]
+1. Name two ways of making a photograph more interesting by using composition. [2]
+2. What is the rule of thirds? [2]
+3. Explain why a student's own photographs are better evidence than internet images for AO1. [2]
+4. State one effect of using a wide aperture. [1]
+5. Describe how a photogram is made. [2]
+6. Give two editing changes and the effect of each. [4]
+7. Why must work that is painted or sculpted still be photographed or scanned for this course? [2]
+8. Name a photographer or digital artist and describe how you could use their work in your own project. [3]
 
 <details><summary>Answers</summary>
 
-1. Divide the frame into a 3 × 3 grid and place the subject on the lines or intersections for a more balanced, interesting composition.
-2. A shallow depth of field: the subject is sharp and the background blurred; more light enters the lens.
-3. It freezes movement.
-4. Any two: use the rule of thirds; use leading lines; frame the subject; change viewpoint (low or high); crop closer; simplify the background.
-5. Any correct example: Cartier-Bresson captured "the decisive moment" in street scenes; Ansel Adams made high-tonal-range black-and-white landscapes; Man Ray made photograms.
-6. It lets you compare shots, select the best with a reason, and show that you reviewed your work before developing it.
-7. It shows the experiment and decision, and a short note explains the reason for the change.
-8. It must be clearly referenced.
+1. Any two: leading lines, rule of thirds, frame within a frame, cropping, unusual viewpoint, negative space (1 + 1).
+2. Divide the image into a 3×3 grid (1); put the main subject on the lines or where they cross, not in the centre (1).
+3. They are primary (first-hand) sources showing personal looking and decisions (1); internet images are secondary and limit the variety and skill shown (1).
+4. A blurred background / shallow depth of field (also: lets in more light).
+5. Place objects on light-sensitive paper (1) and expose it to light, so the covered areas stay light, leaving a silhouette (1).
+6. Any two: crop, to improve composition (2); increase contrast, to strengthen tonal range (2); black and white, to focus on tone and texture (2); saturation, to change colour mood (2).
+7. All work is submitted as a digital portfolio online (1); examiners can only mark what they can clearly see (1).
+8. E.g. Hockney's joiners (1); photograph one subject from many viewpoints and assemble the prints into one image (1); link it to my theme and annotate (1). Accept other correct answers.
 
 </details>
 
 ## Plan for this hour
 
-- **15 min:** Photoshoot of one subject (an object or place): 20 photos with different viewpoints, close-ups and light (window, lamp).
-- **10 min:** Make a contact sheet; circle the best three and write a reason for each.
-- **10 min:** Edit one photo three ways (crop, black and white, high contrast). Print or paste before and after.
-- **15 min:** Draw or paint from your best photo (black and white first for tone).
-- **10 min:** Write short annotations on viewpoint, light and editing, and a one-line link to a photographer's work.
+- 10 min: read the notes; learn the composition rules and the three light types.
+- 20 min: sketchbook task 1: photograph one subject (a chair, your hand, a street) 15 times, varying viewpoint and light; make a contact sheet and circle the best three.
+- 15 min: sketchbook task 2: edit the best photograph (crop, black and white, contrast) and show before and after with annotation; try a quick drawing from it.
+- 10 min: choose one photographer, write two sentences on what to borrow from their work.
+- 5 min: quiz.

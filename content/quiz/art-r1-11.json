@@ -3,48 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What does AO2 ask you to do?",
+   "q": "What is AO2 in Cambridge IGCSE Art & Design?",
    "options": [
-    "Record observations from life only",
-    "Refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes",
-    "Present a personal response",
-    "Research artists"
+    "Record ideas and observations",
+    "Explore and select appropriate resources, media, materials, techniques and processes",
+    "Develop ideas through investigation",
+    "Present a personal and coherent response"
    ],
    "answer": 1,
-   "why": "This is the AO2 wording from the specification."
+   "why": "AO2 Explore: explore and select appropriate resources, media, materials, techniques and processes."
   },
   {
    "type": "mcq",
-   "q": "Why change only one variable in each experiment?",
+   "q": "Why should a failed experiment be kept in your sketchbook?",
    "options": [
-    "It saves paper",
-    "It looks neater",
-    "Examiners require it",
-    "You can tell what caused the result"
+    "It never earns marks",
+    "It makes the page longer",
+    "Examiners only mark the final piece",
+    "With a note on why it failed it shows reflection and refinement"
    ],
    "answer": 3,
-   "why": "Changing one thing lets you judge cause and effect."
+   "why": "The syllabus lists 'reflect, refine and adapt'; annotated failures show this."
   },
   {
    "type": "mcq",
-   "q": "Which is a sign an idea was 'consolidated too early'?",
+   "q": "What is a maquette?",
    "options": [
-    "Several different thumbnails",
-    "Annotated media tests",
-    "Only one composition, no alternatives tested",
-    "A rejected idea explained"
+    "A small preliminary model of a 3D design",
+    "A colour swatch",
+    "A type of lino tool",
+    "A final display board"
    ],
-   "answer": 2,
-   "why": "The lowest AO2 band describes ideas consolidated too early."
+   "answer": 0,
+   "why": "Maquettes test form and structure before the final piece."
   },
   {
    "type": "short",
-   "q": "Explain how a student can show 'experimentation and review' in a sketchbook.",
-   "model": "Try several media or compositions side by side, annotate what worked and what did not, and show a refined next version based on those decisions.",
+   "q": "Describe how you would experiment to show the texture of old walls.",
+   "model": "Try wax resist with ink wash, scraped acrylic and torn paper collage, label each, and select the one that best matches the texture, saying why.",
    "points": [
-    "multiple experiments/compared",
-    "annotation of what worked/why",
-    "refined next step"
+    "at least two different techniques",
+    "notes or review",
+    "selects one with a reason"
    ]
   }
  ]

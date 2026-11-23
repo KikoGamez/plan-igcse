@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which orchestra recorded the Star Wars Main Title?",
+   "q": "Which feature describes a melisma?",
    "options": [
-    "Berlin Philharmonic",
-    "London Symphony Orchestra",
-    "Vienna Philharmonic",
-    "Royal Philharmonic"
+    "One note per syllable",
+    "Many notes sung on one syllable",
+    "A repeated verse tune",
+    "A drone under the melody"
    ],
    "answer": 1,
-   "why": "John Williams recorded it with the London Symphony Orchestra."
+   "why": "Melismatic means several notes on a single syllable."
   },
   {
    "type": "mcq",
-   "q": "Which traditions are blended in Afro Celt Sound System's Release?",
+   "q": "A short theme linked to a character in a film is called a...",
    "options": [
-    "Irish, West African and electronic dance",
-    "Indian, Chinese and rock",
-    "Samba, funk and classical",
-    "Reggae, blues and gamelan"
+    "fanfare",
+    "loop",
+    "leitmotif",
+    "hook"
    ],
-   "answer": 0,
-   "why": "The band fuses Irish folk, West African music and electronic dance."
+   "answer": 2,
+   "why": "Leitmotifs are tied to characters or ideas and recur through the film."
   },
   {
    "type": "mcq",
-   "q": "What is belting?",
+   "q": "In the Cambridge syllabus, 'starting points' for Areas 4–7 are...",
    "options": [
-    "Singing very softly in falsetto",
-    "A loud, strong chest-voice style",
-    "Singing without words",
-    "A type of vocal vibrato"
+    "the only pieces that can appear in the exam",
+    "not prescribed or exhaustive, and used to learn the style",
+    "only for Area 4",
+    "pieces from before 1900"
    ],
    "answer": 1,
-   "why": "Belting is powerful chest-voice singing used in musical theatre."
+   "why": "They are not prescribed: the exam plays other examples of the same style."
   },
   {
    "type": "short",
-   "q": "Describe two ways Esperanza Spalding fuses samba and jazz in Samba Em Prelúdio.",
-   "model": "Samba/bossa nova syncopated rhythm with Portuguese lyrics is combined with jazz chords, improvisation or scat-style singing and a double bass played by the singer.",
+   "q": "Describe two ways music can reflect the meaning of the words in a song. [2]",
+   "model": "Word-painting such as a rising melody for uplifting words; changes in dynamics or texture, or a minor key and slow tempo for sad words.",
    "points": [
-    "Samba rhythm/Portuguese",
-    "Jazz harmony/improvisation/scat"
+    "word-painting/melodic shape",
+    "dynamics/tonality/tempo linked to the text"
    ]
   }
  ]

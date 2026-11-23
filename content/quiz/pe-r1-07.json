@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which principle of training means fitness is lost when training stops?",
+   "q": "A runner increases the length of each run from 30 to 40 minutes. Which letter of FITT is being changed?",
    "options": [
-    "Specificity",
-    "Progressive overload",
-    "Tedium",
-    "Reversibility"
-   ],
-   "answer": 3,
-   "why": "Reversibility is ‘use it or lose it’: gains disappear if training stops or reduces."
-  },
-  {
-   "type": "mcq",
-   "q": "What is the maximum heart rate of a 16-year-old using the standard formula?",
-   "options": [
-    "204 bpm",
-    "196 bpm",
-    "184 bpm",
-    "216 bpm"
-   ],
-   "answer": 0,
-   "why": "220 − 16 = 204 bpm."
-  },
-  {
-   "type": "mcq",
-   "q": "Which method uses exercises such as box jumps and depth jumps to improve power?",
-   "options": [
-    "Fartlek",
-    "Circuit training",
-    "Plyometrics",
-    "Continuous training"
+    "Frequency",
+    "Intensity",
+    "Time",
+    "Type"
    ],
    "answer": 2,
-   "why": "Plyometrics uses explosive bounding and jumping to develop power."
+   "why": "Time is how long each session lasts."
+  },
+  {
+   "type": "mcq",
+   "q": "Which method of training is best for improving power?",
+   "options": [
+    "Continuous training",
+    "Plyometric training",
+    "Fartlek training",
+    "Flexibility training"
+   ],
+   "answer": 1,
+   "why": "Explosive jumps such as depth jumps train power."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the aerobic training zone for continuous training?",
+   "options": [
+    "40–60% of maximum heart rate",
+    "60–80% of maximum heart rate",
+    "80–100% of maximum heart rate",
+    "50–70% of 1 rep max"
+   ],
+   "answer": 1,
+   "why": "Aerobic gains come from working at 60–80% of MHR."
   },
   {
    "type": "short",
-   "q": "Explain why a footballer might use fartlek training in the pre-season.",
-   "model": "Fartlek mixes walking, jogging and sprinting at changing speeds. This matches the varied pace of football and builds both aerobic and anaerobic fitness for the season.",
+   "q": "Explain what is meant by reversibility and why it matters to a performer.",
+   "model": "Reversibility means fitness gained through training is lost when training stops or reduces. It matters because a performer who takes a long break (e.g. through injury) will lose fitness, so must keep training regularly.",
    "points": [
-    "changes of pace / speed play matches football",
-    "improves aerobic and anaerobic fitness"
+    "fitness/adaptations are lost when training stops or reduces",
+    "link to performer: must keep training / loses fitness after break"
    ]
   }
  ]

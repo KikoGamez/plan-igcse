@@ -1,6 +1,6 @@
 # Grammar: perfect and imperfect tenses
 
-> **In the exam:** Past tenses are needed in **every** writing and speaking task: Q7 bullet points almost always ask what you did (*was du gestern / letztes Jahr gemacht hast*), and the speaking conversations must show past, present and future. The **perfect** is the main tense for talking; the **imperfect** is used in writing for *sein, haben*, modals and in the literary text in Reading. Q8 (grammar) often needs a participle or an imperfect form.
+> **In the exam:** Cambridge IGCSE German 0525 expects you to talk about the past in **Paper 4 Writing** (Q2 about 80–90 words; Q3, 130–140 words, 28 marks: both usually ask what you did, e.g. a holiday, a trip, last weekend) and in the **Paper 3 Speaking** topic conversations (*Quality of Language*, 15 marks, rewards a range of tenses). The syllabus lists the **perfect, imperfect and pluperfect**. In **Papers 1 and 2** you must recognise them and *seit* + imperfect to follow a story or a description of events. The **perfect** is the normal tense for talking; the **imperfect** is used for *sein, haben*, modals and *es gab*, and in written narrative.
 
 ## What you need to know
 
@@ -61,7 +61,7 @@ Memory trick: *sein* verbs answer "did something **go somewhere** or **change**?
 
 ### The imperfect (simple past)
 
-Used for **sein, haben, modal verbs** even in speech, and for narrative in writing, stories and the literary text.
+Used for **sein, haben, modal verbs** even in speech, and for narrative in writing, stories and reports.
 
 | | sein | haben | können | müssen | wollen | dürfen | sollen | mögen |
 |---|---|---|---|---|---|---|---|---|
@@ -98,9 +98,9 @@ Used for **sein, haben, modal verbs** even in speech, and for narrative in writi
 - **Written stories, reports:** imperfect is common, but mixing in the perfect is acceptable. Be **consistent within a sentence**.
 - Use a mixture to show range: *Letzten Sommer **sind** wir nach Italien **gefahren**. Das Wetter **war** super und wir **hatten** viel Spaß.*
 
-### Pluperfect (recognition, can be used for top marks)
+### Pluperfect and *seit* with the imperfect
 
-*hatte/war* + participle: *Nachdem ich gegessen hatte, ging ich ins Bett.* (After I had eaten ...) With *nachdem*, the clause uses pluperfect and the main clause the imperfect.
+*hatte/war* + participle: *Nachdem ich gegessen hatte, ging ich ins Bett.* (After I had eaten ...) With *nachdem*, the clause uses pluperfect and the main clause the imperfect. *seit* + imperfect describes something that had been going on up to a past moment: *Ich wohnte seit zwei Jahren in Köln, als meine Eltern umzogen.* (I had been living in Cologne for two years when my parents moved.) With the present, *seit* describes what is still going on now: *Ich wohne seit zwei Jahren in Köln.*
 
 ## Key terms and definitions
 
@@ -115,9 +115,9 @@ Used for **sein, haben, modal verbs** even in speech, and for narrative in writi
 
 **1. Perfect.** *Write in German: Last weekend I went to Berlin and visited a museum.* [4] → *Letztes Wochenende **bin** ich nach Berlin **gefahren** und **habe** ein Museum **besucht**.* Marks: *Letztes Wochenende* (time expression), **bin … gefahren** (sein), **habe … besucht** (no ge- with *be-*), correct word order. Alternative: *ich bin nach Berlin gegangen/gereist*.
 
-**2. Q8-style.** *Gestern (aufstehen) ich um sechs Uhr und (essen) schnell ein Brötchen.* Full answer: *Gestern **stand** ich um sechs Uhr **auf** und **aß** schnell ein Brötchen.* Or in the perfect: *Gestern **bin** ich ... **aufgestanden** und **habe** ... **gegessen**.* Read the sentence: if the gap is a single verb form, the imperfect fits.
+**2. Gap-fill (verbs in brackets).** *Gestern (aufstehen) ich um sechs Uhr und (essen) schnell ein Brötchen.* Full answer: *Gestern **stand** ich um sechs Uhr **auf** und **aß** schnell ein Brötchen.* Or in the perfect: *Gestern **bin** ich ... **aufgestanden** und **habe** ... **gegessen**.* Read the sentence: if the gap is a single verb form, the imperfect fits.
 
-**3. Q7 bullet "was du letztes Jahr in den Ferien gemacht hast".** Model: *Letztes Jahr **sind** wir nach Spanien **geflogen**. Wir **haben** zwei Wochen am Strand **gewohnt**. Das Hotel **war** toll, aber es **gab** nur wenig Platz. Ich **habe** viel **geschwommen** und ich **musste** jeden Abend früh nach Hause.* Mix of perfect, *war*, *es gab*, *musste*: all in the range band.
+**3. Writing bullet (Paper 4 Q3) or Speaking question: "Was hast du letztes Jahr in den Ferien gemacht?"** Model: *Letztes Jahr **sind** wir nach Spanien **geflogen**. Wir **haben** zwei Wochen am Strand **gewohnt**. Das Hotel **war** toll, aber es **gab** nur wenig Platz. Ich **habe** viel **geschwommen** und ich **musste** jeden Abend früh nach Hause.* Mix of perfect, *war*, *es gab*, *musste*: a good range of tenses and structures, which is what earns the language marks.
 
 ## Common mistakes
 

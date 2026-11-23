@@ -2,157 +2,159 @@
  "id": "pe-r1-12",
  "cards": [
   {
-   "f": "Participation",
-   "b": "Taking part in sport or physical activity."
+   "f": "Leisure time",
+   "b": "Free time when work and essential tasks are done."
   },
   {
-   "f": "Why do fewer girls take part in some sports?",
-   "b": "Fewer role models and media coverage, stereotypes, peer pressure and fewer female teams or sessions."
+   "f": "Recreation",
+   "b": "Activity in leisure time for enjoyment."
   },
   {
-   "f": "Barriers for people with disabilities",
-   "b": "Inaccessible facilities, costly specialist equipment, lack of trained coaches, limited provision."
+   "f": "Play",
+   "b": "Spontaneous, enjoyable activity with few rules."
   },
   {
-   "f": "Socio-economic barrier",
-   "b": "Cost of kit, membership and travel can stop lower-income groups taking part."
+   "f": "Sport",
+   "b": "Organised competitive activity with rules."
   },
   {
-   "f": "Commercialisation",
-   "b": "Running sport as a business to make money."
+   "f": "Sports development pyramid",
+   "b": "Foundation, participation, performance, elite (top)."
   },
   {
-   "f": "Golden triangle",
-   "b": "The link between sport, sponsorship and the media: each benefits from the others."
+   "f": "Types of sponsorship",
+   "b": "Financial support; clothing, footwear, equipment; specialist facilities."
   },
   {
-   "f": "Sponsorship",
-   "b": "Support, usually money, from a business in return for advertising."
+   "f": "Sponsorship advantage for performer",
+   "b": "Money or free kit allows full-time training."
   },
   {
-   "f": "Advantage of sponsorship to a performer",
-   "b": "Funds training, equipment and travel, allowing full-time training."
+   "f": "Sponsorship disadvantage for sponsor",
+   "b": "Negative publicity if the performer loses or misbehaves."
   },
   {
-   "f": "Disadvantage of sponsorship",
-   "b": "Pressure to win, sponsor can withdraw, and sponsors may influence the sport."
+   "f": "Types of media",
+   "b": "Television, internet and social media, print, radio."
   },
   {
-   "f": "Positive effect of media",
-   "b": "Raises awareness and participation, shows role models, brings in income."
+   "f": "Media advantage for sport",
+   "b": "More publicity, TV rights money and new participants."
+  },
+  {
+   "f": "Media disadvantage for performer",
+   "b": "Loss of privacy and pressure or criticism."
+  },
+  {
+   "f": "Host nation advantages",
+   "b": "Facilities, home advantage, pride, tourism, jobs, infrastructure, legacy."
+  },
+  {
+   "f": "Professional v amateur",
+   "b": "Professional is paid; amateur is not. The line is now blurred."
+  },
+  {
+   "f": "Technology in sport",
+   "b": "Used by officials (VAR), timing and distance, and performance equipment."
   },
   {
    "f": "Sportsmanship",
-   "b": "Playing fairly, respecting the rules, opponents and officials."
+   "b": "Fair play and respect for opponents and officials."
   },
   {
    "f": "Gamesmanship",
-   "b": "Bending the rules without breaking them to gain an advantage, e.g. time-wasting."
-  },
-  {
-   "f": "Deviance",
-   "b": "Behaviour that breaks the rules or accepted norms, e.g. cheating, drug use, violence."
-  },
-  {
-   "f": "Mean and range",
-   "b": "Mean: total ÷ number of values. Range: highest − lowest."
-  },
-  {
-   "f": "Reliable vs valid data",
-   "b": "Reliable: consistent when repeated. Valid: measures what it claims to measure."
+   "b": "Bending the rules to gain an advantage without breaking them."
   }
  ],
  "gaps": [
   {
-   "s": "Running sport as a business is called ___.",
+   "s": "The lowest level of the sports development pyramid is the ___ level.",
    "a": [
-    "commercialisation",
-    "commercialization"
+    "foundation"
    ]
   },
   {
-   "s": "The golden triangle links sport, sponsorship and the ___.",
+   "s": "The highest level of the pyramid is ___.",
    "a": [
-    "media"
+    "elite"
    ]
   },
   {
-   "s": "Bending the rules without breaking them is called ___.",
+   "s": "A performer paid to take part in sport is a ___.",
+   "a": [
+    "professional"
+   ]
+  },
+  {
+   "s": "Hawk-Eye in tennis is an example of ___ in sport.",
+   "a": [
+    "technology"
+   ]
+  },
+  {
+   "s": "Time-wasting to protect a lead is an example of ___.",
    "a": [
     "gamesmanship"
    ]
   },
   {
-   "s": "Data in numbers, such as times, is called ___ data.",
+   "s": "Shaking hands with opponents shows ___.",
    "a": [
-    "quantitative"
+    "sportsmanship"
    ]
   },
   {
-   "s": "Highest value minus lowest value gives the ___.",
+   "s": "Long-term benefits left after a major event are its ___.",
    "a": [
-    "range"
+    "legacy"
    ]
   },
   {
-   "s": "Data that gives consistent results when repeated is ___.",
+   "s": "The three Ps of increasing participation are promotion, provision and ___.",
    "a": [
-    "reliable"
-   ]
-  },
-  {
-   "s": "Violent behaviour by spectators is called ___.",
-   "a": [
-    "hooliganism"
-   ]
-  },
-  {
-   "s": "Total of the values divided by how many there are gives the ___.",
-   "a": [
-    "mean",
-    "average"
+    "access"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain how role models can increase participation.",
-   "model": "Successful athletes inspire people to try the sport, and people copy what they see. This is stronger when role models are from under-represented groups.",
+   "q": "Give two advantages of media coverage to a sport.",
+   "model": "Increased publicity and more income from TV rights; also inspires more people to take part.",
    "points": [
-    "inspire / copy",
-    "link to participation"
+    "valid advantage",
+    "second valid advantage"
    ]
   },
   {
-   "q": "Give two disadvantages of commercialisation for spectators.",
-   "model": "Ticket and TV subscription prices rise, and kick-off times may be changed to suit television.",
+   "q": "Explain one disadvantage of sponsorship for a sport.",
+   "model": "Sponsors may influence rules or timings, or the sport may suffer if a sponsor has a poor image.",
    "points": [
-    "cost",
-    "schedule changes / over-commercial"
+    "valid disadvantage",
+    "explanation"
    ]
   },
   {
-   "q": "Explain why a bigger sample makes data more reliable.",
-   "model": "A larger sample is more representative and reduces the effect of unusual results, so results are more consistent.",
+   "q": "Describe two benefits of being a host nation.",
+   "model": "New stadia and facilities, and increased tourism and jobs.",
    "points": [
-    "more representative",
-    "reduces unusual results"
+    "valid benefit",
+    "second valid benefit"
    ]
   },
   {
-   "q": "A club had 60 members in 2021 and 72 in 2024. Calculate the percentage increase.",
-   "model": "(72 − 60) ÷ 60 × 100 = 20%.",
+   "q": "Suggest two ways to increase participation among older people.",
+   "model": "Provide low-cost, accessible sessions and promote activities suited to older people.",
    "points": [
-    "change 12",
-    "20%"
+    "valid strategy",
+    "second valid strategy"
    ]
   },
   {
-   "q": "Give two ways of controlling violence by spectators.",
-   "model": "Use stewards, CCTV and segregate rival fans. Ban alcohol and issue banning orders for offenders.",
+   "q": "Explain the difference between sportsmanship and gamesmanship.",
+   "model": "Sportsmanship is fair play and respect; gamesmanship bends rules to gain an advantage.",
    "points": [
-    "stewards / CCTV / segregation",
-    "bans / alcohol rules"
+    "sportsmanship defined",
+    "gamesmanship defined"
    ]
   }
  ]

@@ -1,154 +1,146 @@
 # Exam format, set works and listening skills
 
-> **In the exam:** Music is assessed by two coursework components (Performing and Composing, 30% each) and one written listening exam, the **Appraising** paper (1 hour 45 minutes, 80 marks, 40%). The listening paper is played from a recording: short questions (1–4 marks), dictation (filling in missing notes or rhythms), questions on unfamiliar music, and one **12-mark extended answer** comparing a set work with an unfamiliar piece. This session is about how the exam works and how to listen for marks.
-
-**Specification note.** Pearson does not list a separate International GCSE in Music. The Pearson Edexcel qualification for music is the **GCSE (9-1) Music, code 1MU0**, which is what this course follows (areas of study, set works and paper structure below). If your teacher gives you a different set-work list, follow your teacher's list.
+> **In the exam:** Everything in this topic feeds **Paper 1 Listening** (about 1 hour 15 minutes, 70 marks, 40% of the qualification). You answer questions on **eight short recorded extracts**; at least one comes from each of the seven areas of study. Seven extracts have multiple-choice and short-answer questions; one has a **short descriptive question** (a few lines or a paragraph on the features of the music). Each extract is worth 6 to 16 marks and is played 3 to 5 times. All marks are for AO1 Listening: hearing, using correct terminology, and commenting on music.
 
 ## What you need to know
 
-- The three components: Performing (30%), Composing (30%), Appraising (40%, written listening paper).
-- The four **areas of study** and the eight **set works** (two per area).
-- The musical elements you are tested on: melody, harmony and tonality, rhythm and metre, texture, structure, timbre and sonority, dynamics, tempo.
-- How to recognise instruments, voices, textures and structures by ear.
-- How to answer 1–4 mark questions, dictation questions and the 12-mark extended answer.
+- The three components: Paper 1 Listening (40%), Component 2 Performing (30%), Component 3 Composing (30%).
+- The structure of Paper 1: eight extracts, 70 marks, each extract played 3 to 5 times, one extract per area of study at least.
+- The seven areas of study: 1 Baroque, 2 Classical, 3 Romantic, 4 Music and words, 5 Music for dance, 6 Music for small ensemble, 7 Music for stage and screen.
+- The **focus works** for areas 1 to 3 (you study them to learn skills; they are **not** used in the exam).
+- The question types: identify, describe, compare passages, follow a printed score, identify key, missing melody or rhythm (multiple choice), chords and cadences, intervals, transposition, composer from options, context/style, structure letters (e.g. AABA).
+- How to use the playing times and the musical vocabulary of the syllabus list.
 
 ## Notes
 
-### The three components
+### 1. The whole qualification
 
-| Component | What | Marks / weighting |
+| Component | What | Marks | Weight |
+|---|---|---|---|
+| Paper 1 Listening | Written paper on recorded extracts, externally marked | 70 | 40% |
+| Component 2 Performing | Solo piece + performing with others, recorded; each part at least 2 min, total no more than 10 min | 50 | 30% |
+| Component 3 Composing | Two contrasting compositions | 50 | 30% |
+
+Components 2 and 3 are coursework: marked by your teacher and moderated by Cambridge. Topic 12 covers them. This topic is about Paper 1.
+
+### 2. The seven areas of study
+
+| # | Area | Focus / starting points |
 |---|---|---|
-| 1 Performing | Solo performance and ensemble performance (total at least 4 minutes) | 60 marks, 30% |
-| 2 Composing | Two compositions (total at least 3 minutes): one to a brief set by Pearson, one free | 60 marks, 30% |
-| 3 Appraising | Written exam, 1 h 45 min, using a CD or audio recording | 80 marks, 40% |
+| 1 | **Baroque** | Focus works: Vivaldi *Spring* (*The Four Seasons*), 1st mvt (Allegro); Handel *Concerto Grosso in D major, Op. 6 No. 5*, mvts 1, 2, 4 and 6 |
+| 2 | **Classical** | Focus work: Mozart *Quintet for piano and winds in E♭, K. 452*, 1st mvt (Largo – Allegro moderato) |
+| 3 | **Romantic** | Focus work: Smetana *Vltava* from *Má vlast* |
+| 4 | **Music and words** | Art song, choral music, popular song and musicals (20th century to now) |
+| 5 | **Music for dance** | Tango, salsa, EDM |
+| 6 | **Music for small ensemble** | Silk and bamboo ensembles, Hindustani classical music, Arab takht ensembles |
+| 7 | **Music for stage and screen** | Ballet, film and video-game music |
 
-Performing and Composing are marked by your teacher and moderated by Pearson. The Appraising paper is the one you sit in the mock. It is not a "hard facts" exam: most marks are for **listening carefully and using correct music vocabulary**.
+**Important:** the exam extracts for areas 1 to 3 are *not* the focus works. They are **different pieces** related to the focus works in genre, structure or style. So learn the *features* (e.g. what a concerto grosso sounds like), not the pieces by heart. Your teacher may also give you your own set of wider-listening pieces. If your teacher's list differs from this one, follow your teacher's list (check your set-work list).
 
-### The four areas of study and eight set works
+### 3. What the questions ask you to do
 
-Check your own set-work list with your teacher: the table is the standard list for this specification.
+Cambridge says that in the extracts you may be asked to:
 
-| Area of study | Set work 1 | Set work 2 |
-|---|---|---|
-| 1 Instrumental Music 1700–1820 | J. S. Bach: Brandenburg Concerto No. 5 in D major, 1st movement | Beethoven: Piano Sonata No. 8 in C minor (Pathétique), 1st movement |
-| 2 Vocal Music | Purcell: Music for a While | Queen: Killer Queen |
-| 3 Music for Stage and Screen | Stephen Schwartz: Defying Gravity (from the musical Wicked) | John Williams: Main Title/Rebel Blockade Runner (Star Wars Episode IV) |
-| 4 Fusions | Afro Celt Sound System: Release | Esperanza Spalding: Samba Em Preludio |
+- identify, describe or comment on any feature of the music or its performance;
+- compare passages within the extract (e.g. "How does the second half differ from the first?");
+- follow a printed score (treble, alto or bass clef);
+- identify the key of a printed passage;
+- pick the missing melody or rhythm from multiple-choice options;
+- identify chords and cadences; name printed intervals;
+- transpose a short passage for a transposing instrument to concert pitch;
+- pick the composer from options; comment on context or style;
+- identify the structure with letters (e.g. AABA) or terms (binary, ternary, rondo…).
 
-Each set work has its own detailed notes in later sessions. In this session, remember **one sentence per work** so you can place it:
+### 4. A listening routine for each extract
 
-- **Bach**: Baroque concerto, harpsichord soloist plus flute and violin, ritornello form.
-- **Beethoven**: Classical piano sonata, sonata form, dramatic C minor.
-- **Purcell**: Baroque song for voice and continuo over a ground bass.
-- **Queen**: 1970s rock band song with layered vocals and guitars, verse-chorus structure.
-- **Schwartz**: musical theatre song building to a big finale, key changes.
-- **Williams**: orchestral film score with brass fanfare and leitmotifs.
-- **Afro Celt Sound System**: Celtic and West African traditions plus electronic dance music.
-- **Spalding**: Brazilian samba with jazz voice and double bass.
+The extract is played 3 to 5 times, so use the plays on purpose:
 
-### The Appraising paper
+1. **Before play 1** – read all the questions and the area of study printed on the paper. This tells you the style (e.g. "Baroque concerto" means think ritornello, harpsichord continuo, terraced dynamics).
+2. **Play 1** – listen for the big picture: instruments, texture, tempo, mood, key (major or minor). Answer the easy multiple-choice questions.
+3. **Play 2 and 3** – target the hard questions: the rhythm, melodic direction, cadence, the printed score. Follow the notation with your finger.
+4. **Last play** – check answers. Do the descriptive question here if there is one.
 
-- **Section A (68 marks)** has questions on the set works (you hear short extracts and answer on elements, instruments, structure, context), a **dictation** question and a question on **unfamiliar music**.
-- **Section B (12 marks)** is one extended question: compare a set work you studied with an unfamiliar piece played in the exam, in relation to elements and context.
-- Questions give you a stem such as "Name the instrument playing the melody", "Describe the texture", "Identify the cadence at the end", "Explain how the composer creates tension". Number of marks = number of points needed.
-- Exact question order and mark split can vary by series. Look at a real Pearson Sample Assessment Material (SAM) or past paper before the mock.
+Never leave a multiple-choice question blank. Never leave a short-answer line blank.
 
-### Listening skills: a method for every extract
+### 5. How to describe music (the short descriptive question)
 
-Hear the extract (usually 2–3 times). Use this order, and the element checklist after it:
+Use a **checklist** every time: **M**elody, **H**armony and tonality, **R**hythm and metre and tempo, **T**exture, **S**tructure, **D**ynamics and articulation, **I**nstruments and timbre. Remember **"MHRTSDI"**.
 
-1. **Before it plays**, read the question and underline the element (e.g. "texture", "rhythm", "instrument").
-2. **First hearing**: get the big picture. What instruments? Fast or slow? Major or minor? Solo or group?
-3. **Second hearing**: answer. Write short phrases, use music words.
-4. **Final hearing**: check, and fix.
+Marks are for *specific, correct features with the right term*, not for general words like "nice" or "exciting".
 
-| Element | Ask yourself |
+| Weak | Strong |
 |---|---|
-| **M**elody | Steps or leaps? Rising or falling? Ornaments? Repeated (sequence)? |
-| **A**rticulation/dynamics | Smooth (legato) or detached (staccato)? Loud, quiet, crescendo? |
-| **H**armony and tonality | Major or minor? Chords change fast or slow? Cadence? Modulation? |
-| **R**hythm and metre | Fast, slow, regular, syncopated? Time signature feel 2, 3, 4? |
-| **T**exture | Melody and accompaniment (homophonic)? Layers (polyphonic)? Unison? |
-| **I**nstruments/voices | Family, playing technique, voice type, effects |
-| **S**tructure | Verse, chorus, repeated section, ritornello, ground bass |
-| **T**empo | Fast/slow, speeding up (accelerando) or slowing |
+| "The music gets louder." | "A **crescendo** leads to a **tutti** at the end." |
+| "The violin plays fast notes." | "The solo violin plays fast **scalic** passages and **arpeggios**." |
+| "It sounds sad." | "It is in a **minor** key with a slow tempo and a **descending** melody." |
 
-### Writing good answers
+Make a point, then back it with a musical detail: **point + term + where in the extract** ("at the start", "in the second half").
 
-- **Be specific.** "Fast and exciting" scores nothing. "Allegro with running semiquaver passages in the violin" does.
-- **Use the term, then the evidence.** "The texture is polyphonic, as the flute and violin enter one after the other with the same tune."
-- **Context questions** (why was it written like this?): link to period or style. Baroque: harpsichord continuo, ornamentation, terraced dynamics. Classical: balanced phrases, clear cadences, wide dynamic range on the piano.
-- For a **2-mark** question give two separate points. For **4 marks** give four, or two points with a reason.
-- Never leave a blank. In a dictation question, a pitch right earns a mark even if the rhythm is wrong.
+### 6. Using the syllabus vocabulary
 
-### The 12-mark comparison (Section B)
-
-You compare a set work with an unfamiliar piece. A secure plan:
-
-1. Choose 3 or 4 elements (e.g. texture, instruments, rhythm, structure).
-2. For each, write **one similarity and one difference**, with evidence from both pieces.
-3. Add one sentence on **context** (period, purpose, style).
-4. Use the comparing words **"whereas", "both", "in contrast".**
-5. Aim for about 20 minutes and around 250–300 words.
+Cambridge publishes the vocabulary it expects. Topics 2 to 6 teach all of it: melody and scales, harmony and tonality, rhythm and tempo, texture and structure, instruments and techniques. Learn the words *and what they sound like*.
 
 ## Key terms and definitions
 
-- **Area of study**: one of the four topic groups (Instrumental Music 1700–1820, Vocal Music, Music for Stage and Screen, Fusions) used to organise the set works.
-- **Set work**: a piece you must study in detail for the Appraising paper.
-- **Appraising**: listening to music and making judgements about it using musical vocabulary.
-- **Dictation**: writing down notes or rhythms you hear, usually on a partly completed stave.
-- **Unfamiliar music**: a piece you have not studied, played in the exam, that you analyse with the same skills.
-- **Context**: when, why and for whom the music was written.
-- **Elements of music**: melody, harmony, tonality, rhythm, metre, texture, structure, timbre, dynamics, tempo, articulation.
+- **Area of study:** one of the seven groups of music you must know for Paper 1.
+- **Focus work:** a piece studied in class to exemplify the features of an area of study; it is not used in the exam.
+- **Extract:** a short excerpt of recorded music played in the exam.
+- **Concert pitch:** the actual sounding pitch, as opposed to the written pitch of a transposing instrument.
+- **Terminology:** the correct musical words (e.g. *ostinato*, *pizzicato*) required to earn marks.
+- **Structure:** how a piece is organised into sections, shown with letters (A B A) or terms (rondo).
 
 ## Worked examples
 
-**1. "Name two ways the composer creates a feeling of excitement in this extract." [2]**
-Model answer: "Fast tempo with running quavers (1). Loud dynamics with the full orchestra playing (1)." Each answer names a musical feature; "it sounds exciting" earns nothing.
+**1. An extract is labelled "Area of study 1: Baroque music". One question asks: "Describe two features of the music that show it is from the Baroque period." [4]**
 
-**2. "Describe the texture of this extract." [2]**
-Model answer: "Polyphonic (1) because the flute and violin play the same melody at different times / imitate each other (1)." Term plus evidence.
+Model answer: "There is a **harpsichord playing continuo** (a bass line with chords) throughout [1] with a cello or double bass on the bass line [1]. The music has **terraced dynamics** (suddenly loud, then suddenly quiet) rather than gradual changes [1] and a **ritornello** theme that keeps returning played by all the strings [1]."
+*How the marks work:* each feature is named (1) and, where possible, backed with a detail.
 
-**3. "Compare the use of instruments in the set work and the unfamiliar piece." (part of Section B)**
-Model paragraph: "Both pieces use a solo instrument as the focus, **whereas** in the Bach the soloist is a harpsichord with flute and violin, the unfamiliar piece has a solo trumpet. In the set work the continuo accompanies on harpsichord and cello, but in the unfamiliar piece the accompaniment is a modern rhythm section." Points: similarity, difference, named instruments in both pieces.
+**2. A printed bar shows a clarinet in B♭ with a written note C. "Give the concert pitch." [1]**
+
+Answer: **B♭.** The B♭ clarinet sounds a major 2nd lower than written.
+
+**3. Extract is in 3 sections. "Show the structure using letters." [2]**
+
+If the first and third sections are the same tune and the middle section has a new tune: **A B A** (ternary). If the first section is repeated and then there is a new section: A A B. Always write letters with spaces and capitals.
 
 ## Common mistakes
 
-- Writing "loud" or "exciting" with no musical term or evidence.
-- Mixing up **tempo** (speed) with **rhythm** or **dynamics** (volume).
-- Naming only the instrument family when the question wants the exact instrument, or the reverse.
-- Answering with set-work facts when the question is about the unfamiliar extract (and vice versa).
-- Giving one point for a 3 or 4-mark question.
-- In Section B: describing one piece only, not comparing.
+- Trying to learn the focus works by heart for the exam. The exam uses *other* pieces; learn the features.
+- Writing vague words ("It sounds happy", "it is fast") with no musical term.
+- Leaving the multiple-choice questions until the end and then guessing blank.
+- Not reading the area of study printed on the paper, which tells you what to expect.
+- Writing one long sentence for a 4-mark question. Make four separate, checkable points.
+- Writing "ascending" when the notes go down. Check with your finger on the score.
 
 ## Practice questions
 
-1. State the weighting and length of the Appraising paper. [2]
-2. Name the four areas of study. [4]
-3. Which area of study does Queen's *Killer Queen* belong to? [1]
-4. Name the composer of *Brandenburg Concerto No. 5* and the period in which it was written. [2]
-5. Give two things you should do before the extract is played in a listening question. [2]
-6. A question says "Describe the rhythm of the melody. [3]" Why is "it is fast" not enough? Give a better answer style. [3]
-7. Give one similarity and one difference you could mention when comparing a Baroque piece with a pop song. [2]
-8. How should you use the time in Section B (12 marks)? [3]
+1. State the duration, total marks and percentage weighting of Paper 1 Listening. [3]
+2. Name the three components of Cambridge IGCSE Music. [3]
+3. How many extracts are there in Paper 1, and how many times is each played? [2]
+4. Name the seven areas of study. [7]
+5. Name the focus work for the Romantic area of study and its composer. [2]
+6. A trumpet in B♭ is written D. What sounds at concert pitch? [1]
+7. Give the letters for a structure in which the first section returns after a contrasting middle section. [1]
+8. Give three things you should do before the first play of an extract. [3]
 
 <details><summary>Answers</summary>
 
-1. 40% of the qualification (1) and 1 hour 45 minutes (1).
-2. Instrumental Music 1700–1820; Vocal Music; Music for Stage and Screen; Fusions.
-3. Vocal Music.
-4. J. S. Bach (1); Baroque (1).
-5. Read the question (1) and underline the element being tested (1). Also accept: decide what to listen for.
-6. It is one point and does not use a term (1). Name features such as tempo, note values, syncopation or dotted rhythms (1) and give evidence from the extract (1).
-7. Any sensible pair, e.g. both have a bass line / a steady beat (1); the Baroque piece uses harpsichord or orchestra whereas the pop song uses guitar, drum kit and vocals (1).
-8. Choose 3–4 elements (1); one similarity and one difference for each, with evidence from both pieces (1); add context and use "whereas" / "in contrast" (1). About 20 minutes.
+1. About 1 hour 15 minutes; 70 marks; 40%.
+2. Listening (Paper 1), Performing (Component 2), Composing (Component 3).
+3. Eight extracts; each played between three and five times.
+4. Baroque; Classical; Romantic; Music and words; Music for dance; Music for small ensemble; Music for stage and screen.
+5. *Vltava* from *Má vlast*, by Smetana.
+6. C (a major 2nd lower than written).
+7. A B A.
+8. Read all the questions; note the area of study printed on the paper; decide what features to listen for in that style (e.g. instruments, texture, tempo).
 
 </details>
 
 ## Plan for this hour
 
-- 10 min: read the component table and the set-work table; say the one-line summary for each work aloud.
-- 15 min: learn the element checklist and the answer rules (term plus evidence).
-- 15 min: do the worked examples and practice questions.
-- 15 min: listen to one set-work extract and answer: instruments, texture, tempo, structure.
-- 5 min: write a 4-sentence comparison of two pieces you know.
+- 10 min: read the format and area-of-study tables; cover and recite the seven areas and the three components.
+- 15 min: learn the question types and the MHRTSDI checklist; write one example sentence for each letter.
+- 15 min: listen to any piece from your own list (or a Baroque concerto movement) three times following the routine and write a 5-point description.
+- 10 min: do the practice questions without the answers; mark them.
+- 10 min: quiz and flashcards.

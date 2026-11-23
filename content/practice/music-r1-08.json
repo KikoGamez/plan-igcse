@@ -2,162 +2,161 @@
  "id": "music-r1-08",
  "cards": [
   {
-   "f": "Riff",
-   "b": "A short repeated melodic or rhythmic pattern, e.g. a guitar riff."
+   "f": "Romantic period dates",
+   "b": "c.1820–1900."
   },
   {
-   "f": "Hook",
-   "b": "A catchy idea, often in the chorus, that stays in the mind."
+   "f": "Programme music",
+   "b": "Music that tells a story or paints a picture."
   },
   {
-   "f": "Backbeat",
-   "b": "Emphasis on beats 2 and 4 in rock and pop."
+   "f": "Symphonic poem",
+   "b": "Single-movement orchestral work based on a story, poem or scene; Vltava is one."
   },
   {
-   "f": "12-bar blues",
-   "b": "I–IV–I–V–IV–I pattern over twelve bars; uses blue notes."
+   "f": "Má vlast",
+   "b": "'My Homeland': Smetana's cycle of six symphonic poems; Vltava is the second."
   },
   {
-   "f": "Blue notes",
-   "b": "Flattened 3rd, 5th and 7th degrees in blues."
+   "f": "Nationalism in music",
+   "b": "Using a country's folk tunes, dances or stories to express national identity."
+  },
+  {
+   "f": "Rubato",
+   "b": "Flexible tempo: speeding up and slowing down expressively."
+  },
+  {
+   "f": "Chromatic harmony",
+   "b": "Harmony using many notes from outside the key; richer and more tense."
+  },
+  {
+   "f": "Romantic orchestra",
+   "b": "Larger than Classical: more brass, piccolo, harp, more percussion."
   },
   {
    "f": "Leitmotif",
-   "b": "A recurring theme linked to a character, place or idea."
+   "b": "A short recurring theme linked to a character, object or idea."
   },
   {
-   "f": "Diegetic music",
-   "b": "Music the characters in the film can hear."
+   "f": "Ostinato",
+   "b": "A short pattern repeated many times."
   },
   {
-   "f": "Non-diegetic",
-   "b": "The score; only the audience hears it."
+   "f": "Tremolo",
+   "b": "Very rapid repetition of a note, e.g. on strings, to create tension."
   },
   {
-   "f": "Underscore",
-   "b": "Quiet music beneath dialogue or action."
+   "f": "Pizzicato",
+   "b": "Plucked strings."
   },
   {
-   "f": "Mickey-mousing",
-   "b": "Music that copies the action on screen exactly."
+   "f": "Polyrhythm",
+   "b": "Two or more different rhythms played at the same time."
   },
   {
-   "f": "Multi-tracking",
-   "b": "Recording parts separately and layering them."
+   "f": "Stravinsky: The Rite of Spring",
+   "b": "Ballet from 1913 famous for driving rhythm, irregular metre and dissonance."
   },
   {
-   "f": "Reverb",
-   "b": "Echo effect that simulates a room or hall."
+   "f": "Vltava river theme",
+   "b": "Main recurring melody; minor at first, later in major; changes instrument and dynamic."
   },
   {
-   "f": "Sampling",
-   "b": "Re-using part of an existing recording in a new track."
-  },
-  {
-   "f": "Reggae rhythm",
-   "b": "Off-beat guitar chords (skank), melodic bass, slow-moderate tempo."
-  },
-  {
-   "f": "Bridge (middle eight)",
-   "b": "A contrasting section, usually after the second chorus."
+   "f": "Overture",
+   "b": "Orchestral piece before a drama; a concert overture stands alone, e.g. Mendelssohn."
   }
  ],
  "gaps": [
   {
-   "s": "A short repeated pattern in a rock song is a ___.",
+   "s": "Smetana's Vltava is a symphonic ___.",
    "a": [
-    "riff"
+    "poem"
    ]
   },
   {
-   "s": "A rock drummer emphasises beats 2 and 4, called the ___.",
+   "s": "Music that tells a story is called ___ music.",
    "a": [
-    "backbeat"
+    "programme",
+    "program"
    ]
   },
   {
-   "s": "Music that characters can hear in a film is ___.",
+   "s": "Using folk tunes to show national identity is called ___.",
    "a": [
-    "diegetic"
+    "nationalism"
    ]
   },
   {
-   "s": "A theme linked to a character in a film is a ___.",
+   "s": "Flexible speeding up and slowing down of the tempo is ___.",
+   "a": [
+    "rubato"
+   ]
+  },
+  {
+   "s": "A short theme tied to a character is a ___.",
    "a": [
     "leitmotif"
    ]
   },
   {
-   "s": "12-bar blues uses chords I, IV and ___.",
+   "s": "Plucked strings are played ___.",
    "a": [
-    "v",
-    "five",
-    "5"
+    "pizzicato"
    ]
   },
   {
-   "s": "Recording parts separately and layering them is called ___.",
+   "s": "The Rite of Spring was written by ___.",
    "a": [
-    "multi-tracking",
-    "multitracking",
-    "multi tracking",
-    "overdubbing"
+    "stravinsky",
+    "igor stravinsky"
    ]
   },
   {
-   "s": "A contrasting section in a pop song is the ___.",
+   "s": "Vltava is the second piece in Má ___.",
    "a": [
-    "bridge",
-    "middle eight"
-   ]
-  },
-  {
-   "s": "Music that copies the action on screen is called ___.",
-   "a": [
-    "mickey-mousing",
-    "mickey mousing"
+    "vlast"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the main features of a typical pop song structure.",
-   "model": "Intro, verses, repeated chorus with a hook, a contrasting bridge, and an outro; often a four-chord loop.",
+   "q": "Give three features of Romantic music.",
+   "model": "Expressive lyrical melody, chromatic harmony, large orchestra, wide dynamics and tempo changes, programme music, nationalism.",
    "points": [
-    "Verse–chorus structure",
-    "Bridge/middle eight for contrast"
+    "feature 1",
+    "feature 2 (three needed)"
    ]
   },
   {
-   "q": "Explain how a leitmotif can show a change in a character.",
-   "model": "The theme returns but is changed, e.g. minor key, slower, different instrument, showing a change in the character or situation.",
+   "q": "Explain how Vltava shows nationalism.",
+   "model": "It depicts a Czech river and uses a folk-style polka for the wedding scene, expressing the national identity of Bohemia.",
    "points": [
-    "Theme returns",
-    "Altered in key/tempo/instrument"
+    "Czech subject",
+    "folk dance/polka"
    ]
   },
   {
-   "q": "Name two production effects used on a vocal and describe each.",
-   "model": "Reverb gives the sound of a large space; delay repeats the sound as an echo; auto-tune corrects pitch.",
+   "q": "How does Smetana use the river theme to hold the piece together?",
+   "model": "It returns many times, changed in key (minor to major), orchestration and dynamic, so there is unity and variety.",
    "points": [
-    "Named effect",
-    "Correct description"
+    "recurring theme",
+    "changed each time"
    ]
   },
   {
-   "q": "Give two differences between diegetic and non-diegetic music.",
-   "model": "Diegetic is heard by the characters and comes from the film world; non-diegetic is the score added for the audience only.",
+   "q": "Describe how film composers use the orchestra to build tension.",
+   "model": "Tremolo strings, dissonant chords or clusters, ostinato, a gradual crescendo and rising sequences, low brass and percussion.",
    "points": [
-    "Diegetic heard by characters",
-    "Non-diegetic only audience"
+    "two named techniques",
+    "linked to tension"
    ]
   },
   {
-   "q": "Describe two typical features of jazz.",
-   "model": "Swung rhythms and syncopation, improvisation, walking bass, extended chords.",
+   "q": "Compare a Romantic and a Classical orchestra.",
+   "model": "The Romantic orchestra is larger with more brass, percussion, piccolo and harp, giving a bigger sound and more colours.",
    "points": [
-    "Improvisation/swing",
-    "Syncopation or walking bass"
+    "Romantic larger",
+    "added instruments"
    ]
   }
  ]

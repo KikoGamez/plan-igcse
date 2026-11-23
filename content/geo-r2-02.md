@@ -1,62 +1,63 @@
-# Past paper · Paper 2 timed (1/2)
+# Past paper · Paper 1 timed (2/2)
 
-> **Goal:** Start a complete Pearson Edexcel International GCSE Geography Paper 2 (Human geography) in exam conditions and work steadily for 60 minutes: all of Section A and the start of Section B, so you practise pacing across the 1 hour 45 minute paper.
+> **Goal:** Finish the Paper 1 you started: complete the unfinished Theme 2 question, do a Theme 3 question under timed conditions, then mark the whole paper with the official mark scheme and turn your errors into a revision list.
 
 ## Before you start
 
-- **Paper:** Pearson Edexcel International GCSE Geography **Paper 2: Human geography, 4GE1/02** (or 4GE1/02R). Use a real past paper you have not seen: for example the **June 2024 (4GE1/02R)** paper or other June/November series, or the Sample Assessment Materials, from the Pearson Qualifications website (Geography, International GCSE 2017, Exam materials). Print the question paper **and the Resource Booklet**. Do not open the mark scheme.
-- **Timer:** 60 minutes now; the remaining 45 minutes come in the next session, giving the full 1 h 45.
-- **Equipment:** black pen, pencil, ruler, **calculator**. No notes, no phone.
-- **Choose before you start:** two Section A questions out of economic activity and energy, rural environments, urban environments; one fieldwork question in Section B (the one that matches your own enquiry); one Section C question (next session).
+- **Paper:** the same Cambridge IGCSE Geography **Paper 1 Geographical Themes** from the previous session (for example May/June 2025 Paper 12, 0460/12). You need the question paper with your first answers, and now the **mark scheme** (and examiner report if available) for the same series and variant.
+- **Have ready:** black pen for the exam part and a **different colour pen** (green or red) for marking. Calculator, ruler, timer.
+- **Timer:** you have **45 minutes** of writing left for the 105-minute paper: about 10 minutes to finish the Theme 2 question, then about 35 minutes for your Theme 3 question. Use the remaining time of the hour to mark.
+- Keep the mark scheme closed until the timer ends.
 
 ## Exam format reminder
 
-- **Paper 2: 1 hour 45 minutes, 105 marks, 60% of the qualification.** Calculator allowed. Resource Booklet provided.
-- **Section A (50 marks): two questions of three, 25 marks each**: Q1 Economic activity and energy, Q2 Rural environments, Q3 Urban environments. Each typically has: MCQs and 1-mark items (a), a 2-mark "suggest" with a figure, a 4-mark "explain two/one and one", a **named case study** 4-mark question, a 3-mark "suggest", and an **8-mark "Analyse..."** with a resource.
-- **Section B (20 marks): one of three** fieldwork questions (Q4 economic activity and energy, Q5 rural, Q6 urban): state your enquiry title; sampling; manage a risk (2); use of equipment (2); advantage and disadvantage of a data method (4); accuracy (3); **8-mark evaluation** of data presentation (resources).
-- **Section C (35 marks): one of three** (Q7 fragile environments and climate change, Q8 globalisation and migration, Q9 development and human welfare): includes a 6-mark "Assess" and a **12-mark** "Discuss the view".
-- Today covers Section A (50 marks) and the first part of Section B (up to the equipment question), about 60 marks of the paper by time.
+- **Paper 1: 1 h 45 min, 75 marks.** Three questions, one from each theme, **25 marks each**.
+- Theme 3 (Economic development): development and indicators, food production, industry, tourism, energy, water, environmental risks. It includes data (graphs, tables) and a named case study in the last part.
+- Mark schemes: points-based for short parts; **levels** (Level 1, 2, 3) for the longest answer. Top level needs: relevant points, developed explanation, **place-specific detail** and, where asked, a judgement.
 
 ## How to do it
 
-1. **0–2 min** – Read the cover and decide your two Section A questions, your Section B question and your Section C question. Write the planned finishing time.
-2. **2–27 min** – **Section A first question** (25 marks). About 1 minute per mark; spend about 9 minutes on the 8-mark answer (plan in 1 minute: three points with figures).
-3. **27–52 min** – **Section A second question** (25 marks), same pacing. Name your case-study country and give figures where asked.
-4. **52–60 min** – **Section B**, starting the fieldwork question: title, sampling, risk, equipment (about 5 marks). Stop at 60 minutes.
-5. **At 60 minutes** – Draw a line under your last answer and write "60". Note which question you reached and the time at the end of each question. Keep the paper (and your pen colour) for the next session.
-6. Do not mark and do not look at notes before the next session.
+1. **0–10 min:** Finish the Theme 2 question where you stopped. Write quickly and fully; do not start again.
+2. **10–45 min:** **Theme 3 question.** Read both options, choose, then answer all parts. Do the short parts in about 20 minutes, and give the 7-mark answer about 10 minutes (plan three points with examples). Write "stop" at the end of the time.
+3. **45–50 min:** Put down your black pen. Check you have answered every part of all three questions (circle any gaps). Do not rewrite.
+4. **50–60 min:** **Mark** your answers with the mark scheme, in colour:
+   - tick each mark point you earned; note the mark total in the margin for each part;
+   - for levels answers, read the level descriptors, decide the level and a mark;
+   - write the **missing point** next to every part where you lost marks.
+5. **Finish marking after the hour if needed** (the full mark can take 30 more minutes). Add up the total out of 75.
+6. **Make a list** of the topics where you lost most marks and mark them for revision.
 
 ## Exam technique for this paper
 
-- **Use the resource** in any "Study Figure..." question: quote data (e.g. "informal employment rises from 30% to 50%"), then explain.
-- **"Explain two..." for 4 marks:** two separate ideas, each developed ("because" / "so"). Do not repeat.
-- **"For a named developed/developing country":** write the name first and add place-specific detail (dates, figures, places, policies). Without a name you cannot get the marks.
-- **"Suggest" questions** want a sensible reason linked to the figure shown. 1 mark for reason, then development.
-- **8-mark "Analyse":** 4 developed reasons, each using the resource (figures) and your knowledge; connect them; end with a judgement of the main reason.
-- **Section A topic tips:** *Economic activity:* sectors, Clark-Fisher, informal employment, Malthus/Boserup, energy sources; *Rural:* biomes, farming types, diversification, rural change and migration; *Urban:* urbanisation, land use, squatter settlements, sustainable strategies.
-- **MCQ:** one cross per question; do not leave blanks.
-- **Fieldwork (Section B):** talk about **your** enquiry. Name sampling (random/systematic/stratified), equipment, risk, advantages and disadvantages.
-- Watch your time: 1 minute per mark. If stuck, star it and move on.
+- **Time check:** at the end, 35 minutes per question is the aim. If you fall behind, move on and return later.
+- **Theme 3 data questions:** quote values from tables, calculate (mean, percentage change) and show working.
+- **Longer answers:** each point = statement + development (why/how) + example. A named case study with two real facts moves you up a level.
+- **Evaluation:** if the question says "assess", "discuss" or "how far", write **both sides** and a final judgement ("overall … because …").
+- **Climate change, sustainability and management** questions: link the cause, effect and a **solution** with its limitation.
+- **Don't repeat** the question or list the same point twice in different words.
 
 ## Checklist while marking
 
-(Do not mark yet. Check only:)
-- Did you reach the end of Section A in about 52 minutes? If not, which question took too long?
-- Did you give a named country or place in every "named" question?
-- Did you quote the resource in the 8-mark answers?
-- Did you use "because/so" in every explain answer?
-- Which questions did you star, and why?
+- **Total:** write out of 75 and a rough grade guess (as a guide only).
+- **Per question:** marks out of 25 for each theme. Which theme was weakest?
+- **Command words:** did I answer "describe" with description and "explain" with reasons?
+- **Case studies:** did I include named places and **facts** (numbers, dates)? If not, add them now.
+- **Lost marks:** classify each as **knowledge gap**, **did not answer the question**, **not enough detail**, or **time**.
+- **Read the examiner report** if you have it: note the common mistakes for your questions.
+- Rewrite **one** weak answer fully, using the mark scheme to improve it (10 minutes later).
+- Add three topics to your revision list.
 
 ## Quick-fire revision
 
-- Sectors: primary (extract), secondary (make), tertiary (services), quaternary (research/IT). Clark-Fisher: primary then secondary then tertiary/quaternary as development rises.
-- Informal employment: no registration or tax; causes (rural-urban migration, lack of education, few formal jobs); advantage: income; disadvantage: no security or protection.
-- Malthus: population outstrips food; Boserup: population growth drives innovation.
-- Energy: non-renewable (coal, oil, gas, uranium, shale) v renewable (solar, wind, HEP, geothermal, biomass); energy gap, energy security, energy mix; efficiency v conservation.
-- Biomes: tropical/temperate/boreal forests, grasslands, desert, tundra; farming: arable/pastoral, commercial/subsistence, intensive/extensive.
-- Rural change: counter-urbanisation, tourism pressures, decline in farm jobs; developing countries: population growth, rural-urban migration; diversification (GM crops, organic, recreation).
-- Urbanisation: more than 50% urban since 2007; megacity over 10 million; suburbanisation and counter-urbanisation.
-- Land use: CBD most accessible, highest land value; squatter settlements on cheap, unsafe land.
-- Greenfield (never built on) v brownfield (previously built on).
-- Sustainable city strategies: waste, transport, education, health, employment, housing.
-- Calculations: range = highest − lowest; % change = change ÷ original × 100.
+- Describe = say what it shows + **data**; explain = **because**.
+- 7-mark answers: three developed points, a **named example**, and a link back to the question.
+- **Development:** HDI = life expectancy, education, income; GNI per capita hides inequality.
+- **Food:** causes of shortage (drought, conflict, poverty, poor storage); solutions (irrigation, HYVs, GM, aid).
+- **Industry:** location factors; deindustrialisation vs NICs.
+- **Tourism:** benefits (jobs, income) and costs (leakage, damage); sustainable tourism.
+- **Energy:** renewables and non-renewables; the energy mix.
+- **Water:** demand, supply, desalination, dams, groundwater.
+- **Environment:** enhanced greenhouse effect, climate change effects, sustainability.
+- Check **units** (mm, °C, km, %, hPa).
+- Use **real place names** and numbers in every case study.
+- Leave **no blanks**; a guess can score.

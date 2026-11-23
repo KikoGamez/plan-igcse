@@ -1,208 +1,188 @@
-# Vocabulary: themes A and B
+# Vocabulary: topic areas A and B
 
-> **In the exam:** Theme A (Home and abroad) and Theme B (Education and employment) appear in **all four papers**: Paper 1 Listening (40 marks, 25%), Paper 2 Reading and Writing (80 marks, 50%) and Paper 3 Speaking (40 marks, 25%). Vocabulary is not tested on its own: it earns marks through understanding (reading/listening) and through range in your writing and speaking. Dictionaries are **not** allowed. In Paper 2 the 130–150 word task gives a choice of three questions drawn from different themes, and Task A or the conversations in Paper 3 can be on these themes.
+> **In the exam:** Topic area A (Everyday activities) and topic area B (Personal and social life) can come up in **all four papers** of Cambridge IGCSE German 0525: Paper 1 Listening (40 marks), Paper 2 Reading (45 marks), Paper 3 Speaking (40 marks: one role play plus two topic conversations) and Paper 4 Writing (45 marks: form, 80–90 words, 130–140 words). Vocabulary is never tested on its own; it earns marks because you **understand** the text or because your German has **range**. **No dictionaries** are allowed.
 
 ## What you need to know
 
-- **Theme A, Home and abroad:** life in the town and in the country; holidays, tourist information and directions; customs; everyday life, traditions and communities.
-- **Theme B, Education and employment:** school life and rules; school subjects and opinions; school trips and exchanges; future plans, jobs and work experience; the world of work and career choices.
-- Words with their **gender and plural** (der/die/das), because endings and cases depend on them.
-- Opinion and reason phrases you can reuse: *Ich finde … , weil … ; Meiner Meinung nach …*.
-- Past, present and future ways of talking about these themes (*Letztes Jahr bin ich nach … gefahren; Nächstes Jahr werde ich … ; Ich möchte … werden*).
-- Useful small words: question words, time phrases, intensifiers, connectives.
+- **Area A, Everyday activities:** time expressions (time, days, months, seasons); food and drink (meals, fruit, vegetables, meat, fish, snacks, drinks, cutlery); the human body and health (body parts, illness); travel and transport.
+- **Area B, Personal and social life:** self, family and friends; in the home (rooms, furniture, garden, appliances); colours; clothes and accessories; leisure time (hobbies, sport, things to do).
+- Every noun with its **gender** (der/die/das) and **plural**; the syllabus expects you to know plural and feminine forms.
+- Frequency words and opinion phrases you can reuse in speaking and writing.
+- The **spelling**: nouns have capital letters; ä, ö, ü, ß matter (old and new spellings are both accepted).
 
 ## Notes
 
 ### How to learn vocabulary in one hour
-1. Learn nouns **with the article and plural**: *die Schule, -n*; *der Stundenplan, ¨-e*; *das Zimmer, -*.
-2. Learn **chunks**, not single words: *in die Stadt fahren*, *Hausaufgaben machen*, *sich bewerben um*.
-3. Use cognates: many words look like English (*das Haus, der Garten, die Schule, der Sport*), but beware **false friends**: *das Gymnasium* is a type of secondary school (not a gym), *die Kantine* is a canteen, *bekommen* = to get (not "become"), *werden* = to become, *der Rock* = skirt, *sensibel* = sensitive, *brav* = well-behaved, *die Chance* = opportunity.
-4. Use word families: *arbeiten, die Arbeit, der Arbeiter, arbeitslos, die Arbeitsstelle*.
-5. Compound nouns take the gender of the **last** word: *der Schul|hof* (der Hof), *die Haus|aufgabe* (die Aufgabe), *das Schlaf|zimmer* (das Zimmer).
+1. Learn nouns **with article**: *der Bahnhof*, not *Bahnhof*. Colour-code: blue = der, red = die, green = das.
+2. Learn the **plural** with the word: *das Zimmer, die Zimmer*.
+3. Say each word aloud, then cover the English and test yourself. Words you miss go on a shorter "hard" list.
+4. Put new words into a **sentence about you**: *Ich esse am liebsten Nudeln.*
 
-### Theme A: Home and abroad
-
-**Where you live**
+### Area A: time expressions
 
 | German | English |
 |---|---|
-| die Stadt, ¨-e / das Dorf, ¨-er | town, city / village |
-| auf dem Land / auf dem Lande | in the country |
-| die Gegend, -en | area |
-| das Stadtzentrum, -zentren | town centre |
-| die Fußgängerzone, -n | pedestrian zone |
-| das Hochhaus, ¨-er | tall building, block |
-| die Wohnung, -en / das Einfamilienhaus | flat / detached house |
-| das Erdgeschoss / im ersten Stock | ground floor / on the first floor |
-| der Balkon, -e / der Garten, ¨ | balcony / garden |
-| das Wohnzimmer, das Schlafzimmer, die Küche, das Badezimmer | living room, bedroom, kitchen, bathroom |
-| die Nachbarn (pl.) | neighbours |
-| die Verkehrsmittel (pl.), der Stau, die Luftverschmutzung | means of transport, traffic jam, air pollution |
-| die Einkaufsmöglichkeiten (pl.) | shopping facilities |
-| das Freizeitangebot | range of leisure activities |
-| ruhig / laut / sauber / schmutzig / überfüllt | quiet / loud / clean / dirty / overcrowded |
+| der Tag, die Woche, das Wochenende | day, week, weekend |
+| Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag/Sonnabend, Sonntag | days of the week (all *der*) |
+| Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember | months (all *der*) |
+| der Frühling, der Sommer, der Herbst, der Winter | seasons |
+| Es ist halb acht. | It is **half past seven** (7.30). *halb acht* = half **to** eight. |
+| Viertel nach sieben / Viertel vor acht | quarter past seven / quarter to eight (7.15 / 7.45) |
+| um ein Uhr, um zwei Uhr | at one o'clock, at two o'clock |
+| der Morgen, der Mittag, der Nachmittag, der Abend, die Nacht | morning, midday, afternoon, evening, night |
+| heute, gestern, morgen, übermorgen | today, yesterday, tomorrow, the day after tomorrow |
+| immer, oft, manchmal, selten, nie | always, often, sometimes, rarely, never |
+| jeden Tag, normalerweise, einmal pro Woche | every day, usually, once a week |
 
-Pros and cons (a typical opinion question):
-- **Stadt:** *Es gibt viel zu tun. Die Verkehrsverbindungen sind gut. Aber es ist laut, und die Mieten sind hoch.*
-- **Land:** *Die Luft ist sauberer. Man hat viel Platz. Aber es gibt wenig für Jugendliche, und man braucht ein Auto.*
+**Watch out:** *halb acht* = 7.30, not 8.30. In Listening this is a classic trap. *am Montag* = on Monday; *im Juli* = in July; *im Sommer* = in summer.
 
-**Holidays, tourist information, directions**
+### Area A: food and drink
 
-| German | English |
-|---|---|
-| der Urlaub / die Ferien (pl.) | holiday (work) / school holidays |
-| verreisen / Urlaub machen / in Urlaub fahren | to go away / to holiday |
-| das Ausland / im Ausland | abroad (the foreign country) / abroad |
-| die Unterkunft, ¨-e / die Jugendherberge, -n | accommodation / youth hostel |
-| das Hotel, -s / die Ferienwohnung / der Campingplatz | hotel / holiday flat / campsite |
-| zelten / campen | to camp |
-| die Reise, -n / der Flug, ¨-e / der Zug / die Fähre | trip / flight / train / ferry |
-| der Strand / das Meer / die Berge (pl.) / der See | beach / sea / mountains / lake |
-| die Sehenswürdigkeit, -en | sight, attraction |
-| das Fremdenverkehrsamt / die Touristeninformation | tourist office |
-| die Stadtrundfahrt, -en / der Stadtplan | city tour / map |
-| die Ermäßigung / der Eintritt | reduction / entry fee |
-| buchen / reservieren / mieten | to book / reserve / hire |
-| die Buchung, -en / die Reservierung | booking |
-| das Gepäck / der Koffer / der Reisepass | luggage / suitcase / passport |
-| das Wetter: es regnet, es schneit, die Sonne scheint, es ist windig | weather |
+| Meals | Food | Drink |
+|---|---|---|
+| das Frühstück (breakfast) | das Brot, das Brötchen (bread, roll) | das Wasser, der Saft (juice) |
+| das Mittagessen (lunch) | der Käse, die Wurst (cheese, sausage) | die Milch, der Tee, der Kaffee |
+| das Abendessen (dinner) | das Fleisch, der Fisch, das Hähnchen (meat, fish, chicken) | die Limonade, die Cola |
+| die Vorspeise / das Hauptgericht / der Nachtisch | der Reis, die Nudeln, die Kartoffeln (rice, pasta, potatoes) | der Apfelsaft, das Mineralwasser |
+| das Picknick | das Obst, das Gemüse (fruit, vegetables) | |
+| | der Apfel, die Banane, die Erdbeere, die Tomate, die Gurke, die Karotte | |
+| | das Ei, die Suppe, der Salat, der Kuchen, das Eis | |
 
-**Directions** (use the imperative *Sie* form or *du* form):
-- *Gehen Sie geradeaus. Biegen Sie links/rechts ab. Nehmen Sie die erste Straße links. Gehen Sie an der Ampel vorbei. Überqueren Sie die Brücke.*
-- *an der Kreuzung* (at the crossroads), *an der Ecke* (on the corner), *gegenüber von* + dative (opposite), *neben* (next to), *hinter* (behind), *vor* (in front of), *zwischen* (between).
-- *Wie komme ich zum Bahnhof? Wo ist die nächste Bank? Ist es weit von hier?*
+- **Snacks:** die Chips (pl.), die Pommes (pl.), die Schokolade, der Keks.
+- **Cutlery and utensils:** der Löffel (spoon), die Gabel (fork), das Messer (knife), der Teller (plate), das Glas (glass), die Tasse (cup).
+- **Useful phrases:** *Ich esse gern … / Ich trinke lieber … / Mein Lieblingsessen ist … / Das schmeckt (mir) gut / lecker. / Ich bin Vegetarier(in). / Ich habe Hunger / Durst.* To order: *Ich möchte bitte … / Die Rechnung, bitte.*
 
-**Customs, traditions, everyday life**
-- *der Brauch, ¨-e* (custom), *die Tradition, -en*, *das Fest, -e*, *der Feiertag, -e* (public holiday), *Weihnachten, Ostern, Silvester, Karneval/Fasching, das Oktoberfest, der Weihnachtsmarkt, der Adventskalender, das Geschenk, -e*.
-- *Man feiert … / In Deutschland isst man …* (impersonal *man* + verb).
-- *Die Gemeinschaft* (community), *die Gesellschaft* (society), *Freiwilligenarbeit* (voluntary work).
-
-### Theme B: Education and employment
-
-**School life**
+### Area A: the body and health
 
 | German | English |
 |---|---|
-| die Schule, -n / die Grundschule / das Gymnasium / die Realschule / die Gesamtschule | school / primary / grammar-type / middle-level / comprehensive |
-| der Schüler, - / die Schülerin, -nen | pupil (m / f) |
-| der Lehrer, - / die Lehrerin, -nen | teacher |
-| die Klasse, -n / das Klassenzimmer | class / classroom |
-| der Stundenplan, ¨-e | timetable |
-| das Fach, ¨-er (die Fächer) | subject |
-| Mathe, Deutsch, Englisch, Spanisch, Geschichte, Erdkunde/Geografie, Naturwissenschaften, Biologie, Chemie, Physik, Informatik, Kunst, Musik, Sport, Religion | subjects |
-| die Hausaufgaben (pl.) | homework |
-| die Prüfung, -en / die Klassenarbeit, -en / das Zeugnis, -se | exam / class test / report |
-| die Note, -n / die Eins … die Sechs | mark / German marks run 1 (best) to 6 (worst) |
-| die Pause, -n / das Mittagessen / die Mensa | break / lunch / canteen |
-| der Schulhof, ¨-e / die Turnhalle / das Labor / die Bibliothek | playground / gym / lab / library |
-| die Schuluniform (hardly used in Germany) | school uniform |
-| die Regel, -n / verboten / erlaubt | rule / forbidden / allowed |
-| das Handy, -s | mobile phone |
-| der Schulausflug / die Klassenfahrt / der Schüleraustausch | school trip / class trip / exchange |
-| lernen / üben / wiederholen / auswendig lernen / nachsitzen / schwänzen | to learn / practise / revise / learn by heart / have detention / skip lessons |
+| der Kopf, das Gesicht, das Auge (die Augen), die Nase, der Mund, das Ohr (die Ohren), der Zahn (die Zähne), der Hals | head, face, eye, nose, mouth, ear, tooth, throat/neck |
+| der Arm, die Hand (die Hände), der Finger, das Bein, der Fuß (die Füße), der Rücken, der Bauch, das Knie | arm, hand, finger, leg, foot, back, stomach, knee |
+| Ich habe Kopfschmerzen / Bauchschmerzen / Zahnschmerzen / Halsschmerzen. | I have a headache / stomachache / toothache / sore throat. |
+| Mein Bein tut weh. / Mir tut der Rücken weh. | My leg hurts. / My back hurts. |
+| Ich bin krank / erkältet. Ich habe Fieber / Husten / Schnupfen. | I am ill / have a cold. I have a temperature / a cough / a runny nose. |
+| der Arzt / die Ärztin, die Apotheke, das Krankenhaus, die Tablette, das Medikament | doctor, pharmacy, hospital, tablet, medicine |
+| Ich muss im Bett bleiben. Gute Besserung! | I must stay in bed. Get well soon! |
+| gesund / ungesund, Sport treiben, genug schlafen | healthy / unhealthy, to do sport, to sleep enough |
 
-Opinions about subjects: *Mein Lieblingsfach ist Chemie, weil der Lehrer interessant ist. Ich bin gut/schlecht in Mathe. Ich finde Geschichte langweilig, denn wir lernen nur Daten.* Note: **in** + a subject = good/bad *in* it: *gut in Mathe*.
+### Area A: travel and transport
 
-School rules: *Wir dürfen unsere Handys im Unterricht nicht benutzen. Man muss pünktlich sein. Das Rauchen ist verboten. Ich finde die Regeln streng/fair.*
+- **Transport:** das Auto, der Bus, die Straßenbahn (tram), die U-Bahn, der Zug, das Fahrrad, das Flugzeug, das Schiff, das Taxi, zu Fuß (on foot).
+- **Travel words:** der Bahnhof, der Flughafen, die Haltestelle (stop), der Bahnsteig / das Gleis (platform), die Fahrkarte, die Hin- und Rückfahrt (return trip), die Verspätung (delay), der Koffer, die Reise.
+- **How you travel:** *Ich fahre mit dem Bus. / Ich gehe zu Fuß. / Ich fliege nach Spanien. / Ich nehme die U-Bahn.* (*mit* always takes the **dative**: *mit dem Bus, mit der Bahn, mit dem Auto*).
+- **Announcements:** *Der Zug nach Berlin hat zehn Minuten Verspätung. / Der Zug fährt von Gleis 5 ab. / Bitte einsteigen!*
+- **Asking:** *Wie komme ich zum Bahnhof? / Wann fährt der nächste Zug? / Wo ist die Haltestelle?*
 
-**Future plans, jobs and work**
+### Area B: self, family and friends
 
 | German | English |
 |---|---|
-| der Beruf, -e / die Arbeit / die Stelle, -n | profession / work / job, position |
-| Ich möchte … werden: Arzt/Ärztin, Krankenpfleger/-schwester, Lehrer(in), Ingenieur(in), Rechtsanwalt/-anwältin, Mechaniker(in), Friseur(in), Koch/Köchin, Verkäufer(in), Programmierer(in), Journalist(in) | I'd like to become … |
-| Note: no article with jobs: *Ich bin Lehrer.* | |
-| das Praktikum, -praktika / das Betriebspraktikum | work experience / placement |
-| die Ausbildung, -en / der Auszubildende (Azubi) | apprenticeship / apprentice |
-| das Studium / die Universität / studieren | studies / university / to study |
-| das Abitur / der Schulabschluss | A-level equivalent / school leaving certificate |
-| das Gap-Jahr / ein Jahr Pause | gap year |
-| die Bewerbung, -en / sich bewerben um + acc. | application / to apply for |
-| der Lebenslauf / das Vorstellungsgespräch | CV / interview |
-| der Chef, -s / die Chefin / der Kollege, -n | boss / colleague |
-| das Gehalt, ¨-er / der Lohn / verdienen | salary / wage / to earn |
-| die Arbeitszeit / Teilzeit / Vollzeit | working hours / part-time / full-time |
-| arbeitslos / die Arbeitslosigkeit | unemployed / unemployment |
-| das Büro / die Fabrik / das Krankenhaus / die Werkstatt | office / factory / hospital / workshop |
-| der Nebenjob / jobben / Zeitungen austragen | part-time job / to do odd jobs / deliver papers |
-| anstrengend / abwechslungsreich / gut bezahlt / stressig | tiring / varied / well paid / stressful |
+| die Eltern, die Mutter, der Vater, der Bruder, die Schwester, die Geschwister | parents, mother, father, brother, sister, siblings |
+| die Großmutter/Oma, der Großvater/Opa, die Großeltern | grandmother, grandfather, grandparents |
+| der Onkel, die Tante, der Cousin, die Cousine, der Neffe, die Nichte | uncle, aunt, cousin (m/f), nephew, niece |
+| der Freund / die Freundin, der Nachbar, das Haustier | friend (m/f), neighbour, pet |
+| Ich heiße … Ich bin … Jahre alt. Ich habe am … Geburtstag. | I am called … I am … years old. My birthday is on … |
+| Ich habe braune Haare und blaue Augen. Ich bin groß/klein/schlank. | I have brown hair and blue eyes. I am tall/small/slim. |
+| freundlich, lustig, nett, schüchtern, ehrlich, ruhig, laut, sportlich | friendly, funny, nice, shy, honest, quiet, loud, sporty |
+| Ich verstehe mich gut mit … / Ich streite mich manchmal mit … | I get on well with … / I sometimes argue with … |
+| verheiratet, geschieden, Einzelkind | married, divorced, only child |
 
-**Talking about work experience** (perfect tense): *Ich habe ein Praktikum in einem Krankenhaus gemacht. Ich habe Patienten besucht und Tee gekocht. Es hat mir gut gefallen, weil die Kollegen nett waren.*
+**Describing a person (3 sentences):** *Meine beste Freundin heißt Lena. Sie ist sechzehn und hat lange, blonde Haare. Sie ist sehr lustig, aber manchmal ein bisschen laut.*
 
-**Future plans:** *Nach der Schule werde ich studieren. Ich möchte Medizin studieren, um Ärztin zu werden. Wenn ich mein Abitur habe, mache ich vielleicht ein Gap-Jahr.* (Remember: *wenn*-clause first, then verb–subject.)
+### Area B: in the home
 
-### Useful linking words and phrases (all themes)
-- **Opinions:** *meiner Meinung nach, ich finde, ich denke, ich glaube, ich bin der Meinung, dass …*
-- **Reasons:** *weil, denn, da, deshalb, darum*
-- **Contrast:** *aber, trotzdem, obwohl, jedoch, im Gegensatz dazu*
-- **Time:** *früher, damals, heutzutage, bald, nächstes Jahr, letzten Sommer, vor zwei Jahren, in der Zukunft*
-- **Intensifiers:** *sehr, besonders, ziemlich, wirklich, total*
+- **Rooms:** das Wohnzimmer, das Schlafzimmer, die Küche, das Badezimmer, das Esszimmer, das Arbeitszimmer, der Keller (cellar), der Flur (hall), die Garage, der Garten, der Balkon.
+- **Furniture:** der Tisch, der Stuhl, das Sofa, der Sessel (armchair), das Bett, der Schrank (wardrobe, cupboard), das Regal (shelf), der Schreibtisch, der Teppich, die Lampe, der Spiegel.
+- **Appliances:** der Kühlschrank (fridge), der Herd (cooker), die Waschmaschine, der Fernseher, der Computer, das Radio.
+- **Types of home:** das Haus, die Wohnung (flat), das Reihenhaus (terraced house), das Doppelhaus (semi-detached), das Hochhaus (tower block). *Ich wohne in einer Wohnung im dritten Stock.* (on the third floor)
+- **Where things are (dative with in, auf, neben, unter, vor, hinter, zwischen, an, über):** *Das Buch liegt auf dem Tisch. Die Lampe steht neben dem Sofa.*
+
+### Area B: colours, clothes and accessories
+
+- **Colours:** rot, blau, grün, gelb, schwarz, weiß, grau, braun, rosa, lila, orange, dunkelblau, hellgrün. After an article they take endings: *ein rotes T-Shirt*, *die blaue Hose*. *rosa*, *lila* and *orange* never change.
+- **Clothes:** das T-Shirt, das Hemd (shirt), die Bluse, der Pullover, die Jacke, der Mantel, die Hose (trousers; singular in German), die Jeans, der Rock, das Kleid, die Schuhe, die Socken, die Mütze (cap), die Uniform.
+- **Accessories:** die Tasche, der Rucksack, die Brille (glasses), die Uhr, der Schmuck, der Schal, der Gürtel, die Handschuhe.
+- **Shopping for clothes:** *Haben Sie das in Größe M? / Kann ich das anprobieren? / Das passt (nicht). / Es ist zu klein / zu groß / zu teuer.*
+
+### Area B: leisure time
+
+| German | English |
+|---|---|
+| Ich spiele Fußball / Tennis / Gitarre / Klavier. | I play football / tennis / guitar / piano. |
+| Ich gehe schwimmen / wandern / einkaufen / tanzen. | I go swimming / hiking / shopping / dancing. |
+| Ich fahre Rad / Ski / Skateboard. | I cycle / ski / skateboard. |
+| Ich höre Musik. Ich sehe fern. Ich lese gern Bücher. | I listen to music. I watch TV. I like reading books. |
+| Ich treffe mich mit Freunden. Ich gehe ins Kino. | I meet friends. I go to the cinema. |
+| das Hobby (die Hobbys), die Freizeit, der Sportverein, das Konzert | hobby, free time, sports club, concert |
+| sich langweilen, Spaß machen, Lust haben | to be bored, to be fun, to feel like |
+
+**Likes (use all three forms):** *gern* (like), *lieber* (prefer), *am liebsten* (like best): *Ich spiele gern Tennis, lieber Handball, am liebsten Fußball.*
+
+### Reusable opinions and connectives
+- *Ich finde … gut/schlecht/langweilig/toll, weil …* (verb goes to the end after *weil*)
+- *Meiner Meinung nach … / Ich denke, dass … / Ich mag … nicht, denn …*
+- *Es macht Spaß / Es ist anstrengend / Es ist gesund.*
+- Time frames: *letztes Wochenende bin ich … gegangen; jeden Samstag spiele ich …; nächstes Jahr werde ich …*
 
 ## Key terms and definitions
 
-- **die Sehenswürdigkeit:** a place of interest that tourists visit.
-- **das Praktikum:** a short period of work experience in a company.
-- **die Ausbildung:** vocational training or apprenticeship combining work and college.
-- **das Abitur:** the final exam of a German grammar-type school (Gymnasium) which allows entry to university.
-- **der Brauch:** a traditional way of doing something in a country or region.
-- **das Gymnasium:** the school type that leads to the Abitur.
-- **die Klassenfahrt:** a school trip lasting several days.
-- **der Beruf:** the job someone is trained for.
-- **falsche Freunde (false friends):** words that look like English words but mean something different.
+- **Gender (Genus):** every German noun is masculine (*der*), feminine (*die*) or neuter (*das*).
+- **Plural (Mehrzahl):** the form for more than one; there are several patterns (*-e, -n, -en, -er, -s, umlaut*).
+- **Frequency adverb:** says how often (*immer, oft, manchmal, selten, nie*).
+- **Compound noun:** two nouns joined; the **last** word gives the gender (*das Wohn|zimmer* + *der Tisch* = *der Wohnzimmertisch*).
+- **Dative after mit:** *mit dem Bus, mit der Straßenbahn, mit meinen Freunden*.
 
 ## Worked examples
 
-**1. [3 marks] Reading, translate-meaning in English: *Nach der Schule möchte ich eine Ausbildung als Mechaniker machen, weil ich gern mit den Händen arbeite.***
-Model answer: After school I want to do an apprenticeship (1) as a mechanic (1) because I like working with my hands (1).
-*How marks are earned:* one mark per idea; *Ausbildung* is an apprenticeship/training, not "education".
+**Example 1 (Reading, short answer).** *Lukas schreibt: "Wir treffen uns um halb vier am Bahnhof."* Wann treffen sie sich? **[1]**
+Model answer: *Um 15.30 Uhr / halb vier.* Mark: the time is correct. **Do not** write 16.30; *halb vier* is 3.30.
 
-**2. [4 marks] Paper 2 short writing (Task 6, 60–75 words incl. four given words, e.g. Ferien, Strand, Freunde, nächstes Jahr).** Model answer:
-*Letzten Sommer bin ich mit meinen Freunden in die Ferien nach Spanien gefahren. Wir haben jeden Tag am Strand gespielt, und das Wetter war fantastisch. Das Hotel war ziemlich teuer, aber sehr sauber. Nächstes Jahr werde ich wahrscheinlich nach Italien fahren, denn ich möchte die Städte besuchen.*
-*Why it scores:* past (*bin gefahren, haben gespielt*), future (*werde fahren*), opinion with reason (*denn*), all four prompts covered, correct verb position, within word count.
+**Example 2 (Writing, Question 2 sentence).** Write two sentences about your free time (opinion + reason). **[up to 4 within the 12 marks]**
+Model answer: *In meiner Freizeit spiele ich gern Tennis, weil es Spaß macht. Am Wochenende gehe ich oft mit meinen Freunden ins Kino.*
+Why it scores: opinion, **weil** with the verb at the end, a frequency word and a correct *mit* + dative.
 
-**3. [2 marks] Listening: A student says: *Ich wohne gern auf dem Land, aber im Winter ist es manchmal langweilig, weil es keine Kinos gibt.* What does she like and dislike?**
-Model answer: Likes: living in the country (1). Dislikes: boring in winter because there is no cinema (1).
-*Tip:* in German listening you often hear the positive first, then *aber* introduces the answer the question wants.
+**Example 3 (Speaking, role play in a clothes shop).** The examiner says: *Wie finden Sie den Pullover?* You must give a reason it is not right.
+Model answer: *Er ist leider zu groß. Haben Sie ihn auch in Größe S?* Why it scores: clear information, polite, and a question as well.
 
 ## Common mistakes
 
-- Learning nouns without gender: *die Schule* but *der Stundenplan, das Fach*.
-- Using an article with jobs: write *Ich bin Lehrerin*, not *Ich bin eine Lehrerin*.
-- **Falsche Freunde:** *bekommen* is "to get", *Gymnasium* is not a gym, *Rock* is a skirt.
-- Using *gehen* for travelling by vehicle: use *fahren* (*Ich fahre mit dem Zug*), and *ich fliege*.
-- **in** the town = *in der Stadt* (dative), **into** town = *in die Stadt* (accusative).
-- *Ich möchte werden Arzt:* wrong. Right: *Ich möchte Arzt werden* (infinitive at the end).
-- Saying *Ich bin 15 Jahre* instead of *Ich bin 15 Jahre alt*.
-- Forgetting verb-second after a time or *weil*-clause: *Nächstes Jahr werde ich …*, *Weil es teuer ist, fahre ich nicht.*
-- Mixing up *Ferien* (school holidays, plural) with *Urlaub* (holiday from work, singular).
+- Forgetting capital letters on nouns (*der tisch* ✗).
+- *halb acht* read as 8.30 (it is 7.30).
+- Learning nouns without gender, then writing *ein Tisch* correctly but *die Tisch* in a sentence.
+- Writing *Ich habe Kopf weh* instead of *Ich habe Kopfschmerzen* or *Mein Kopf tut weh*.
+- *Ich fahre mit der Bus* (it is *mit **dem** Bus*).
+- Saying *Ich bin 16* correctly but *Ich habe 16* (wrong, you "are" your age).
+- Mixing up *Hose* (trousers) with *Jeans* and putting it in the plural (*die Hose* is singular).
+- Using English word order after *weil* (*weil es macht Spaß* ✗; *weil es Spaß macht* ✓).
 
 ## Practice questions
 
-1. Give the German for: a) town centre b) timetable c) apprenticeship d) work experience. [4]
-2. Give the article (der/die/das) for: a) Stundenplan b) Wohnung c) Fach d) Strand. [4]
-3. Translate into English: *Ich finde Physik schwierig, aber mein Lehrer ist sehr nett.* [3]
-4. Translate into German: *Next year I will study medicine.* [3]
-5. You are asked the way to the station. Give three directions in German. [3]
-6. Complete: *Letzten Sommer ___ ich nach Österreich gefahren.* (hat/bin/habe) [1]
-7. Write 2–3 German sentences on living in the country (one advantage, one disadvantage, with *weil* or *aber*). [4]
-8. What is wrong: *Ich möchte eine Krankenschwester werden.* [1]
+1. Give the German for: (a) quarter to six, (b) half past ten, (c) the day after tomorrow. **[3]**
+2. Write the German for these in the plural: *der Apfel*, *das Zimmer*, *die Tasche*, *der Fuß*. **[4]**
+3. Complete with the correct word: *Ich fahre jeden Tag ___ dem Bus zur Schule.* **[1]**
+4. Write two sentences describing your best friend (looks and character). **[4]**
+5. You are at the doctor. Say what is wrong with you in German (two problems). **[2]**
+6. Name four rooms and one piece of furniture for each room. **[4]**
+7. Translate: *I like swimming, but I prefer playing football.* **[3]**
+8. Write a sentence with *weil* explaining why you like or dislike your favourite hobby. **[2]**
 
 <details><summary>Answers</summary>
 
-1. a) das Stadtzentrum b) der Stundenplan c) die Ausbildung d) das Praktikum (das Betriebspraktikum).
-2. a) der b) die c) das d) der.
-3. I find physics difficult (1) but my teacher (1) is very nice (1).
-4. *Nächstes Jahr werde ich Medizin studieren.* (1 time first, 1 *werde ich* word order, 1 *Medizin studieren* at end.)
-5. For example: *Gehen Sie geradeaus. Biegen Sie an der Ampel links ab. Der Bahnhof ist gegenüber von der Post.*
-6. *bin* (sein with verbs of movement).
-7. For example: *Auf dem Land ist die Luft sauberer, weil es wenig Verkehr gibt. Aber ich finde es langweilig, denn es gibt wenig für Jugendliche.* (2 for good vocabulary and an opinion with reason, 2 for accurate grammar/word order.)
-8. No article with jobs: *Ich möchte Krankenschwester werden.*
+1. (a) *Viertel vor sechs*; (b) *halb elf*; (c) *übermorgen*.
+2. *die Äpfel, die Zimmer, die Taschen, die Füße.*
+3. *mit*
+4. e.g. *Mein bester Freund heißt Tom. Er ist groß und hat kurze, dunkle Haare. Er ist sehr nett und lustig.*
+5. e.g. *Ich habe Kopfschmerzen und Fieber. / Mein Bauch tut weh.*
+6. e.g. *das Wohnzimmer – das Sofa; die Küche – der Herd; das Schlafzimmer – das Bett; das Badezimmer – der Spiegel.*
+7. *Ich schwimme gern, aber ich spiele lieber Fußball.*
+8. e.g. *Ich liebe Tennis, weil es mir viel Spaß macht.* (verb at the end after *weil*)
 
 </details>
 
 ## Plan for this hour
 
-- **0–15 min:** read the Theme A tables; cover the English and test yourself on nouns with their articles.
-- **15–30 min:** the same for Theme B; write 5 job and school sentences.
-- **30–45 min:** do the practice questions, then the flashcards and gap-fills in the app.
-- **45–60 min:** write the three model paragraphs (holiday, school, future plan) from memory in your own words, then check genders and verb position.
+- **0–15 min:** Area A: time, food, body and health, travel. Cover the English column and test yourself on the tables.
+- **15–30 min:** Area B: family, home, clothes, leisure. Same method.
+- **30–45 min:** Write 8 sentences about yourself, using a different topic each time and including opinion words and *weil*.
+- **45–55 min:** Do the practice questions without notes, then check.
+- **55–60 min:** Make a hard-words list (the 15 you missed) and read it aloud twice.

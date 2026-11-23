@@ -2,173 +2,165 @@
  "id": "ger-r1-11",
  "cards": [
   {
-   "f": "Q6 in Paper 2",
-   "b": "Short writing task: 60–75 words, includes four prescribed words/phrases, 10 marks."
+   "f": "Writing paper: structure",
+   "b": "Q1 form (5), Q2 80–90 words (12), Q3 130–140 words (28): 45 marks in 1 hour."
   },
   {
-   "f": "Q7 in Paper 2",
-   "b": "Extended writing: choice of 3 questions, 130–150 words, four bullet points, 20 marks."
+   "f": "Q3 choice",
+   "b": "Email/letter or article/blog; pick the one you can do best."
   },
   {
-   "f": "Q8 in Paper 2",
-   "b": "Grammar task: change the words in brackets to fit the text, 10 marks."
+   "f": "Lieber Tom, / Liebe Anna,",
+   "b": "Informal opening of a letter or email (to a friend)."
   },
   {
-   "f": "Two marking strands for Q6 and Q7",
-   "b": "Communication and content; linguistic knowledge and accuracy."
+   "f": "Sehr geehrte Damen und Herren,",
+   "b": "Formal opening when you don't know the name."
   },
   {
-   "f": "weil-clause word order",
-   "b": "Verb goes to the end: ..., weil ich müde bin."
+   "f": "Mit freundlichen Grüßen",
+   "b": "Yours sincerely (formal closing)."
   },
   {
-   "f": "Perfect with sein",
-   "b": "Verbs of movement/change: ich bin gefahren, gegangen, geblieben, aufgestanden."
+   "f": "Viele Grüße / Liebe Grüße",
+   "b": "Best wishes / love (informal closing)."
+  },
+  {
+   "f": "weil + verb at the end",
+   "b": "..., weil ich keine Zeit habe."
+  },
+  {
+   "f": "Verb second",
+   "b": "Am Samstag gehe ich ins Kino."
+  },
+  {
+   "f": "Perfekt of gehen",
+   "b": "ich bin gegangen (sein with movement)."
+  },
+  {
+   "f": "Perfekt of spielen",
+   "b": "ich habe gespielt."
+  },
+  {
+   "f": "Future with werden",
+   "b": "Nächstes Jahr werde ich nach Spanien fahren."
   },
   {
    "f": "Conditional",
-   "b": "würde + infinitive: Ich würde gern reisen. Wenn ich Zeit hätte, würde ich ..."
+   "b": "Wenn ich Zeit hätte, würde ich reisen."
   },
   {
-   "f": "um ... zu",
-   "b": "in order to: Ich spare, um ein Auto zu kaufen. (infinitive at the end)"
+   "f": "Opinion phrase",
+   "b": "Ich finde …, weil … / Meiner Meinung nach …"
   },
   {
-   "f": "Opinion + reason",
-   "b": "Meiner Meinung nach ... , weil ... ; Ich finde ... gut, denn ..."
+   "f": "Connective: außerdem",
+   "b": "also, in addition."
   },
   {
-   "f": "Time phrase first",
-   "b": "Verb stays second: Letztes Jahr bin ich nach Rom gefahren."
+   "f": "Connective: obwohl",
+   "b": "although (verb at the end)."
   },
   {
-   "f": "Adjective ending after der (nominative)",
-   "b": "-e: die kleine Stadt, der große Hund"
-  },
-  {
-   "f": "Adjective after einen (masc. acc.)",
-   "b": "-en: Ich habe einen neuen Computer."
-  },
-  {
-   "f": "Words you must not forget",
-   "b": "All four prescribed words (Q6) and all four bullet points (Q7)."
-  },
-  {
-   "f": "Capital letters",
-   "b": "All German nouns: die Stadt, das Haus, der Freund."
-  },
-  {
-   "f": "Useful connectives",
-   "b": "obwohl, trotzdem, außerdem, deshalb, allerdings, während, damit"
-  },
-  {
-   "f": "Anglicism to avoid: 'Ich bin 15'",
-   "b": "Say: Ich bin 15 Jahre alt."
-  },
-  {
-   "f": "What to do in the last 5 minutes",
-   "b": "Check verb position, endings, capitals, spelling, tense, and the word count."
+   "f": "Check at the end",
+   "b": "capital nouns, verb position, Perfekt auxiliary, endings, all bullets covered."
   }
  ],
  "gaps": [
   {
-   "s": "Q7 hat ___ Aufzählungspunkte (number of bullet points, in digits or words).",
-   "a": [
-    "4",
-    "vier"
-   ]
-  },
-  {
-   "s": "Ich bin müde, weil ich schlecht geschlafen ___. (haben)",
-   "a": [
-    "habe"
-   ]
-  },
-  {
-   "s": "Letztes Jahr ___ ich nach Spanien gefahren. (sein)",
-   "a": [
-    "bin"
-   ]
-  },
-  {
-   "s": "Ich spare Geld, ___ ein Auto zu kaufen.",
-   "a": [
-    "um"
-   ]
-  },
-  {
-   "s": "Wenn ich reich wäre, ___ ich ein Haus kaufen. (würde)",
-   "a": [
-    "würde",
-    "wuerde",
-    "wurde"
-   ]
-  },
-  {
-   "s": "Die ___ Stadt ist sehr schön. (klein)",
-   "a": [
-    "kleine"
-   ]
-  },
-  {
-   "s": "Er hat ___ Freund besucht. (mein, masculine accusative)",
-   "a": [
-    "meinen"
-   ]
-  },
-  {
-   "s": "Ich finde Mathe gut, ___ der Lehrer nett ist. (because, with verb at the end)",
+   "s": "Ich habe Hunger, ___ ich nichts gegessen habe. (because)",
    "a": [
     "weil",
     "da"
    ]
   },
   {
-   "s": "Im Sommer ___ wir nach Italien fahren. (werden, wir)",
+   "s": "Gestern ___ ich ins Kino gegangen. (am/have)",
    "a": [
-    "werden"
+    "bin"
+   ]
+  },
+  {
+   "s": "Letzte Woche habe ich Tennis ___ . (played)",
+   "a": [
+    "gespielt"
+   ]
+  },
+  {
+   "s": "Nächsten Sommer ___ ich nach Italien fahren. (future auxiliary, I)",
+   "a": [
+    "werde"
+   ]
+  },
+  {
+   "s": "Wenn ich reich ___ , würde ich um die Welt reisen. (were)",
+   "a": [
+    "wäre",
+    "waere",
+    "ware"
+   ]
+  },
+  {
+   "s": "Ich schreibe an meinen Chef: Sehr ___ Herr Weber, (formal)",
+   "a": [
+    "geehrter"
+   ]
+  },
+  {
+   "s": "In einem formellen Brief schreibt man ___ , nicht du.",
+   "a": [
+    "Sie"
+   ]
+  },
+  {
+   "s": "Substantive schreibt man im Deutschen mit einem großen ___ .",
+   "a": [
+    "Buchstaben",
+    "Anfangsbuchstaben",
+    "Buchstabe"
    ]
   }
  ],
  "short": [
   {
-   "q": "Write a 2-sentence German answer: 'Was hast du letztes Wochenende gemacht?' using the perfect tense.",
-   "model": "Am Samstag bin ich mit Freunden ins Kino gegangen. Danach haben wir Pizza gegessen.",
+   "q": "Write two sentences in German about your last holiday (where, what you did).",
+   "model": "Letzten Sommer bin ich nach Italien gefahren. Wir haben jeden Tag am Strand gelegen und Eis gegessen.",
    "points": [
-    "perfect with correct auxiliary",
-    "participles at the end"
+    "Perfekt with sein/haben",
+    "time marker",
+    "participle at the end"
    ]
   },
   {
-   "q": "List three things the examiner checks for in Q7 under 'Communication and content'.",
-   "model": "All four bullet points answered, opinions with reasons, relevant and developed details (and different time frames).",
+   "q": "Write a formal closing for a letter to a hotel.",
+   "model": "Mit freundlichen Grüßen, [Name]",
    "points": [
-    "bullets covered",
-    "opinions justified / developed ideas"
+    "formal phrase",
+    "name"
    ]
   },
   {
-   "q": "Rewrite correctly: 'Ich habe nach Hamburg gefahren, weil ich will meine Tante besuchen.'",
-   "model": "Ich bin nach Hamburg gefahren, weil ich meine Tante besuchen will.",
+   "q": "Give an opinion with a reason about school uniform.",
+   "model": "Ich finde Schuluniformen gut, weil alle gleich aussehen. / Ich finde sie schlecht, weil man nicht frei wählen kann.",
    "points": [
-    "sein as auxiliary",
-    "verb at the end after weil"
+    "opinion",
+    "weil + verb at the end"
    ]
   },
   {
-   "q": "Give two structures that show a higher level in writing.",
-   "model": "For example: a subordinate clause (weil/obwohl/dass), um ... zu, the conditional (würde), a relative clause, or the perfect with sein.",
+   "q": "Write one sentence about your plans after school using the future.",
+   "model": "Nach der Schule werde ich an der Universität Medizin studieren.",
    "points": [
-    "one valid structure",
-    "second valid structure"
+    "werde + infinitive at the end",
+    "future plan"
    ]
   },
   {
-   "q": "Write the conditional: 'If I had time, I would travel more.'",
-   "model": "Wenn ich Zeit hätte, würde ich mehr reisen.",
+   "q": "Name three things to check in the last three minutes of the Writing paper.",
+   "model": "Capital letters on nouns; verb second and verb at the end after weil; Perfekt auxiliary; every bullet covered; length.",
    "points": [
-    "wenn ... hätte",
-    "würde + infinitive at the end, verb order after wenn-clause"
+    "any three correct checks",
+    "specific, not vague"
    ]
   }
  ]

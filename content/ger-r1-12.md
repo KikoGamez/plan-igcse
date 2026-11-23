@@ -1,169 +1,150 @@
-# Speaking: picture discussion and conversations
+# Speaking: role plays and conversations
 
-> **In the exam:** **Paper 3 Speaking (4GN1/03)**: 8–10 minutes, **40 marks, 25%** of the qualification. Three tasks in a fixed order, recorded without a break: **Task A** picture-based discussion (2–3 minutes, 12 marks), **Task B** and **Task C**, two conversations (3–3.5 minutes each, 28 marks together). Tasks A, B and C are each on a **different theme** (A–E), chosen using a randomisation grid. Task B and C questions must produce **past, present and future**, opinions and justifications. Ask your teacher about any preparation rules for the picture; you will not have a dictionary. Check with your teacher how your picture is chosen and how your mock is run.
+> **In the exam:** Paper 3 Speaking is **25%** of Cambridge IGCSE German 0525: **40 marks**, about **10 minutes**, recorded by your teacher and moderated by Cambridge. You get **10 minutes of preparation** for the role play card (**no notes allowed**). Then: a short **warm-up** (about 30 seconds, not assessed); **one role play** with **five** transactional questions (about 2 minutes, **2 marks each = 10 marks**); and **two topic conversations** of about **4 minutes each** (**15 marks for Communication + 15 marks for Quality of Language = 30 marks**). The topics come from areas A–E.
 
 ## What you need to know
 
-- **Task A:** a picture with **people, objects and interactions**. The examiner asks five questions in German (describe the picture; questions on the picture; questions on the theme with opinions). The only prompts allowed are *Warum (nicht)? Noch etwas? Ist das alles?* (Why/why not? Anything else? Is that all?). Questions may be repeated but **not rephrased**.
-- **Tasks B and C:** two conversations on two other themes (about 3 minutes each, the examiner may ask follow-up questions).
-- **Marks:** Task A: communication and content 8 + linguistic knowledge and accuracy 4 = **12**. Tasks B and C together: communication and content 12 + interaction and spontaneity 8 + linguistic knowledge and accuracy 8 = **28**.
-- You must cover **past, present and future** events and give opinions with reasons.
-- Pronunciation and intonation are part of the communication marks.
+- **Role play:** five prompts; each is worth 2: **2** = information communicated, language appropriate and accurate (small errors in adjective endings or prepositions are allowed); **1** = partly communicated or ambiguous; **0** = no creditable response.
+- **Topic conversations:** the examiner asks questions on two topics. **Communication (15):** relevant answers, developed ideas and opinions, reasons and explanations. **Quality of Language (15):** range of structures and vocabulary, accuracy, pronunciation, fluency, intonation.
+- The questions you can expect for each area (A–E) with answers in the **past, present and future**.
+- **Fillers and repair phrases** to keep talking.
 
 ## Notes
 
-### Task A: the picture
-**What the examiner asks (the pattern):**
-1. *Beschreibe das Bild bitte.* (Describe the picture.)
-2–3. Questions about what is happening or the people (e.g. *Was trägt der Junge? Welche Pläne haben die Eltern?*).
-4–5. Opinion or theme questions (e.g. *Warum ist es wichtig, Urlaub zu machen? Was sind die Vor- und Nachteile …?*).
+### Role play: how it works
+- The card gives a **situation** (e.g. buying a ticket, in a restaurant, at the doctor, in a shop) and five prompts. The examiner asks you five questions or makes five statements; you answer or respond in German. One may be **unexpected**: read the card and think about what could come up.
+- Use *Sie* with adults (shopkeeper, hotel), *du* with friends.
+- **Answer exactly what is asked** in one clear, complete sentence; add a few words if it helps (the reason, a detail), but don't wander.
+- If you don't understand: *Wie bitte? Können Sie das bitte wiederholen?*
+- You may need to **ask a question** yourself: *Wie viel kostet das? Haben Sie …? Wann fährt der Zug? Gibt es …?*
 
-**How to describe a picture (language bank):**
-- **Where:** *Auf dem Bild sehe ich … ; Im Vordergrund / Im Hintergrund ist/sind … ; Links/Rechts/In der Mitte sieht man … ; Oben/Unten …*
-- **Who:** *eine Familie mit zwei Kindern, ein junges Paar, eine Gruppe von Freunden, ein älterer Mann.*
-- **Appearance:** *Er trägt einen blauen Pullover. Sie hat lange, dunkle Haare. Das Mädchen lächelt.*
-- **What they are doing:** *Sie sitzen am Tisch und essen. Der Vater trägt die Koffer. Die Kinder spielen am Strand.*
-- **Weather/place:** *Es sieht sonnig aus; es scheint warm zu sein. Das ist wahrscheinlich ein Park/Flughafen/Klassenzimmer.*
-- **Guessing:** *Ich glaube, dass … ; Vielleicht … ; Wahrscheinlich … ; Sie sehen glücklich aus, weil … ; Ich denke, sie sind im Urlaub.*
-- **Opinions on the theme:** *Meiner Meinung nach … ; Ich finde es wichtig, dass … ; Das hat Vor- und Nachteile.*
+### Role play model 1: im Restaurant (examiner = Kellner, use *Sie*)
+Prompts on your card: (1) Say how many people you are. (2) Say what you want to drink. (3) Choose a main course. (4) Say you are vegetarian / allergic. (5) Ask for the bill.
 
-**Tip:** your first answer is the longest: aim for **8–10 pieces of information** (people, objects, place, clothes, action, mood, weather, guess). Then **expand** every answer using *weil*, *aber*, an example, or a time reference (*Letztes Jahr …; Nächstes Jahr …*) without waiting for *Warum?* or *Noch etwas?*.
-
-### Tasks B and C: conversations
-Examiners start with a question, then **follow your answers**. Show you can **initiate and develop** ideas.
-
-**Structure of a developed answer (the "OREO"):** **O**pinion → **R**eason → **E**xample or detail (past or future) → **O**pinion again or contrast.
-*Ich wohne gern in einer Stadt, weil es immer viel zu tun gibt. Letztes Wochenende bin ich zum Beispiel ins Kino gegangen und danach habe ich mit Freunden gegessen. Allerdings ist es manchmal laut, und in Zukunft möchte ich vielleicht auf dem Land wohnen.*
-
-### Question bank with model answers (all themes)
-
-**Theme A: Home and abroad**
-- *Wie findest du deine Stadt? Warum?* → *Ich finde meine Stadt toll, weil es viele Geschäfte und Parks gibt. Es ist nur manchmal laut. Früher habe ich auf dem Land gewohnt, aber dort war es langweilig.*
-- *Wohin fährst du gern in Urlaub?* → *Ich fahre gern ans Meer, weil ich gern schwimme. Letzten Sommer bin ich mit meiner Familie nach Griechenland gefahren. Nächstes Jahr werde ich wahrscheinlich in die Berge fahren.*
-- *Warum kann Tourismus negativ sein?* → *Zu viele Touristen machen Lärm und Müll, und die Preise steigen für die Einheimischen. Man sollte umweltfreundlich reisen.*
-- *Welche Traditionen findest du wichtig?* → *Ich finde Weihnachten wichtig, weil die ganze Familie zusammenkommt. Wir essen zusammen und geben uns Geschenke.*
-
-**Theme B: Education and employment**
-- *Was ist dein Lieblingsfach und warum?* → *Mein Lieblingsfach ist Geschichte, weil der Lehrer interessante Geschichten erzählt. Ich bin auch gut in Englisch, aber ich finde Mathe schwierig.*
-- *Was hältst du von der Schuluniform / Schulregeln?* → *Meiner Meinung nach ist eine Schuluniform praktisch, denn man muss morgens nicht überlegen, was man anzieht. Aber ich finde, dass man seinen Stil verliert.*
-- *Was möchtest du nach der Schule machen?* → *Ich möchte studieren und Ärztin werden, weil ich Menschen helfen will. Ich werde zuerst mein Abitur machen. Letztes Jahr habe ich ein Praktikum in einem Krankenhaus gemacht.*
-- *Wie wichtig ist es, im Ausland zu arbeiten?* → *Das ist sehr nützlich, weil man eine Fremdsprache lernt und neue Kulturen kennenlernt.*
-
-**Theme C: Personal life and relationships**
-- *Beschreibe deine Familie.* → *Ich habe einen Bruder und eine Schwester. Mein Bruder ist 18 und studiert. Meine Schwester ist lustig, und ich verstehe mich gut mit ihr.*
-- *Was ist ein guter Freund?* → *Ein guter Freund muss ehrlich und zuverlässig sein. Ich kann ihm alles erzählen.*
-- *Wer ist dein Vorbild?* → *Mein Vorbild ist meine Mutter, weil sie immer hart arbeitet und mir hilft.*
-- *Hilfst du zu Hause?* → *Ja, ich räume mein Zimmer auf und decke den Tisch. Gestern habe ich das Abendessen gekocht.*
-
-**Theme D: The world around us**
-- *Was tust du für die Umwelt?* → *Ich recycle Papier und Plastik, und ich fahre mit dem Rad zur Schule. Letzte Woche habe ich an einer Müllaktion teilgenommen.*
-- *Was sind die größten Umweltprobleme?* → *Der Klimawandel und der Plastikmüll sind die größten Probleme. Die Regierung sollte mehr für erneuerbare Energien tun.*
-- *Wie fährst du am liebsten?* → *Am liebsten fahre ich mit dem Zug, weil das bequem und umweltfreundlich ist.*
-- *Was wirst du in Zukunft tun?* → *In Zukunft werde ich weniger Fleisch essen und weniger fliegen.*
-
-**Theme E: Social activities, fitness and health**
-- *Was machst du in deiner Freizeit?* → *Ich spiele Fußball und treffe mich mit Freunden. Letztes Wochenende sind wir ins Kino gegangen. Nächstes Jahr möchte ich Gitarre lernen.*
-- *Wie wichtig ist ein gesundes Leben?* → *Es ist sehr wichtig, weil man sich besser fühlt und weniger krank wird. Ich esse viel Obst und mache dreimal pro Woche Sport.*
-- *Was hältst du von sozialen Medien?* → *Sie haben Vorteile, zum Beispiel kann man Kontakt zu Freunden halten. Aber Cybermobbing ist ein Problem.*
-- *Wie feierst du deinen Geburtstag?* → *Normalerweise lade ich Freunde ein. Letztes Jahr haben wir gegrillt. Nächstes Jahr werde ich eine Party machen.*
-
-### Interaction and spontaneity (8 marks)
-- Answer **at once** with a full sentence; say *Das ist eine gute Frage* only occasionally, not as a habit.
-- **Repair strategies** when you lose a word: **paraphrase**: *… ein Ort, wo man Bücher leiht* (library). Say *Entschuldigung, können Sie das wiederholen?* if you didn't understand (allowed, and shows interaction).
-- **Develop independently:** after your answer, add an extra detail or an example. Even **ask the examiner** a short question if the conversation allows (*Und Sie?*).
-- Avoid **memorised blocks** that don't answer the question (marks go down if rehearsed and irrelevant).
-
-### Pronunciation quick guide
-| Letter | Sound |
+| Examiner | You |
 |---|---|
-| **ch** after a, o, u, au | like Scottish "loch": *Buch, machen, auch* |
-| **ch** after e, i, ä, ö, ü | softer, like a hiss: *ich, Kirche, Mädchen* |
-| **ei** | "eye": *Zeit, mein, Eis* |
-| **ie** | "ee": *Fliege, Kino, lieben* |
-| **eu / äu** | "oy": *heute, Häuser* |
-| **w** | "v": *Wasser, wohnen* |
-| **v** | usually "f": *Vater, viel* |
-| **z** | "ts": *Zeit, Zimmer* |
-| **s** before vowel | "z": *Sonne, sehen* |
-| **sch / sp / st** (start of word) | "sh", "shp", "sht": *Schule, sprechen, Stadt* |
-| **ü, ö** | round lips: *Schüler, schön* |
-| **j** | "y": *ja, Juli* |
-| **-ig** at end | like *ich*: *wichtig* |
+| *Guten Abend! Wie viele Personen sind Sie?* | *Wir sind zu viert.* / *Ein Tisch für zwei Personen, bitte.* |
+| *Was möchten Sie trinken?* | *Ich möchte ein Mineralwasser, bitte.* |
+| *Was möchten Sie essen?* | *Ich nehme die Gemüsesuppe und danach die Nudeln.* |
+| *Gibt es ein Problem mit dem Essen?* | *Ich bin Vegetarierin. Ist das Gericht ohne Fleisch?* |
+| *Noch etwas?* | *Die Rechnung, bitte.* / *Kann ich mit Karte zahlen?* |
 
-Stress the **first syllable** of most German words: *FAmilie, UNterricht, BAHNhof*.
+### Role play model 2: Fahrkarte kaufen (examiner = Mitarbeiter am Bahnhof)
+Prompts: (1) Say where you want to go. (2) Single or return? (3) Say when you want to travel. (4) Ask the price. (5) Ask which platform.
+*Ich möchte nach Hamburg fahren. · Eine Hin- und Rückfahrt, bitte. · Morgen früh um halb neun. · Wie viel kostet das? · Von welchem Gleis fährt der Zug ab?*
 
-### Rating your own answers
-- **Level 1–2:** short, repeated words, rehearsed or hesitant.
-- **Level 3–4:** some development, a few opinions with brief reasons, some past/future.
-- **Level 5–6:** frequently developed, opinions with reasons, past/present/future mostly correct.
-- **Top level:** fluent, extended answers, creative language, a wide range of structures, accurate tenses.
+### Role play model 3: beim Arzt
+Prompts: say what is wrong; how long; ask for medicine; ask when to come back.
+*Ich habe Bauchschmerzen und Fieber. · Seit zwei Tagen. · Können Sie mir etwas dagegen geben? · Wann soll ich wiederkommen?*
+
+### Topic conversations: how they work
+Two topics (areas A–E) of about 4 minutes each. The examiner has a script of questions and alternative questions if you struggle. To reach the top band you must **develop** answers, give **opinions with reasons**, and use a **range of structures** from the syllabus: present, perfect, imperfect, future, conditional, modal verbs, subordinate clauses.
+
+**Answer formula (OPRE):** **O**pinion → **P**oint (what) → **R**eason (*weil*) → **E**xample or other time frame. 3–4 sentences per answer, no more than about 30 seconds.
+
+### Questions and model answers
+
+**A Everyday activities (food, health, travel, daily routine)**
+- *Was isst du normalerweise zum Frühstück?* → *Normalerweise esse ich Müsli mit Obst und trinke Tee. Am Wochenende esse ich lieber Brötchen mit Marmelade, weil ich dann mehr Zeit habe.*
+- *Wie kommst du zur Schule?* → *Ich fahre mit dem Bus, weil meine Schule ziemlich weit weg ist. Das dauert etwa zwanzig Minuten. Früher bin ich mit dem Rad gefahren, aber das war im Winter zu kalt.*
+- *Was machst du für deine Gesundheit?* → *Ich gehe zweimal pro Woche schwimmen und esse viel Gemüse. Ich finde das wichtig, weil man sich dann besser fühlt.*
+
+**B Personal and social life (family, friends, home, clothes, free time)**
+- *Beschreibe deine Familie.* → *Wir sind vier: meine Eltern, mein kleiner Bruder und ich. Mein Vater ist Ingenieur und meine Mutter arbeitet als Lehrerin. Mit meinem Bruder verstehe ich mich gut, aber manchmal streiten wir uns.*
+- *Was hast du letztes Wochenende gemacht?* → *Am Samstag bin ich mit Freunden in die Stadt gegangen und wir haben ein Eis gegessen. Am Sonntag habe ich Hausaufgaben gemacht und einen Film gesehen. Das war ein schönes Wochenende.*
+- *Was ist dein Lieblingshobby?* → *Mein Lieblingshobby ist Tennis. Ich spiele seit fünf Jahren und trainiere zweimal pro Woche. Nächstes Jahr möchte ich an einem Turnier teilnehmen.*
+- *Wo wohnst du?* → *Ich wohne in einer Wohnung im dritten Stock. Wir haben ein Wohnzimmer, drei Schlafzimmer und einen kleinen Balkon. Mein Zimmer gefällt mir, weil es hell ist.*
+
+**C The world around us (town, weather, environment, technology, shopping)**
+- *Wie ist deine Stadt?* → *Madrid ist groß und laut, aber es gibt viel zu tun. Es gibt viele Museen, Parks und Geschäfte. Ich finde die Stadt interessant, aber es gibt zu viel Verkehr.*
+- *Wie ist das Wetter bei dir im Sommer?* → *Im Sommer ist es sehr heiß, oft über vierzig Grad. Ich bleibe dann lieber im Haus oder gehe schwimmen.*
+- *Was machst du für die Umwelt?* → *Ich trenne den Müll und benutze weniger Plastik. Wenn ich mehr Geld hätte, würde ich ein Elektroauto kaufen.*
+- *Wie oft benutzt du dein Handy?* → *Ich benutze mein Handy ziemlich oft, vor allem für Chats mit Freunden. Ich finde es nützlich, aber ich verbringe zu viel Zeit damit.*
+
+**D The world of work (school, jobs, future)**
+- *Wie ist deine Schule?* → *Meine Schule ist groß und modern. Es gibt ein Labor und eine Bibliothek. Mein Lieblingsfach ist Biologie, weil es mich sehr interessiert.*
+- *Was möchtest du später machen?* → *Ich möchte Ärztin werden, weil ich Menschen helfen will. Nach der Schule werde ich Medizin studieren. Es wird nicht leicht sein, aber ich arbeite hart.*
+- *Hast du einen Nebenjob oder ein Praktikum gemacht?* → *Letztes Jahr habe ich ein Praktikum in einer Apotheke gemacht. Das war interessant, aber auch anstrengend, weil ich den ganzen Tag stehen musste.*
+
+**E The international world (countries, languages, festivals, customs)**
+- *Welche Sprachen sprichst du?* → *Ich spreche Spanisch, Englisch und ein bisschen Deutsch. Ich lerne Deutsch seit drei Jahren und finde die Grammatik schwierig, aber interessant.*
+- *Welches Land möchtest du besuchen?* → *Ich möchte nach Österreich fahren, weil ich gern Ski fahre. Ich werde wahrscheinlich nächsten Winter dorthin reisen.*
+- *Wie feiert ihr Weihnachten?* → *Wir feiern am 24. Dezember mit der ganzen Familie. Wir essen zusammen und geben uns Geschenke. Am 6. Januar bekommen die Kinder noch Geschenke.*
+
+### Phrases that boost Language marks
+- **Opinions:** *Meiner Meinung nach … · Ich finde, dass … · Ich bin der Meinung, dass … · Ich glaube, … · Es hängt davon ab.*
+- **Connectives:** *weil, denn, obwohl, wenn, dass, aber, außerdem, deshalb.*
+- **Tenses:** *Letztes Jahr bin ich … gefahren. · Früher hatte ich … · Nächstes Jahr werde ich … · Ich würde gern … · Ich möchte …*
+- **Comparisons:** *Ich finde Fußball interessanter als Tennis.*
+- **Frequency and time:** *normalerweise, manchmal, selten, früher, in Zukunft.*
+
+### Fillers and repair phrases
+- *Das ist eine gute Frage. · Moment, … · Also, … · Ich muss kurz nachdenken. · Eigentlich … · Ich denke, dass …*
+- Not understood: *Wie bitte? · Können Sie / Kannst du das bitte wiederholen? · Was bedeutet das?*
+- Search for a word: *Wie sagt man … auf Deutsch? · Ich meine … · Das heißt … .* Rephrase with simpler German if you don't know a word.
+
+### Pronunciation reminders
+- *ch* after *a, o, u, au*: *Buch, Nacht* (back of the throat); after *e, i, ä, ö, ü*, or *l, n, r*: *ich, nicht, Milch* (softer).
+- *ei* = "eye" (*mein, klein*); *ie* = "ee" (*lieben, Kino*); *eu/äu* = "oy" (*Freund, Häuser*).
+- *w* = English *v* (*Wasser*); *v* = *f* (*Vater*); *z* = *ts* (*Zimmer*); *s* before vowel = *z* (*Sonne*); *sp-* and *st-* at the start = *shp-* / *sht-*.
+- *ü* and *ö*: round your lips (*über, schön*). Stress the first syllable of most words.
 
 ## Key terms and definitions
 
-- **picture-based discussion (Task A):** answering questions about a picture and the theme it illustrates.
-- **conversation (Tasks B, C):** a spoken exchange with the examiner about a theme.
-- **develop an answer:** add reasons, examples, past/future details, and opinions.
-- **justify:** give a reason for an opinion.
-- **spontaneity:** answering naturally and unrehearsed.
-- **paraphrase:** explaining a word you don't know using other words.
-- **intonation:** the rise and fall of the voice.
-- **randomisation grid:** the Pearson table that decides which themes appear in Tasks A, B and C.
+- **Role play:** a short task in which you play a part in an everyday situation using prompts on a card.
+- **Topic conversation:** a conversation of about 4 minutes on a topic, with opinions and experiences.
+- **Communication:** how clearly and fully you get across relevant information and opinions.
+- **Quality of Language:** range and accuracy of vocabulary and structures, pronunciation and fluency.
+- **Alternative question:** a simpler question the examiner may use if you struggle (it can lower your Communication band).
 
 ## Worked examples
 
-**1. [Task A] Examiner: *Beschreibe das Bild bitte.* Picture: a family at an airport.**
-Weak: *Eine Familie. Sie sind am Flughafen.* (low communication)
-Strong: *Auf dem Bild sehe ich eine Familie am Flughafen: einen Vater, eine Mutter und zwei Kinder. Der Vater trägt zwei Koffer, und die Mutter hat einen Rucksack. Die Kinder sehen glücklich aus, weil sie wahrscheinlich in den Urlaub fliegen. Im Hintergrund sieht man ein Flugzeug. Ich glaube, es ist Sommer, denn alle tragen T-Shirts.*
+**Example 1 (role play, 2 marks).** Card: "Say what you want to eat." Examiner: *Was möchten Sie essen?* A 2-mark answer: *Ich möchte bitte eine Pizza mit Pilzen.* A 1-mark answer: *Pizza.* (partly communicated; no sentence); a 0-mark answer: *Ich habe Hunger.* (not the information asked for). 
 
-**2. [Task B/C] Examiner: *Was hast du letztes Wochenende gemacht?***
-Model: *Am Samstag bin ich mit meinen Freunden in die Stadt gefahren und wir haben Kleidung gekauft. Das hat mir viel Spaß gemacht, weil wir viel gelacht haben. Am Sonntag habe ich meine Hausaufgaben gemacht, aber das war langweilig. Nächstes Wochenende werde ich ins Kino gehen.* (past, past, opinion, reason, future)
+**Example 2 (conversation, Communication).** Question: *Was machst du gern in deiner Freizeit?* Weak: *Ich spiele Fußball.* Better: *Ich spiele sehr gern Fußball, weil ich gern im Team bin. Letztes Wochenende haben wir ein Spiel gewonnen, das war toll. Nächstes Jahr möchte ich in einem größeren Verein spielen.* Why: opinion, reason, past, future, development.
 
-**3. [Task C] Examiner: *Warum ist Umweltschutz wichtig?***
-Model: *Umweltschutz ist wichtig, weil der Klimawandel unsere Zukunft bedroht. Wenn wir nichts tun, werden die Städte noch schmutziger. Ich fahre deshalb mit dem Rad zur Schule, und im Sommer habe ich bei einer Putzaktion geholfen.*
+**Example 3 (Language: tenses and subordinate clause).** *Obwohl ich nicht gern früh aufstehe, fahre ich jeden Tag mit dem Bus zur Schule.* When a subordinate clause comes first, the main clause that follows **starts with its verb** (verb-second rule): *…, fahre ich …*.
 
 ## Common mistakes
 
-- Very **short answers** and waiting for the examiner's *Warum?*.
-- Using **only the present tense**: put a past and a future event into B and C answers.
-- **Verb position** errors: *Weil ich bin müde …* instead of *Weil ich müde bin …*; *Ich gehe morgen* is fine but *Morgen ich gehe* is not.
-- Wrong **gender/case** in common phrases: *mit dem Auto*, *in der Schule*, *für meinen Bruder*.
-- Using **English words** or "um" (ähm) too often.
-- Pronouncing **w as w**, **ei/ie** wrong, **ch** as k, ending **-ig** with a hard g.
-- A memorised speech that does not fit the question.
-- Describing without **interpreting** (guessing, opinions) in Task A.
-- Forgetting the **conditional/opinion** structures that gain top marks (*Ich würde … ; Ich wäre … ; Wenn ich …, würde ich …*).
+- Giving one-word answers (low Communication).
+- Reading from memory with no expression; a script that doesn't fit the question.
+- Answering a different question (e.g. describing your town when asked about weather).
+- Wrong auxiliary (*Ich habe gegangen*).
+- Verb not at the end after *weil* (*weil ich habe keine Zeit*).
+- Using *du* with the examiner in the role play when it is *Sie* (or the reverse with a friend).
+- Not asking the question on the card.
+- Staying silent when you don't know a word: use a filler and rephrase.
+- Using only the present tense.
 
 ## Practice questions
 
-Answer aloud, record yourself, then listen back.
-
-1. Task A: describe a photo of a family eating in a restaurant (use at least 6 phrases from the language bank). [8]
-2. Task A: *Warum ist es wichtig, mit der Familie zu essen?* Answer with a reason and an example. [4]
-3. Task B (Theme B): *Was ist dein Lieblingsfach und warum?* Give opinion, reason, and one past example. [4]
-4. Task B (Theme B): *Was möchtest du nach der Schule machen?* Use future and conditional. [4]
-5. Task C (Theme E): *Was hast du letztes Wochenende in deiner Freizeit gemacht?* [4]
-6. Task C (Theme E): *Wie wichtig ist ein gesundes Leben?* [4]
-7. Task C (Theme D): *Was kann jeder für die Umwelt tun?* [4]
-8. Translate and say aloud: *Last summer I went to Austria with my friends because I like mountains.* [3]
+1. Role play (hotel reception, *Sie*): (a) Say you have a booking. (b) Say your name and how many nights. (c) Ask if breakfast is included. (d) Ask about Wi-Fi. (e) Say you will pay by card. Write the five answers. **[10]**
+2. Answer in full sentences: *Was hast du gestern nach der Schule gemacht?* **[3]**
+3. Give an opinion with *weil* about school uniform. **[2]**
+4. Say in German what you would like to do after school, with a reason, in two sentences. **[3]**
+5. Make this answer longer: *Ich mag Sport.* (add reason, past and future) **[3]**
+6. Say how you would ask the examiner to repeat a question. **[1]**
+7. Say two things you do for the environment and one you would do if you had more money. **[3]**
+8. Pronounce (practise aloud): *ich, Buch, Zimmer, Vater, Wasser, schön, über.* **[–]**
 
 <details><summary>Answers</summary>
 
-Model ideas (recordings are marked against the criteria: development, justification, tenses, pronunciation).
-
-1. *Auf dem Bild sehe ich eine Familie in einem Restaurant. Es sind vier Personen: die Eltern und zwei Kinder. Sie sitzen an einem Tisch, und der Vater liest die Speisekarte. Die Mutter trägt ein rotes Kleid. Im Hintergrund sieht man einen Kellner. Sie sehen glücklich aus, weil sie wahrscheinlich etwas feiern.*
-2. *Es ist wichtig, weil man dabei miteinander redet. Bei uns essen wir jeden Abend zusammen, und das hilft mir, weil ich meine Eltern von meinem Tag erzählen kann.*
-3. *Mein Lieblingsfach ist Chemie, weil ich Experimente mag. Letzte Woche haben wir Säuren getestet, und das war spannend.*
-4. *Ich möchte studieren und Ingenieurin werden. Wenn ich gute Noten bekomme, werde ich an einer Universität im Ausland studieren. Ich würde gern in Deutschland leben.*
-5. *Ich bin am Samstag schwimmen gegangen und habe abends einen Film gesehen. Das hat Spaß gemacht, weil meine Freunde dabei waren.*
-6. *Es ist sehr wichtig, weil man dann mehr Energie hat. Ich esse viel Gemüse und mache Sport. Früher habe ich viel Fast Food gegessen, aber jetzt nicht mehr.*
-7. *Jeder kann Müll trennen, weniger Auto fahren und Strom sparen. Wenn alle mithelfen, schützen wir das Klima.*
-8. *Letzten Sommer bin ich mit meinen Freunden nach Österreich gefahren, weil ich die Berge mag.*
+1. e.g. (a) *Ich habe ein Zimmer reserviert.* (b) *Mein Name ist Ruiz, und ich bleibe drei Nächte.* (c) *Ist das Frühstück im Preis inbegriffen?* (d) *Gibt es WLAN im Hotel?* (e) *Ich möchte mit Karte bezahlen.*
+2. e.g. *Gestern bin ich nach der Schule nach Hause gegangen und habe Hausaufgaben gemacht. Danach habe ich mit Freunden gechattet. Am Abend habe ich ferngesehen.*
+3. e.g. *Ich finde Schuluniformen gut, weil sie nicht teuer sind. / Ich finde sie schlecht, weil ich meinen eigenen Stil haben will.*
+4. e.g. *Ich möchte Lehrer werden, weil ich gern mit Kindern arbeite. Nach der Schule werde ich an der Universität studieren.*
+5. e.g. *Ich mag Sport sehr, weil er mir Spaß macht und gesund ist. Letztes Jahr habe ich an einem Wettkampf teilgenommen. Nächstes Jahr werde ich in einen Verein eintreten.*
+6. *Können Sie die Frage bitte wiederholen?* / *Wie bitte?*
+7. e.g. *Ich trenne den Müll und fahre mit dem Rad. Wenn ich mehr Geld hätte, würde ich Solarzellen kaufen.*
+8. Check: *ich* (soft *ch*), *Buch* (back *ch*), *Zimmer* (ts), *Vater* (f), *Wasser* (v), *schön* (rounded ö), *über* (rounded ü).
 
 </details>
 
 ## Plan for this hour
 
-- **0–10 min:** study the language bank and the picture-description phrases; pick a photo from a magazine or the internet that has people, objects and interactions.
-- **10–25 min:** practise Task A out loud (describe, then answer five invented questions) and record it.
-- **25–50 min:** practise Tasks B and C with the question bank: 2 questions per theme, aiming for 6 sentences each; include past, present and future.
-- **50–60 min:** listen to the recording, tick against the levels, and re-record your weakest answer.
+- **0–10 min:** Read the role play notes; practise models 1–3 aloud, covering the right-hand column.
+- **10–25 min:** Choose two topic areas. Write 5 key words (not sentences) for each question; answer aloud using OPRE, 30 seconds each.
+- **25–40 min:** Record yourself on two topics (2 minutes each). Listen back for tenses, opinions with *weil*, and pronunciation.
+- **40–55 min:** Practice questions 1–7 aloud; repeat the answers you got wrong.
+- **55–60 min:** Write a list of ten phrases (fillers, opinion, tenses) to use next time.

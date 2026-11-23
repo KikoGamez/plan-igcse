@@ -1,34 +1,161 @@
-{"id":"cs-r1-09","cards":[
-{"f":"Input-process-output model","b":"A system takes input, processes it and produces output. Storage keeps data and programs."},
-{"f":"Von Neumann architecture","b":"Instructions and data are stored in the same main memory as binary and fetched by the CPU one at a time."},
-{"f":"Stored program concept","b":"Program instructions are held in memory with the data, so a computer can do different tasks by loading different programs."},
-{"f":"Control unit (CU)","b":"Decodes instructions and sends control signals to coordinate the other components."},
-{"f":"Arithmetic logic unit (ALU)","b":"Performs arithmetic (add, subtract) and logic (AND, OR, NOT) operations and comparisons."},
-{"f":"Registers","b":"Very small, very fast storage locations inside the CPU holding data, addresses or instructions in use."},
-{"f":"Program counter (PC)","b":"Holds the address of the next instruction to be fetched. Incremented during fetch."},
-{"f":"MAR and MDR","b":"Memory address register holds the address being accessed. Memory data register holds the data or instruction just read or about to be written."},
-{"f":"Address bus","b":"Carries the address of the memory location being accessed. One direction: CPU to memory."},
-{"f":"Data bus","b":"Carries data and instructions between the CPU, memory and input/output devices. Two-way."},
-{"f":"Control bus","b":"Carries control signals such as memory read, memory write and the clock."},
-{"f":"Fetch-decode-execute","b":"Fetch the instruction from memory (PC increments). Decode it in the control unit. Execute it, e.g. in the ALU."},
-{"f":"Clock speed","b":"Number of cycles per second, in hertz (GHz). Higher means more instructions can be processed each second."},
-{"f":"Why more cores can improve performance","b":"Each core can process instructions at the same time (parallel), if the software can use several cores."},
-{"f":"Embedded system","b":"A computer system built into a larger device to perform a dedicated function, e.g. a washing machine controller."}
-],
-"gaps":[
-{"s":"The part of the CPU that carries out calculations is the ___.","a":["ALU","arithmetic logic unit","arithmetic and logic unit"]},
-{"s":"The ___ holds the address of the next instruction to be fetched.","a":["program counter","PC"]},
-{"s":"The three stages of the cycle are fetch, decode and ___.","a":["execute"]},
-{"s":"The ___ bus carries memory addresses from the CPU to memory.","a":["address"]},
-{"s":"A CPU clock speed of 3 GHz means 3 billion ___ per second.","a":["cycles","clock cycles"]},
-{"s":"Small, fast memory close to the CPU that holds frequently used data is called ___.","a":["cache","cache memory"]},
-{"s":"In the Von Neumann model, data and instructions are held in the same ___.","a":["memory","main memory","RAM"]},
-{"s":"Processing different parts of a task at the same time on several cores is called ___ processing.","a":["parallel"]}
-],
-"short":[
-{"q":"Describe what happens in the fetch stage of the fetch-decode-execute cycle.","model":"The address in the program counter is sent to memory, and the instruction at that address is brought into the CPU. The program counter is then incremented.","points":["instruction at address in PC fetched from memory","PC incremented"]},
-{"q":"Explain the purpose of the clock in a CPU.","model":"The clock sends regular pulses that synchronise the operations of the CPU. The faster the clock, the more cycles per second, so more instructions can be executed.","points":["sends regular pulses to synchronise operations","higher speed gives more cycles / instructions per second"]},
-{"q":"Give two characteristics of an embedded system.","model":"It is built into a larger device and performs one dedicated task. It is usually small, low-power and runs a fixed program stored in ROM.","points":["built into a larger device","dedicated / specific function (e.g. fixed program, low power)"]},
-{"q":"Describe the difference between the address bus and the data bus.","model":"The address bus carries the address of the memory location to be accessed, in one direction from the CPU. The data bus carries the data or instructions themselves, in both directions.","points":["address bus carries addresses (one way)","data bus carries data/instructions (two way)"]},
-{"q":"Explain how having more than one core can improve the performance of a computer.","model":"Each core can run instructions at the same time, so several tasks, or parts of one task, can be processed in parallel. This only helps if the software can use multiple cores.","points":["cores can process instructions at the same time / parallel","only if software is written to use multiple cores"]}
-]}
+{
+ "id": "cs-r1-09",
+ "cards": [
+  {
+   "f": "Linear search",
+   "b": "Checks each item in turn from the start until the item is found or the end of the list is reached. Works on unsorted data."
+  },
+  {
+   "f": "Bubble sort",
+   "b": "Repeatedly compares adjacent items and swaps them if in the wrong order, until a pass has no swaps."
+  },
+  {
+   "f": "Why a temp variable in a swap",
+   "b": "It holds one value while the other is copied over it, so no value is lost."
+  },
+  {
+   "f": "Range check",
+   "b": "Checks a value lies between a lower and an upper limit."
+  },
+  {
+   "f": "Length check",
+   "b": "Checks the number of characters is allowed (e.g. at least 8 or exactly 6)."
+  },
+  {
+   "f": "Type check",
+   "b": "Checks data is of the correct data type, e.g. integer."
+  },
+  {
+   "f": "Presence check",
+   "b": "Checks that data has been entered (not left blank)."
+  },
+  {
+   "f": "Format check",
+   "b": "Checks data matches a set pattern, e.g. DD/MM/YYYY."
+  },
+  {
+   "f": "Check digit",
+   "b": "An extra digit calculated from the other digits; recalculated on entry to detect errors."
+  },
+  {
+   "f": "Verification methods",
+   "b": "Visual check and double entry."
+  },
+  {
+   "f": "Normal test data",
+   "b": "Valid data that should be accepted, e.g. 50 for a range 0–100."
+  },
+  {
+   "f": "Abnormal test data",
+   "b": "Data that should be rejected, e.g. -5, 150 or text for a range 0–100."
+  },
+  {
+   "f": "Extreme vs boundary data",
+   "b": "Extreme: valid limits (0, 100). Boundary: limit and the nearest rejected value (100 and 101)."
+  },
+  {
+   "f": "Trace table",
+   "b": "Records the value of each variable and output as an algorithm is dry-run, one step at a time."
+  },
+  {
+   "f": "Starting value for Max",
+   "b": "Set Max to the first item in the list, not 0."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A ___ search checks each item in turn from the start of a list.",
+   "a": [
+    "linear"
+   ]
+  },
+  {
+   "s": "A ___ sort compares adjacent items and swaps them if they are in the wrong order.",
+   "a": [
+    "bubble"
+   ]
+  },
+  {
+   "s": "Checking that a value is between 1 and 12 is a ___ check.",
+   "a": [
+    "range"
+   ]
+  },
+  {
+   "s": "Typing a password twice and comparing the two entries is called ___ entry.",
+   "a": [
+    "double"
+   ]
+  },
+  {
+   "s": "A ___ table is used to record variable values as an algorithm is dry-run.",
+   "a": [
+    "trace"
+   ]
+  },
+  {
+   "s": "Data that should be rejected by a program is called ___ test data.",
+   "a": [
+    "abnormal",
+    "erroneous"
+   ]
+  },
+  {
+   "s": "A ___ digit is calculated from other digits and used to detect entry errors.",
+   "a": [
+    "check"
+   ]
+  },
+  {
+   "s": "Checking data has been entered correctly is called ___.",
+   "a": [
+    "verification"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Explain the difference between extreme and boundary test data for a range of 1 to 20.",
+   "model": "Extreme data is valid data at the limits of the range, such as 1 and 20. Boundary data is the limit and the nearest value outside it, such as 20 and 21 or 1 and 0, to show where the program switches from accepting to rejecting.",
+   "points": [
+    "Extreme: 1 and 20 (valid limits)",
+    "Boundary: limit plus nearest rejected value (e.g. 20 and 21)"
+   ]
+  },
+  {
+   "q": "Show the list 8 3 6 1 after the first pass of a bubble sort into ascending order.",
+   "model": "3 6 1 8. 8 and 3 swap, 8 and 6 swap, 8 and 1 swap, so the largest value 8 moves to the end.",
+   "points": [
+    "Adjacent pairs compared and swapped",
+    "Largest value at the end",
+    "Final list 3 6 1 8"
+   ]
+  },
+  {
+   "q": "A user enters their age as 'twelve'. Name the validation check that would reject it and explain why.",
+   "model": "A type check would reject it because the age must be a number (integer) and 'twelve' is text.",
+   "points": [
+    "Type check",
+    "Value is text, not an integer"
+   ]
+  },
+  {
+   "q": "Explain why validation cannot guarantee that data is correct.",
+   "model": "Validation only checks that the data is reasonable and follows the rules. Data can pass the checks but still be wrong, e.g. an age of 17 typed instead of 71 is inside the valid range.",
+   "points": [
+    "Only checks data is reasonable/meets rules",
+    "Wrong data may still pass (example)"
+   ]
+  },
+  {
+   "q": "Write pseudocode to count how many of the 20 values in the array Scores[1:20] are greater than 50.",
+   "model": "Count ← 0\nFOR I ← 1 TO 20\n  IF Scores[I] > 50 THEN\n    Count ← Count + 1\n  ENDIF\nNEXT I\nOUTPUT Count",
+   "points": [
+    "Count initialised to 0",
+    "Loop through all 20 elements",
+    "Correct comparison and increment",
+    "Output count"
+   ]
+  }
+ ]
+}

@@ -1,149 +1,132 @@
-# World music traditions
+# Music for dance and music for small ensemble
 
-> **In the exam:** Paper 3 (Appraising, 1 h 45 min, 40%) tests world and fusion music through the **Fusions** set works (which blend two or more traditions) and through unfamiliar-music questions. Expect 1–4 mark questions asking you to identify an instrument or rhythm, name a feature of a tradition, or describe how traditions are combined, plus extended responses that compare pieces.
+> **In the exam:** Paper 1 (Listening, c.1 h 15 min, 70 marks) includes at least one extract from Area 5 (Music for dance: tango, salsa, EDM) and one from Area 6 (Music for small ensemble: silk and bamboo, Hindustani classical, Arab takht). The paper states the area and, where appropriate, the tradition. Expect: "Identify the instrument" (1), "Name the rhythm/scale/texture" (1), "Describe two features of the style" (2), "Comment on the context" (2–4), and occasionally a short descriptive question (up to the whole extract's 16 marks). One of the eight extracts gets a longer descriptive question, and it can come from any area.
 
 ## What you need to know
 
-- The key features, instruments, scales and rhythmic ideas of major traditions: **Indian classical, African drumming, Brazilian (samba and bossa nova), Irish/Celtic folk, Indonesian gamelan, Caribbean (steel pan, calypso, reggae)** and **Middle Eastern** music.
-- Terms such as **raga, tala, drone, polyrhythm, call and response, improvisation, cross-rhythm, ostinato, heterophony, monophony**.
-- What **fusion** means and how musicians blend traditions.
-- Instrument recognition by ear and by description.
+- **Area 5, Music for dance:** Tango, Salsa, EDM (Electronic Dance Music). Starting points: Piazzolla *Libertango*; Hector Lavoe *El Cantante*; F-777 *Viking Arena*.
+- **Area 6, Music for small ensemble:** silk and bamboo ensembles (China); Hindustani classical music (India); Arab takht ensembles. Starting points: *San Liu*, Chinese National Orchestra; Rāga Khamāj, Ravi Shankar; *Wasla en sabâ*, Al-Kindî Ensemble.
+- Identify the main **instruments** of each ensemble, describe features specific to the style, and comment on social and performance contexts.
+- Syllabus terms: *habanera, marcado, forward clave, reverse clave, tāla, īqā'āt, rāga, maqām, ālāp, jōr, gat, jhālā, drone, heterophonic, call and response, quarter-tone, pentatonic, sample, loop, drum machine, build up, drop, breakdown, orquesta típica.*
+- Skill: identify the tradition from a short extract by its **sound-world**.
 
 ## Notes
 
-### Overview table
+### Quick identification table
 
-| Tradition | Typical instruments | Key features |
+| Tradition | Sound-world clues | Main instruments |
 |---|---|---|
-| **Indian classical** | **Sitar, sarod, tabla, tanpura, bansuri, harmonium**, voice | **Raga** (melodic framework), **tala** (rhythmic cycle), **drone**, improvisation, **microtones**, ornaments (gamaka), starts slowly (**alap**) |
-| **West African drumming** | **Djembe, dunun, talking drum, shekere, balafon**, voices | **Polyrhythm / cross-rhythms**, **call and response**, ostinato patterns, improvisation by lead drummer, music linked to dance and community |
-| **Samba / Brazilian** | **Surdo, caixa, pandeiro, tamborim, agogô, cuíca, guitar** | **Batucada** percussion groups, syncopated 2/4 rhythm, call and response, carnival; **bossa nova**: gentle, jazz-influenced guitar and vocals |
-| **Irish / Celtic folk** | **Fiddle, tin whistle, uilleann pipes, bodhrán, accordion, harp** | Dance tunes: **jig** (6/8), **reel** (4/4), ornaments (rolls, cuts), modal tunes, **sean-nós** (unaccompanied ornamented singing) |
-| **Gamelan (Indonesia)** | **Metallophones (saron, bonang), gongs, kendang drums**, xylophone | **Interlocking parts**, **colotomic structure** (gongs mark the cycle), **pelog and slendro** scales, heterophonic texture |
-| **Caribbean** | **Steel pans, bass, percussion**; calypso with guitar and brass | Steel pan melodies, syncopation, **calypso** story-telling lyrics, **reggae** off-beat |
-| **Middle Eastern / Arabic** | **Oud, qanun, ney, darbuka (doumbek)** | **Maqam** (melodic modes with quarter tones), improvisation, monophonic/heterophonic textures |
+| **Tango** | Dramatic, passionate; strong accented ("marcado") rhythm; the sound of the bandoneón; expressive, dark melodies | **Bandoneón** (button accordion), violin, piano, double bass, (electric) guitar: the *orquesta típica* |
+| **Salsa** | Fast, driving, layered rhythms, brass stabs, a singer with a chorus answering; piano riffs | Congas, bongos, timbales, claves, güiro, bass, piano, trumpets/trombones, lead singer and chorus |
+| **EDM** | Electronic sounds; steady beat; build up → drop; repeated loops | Synthesisers, drum machine, samples, effects, DAW (digital audio workstation) |
+| **Silk and bamboo** (Jiangnan sizhu, China) | Delicate, light, **heterophonic**, **pentatonic**, flowing decorative lines | Silk strings: **erhu**, **pipa**, **guzheng**, **yangqin**; bamboo: **dizi** flute, **xiao**, **sheng** |
+| **Hindustani** | **Drone** under an improvising soloist; rāga and tāla; slow start, accelerating | **Sitar** (or sarod, bansuri), **tabla**, **tanpura** (drone) |
+| **Arab takht** | Quarter-tones; ornamented melody in **maqām**; rhythmic cycles | **Oud**, **qanun**, **nay**, violin, **riqq**, **darbuka** |
 
-### Indian classical music
+### Area 5: Music for dance
 
-- A **raga** is a set of notes with rules about how to use them, linked to a mood and time of day. It is not a scale but gives a melodic framework for improvisation.
-- A **tala** is a repeating rhythmic cycle (e.g. **Tintal** has 16 beats). The **sam** is the first beat.
-- A **drone** (tanpura) plays the tonic and fifth throughout.
-- Structure: **alap** (slow, free, no tala) → **jor** (pulse added) → **gat** (fixed composition with tabla and rhythm) → increasing speed.
-- **Texture:** melody + drone + percussion. Mostly **monophonic with a drone**; very often improvised.
-- Sitar: plucked string with moveable frets and sympathetic strings that give a shimmering sound; **tabla**: pair of hand drums that can slide in pitch.
+**Tango** (Argentina, Uruguay; Buenos Aires, late 1800s). Mixture of African, European and local influences in the port city. Dancers: close embrace, dramatic.
+- **Orquesta típica** (traditional line-up): bandoneón, violins, piano, double bass.
+- Rhythm: **marcado** (strong marked beat, a firm four-in-a-bar pulse) and **habanera** (long–short–long–long: dotted rhythm) are common.
+- Feel: slow-to-moderate, **dramatic**, expressive, with sudden stops, accents, slides (**portamento**) and **pizzicato**/scraped string effects.
+- **Piazzolla**'s *Libertango* (1974) is **nuevo tango**: tango blended with jazz and classical ideas. It has a strong driving bass ostinato, bandoneón and strings, and an expressive melody over repeated harmonic patterns. It is for **listening** as well as for dancing.
 
-### West African drumming
+**Salsa** (Latin America and New York; developed from Cuban *son* mixed with jazz and other styles; 1960s–70s). Dance music for pairs.
+- **Clave** is the rhythmic key: a 5-note pattern across two bars (3 + 2: **forward clave**; 2 + 3: **reverse clave**). All other parts fit around it. Played on two sticks called *claves*.
+- Rhythm section: **congas**, **bongos**, **timbales**, güiro, cowbell, **bass**, **piano** with repeating chord patterns (*montuno*).
+- Melody section: **trumpets and trombones** play punchy riffs and stabs.
+- Structure: **call and response** between the lead singer (*sonero*) and the chorus (*coro*); a verse followed by a long, improvised section.
+- Lavoe's *El Cantante* is a famous salsa song (1970s) with a strong lead vocal.
 
-- **Polyrhythm:** several different rhythms at once. **Cross-rhythm:** a clash such as 3 against 2.
-- **Call and response:** leader sings or drums; the group answers.
-- The **master drummer** (e.g. on djembe or talking drum) improvises over repeated ostinati from supporting drums and bells.
-- Music is social: it accompanies work, ceremonies and dance. It is passed on by **oral tradition**.
-- **Talking drum:** pitch can be altered by squeezing the cords to imitate speech.
+**EDM (Electronic Dance Music).** Made with music technology for clubs and festivals. Steady beat, usually 120–150 bpm.
+- Structure: **intro**, **build up** (rising energy: rising pitch, more layers, drum roll, filter sweep), **drop** (the climax where the beat and bass come in), **breakdown** (stripped back, then builds again), **outro**.
+- Sounds: **synthesisers**, **drum machine**, **samples**, **loops**, **chorus**, **reverb**, **delay**, **overdubbing / multi-tracking**.
+- F-777's *Viking Arena* is a typical modern EDM track with a build up and drop.
 
-### Brazilian music
+### Area 6: Music for small ensemble
 
-- **Samba:** fast, in 2/4, based on syncopated percussion. **Batucada** is a group of drummers: surdo (low bass drum on beat 2), caixa (snare), tamborim, agogô bells, cuíca ("squeaky" friction drum).
-- **Bossa nova:** developed in the late 1950s mixing **samba with jazz**; quiet vocal, nylon-string guitar with a syncopated pattern, extended jazz chords.
+**Silk and bamboo (Jiangnan sizhu, southern China).** Small groups in tea houses or social gatherings, played for pleasure. Instruments: *silk* = strings (originally silk strings): **erhu** (two-string fiddle), **pipa** (pear-shaped lute), **guzheng** (zither), **yangqin** (hammered dulcimer); *bamboo* = **dizi** (flute) and **xiao** (end-blown flute). Features: **pentatonic** scale; **heterophonic** texture (each player plays their own decorated version of the same tune at the same time); delicate, light; steady rhythm that may speed up. *San Liu* is performed here by the Chinese National Orchestra.
 
-### Irish and Celtic folk music
+**Hindustani classical music (North India).** A **rāga** is a collection of notes with particular patterns, moods and times of day; a **tāla** is a rhythmic cycle of beats (clapped patterns). The **drone** is played by the **tanpura** throughout. Soloist: **sitar** (plucked, with sympathetic strings and movable frets), **sarod** or **bansuri**; **tabla** (pair of drums) keeps tāla. A performance builds in stages:
+1. **Ālāp:** slow, free, no tabla, exploring the rāga.
+2. **Jōr:** steady pulse begins, no tabla yet, faster.
+3. **Jhālā:** very fast, rhythmic strumming on the drone strings, exciting.
+4. **Gat:** a fixed composition with tabla; improvised **call-and-response** between soloist and tabla.
+Rāga Khamāj (Ravi Shankar) is a rāga for the evening, with a light, romantic mood.
 
-- **Jig:** compound time, 6/8. **Reel:** simple time, 4/4, fast. **Hornpipe**, **slip jig** (9/8).
-- Ornaments (**cuts, rolls, triplets**) decorate the melodies. Tunes are often **modal** (Dorian, Mixolydian).
-- **Sean-nós:** very ornamented, unaccompanied traditional singing in Irish.
-- Instruments: **bodhrán** (frame drum played with a stick), **uilleann pipes**, **fiddle**, **tin whistle**.
+**Arab takht ensemble.** *Takht* means a small group sitting on a low platform; played in cafés, courts and concerts. Instruments: **oud** (short-neck lute), **qanun** (plucked zither), **nay** (reed flute), **violin**, **riqq** (tambourine), **darbuka** (goblet drum). Music is in a **maqām**, a set of notes and patterns (includes **quarter tones**, notes between the piano keys). A **wasla** is a suite of pieces linked in the same maqām. Rhythms are cycles called **īqā'āt** (singular *īqā'*). Melody is mostly **monophonic** or **heterophonic**, decorated and sometimes improvised.
 
-### Gamelan
+### Describe-the-features template
 
-- Ensemble of tuned bronze instruments: **metallophones** (struck bars), **gongs** (large gong marks the end of a cycle), drums.
-- **Colotomic structure:** a repeating cycle in which different gongs mark fixed points.
-- **Interlocking (kotekan):** two parts play alternating notes that fit together to make one fast melody.
-- Two scales: **slendro** (5 notes, roughly equal) and **pelog** (7 notes, unequal intervals, usually 5 are used).
-- **Heterophony:** the same melody played at the same time but in different decorated versions.
-
-### Fusion
-
-**Fusion** blends two or more musical traditions: for example Irish folk with African rhythms and electronic dance beats, or jazz with Brazilian rhythms. In answers, identify **what comes from each tradition** and **how they are combined**.
-
-| Technique | What it does |
-|---|---|
-| Traditional instruments + electronic sounds | Mixes timbres of each tradition and technology |
-| Rhythms from one culture, melody from another | Gives a new groove |
-| Sampling | Brings in recordings of folk singers or instruments |
-| Vocals in a traditional style over a modern beat | Mixes old and new |
-
-### Describing a world-music extract
-
-1. Name the **tradition** (if you can) and the **instruments** you hear.
-2. **Rhythm:** is there a repeating cycle, polyrhythm or syncopation?
-3. **Texture:** drone, call and response, interlocking, heterophony.
-4. **Melody:** ornamented, modal, microtonal, improvised.
-5. **Function:** dance, ritual, storytelling, entertainment.
+For a "describe the features" question, give: **instruments**, **melody/scale**, **rhythm**, **texture**, **structure**, **context** (dance? social? religious?). Always name the tradition if asked.
 
 ## Key terms and definitions
 
-- **Raga:** a framework of notes and melodic rules used for improvisation in Indian classical music.
-- **Tala:** a repeated rhythmic cycle in Indian classical music.
-- **Drone:** a long sustained note or notes, usually the tonic and fifth.
-- **Polyrhythm:** two or more different rhythms played at the same time.
-- **Call and response:** a phrase sung or played by a leader answered by a group.
-- **Heterophony:** a texture in which different versions of the same melody are played at once.
-- **Pentatonic:** a scale of five notes.
-- **Microtones:** intervals smaller than a semitone.
-- **Improvisation:** making up music as you perform.
-- **Oral tradition:** music passed on by ear and memory rather than written notation.
-- **Fusion:** a blend of two or more musical traditions or styles.
+- **Clave:** a repeating rhythmic pattern of five notes (3 + 2 or 2 + 3) that organises salsa.
+- **Call and response:** a leader sings or plays a phrase, answered by a group or another instrument.
+- **Habanera:** a rhythm pattern (long–short–long–long) found in Latin American dance music such as tango.
+- **Marcado:** a strongly accented, marked beat, typical of tango.
+- **Drone:** a long sustained note or notes under the melody.
+- **Rāga:** the Indian system of melodic notes, patterns and moods.
+- **Tāla:** the cycle of beats in Indian classical music.
+- **Heterophonic:** several players perform different versions of the same melody together.
+- **Maqām:** a set of notes and melodic patterns in Arab music, often with quarter tones.
+- **Quarter-tone:** an interval that is smaller than a semitone.
+- **Pentatonic:** a five-note scale.
+- **Build up / drop:** in EDM, rising energy leading to the main beat entering with the bass.
+- **Sample / loop:** a recorded sound excerpt / a section repeated continuously.
 
 ## Worked examples
 
-**1. Give two features of Indian classical music. [2]**
+**1. Name two instruments heard in a Hindustani classical performance. [2]**
+*Model answer:* "Sitar (1) and tabla (1)." (tanpura/sarod/bansuri also accepted.)
 
-*Model answer:* The melody is based on a raga [1] and there is a drone (tanpura) throughout / the rhythm follows a tala cycle / the sitar and tabla [1].
+**2. This extract is from a salsa track. Describe two features of the rhythm section. [2]**
+*Model answer:* "Congas and timbales play layered, driving rhythms (1) that are built around the clave pattern (1)." 
 
-**2. Describe how polyrhythm is created in West African drumming. [3]**
+**3. Describe the texture of the silk and bamboo extract. [2]**
+*Model answer:* "It is heterophonic (1): the erhu, dizi and pipa all play their own decorated version of the same melody at the same time (1)."
 
-*Model answer:* Different drums play different repeating rhythmic patterns at the same time [1]. Some patterns are in groups of 3 against others in 2 (cross-rhythms) [1]. The master drummer improvises over the top while the others keep ostinati [1].
-
-**3. A piece mixes an Irish fiddle tune with African drums and electronic beats. Explain how it is a fusion. [4]**
-
-*Model answer:* Instruments from different traditions are combined: fiddle/tin whistle from Irish folk and djembe or talking drum from West Africa [1]. The fiddle plays an ornamented, modal melody while the drums play polyrhythms [1]. Electronic sounds such as synthesisers and a drum machine add a modern dance feel [1]. Vocals may be sung in the Irish style (sean-nós) over a modern beat [1].
+**4. Explain how a typical EDM track creates excitement. [3]**
+*Model answer:* "A build up adds layers, rises in pitch and has a drum roll (1), which leads to the drop where the bass and beat enter with full force (1). Loops are repeated, and a breakdown strips the texture back before the build begins again (1)."
 
 ## Common mistakes
 
-- Saying "a raga is a scale". It is a **framework** with a mood and rules of movement.
-- Writing "tabla" for any drum. **Djembe** is West African; **tabla** is Indian; **bodhrán** is Irish.
-- Confusing **polyrhythm** (different rhythms together) with **syncopation** (off-beat accents).
-- Calling gamelan "xylophones". The key instruments are **metallophones** and **gongs**.
-- Writing "world music is exotic". Use technical words, and name the instrument or technique.
-- Describing a fusion without saying which elements come from which tradition.
+- Using "Indian music" as an answer. Say **Hindustani** and name the rāga, tāla, drone or instrument.
+- Saying the sitar is a "guitar". It is a plucked lute with sympathetic strings.
+- Confusing **heterophonic** (same tune, decorated differently, together) with **polyphonic** (different melodies).
+- Describing tango as fast and bright; tango is dramatic and accented. Salsa is the fast one.
+- Writing "rap" or "hip-hop beat" for salsa. Name the **clave**, the **brass** and **call and response**.
+- Writing "electric" for any EDM sound. Use **synthesiser**, **drum machine**, **sample**, **loop**.
 
 ## Practice questions
 
-1. Name two instruments used in Indian classical music. [2]
-2. What is a drone? [1]
-3. Explain what is meant by call and response. [2]
-4. What is the difference between slendro and pelog? [2]
-5. Give three features of an Irish jig. [3]
-6. Describe the role of the master drummer in West African drumming. [2]
-7. What is fusion music? Give an example of a fusion. [2]
-8. Name two features of bossa nova. [2]
+1. Name two instruments of the orquesta típica. [2]
+2. What is a clave? [2]
+3. Name the four sections of a Hindustani performance in order. [2]
+4. Give the Hindustani name for the drone instrument. [1]
+5. Explain the word heterophonic. [2]
+6. Name two instruments used in silk and bamboo ensembles. [2]
+7. What does the drop mean in EDM? [2]
+8. Identify two instruments of an Arab takht ensemble. [2]
 
 <details><summary>Answers</summary>
 
-1. Any two: sitar, tabla, tanpura, sarod, bansuri, harmonium.
-2. A long held note (or notes), usually tonic and fifth, sounding throughout.
-3. A leader sings or plays a phrase [1] and a group answers it [1].
-4. Slendro: 5-note scale with roughly equal intervals [1]. Pelog: 7-note scale with unequal intervals (usually five used) [1].
-5. 6/8 compound time [1], fast and lively dance tune [1], ornamented melody (e.g. cuts, rolls) played on fiddle/whistle/pipes [1].
-6. Improvises rhythms [1] over the repeated ostinati of the other players / signals changes and leads the call [1].
-7. A blend of two or more traditions or styles [1]; e.g. Irish folk with African rhythms and electronic beats / jazz with Brazilian samba [1].
-8. Any two: gentle samba rhythm, nylon-string guitar with syncopated pattern, jazz chords, soft vocals.
+1. Any two: bandoneón, violin, piano, double bass (1 each).
+2. A rhythmic pattern of five notes (1) that organises the other parts in salsa, played on wooden sticks (1).
+3. Ālāp (1), jōr, jhālā, gat (1 for correct order; accept ālāp, jōr, jhālā then gat).
+4. Tanpura (1).
+5. Players perform different versions of the same melody at the same time (1), each decorating it in their own way (1).
+6. Any two: erhu, pipa, guzheng, yangqin, dizi, xiao, sheng (1 each).
+7. The climax after the build up (1), where the beat and the bass come in at full strength (1).
+8. Any two: oud, qanun, nay, violin, riqq, darbuka (1 each).
 
 </details>
 
 ## Plan for this hour
 
-- **20 min** – Read the overview table and each tradition; make one flashcard per tradition (instruments + key terms).
-- **10 min** – Key terms from memory.
-- **10 min** – Worked examples.
-- **15 min** – Practice questions and marking.
-- **5 min** – Write a three-line description of how a fusion could combine two traditions.
+- **0–10 min:** Learn the identification table.
+- **10–25 min:** Area 5: tango, salsa, EDM. Listen to a minute of each starting point.
+- **25–40 min:** Area 6: silk and bamboo, Hindustani, takht; one minute of each starting point.
+- **40–55 min:** Practice questions 1–8.
+- **55–60 min:** Mark, and correct instrument names.

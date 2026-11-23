@@ -1,132 +1,139 @@
-# Set works: study (1/2)
+# Focus works: Vivaldi, Handel, Mozart and Smetana
 
-> **In the exam:** On Paper 3 (Appraising, 1 h 45 min, 80 marks, 40% of the course) Section A has six questions based on your set works: you listen to extracts and answer short and longer questions (identifying features, describing how the composer creates an effect, and context). The eight set works are split across four areas of study. This session covers **Area of Study 1 (Instrumental Music 1700–1820)** and **Area of Study 2 (Vocal Music)**: four works. Check your own set-work list and booklet against this; everything below should match them, and the bar-by-bar detail is in your booklet.
+> **In the exam:** Cambridge 0410 (2026–2028) has no single prescribed work. Instead, Areas 1–3 have **focus works**, and the exam never plays them: the extracts are *related* to the focus works in structure, genre or style, and you apply what you learned from them. Paper 1 (c.1 h 15 min, 70 marks) will include extracts from Baroque, Classical and Romantic music, often with a printed score: you may be asked to follow the score, name the key, name intervals, spot a cadence, name missing notes, or transpose. This topic is the analysis toolkit for the focus works. For the exact list of focus works for your exam, check your teacher's set-work list and the syllabus.
 
 ## What you need to know
 
-- For each work: composer/artist, date, genre, instruments, structure, tonality, melody, harmony, rhythm, texture, dynamics and context.
-- **AoS 1:** J.S. Bach, *Brandenburg Concerto No. 5 in D major*, 3rd movement; Beethoven, *Piano Sonata No. 8 in C minor ("Pathétique")*, 1st movement.
-- **AoS 2:** Purcell, *Music for a While*; Queen, *Killer Queen*.
-- How to use the **musical elements** (melody, harmony, rhythm, texture, timbre, structure, dynamics) as a checklist.
+The focus works in the Cambridge IGCSE Music 0410 syllabus (exams 2026, 2027 and 2028):
+
+| Area | Focus work(s) |
+|---|---|
+| 1 Baroque | **Vivaldi:** *Spring* from *The Four Seasons*, movement 1 (Allegro). **Handel:** Concerto Grosso in D major, Op. 6 No. 5 (HWV 323), movements 1 (Larghetto e staccato), 2 (Allegro), 4 (Largo) and 6 (Menuet) |
+| 2 Classical | **Mozart:** Quintet for piano and winds in E flat major, K. 452, movement 1 (Largo – Allegro moderato) |
+| 3 Romantic | **Smetana:** *Vltava* from *Má vlast* |
+
+- Purpose of the focus works: to learn **score reading and simple analysis**, using pieces as models for each style.
+- Skills: structure, instruments, texture, key and modulation, cadences, rhythm and metre, melody features, dynamics and context.
+- For the context of each piece (what the music is for, when and where it was written, who played it).
+- Period features are in the previous two topics. This topic is about **how to analyse a piece**.
 
 ## Notes
 
-### How to study any set work: the DR SMITH checklist
+### Fact sheets (learn these)
 
-Use the same checklist each time: **D**ynamics, **R**hythm/metre/tempo, **S**tructure, **M**elody, **I**nstruments/timbre, **T**exture, **H**armony/tonality. Add **context**: who, when, where, why.
+| | Vivaldi, *Spring* mvt 1 | Handel, Op. 6 No. 5 | Mozart, K. 452 mvt 1 | Smetana, *Vltava* |
+|---|---|---|---|---|
+| Period | Baroque, c.1725 | Baroque, 1739 | Classical, 1784 | Romantic, 1874 |
+| Genre | Solo concerto (violin) | Concerto grosso | Chamber music: quintet | Symphonic poem (programme music) |
+| Forces | Solo violin, strings, continuo | Concertino (2 violins, cello), ripieno (strings), continuo | Piano, oboe, clarinet, horn, bassoon | Large orchestra incl. piccolo, harp, brass, percussion |
+| Key | E major | D major | E flat major | Begins E minor, ends E major |
+| Structure | Ritornello form | Six short movements (4 studied) with different characters | Slow introduction (Largo) then sonata form (Allegro moderato) | Free, sectional structure following the river; recurring river theme |
+| Key idea | Programme music (sonnet): birds, streams, storm | Concertino/ripieno contrast, imitation, dance | Sonata form, conversational chamber writing | Programme music, nationalism, big orchestra |
 
-### 1. Bach: Brandenburg Concerto No. 5 in D major, 3rd movement (Allegro)
+### Method: analysing a piece under exam conditions
 
-- **Context:** Baroque (written c.1721). Bach sent six concertos to the Margrave of Brandenburg. Bach was working at Cöthen. No. 5 is special because the **harpsichord** is a soloist (not just continuo).
-- **Genre:** **concerto grosso**. The small group (**concertino**) is solo **flute, violin and harpsichord**; the **ripieno** is the string orchestra (violins, viola, cello, violone) with continuo.
-- **Structure:** **ritornello form**. The main theme (ritornello), played by the whole ensemble, returns in different keys between **episodes** for the soloists. The movement opens with a **fugal exposition**: the subject enters in turn in each instrument.
-- **Tonality:** D major, modulating to related keys (e.g. the dominant A major and relative minor B minor) and returning to D major at the end.
-- **Texture:** mainly **polyphonic/contrapuntal** (imitation of the subject), with some homophony when the full ensemble plays together.
-- **Rhythm and metre:** lively, fast, 2/4 with a "dance" feel (jig-like); repeated quaver patterns.
-- **Melody:** the subject starts with a repeated-note figure and rising/falling patterns; melodies use **sequences** (patterns repeated at different pitches).
-- **Harmony:** functional major/minor; **perfect cadences** mark the ends of sections; sequences drive the music to new keys.
-- **Dynamics:** terraced; the continuo (harpsichord + cello) supports throughout.
+Work through the **elements** in a fixed order. Use this checklist whenever you must describe an extract.
 
-### 2. Beethoven: Piano Sonata No. 8 in C minor "Pathétique", 1st movement
+| Element | Ask yourself | Examples of words to use |
+|---|---|---|
+| **Instruments / medium** | Who plays? Solo or tutti? | solo violin, concertino, ripieno, harpsichord, wind quintet, horn, flute, harp |
+| **Melody** | Steps or leaps? Range? Ornaments? | stepwise, scalic, broken chord, arpeggio, sequence, trill, mordent, motif |
+| **Harmony and tonality** | Key? Modulation? Cadence? | major, minor, dominant, perfect cadence, imperfect cadence, dissonance, chromatic, pedal |
+| **Rhythm and metre** | Pulse? Time signature? Syncopation? | simple duple, compound 6/8, dotted rhythm, syncopation, hemiola, anacrusis |
+| **Texture** | How many parts? How do they relate? | monophonic, homophonic, polyphonic, imitative, unison, tutti, antiphonal |
+| **Structure** | What repeats? | ritornello, episode, ABA, exposition, development, recapitulation, coda |
+| **Dynamics and tempo** | Loud/soft? Changes? | terraced, crescendo, sforzando, allegro, adagio, rallentando, rubato |
+| **Context** | Why was it written? | programme music, court/church, nationalism, Baroque performance practice |
 
-- **Context:** early Beethoven (c.1798–99), written at the end of the Classical period but looking forward to the Romantic. The title "Pathétique" means passionate/emotional. Written for piano, the new instrument with a wide dynamic range.
-- **Structure:** **sonata form**, with a slow **introduction (Grave)** that returns before the development and again at the end:
-  - Introduction: **Grave**, C minor, slow, heavy chords, big dynamic changes.
-  - **Exposition** (Allegro di molto e con brio): first subject in C minor (fast, driving, tremolo octaves in the left hand); second subject in the relative major region (starting in E♭ minor, moving to E♭ major).
-  - **Development:** the Grave music returns, then material from the first subject is developed through different keys.
-  - **Recapitulation:** both subjects return, the second now in the tonic area; coda with the Grave once more.
-- **Tonality:** C minor (tonic); modulates to E♭ for the second subject.
-- **Texture:** homophonic (melody with accompaniment) with some **thin and thick** contrasts; tremolo octave bass creates tension.
-- **Dynamics:** extreme and sudden: **ff**, **p**, **sforzando (sf)**, crescendos; much more than a Baroque instrument could do.
-- **Harmony:** dramatic dissonant chords (including **diminished sevenths**), **perfect cadences** to close sections, **pedal notes**.
-- **Rhythm:** dotted rhythms in the Grave; relentless fast quavers in the Allegro; tempo changes mark sections.
+### Score-reading skills tested in the exam
 
-### 3. Purcell: Music for a While
+1. **Follow the score** to say *where* a feature occurs: "bar 5", "second line", "when the clarinet enters".
+2. **Name the key:** from the key signature. Sharps: the last sharp is the 7th note (so up a semitone gives the major key). Flats: the second-last flat is the major key (one flat = F major). For the relative minor, go down 3 semitones from the major key. Check the first and last chords and any accidentals (a raised 7th suggests minor).
+3. **Name intervals:** count from the lower note, with the key signature. Major, minor and perfect (4th, 5th, octave). Use number only if the quality is not asked.
+4. **Cadences:** a **perfect** cadence is V–I (dominant to tonic) sounding finished; an **imperfect** cadence ends on V and sounds unfinished; an **interrupted** cadence goes V–VI and surprises.
+5. **Transposition:** clarinet in B flat: sounds a major 2nd lower than written; clarinet in A: sounds a minor 3rd lower; horn in F: a perfect 5th lower; horn in E flat: a major 6th lower; trumpet in B flat: a major 2nd lower. To get concert pitch, move the written notes down by that interval, and change the key signature accordingly.
+6. **Structure letters:** label sections with letters, e.g. ABA (ternary), AABB (binary), ABACA (rondo). Ritornello form: R E1 R E2 R.
+7. **Missing notes or rhythm:** you get three or four options. Say the printed bar in your head and match the contour (steps up, down, leaps) and rhythm.
 
-- **Context:** Baroque, England, 1692. From the incidental music for the play *Oedipus* (by Dryden and Lee). The song is sung when the ghost of Laius is being conjured; it asks music to **beguile** the cares of Alecto, a Fury.
-- **Genre:** a solo **song** over a **ground bass**.
-- **Ground bass:** a bass pattern repeated many times while the harmony and the voice above change. The ground gives unity.
-- **Forces:** solo voice (originally a **countertenor/alto**), **harpsichord** and a bass instrument (cello or bass viol); **basso continuo**.
-- **Word-setting:** the melody illustrates the text (**word-painting**): long **melismas** (many notes per syllable) on words like **"beguile"** and **"eas'd"**; otherwise **syllabic** and speech-like.
-- **Harmony:** over the ground, chords vary; **suspensions** and chromatic notes create tension; **perfect cadences** near sections.
-- **Texture:** **homophonic**, voice with continuo.
-- **Structure:** continuous, over the repeating ground bass, with sections separated by cadences.
+### Study method for each focus work (20 minutes each, over a week)
 
-### 4. Queen: Killer Queen (from *Sheer Heart Attack*, 1974)
+1. Listen once without notes, with a blank page: jot "instruments, mood, what changes".
+2. Listen with a structure map (see fact sheet): time-stamp each section.
+3. Pick five **moments** (e.g. "storm begins", "second subject in B flat") and write: what happens, what technique, why.
+4. Write three exam-style answers from memory (2–4 marks) and compare with the notes.
+5. Do the same for an **unfamiliar** piece from the "wider listening" list (e.g. Corelli *Christmas Concerto* for Handel; Haydn "Gypsy" Trio for Mozart; Mendelssohn overture for Smetana).
 
-- **Context:** a **glam-rock/pop** song written by **Freddie Mercury**, released in 1974. It was Queen's first big hit. The lyrics are about a high-class call girl.
-- **Genre and style:** rock/pop, with **music-hall** (vaudeville-style) flavours in the piano and the harmony.
-- **Instruments:** lead vocals (Mercury), **piano**, **electric guitar** (Brian May, layered guitar harmonies using **multi-tracking**), electric bass, drum kit, **finger clicks** in the intro, backing vocals.
-- **Structure:** verse–chorus with an instrumental **guitar solo** and outro; verses build to the chorus.
-- **Tonality:** E♭ major (with chromatic chords and jazz-style harmony).
-- **Texture:** lead vocal with accompanying chords; **layered vocal harmonies** and **multi-tracked guitar** create a dense texture.
-- **Production:** **multi-tracking** (many layers of vocals and guitars), **panning** (sounds placed left and right), **phasing** on the guitar, **reverb** and **overdubbing**.
-- **Rhythm:** steady 4/4 beat with a swung/lilting feel, finger clicks and a backbeat on the drums.
+### Context (a short answer worth a mark or two)
+
+- **Baroque concerto:** written for patrons, courts and churches; small orchestras; the concerto grosso and solo concerto were the main instrumental genres; the soloist showed virtuosity.
+- **Classical chamber music:** played at home, in salons and small concerts; balance, clarity; Mozart was a pianist and wrote the piano part for himself.
+- **Romantic programme music:** public concert halls, large orchestras; music shaped by literature, nature and national identity; Smetana wrote *Vltava* as part of his series about the Czech homeland.
 
 ## Key terms and definitions
 
-- **Concerto grosso:** a work for a small group of soloists (concertino) and an orchestra (ripieno).
-- **Ritornello:** a recurring section for the full ensemble that returns between solo episodes.
-- **Fugal exposition:** the opening section in which a subject is played in turn by each voice.
-- **Sonata form:** exposition, development and recapitulation, with first and second subjects.
-- **Ground bass:** a short bass line repeated over and over while the music above it varies.
-- **Melisma:** several notes sung to one syllable.
-- **Syllabic:** one note to each syllable.
-- **Word-painting:** music that illustrates the meaning of the words.
-- **Tremolo:** rapid repetition of a note or alternation of notes.
-- **Multi-tracking:** recording separate parts and layering them.
-- **Sforzando (sf):** a sudden strong accent.
+- **Focus work:** a piece chosen to model the features of an area of study, used to learn analysis and score reading.
+- **Concerto:** a piece in which a soloist or small group contrasts with an orchestra.
+- **Exposition / development / recapitulation:** the three main sections of sonata form.
+- **Perfect cadence:** the chord V followed by I.
+- **Imperfect cadence:** a phrase ending on chord V.
+- **Interrupted cadence:** V followed by VI (a surprise ending).
+- **Modulation:** a change of key within a piece.
+- **Transposing instrument:** an instrument whose written pitch is different from its sounding pitch.
+- **Concert pitch:** the actual sounding pitch.
+- **Pedal:** a long held or repeated note (often the tonic or dominant) while the harmony changes above it.
+- **Anacrusis:** an upbeat: notes before the first strong beat.
 
 ## Worked examples
 
-**1. Name the form of the third movement of Bach's *Brandenburg Concerto No. 5* and describe how the form works. [3]**
+**1. The extract is for a clarinet in B flat. The written melody begins on D. What is the first note at concert pitch? [1]**
+*Model answer:* C (1). B flat clarinets sound a major 2nd lower than written.
 
-*Model answer:* Ritornello form [1]. The full orchestra plays the main theme (ritornello) at the start [1] and it returns in different keys, between episodes where the soloists (flute, violin, harpsichord) play [1].
+**2. A passage ends with chords V then I in the home key. Name the cadence and say how it feels. [2]**
+*Model answer:* "Perfect cadence (1); it sounds complete and final, like a full stop (1)."
 
-**2. Describe how Beethoven creates drama in the first movement of the *Pathétique* sonata. [4]**
+**3. Describe how Mozart uses the wind instruments and piano in the exposition of K. 452. [3]**
+*Model answer:* "The piano and winds pass the melody between them like a conversation (1). The winds often play together as a blended group (1) while the piano adds runs and accompaniment (1)."
 
-*Model answer:* The slow Grave introduction has heavy chords with sudden dynamic contrasts (ff and p) [1]. The fast Allegro has tremolo octaves in the left hand [1] and a minor key (C minor) with dissonant chords such as diminished sevenths [1]. The Grave returns later to interrupt the music [1].
-
-**3. How does Purcell set the words in *Music for a While*? [3]**
-
-*Model answer:* Word-painting: long melismas on words such as "beguile" and "eas'd" [1]. Syllabic setting elsewhere makes the words clear [1]. The ground bass repeats beneath, giving unity, while the voice and harmony change above it [1].
+**4. The score shows a key signature of one flat and the piece ends on a D chord (minor). Name the key. [1]**
+*Model answer:* D minor (1): one flat is F major, and D is its relative minor.
 
 ## Common mistakes
 
-- Saying Bach's piece is a "concerto" only. Say **concerto grosso**, with the **concertino** and **ripieno** named.
-- Describing the *Pathétique* as Baroque. It is **Classical** (with Romantic hints).
-- Mixing up a **ground bass** (in the bass, repeated) with an **ostinato** in another part.
-- Using vague words like "the vocals are good" for *Killer Queen*. Name the technique (multi-tracked harmonies, panning).
-- Learning the facts but not linking them to **how the composer creates the effect**.
+- Writing down facts about a focus work in the exam. The focus works are **not played**: apply the **skills and features** to the extract on the paper.
+- Naming the key from the key signature only. Check for the minor key (raised 7th, ending chord).
+- Transposing in the wrong direction. Written parts for B flat and A clarinets, B flat trumpets and horns **sound lower**.
+- Mixing up imperfect (ending on V) with interrupted (V–VI).
+- Saying "the music gets louder" without a term. Use **crescendo**, **forte**, **sforzando**.
+- Learning set-work facts without listening. If you cannot recognise the sound, the facts won't help.
 
 ## Practice questions
 
-1. Name the three solo instruments in Bach's *Brandenburg Concerto No. 5*. [3]
-2. What is a ritornello? [2]
-3. In which key is the *Pathétique* sonata? [1]
-4. Describe the structure of the first movement of the *Pathétique*. [3]
-5. What is a ground bass? [2]
-6. Explain what a melisma is and give a word in *Music for a While* that is set to one. [2]
-7. Give three features of the production of *Killer Queen*. [3]
-8. Who wrote *Killer Queen* and in which year was it released? [2]
+1. State the key of Mozart's Quintet K. 452. [1]
+2. Name the instruments for which Mozart's K. 452 was written. [2]
+3. In which form is the main Allegro of K. 452 written? [1]
+4. Name the two groups of players in a concerto grosso. [2]
+5. A horn in F plays a written G. What is the concert pitch? [1]
+6. What type of cadence is V–VI? [1]
+7. Name the key of a piece with a key signature of two sharps that has a raised seventh and ends on B minor chord. [1]
+8. Which feature makes *Vltava* "programme music"? [1]
 
 <details><summary>Answers</summary>
 
-1. Flute, violin, harpsichord.
-2. A main theme [1] for the full ensemble that returns between solo episodes [1].
-3. C minor.
-4. Sonata form [1]: Grave introduction, exposition with two subjects, development, recapitulation and coda [2].
-5. A bass line repeated over and over [1] while the harmonies and melody above change [1].
-6. Several notes sung to one syllable [1]; "beguile" (or "eas'd") [1].
-7. Any three: multi-tracked guitar harmonies, layered backing vocals, panning, phasing/guitar effects, reverb, overdubbing.
-8. Freddie Mercury [1]; 1974 [1].
+1. E flat major (1).
+2. Piano, oboe, clarinet, horn, bassoon (2 for all five, 1 for three or four).
+3. Sonata form (1).
+4. Concertino and ripieno (1 each).
+5. C (1). A horn in F sounds a perfect fifth lower.
+6. Interrupted (1).
+7. B minor (1): two sharps = D major/B minor.
+8. It tells the story / paints a picture of the course of a river (1).
 
 </details>
 
 ## Plan for this hour
 
-- **15 min** – Read the Bach and Beethoven sections with your set-work booklet and recording.
-- **15 min** – Read the Purcell and Queen sections; listen once to each.
-- **10 min** – Write a one-page fact sheet (DR SMITH grid) for each work.
-- **15 min** – Practice questions and marking.
-- **5 min** – Cover your sheet and recall three facts per work.
+- **0–10 min:** Learn the fact-sheet table.
+- **10–25 min:** Listen to the Handel and the Mozart; fill in the analysis checklist for each.
+- **25–40 min:** Score skills: key signatures, transposition, cadences, structure letters.
+- **40–55 min:** Practice questions and written descriptions of an unfamiliar piece.
+- **55–60 min:** Mark and list weak points.

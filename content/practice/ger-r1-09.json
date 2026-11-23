@@ -2,173 +2,177 @@
  "id": "ger-r1-09",
  "cards": [
   {
-   "f": "halb acht",
-   "b": "7.30 (half an hour before eight)"
+   "f": "Listening: how many marks?",
+   "b": "40 marks, 37 multiple-choice and matching questions, about 50 minutes including 6 minutes' transfer time."
   },
   {
-   "f": "Viertel nach drei / Viertel vor drei",
-   "b": "3.15 / 2.45"
+   "f": "Listening: do you write German?",
+   "b": "No: all answers are multiple choice or matching."
   },
   {
-   "f": "dreißig / dreizehn",
-   "b": "30 / 13"
+   "f": "Q35–37 format",
+   "b": "Five options; choose the TWO that are true."
   },
   {
-   "f": "sechzig / sechzehn",
-   "b": "60 / 16"
+   "f": "nicht … sondern",
+   "b": "not … but: the second part is the real answer."
   },
   {
-   "f": "dreiundzwanzig",
-   "b": "23 (units first: three-and-twenty)"
+   "f": "aber / leider / eigentlich",
+   "b": "but / unfortunately / actually: signal words that mark the real answer."
   },
   {
-   "f": "neunzehn Uhr dreißig",
-   "b": "19.30 (7.30 pm) - official time"
+   "f": "früher … jetzt",
+   "b": "before … now: the answer is usually the now part."
   },
   {
-   "f": "am ersten Mai",
-   "b": "on 1 May (ordinal in -ten after 'am')"
+   "f": "dreizehn / dreißig",
+   "b": "13 / 30"
   },
   {
-   "f": "nicht ... sondern ...",
-   "b": "not ... but ... (the answer is after sondern)"
+   "f": "sechzehn / sechzig",
+   "b": "16 / 60"
   },
   {
-   "f": "leider",
-   "b": "unfortunately (bad news follows)"
+   "f": "siebzehn / siebzig",
+   "b": "17 / 70"
   },
   {
-   "f": "früher / damals / jetzt",
-   "b": "earlier, in the past / back then / now"
+   "f": "zweiundzwanzig",
+   "b": "22: the units come first in German."
   },
   {
-   "f": "kein / nie / niemand",
-   "b": "no (none) / never / nobody"
+   "f": "Viertel nach sieben",
+   "b": "7.15"
   },
   {
-   "f": "Wie lange? / Wie viel?",
-   "b": "How long? / How much?"
+   "f": "halb drei",
+   "b": "2.30"
   },
   {
-   "f": "eigentlich / normalerweise",
-   "b": "actually / usually: often followed by a contrast"
+   "f": "vor zwei Tagen / in zwei Tagen",
+   "b": "two days ago / in two days."
   },
   {
-   "f": "die Verspätung",
-   "b": "delay"
+   "f": "seit drei Jahren",
+   "b": "for three years (and still now)."
   },
   {
-   "f": "das Gleis / der Bahnsteig",
-   "b": "platform"
+   "f": "außer montags",
+   "b": "except on Mondays."
   },
   {
-   "f": "die Ermäßigung",
-   "b": "reduction, discount"
-  },
-  {
-   "f": "zehn Prozent Rabatt",
-   "b": "10% discount"
+   "f": "Transfer time",
+   "b": "Copy answers carefully to the answer sheet; check each box."
   }
  ],
  "gaps": [
   {
-   "s": "14 = ___",
+   "s": "Du hörst jeden Text ___ Mal.",
    "a": [
-    "vierzehn"
+    "zwei",
+    "2"
    ]
   },
   {
-   "s": "40 = ___",
+   "s": "Dreißig schreibt man in Ziffern: ___ .",
    "a": [
-    "vierzig"
+    "30"
    ]
   },
   {
-   "s": "Es ist halb zehn. Die Uhr zeigt ___ Uhr dreißig (number).",
+   "s": "Siebzehn schreibt man in Ziffern: ___ .",
    "a": [
-    "9",
-    "neun",
-    "9.30"
+    "17"
    ]
   },
   {
-   "s": "Bei 'nicht ... ___ ...' kommt die richtige Antwort nach dem zweiten Teil.",
+   "s": "« Das Konzert beginnt um halb neun » means it begins at ___ .",
    "a": [
-    "sondern"
+    "8.30",
+    "20.30",
+    "8:30",
+    "20:30",
+    "half past eight",
+    "8.30 Uhr"
    ]
   },
   {
-   "s": "Der Zug hat zehn Minuten ___. (delay)",
+   "s": "« Das Geschäft ist täglich geöffnet, außer sonntags. » Closed on ___ .",
    "a": [
-    "Verspätung"
+    "Sundays",
+    "Sunday",
+    "sonntags",
+    "Sonntag",
+    "sonntag"
    ]
   },
   {
-   "s": "Man schreibt: am ___ Mai (1st).",
+   "s": "« Früher hatten wir kein Internet, ___ haben wir WLAN. » (now)",
    "a": [
-    "ersten"
+    "jetzt",
+    "heute",
+    "inzwischen"
    ]
   },
   {
-   "s": "Ich habe heute keine Zeit, ___ bin ich zu Hause geblieben. (that is why)",
+   "s": "Wenn du eine Antwort nicht weißt, lass nie eine ___ .",
    "a": [
-    "deshalb",
-    "deswegen",
-    "darum"
+    "Lücke",
+    "Luecke",
+    "Lucke",
+    "Luke"
    ]
   },
   {
-   "s": "Die Hälfte von zwanzig ist ___ (number in German).",
+   "s": "Bei Q35–37 wählst du die ___ wahren Aussagen. (number)",
    "a": [
-    "zehn"
-   ]
-  },
-  {
-   "s": "Das Konzert beginnt um ___ Uhr dreißig (19.30, number in words).",
-   "a": [
-    "neunzehn"
+    "zwei",
+    "2"
    ]
   }
  ],
  "short": [
   {
-   "q": "What should you do in the 5 minutes' reading time?",
-   "model": "Read all questions, note the marks, underline question words and predict vocabulary.",
+   "q": "How should you use the reading time before a Listening section?",
+   "model": "Read all questions and options, underline key words and predict the kind of answer.",
    "points": [
-    "read all questions / note marks",
-    "predict likely words or underline question words"
+    "read questions and options",
+    "underline key words",
+    "predict answer type"
    ]
   },
   {
-   "q": "Why must you not stop at the first answer you hear?",
-   "model": "Speakers often mention distractors and then correct themselves, e.g. with aber or sondern, so the real answer comes later.",
+   "q": "Why is « Ich wollte ins Kino gehen, aber wir sind dann doch im Park geblieben » a typical distractor?",
+   "model": "The first place is mentioned but dropped; the answer is the park.",
    "points": [
-    "distractors",
-    "real answer after aber / sondern"
+    "first option mentioned",
+    "aber/dann doch changes plan",
+    "answer is the park"
    ]
   },
   {
-   "q": "Transcript: 'Ich fahre am Samstag um Viertel vor acht nach Berlin.' Answer in English: when does he go?",
-   "model": "On Saturday at 7.45.",
+   "q": "Give three signal words in German that show a change of mind.",
+   "model": "aber, leider, eigentlich, stattdessen, sondern.",
    "points": [
-    "Saturday",
-    "7.45"
+    "any three correct",
+    "used as contrast"
    ]
   },
   {
-   "q": "Transcript: 'Meine Schwester ist Ärztin, aber sie arbeitet nur halbtags, weil sie zwei kleine Kinder hat.' Answer in English: job and why?",
-   "model": "Doctor; she works part time because she has two small children.",
+   "q": "What should you do at transfer time?",
+   "model": "Copy each answer to the matching numbered box and check every one against the question paper.",
    "points": [
-    "doctor",
-    "part-time because of two small children"
+    "right box",
+    "check each answer"
    ]
   },
   {
-   "q": "How is 99 said in German?",
-   "model": "neunundneunzig (units first, then 'und', then tens).",
+   "q": "Explain how to avoid mixing up 16 and 60 in Listening.",
+   "model": "Listen to the ending: -zehn is 16, -zig is 60; write the digits at once.",
    "points": [
-    "neunundneunzig",
-    "units before tens"
+    "sechzehn vs sechzig",
+    "writing digits at once"
    ]
   }
  ]

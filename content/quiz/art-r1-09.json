@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which movement is named after a Monet painting of 1872?",
-   "options": [
-    "Romanticism",
-    "Realism",
-    "Post-Impressionism",
-    "Impressionism"
-   ],
-   "answer": 3,
-   "why": "A critic mocked Monet's Impression, Sunrise, and the name stuck."
-  },
-  {
-   "type": "mcq",
-   "q": "Who painted The Third of May 1808?",
-   "options": [
-    "Goya",
-    "Velázquez",
-    "Delacroix",
-    "Caravaggio"
-   ],
-   "answer": 0,
-   "why": "Goya painted it in 1814 as a protest against the horrors of war; it is in the Prado."
-  },
-  {
-   "type": "mcq",
-   "q": "Which technique creates depth using lines that meet at a vanishing point?",
+   "q": "Which technique did Caravaggio use for dramatic dark shadows and a strong spotlight?",
    "options": [
     "Sfumato",
-    "Linear perspective",
     "Pointillism",
+    "Tenebrism",
     "Impasto"
    ],
+   "answer": 2,
+   "why": "Tenebrism is very dark shadow with a spotlight on the subject; sfumato is soft blending."
+  },
+  {
+   "type": "mcq",
+   "q": "Where did the name 'Impressionism' come from?",
+   "options": [
+    "A Renoir portrait",
+    "Monet's Impression, Sunrise (1872)",
+    "A Degas ballet scene",
+    "A critic's essay on Goya"
+   ],
    "answer": 1,
-   "why": "Linear perspective developed in the Renaissance."
+   "why": "A critic took the name from Monet's Impression, Sunrise, shown at the group's 1874 exhibition."
+  },
+  {
+   "type": "mcq",
+   "q": "Which artist is a Post-Impressionist who used thick, expressive brushwork?",
+   "options": [
+    "Claude Monet",
+    "Caravaggio",
+    "Jacques-Louis David",
+    "Vincent van Gogh"
+   ],
+   "answer": 3,
+   "why": "Van Gogh moved beyond Impressionism with thick strokes and emotional colour."
   },
   {
    "type": "short",
-   "q": "Describe two ways Impressionist painters worked that were new at the time.",
-   "model": "They painted outdoors (en plein air) to capture changing light, and used quick, broken brushstrokes of pure colour instead of smooth blended finishes.",
+   "q": "Describe two features of Impressionist painting.",
+   "model": "They used short, broken brushstrokes of bright colour to show shimmering light, and often painted outdoors quickly to capture a moment, without black.",
    "points": [
-    "painted outdoors/plein air or captured light",
-    "visible broken brushstrokes/pure colour side by side"
+    "short broken brushstrokes / bright colour",
+    "outdoors / light / moment"
    ]
   }
  ]

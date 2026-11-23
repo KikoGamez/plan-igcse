@@ -1,6 +1,32 @@
-{"id":"geo-r1-02","questions":[
-{"type":"mcq","q":"What is lag time on a storm hydrograph?","options":["Time between peak rainfall and peak discharge","Time between the start of rain and the end of rain","Time the river stays in flood","Time between two floods"],"answer":0,"why":"Lag time is the delay from peak rainfall to peak discharge."},
-{"type":"mcq","q":"Which of these is an example of soft engineering?","options":["Dam and reservoir","Concrete flood wall","Flood plain zoning","Straightening the channel"],"answer":2,"why":"Flood plain zoning works with nature by restricting building on flood-prone land."},
-{"type":"mcq","q":"Why does urbanisation shorten lag time?","options":["More vegetation intercepts rain","Impermeable surfaces and drains speed runoff to the river","The soil becomes more permeable","Rainfall is lighter in cities"],"answer":1,"why":"Tarmac and drains reduce infiltration and carry water quickly into the river."},
-{"type":"short","q":"Explain one advantage and one disadvantage of hard engineering to control river flooding.","model":"Advantage: structures such as embankments or dams give strong protection to towns. Disadvantage: they are expensive and can increase flood risk downstream or harm habitats.","points":["advantage, e.g. strong/effective protection for a town","disadvantage, e.g. expensive or floods downstream / damages habitats"]}
-]}
+{
+  "id": "geo-r1-02",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "A country has 24 million people in an area of 80,000 km². What is its population density?",
+      "options": ["30 per km²", "300 per km²", "3,000 per km²", "3.3 per km²"],
+      "answer": 1,
+      "why": "24,000,000 ÷ 80,000 = 300 people per km²."
+    },
+    {
+      "type": "mcq",
+      "q": "Which is a pull factor?",
+      "options": ["Drought", "Civil war", "Better-paid jobs", "Lack of schools"],
+      "answer": 2,
+      "why": "Pull factors attract migrants to a place; better-paid jobs are one. The others are push factors."
+    },
+    {
+      "type": "mcq",
+      "q": "Money sent home by migrants to their families is called:",
+      "options": ["Remittances", "Brain drain", "Net migration", "Subsidies"],
+      "answer": 0,
+      "why": "Remittances are an important benefit for the source area."
+    },
+    {
+      "type": "short",
+      "q": "Explain one negative impact of migration on the source area.",
+      "model": "Brain drain: skilled people such as doctors and engineers leave, so the country has a shortage of skills and its economy can slow.",
+      "points": ["valid impact (brain drain, ageing population, fewer workers, split families)", "developed explanation"]
+    }
+  ]
+}

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What percentage of the Edexcel GCSE Music course is composing?",
+   "q": "What is the weighting of Component 3 (Composing) in the IGCSE?",
    "options": [
     "20%",
     "40%",
-    "60%",
-    "30%"
+    "30%",
+    "50%"
    ],
-   "answer": 3,
-   "why": "Performing 30%, composing 30%, written paper 40%."
+   "answer": 2,
+   "why": "Performing and Composing are each 30%; Listening is 40%."
   },
   {
    "type": "mcq",
-   "q": "Which is a way to develop a motif?",
+   "q": "Which is NOT allowed for Part 2 (performing with others)?",
    "options": [
-    "Use it as a sequence",
-    "Play it once only",
-    "Delete the rhythm",
-    "Change nothing"
-   ],
-   "answer": 0,
-   "why": "A sequence repeats it at a different pitch."
-  },
-  {
-   "type": "mcq",
-   "q": "Which criterion rewards dynamics, phrasing and tone in a performance?",
-   "options": [
-    "Accuracy",
-    "Expression and interpretation",
-    "Length",
-    "Notation"
+    "A duet where both parts are equally important",
+    "A flute solo with piano accompaniment where you play the flute",
+    "Singing a harmony part in a small vocal group",
+    "Playing in a band"
    ],
    "answer": 1,
-   "why": "Expression and interpretation covers shaping the music."
+   "why": "An accompanied solo does not show ensemble skills, so it cannot be used for Part 2."
+  },
+  {
+   "type": "mcq",
+   "q": "What happens if both compositions use the same instruments?",
+   "options": [
+    "Nothing",
+    "Composition 1 loses 5 marks",
+    "Composition 2 gets 0 for Use of medium",
+    "Both get 0"
+   ],
+   "answer": 2,
+   "why": "A different combination of instruments, voices or sounds is required."
   },
   {
    "type": "short",
-   "q": "State two things you can do to earn higher marks in a composition.",
-   "model": "Develop ideas rather than repeat them and give a clear structure with contrast; follow the brief and notate dynamics and tempo.",
+   "q": "Give two ways to earn high marks for Structure in a composition. [2]",
+   "model": "Use clear sections with contrast (e.g. ABA or verse–chorus), and link them with repetition, variation and a planned ending, so the piece feels organised overall.",
    "points": [
-    "Develop ideas",
-    "Clear structure/follow brief"
+    "clear sections/contrast",
+    "continuity/overall plan"
    ]
   }
  ]

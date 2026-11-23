@@ -3,49 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What is the main role of the World Trade Organization (WTO)?",
+   "q": "Which is a non-renewable energy source?",
    "options": [
-    "lending money to countries in financial trouble",
-    "setting rules for international trade and settling trade disputes",
-    "running multinational companies",
-    "providing emergency food aid"
+    "Wind",
+    "Geothermal",
+    "Nuclear",
+    "Tidal"
+   ],
+   "answer": 2,
+   "why": "Uranium is finite, so nuclear power is non-renewable."
+  },
+  {
+   "type": "mcq",
+   "q": "What does desalination do?",
+   "options": [
+    "Stores river water",
+    "Removes salt from sea water",
+    "Pumps groundwater",
+    "Recycles waste water"
    ],
    "answer": 1,
-   "why": "The WTO regulates trade rules; lending is the IMF's role."
+   "why": "Desalination makes fresh water from sea water; it is costly and energy hungry."
   },
   {
    "type": "mcq",
-   "q": "Money sent home by migrants to their families is called...",
+   "q": "What is the enhanced greenhouse effect?",
    "options": [
-    "brain drain",
-    "tariffs",
-    "remittances",
-    "aid"
+    "Natural warming by the atmosphere",
+    "Warming caused by volcanoes only",
+    "Cooling from extra clouds",
+    "Extra warming caused by more greenhouse gases from human activity"
    ],
-   "answer": 2,
-   "why": "Remittances are a major income for many source countries."
-  },
-  {
-   "type": "mcq",
-   "q": "Which is a push factor for migration?",
-   "options": [
-    "higher wages abroad",
-    "better schools abroad",
-    "war and conflict at home",
-    "a stable government elsewhere"
-   ],
-   "answer": 2,
-   "why": "Push factors make people leave the place they live; the others are pull factors."
+   "answer": 3,
+   "why": "Human emissions add to the natural effect and raise global temperatures."
   },
   {
    "type": "short",
-   "q": "Explain one benefit and one cost of a TNC setting up a factory in a developing country.",
-   "model": "Benefit: provides jobs and wages, which raises incomes and creates a multiplier effect. Cost: much of the profit is sent back to the home country and low pay or poor conditions are possible.",
+   "q": "Explain why wind power is not a perfect solution for a country's energy needs.",
+   "model": "Wind is intermittent, so turbines produce no electricity when the wind drops. Turbines are also costly and have a visual and noise impact.",
    "points": [
-    "benefit",
-    "benefit developed",
-    "cost",
-    "cost developed"
+    "intermittent / depends on wind",
+    "other valid drawback (cost, visual impact, noise, birds)"
    ]
   }
  ]

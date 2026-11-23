@@ -3,48 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A brownfield site is land that...",
+   "q": "Which is an example of intensive farming?",
    "options": [
-    "has been built on before and is now derelict or unused",
-    "has never been built on",
-    "is protected as a national park",
-    "is used only for farming"
-   ],
-   "answer": 0,
-   "why": "Brownfield sites were previously developed; greenfield sites have never been built on."
-  },
-  {
-   "type": "mcq",
-   "q": "Which is a reason for developing a brownfield site?",
-   "options": [
-    "costly removal of contaminated waste",
-    "it protects farmland because existing roads and utilities are there",
-    "lots of room to expand",
-    "it is always cheaper"
+    "Sheep ranching on huge areas",
+    "Rice paddies with high labour input per hectare",
+    "A large unfarmed grassland",
+    "Hunting wild animals"
    ],
    "answer": 1,
-   "why": "Brownfield sites reuse existing infrastructure and protect the countryside; contamination is a disadvantage."
+   "why": "Intensive farming uses high labour or capital inputs on a small area to get high yields."
   },
   {
    "type": "mcq",
-   "q": "Which strategy best describes a self-help housing scheme?",
+   "q": "Which is a human cause of food shortage?",
    "options": [
-    "the government builds all the homes",
-    "homes are demolished and residents removed",
-    "only wealthy people can join",
-    "residents build or improve their own homes with materials and support"
+    "Drought",
+    "Locust pests",
+    "Flooding",
+    "Conflict"
    ],
    "answer": 3,
-   "why": "Self-help schemes give materials and services while residents do the building."
+   "why": "War and conflict disrupt farming and food supply; the others are physical."
+  },
+  {
+   "type": "mcq",
+   "q": "Leakage in tourism means…",
+   "options": [
+    "Water pollution from hotels",
+    "Profits going to foreign-owned companies",
+    "Tourists leaving early",
+    "Fewer visitors in winter"
+   ],
+   "answer": 1,
+   "why": "Leakage is when tourism income leaves the local area, for example to overseas owners."
   },
   {
    "type": "short",
-   "q": "For a named city, explain one way transport has been improved to make the city more sustainable.",
-   "model": "Curitiba introduced bus rapid transit with dedicated lanes and fast boarding, so more people use buses instead of cars and congestion and pollution fall.",
+   "q": "Explain why a factory might locate in a special economic zone.",
+   "model": "Governments give tax breaks and grants in such zones, so costs are lower. They also provide good infrastructure and a labour supply, making production easier and cheaper.",
    "points": [
-    "named city and strategy",
-    "how it works",
-    "effect on congestion/pollution/quality of life"
+    "lower costs / tax breaks / grants",
+    "infrastructure or labour supply"
    ]
   }
  ]

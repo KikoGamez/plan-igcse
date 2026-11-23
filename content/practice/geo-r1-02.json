@@ -1,36 +1,37 @@
-{"id":"geo-r1-02","cards":[
-{"f":"Storm hydrograph","b":"A graph showing river discharge over time after a rainstorm, often with rainfall bars."},
-{"f":"Lag time","b":"The time between peak rainfall and peak discharge."},
-{"f":"Rising limb / falling limb","b":"Rising limb: discharge increases after rain. Falling limb: discharge drops back towards base flow."},
-{"f":"Flashy hydrograph","b":"Short lag time, steep rising limb and high peak discharge. Higher flood risk."},
-{"f":"River regime","b":"The pattern of a river's discharge over the course of a year."},
-{"f":"Physical causes of flooding","b":"Intense or prolonged rain, saturated or frozen ground, impermeable rock, steep slopes, snowmelt, monsoon."},
-{"f":"Human causes of flooding","b":"Urbanisation, deforestation, building on flood plains, drains that speed up runoff."},
-{"f":"How does urbanisation increase flood risk?","b":"Impermeable surfaces reduce infiltration, drains carry water quickly to the river: shorter lag time, higher peak."},
-{"f":"Social, economic, environmental flood impacts","b":"Social: deaths, homelessness, disease. Economic: damage, lost business and crops. Environmental: erosion, pollution, habitat damage."},
-{"f":"Hard engineering examples","b":"Dams and reservoirs, embankments, flood walls, channel straightening, relief channels."},
-{"f":"Soft engineering examples","b":"Afforestation, flood plain zoning, river restoration, flood warnings and education."},
-{"f":"Dam: advantage and disadvantage","b":"Stores water, reduces flood peaks, gives HEP. But very expensive, floods land upstream, traps sediment."},
-{"f":"Flood plain zoning","b":"Planning rules that stop building on flood-prone land. Cheap and effective but does not protect existing homes."},
-{"f":"Why afforestation reduces flooding","b":"Trees intercept rain and take up water, so less surface runoff reaches the river and lag time lengthens."},
-{"f":"Eutrophication","b":"Fertiliser runoff adds nutrients, causing algal blooms that use up oxygen and kill fish."},
-{"f":"Three types of river pollution","b":"Sewage, industrial waste, and agricultural runoff (fertilisers, pesticides)."},
-{"f":"Rich vs poor country flood impacts","b":"Rich: more insurance, better defences, fewer deaths, high costs. Poor: more deaths, slower recovery, weaker defences and housing."}
-],
-"gaps":[
-{"s":"The highest point on a storm hydrograph is called the ___ discharge.","a":["peak"]},
-{"s":"Water caught on leaves before reaching the ground is called ___.","a":["interception"]},
-{"s":"Water flowing over the ground surface into a river is ___ runoff.","a":["surface","overland"]},
-{"s":"A hydrograph with a short lag time and steep rising limb is described as ___.","a":["flashy"]},
-{"s":"A dam is an example of ___ engineering.","a":["hard"]},
-{"s":"Planting trees to slow runoff is called ___.","a":["afforestation","reforestation"]},
-{"s":"Peak rainfall at 0800 and peak discharge at 1100 gives a lag time of ___ hours.","a":["3","three"]},
-{"s":"Excess fertiliser in rivers causes algal blooms, a process called ___.","a":["eutrophication"]}
-],
-"short":[
-{"q":"Describe what a river hydrograph shows.","model":"It shows how a river's discharge changes over time after a rainstorm, including the rising limb, peak discharge and falling limb.","points":["discharge over time","after a storm / rising limb and peak"]},
-{"q":"Explain how deforestation can increase flood risk.","model":"Fewer trees means less interception and less water taken up, so more rain reaches the ground as surface runoff and enters the river quickly, giving a higher peak.","points":["less interception / uptake","more surface runoff, shorter lag time"]},
-{"q":"Give two reasons why some countries suffer more from flooding than others.","model":"Poorer countries may have fewer flood defences and warning systems. They may also have more people living on flood plains in weak housing, and less money to recover.","points":["less money for defences / warnings","vulnerable housing or location / slower recovery"]},
-{"q":"Explain one disadvantage of using soft engineering to manage flooding.","model":"Soft engineering such as afforestation is slow to take effect and may not be enough to stop floods in extreme rainfall.","points":["slow / limited effect","not enough in severe floods or cannot protect existing homes"]},
-{"q":"Explain how flood warnings help to reduce the impacts of a flood.","model":"Warnings based on forecasts and river gauges give people time to move belongings and evacuate, which reduces deaths and damage.","points":["gives time to evacuate / move property","reduces deaths and damage"]}
-]}
+{
+  "id": "geo-r1-02",
+  "cards": [
+    {"f": "Population density", "b": "The average number of people per square kilometre: population divided by area in km²."},
+    {"f": "Population distribution", "b": "How people are spread across an area; where they live."},
+    {"f": "Physical factors for dense population", "b": "Flat land, fertile soil, reliable water, mild climate, resources such as minerals."},
+    {"f": "Physical factors for sparse population", "b": "Mountains, deserts, extreme cold, dense forest, poor soil, no water."},
+    {"f": "Migration", "b": "The movement of people from one place to another to live, permanently or semi-permanently."},
+    {"f": "Net migration", "b": "Number of immigrants minus number of emigrants."},
+    {"f": "Voluntary vs forced migration", "b": "Voluntary: people choose to move (e.g. jobs). Forced: people must flee danger (e.g. war, floods)."},
+    {"f": "Internal vs international migration", "b": "Internal: within one country. International: across country borders."},
+    {"f": "Push factor", "b": "A negative feature of the home area that makes people leave, such as unemployment or war."},
+    {"f": "Pull factor", "b": "An attraction of a new area that draws people, such as jobs, schools or safety."},
+    {"f": "Refugee", "b": "A person forced to flee across a border because of war, persecution or violence."},
+    {"f": "Remittances", "b": "Money that migrants send home to family; a major benefit for source areas."},
+    {"f": "Brain drain", "b": "Loss of skilled, educated people (e.g. doctors) from a country when they emigrate."},
+    {"f": "Benefits of immigration to receiving country", "b": "Fills labour shortages, taxes paid, younger workforce, cultural diversity."},
+    {"f": "Problems of immigration for receiving country", "b": "Pressure on housing, schools, hospitals; job competition; social tension."}
+  ],
+  "gaps": [
+    {"s": "Population density is measured in people per square ___.", "a": ["kilometre", "kilometer", "km"]},
+    {"s": "A migrant who is forced to flee across a border because of war is a ___.", "a": ["refugee"]},
+    {"s": "Migration within one country is called ___ migration.", "a": ["internal"]},
+    {"s": "Money sent home by migrants is called ___.", "a": ["remittances", "remittance"]},
+    {"s": "The loss of skilled workers from a country is called ___ drain.", "a": ["brain"]},
+    {"s": "Unemployment and war are examples of ___ factors.", "a": ["push"]},
+    {"s": "Immigrants minus emigrants gives ___ migration.", "a": ["net"]},
+    {"s": "Movement of people from the countryside to cities is rural-___ migration.", "a": ["urban"]}
+  ],
+  "short": [
+    {"q": "Explain why the Sahara has a very low population density.", "model": "It is extremely hot and dry with little water, so crops cannot grow and few people can survive. Soils are also thin and infertile.", "points": ["lack of water/extreme heat", "farming impossible/poor soil"]},
+    {"q": "Explain two push factors that make people migrate from rural areas.", "model": "Low incomes and unemployment because farms are small and droughts destroy crops. Poor services such as schools and hospitals also push families to cities.", "points": ["economic push factor explained", "social/environmental push factor explained"]},
+    {"q": "Explain how remittances benefit a source country.", "model": "Migrants send money to their families, which raises household incomes. Families can then spend more on food, education and housing, boosting the local economy.", "points": ["money sent home raises incomes", "spent on food/education/local economy"]},
+    {"q": "Explain one problem for a receiving area when many migrants arrive.", "model": "Housing, schools and hospitals can become overcrowded as demand rises faster than supply. This may lead to long waiting lists and tension in the community.", "points": ["pressure on housing/services", "developed result"]},
+    {"q": "Why do refugees often move to neighbouring countries first?", "model": "Neighbouring countries are close, so travel is quick and cheap, and borders can be crossed more easily. Families often hope to return home when the conflict ends.", "points": ["close/cheap/easy to reach", "hope to return/language or culture link"]}
+  ]
+}

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A single unaccompanied melody has which texture?",
+   "q": "Which texture has several performers playing different versions of the same melody at once?",
    "options": [
     "Homophonic",
-    "Polyphonic",
+    "Heterophonic",
     "Monophonic",
-    "Layered"
-   ],
-   "answer": 2,
-   "why": "Monophonic means one melodic line only."
-  },
-  {
-   "type": "mcq",
-   "q": "What is the layout of ternary form?",
-   "options": [
-    "A B",
-    "A B A",
-    "A B A C A",
-    "A A A"
+    "Antiphonal"
    ],
    "answer": 1,
-   "why": "Ternary is A B A."
+   "why": "That is heterophony, found in silk and bamboo and Arab takht music."
   },
   {
    "type": "mcq",
-   "q": "In a Baroque concerto, a recurring orchestral theme between solo episodes is called",
+   "q": "In sonata form, in which key does the second subject return in the recapitulation?",
    "options": [
-    "a ground bass",
-    "a coda",
-    "a ritornello",
-    "a cadenza"
+    "Dominant",
+    "Relative minor",
+    "Subdominant",
+    "Tonic"
    ],
-   "answer": 2,
-   "why": "The ritornello returns in different keys between solo episodes."
+   "answer": 3,
+   "why": "In the recapitulation both subjects are in the tonic."
+  },
+  {
+   "type": "mcq",
+   "q": "Which structure is a minuet and trio?",
+   "options": [
+    "A A B",
+    "A B A",
+    "A B C",
+    "A B"
+   ],
+   "answer": 1,
+   "why": "Minuet and trio is ternary: minuet, trio, minuet."
   },
   {
    "type": "short",
-   "q": "What is the difference between homophonic and polyphonic texture?",
-   "model": "Homophonic: chords or melody with accompaniment; polyphonic: two or more independent melodies at once.",
+   "q": "Describe ritornello form in a Baroque concerto.",
+   "model": "A main theme (the ritornello) is played by the whole orchestra and returns in different keys, with soloists playing contrasting episodes between returns.",
    "points": [
-    "homophonic definition",
-    "polyphonic definition"
+    "recurring tutti theme (ritornello)",
+    "soloist episodes between the returns"
    ]
   }
  ]

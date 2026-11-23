@@ -1,158 +1,164 @@
-# Urban environments: challenges and sustainable solutions
+# Food production, industry and tourism
 
-> **In the exam:** Paper 2 (Human geography), Section A, Question 3 "Urban environments" (25 marks). The usual pattern is two 4-mark "explain" parts that need a **named country** (e.g. "For a named developed country, explain two strategies used to improve quality of life in urban areas"), 1-mark "state one source of air pollution" or "identify a reason for developing a brownfield site", and an 8-mark resource question. Section B (20 marks) if your fieldwork was an urban enquiry (environmental quality survey, urban land use survey).
+> **In the exam:** Theme 3 (Economic development) on **Paper 1 Geographical Themes** (75 marks; one 25-mark question from each theme). Expect "name a farming input / type of farming" [1], "describe the inputs, processes and outputs of a farm or factory" [3–4], "explain why a factory/hotel locates here" [4], "explain causes of food shortages" [4–6] and "assess/discuss the impacts (benefits and costs) of tourism" [6–8], all linked to a named case study or a resource such as a map or table.
 
 ## What you need to know
 
-- **Urban challenges in a named developed country**: food, energy, transport and waste disposal demands, concentrated resource consumption, segregation.
-- **Urban challenges in a named developing or emerging country**: squatter settlements, informal economy, urban pollution, low quality of life.
-- Development of the **rural-urban fringe**: housing estates, retail, business and science parks, industrial estates; **greenfield v brownfield**.
-- **Strategies for sustainable urban living** and a better quality of life: waste disposal, transport, education, health, employment and housing.
-- The **roles of groups** (planners, politicians, property developers, industrialists).
-- Use quantitative and qualitative data (e.g. quality-of-life or environmental quality scores) to judge variations in environmental quality.
+- **Agricultural systems:** inputs, processes, outputs; types (commercial/subsistence, intensive/extensive, arable/pastoral/mixed); **physical and human** factors affecting farming.
+- **Food shortages:** causes, consequences and ways to increase food supply.
+- **Industry:** systems, the factors affecting **location**, industrial sectors, and changes in industrial location (e.g. growth of manufacturing in Asia).
+- **Tourism:** growth, attractions, **benefits and costs** (economic, social, environmental), and **sustainable tourism**.
+- A **case study** for each: a farming system, an industrial region or factory, and a tourist area.
 
 ## Notes
 
-### Challenges in a developed country city (e.g. London, New York, Tokyo)
+### Farming as a system
 
-| Challenge | Why it is a problem |
+| Part | Examples |
 |---|---|
-| **Food** | millions to feed; imports from far away; food waste; food poverty and food banks |
-| **Energy** | huge demand for electricity, heating and fuel; need to cut carbon |
-| **Transport** | congestion, overcrowded trains, air pollution, expensive tickets |
-| **Waste disposal** | tonnes of household and commercial waste; landfill space running out; recycling targets |
-| **Concentrated resource consumption** | high consumption of water, land and materials in a small area (large ecological footprint) |
-| **Segregation** | richer and poorer groups live in separate areas; ethnic/ income segregation; unequal access to schools, jobs, green space |
+| **Inputs** | Seeds, fertiliser, machinery, labour, water, capital, climate, soil |
+| **Processes** | Ploughing, sowing, irrigating, weeding, harvesting, rearing animals |
+| **Outputs** | Crops, meat, milk, wool; waste; money (profit) |
 
-Add facts from your case study (population, % recycled, number of commuters, price of homes).
+**Types of farming**
 
-### Challenges in a developing/emerging country city (e.g. Mumbai, Lagos, Rio de Janeiro, Dhaka)
-
-- **Squatter settlements** (informal settlements, slums, favelas): homes of scrap material with no water, sanitation, electricity or legal ownership; overcrowded; vulnerable to fire, flood and landslide.
-- **Informal economy**: many jobs are unregistered and low-paid (see the economic activity topic).
-- **Urban pollution**: air (traffic, factories, burning waste), water (untreated sewage), and noise; rubbish piles up.
-- **Low quality of life**: poverty, poor health (cholera, TB), little schooling, crime, long commutes.
-
-### Rural-urban fringe: developing the edge of the city
-
-New development often goes on the **rural-urban fringe**: **housing estates, retail parks, business and science parks, industrial estates**.
-
-| | **Greenfield** (never built on) | **Brownfield** (previously built on, now derelict) |
-|---|---|---|
-| Pros | cheap, flat, space to expand, no demolition | existing roads/utilities, near the centre and workers, **protects countryside**, regenerates run-down areas |
-| Cons | loses farmland and habitats, more car use, **urban sprawl** | can be contaminated (costly clean-up), more expensive, less space |
-
-The debate: governments often set targets for most new homes to go on brownfield to protect green belt land; developers often prefer greenfield because it is cheaper and faster.
-
-### Sustainable cities and improving quality of life
-
-A **sustainable city** meets the needs of its people now without harming the environment or reducing opportunities for future generations. Strategies, by the spec's six areas:
-
-| Area | Strategies | Example |
-|---|---|---|
-| **Waste disposal** | reduce, reuse, recycle; separate collection; composting; waste-to-energy; community recycling schemes | Dharavi's recycling industry; UK kerbside recycling |
-| **Transport** | integrated public transport, bus rapid transit, cycle lanes, trams/metro, congestion charges, low-emission zones | **Curitiba** (Brazil) bus rapid transit; **London** congestion charge (2003) and ULEZ (2019, expanded across all London boroughs in 2023); **Medellín** cable cars |
-| **Education** | build schools, adult literacy, training | skills programmes for informal workers |
-| **Health** | clinics, clean water and sanitation, vaccination | community toilet blocks in squatter areas |
-| **Employment** | support small businesses, microfinance, training, new industrial and business parks | micro-loans for informal traders |
-| **Housing** | self-help schemes (people build with materials and help), site-and-service schemes, upgrading squatter settlements (electricity, water), high-quality social housing, redevelopment of brownfield sites | Rio's Favela-Bairro programme; Mumbai's slum redevelopment |
-
-Other sustainable features: green space and urban farming, renewable energy, energy-efficient buildings, **eco-districts**, car-free zones, water recycling.
-
-### Evaluating strategies (for "assess" and "explain" questions)
-
-Judge a strategy by:
-- **Does it work?** (e.g. cut congestion by x%, more homes)
-- **Cost** and who pays; **speed**.
-- **Who benefits** (all groups or only the better off?).
-- **Long-term sustainability**: Does it protect the environment and last?
-- Can it be copied elsewhere?
-
-Bottom-up schemes (local people involved) often last longer and are cheaper, but need support; top-down schemes (government) are large scale but can displace people or ignore their needs.
-
-### Roles of groups of people
-
-| Group | Role |
+| Type | Meaning |
 |---|---|
-| **Planners** | decide land use, zoning, transport, green belt; balance competing needs |
-| **Politicians** | set policy and budgets; local and national government pass laws and fund projects |
-| **Property developers** | build homes, offices and shops; aim for profit; may prefer greenfield |
-| **Industrialists** | create jobs and wealth; may pollute; locate where land and transport are cheap |
-| **Local communities / NGOs** | campaign, run self-help schemes, give local knowledge |
+| **Subsistence** | Produce mostly eaten by the farmer's family (e.g. small rice paddies in many LICs) |
+| **Commercial** | Produce sold for profit |
+| **Intensive** | Small area, **high inputs per hectare** (labour or capital) and high yield |
+| **Extensive** | Large area, **low inputs per hectare** and low yield per hectare (e.g. sheep ranching) |
+| **Arable / pastoral / mixed** | Crops / animals / both |
 
-Conflict happens, for example, when developers want to build on green belt while residents and planners want to protect it.
+**Factors affecting farming**
+- **Physical:** climate (temperature, rainfall, growing season), relief (flat land is easier to farm; steep slopes get terraces), soil (fertile or infertile, deep or thin), water supply.
+- **Human/economic:** markets and **transport**, capital (to buy machinery and fertiliser), labour, technology, government subsidies and policies, land ownership.
 
-### Measuring environmental quality (data skills)
+**Case study ideas** (check your own class notes): rice farming in a monsoon region (e.g. the Ganges delta, India or Bangladesh), a large commercial wheat farm in the USA or Canada, a dairy farm in Europe. Learn **inputs, processes, outputs, location factors** and one or two facts.
 
-An **environmental quality survey (EQS)** scores sites (e.g. -2 to +2, or 1 to 5) for litter, graffiti, noise, traffic, building condition and greenery. You can calculate the mean score for each site and show results on a **choropleth map** or bar chart. Quality tends to be lower in the inner city and higher in the suburbs, but your own data may differ (anomalies). Combine with **qualitative** evidence (photographs, interviews) for a full picture.
+### Food shortages
+
+**Causes**
+- **Physical:** drought, floods, tropical cyclones, soil erosion and degraded land, pests and diseases (e.g. locusts).
+- **Human:** **poverty** (cannot afford food), **conflict** and war, **poor storage and transport** (crops rot), rapid population growth, poor governance, low investment, high food prices, climate change.
+
+**Consequences**
+- **Malnutrition** (poor diet), **undernutrition**, **famine** (extreme shortage with high death), weakened immune systems and disease, stunted child growth, low productivity, migration, social unrest, rising food prices.
+
+**Ways to increase food supply**
+| Method | How it helps | Problems |
+|---|---|---|
+| **Irrigation** | Water for crops in dry areas; allows year-round farming | Expensive; salinisation; water shortage |
+| **High-yielding varieties (HYVs) and fertilisers** (Green Revolution) | More crop per hectare | Costly seeds, fertiliser; pollution |
+| **Genetic modification (GM)** | Crops resist drought and pests | Cost; concerns about safety and company control |
+| **Better storage and transport** | Less food wasted | Needs investment |
+| **Aid** and **education** | Short-term food; training in better farming | Dependence; may not reach those in need |
+| **Land reform, terracing, mechanisation** | Better use of land | Cost, may reduce jobs |
+
+### Industry
+
+Industry is organised in **sectors**: **primary** (extracting raw materials: farming, mining), **secondary** (manufacturing), **tertiary** (services), **quaternary** (high-tech, research).
+
+An industry is also a **system**: inputs (raw materials, labour, energy, capital, land), **processes** (making, assembling), **outputs** (products, waste, profit).
+
+**Factors affecting location of industry**
+
+| Factor | Why it matters |
+|---|---|
+| **Raw materials** | Cheaper if close (especially heavy ones, e.g. steel near coal and iron ore) |
+| **Energy supply** | Electricity, gas or oil nearby |
+| **Labour** | Supply of skilled or cheap workers |
+| **Transport** | Good roads, ports, rail, airports to move goods |
+| **Markets** | Close to customers saves cost |
+| **Capital and government** | Grants, tax breaks, **special economic zones** |
+| **Land** | Cheap, flat, with room to expand |
+
+**Industrial change:** in HICs, manufacturing declined (**deindustrialisation**) as firms moved to cheaper places and **tertiary** jobs grew. In **NICs** such as China, manufacturing grew due to cheap labour, government support and TNC investment (e.g. in the Pearl River Delta). Impacts: jobs and income, pollution, urban growth, working conditions.
+
+**Case study ideas:** an industrial zone in China, India or Brazil; a car or electronics factory; or an industrial region you have studied. Know location reasons and impacts.
+
+### Tourism
+
+**Growth factors:** more **disposable income** and paid holiday, **cheaper and faster transport** (low-cost flights), the **internet**, more attractions marketed, longer life expectancy and retirement.
+
+**Attractions:** physical (beaches, mountains, climate, wildlife, national parks), human (culture, historic sites, theme parks, events).
+
+| | Benefits | Costs |
+|---|---|---|
+| **Economic** | Jobs, income, foreign currency, taxes, new roads and services | Seasonal jobs, low pay, **leakage** of profits to foreign companies, higher prices |
+| **Social** | Preserves local culture and crafts; better facilities | Crowding, loss of traditions, conflict with locals, higher house prices |
+| **Environmental** | Money to protect parks and wildlife | Litter, pollution, erosion of footpaths, damage to coral, water use, habitat loss |
+
+**Sustainable tourism / ecotourism:** meets visitors' needs without harming the environment for future generations. Strategies: limit visitor numbers, charge entry fees for conservation, use local guides and staff, train locals, protect habitat, **eco-lodges**, **zoning** and management of paths.
+
+**Case study ideas:** a national park or coastal resort (e.g. the Kenyan safari industry, Costa del Sol in Spain, the Maldives or the Great Barrier Reef). Learn benefits, costs and management with facts.
 
 ## Key terms and definitions
 
-- **Sustainable city**: a city that meets the needs of its people now without damaging the environment or reducing the ability of future generations to meet their needs.
-- **Quality of life**: the standard of health, happiness and comfort of an individual or community.
-- **Segregation**: the separation of different social, ethnic or income groups into different areas.
-- **Informal economy**: economic activity that is not regulated or taxed by the government.
-- **Greenfield site**: land that has never been built on, often on the edge of a city.
-- **Brownfield site**: land that has been built on before, often derelict, available for redevelopment.
-- **Rural-urban fringe**: the area where the city meets the countryside.
-- **Self-help scheme**: a scheme where residents build or improve their own homes with materials and support from the authorities.
-- **Congestion charge**: a fee for driving into a city centre to reduce traffic.
-- **Bus rapid transit (BRT)**: a bus system with dedicated lanes, tube-shaped stations and quick boarding that works like a metro.
-- **Environmental quality survey**: a scored assessment of the quality of an area using indicators such as litter, noise and building condition.
+- **Subsistence farming:** growing crops or keeping animals mainly for the farmer's own family.
+- **Commercial farming:** producing crops or animals mainly to sell for profit.
+- **Intensive farming:** high inputs of labour or capital on a small area to get high yields.
+- **Extensive farming:** low inputs per hectare on a large area.
+- **Food shortage:** a lack of enough food for a population.
+- **Malnutrition:** poor health caused by a lack of food, or the wrong type of food.
+- **Primary / secondary / tertiary industry:** extracting raw materials / manufacturing / services.
+- **Deindustrialisation:** the decline of manufacturing industry in a place.
+- **Tourism:** the industry of people travelling to places for leisure.
+- **Sustainable tourism:** tourism that meets present needs without harming the environment or culture for the future.
+- **Leakage:** when profits from tourism go to foreign-owned companies rather than the local area.
 
 ## Worked examples
 
-**1. For a named developed country, explain two strategies used to improve quality of life in urban areas. [4]**
+**1. Explain two physical factors that affect farming. [4]**
 
-*Model (UK / London).* London introduced a **congestion charge** in 2003 (1) which reduces traffic and air pollution in the centre and pays for buses, so health and journey times improve (1). Kerbside **recycling** schemes (1) reduce the amount of waste going to landfill and cut costs and pollution (1).
+Climate: crops need enough rain and a long growing season (1), so rice grows well in warm, wet monsoon areas but wheat is more suited to cooler, drier ones (1). Soil: fertile deep soils such as alluvium in a delta produce high yields (1), whereas thin or infertile soils limit crops (1).
 
-Marks: each strategy named and developed. Include a named place and detail.
+**2. Explain why a car factory might locate near a port. [3]**
 
-**2. Identify one reason for developing a brownfield site. [1]** The land already has roads and electricity (so building is quicker). *(Answer C in the 2024 paper; "costly removal of contaminated waste" is a disadvantage.)*
+Near a port, imported parts can be brought in cheaply (1). Finished cars can be exported to world markets without long road transport (1). Large ports also have good road and rail links and a large labour supply (1).
 
-**3. State one source of air pollution in cities. [1]** Vehicle exhaust fumes (also factories or burning waste).
+**3. Assess the benefits and costs of tourism in a named area. [6]**
 
-**4. Suggest one way self-help housing schemes can improve life in squatter settlements. [3]**
-
-Residents are given materials and basic services such as water and electricity (1), and build better homes themselves, which costs the government less (1), so people have safer, healthier housing and a secure home (1).
+(Example: Maldives.) Tourism provides jobs in hotels and boats and earns foreign currency (1), which pays for schools and infrastructure (1). However, many resorts are foreign-owned so profits leak abroad (1). Coral reefs are damaged by divers, anchors and sewage (1), and imports of food raise costs (1). Overall tourism brings large income but needs management such as limits on visitors and protected reefs (1).
 
 ## Common mistakes
 
-- Giving **no named country or place** for case-study questions: you lose most marks.
-- Listing strategies without explaining how they improve life ("recycling" alone gets 1 at most).
-- Confusing greenfield (never built on) with brownfield (previously built on).
-- Describing squatter settlements as "slums that should be demolished": most successful strategies **upgrade** them with services instead.
-- Forgetting the two-sided nature of strategies: every strategy has costs and people who lose out.
-- Saying "pollution" without specifying air, water, noise or land.
+- Mixing up **intensive** (high input per hectare) and **extensive** (low input per hectare), and with "subsistence".
+- Describing a farm as having "no inputs". Always name: **seeds, labour, fertiliser, machinery**, etc.
+- Giving a list of factors with **no explanation** of why they matter for location.
+- Forgetting that **leakage** and **seasonal jobs** are costs of tourism.
+- Case study with no place names or facts ("a farm in a country").
+- Writing "food shortages are only caused by drought". Include **conflict, poverty and poor storage**.
+- Writing about tourism's impacts without a **judgement** when the question says "assess".
 
 ## Practice questions
 
-1. State two challenges facing a city in a named developed country. [2]
-2. Describe three features of a squatter settlement. [3]
-3. Explain why brownfield development is better for a city than greenfield development. [3]
-4. Identify two groups involved in managing urban change and state the role of one. [3]
-5. Explain two strategies used to improve transport in a named city. [4]
-6. Explain two ways of making housing more sustainable in a named developing or emerging city. [4]
-7. Explain one disadvantage of a congestion charge. [2]
-8. Suggest how an environmental quality survey could be used to compare two parts of a city. [3]
+1. Give two inputs for a farm. [2]
+2. Explain the difference between intensive and extensive farming. [2]
+3. State two physical causes of food shortage. [2]
+4. Explain how irrigation can increase food production. [2]
+5. Name the sector of industry that includes car making. [1]
+6. Explain why a steel works is often located near iron ore and coal. [3]
+7. Describe two benefits of tourism to a destination. [2]
+8. Explain one way tourism can be made more sustainable. [3]
 
 <details><summary>Answers</summary>
 
-1. Any two: food demand, energy demand, congestion/transport, waste disposal, resource consumption, segregation (named city/country).
-2. Any three: overcrowded, makeshift materials, no sanitation/water/electricity, on poor land (slopes, floodplains), no legal ownership, high crime/disease.
-3. Reuses existing roads/utilities/buildings so cheaper to service (1); protects countryside and habitats from urban sprawl (1); regenerates run-down areas and brings jobs and homes close to the centre (1).
-4. Any two of planners, politicians, developers, industrialists, local communities. Role e.g. planners decide land use and protect green belt (1 for role).
-5. Named city. Two strategies, e.g. Curitiba's bus rapid transit (1) with dedicated lanes and fast boarding, so people use buses instead of cars and congestion falls (1); cycle lanes/metro extension (1) with a reason (1).
-6. Self-help schemes: residents get materials and build their own homes, cheaper for government (2). Upgrading squatter settlements with water, electricity and toilets (2). Named city (e.g. Rio Favela-Bairro, Mumbai).
-7. Charge may hit low-income workers hardest (1) or pushes traffic and pollution onto roads outside the zone, and shops may lose customers (1).
-8. Survey scores for the same indicators at sites in both areas (1); calculate the mean score for each (1); compare, e.g. more litter and graffiti in inner city than suburb, and show on a bar chart or map (1).
+1. Any two: seeds, fertiliser, labour, machinery, water, capital, soil, climate (1 each).
+2. Intensive: small area with high inputs per hectare and high yield (1). Extensive: large area with low inputs per hectare and lower yield per hectare (1).
+3. Any two: drought, flooding, tropical cyclones, soil erosion, pests/disease (1 each).
+4. It supplies water to crops in dry areas / dry seasons (1) so crops can grow, or more crops can be grown each year (1).
+5. Secondary (manufacturing) (1).
+6. Both are heavy and costly to move (1). Producing steel uses large amounts of them, so locating close lowers transport costs (1), reducing the cost of the steel (1).
+7. Any two: jobs (1); foreign currency and income (1); better roads and airports (1); taxes (1).
+8. Example: limiting visitor numbers (1) reduces damage to footpaths and wildlife (1) so the area stays attractive for future visitors (1). Or: using local guides, entrance fees spent on conservation, eco-lodges.
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Learn the developed v developing city challenge lists; add 3 facts per city from your notes.
-- **10 min** – Greenfield v brownfield table, and roles of groups.
-- **15 min** – Build a table of strategies for waste, transport, education, health, employment and housing, each with a named example.
-- **20 min** – Practice questions and compare; check each 4-mark answer has a named place.
-- **5 min** – Error log.
+- **0–15 min:** Farming systems, types and factors; learn your farming case study facts.
+- **15–27 min:** Food shortages: causes, consequences and solutions table.
+- **27–40 min:** Industry: sectors, location factors, industrial change and your example.
+- **40–52 min:** Tourism benefits, costs, sustainable management and case study.
+- **52–60 min:** Practice questions 1–8, then the quiz.

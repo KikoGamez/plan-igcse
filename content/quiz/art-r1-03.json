@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which statement best describes a primary source?",
+   "q": "Which source counts as primary (first-hand)?",
    "options": [
-    "An image from a website",
-    "A drawing or photo you made yourself from direct experience",
-    "A page from an art book",
-    "A museum catalogue"
+    "A photograph from a magazine",
+    "A painting in a book",
+    "An image downloaded from a website",
+    "Your own drawing of a shell on your desk"
    ],
-   "answer": 1,
-   "why": "Primary sources are first-hand: your own drawings and photos."
+   "answer": 3,
+   "why": "Primary sources are observed or made by you."
   },
   {
    "type": "mcq",
-   "q": "Why measure with a pencil at arm's length?",
+   "q": "Which gives the AO1 wording correctly?",
    "options": [
-    "To make lines darker",
-    "To compare proportions accurately",
-    "To blend tone",
-    "To scale up a grid"
+    "Explore and select appropriate resources, media, materials, techniques and processes",
+    "Record ideas, observations and insights relevant to intentions as work progresses",
+    "Develop ideas through investigation, demonstrating critical understanding",
+    "Present a personal and coherent response"
    ],
    "answer": 1,
-   "why": "Arm's length measuring lets you compare sizes of parts of the object."
+   "why": "AO1 Record is 'Record ideas, observations and insights relevant to intentions as work progresses'."
   },
   {
    "type": "mcq",
-   "q": "In AO3, the phrase 'as work progresses' means",
+   "q": "A student only draws from one internet photograph. Which AO1 element is weak?",
    "options": [
-    "Only record at the start",
-    "Record only in the final piece",
-    "Keep recording throughout the project",
-    "Record after the exam"
+    "Variety of sources",
+    "Use of tone",
+    "Neat handwriting",
+    "Size of the page"
    ],
-   "answer": 2,
-   "why": "AO3 evidence should appear all through the project."
+   "answer": 0,
+   "why": "AO1 rewards recording from a variety of relevant sources, including first-hand."
   },
   {
    "type": "short",
-   "q": "Give two ways to make a photograph useful in your sketchbook.",
-   "model": "Take your own photos from varied angles and light, then draw from or crop and annotate them to show development.",
+   "q": "What is a blind contour drawing and what does it train?",
+   "model": "Drawing the edges of an object while looking at it and not at the paper. It trains close observation and line quality.",
    "points": [
-    "own photos with varied angle/light",
-    "draw from/annotate/develop them"
+    "draw without looking at paper",
+    "trains observation or line"
    ]
   }
  ]

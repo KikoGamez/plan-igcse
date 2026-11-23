@@ -1,59 +1,70 @@
 # Mark the paper with the mark scheme
 
-> **Goal:** Mark your two timed sessions with the official mark scheme, find where you lost marks, and put each error into your error log with a fix.
+> **Goal:** Mark your whole Paper 1 with the official mark scheme, find where your marks were lost, and turn every error into a line in your error log with the fix.
 
 ## Before you start
 
-- **You need:** your completed paper (sessions 1 and 2), the **official Pearson mark scheme** for that paper and series, a **red pen**, and a blank **error log** (columns: Question | Marks lost | Why (knowledge / technique / listening) | Fix).
-- Mark honestly: give a mark only if the mark scheme point is clearly met; do not give "benefit of the doubt".
-- Have your notes and set-work sheets open for the **fix** column.
+- Your **completed paper** (both sessions) and the **mark scheme** for the same paper (the 2026 specimen mark scheme is on the Cambridge website, or your teacher can give you the June/November mark scheme).
+- A **different colour pen** for marking, a highlighter, your **error log** page, and the examiner report for that series if your teacher has one.
+- The **audio** in case you need to replay an extract to find an answer.
+- Timer: 60 minutes.
 
 ## Exam format reminder
 
-- **Appraising paper (Paper 3, code 1MU0/03 in the Pearson Edexcel GCSE (9–1) Music spec):** 1 hour 45 minutes, **80 marks**, 40% of the course. Check with your teacher that this is the paper your school sits.
-- **Section A (68 marks):** six questions based on the **eight set works** (two per area of study), using extracts from recordings and the printed score extracts. It includes short answers, listening for features, and a **melody/rhythm dictation** question where you complete notation.
-- **Section B (12 marks):** one extended-response question comparing a set work with an unfamiliar piece, using musical vocabulary.
-- You hear each extract several times, with set pauses; the paper is "audio-led", so the recording runs the exam.
+- **Paper 1 Listening** (Cambridge IGCSE Music 0410, syllabus for 2026–2028): about **1 hour 15 minutes**, **70 marks**, **40%** of the IGCSE. All questions test AO1 (listening). Externally marked.
+- **Eight short recorded extracts**, with at least one from each of the seven areas of study (Baroque, Classical, Romantic, Music and words, Music for dance, Music for small ensemble, Music for stage and screen). The paper tells you the area and, where suitable, the tradition or genre.
+- Seven extracts have **multiple choice and short answer** questions; **one** has a **short descriptive question**. Each extract is worth **6 to 16 marks**.
+- Each extract is played **three to five times**, depending on the questions. Some extracts come with **printed music** (treble, alto and/or bass clef); longer passages are in a separate **insert**. Words are printed for vocal extracts, with a translation or summary if not in English.
+- Question types: identify instruments, voices, features, composers (multiple choice); describe or comment; compare passages; follow a score; name the key, intervals, chords and cadences; fill in missing melody or rhythm (multiple choice); transpose short passages; identify structure with letters (e.g. AABA).
+- Command words: **identify** = name; **give** = recall; **describe** = state features; **explain** = say why/how with evidence; **compare** = similarities and/or differences; **comment** = informed opinion; **suggest** = apply knowledge, several answers valid.
 
 ## How to do it
 
-1. **0–5 min** – Add the marks scale: Section A /68, Section B /12, total /80.
-2. **5–30 min** – Mark Section A question by question with the mark scheme. Write the mark in the margin. For every lost mark write the **missing point** in red.
-3. **30–40 min** – Mark Section B using the levels descriptor. Decide which level your answer reaches and what would take it up a level.
-4. **40–50 min** – Fill the **error log**: for each lost mark, classify the reason:
-   - **K** (did not know the fact),
-   - **L** (did not hear it),
-   - **T** (technique: too vague, wrong number of points, did not answer the question),
-   - **N** (notation/dictation).
-5. **50–60 min** – Choose the top three error types. Write one **fix** for each (e.g. "learn the 8 set-work key facts", "always name instrument, not family") and schedule when you will do it.
+| Time | What to do |
+|---|---|
+| 0:00–0:05 | Set up. Draw a table with 8 rows (extracts 1–8) and columns: marks available, marks scored, area of study. |
+| 0:05–0:30 | Mark extract by extract. Put a tick per mark; write the **missing mark point** next to each lost mark. Replay the audio where you were wrong, and listen for the answer. |
+| 0:30–0:35 | Total your marks out of 70. Ask your teacher for the grade thresholds of that series: they change every series, so don't guess a grade. |
+| 0:35–0:50 | **Error log:** for each lost mark, write: question, what you wrote, correct answer, type of error (see below), fix. Group errors. |
+| 0:50–0:58 | Choose the **three biggest error types**. Write a specific task for each (e.g. "learn 10 instruments of Hindustani and Arab music", "do five cadence questions"). |
+| 0:58–1:00 | Put the tasks on your planner. |
+
+**Error types:** (1) *Content gap* (did not know the term/fact). (2) *Aural* (misheard instrument, key, rhythm). (3) *Detail* (not enough points for the marks). (4) *Misread* (the question or the score). (5) *Terminology* (wrong or vague word). (6) *Timing* (left blank).
 
 ## Exam technique for this paper
 
-- When you read the mark scheme, notice **how many points are accepted** and **what wording earns marks** (e.g. "ostinato" vs "repeated pattern").
-- If you lost marks for vagueness, rewrite the answer in the form **feature + evidence**.
-- If you lost marks because you could not hear something, replay that extract **with the score**, then without.
-- On dictation, check the **rhythm first**; most marks are for it.
-- Compare Section B with the descriptor: top levels need **specific musical detail, a balanced comparison and accurate terms**.
+- **Look at how the mark scheme words things:** the accepted answers show the exact **terms** the examiners reward (and the alternatives allowed).
+- **Marks per point:** a 4-mark "describe" needs four separate points, not one point four ways.
+- **Match your answer to the command word:** if you wrote a description where an explanation was needed, note it.
+- **"Own figure" or "any two" style notes:** observe how many different valid answers there are.
+- **Learn the style of the paper:** which extracts carried the most marks? Revise those areas more.
+- **Terminology fix:** replace vague words (fast, slow, loud, sad, nice) with correct terms (allegro, rallentando, forte, minor key).
+- **Never "wait and hope":** every error gets a task, a deadline, and a recheck.
 
 ## Checklist while marking
 
-- [ ] Total marks and percentage worked out.
-- [ ] Each lost mark has a reason code (K, L, T, N).
-- [ ] The error log has a fix for every row.
-- [ ] I know my three weakest topics.
-- [ ] I have written terms I used wrongly or spelled wrongly.
-- [ ] I have a date to redo the weakest questions.
+- [ ] Marked in a different colour pen with a mark-by-mark tick.
+- [ ] Total out of 70; per-extract breakdown completed.
+- [ ] Each lost mark has a reason (error type).
+- [ ] For aural errors, I replayed the extract and wrote what I should have heard.
+- [ ] For content gaps, I added the term to my vocabulary list.
+- [ ] For detail errors, I rewrote the answer with the right number of points.
+- [ ] Three targets written with dates.
+- [ ] Wrong areas of study identified: 1 Baroque, 2 Classical, 3 Romantic, 4 Music and words, 5 Dance, 6 Small ensemble, 7 Stage and screen.
 
 ## Quick-fire revision
 
-- Command words: **identify/name** (one word), **describe** (features), **explain** (reason), **compare** (both sides).
-- A 3-mark question needs three separate points.
-- Instruments: name the exact one.
-- Period clues: harpsichord = Baroque; Alberti bass = Classical; rubato/chromatic = Romantic.
-- Ground bass vs ostinato: ground bass is in the bass line.
-- Concerto grosso: concertino vs ripieno.
-- Sonata form: three sections, plus introduction/coda in the Pathétique.
-- Leitmotif and diegetic/non-diegetic.
-- Cadence names and chords.
-- Time signatures: 6/8 = compound duple; 3/4 = simple triple.
-- Keep your error log; reread it before the mock.
+- The paper is 70 marks; extracts are worth between 6 and 16 marks.
+- Every extract is played 3–5 times.
+- One extract has a descriptive question; seven have MCQ and short answers.
+- At least one extract from each of the seven areas of study.
+- Vague words lose marks: use technical terms.
+- A "describe" question with N marks needs about N distinct points.
+- Marks are only for AO1: listening and commenting with terminology.
+- Perfect cadence V–I; imperfect ends on V; interrupted V–VI.
+- Sharps: last sharp is the leading note; flats: second-last flat is the key (for 2+ flats).
+- Clarinet in B flat: down a major 2nd; in A: down a minor 3rd; horn in F: down a perfect 5th.
+- Heterophonic ≠ polyphonic.
+- Syllabic = one note per syllable; melisma = many.
+- Sequence = repeat of a pattern higher or lower.
+- Error log: question, what I wrote, correct, type, fix.

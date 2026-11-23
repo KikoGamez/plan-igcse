@@ -1,146 +1,166 @@
-# The externally set assignment: planning the timed piece (AO4)
+# The externally set assignment: planning the supervised test (AO4)
 
-> **In the exam:** Component 2 is the **Externally-set Assignment**: 72 marks, 50% of the qualification, externally marked. Pearson releases a broad thematic starting point on **2 January** each year. You complete preparatory studies, then a **10-hour sustained focus period** under exam conditions to make your final piece. AO4 is 18 of the 72 marks, and the other AOs are also assessed across the whole submission.
+> **In the exam:** **Component 2, Externally Set Assignment (ESA)**, is worth **100 marks, 50%** of Cambridge IGCSE Art & Design 0400. Cambridge sets a question paper with starting points. You choose **one**, produce **supporting studies** during the preparation period, then make your **final outcome in a supervised test of 8 hours' total duration**. Supporting studies and final outcome are marked together against AO1–AO4 (25 marks each). **AO4 Present** is "Present a personal and coherent response that realises intentions and demonstrates an understanding of visual language".
 
 ## What you need to know
 
-- **Component 2** must be in the **same endorsed title** as Component 1 (Fine Art, Graphic Communication, Photography, Textile Design or Three-dimensional Design).
-- Pearson sets a **broad-based thematic starting point**; it changes every exam session; the paper gives starting points and guidance.
-- The assignment is released on **2 January** and can be given to students as soon as it is released.
-- Centres organise their own **preparatory period** before the 10 hours begin.
-- The **10-hour period of sustained focus** is under exam conditions, **unaided**, and may be split across **up to four sessions within three consecutive weeks**.
-- Preparatory studies **must stop** when the 10 hours begin; you may only access your own preparatory studies during the 10 hours; work is kept securely between sessions.
-- You submit **three A2 sheets of supporting studies and one A2 sheet of final outcome(s)**. Larger or 3D work is **photographed** (around four photographs from different angles, mounted on one A2 sheet).
-- **AO4:** "Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language."
-
-(Details are from the Pearson Edexcel International GCSE Art and Design specification, Issue 2, June 2017. Your teacher will tell you your exact dates, as your mock may be shorter.)
+- Component 2 is **externally assessed** and has a **question paper**; the early paper is released to schools before the exam.
+- You respond to **one starting point** set by Cambridge International. You may work in any area of study (painting and related media, graphic communication, three-dimensional design, textiles and fashion, photography). It may be the same area as Component 1, but it does not have to be.
+- Work has two parts: **supporting studies** (made in the preparation period) and a **final outcome** (made during the supervised test, **8 hours in total**).
+- The supporting studies **must be available to you during the test** to inform the final outcome.
+- The work must relate to the question paper and **must not be the same as Component 1**; avoid choosing a starting point similar to your Component 1 theme.
+- Everything is presented as a **digital portfolio** for online submission.
+- Marking: all four AOs equally (25 marks each); the supporting studies and final outcome are assessed together to give one mark out of 100.
+- Details such as the length of the preparation period and how your school splits the 8 hours come from your school: check them with your teacher.
 
 ## Notes
 
-### How AO4 is marked (18 marks)
-The grid looks at:
-- Ability to produce a **personal and meaningful response**.
-- Ability to **realise intentions**: does the final piece do what you said you intended?
-- **Understanding of visual language through formal elements**: line, tone, colour, shape, form, texture, pattern, composition.
-- **Personal style**: from "little appreciation of aesthetic consideration" at the bottom, through "methodical", "imaginative" and "independence and exciting personal style" at the top.
-- **Technical competence**: "a lack of technical competency frustrates personal style" is noted in the Basic band.
-
-### Phase 1: preparatory studies (before the 10 hours)
-Your supporting studies must show **all four AOs** in response to the theme:
-- **AO1:** research, contextual sources, and analysis.
-- **AO2:** experiments with media and techniques, reviewing and refining.
-- **AO3:** recording from observation, photography, notes.
-- **AO4 (preparation):** a clear final design and plan.
-
-Typical sequence: 1. Read the paper and pick a starting point. 2. Mind map and mood board. 3. First-hand recording (drawing, photos). 4. Artist research and studies. 5. Experiments. 6. Thumbnails and composition studies. 7. **Final idea and plan**.
-
-### Phase 2: the 10-hour sustained focus period
-- You work **unaided**; work is **collected and stored** after each session.
-- You cannot add to or alter your preparatory studies.
-- You may only use your own preparatory work and the materials supplied or approved.
-- Final piece may be a **single outcome, a series or a group**.
-
-### Planning the 10 hours (example for a 2D painting/drawing)
-| Time | Stage | Aim |
+### 1. The timeline
+| Stage | What happens | AOs mostly earned |
 |---|---|---|
-| **1 h** | Set-up and composition | Transfer the design lightly; check proportions; get everything on the page |
-| **2 h** | Underpainting / base layers | Block in large areas; establish tone and colour |
-| **3 h** | Main development | Build form, colour and detail on the focal point first |
-| **2 h** | Refining | Strengthen contrast, detail and texture; fix problems |
-| **1 h** | Finishing | Final details, edges, highlights, signature if appropriate |
-| **1 h** | Review and adjust | Step back; check against your design and intentions |
+| Question paper released | Read all starting points; choose **one** | Planning |
+| Preparation period | Make supporting studies: record, research artists, experiment, develop | AO1, AO2, AO3 |
+| Supervised test (8 hours) | Make the final outcome under exam conditions, with your supporting studies available | AO4 (and AO1–AO3 where still developing) |
+| Submission | Photograph/scan and upload your work | All |
 
-Adjust for your medium: **Printmaking** needs carving/inking and drying time; **Textiles** needs sewing/dyeing time; **3D** needs drying/firing and construction time; **Photography** needs shooting, selecting and editing time.
+### 2. Choosing a starting point
+Read all of them twice. Then:
+1. **Circle key words** in each (nouns and verbs).
+2. Think about **first-hand sources** you can use: things you can draw, photograph or visit.
+3. Think about **materials** you are good at, and areas of study you can finish in time.
+4. Check you can find **artists and designers** to research.
+5. Avoid anything too close to your Component 1 theme.
+6. Decide, and **do not change your mind** after a week.
 
-Split across **up to four sessions**: end each session at a **natural stopping point**, and write a short "next session" note in your head or on the plan if allowed, as you cannot take work away. Check with your teacher what you may keep.
+### 3. Preparation period: what to make
+Aim for a **clear sequence**, in about this proportion:
 
-### Practical planning rules
-1. **Know your design** before the 10 hours start. Time is for making, not deciding.
-2. **Prepare** materials, test colours and any paper size in advance.
-3. **Do the hardest part first** (usually the focal point), when you are fresh.
-4. **Work from general to detail.** Never leave the main area unfinished while polishing the edges.
-5. **Leave 30 min at the end** to check and adjust.
-6. **Plan fallbacks** (e.g. the simplest background if you run short of time).
-7. **Pace** each session: 2.5 hours is long, so take short breaks (stretch, look at the work from a distance).
+| Part | What to include |
+|---|---|
+| Mind map | Your starting point, key words and ideas (AO1/AO3) |
+| Primary recording | Observational drawings, photos, notes from first-hand sources (AO1) |
+| Artist and designer research | Two to four artists with studies (AO3) |
+| Media experiments | Several tests with notes and decisions (AO2) |
+| Idea development | Thumbnails, composition trials, a chosen idea (AO2/AO3) |
+| Final plan | Design drawing, colour plan, materials list, timing (AO4 prep) |
 
-### Presentation of the final sheet
-- Mount neatly on an A2 sheet (3D/large: four photographs from different angles, mounted on one side of A2, no overhanging items).
-- Keep the layout clean: no clutter that distracts from the outcome.
-- Check edges, smudges and labelling. The authentication sheet is completed by your school.
+### 4. The final plan: the key page
+Before the test, make a one-page plan. It should include:
+- **Intention:** one sentence: "I want to show… using…"
+- **Design drawing** at near-final proportions, with colours and key details.
+- **Materials and equipment list.** Practise materials you will use.
+- **Time plan** for the 8 hours.
+- **Back-up plan:** if the drying time is too long, what will I do instead?
 
-### Showing visual language and personal style
-- Make **deliberate** choices of colour, composition and texture and be ready to point to them in your design plan.
-- A strong **focal point** and clear contrast show control.
-- **Echo** an artist's technique but make it **yours** (your subject, your palette).
-- Finished, **resolved** work scores higher than ambitious but unfinished.
+### 5. An example hour-by-hour plan for 8 hours
+(Your school may split the 8 hours over several sessions; use this as a model.)
+
+| Time | What to do |
+|---|---|
+| 0:00–0:30 | Set up. Lay out supporting studies. Re-read your plan. Transfer the main composition lightly. |
+| 0:30–2:30 | Block in large areas: underpainting, base layers, main shapes |
+| 2:30–5:00 | Develop forms, colour and texture; work from the focal point out |
+| 5:00–6:30 | Refine details, contrast and focal point; fix problems |
+| 6:30–7:30 | Final details; step back and check against the intention |
+| 7:30–8:00 | Final tidy, signing if appropriate, photograph record |
+
+Adjust for the medium. If the work is **3D**, add time for drying/firing steps in the plan. If the work is **digital**, include time for saving and backing up regularly.
+
+### 6. During the test
+- **Work from your plan** and your supporting studies; they are there to be used.
+- **Start with the big parts** and refine later; do not perfect one corner first.
+- **Check regularly**: step back every 30 minutes; look from a distance or take a photo to see the whole.
+- **Keep to time:** if you are behind at the half-way point, simplify.
+- **Keep the table tidy** and protect finished areas.
+- Work independently: the work must be your own, and your teacher must be able to authenticate that.
+
+### 7. AO4 Present: what it means
+The Cambridge descriptor for the top level: "Excellent realisation of intentions, demonstrating effective understanding of visual language."
+
+- **Personal:** the outcome shows *your* ideas and style, not a copy.
+- **Coherent:** idea, materials, composition and colour all work together.
+- **Realises intentions:** it does what you said you wanted to do.
+- **Visual language:** you use line, tone, colour, texture, shape, form, composition and scale deliberately.
+
+Checklist for the final outcome:
+- Is there a clear **focal point**?
+- Do the colours or tones **support the mood**?
+- Is the **composition** balanced and the space used well?
+- Are the **techniques** from my experiments used with control?
+- Does it link to my **supporting studies** and the starting point?
+
+### 8. Presenting the portfolio
+- Photograph the final outcome **flat, evenly lit, in focus, cropped neatly**. Include detail shots if useful.
+- Put pages of supporting studies in the **order they were made**.
+- Name files clearly; follow your school's instructions.
+- Annotation is optional but must be relevant, purposeful and in English if used.
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Externally-set assignment | A task whose theme is set by Pearson and which is externally marked |
-| Preparatory studies | The development work you produce before the sustained focus period |
-| Sustained focus period | The 10 hours of supervised exam-condition work to produce the final response |
-| Intentions | What you plan to express or achieve with your outcome |
-| Outcome | The final piece(s) made in response to the assignment |
-| Visual language | The way formal elements are used to communicate ideas |
-| Personal response | Work that shows your own ideas, choices and style |
-| Realise | Carry out and complete an idea |
-| Maquette | A small preliminary model for a 3D work |
+- **Externally Set Assignment (ESA):** Component 2, in which candidates respond to one starting point from a Cambridge question paper, producing supporting studies and a final outcome.
+- **Starting point:** the question or theme on the paper that you choose to respond to.
+- **Supporting studies:** the work made in the preparation period, such as drawings, research, experiments and development.
+- **Preparation period:** the time between receiving the paper and the supervised test, used to produce supporting studies.
+- **Supervised test:** the controlled session(s) totalling 8 hours in which you make the final outcome.
+- **Final outcome:** the resolved final piece produced in the supervised test.
+- **Visual language:** the formal elements and principles an artist uses to communicate.
+- **Intention:** what you plan to show or say through your work.
+- **Digital portfolio:** the photographed or scanned record of your work uploaded to Cambridge.
 
 ## Worked examples
 
-**1.** State what a student must submit for Component 2. [2]
+**Q1. Explain the difference between supporting studies and the final outcome in Component 2. [3]**
 
-*Model:* Three sheets of supporting studies (max A2 each) (1) and one sheet of final outcome(s) (max A2) (1); larger/3D work is photographed.
+*Model answer:* "Supporting studies are made in the preparation period and show recording, research into artists, experiments and development (1). The final outcome is made in the supervised test of 8 hours (1). Both are marked together, and the studies must be available during the test to inform the final piece (1)."
 
-**2.** A student plans a 10-hour painting but spends 6 hours on the background. Explain the problem and a better plan. [4]
+**Q2. A student has chosen the starting point "Hidden". Plan a final outcome in one paragraph. [5]**
 
-*Model:* Too much time on the background leaves too little for the focal point and refining (1), risking an unfinished final piece that fails to realise intentions (1). Plan the time (1) so the focal point is done first and 30 minutes is kept for review (1).
+*Model answer:* "My intention is to show the hidden life behind a city wall (intention, 1). I will make a mixed-media piece on A2 board: layers of torn paper and acrylic, with a window cut to reveal an ink drawing of a courtyard behind (materials and design, 1). I will use the peeling texture experiments from my supporting studies and Hockney-style flat colour for the courtyard (link to studies and artists, 1). Time plan: 30 minutes set-up, 2 hours background layers, 3 hours detail drawing and collage, 1.5 hours refining contrast, 1 hour final checks (timing, 1). If the acrylic dries slowly I will work on the drawing in the meantime (back-up, 1)."
 
-**3.** Explain how AO4 might be met in a final piece about "Reflections". [4]
+**Q3. State three things that stop a final outcome from being "coherent". [3]**
 
-*Model:* The piece should be a personal response (1) that follows the design, e.g. a cityscape reflected in puddles in a limited blue-grey palette (1). Strong contrast and a clear focal point show visual language (1), and finished detail shows technical control and a personal style (1).
+*Model answer:* "Using techniques that were never tested in the studies (1); a colour scheme that does not match the mood (1); a composition with no focal point, or one that has lost the original intention (1)."
 
 ## Common mistakes
 
-- Not reading the paper carefully, and missing that it is a **broad** theme to interpret personally.
-- Starting the 10 hours without a clear design.
-- Trying to make a piece too big or complex for 10 hours.
-- Spending too long on details early; no time for the focal point.
-- Changing the idea completely in the 10 hours so it no longer follows from preparatory work.
-- Unfinished outcome.
-- Messy presentation or mounting.
-- Trying to alter preparatory studies after the 10 hours begin (not allowed).
+- Starting the preparation late, leaving too few pages.
+- Choosing a starting point because it looks easy, then having no first-hand material.
+- Picking the same theme as Component 1: the syllabus says to avoid this and not to submit the same work for both.
+- Trying new materials for the first time in the test.
+- No time plan, so details are rushed in the last hour.
+- Spending too long on one area.
+- Not checking the work against your intention and the starting point.
+- Poor photographs when submitting.
 
 ## Practice questions
 
-1. When is the externally-set assignment released each year? [1]
-2. How long is the sustained focus period and how can it be organised? [2]
-3. What must be submitted for Component 2? [2]
-4. What is the AO4 wording? [2]
-5. Why must you plan the 10 hours? [2]
-6. List four planning rules for the timed piece. [4]
-7. How should 3D work be presented? [2]
-8. Explain why Component 2 must be in the same endorsed title as Component 1. [1]
+1. What are the marks and weighting of Component 2? [2]
+2. How long is the supervised test? [1]
+3. State two things Cambridge says supporting studies should show. [2]
+4. Why must the work for Component 2 be different from Component 1? [2]
+5. List four parts of a final plan. [4]
+6. Describe what is meant by "coherent" in AO4. [2]
+7. Create a short time plan for a 3-hour part of the test. [3]
+8. Describe three strategies you can use during the test to avoid running out of time. [3]
 
-<details><summary>Answers</summary>
+<details>
+<summary>Answers</summary>
 
-1. 2 January.
-2. 10 hours (1) under exam conditions, over up to four sessions within three consecutive weeks (1).
-3. Three A2 sheets of supporting studies (1) and one A2 sheet of final outcome(s) (1).
-4. Present a personal and meaningful response that realises intentions and demonstrates understanding of visual language.
-5. To use time well and complete the outcome (1); unfinished or rushed work cannot realise intentions (1).
-6. e.g. know the design in advance; prepare materials; focal point first; general to detail; leave 30 min to review; plan fallbacks.
-7. Photograph it from about four different angles in colour (1) and mount the photographs on one side of an A2 sheet (1).
-8. The specification requires continuity: you must continue in the same endorsed title.
+1. 100 marks (1); 50% of the qualification (1).
+2. 8 hours in total (1).
+3. Any two: recorded ideas and observations from first-hand studies; explored and experimented with media, techniques and processes; research into artists, designers and cultural influences; selected, reviewed and refined ideas to produce a personal and coherent outcome.
+4. The syllabus says the work must not be the same (1); separate portfolios are assessed for each component and examiners want to see two different pieces of work (1).
+5. Any four: intention; design drawing; colour plan; materials list; time plan; back-up plan.
+6. The parts of the work (idea, materials, composition, colour) fit together and form a clear whole (1); and it clearly connects to your intentions and supporting studies (1).
+7. For example: 15 minutes setting up (1); 1 h 45 minutes main building of the piece (1); 45 minutes refining and checking against the plan, 15 minutes final tidy (1). Any sensible plan that adds up to 3 hours.
+8. Work from the plan (1); start with large areas and refine later (1); step back at set times and simplify if behind (1).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Read the notes; list what Component 2 requires and the key dates from your teacher.
-- **15 min** – Make your own 10-hour plan: stages with hours for your medium.
-- **20 min** – Trial a section (e.g. a 15-minute test of your key colour/technique) and time it.
-- **10 min** – Write a final checklist: materials, design, presentation, review time.
-- **5 min** – Note the biggest risk and your fallback.
+- **10 min:** Read the notes and learn the timeline and AO4 wording.
+- **15 min:** Pick a pretend starting point (for example "Hidden", "Connections" or "Barriers"), circle key words, list three first-hand sources and three artists.
+- **20 min:** Make a one-page final plan: intention, design drawing, materials, time plan, back-up.
+- **10 min:** Write a mini time plan for 8 hours on paper.
+- **5 min:** Do the quiz.

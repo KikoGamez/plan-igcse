@@ -2,158 +2,162 @@
  "id": "music-r1-09",
  "cards": [
   {
-   "f": "Raga",
-   "b": "Framework of notes and rules for melody and improvisation in Indian classical music, linked to a mood."
+   "f": "Orquesta típica",
+   "b": "Tango ensemble: bandoneón, violins, piano and double bass."
   },
   {
-   "f": "Tala",
-   "b": "Repeating rhythmic cycle in Indian music, e.g. Tintal (16 beats)."
+   "f": "Bandoneón",
+   "b": "A button accordion central to the tango sound."
   },
   {
-   "f": "Drone",
-   "b": "Sustained note(s), usually tonic and fifth, e.g. tanpura."
+   "f": "Marcado",
+   "b": "A strongly accented, marked beat typical of tango."
   },
   {
-   "f": "Alap",
-   "b": "Slow, free, unmetred opening of an Indian raga performance."
+   "f": "Habanera rhythm",
+   "b": "Long–short–long–long pattern in Latin American dance music."
   },
   {
-   "f": "Polyrhythm",
-   "b": "Two or more different rhythms played at once."
+   "f": "Clave",
+   "b": "Five-note rhythmic pattern, 3 + 2 (forward) or 2 + 3 (reverse), that organises salsa."
   },
   {
    "f": "Call and response",
-   "b": "Leader's phrase answered by a group."
+   "b": "Lead singer or instrument phrase answered by chorus or another instrument."
   },
   {
-   "f": "Djembe",
-   "b": "West African hand drum played with the palms."
+   "f": "Salsa rhythm section",
+   "b": "Congas, bongos, timbales, claves, güiro, bass and piano."
   },
   {
-   "f": "Jig",
-   "b": "Irish dance tune in 6/8."
+   "f": "EDM structure",
+   "b": "Intro, build up, drop, breakdown, outro."
   },
   {
-   "f": "Reel",
-   "b": "Irish dance tune in fast 4/4."
+   "f": "Silk instruments",
+   "b": "Erhu, pipa, guzheng and yangqin (strings); bamboo is dizi and xiao."
   },
   {
-   "f": "Bodhrán",
-   "b": "Irish frame drum played with a stick."
+   "f": "Heterophonic",
+   "b": "Players perform different decorated versions of the same melody at the same time."
   },
   {
-   "f": "Sean-nós",
-   "b": "Ornamented, unaccompanied Irish singing."
+   "f": "Rāga",
+   "b": "Indian melodic framework of notes, patterns and mood."
   },
   {
-   "f": "Gamelan",
-   "b": "Indonesian ensemble of metallophones, gongs and drums."
+   "f": "Tāla",
+   "b": "The cycle of beats in Indian classical music, kept by the tabla."
   },
   {
-   "f": "Slendro and pelog",
-   "b": "Gamelan scales: slendro 5 near-equal notes; pelog 7 unequal notes."
+   "f": "Ālāp",
+   "b": "Slow, free opening of a Hindustani performance with no tabla."
   },
   {
-   "f": "Batucada",
-   "b": "Brazilian samba percussion ensemble (surdo, caixa, tamborim)."
+   "f": "Jhālā",
+   "b": "Fast, rhythmic section of strumming on the sitar's drone strings."
   },
   {
-   "f": "Fusion",
-   "b": "A blend of two or more musical traditions."
+   "f": "Takht ensemble",
+   "b": "Arab group: oud, qanun, nay, violin, riqq and darbuka."
+  },
+  {
+   "f": "Maqām",
+   "b": "Arab set of notes and patterns, with quarter tones; a wasla is a suite in one maqām."
   }
  ],
  "gaps": [
   {
-   "s": "A rhythmic cycle in Indian music is a ___.",
+   "s": "The tango button accordion is called a ___.",
    "a": [
-    "tala",
-    "taal"
+    "bandoneon",
+    "bandoneón"
    ]
   },
   {
-   "s": "The tanpura plays a continuous ___.",
+   "s": "The five-note pattern that organises salsa is the ___.",
+   "a": [
+    "clave"
+   ]
+  },
+  {
+   "s": "The tanpura plays a ___.",
    "a": [
     "drone"
    ]
   },
   {
-   "s": "Several rhythms played together is called ___.",
+   "s": "The Chinese flute used in silk and bamboo music is the ___.",
    "a": [
-    "polyrhythm",
-    "polyrhythms"
+    "dizi"
    ]
   },
   {
-   "s": "An Irish dance tune in 6/8 is a ___.",
+   "s": "The Chinese two-string fiddle is the ___.",
    "a": [
-    "jig"
+    "erhu"
    ]
   },
   {
-   "s": "The Irish frame drum is the ___.",
+   "s": "In Arab music the melodic mode with quarter tones is a ___.",
    "a": [
-    "bodhran",
-    "bodhrán"
+    "maqam",
+    "maqām"
    ]
   },
   {
-   "s": "The two gamelan scales are slendro and ___.",
+   "s": "In EDM the rising section before the beat enters is the ___ up.",
    "a": [
-    "pelog"
+    "build"
    ]
   },
   {
-   "s": "Different decorated versions of the same melody at once is called ___.",
+   "s": "The tabla keeps the ___ in Hindustani music.",
    "a": [
-    "heterophony"
-   ]
-  },
-  {
-   "s": "Brazilian samba percussion groups are called ___.",
-   "a": [
-    "batucada"
+    "tala",
+    "tāla"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain the difference between a raga and a tala.",
-   "model": "A raga is the melodic framework of notes and rules; a tala is the repeating rhythmic cycle.",
+   "q": "Describe two features of tango.",
+   "model": "Dramatic accented marcado rhythm and the bandoneón-led orquesta típica; habanera rhythm, portamento and pizzicato are also typical.",
    "points": [
-    "Raga = melody",
-    "Tala = rhythm"
+    "rhythm or style feature",
+    "instrument feature"
    ]
   },
   {
-   "q": "Describe the structure of a typical gamelan piece.",
-   "model": "A repeating cycle marked by gongs (colotomic), with interlocking parts on metallophones and heterophonic decoration of a core melody.",
+   "q": "Explain how the structure of salsa uses call and response.",
+   "model": "A lead singer (sonero) sings a phrase and the chorus (coro) answers; instruments such as brass can also respond.",
    "points": [
-    "Colotomic gong cycle",
-    "Interlocking/heterophony"
+    "singer leads",
+    "chorus answers"
    ]
   },
   {
-   "q": "Give two features of samba.",
-   "model": "Fast syncopated 2/4 rhythm played by a batucada of surdo, caixa and tamborim, often with call and response.",
+   "q": "Describe the ālāp.",
+   "model": "A slow, free introduction to the rāga played over the drone without tabla, exploring the notes of the rāga.",
    "points": [
-    "Syncopated 2/4",
-    "Batucada percussion"
+    "slow/free",
+    "no tabla/drone"
    ]
   },
   {
-   "q": "Explain why polyrhythm is important in West African music.",
-   "model": "It builds a rich texture from interlocking drum parts, over which the master drummer improvises for dancers.",
+   "q": "Describe two features of EDM production.",
+   "model": "Use of synthesisers, drum machine, samples and loops; build up leading to a drop with effects such as reverb and delay.",
    "points": [
-    "Layered patterns",
-    "Improvisation over ostinati"
+    "technology",
+    "structure"
    ]
   },
   {
-   "q": "Describe how a fusion piece can combine two traditions.",
-   "model": "It can use traditional instruments of each tradition, rhythms from one with melodies from the other, and electronic beats, e.g. Irish fiddle with African drumming.",
+   "q": "Give two features of Arab takht music.",
+   "model": "Maqām with quarter tones; instruments such as oud, qanun and nay; rhythmic cycles (īqā'āt); heterophonic decorated melody.",
    "points": [
-    "Instruments from both",
-    "Described combination"
+    "maqam/quarter tones",
+    "instruments or rhythm cycles"
    ]
   }
  ]

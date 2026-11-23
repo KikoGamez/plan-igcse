@@ -1,141 +1,127 @@
 # Listening: practice
 
-> **In the exam:** **Paper 1 Listening (4GN1/01)**: 30 minutes plus 5 minutes' reading time at the start, **40 marks, 25%** of the qualification. Seven questions, each based on a recording heard **twice**, with a pause between questions. In the sample paper, Question 1 is 4 marks and the other six are 6 marks each; the themes A–E are all covered. Task types vary (multiple choice, matching, short answers, grids), and the **instruction on each question says how to answer** (English, German or a tick/letter). Check the layout of the series you are doing. You must not use a dictionary. You may write at any time.
+> **In the exam:** Paper 1 Listening is **25%** of Cambridge IGCSE German 0525: about **50 minutes including 6 minutes to transfer your answers** to the answer sheet, **40 marks**, **37 questions**, all **multiple choice or matching** (you do not write German in this paper). You hear each recording **twice**. Today you learn the method, practise on an original script that copies the real question types, and then (if you have time) start a real past paper with its audio from your teacher.
 
 ## What you need to know
 
-- The paper covers all **five themes**: Home and abroad; Education and employment; Personal life and relationships; The world around us; Social activities, fitness and health.
-- How to use the **5 minutes' reading time**: read every question, underline the question word and the number of marks, predict the topic vocabulary.
-- **Numbers, times, dates, prices, days and months** in German (these are often tested and are the most common source of lost marks).
-- How to deal with **distractors**: speakers often mention two or three options and then change their mind.
-- Listening for **opinions, reasons, past, present and future** time markers.
-- How to answer in the language the question asks for, giving the **detail** (not just a general word).
+- The six sections: Q1–8 short texts (4 options); Q9–14 factual monologue or dialogue (4 options); Q15–19 **matching** in an informal conversation; Q20–28 longer conversation, discussion or interview (**3 options**); Q29–34 conversation (4 options); Q35–37 **choose the two true statements** out of five.
+- Questions and options are in German, so you also need to read fast.
+- How to use the **reading time**, how to spot **distractors**, and how to **transfer answers** carefully.
+- Key listening vocabulary: numbers, times, prices, days, places, reasons, opinions.
 
 ## Notes
 
-### Using the 5 minutes' reading time
-1. Skim the whole paper: topic of each question, language of the answer (English/German/tick).
-2. Look at the **marks**: 1 mark = 1 piece of information. Two marks = two details.
-3. For each question, predict 3–4 likely German words. Question about a holiday? *Hotel, Strand, Flug, Wetter, Preis.*
-4. Underline the question word: *wann* (when), *wo* (where), *wer* (who), *warum* (why), *wie viel* (how much), *was* (what), *welche(r)* (which).
-5. In a grid or table, look at what is **missing** (a day, a price, a reason).
+### The paper at a glance
 
-### The two playings
-- **First listening:** get the gist; write down numbers, names, key words quickly (in German is fine to save time). Tick what you are sure of.
-- **Second listening:** fill gaps, check the tricky ones, confirm distractors. If you still don't know, **guess** (no marks are lost for wrong answers).
+| Questions | What you do | Marks | Text types |
+|---|---|---|---|
+| 1–8 | Short texts, 4-option MCQ | 8 | announcements, phone messages, news, dialogues |
+| 9–14 | Factual monologue/dialogue, 4-option MCQ | 6 | short monologue or dialogue |
+| 15–19 | Match people/places/items to statements | 5 | informal conversation |
+| 20–28 | 3-option MCQ | 9 | conversation, discussion or interview (or two shorter ones) |
+| 29–34 | 4-option MCQ | 6 | conversation, discussion, interview |
+| 35–37 | Pick the 2 true statements from 5 | 6 | dialogue, discussion, interview |
 
-### Numbers, dates, times (learn these!)
+Hard questions are at the end (Q20–37, 21 marks), so do not waste energy on the first eight.
 
-| Pair | Careful! |
-|---|---|
-| 13 dreizehn / 30 dreißig | the stress is in a different place: DREIzehn, DREIßig |
-| 14 vierzehn / 40 vierzig | -zehn vs -zig |
-| 16 sechzehn / 60 sechzig | *sechzehn* drops the s |
-| 17 siebzehn / 70 siebzig | *siebzehn* drops -en |
-| 21 einundzwanzig | **units first**: 21 = one-and-twenty, 34 = vierunddreißig, 99 = neunundneunzig |
-| 100 hundert, 200 zweihundert, 1000 tausend, 1 000 000 eine Million | years: *neunzehnhundertneunundneunzig* (1999), *zweitausendfünfundzwanzig* (2025) |
-| ½ halb; ¼ Viertel; ¾ Dreiviertel | |
+### Before each recording
+- Read the question and **all options**. Underline the key word (a time, a place, a price, a person).
+- **Predict** what you will hear. For *Wann?* think of a time or day; for *Warum?* a reason (*weil*, *denn*, *deshalb*).
+- In matching tasks, read the list of statements once so you know what you listen for.
 
-**Times:**
-- *Es ist halb acht* = **7.30** (half **to** eight!). *Viertel nach acht* = 8.15; *Viertel vor acht* = 7.45; *zehn vor neun* = 8.50; *fünf nach halb neun* = 8.35.
-- Official/24-hour time: *neunzehn Uhr dreißig* = 19.30; *um dreizehn Uhr* = 1 pm.
-- *um acht Uhr* (at 8), *gegen Mittag* (around noon), *bis zehn Uhr* (until 10), *ab sechs Uhr* (from 6).
+### First listening
+- Make a quick tick next to the option you think is right, but don't commit.
+- Listen for **signal words**: *aber* (but), *leider* (unfortunately), *eigentlich* (actually), *dann doch* (after all), *stattdessen* (instead), *nicht mehr* (no longer), *früher … jetzt* (before … now), *außer* (except). The correct answer often comes **after** these.
+- Numbers: write digits at once. *dreizehn* (13) vs *dreißig* (30); *sechzehn* (16) vs *sechzig* (60); *siebzehn* (17) vs *siebzig* (70). *Zweiundzwanzig* = 22 (the units come first). *Halb drei* = 2.30.
 
-**Days, months, seasons:** *Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag/Sonnabend, Sonntag. Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember. der Frühling, der Sommer, der Herbst, der Winter.*
-**Dates:** *am ersten Mai* (1 May), *am dritten Oktober* (3 Oct), *am zwanzigsten Juli*, *am Montag, den vierten April*. Ordinals 1–19 end in -te (*erste, dritte, siebte*), from 20 in -ste.
+### Second listening
+- Confirm or change your answers. Focus on the ones where two options were mentioned.
+- **Never leave a blank.** There is no penalty for a wrong guess.
 
-**Money:** *zwölf Euro fünfzig* = €12.50; *neunzehn neunundneunzig* = 19.99; *die Hälfte* = half; *zehn Prozent Rabatt* = 10% off.
+### Q35–37: two true statements
+- Five options, exactly two are right. Tick each one **only if the speaker says it clearly**. Options that are only partly right or twisted (*früher* instead of *jetzt*, *nie* instead of *selten*) are wrong.
 
-### Listening for the answer, not the first thing you hear
+### Transfer time
+- Transfer carefully: one box per question, same number. A correct answer in the wrong box scores nothing. Use the 6 minutes to **check each answer** against your paper.
 
-| What you hear | What it means |
-|---|---|
-| *Ich wollte … aber …* | I wanted to, but (the real answer follows *aber*) |
-| *eigentlich* / *normalerweise* | actually / usually (then comes a contrast) |
-| *nicht … sondern …* | not X but Y: answer is Y |
-| *kein / nie / niemals / nichts / niemand* | negatives: no / never / nothing / nobody |
-| *leider* | unfortunately (bad news follows) |
-| *früher / damals* | in the past; *jetzt / heutzutage* = now |
-| *später / nächste Woche / in Zukunft* | future |
-| *am liebsten* | best of all (preference) |
-| *obwohl / trotzdem* | although / nevertheless (contrast) |
-| *weil / denn / deshalb / darum* | reason follows or precedes |
-
-### Typical question types and how to handle them
-- **Multiple choice (A–D):** read all options first; cross out those that are said but then corrected. Choose one; never leave blank.
-- **Matching speaker to statement / person to opinion:** write down the key word each person says, then match. Each option is usually used once.
-- **Short answers in English:** give 1 specific detail per mark. Don't write "nice weather": write "sunny and warm". Keep it short; a clear 2–5 words is enough.
-- **Tables / grids:** fill in the detail asked (price, day, reason). Numbers must be exactly right.
-- **True / false / not mentioned (or tick the correct statements):** "not mentioned" means the text says nothing at all about it.
-- **Answers in German** (if asked): short phrase, spelled well enough to be clear; no need for full sentences unless told.
-- **Higher-level final question:** a longer text about opinions. Listen for several reasons and both advantages and disadvantages.
-
-### What the recordings sound like
-Speakers include young people, adults, interviewers, radio and announcements. Speech is at natural speed but clear, with pauses. Expect dialogues (e.g. a conversation about a school exchange), monologues (a student describing work experience), radio items (an interview about the environment) and public announcements (train delays).
+### Words that cause trouble in Listening
+| Heard | Means | Trap |
+|---|---|---|
+| *vor zwei Tagen* | two days ago | not "in two days" (*in zwei Tagen*) |
+| *seit drei Jahren* | for three years (still going) | not past only |
+| *kein / nicht* | no / not | negatives change the answer |
+| *früher / jetzt / bald* | earlier / now / soon | time shifts |
+| *Hin- und Rückfahrt* | return journey | price: single or return? |
+| *billig / teuer* | cheap / expensive | opposites |
+| *Gleis 5, Bahnsteig* | platform | numbers |
 
 ## Key terms and definitions
 
-- **gist:** the general meaning of what you hear.
-- **distractor:** a wrong option that is mentioned in the recording to trick you.
-- **Halb + number:** half an hour *before* that number (*halb vier* = 3.30).
-- **cognate:** a German word that looks like an English one (e.g. *das Hotel, der Sport, der Computer*).
-- **specific detail:** a precise piece of information (a number, name, reason, place) that earns the mark.
-- **Wann / Warum / Wer / Wo / Wie / Was:** When / Why / Who / Where / How / What.
-- **Wie viel / Wie viele:** how much / how many.
-- **Wie lange:** how long.
+- **Distractor:** a wrong option that uses words from the recording to trick you.
+- **Matching task:** you link names or items to statements; each is used once.
+- **Transfer time:** the time at the end to copy answers on to the answer sheet.
+- **Signal word:** a word such as *aber* or *leider* that marks a change of mind or contrast.
 
 ## Worked examples
 
-**1. [2 marks] Transcript: *Ich fahre morgen um halb neun mit dem Zug nach München. Der Zug hat leider Verspätung, aber nur zehn Minuten.* What time does the train leave and what is the problem?**
-Model answer: 8.30 (1, not 9.30: halb neun = 8.30). Delayed by 10 minutes (1).
+**Example 1 (Q1–8 type).** You hear: *"Achtung, eine Durchsage: Der Zug nach München fährt heute nicht von Gleis 4, sondern von Gleis 9 ab."* Wo fährt der Zug ab? A Gleis 4 B Gleis 5 C Gleis 9 D Gleis 14. **[1]**
+**Answer: C.** *nicht … sondern* tells you the correct platform is the second one. A is the distractor. D tests *neun/vierzehn*.
 
-**2. [2 marks] Multiple choice. Transcript: *Meine Eltern wollten, dass ich Arzt werde, aber ich möchte lieber Lehrer werden.* What job does the speaker want?** A doctor B teacher C nurse D mechanic.
-Answer: **B**. The distractor is "doctor"; the real answer follows *aber ... lieber*.
+**Example 2 (Q15–19 type).** Two friends plan a weekend: *Lena: "Ich spiele am liebsten Tennis." Tom: "Ich nicht, ich gehe lieber schwimmen."* Match: Lena likes **tennis** and Tom prefers **swimming**.
+Why: *am liebsten* and *lieber* show preference; *Ich nicht* means "not me".
 
-**3. [3 marks] Transcript: *Wir waren zwei Wochen in Spanien. Es war sehr heiß, deshalb sind wir meistens am Strand geblieben. Das Hotel war nicht billig, aber das Essen war toll.* Answer in English: (a) How long? (b) Why did they stay on the beach? (c) What did the speaker like?**
-Model answer: (a) two weeks (1). (b) it was very hot (1). (c) the food (1). Not "the hotel": it was not cheap.
+**Example 3 (Q35–37 type).** *Anna: "Früher bin ich mit dem Bus zur Schule gefahren, aber jetzt fahre ich mit dem Rad. Das ist gesünder und schneller."* Which statements are true? (A She goes by bus now. B She cycles now. C Cycling is healthier. D She used to go on foot. E Cycling is slower.)
+**Answer: B and C.** A is the old way (*früher*); E is the opposite of *schneller*.
 
 ## Common mistakes
 
-- Writing 10.30 for *halb elf*-type times: *halb zehn* is **9.30**. Always take one hour off.
-- Confusing -zehn and -zig numbers (*sechzehn* 16 / *sechzig* 60) and **reversing the digits** (*dreiundzwanzig* is 23, not 32).
-- Choosing the **first** thing mentioned instead of what the speaker finally decides.
-- Writing an answer that is too vague ("it was good") or giving two different answers (the examiner marks the first or rejects).
-- Leaving blanks: there is no penalty for wrong answers.
-- Answering in German when English is asked (or the reverse).
-- Missing negatives: *kein Hotel* means no hotel.
-- Panicking after missing one item: move on and use the second playing.
-- Using the pause **after** the recording to think rather than to write; write during playing.
+- Choosing the first option you hear instead of the one after *aber*, *leider* or *sondern*.
+- *halb acht* written as 8.30.
+- Mixing up 13/30, 16/60, 17/70 and 22/twenty-two (*zweiundzwanzig*).
+- Skipping the reading time and then not finding the answer.
+- Transfer mistakes: right answer on the paper, wrong box on the sheet.
+- In "choose two" questions ticking three, or ticking a statement that is only partly right.
+- Leaving blanks.
 
 ## Practice questions
 
-Use these short transcripts (read each twice aloud, or use a family member), then answer in English.
+**Read each text twice, with a 30-second pause between readings, to a friend or into your phone. Do not look at the text while answering.**
 
-1. *Der Zug nach Hamburg fährt um Viertel nach drei von Gleis sieben.* What time and which platform? [2]
-2. *Ich wohne jetzt in einer Wohnung im dritten Stock. Früher haben wir ein Haus mit Garten gehabt.* Where does she live now? [2]
-3. *Das Konzert beginnt am Samstag um neunzehn Uhr dreißig. Die Karten kosten achtzehn Euro, mit Ermäßigung zwölf.* Time? Student price? [2]
-4. *Ich spiele nicht gern Fußball, sondern lieber Tennis.* What sport does he prefer? [1]
-5. *Mein Vater arbeitet im Krankenhaus als Krankenpfleger, aber er möchte nächstes Jahr eine neue Stelle suchen.* Job? Plan? [2]
-6. *Letztes Jahr bin ich nach Italien gefahren, aber dieses Jahr bleibe ich zu Hause, weil die Reise zu teuer ist.* Where this year? Why? [2]
-7. *Ich esse kein Fleisch, weil ich Tiere liebe, aber Fisch esse ich manchmal.* Is she a strict vegetarian? Reason? [2]
-8. Write the numbers: a) zweiundsiebzig b) vierzehn c) dreihundertfünfzig d) 1999 in German words. [4]
+**Text 1.** *"Hallo, hier ist Jonas. Das Konzert am Samstag fängt nicht um sieben, sondern um halb acht an. Wir treffen uns vorher am Bahnhof, um Viertel nach sechs."*
+1. Wann beginnt das Konzert? A 6.15 B 7.00 C 7.30 D 8.30 **[1]**
+2. Wann treffen sie sich? A 6.15 B 6.30 C 7.15 D 7.30 **[1]**
+
+**Text 2.** *"Willkommen im Schwimmbad Südpark. Das Hallenbad ist täglich von acht bis zwanzig Uhr geöffnet, außer montags. Eine Karte für Erwachsene kostet vier Euro fünfzig, für Kinder unter zwölf Jahren zwei Euro. Duschen sind kostenlos."*
+3. Wann ist das Schwimmbad geschlossen? A samstags B sonntags C montags D abends um sechs **[1]**
+4. Was kostet es für ein zehnjähriges Kind? A 2 € B 4,50 € C 4 € D 12 € **[1]**
+
+**Text 3: Gespräch (Q15–19 type).** Lena und Max sprechen über ihre Hobbys.
+*Lena: Was machst du in deiner Freizeit, Max?*
+*Max: Ich spiele Gitarre, und ich fahre gern Skateboard. Und du?*
+*Lena: Ich gehe oft schwimmen, aber ich lese auch viel, besonders Krimis. Fernsehen finde ich langweilig.*
+*Max: Ich sehe manchmal fern, aber lieber treffe ich mich mit Freunden.*
+5. Wer macht was? Write L (Lena), M (Max) or B (beide): (a) liest Krimis (b) fährt Skateboard (c) findet Fernsehen langweilig (d) trifft gern Freunde (e) schwimmt oft **[5]**
+
+**Text 4: Interview (Q35–37 type).** Eine Radioreporterin spricht mit Paul über seine Schule.
+*Reporterin: Paul, wie ist deine Schule?*
+*Paul: Sie ist ziemlich groß, wir sind fast tausend Schüler. Früher hatten wir keine Kantine, aber seit zwei Jahren essen wir in der Schule. Das Essen ist nicht schlecht, aber ein bisschen teuer.*
+*Reporterin: Und deine Lieblingsfächer?*
+*Paul: Ich mag Sport und Informatik. Mathe finde ich schwer, aber meine Lehrerin ist sehr geduldig. Ich möchte später Ingenieur werden.*
+6. Which TWO statements are true? A Die Schule ist klein. B Es gibt seit zwei Jahren eine Kantine. C Das Essen ist zu teuer. D Paul mag Mathe nicht, weil die Lehrerin streng ist. E Paul will Ingenieur werden. **[2]**
 
 <details><summary>Answers</summary>
 
-1. 3.15 (1), platform 7 (1).
-2. In a flat (1) on the third floor (1).
-3. 7.30 pm (19.30) (1); €12 (1).
-4. Tennis.
-5. Nurse (1); wants to look for a new job next year (1).
-6. At home (1); the trip is too expensive (1).
-7. Not completely: she sometimes eats fish (1); she loves animals (1).
-8. a) 72 b) 14 c) 350 d) *neunzehnhundertneunundneunzig*.
+1. C (7.30; *nicht um sieben, sondern halb acht*). 2. A (*Viertel nach sechs* = 6.15).
+3. C (*außer montags*). 4. A (a ten-year-old is under twelve).
+5. (a) L (b) M (c) L (d) M (e) L.
+6. B and E. (C: it is "a bit expensive", not "too expensive"; D: the teacher is patient.)
 
 </details>
 
 ## Plan for this hour
 
-- **0–10 min:** learn the numbers, times and "listening signal" tables; say 10 times aloud.
-- **10–15 min:** download a Pearson 4GN1 past Paper 1 and its audio (and mark scheme) from the Pearson website; use 5 minutes' reading time on a copy.
-- **15–50 min:** do the full paper under exam conditions (30 minutes, no pausing, no dictionary).
-- **50–60 min:** mark with the mark scheme; list each lost mark by reason (numbers, distractor, vocabulary) and add new words to your vocabulary list.
+- **0–10 min:** Read the notes; write the confusable numbers (13/30, 16/60, 17/70) and signal words on a card.
+- **10–25 min:** Do Texts 1–2 with a friend reading, then check.
+- **25–40 min:** Do Texts 3–4. Write what you heard that made each answer right or wrong.
+- **40–55 min:** Start a real past paper (Q1–14) with audio if you have it; use the reading time and transfer your answers.
+- **55–60 min:** List your three error types (numbers? signal words? vocabulary?) and what you will do next time.

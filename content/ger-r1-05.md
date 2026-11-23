@@ -1,6 +1,6 @@
 # Grammar: cases, articles and adjective endings
 
-> **In the exam:** Cases are tested directly in **Paper 2 Q8** (put the verb or adjective in the right form) and decide your accuracy marks in **Q6/Q7** and Speaking: wrong articles after prepositions (*in der Stadt / in die Stadt*) and missing adjective endings are among the most common errors. In Reading and Listening, cases tell you who does what to whom (*Der Hund beißt den Mann* is not *Den Hund beißt der Mann*).
+> **In the exam:** Cambridge IGCSE German 0525 lists **articles, adjective endings, prepositions and pronouns in all cases**, and the examiners reward accuracy in **Paper 4 Writing** (Q2 and Q3) and in the **Paper 3 Speaking** role play (5 answers, 2 marks each; *minor errors such as adjective endings and prepositions are allowed* if the message is clear) and topic conversations (*Quality of Language*, 15 marks). Wrong articles after prepositions (*in der Stadt / in die Stadt*) and missing adjective endings are the most common errors. In **Papers 1 and 2** cases tell you who does what to whom (*Der Hund beißt den Mann* is not *Den Hund beißt der Mann*).
 
 ## What you need to know
 
@@ -8,7 +8,8 @@
 - Definite (*der, die, das*) and indefinite (*ein, eine*), negative (*kein*) and possessive articles (*mein, dein …*) in each case.
 - Prepositions with the accusative, the dative, either (two-way) and the genitive.
 - Adjective endings after *der/die/das*, *ein/eine* and with no article.
-- Plural forms and the *-n* in the dative plural; masculine "weak" nouns (n-declension) for recognition.
+- Plural forms and the *-n* in the dative plural; masculine "weak" nouns and adjectival nouns.
+- *dieser/jeder/welcher*, adjectives after *etwas, nichts, viel, wenig, alles*, and *da(r)* + preposition.
 
 ## Notes
 
@@ -83,6 +84,16 @@ Examples: *Ich habe einen neuen Computer. Wir wohnen in einem kleinen Dorf. Sie 
 
 **Comparatives and superlatives** (also tested): *schnell – schneller – am schnellsten*; with umlaut: *alt – älter – am ältesten, groß – größer – am größten, jung – jünger – am jüngsten*; irregular: *gut – besser – am besten, viel – mehr – am meisten, gern – lieber – am liebsten, hoch – höher – am höchsten*. *Ich bin **so alt wie** mein Bruder / **älter als** mein Bruder.* Before a noun they take endings: *die beste Freundin*.
 
+### Other points from the Cambridge list
+
+- **Weak nouns** (masculine, add **-n/-en** in every case except the nominative singular): *der Junge, der Student, der Mensch, der Kollege, der Herr (den Herrn)*: *Ich kenne den Jungen. Er hilft dem Studenten.*
+- **Adjectival nouns** are adjectives used as nouns, with a capital letter and normal adjective endings: *der Deutsche / ein Deutscher* (German man), *die Deutsche / eine Deutsche*, *die Deutschen* (the Germans), *der Bekannte* (acquaintance), *die Angestellte*.
+- **After etwas, nichts, viel, wenig, alles** the adjective is a capitalised neuter noun with **-es** (or **-e** after *alles*): *etwas Neues, nichts Besonderes, viel Schönes, alles Gute* (all the best).
+- **dieser, jeder, welcher, jener** take the same endings as *der/die/das*: *Welches Buch liest du? In diesem Haus wohne ich. Jede Woche ...*
+- **Possessive pronouns** stand alone: *Ist das dein Stift? – Ja, das ist meiner.* (*meiner, meine, meins*.)
+- **da(r)- + preposition** replaces *preposition + thing*: *Ich freue mich auf die Ferien → Ich freue mich darauf. Was machst du mit dem Geld? → Ich spare damit.* Add **-r-** before a vowel: *darauf, daran, darüber, darin*. Questions: *Worauf wartest du? Wofür interessierst du dich?* (Use *auf wen / für wen* for people.)
+- **Genitive plural:** *die Hobbys meiner Freunde*. **Abbreviated forms:** *aufs, ins, ums, fürs, durchs*.
+
 ### Plural of nouns (patterns)
 
 -e (*Hund → Hunde*), -er with umlaut (*Haus → Häuser*), -n/-en (*Frau → Frauen*), -s (*Auto → Autos*), umlaut (*Bruder → Brüder*), no change (*Lehrer*). Learn the plural with each noun. All nouns have a **capital letter**.
@@ -96,11 +107,13 @@ Examples: *Ich habe einen neuen Computer. Wir wohnen in einem kleinen Dorf. Sie 
 - **Genitive:** the case that shows possession.
 - **Two-way (dual) preposition:** a preposition taking the accusative for movement and the dative for position.
 - **Definite article:** *der, die, das*. **Indefinite article:** *ein, eine*.
+- **Weak noun:** a masculine noun that adds *-n/-en* in all cases except the nominative singular (*der Junge → den Jungen*).
+- **Adjectival noun:** an adjective used as a noun with a capital letter (*der Deutsche, etwas Neues*).
 - **Adjective ending:** the letter(s) added to an adjective before a noun to show gender, case and number.
 
 ## Worked examples
 
-**1. Q8-style.** *Ich wohne in (ein) (klein) Dorf. Letzte Woche bin ich in (die) Stadt gefahren.* → **einem kleinen** Dorf (*wo?* dative, neuter); in **die** Stadt (*wohin?* accusative feminine). Two forms each; check the question *wo or wohin*.
+**1. Gap-fill (word in brackets).** *Ich wohne in (ein) (klein) Dorf. Letzte Woche bin ich in (die) Stadt gefahren.* → **einem kleinen** Dorf (*wo?* dative, neuter); in **die** Stadt (*wohin?* accusative feminine). Two forms each; check the question *wo or wohin*.
 
 **2. Translate.** *Because of the bad weather we stayed at home with our old dog.* [5] → *Wegen des schlechten Wetters sind wir mit unserem alten Hund zu Hause geblieben.* Marks: *wegen* + genitive (*des schlechten Wetters*; spoken German often uses dative but genitive is correct), *mit* + dative (*unserem alten Hund*), *zu Hause*, perfect with *sein*.
 

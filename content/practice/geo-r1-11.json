@@ -2,157 +2,162 @@
  "id": "geo-r1-11",
  "cards": [
   {
-   "f": "Globalisation",
-   "b": "The growing connection between countries through movement of goods, money, information and people."
+   "f": "Renewable energy",
+   "b": "Energy from sources replaced naturally that will not run out, e.g. wind, solar."
   },
   {
-   "f": "Commodity chain",
-   "b": "The stages a product passes through from raw materials to the consumer, often across several countries."
+   "f": "Non-renewable energy",
+   "b": "Sources that will run out, e.g. coal, oil, gas and nuclear."
   },
   {
-   "f": "Six factors encouraging globalisation",
-   "b": "Trade, foreign investment, aid, labour, modern transport and information technology."
+   "f": "Energy mix",
+   "b": "The proportion of each energy source a country uses."
   },
   {
-   "f": "WTO",
-   "b": "World Trade Organization: sets rules for international trade, settles disputes and encourages lower trade barriers."
+   "f": "HEP disadvantages",
+   "b": "Floods land and homes, high cost, damages river ecosystems."
   },
   {
-   "f": "IMF",
-   "b": "International Monetary Fund: lends money to countries in difficulty (with conditions) and promotes financial stability."
+   "f": "Fossil fuel disadvantages",
+   "b": "Release CO₂, cause pollution and will run out."
   },
   {
-   "f": "TNC",
-   "b": "Transnational corporation: a company operating in more than one country, e.g. Apple or Nike."
+   "f": "Nuclear power: pro and con",
+   "b": "Large output with no CO₂ in use, but radioactive waste and accident risk."
   },
   {
-   "f": "Benefits of a TNC to the host country",
-   "b": "Jobs, training, tax income, infrastructure, technology and a positive multiplier effect."
+   "f": "Groundwater",
+   "b": "Water stored in underground rocks (aquifers) reached by wells."
   },
   {
-   "f": "Costs of a TNC to the host country",
-   "b": "Profits sent abroad, low wages or poor conditions, environmental damage and loss of local firms."
+   "f": "Physical vs economic water scarcity",
+   "b": "Physical: not enough water. Economic: water exists but cannot be supplied for lack of money."
   },
   {
-   "f": "Voluntary v forced migration",
-   "b": "Voluntary: people choose to move (e.g. work). Forced: people must leave (e.g. war, refugees)."
+   "f": "Causes of water shortage",
+   "b": "Rising demand, pollution, drought, leaks, overuse of groundwater and poor management."
   },
   {
-   "f": "Push and pull factors",
-   "b": "Push: reasons to leave, e.g. unemployment, conflict. Pull: attractions, e.g. jobs, safety, better services."
+   "f": "Desalination",
+   "b": "Removing salt from sea water; very costly and energy hungry."
   },
   {
-   "f": "Remittances",
-   "b": "Money migrants send home to their families."
+   "f": "Biggest user of water",
+   "b": "Agriculture (irrigation)."
   },
   {
-   "f": "Brain drain",
-   "b": "Loss of educated and skilled workers from a country to another."
+   "f": "Greenhouse effect vs enhanced",
+   "b": "Natural heat-trapping versus extra warming caused by human emissions of CO₂ and methane."
   },
   {
-   "f": "Mass tourism",
-   "b": "Large numbers of people visiting the same popular places, often on package holidays."
+   "f": "Effects of climate change",
+   "b": "Sea level rise, melting ice, extreme weather, changing rainfall, species loss."
   },
   {
-   "f": "Ecotourism",
-   "b": "Responsible tourism with low environmental impact that benefits local people."
+   "f": "Eutrophication",
+   "b": "Fertiliser run-off causes algae growth that uses up oxygen in water."
   },
   {
-   "f": "How geopolitics affects tourism and trade",
-   "b": "Agreements and visa-free travel increase them; sanctions, tariffs, conflict or travel bans reduce them."
+   "f": "Sustainable development",
+   "b": "Meeting present needs without harming future generations."
   }
  ],
  "gaps": [
   {
-   "s": "A company that operates in many countries is a ___ corporation.",
+   "s": "Energy sources that run out are called ___.",
    "a": [
-    "transnational",
-    "multinational"
+    "non-renewable",
+    "non renewable",
+    "nonrenewable"
    ]
   },
   {
-   "s": "The ___ lends money to countries and promotes financial stability.",
+   "s": "Electricity from flowing water is ___ power.",
    "a": [
-    "IMF",
-    "International Monetary Fund"
+    "hydro-electric",
+    "hydroelectric",
+    "hydro",
+    "hep"
    ]
   },
   {
-   "s": "The WTO sets rules for international ___.",
+   "s": "Removing salt from sea water is called ___.",
    "a": [
-    "trade"
+    "desalination"
    ]
   },
   {
-   "s": "Money sent home by migrants is called ___.",
+   "s": "Water stored underground in rocks is ___.",
    "a": [
-    "remittances"
+    "groundwater"
    ]
   },
   {
-   "s": "The loss of skilled workers from a country is ___ drain.",
+   "s": "The biggest user of water worldwide is ___.",
    "a": [
-    "brain"
+    "agriculture",
+    "irrigation",
+    "farming"
    ]
   },
   {
-   "s": "Refugees fleeing war are an example of ___ migration.",
+   "s": "Fertiliser run-off causing algae blooms is called ___.",
    "a": [
-    "forced"
+    "eutrophication"
    ]
   },
   {
-   "s": "Tourism that protects the environment and helps local people is ___.",
+   "s": "Gases such as CO₂ and methane are ___ gases.",
    "a": [
-    "ecotourism"
+    "greenhouse"
    ]
   },
   {
-   "s": "Profits from tourism that go to foreign companies are called ___.",
+   "s": "Development that does not harm the future is called ___ development.",
    "a": [
-    "leakage"
+    "sustainable"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain two factors that have contributed to a more globalised economy.",
-   "model": "Modern transport such as container ships cuts costs of trade, and information technology lets firms manage global supply chains instantly.",
+   "q": "Explain why energy demand is rising worldwide.",
+   "model": "Population is growing, and so is industry in NICs. Higher living standards mean more people own appliances and vehicles.",
    "points": [
-    "factor one developed",
-    "factor two developed"
+    "population or industrial growth",
+    "rising living standards"
    ]
   },
   {
-   "q": "Explain one positive and one negative impact of migration on a destination country.",
-   "model": "Positive: fills labour shortages and migrants pay taxes. Negative: pressure on housing and public services.",
+   "q": "Explain one advantage and one disadvantage of HEP.",
+   "model": "HEP is reliable and releases no CO₂ when generating. However, building a dam floods land and homes and affects ecosystems.",
    "points": [
-    "positive developed",
-    "negative developed"
+    "advantage",
+    "disadvantage"
    ]
   },
   {
-   "q": "Explain how geopolitical relationships can affect tourism.",
-   "model": "Visa-free agreements make travel easy so tourism grows, while conflict or travel warnings between countries reduce visitor numbers.",
+   "q": "Explain how water pollution can lead to a water shortage.",
+   "model": "Pollution makes supplies unsafe to drink or use. Treatment is costly, so less usable water is available and shortages result.",
    "points": [
-    "positive effect",
-    "negative effect or mechanism"
+    "pollution makes water unusable",
+    "less supply / costly treatment"
    ]
   },
   {
-   "q": "Describe two ways tourism can be made more sustainable.",
-   "model": "Limit visitor numbers or charge entry fees to reduce damage; use locally owned accommodation so more income stays in the community.",
+   "q": "Describe two effects of sea level rise.",
+   "model": "Low-lying coasts and islands are flooded, and farmland is made salty. Homes are lost and people migrate.",
    "points": [
-    "method one",
-    "method two"
+    "flooding of coasts/islands",
+    "second effect (salt, migration, loss)"
    ]
   },
   {
-   "q": "Suggest two reasons for the pattern of a TNC building factories in emerging countries.",
-   "model": "Labour is cheaper and trade barriers are lower, so production costs are less and goods can be exported.",
+   "q": "Explain how industry can damage the environment.",
+   "model": "Factories burn fossil fuels that release CO₂ and cause air pollution. Waste can be dumped in rivers, harming wildlife.",
    "points": [
-    "cheap labour",
-    "low costs or market/trade"
+    "air pollution/CO₂",
+    "water or waste pollution"
    ]
   }
  ]

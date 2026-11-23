@@ -3,48 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A megacity is a city with a population of more than...",
+   "q": "Which is NOT one of the three parts of the HDI?",
    "options": [
-    "1 million",
-    "5 million",
-    "10 million",
-    "50 million"
+    "Life expectancy",
+    "Years of schooling",
+    "GNI per capita",
+    "Birth rate"
    ],
-   "answer": 2,
-   "why": "Megacities have over 10 million people."
+   "answer": 3,
+   "why": "HDI uses health (life expectancy), education and income only."
   },
   {
    "type": "mcq",
-   "q": "Counter-urbanisation is the movement of people...",
+   "q": "Why is GNI per capita a limited measure of development?",
    "options": [
-    "from rural areas to cities",
-    "from the inner city to the suburbs",
-    "from cities to rural areas",
-    "between countries"
+    "It is an average that hides inequality",
+    "It measures health only",
+    "It uses only literacy",
+    "It is always wrong"
    ],
-   "answer": 2,
-   "why": "Counter-urbanisation means people leaving the city for the countryside."
+   "answer": 0,
+   "why": "It is an average and ignores health, education and how wealth is shared."
   },
   {
    "type": "mcq",
-   "q": "Why is land most expensive in the CBD?",
+   "q": "A TNC is best described as a company that…",
    "options": [
-    "it is the cheapest to build on",
-    "it is the most accessible, so competition for space is highest",
-    "it has the most farmland",
-    "it is furthest from roads"
+    "trades only within one country",
+    "is owned by a government",
+    "operates in more than one country",
+    "sells only primary goods"
    ],
-   "answer": 1,
-   "why": "High accessibility means many customers, so businesses compete and bid up land values."
+   "answer": 2,
+   "why": "Transnational corporations have operations (e.g. factories) in several countries."
   },
   {
    "type": "short",
-   "q": "Explain two ways rapid urbanisation can cause housing challenges.",
-   "model": "Migrants arrive faster than homes are built, causing shortages and high rents; poor migrants build squatter settlements without water, sanitation or electricity.",
+   "q": "Explain one reason why a country dependent on exporting primary products may stay poor.",
+   "model": "Primary products such as coffee or copper have low, unstable prices, so export income is small and unreliable. Manufactured goods earn more, so the country does not get the extra value.",
    "points": [
-    "housing shortage/overcrowding because migrants arrive faster than building",
-    "squatter settlements/informal housing",
-    "lack of services or health problems"
+    "prices of primary goods are low/unstable",
+    "link to low or unreliable income / less value than manufactured goods"
    ]
   }
  ]

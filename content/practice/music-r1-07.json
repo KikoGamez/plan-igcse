@@ -2,159 +2,161 @@
  "id": "music-r1-07",
  "cards": [
   {
-   "f": "Baroque dates",
-   "b": "c.1600–1750."
+   "f": "Concertino",
+   "b": "The small group of soloists in a concerto grosso (in Handel Op. 6: two violins and a cello)."
   },
   {
-   "f": "Classical dates",
-   "b": "c.1750–1820."
-  },
-  {
-   "f": "Romantic dates",
-   "b": "c.1820–1900."
+   "f": "Ripieno",
+   "b": "The larger group (full string orchestra) in a concerto grosso; also called tutti."
   },
   {
    "f": "Basso continuo",
-   "b": "Bass line (cello etc.) with chords on harpsichord, organ or lute, played throughout Baroque music."
-  },
-  {
-   "f": "Terraced dynamics",
-   "b": "Sudden changes of volume with no gradual crescendo; typical of the Baroque."
-  },
-  {
-   "f": "Alberti bass",
-   "b": "Broken-chord left-hand pattern (low–high–middle–high); typical of Classical piano music."
-  },
-  {
-   "f": "Concerto grosso",
-   "b": "Baroque work: a small group of soloists (concertino) against the full orchestra (ripieno)."
+   "b": "Bass line plus chords from harpsichord or organ, played throughout Baroque music."
   },
   {
    "f": "Ritornello form",
-   "b": "A main theme for full orchestra returns between solo episodes."
+   "b": "Main theme for tutti returns between contrasting episodes for the soloist(s)."
   },
   {
-   "f": "Fugue",
-   "b": "A subject introduced in one voice and imitated in turn by the others."
+   "f": "Terraced dynamics",
+   "b": "Sudden changes from loud to soft with no gradual change; typical of the Baroque."
   },
   {
-   "f": "Sonata form",
-   "b": "Exposition, development, recapitulation; the main Classical form for first movements."
+   "f": "Alberti bass",
+   "b": "Repeated broken-chord pattern in the left hand; typical of the Classical period."
   },
   {
-   "f": "Rubato",
-   "b": "Flexible tempo; slight speeding up and slowing down for expression. Romantic."
+   "f": "Sonata form order",
+   "b": "Exposition, development, recapitulation (and optional coda)."
+  },
+  {
+   "f": "Second subject key (major piece)",
+   "b": "Dominant in the exposition; tonic in the recapitulation."
+  },
+  {
+   "f": "Cadenza",
+   "b": "An unaccompanied showy passage for the soloist, usually near the end of a concerto movement."
   },
   {
    "f": "Programme music",
-   "b": "Instrumental music that tells a story or paints a scene (Berlioz)."
+   "b": "Instrumental music that describes a story, scene or idea, such as Vivaldi's Spring."
   },
   {
-   "f": "Lied",
-   "b": "German art song for voice and piano (Schubert, Schumann)."
+   "f": "Mozart K. 452 instruments",
+   "b": "Piano, oboe, clarinet, horn and bassoon."
   },
   {
-   "f": "Classical texture",
-   "b": "Mostly homophonic: a clear melody with accompaniment."
+   "f": "Minuet and trio",
+   "b": "Ternary dance structure: minuet, trio, minuet; in triple time."
   },
   {
-   "f": "Romantic harmony",
-   "b": "Chromatic, with more dissonance and modulation to distant keys."
+   "f": "Dates of the Baroque",
+   "b": "c.1600–1750."
+  },
+  {
+   "f": "Dates of the Classical period",
+   "b": "c.1750–1820."
+  },
+  {
+   "f": "Sequence",
+   "b": "A pattern repeated higher or lower in pitch."
+  },
+  {
+   "f": "B flat clarinet: written C sounds...",
+   "b": "B flat, a major second lower than written."
   }
  ],
  "gaps": [
   {
-   "s": "Baroque music often has a basso ___ played by cello and harpsichord.",
+   "s": "A small group of soloists in a concerto grosso is called the ___.",
    "a": [
-    "continuo",
-    "basso continuo",
-    "figured bass"
+    "concertino"
    ]
   },
   {
-   "s": "In Baroque music, sudden changes of volume are called ___ dynamics.",
+   "s": "The large group of players in a concerto grosso is the ___.",
+   "a": [
+    "ripieno",
+    "tutti"
+   ]
+  },
+  {
+   "s": "The harpsichord and cello together form the basso ___.",
+   "a": [
+    "continuo"
+   ]
+  },
+  {
+   "s": "In Baroque music sudden changes of volume are called ___ dynamics.",
    "a": [
     "terraced"
    ]
   },
   {
-   "s": "A broken-chord left-hand pattern in Classical piano music is called an ___ bass.",
+   "s": "The main theme that returns in a Baroque concerto is the ___.",
+   "a": [
+    "ritornello"
+   ]
+  },
+  {
+   "s": "In sonata form the themes are explored in the ___ section.",
+   "a": [
+    "development"
+   ]
+  },
+  {
+   "s": "A left-hand pattern of broken chords such as C–G–E–G is an ___ bass.",
    "a": [
     "alberti"
    ]
   },
   {
-   "s": "A fugue starts with a ___ in one voice.",
+   "s": "Vivaldi's Spring is part of The Four ___.",
    "a": [
-    "subject"
-   ]
-  },
-  {
-   "s": "The main Classical form for first movements is ___ form.",
-   "a": [
-    "sonata"
-   ]
-  },
-  {
-   "s": "Flexible tempo in Romantic music is called ___.",
-   "a": [
-    "rubato"
-   ]
-  },
-  {
-   "s": "Chopin wrote nocturnes and preludes, which are character pieces for ___.",
-   "a": [
-    "piano",
-    "solo piano"
-   ]
-  },
-  {
-   "s": "A German art song for voice and piano is a ___.",
-   "a": [
-    "lied",
-    "lieder"
+    "seasons"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the texture of a typical Classical melody with accompaniment.",
-   "model": "Homophonic: a clear melody on top, supported by accompaniment such as an Alberti bass, in balanced phrases.",
+   "q": "Give two differences between Baroque and Classical textures.",
+   "model": "Baroque is often polyphonic and imitative with continuo; Classical is mostly homophonic with melody and accompaniment, often an Alberti bass.",
    "points": [
-    "Homophonic / melody and accompaniment",
-    "Alberti bass or chordal accompaniment"
+    "Baroque polyphonic/imitative/continuo",
+    "Classical homophonic/melody and accompaniment"
    ]
   },
   {
-   "q": "Give two ways in which Romantic harmony differs from Classical harmony.",
-   "model": "Romantic harmony uses more chromatic notes and dissonance, and modulates to distant keys; Classical harmony is simpler with clear cadences.",
+   "q": "Explain how ritornello form works.",
+   "model": "The full orchestra plays a main theme (ritornello) that returns in different keys, alternating with solo episodes; the final ritornello is in the home key.",
    "points": [
-    "More chromatic / dissonant",
-    "Modulations to remote keys, vs simple Classical chords"
+    "tutti theme returns",
+    "alternates with solo episodes",
+    "keys change / home key at end"
    ]
   },
   {
-   "q": "Why did the piano replace the harpsichord in the Classical period?",
-   "model": "The piano can play gradually louder and softer by touch, which suits crescendo and diminuendo; the harpsichord cannot.",
+   "q": "Describe what happens in the development section of sonata form.",
+   "model": "Themes from the exposition are broken up and developed, often by sequence, passing through different keys and building tension.",
    "points": [
-    "Piano can vary dynamics",
-    "Harpsichord has one volume"
+    "themes developed/fragmented",
+    "modulates/sequences"
    ]
   },
   {
-   "q": "Explain what a concerto grosso is.",
-   "model": "A Baroque piece in which a small group of soloists (the concertino) plays against the larger orchestra (ripieno), with continuo.",
+   "q": "Name two ways Vivaldi's Spring is programme music.",
+   "model": "Solo violin trills imitate birdsong; tremolo and fast scales in the minor depict thunder and lightning.",
    "points": [
-    "Small group of soloists",
-    "Contrasted with full orchestra"
+    "birdsong with trills",
+    "storm with tremolo/scales"
    ]
   },
   {
-   "q": "Name two ways Romantic composers made orchestras bigger and more colourful.",
-   "model": "They added more brass (trombones, tuba), percussion, harp and extra wind such as piccolo or cor anglais, giving more timbres.",
+   "q": "Why is a chamber work like Mozart's K. 452 different from an orchestral piece?",
+   "model": "It has one player per part and no conductor, so players pass ideas between themselves and the texture is lighter and more varied.",
    "points": [
-    "More brass/percussion",
-    "Extra instruments such as harp/piccolo"
+    "one player per part",
+    "conversation/light texture"
    ]
   }
  ]

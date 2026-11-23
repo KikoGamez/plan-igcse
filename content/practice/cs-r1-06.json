@@ -2,160 +2,164 @@
  "id": "cs-r1-06",
  "cards": [
   {
-   "f": "Subprogram",
-   "b": "A named block of code that does a specific job and can be called from elsewhere in the program."
+   "f": "System software vs application software",
+   "b": "System software runs and maintains the computer (OS, drivers, utilities). Application software lets the user do a task (word processor, browser)."
   },
   {
-   "f": "Procedure vs function",
-   "b": "A function returns a value to the caller (RETURN); a procedure does not."
+   "f": "Operating system",
+   "b": "System software that manages the computer's hardware and software and provides an interface for the user."
   },
   {
-   "f": "Benefits of subprograms",
-   "b": "Code is reused, program is shorter, easier to read, test and debug, and work can be shared."
+   "f": "Eight OS functions",
+   "b": "User interface, managing files, memory, peripherals and drivers, multitasking, security, user accounts, handling interrupts."
   },
   {
-   "f": "Parameter",
-   "b": "A variable named in the subprogram definition that receives the value passed in when it is called."
+   "f": "Device driver",
+   "b": "Software that lets the operating system communicate with and control a hardware device such as a printer."
   },
   {
-   "f": "Local vs global variable",
-   "b": "Local: declared in a subprogram and only usable there. Global: declared outside and usable anywhere."
+   "f": "Interrupt",
+   "b": "A signal sent to the processor by hardware or software asking for immediate attention."
   },
   {
-   "f": "Validation",
-   "b": "An automated check that data entered is reasonable and acceptable for the program to process."
+   "f": "Hardware interrupt examples",
+   "b": "A key pressed or mouse clicked, printer out of paper, disk transfer finished, power failure."
   },
   {
-   "f": "Range check",
-   "b": "Tests that a value lies between limits, e.g. a mark from 0 to 100."
+   "f": "Software interrupt examples",
+   "b": "Division by zero, two programs trying to use the same memory, an invalid instruction."
   },
   {
-   "f": "Length, presence and format checks",
-   "b": "Length: number of characters. Presence: not left empty. Format: matches a pattern, e.g. email has @."
+   "f": "Handling an interrupt (steps)",
+   "b": "Checked at the end of each FDE cycle; if its priority is high enough, save the state; run the ISR; restore the state; resume."
   },
   {
-   "f": "Type check",
-   "b": "Tests that the data is the right type, e.g. an age is a whole number."
+   "f": "Interrupt service routine (ISR)",
+   "b": "The program that is run to deal with a particular interrupt."
   },
   {
-   "f": "Syntax error",
-   "b": "Code breaks the rules of the language, so the program will not run, e.g. a missing bracket."
+   "f": "High-level language",
+   "b": "Close to human language, portable between computers, easier to read and debug. Needs a compiler or interpreter."
   },
   {
-   "f": "Runtime error",
-   "b": "The program starts but crashes while running, e.g. dividing by zero or index out of range."
+   "f": "Low-level language",
+   "b": "Machine code or assembly language. Machine dependent, but gives direct control of hardware and efficient code."
   },
   {
-   "f": "Logic error",
-   "b": "The program runs but gives wrong results, e.g. a + b / 2 instead of (a + b) / 2."
+   "f": "Machine code vs assembly",
+   "b": "Machine code is binary and the only language the CPU runs directly. Assembly uses mnemonics and needs an assembler."
   },
   {
-   "f": "Normal test data",
-   "b": "Valid, typical data that should be accepted."
+   "f": "Compiler",
+   "b": "Translates the whole source code into machine code (an executable file) before it is run. Reports all errors at the end."
   },
   {
-   "f": "Boundary test data",
-   "b": "Data at the very edge of the valid range, just inside and just outside, e.g. 0, 100, -1, 101."
+   "f": "Interpreter",
+   "b": "Translates and runs the source code one line at a time. Stops at the first error. No executable file is produced."
   },
   {
-   "f": "Erroneous test data",
-   "b": "Invalid or wrong-type data that should be rejected, e.g. text where a number is needed."
+   "f": "IDE features",
+   "b": "Code editor with syntax highlighting, auto-completion and pretty-print; built-in translator; error diagnostics; breakpoints and variable watch."
   }
  ],
  "gaps": [
   {
-   "s": "A subprogram that returns a value is a ___.",
+   "s": "The program that deals with a particular interrupt is called the interrupt ___ routine.",
    "a": [
-    "function"
+    "service"
    ]
   },
   {
-   "s": "A variable declared inside a subprogram is a ___ variable.",
+   "s": "A ___ driver lets the operating system communicate with a printer.",
    "a": [
-    "local"
+    "device"
    ]
   },
   {
-   "s": "A check that a value lies between two limits is a ___ check.",
+   "s": "Language that uses mnemonics such as ADD and LDA is called ___ language.",
    "a": [
-    "range"
+    "assembly"
    ]
   },
   {
-   "s": "An error that crashes the program while it is running is a ___ error.",
+   "s": "The only language the CPU can run directly is ___ code.",
    "a": [
-    "runtime",
-    "run-time",
-    "run time"
+    "machine"
    ]
   },
   {
-   "s": "A typing mistake that breaks the language rules is a ___ error.",
+   "s": "A ___ translates the whole program into an executable file before it is run.",
    "a": [
-    "syntax"
+    "compiler"
    ]
   },
   {
-   "s": "A test plan lists the test data, its type and the ___ outcome.",
+   "s": "An ___ translates and runs a program one line at a time.",
    "a": [
-    "expected",
-    "expected result"
+    "interpreter"
    ]
   },
   {
-   "s": "Data just inside or outside the limit of valid data is called ___ data.",
+   "s": "Colouring keywords in the code editor is called syntax ___.",
    "a": [
-    "boundary"
+    "highlighting",
+    "highlight"
    ]
   },
   {
-   "s": "A value passed into a subprogram when it is called is an ___.",
+   "s": "Before running an ISR, the CPU saves the current ___.",
    "a": [
-    "argument",
-    "arg"
+    "state",
+    "register contents",
+    "registers"
    ]
   }
  ],
  "short": [
   {
-   "q": "Give two benefits of using subprograms.",
-   "model": "They let you reuse code instead of repeating it, and each small part is easier to read, test and debug.",
+   "type": "short",
+   "q": "Describe two functions of an operating system.",
+   "model": "Managing files: creating, moving, deleting and organising files and folders. Managing memory: allocating RAM to programs so they do not overwrite each other.",
    "points": [
-    "code can be reused / shorter",
-    "easier to test/debug/read or share work"
+    "first function named and described",
+    "second function named and described"
    ]
   },
   {
-   "q": "A quantity must be from 1 to 50. Give one normal, two boundary and one erroneous test value with expected results.",
-   "model": "Normal: 20 accepted. Boundary: 1 and 50 accepted (or 0 and 51 rejected). Erroneous: 'abc' rejected with an error message.",
+   "type": "short",
+   "q": "Describe what happens when a hardware interrupt is sent to the CPU while it runs a program.",
+   "model": "At the end of the FDE cycle the CPU checks the interrupt's priority. If it is higher than the current task, the CPU saves its state, runs the ISR, then restores the state and resumes the program.",
    "points": [
-    "normal value accepted",
-    "two boundary values with outcomes",
-    "erroneous value rejected"
+    "checked at end of FDE cycle / priority compared",
+    "state saved and ISR run",
+    "state restored and original program resumes"
    ]
   },
   {
-   "q": "Name the type of error for each: (a) a missing bracket, (b) dividing by zero while running, (c) adding VAT using the wrong percentage.",
-   "model": "(a) syntax error, (b) runtime error, (c) logic error.",
+   "type": "short",
+   "q": "Explain why interrupts are given priorities.",
+   "model": "Some interrupts are more urgent than others, such as a power failure compared with a key press. The CPU only stops the current task for a higher priority interrupt; others wait.",
    "points": [
-    "syntax for missing bracket",
-    "runtime for divide by zero and logic for wrong percentage"
+    "some are more urgent",
+    "only higher priority interrupts stop the current task"
    ]
   },
   {
-   "q": "Write a Python function double(n) that returns twice n, and show it being called.",
-   "model": "def double(n): return n * 2, then print(double(4)) which outputs 8.",
+   "type": "short",
+   "q": "Give one advantage and one disadvantage of writing a washing machine program in a low-level language.",
+   "model": "Advantage: direct control of the hardware, efficient small code. Disadvantage: harder to write and debug, and only works on one type of processor.",
    "points": [
-    "def with parameter and return",
-    "call with argument, result used"
+    "valid advantage",
+    "valid disadvantage"
    ]
   },
   {
-   "q": "Describe how a validation loop for a password of at least 8 characters would work.",
-   "model": "Ask for the password, check its length, and if it is less than 8 characters show an error message and ask again. Repeat until it is 8 or more, then accept it.",
+   "type": "short",
+   "q": "A programmer releases a finished game to customers. Explain why a compiler is better than an interpreter.",
+   "model": "A compiler produces an executable file, so the game runs faster, customers do not need the translator, and the source code stays private.",
    "points": [
-    "checks length at least 8",
-    "repeats with error message until valid"
+    "executable file runs faster",
+    "no translator needed / source code kept private"
    ]
   }
  ]

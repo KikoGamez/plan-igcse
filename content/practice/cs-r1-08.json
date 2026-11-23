@@ -1,34 +1,163 @@
-{"id":"cs-r1-08","cards":[
-{"f":"ASCII","b":"A character set using 7 bits per character, so 128 characters (extended ASCII uses 8 bits, 256 characters)."},
-{"f":"Unicode","b":"A character set using more bits per character (up to 32), able to represent characters from all languages and emojis. Files are larger."},
-{"f":"ASCII codes to remember","b":"'A' = 65, 'a' = 97, '0' = 48, space = 32."},
-{"f":"Resolution of a bitmap","b":"The number of pixels in the image (width × height)."},
-{"f":"Colour depth","b":"The number of bits used per pixel. Number of colours = 2^colour depth."},
-{"f":"Image file size formula","b":"width × height × colour depth gives bits. Divide by 8 for bytes."},
-{"f":"Sound file size formula","b":"sample rate × bit depth × seconds × channels gives bits. Divide by 8 for bytes."},
-{"f":"Sample rate","b":"Number of sound samples taken per second, measured in hertz (Hz)."},
-{"f":"Effect of higher sample rate and bit depth","b":"Sound is closer to the original analogue sound, but the file is bigger."},
-{"f":"KiB, MiB, GiB","b":"Binary units going up in 1024s: 1 KiB = 1024 bytes, 1 MiB = 1024 KiB, 1 GiB = 1024 MiB."},
-{"f":"kB, MB, GB, TB","b":"Decimal units going up in 1000s: 1 kB = 1000 bytes, 1 MB = 10⁶ bytes, 1 GB = 10⁹ bytes, 1 TB = 10¹² bytes."},
-{"f":"Lossless compression","b":"Reduces file size without losing any data. The original can be restored exactly. Examples: ZIP, PNG, RLE."},
-{"f":"Lossy compression","b":"Reduces file size by permanently removing some data. Examples: JPEG, MP3."},
-{"f":"Run-length encoding of AAAABBB","b":"4A3B. Replace each run with a count and the value. It can make files bigger if there are few repeats."},
-{"f":"Caesar cipher","b":"Each letter is shifted a fixed number of places along the alphabet (the key). Shift 3: HELLO becomes KHOOR. Only 25 keys, so weak."}
-],
-"gaps":[
-{"s":"ASCII uses ___ bits per character.","a":["7","seven"]},
-{"s":"The number of colours in a bitmap with a colour depth of 8 bits is ___.","a":["256"]},
-{"s":"One kibibyte is ___ bytes.","a":["1024","1 024"]},
-{"s":"JPEG and MP3 are examples of ___ compression.","a":["lossy"]},
-{"s":"Encrypting data turns plaintext into ___.","a":["ciphertext","cipher text"]},
-{"s":"The number of samples taken per second is called the sample ___.","a":["rate","frequency"]},
-{"s":"A 1 bit per pixel image can show ___ colours.","a":["2","two"]},
-{"s":"In a Caesar cipher, the number of places each letter moves is called the ___.","a":["key","shift"]}
-],
-"short":[
-{"q":"Explain why a Unicode text file is usually larger than the same text stored in ASCII.","model":"Unicode uses more bits per character (up to 32) so that it can represent many more characters. ASCII uses only 7 or 8 bits, so the same number of characters needs fewer bits.","points":["Unicode uses more bits per character","so the same text needs more storage than ASCII"]},
-{"q":"A bitmap is 100 pixels wide and 50 pixels high with a colour depth of 16 bits. Calculate its file size in bytes.","model":"100 × 50 = 5000 pixels. 5000 × 16 = 80 000 bits. 80 000 ÷ 8 = 10 000 bytes.","points":["5000 pixels × 16 = 80 000 bits","÷ 8 = 10 000 bytes"]},
-{"q":"State two effects of increasing the resolution of an image.","model":"The image has more detail and looks sharper, but the file size becomes larger because there are more pixels to store.","points":["more detail / better quality","larger file size"]},
-{"q":"Compress WWWWBBWWWWWW with run-length encoding and explain whether it is lossless or lossy.","model":"4W2B6W. It is lossless because the original data can be rebuilt exactly from the encoded form.","points":["4W2B6W","lossless as original can be restored exactly"]},
-{"q":"Explain why data is encrypted before it is sent across a network.","model":"So that if the data is intercepted, it is turned into unreadable ciphertext and cannot be understood without the key, protecting its confidentiality.","points":["data is scrambled into ciphertext / unreadable","intercepted data cannot be understood without the key"]}
-]}
+{
+ "id": "cs-r1-08",
+ "cards": [
+  {
+   "f": "Four stages of life cycle",
+   "b": "Analysis, design, coding, testing."
+  },
+  {
+   "f": "Decomposition",
+   "b": "Breaking a complex problem into smaller, more manageable sub-problems."
+  },
+  {
+   "f": "Abstraction",
+   "b": "Removing unnecessary detail so only the important features of the problem remain."
+  },
+  {
+   "f": "Structure diagram",
+   "b": "A hierarchy chart showing a problem split into sub-tasks, from top level downwards."
+  },
+  {
+   "f": "Flowchart: terminator",
+   "b": "Rounded rectangle marking START and END."
+  },
+  {
+   "f": "Flowchart: decision",
+   "b": "Diamond containing a yes/no question, with two labelled exits."
+  },
+  {
+   "f": "Flowchart: input/output",
+   "b": "Parallelogram."
+  },
+  {
+   "f": "Flowchart: subroutine",
+   "b": "Rectangle with double vertical lines on its sides."
+  },
+  {
+   "f": "Pseudocode assignment",
+   "b": "Uses the left arrow: Total ← Total + 1."
+  },
+  {
+   "f": "DIV vs MOD",
+   "b": "DIV gives the whole-number quotient (17 DIV 5 = 3). MOD gives the remainder (17 MOD 5 = 2)."
+  },
+  {
+   "f": "FOR loop use",
+   "b": "Count-controlled: used when the number of repetitions is known."
+  },
+  {
+   "f": "WHILE loop",
+   "b": "Condition checked before each iteration; may run zero times; repeats while the condition is true."
+  },
+  {
+   "f": "REPEAT … UNTIL",
+   "b": "Condition checked after the body; always runs once; stops when the condition is true."
+  },
+  {
+   "f": "Declaring a variable",
+   "b": "DECLARE Age : INTEGER"
+  },
+  {
+   "f": "Data types in pseudocode",
+   "b": "INTEGER, REAL, CHAR, STRING, BOOLEAN."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "Breaking a big problem into smaller parts is called ___.",
+   "a": [
+    "decomposition"
+   ]
+  },
+  {
+   "s": "In pseudocode, the symbol ___ is used for assignment.",
+   "a": [
+    "←",
+    "<-"
+   ]
+  },
+  {
+   "s": "A flowchart ___ symbol is a diamond.",
+   "a": [
+    "decision"
+   ]
+  },
+  {
+   "s": "The program development life cycle begins with ___.",
+   "a": [
+    "analysis"
+   ]
+  },
+  {
+   "s": "17 ___ 5 evaluates to 2 in pseudocode.",
+   "a": [
+    "MOD"
+   ]
+  },
+  {
+   "s": "A ___ loop is count-controlled.",
+   "a": [
+    "FOR"
+   ]
+  },
+  {
+   "s": "A ___ diagram shows a problem as a hierarchy of sub-tasks.",
+   "a": [
+    "structure"
+   ]
+  },
+  {
+   "s": "Removing unnecessary detail from a problem is called ___.",
+   "a": [
+    "abstraction"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Give two benefits of decomposing a problem into subroutines.",
+   "model": "Each smaller part is easier to write, test and debug. Different programmers can work on different parts at the same time, and a subroutine can be reused.",
+   "points": [
+    "Easier to write/test/debug small parts",
+    "Team can work in parallel",
+    "Subroutines can be reused"
+   ]
+  },
+  {
+   "q": "Write pseudocode to input two numbers and output the larger one.",
+   "model": "INPUT A\nINPUT B\nIF A > B THEN OUTPUT A ELSE OUTPUT B ENDIF",
+   "points": [
+    "Both numbers input",
+    "Comparison A > B (or equivalent)",
+    "Correct output in each branch with ENDIF"
+   ]
+  },
+  {
+   "q": "State the purpose of: Count ← 0; INPUT X; WHILE X <> 0 DO Count ← Count + 1; INPUT X; ENDWHILE; OUTPUT Count.",
+   "model": "It counts how many numbers the user enters before entering 0 (the stop value), then outputs that count.",
+   "points": [
+    "Counts the inputs",
+    "Stops when 0 is entered",
+    "Outputs the count"
+   ]
+  },
+  {
+   "q": "Explain why Total must be set to 0 before a loop that adds numbers.",
+   "model": "If Total is not initialised it may hold an old or undefined value, so the final answer would be wrong. Setting it to 0 means the first number is added to 0 and the sum is correct.",
+   "points": [
+    "Without it the variable may contain an unknown/old value",
+    "Starts the running total at 0",
+    "Result would be incorrect"
+   ]
+  },
+  {
+   "q": "Describe the analysis stage of the program development life cycle.",
+   "model": "The programmer works out exactly what the program must do. They identify the inputs, processes, outputs and storage, and the requirements, using abstraction and decomposition.",
+   "points": [
+    "Identify what the program must do / requirements",
+    "Inputs, processes, outputs, storage",
+    "Use abstraction and decomposition"
+   ]
+  }
+ ]
+}

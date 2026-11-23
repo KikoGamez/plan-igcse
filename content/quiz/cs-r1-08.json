@@ -1,6 +1,51 @@
-{"id":"cs-r1-08","questions":[
-{"type":"mcq","q":"A bitmap image uses 4 bits per pixel. How many different colours can it show?","options":["4","8","16","32"],"answer":2,"why":"Number of colours = 2^colour depth = 2⁴ = 16."},
-{"type":"mcq","q":"How many bytes are in one mebibyte (MiB)?","options":["1 000 000","1 048 576","1 024","1 073 741 824"],"answer":1,"why":"1 MiB = 1024 KiB = 1024 × 1024 = 1 048 576 bytes. A megabyte (MB) is 1 000 000 bytes."},
-{"type":"mcq","q":"Which is an example of a LOSSY compression format?","options":["ZIP","PNG","Run-length encoding","MP3"],"answer":3,"why":"MP3 (sound) and JPEG (images) permanently remove data. ZIP, PNG and RLE are lossless."},
-{"type":"short","q":"A sound file is recorded with a sample rate of 8000 Hz and a bit depth of 8 bits for 20 seconds (mono). Calculate the file size in bytes.","model":"8000 × 8 × 20 = 1 280 000 bits. Divide by 8 to get 160 000 bytes.","points":["8000 × 8 × 20 = 1 280 000 bits","÷ 8 = 160 000 bytes"]}
-]}
+{
+ "id": "cs-r1-08",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Which flowchart symbol is used to show a yes/no question?",
+   "options": [
+    "Rectangle",
+    "Diamond",
+    "Parallelogram",
+    "Rounded rectangle"
+   ],
+   "answer": 1,
+   "why": "A diamond is a decision with two exits; rectangle is process, parallelogram is input/output."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the value of 29 MOD 4?",
+   "options": [
+    "7",
+    "1",
+    "5",
+    "0"
+   ],
+   "answer": 1,
+   "why": "29 ÷ 4 = 7 remainder 1, and MOD gives the remainder."
+  },
+  {
+   "type": "mcq",
+   "q": "Which loop is guaranteed to run at least once?",
+   "options": [
+    "FOR",
+    "WHILE",
+    "REPEAT … UNTIL",
+    "None of them"
+   ],
+   "answer": 2,
+   "why": "REPEAT…UNTIL tests its condition at the end, after the body has run once."
+  },
+  {
+   "type": "short",
+   "q": "Describe what is meant by abstraction and give an example.",
+   "model": "Abstraction is removing unnecessary detail and keeping only the features needed to solve the problem. For example, a tube map shows stations and connections but not real distances or streets.",
+   "points": [
+    "Removes/hides unnecessary detail",
+    "Keeps only the important features",
+    "Suitable example"
+   ]
+  }
+ ]
+}

@@ -2,96 +2,115 @@
  "id": "pe-r1-08",
  "cards": [
   {
-   "f": "Three parts of a warm-up",
-   "b": "Pulse raiser, stretching, skill-related practice."
+   "f": "Phases of a warm-up",
+   "b": "Pulse raiser, stretching, skill-related/familiarisation activity."
   },
   {
-   "f": "Why does a warm-up reduce injury?",
-   "b": "Warmer muscles are more elastic, blood flow rises and joints are lubricated, so less chance of strains."
+   "f": "Physiological reasons for warm-up",
+   "b": "Raises muscle temperature, blood flow and joint movement; reduces injury risk."
   },
   {
-   "f": "Purpose of a cool-down",
-   "b": "Return the body to rest, remove waste such as lactic acid, reduce soreness."
+   "f": "Psychological reasons for warm-up",
+   "b": "Improves focus, mental rehearsal and lowers nerves."
   },
   {
-   "f": "Sprain",
-   "b": "Damage to a ligament (bone to bone), e.g. twisted ankle."
+   "f": "Phases of a cool-down",
+   "b": "Gradual decrease in pulse, then stretching."
   },
   {
-   "f": "Strain",
-   "b": "Damage to a muscle or tendon, e.g. pulled hamstring."
+   "f": "Reasons for cool-down",
+   "b": "Removes lactic acid, reduces stiffness, returns body to resting state."
   },
   {
-   "f": "Open fracture",
-   "b": "A broken bone that breaks through the skin. Also called compound."
+   "f": "Real risk",
+   "b": "A danger that is likely to cause harm."
   },
   {
-   "f": "Dislocation",
-   "b": "A bone forced out of its normal position in a joint."
+   "f": "Perceived risk",
+   "b": "A danger a person believes exists, whether or not it does."
   },
   {
-   "f": "Concussion first aid",
-   "b": "Stop play at once, do not return the same day, seek medical help."
+   "f": "RICE",
+   "b": "Rest, Ice, Compression, Elevation."
   },
   {
-   "f": "PRICE",
-   "b": "Protection, Rest, Ice, Compression, Elevation."
+   "f": "Cause of a blister",
+   "b": "Friction from poorly fitting shoes or socks."
+  },
+  {
+   "f": "Winding",
+   "b": "A blow to the stomach; treat with rest and steady breathing."
+  },
+  {
+   "f": "Ligament injury",
+   "b": "A sprain: joint twisted beyond normal range."
   },
   {
    "f": "Anabolic steroids",
-   "b": "Build muscle and strength. Risks: liver damage, high blood pressure, aggression."
+   "b": "Increase muscle mass and strength; used in weightlifting or sprinting."
   },
   {
    "f": "Beta blockers",
-   "b": "Slow heart rate, reduce tremor. Used in archery and shooting. Risk: low blood pressure."
+   "b": "Reduce anxiety and tremor; used in archery or shooting."
+  },
+  {
+   "f": "Stimulants",
+   "b": "Increase alertness and reduce fatigue."
   },
   {
    "f": "Diuretics",
-   "b": "Remove water to lose weight quickly or mask drugs. Risk: dehydration and cramps."
-  },
-  {
-   "f": "EPO",
-   "b": "Increases red blood cells for endurance. Risk: blood clots, stroke, heart attack."
+   "b": "Remove fluid causing weight loss; used in boxing or judo."
   },
   {
    "f": "Blood doping",
-   "b": "Re-infusing stored blood to raise red blood cell count. Banned. Risks: clots and infection."
-  },
-  {
-   "f": "WADA",
-   "b": "World Anti-Doping Agency. Sets the banned list and organises testing."
+   "b": "Increasing red blood cells, e.g. transfusion, to carry more oxygen."
   }
  ],
  "gaps": [
   {
-   "s": "A torn ligament is called a ___.",
+   "s": "The first phase of a warm-up is the pulse ___.",
    "a": [
-    "sprain"
+    "raiser"
    ]
   },
   {
-   "s": "A pulled muscle is called a ___.",
+   "s": "The letter I in RICE stands for ___.",
    "a": [
-    "strain"
+    "ice"
    ]
   },
   {
-   "s": "In PRICE, the letter C stands for ___.",
+   "s": "A danger that is not necessarily likely to cause harm but is believed to exist is a ___ risk.",
    "a": [
-    "compression"
+    "perceived"
    ]
   },
   {
-   "s": "Stimulants increase alertness and reduce ___.",
+   "s": "A bruise is caused by a direct ___ to the body.",
    "a": [
-    "fatigue",
-    "tiredness"
+    "blow",
+    "knock",
+    "impact"
    ]
   },
   {
-   "s": "___ blockers are banned drugs that reduce shaking in shooting.",
+   "s": "___ are drugs used by shooters to reduce anxiety and tremor.",
    "a": [
-    "beta"
+    "beta blockers",
+    "beta-blockers"
+   ]
+  },
+  {
+   "s": "___ steroids increase muscle mass.",
+   "a": [
+    "anabolic"
+   ]
+  },
+  {
+   "s": "Diuretics cause weight loss by removing ___.",
+   "a": [
+    "fluid",
+    "water"
    ]
   },
   {
@@ -99,60 +118,47 @@
    "a": [
     "cells"
    ]
-  },
-  {
-   "s": "Light jogging at the start of a warm-up is called a ___ raiser.",
-   "a": [
-    "pulse"
-   ]
-  },
-  {
-   "s": "Drugs that remove water from the body are called ___.",
-   "a": [
-    "diuretics",
-    "diuretic"
-   ]
   }
  ],
  "short": [
   {
-   "q": "Explain two ways a coach can reduce injury risk in a school football match.",
-   "model": "Make sure players warm up and wear shin pads. Check the pitch for hazards and enforce the rules so dangerous tackles are stopped.",
+   "q": "Describe a suitable cool-down for a hockey player.",
+   "model": "Gradually reduce pulse by jogging then walking, then stretch the main muscles used.",
    "points": [
-    "warm-up / protective equipment",
-    "safe pitch / rules and referee"
+    "gradual decrease in pulse",
+    "stretching"
    ]
   },
   {
-   "q": "Describe how to treat a sprained ankle.",
-   "model": "Use PRICE: rest and protect the ankle, apply wrapped ice, compress with a bandage and raise it above the heart. Seek medical help if severe.",
+   "q": "State two ways to reduce the risk of injury on a playing field.",
+   "model": "Check the pitch for holes or glass and wear appropriate footwear; also warm up or follow the rules.",
    "points": [
-    "rest / protect",
-    "ice / compression / elevation"
+    "valid strategy",
+    "second valid strategy"
    ]
   },
   {
-   "q": "Give one effect and one risk of stimulants.",
-   "model": "They increase alertness and delay fatigue. Risks include addiction, raised blood pressure and heart problems.",
+   "q": "Explain how RICE helps a sprained ankle.",
+   "model": "Rest prevents further damage, ice and compression reduce swelling and pain, and elevation reduces blood flow to the area.",
    "points": [
-    "valid effect",
-    "valid risk"
+    "identifies parts of RICE",
+    "explains reduced swelling"
    ]
   },
   {
-   "q": "Why are performance-enhancing drugs banned in sport?",
-   "model": "They give an unfair advantage, so they are cheating. They also damage health and set a bad example for young people.",
+   "q": "Give two disadvantages of using performance-enhancing drugs.",
+   "model": "Health damage and a ban or disqualification; also fines and public humiliation.",
    "points": [
-    "unfair advantage",
-    "health risk / role model"
+    "valid disadvantage",
+    "second valid disadvantage"
    ]
   },
   {
-   "q": "Explain why diuretics are misused in boxing.",
-   "model": "Diuretics remove water, so a boxer can lose weight quickly to make a lower weight category. They can also mask other drugs.",
+   "q": "Explain why a performer might use blood doping.",
+   "model": "It raises red blood cell count so more oxygen reaches muscles, delaying fatigue in endurance events.",
    "points": [
-    "weight loss for category",
-    "mask other drugs"
+    "more red blood cells/oxygen",
+    "improves endurance"
    ]
   }
  ]

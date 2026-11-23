@@ -1,160 +1,185 @@
-# Hazards: tropical cyclones and responses
+# Coasts
 
-> **In the exam:** Paper 1, Section A (hazards question, about 25 marks). Expect a world map of tropical cyclone tracks (1–3 marks), a Saffir-Simpson table or storm data to read (1–3 marks), "explain the conditions needed for a tropical cyclone to form" (3–4 marks), "explain why impacts differ between countries" (4 marks), and a 6-mark question on the primary and secondary impacts and responses for one named cyclone. Bring numbers and place names.
+> **In the exam:** Paper 1 (Geographical Themes, 75 marks), Theme 2 The natural environment. Typical questions: naming wave and erosion processes [1–2], describing or explaining landforms with a labelled diagram (cliffs, wave-cut platforms, caves, arches, stacks, beaches, spits) [3–4], conditions needed for coral reefs [3], the value and threats to coral reefs and mangroves [4], and a 7-mark extended question on coastal management or the impacts of coastal erosion/flooding for a **named coastline**. Coastal photographs and OS maps of coasts can also appear in Paper 2 (Geographical Skills).
 
 ## What you need to know
 
-- Characteristics and distribution of tropical cyclones (use world maps).
-- Causes: ocean temperature, atmospheric pressure, wind shear, Coriolis force.
-- Measurement: Saffir-Simpson scale (use weather and storm-surge data to find the category).
-- Primary and secondary impacts of one named tropical cyclone.
-- Vulnerability: why some countries are more vulnerable than others (physically, socially, economically).
-- Prediction and preparation: warning and evacuation, building design, storm tracking, remote sensing.
-- Short-term relief (emergency aid, shelter, supplies) and long-term planning (risk assessment, hazard mapping, rebuilding).
+- Waves: constructive and destructive, and how they are formed; processes of coastal erosion, transport and deposition; weathering and mass movement.
+- Landforms of erosion (headlands and bays, cliffs, wave-cut platforms, caves, arches, stacks) and deposition (beaches, spits, bars).
+- Coral reefs: conditions for growth, types, value and threats; mangrove swamps: features, value and threats.
+- Coastal management: hard engineering and soft engineering, with a named example.
+- Impacts of coastal erosion and flooding on people and the environment.
 
 ## Notes
 
-### What are tropical cyclones?
+### Waves and coastal processes
 
-A **tropical cyclone** is a huge, rotating storm with very low pressure, winds over 119 km/h (74 mph), torrential rain and a **storm surge**. They are called **hurricanes** in the Atlantic and NE Pacific, **typhoons** in the NW Pacific (e.g. Philippines, Japan) and **cyclones** in the Indian Ocean and South Pacific (e.g. Bangladesh, Mozambique, Australia).
+Waves are caused by **wind blowing over the sea**. The **fetch** (distance of open water the wind blows over) and wind strength decide wave size.
 
-**Distribution:** They form over warm oceans between about **5° and 30° north and south of the equator** and move west, then curve away from the equator. They weaken quickly over land or cold water. Regions affected include the Caribbean and Gulf of Mexico/southern USA, the Philippines, Japan, China, India and Bangladesh, Madagascar, Mozambique and northern Australia. Most occur in late summer and autumn (hurricane season in the Atlantic is June–November).
+| | **Constructive waves** | **Destructive waves** |
+|---|---|---|
+| Height | Low | High |
+| Frequency | Low (6–8 per minute) | High (10–14 per minute) |
+| Swash and backwash | **Strong swash**, weak backwash | Weak swash, **strong backwash** |
+| Effect | **Deposit** material; build beaches | **Erode** material; remove beaches |
 
-### Causes: conditions needed to form
-
-| Condition | Why it matters |
+**Erosion processes:**
+| Process | How |
 |---|---|
-| **Sea surface temperature of at least 27°C**, to a depth of about 50 m | warm water evaporates to give huge amounts of moist air; heat energy is the fuel |
-| **Low atmospheric pressure** disturbance | warm, moist air rises, leaving low pressure at the surface; air rushes in |
-| **Low wind shear** (little change of wind speed/direction with height) | allows the storm's tall column to build; high shear rips it apart |
-| **Coriolis force** (needs to be at least 5° from the equator) | the Earth's rotation makes the rising air spin (anticlockwise in the northern hemisphere, clockwise in the southern); near the equator there is no spin |
-| **Large area of ocean** | provides a continuous energy supply |
+| **Hydraulic action** | Force of waves pushes air into cracks in rock; pressure breaks the rock apart |
+| **Abrasion (corrasion)** | Waves hurl sand and pebbles against cliffs, wearing them away |
+| **Attrition** | Pieces of rock collide and become smaller and rounder |
+| **Solution (corrosion)** | Sea water dissolves rocks such as chalk and limestone |
 
-### How a cyclone forms (steps)
+**Transport: longshore drift.** Waves hit the beach at an **angle** (the direction of the prevailing wind); the **swash** carries material up the beach at an angle, the **backwash** carries it back straight down the slope (due to gravity). Material zig-zags along the coast.
 
-1. Warm sea heats the air above, which rises rapidly and evaporates water.
-2. Rising air cools, **condenses** into huge **cumulonimbus clouds**, releasing latent heat that fuels the storm.
-3. Surface pressure drops, so more air is sucked in. Coriolis force makes it **spin**.
-4. In the centre, cooler air sinks, forming the calm **eye** (clear skies, light wind). The **eyewall** around it has the strongest winds and heaviest rain.
-5. When the storm moves over land or cold water, the energy supply is cut and it **weakens**.
+**Deposition:** happens when waves lose energy, e.g. in sheltered bays, where there is a lot of material, or constructive waves.
 
-### Measurement: Saffir-Simpson scale
+**Weathering and mass movement:** **mechanical (freeze–thaw)** weathering breaks rocks; **chemical weathering** (rain dissolves limestone); **biological** (roots). Mass movement includes **rockfalls, landslides and slumping** on cliffs, especially with soft rock and heavy rain, which makes cliffs retreat.
 
-| Category | Wind speed (mph) | Wind speed (km/h) | Storm surge |
-|---|---|---|---|
-| 1 | 74–95 | 119–153 | 1.2–1.5 m |
-| 2 | 96–110 | 154–177 | 1.8–2.4 m |
-| 3 | 111–129 | 178–208 | 2.7–3.7 m |
-| 4 | 130–156 | 209–251 | 4.0–5.5 m |
-| 5 | 157 or more | 252 or more | over 5.5 m |
+### Landforms of erosion
 
-Category is based on **sustained wind speed**. Exam tip: read the wind speed first; if the question gives both wind and surge, wind decides the category. (You may be asked to place a storm in the right category using the table in the paper, so you do not need to memorise numbers.)
+**Headlands and bays:** occur where there are **alternating bands of hard and soft rock** running at right angles to the coast. Soft rock (clay) is eroded faster to form **bays**; hard rock (chalk, granite) sticks out as **headlands**. Waves refract (bend) round headlands, focusing erosion on them.
 
-### Impacts
+**Cliffs and wave-cut platforms (4 marks):**
+1. Waves attack the base of a cliff by hydraulic action and abrasion, forming a **wave-cut notch**.
+2. The rock above is unsupported, so it **collapses**.
+3. This repeats and the cliff **retreats**.
+4. A flat, gently sloping rock surface called a **wave-cut platform** is left at the base.
 
-| | Primary | Secondary |
+**Caves, arches, stacks and stumps (headland):**
+1. Waves attack **cracks** in the headland by hydraulic action and abrasion to form a **cave**.
+2. The cave erodes **through** the headland to form an **arch**.
+3. Erosion and weathering weaken the arch until the roof **collapses**, leaving a **stack**.
+4. The stack is eroded at its base and collapses, leaving a **stump**. (Examples: Old Harry Rocks, the Needles, Durdle Door.)
+
+### Landforms of deposition
+
+- **Beaches:** accumulations of sand or shingle deposited by constructive waves. Sandy beaches are flatter; shingle beaches are steeper.
+- **Spits:** long, narrow ridges of sand or shingle **attached to land at one end** and sticking out into the sea or across a river mouth. They form where the coastline **changes direction**; longshore drift keeps depositing material in the sheltered water; a **recurved end** forms from a change in wind direction; **salt marsh** develops in the sheltered area behind. Example: Spurn Head, Dungeness. 
+- **Bars:** a spit that grows across a bay, enclosing a **lagoon**.
+- **Sand dunes:** wind blows dry sand from the beach and it collects around obstacles (vegetation). Marram grass stabilises them.
+
+### Coral reefs
+
+Coral reefs are ridges of **limestone** built up by tiny animals called **coral polyps**.
+
+**Conditions needed:**
+- **Warm water: between about 23–29 °C** (not below about 18 °C), so only in tropical areas (between about 30° N and S).
+- **Shallow, clear water** (less than about 30–50 m deep) so that sunlight reaches the **algae** that live inside the corals and provide them food.
+- **Salty (saline) water**, about 32–42 ppt, with no fresh river water.
+- **Clear water** with little sediment; **plenty of plankton**; fairly **strong wave action** to supply oxygen and food.
+
+**Types:** **fringing reef** (close to the shore), **barrier reef** (separated from land by a lagoon, e.g. Great Barrier Reef), **atoll** (ring of coral around a lagoon, formed from a sinking volcano).
+
+**Value:** biodiversity (about 25% of marine species); fishing; **tourism** (diving); **coastal protection** (absorb wave energy); medicines.
+
+**Threats:**
+- **Climate change:** warmer sea → **coral bleaching** (algae expelled, corals turn white and may die); ocean acidification from CO₂.
+- **Overfishing and destructive fishing** (dynamite, cyanide), **pollution** (sewage, fertiliser runoff), **sedimentation**, **tourism damage** (anchors, divers touching), **coastal development**.
+
+**Management:** marine protected areas, bans on destructive fishing, controlling tourism, cutting pollution, replanting coral, reducing greenhouse gases.
+
+### Mangrove swamps
+
+**Mangroves** are salt-tolerant trees found along sheltered **tropical and subtropical coasts and estuaries**, in muddy, salty, waterlogged conditions.
+
+- **Adaptations:** **prop (stilt) roots** above the mud for support and air; **breathing roots (pneumatophores)** that stick up for oxygen; leaves that **excrete salt**; seeds that germinate on the tree.
+- **Value:** **coastal protection** (roots absorb wave energy, reducing erosion and storm and tsunami damage); **nurseries for fish and shellfish**; habitat for wildlife; **timber**, fuel; stores carbon; traps sediment and filters water.
+- **Threats:** clearance for **shrimp farms**, tourism, agriculture, housing; logging; pollution; rising sea level.
+- **Management:** protection laws and reserves, replanting, sustainable use, education.
+
+### Coastal erosion, flooding and management
+
+**Why coasts are at risk:** rising sea level, storms and surges, soft rock, human activity. Impacts: loss of land and homes, roads, tourism and farmland; cost of defences.
+
+| Hard engineering | How it works | Evaluation |
 |---|---|---|
-| **Cause** | strong winds, heavy rain, storm surge | follow from primary effects |
-| **Examples** | buildings destroyed, trees uprooted, power lines down, flooding, deaths and injuries | disease from dirty water (cholera), food shortages, homelessness, loss of jobs, landslides, damage to crops and economy, looting |
+| **Sea wall** | Concrete wall, often curved, reflects waves | Very effective; very expensive (£ millions per km); can cause erosion at its base |
+| **Groynes** | Wooden or rock barriers across the beach trapping sand moved by longshore drift | Cheap; build up beaches (protect); starve beaches downdrift, causing erosion further along |
+| **Rock armour (rip-rap)** | Large boulders at the cliff base absorb wave energy | Cheaper than sea wall; can be ugly |
+| **Gabions** | Cages of rocks | Cheap, short life |
 
-**Storm surge** causes most deaths: low pressure and strong winds push a dome of seawater onto the coast, and low-lying coasts flood.
-
-### Why are some countries more vulnerable?
-
-| | Richer countries (e.g. USA, Japan) | Poorer countries (e.g. Philippines, Bangladesh, Haiti) |
+| Soft engineering | How it works | Evaluation |
 |---|---|---|
-| Physical | same hazard, but may have stronger defences | low-lying deltas and islands; many people on the coast |
-| Social | education and warnings reach nearly everyone; good transport for evacuation | poor roads and communications; poor-quality housing; slums on exposed land |
-| Economic | money for defences, insurance and rebuilding | little money; reliant on aid; slow recovery |
-| Result | fewer deaths, **high economic cost** | **more deaths**, long-term damage |
+| **Beach nourishment** | Sand/shingle added to the beach | Looks natural; cheap per metre but must be repeated |
+| **Dune regeneration** | Planting marram grass, fencing dunes | Cheap, natural, sustainable; slow, limited protection |
+| **Managed retreat** | Allowing the sea to flood low-value land | Cheap, creates salt marsh habitat; people lose land and homes (compensation needed) |
 
-### Prediction and preparation
+**Choosing a strategy:** use **cost–benefit** thinking: value of land and buildings protected versus the cost. Valuable areas (towns, ports) are defended (**hold the line**); low-value areas may be left (**managed retreat**).
 
-- **Storm tracking** by satellites, aircraft and radar. Forecasters predict the path (a cone of uncertainty), which gives days of warning.
-- **Warnings:** alerts on TV, radio, text and sirens, with clear categories.
-- **Evacuation:** plans, routes and shelters; people move inland.
-- **Building design:** reinforced roofs, storm shutters, buildings on stilts, strong foundations; **cyclone shelters** (Bangladesh).
-- **Land-use planning and hazard mapping**: no building in surge zones; sea walls and levees; mangrove planting.
-- **Education and drills:** preparation kits, community plans.
-
-### Short-term relief and long-term planning
-
-- **Short-term:** search and rescue, emergency aid (food, water, tents, medicine), temporary shelter, clearing roads, restoring power, international aid.
-- **Long-term:** rebuilding homes and infrastructure to higher standards (build back better), **risk assessment and hazard mapping**, improved defences, insurance, economic recovery, and training for future events.
-
-### Named cyclone case studies
-
-Learn **one** well (and ideally a contrast). Examples:
-
-- **Hurricane Katrina, USA (August 2005)**: peak Category 5 and Category 3 at landfall near New Orleans. Storm surge overwhelmed levees and about 80% of the city flooded; about 1,800 people died and damage was about US$125 billion. Many poorer residents without cars could not evacuate; evacuation orders and the response were criticised; levees were rebuilt stronger.
-- **Typhoon Haiyan, Philippines (November 2013)**: one of the strongest ever recorded, with sustained winds over 300 km/h; a storm surge of several metres hit Tacloban; about 6,300 people died and about 4 million were displaced. Poor roads and flooded airports slowed relief; international aid and NGOs were important; rebuilding included "no-build zones" and sturdier homes.
-
-Check exact figures in your own notes. In answers give: **where/when/category**, **primary impacts** with numbers, **secondary impacts**, **responses** (short and long term) and an **evaluation** of how well it was managed.
+**Case study (learn one):** e.g. **Holderness coast (UK)**, one of Europe's fastest-eroding coasts (about 2 m a year) with soft boulder clay; defences at Withernsea and Hornsea, groynes, sea walls, and less protection elsewhere. Or **Dorset (Jurassic Coast)**, **Bangladesh/Maldives**, **Florida Everglades mangroves**, **Great Barrier Reef**. Know location, causes, impacts, the management chosen and its success.
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Tropical cyclone | A large, rotating storm with low pressure and winds of at least 119 km/h that forms over warm tropical oceans |
-| Coriolis force | The effect of the Earth's rotation that makes moving air spin |
-| Wind shear | A change in wind speed or direction with height |
-| Eye | The calm centre of a tropical cyclone with clear skies and light winds |
-| Storm surge | A rise in sea level caused by low pressure and strong winds, flooding coasts |
-| Saffir-Simpson scale | A 1–5 scale that classifies tropical cyclones by sustained wind speed |
-| Vulnerability | How likely a place or community is to be harmed by a hazard |
-| Evacuation | Moving people away from an area of danger |
-| Short-term relief | Emergency help such as rescue, food, water and shelter straight after a disaster |
-| Hazard mapping | Mapping areas at risk to help planning and land use |
+- **Fetch:** the distance of open water over which the wind blows to create waves.
+- **Swash:** the movement of water up the beach after a wave breaks.
+- **Backwash:** the movement of water back down the beach.
+- **Longshore drift:** the movement of material along a coast by waves approaching at an angle.
+- **Hydraulic action:** the force of waves compressing air in cracks in rock, breaking it apart.
+- **Abrasion:** wearing away of rock by sand and stones hurled by waves.
+- **Wave-cut platform:** a gently sloping rock surface at the foot of a cliff, left as the cliff retreats.
+- **Spit:** a long, narrow ridge of sand or shingle attached to the land at one end and extending into the sea.
+- **Coral bleaching:** when stressed corals expel the algae that live inside them and turn white.
+- **Mangrove:** a salt-tolerant tree that grows in coastal mud and shallow tropical water.
+- **Managed retreat:** allowing the sea to flood or erode an area on purpose, often creating salt marsh.
 
 ## Worked examples
 
-**1. Explain why tropical cyclones do not form at the equator. [3]**
-The Coriolis force is needed to make the rising air spin (1). It is weakest at the equator (1), so the storm cannot start rotating (1).
+**1. Explain how a wave-cut platform is formed. [4]**
 
-**2. Describe the distribution of tropical cyclones. [3]**
-They occur in the tropics between about 5° and 30° north and south of the equator (1) over warm oceans (1), in areas such as the Caribbean/Atlantic, the western Pacific and the Bay of Bengal; none at the equator or poles (1).
+Waves attack the base of the cliff by hydraulic action and abrasion (1) forming a wave-cut notch (1); the cliff above is unsupported and collapses (1); the cliff retreats, leaving a flat wave-cut platform that is exposed at low tide (1).
 
-**3. Explain why the impacts of tropical cyclones are greater in poorer countries. [6]**
-Poor housing is easily destroyed by wind and flooding (1), and people may live on low-lying, exposed land in slums (1). Warnings may not reach people and roads are poor, so evacuation is hard (1), and there are few shelters (1). Governments have little money for defences, relief and rebuilding (1), so recovery takes years and disease and poverty follow (1). Use an example: Haiyan killed about 6,300 compared with about 1,800 deaths in Katrina.
+**2. State three conditions needed for coral reef growth. [3]**
+
+Warm water of at least 23 °C (1); shallow, clear water for sunlight (1); salty water without fresh water or sediment (1). Give figures to prove accuracy.
+
+**3. Explain why mangrove forests are important to coastal communities. [4]**
+
+Their roots absorb wave energy, reducing erosion and flooding during storms (2); they are nursery areas for fish and shellfish, which support fishing incomes (2).
+
+**4. "Hard engineering is the best way to manage coastal erosion." How far do you agree? Use a named example. [7]**
+
+Cover hard (sea walls, groynes) and soft (beach nourishment, managed retreat) methods with a case (e.g. Holderness). Weigh cost, protection, impact on other places and sustainability; reach a **judgement** (e.g. hard defences for valuable towns, soft methods elsewhere).
 
 ## Common mistakes
 
-- Saying cyclones form over "any warm water". Need ≥27°C, at least 5° from the equator and low wind shear.
-- Saying the Coriolis force "makes wind". It makes moving air **spin**.
-- Mixing up the names: hurricane, typhoon and cyclone are the same type of storm in different places.
-- Not separating primary (wind, flooding, collapse) and secondary (disease, homelessness, job loss) impacts.
-- Forgetting that **storm surge**, not wind, causes most deaths.
-- Using a case study with no figures, dates or place names, or giving the wrong storm for the country.
-- Writing "poor countries cannot predict cyclones". Prediction is global through satellites; the weakness is **preparation and response**.
+- Saying constructive waves "build" without **strong swash**, or mixing up swash and backwash.
+- Missing **hard and soft rock** in headland/bay questions.
+- Writing "waves erode the cliff" with no process named (hydraulic action, abrasion).
+- Forgetting that spits are **attached at one end**, and don't mention longshore drift and the change of coastline direction.
+- Saying coral lives in "warm" water only. Add **shallow, clear, salty** and give figures.
+- Evaluating only advantages: always give **cost** and **side effects** (e.g. groynes cause erosion downdrift).
+- Treating bleaching as "coral is dying from the cold".
 
 ## Practice questions
 
-1. State the minimum sea temperature needed for a tropical cyclone to form. [1]
-2. A storm has sustained winds of 150 mph. Using the Saffir-Simpson scale, state its category. [1]
-3. What name is given to tropical cyclones in the north-west Pacific Ocean? [1]
-4. Describe what is meant by the "eye" of a tropical cyclone. [2]
-5. Explain the role of the Coriolis force in the formation of a tropical cyclone. [3]
-6. Explain how storm tracking and evacuation reduce the death toll from a tropical cyclone. [4]
-7. Give two primary and two secondary impacts of a named tropical cyclone. [4]
-8. Explain why a tropical cyclone causes more deaths in a poorer country than in a richer one. [6]
+1. Define the term **longshore drift**. [2]
+2. State two differences between constructive and destructive waves. [2]
+3. Name the erosion process in which waves force air into cracks in a cliff. [1]
+4. Explain how a stack is formed. [4]
+5. Describe how a spit is formed. [4]
+6. Explain two threats to coral reefs. [4]
+7. Describe two ways in which mangrove forests protect coasts. [3]
+8. For a named coastline, assess how successful coastal management has been. [7]
 
 <details><summary>Answers</summary>
 
-1. 27°C.
-2. Category 4 (130–156 mph).
-3. Typhoon.
-4. The calm centre of the storm (1) with clear skies, light winds and sinking air (1).
-5. The Earth's rotation deflects air moving towards the low-pressure centre (1), making the rising air spin (1) and organising it into a rotating storm (1). It is too weak near the equator.
-6. Satellites and radar track the storm's path and strength (1) so forecasters can say which areas will be hit, giving days of warning (1). People are told to evacuate inland to safe shelters (1), so fewer are in the path of the storm surge and winds (1).
-7. Primary, e.g. houses destroyed, power lines down, flooding, deaths (any two with figures) [2]; secondary, e.g. disease from contaminated water, food shortage, homelessness, loss of jobs (any two) [2].
-8. Poor housing collapses (1); low-lying land and slums more exposed (1); poor roads and communications make evacuation and warnings harder (1); few shelters (1); less money for defences and emergency services, and slow aid (1); more deaths from secondary effects such as disease (1). Use a comparison with figures, e.g. Haiyan and Katrina.
+1. The movement of sand and pebbles along a coast (1) by waves that approach at an angle, with swash up the beach and backwash straight down (1). [2]
+2. Any two: constructive waves are low, destructive are high; constructive have strong swash, destructive have strong backwash; constructive deposit, destructive erode; frequency differs. [2]
+3. Hydraulic action. [1]
+4. Waves erode a crack in a headland by hydraulic action and abrasion forming a cave (1); the cave erodes through to form an arch (1); the arch roof is weakened and collapses (1); the remaining pillar of rock is a stack (1). [4]
+5. Longshore drift moves sand along the coast (1); where the coastline changes direction, material is deposited (1) in sheltered water so a ridge builds out to sea (1); a change in wind direction can create a hooked end (1). [4]
+6. Climate change/rising sea temperature causes bleaching (2); overfishing or pollution, e.g. dynamite fishing or fertiliser runoff damages the reef (2). [4]
+7. Roots absorb/slow wave energy (1); trap sediment and stabilise the soil, reducing erosion (1); protect from storm surge/tsunami flooding (1). [3]
+8. Named place, causes of erosion, management (hard and soft) with details, evaluation, judgement. [7]
 
 </details>
 
 ## Plan for this hour
 
-- 10 min: Learn the formation conditions and draw/label a cross-section of a cyclone (eye, eyewall, cumulonimbus, rising and sinking air).
-- 10 min: Learn the Saffir-Simpson table idea, distribution map, and names (hurricane/typhoon/cyclone).
-- 10 min: Learn primary and secondary impacts, and the vulnerability table.
-- 20 min: Prepare your named case study on a card (facts, impacts, responses, evaluation) and a contrast case study. Practise the 6-mark question.
-- 10 min: Practice questions and quiz.
+- 10 min: Waves and processes; learn the constructive/destructive table; questions 1–3.
+- 15 min: Landforms: sketch headland to stump and spit; question 4–5.
+- 15 min: Coral reefs and mangroves (conditions, value, threats); questions 6–7.
+- 10 min: Hard and soft management and your case study.
+- 10 min: Write question 8; quiz and flashcards.

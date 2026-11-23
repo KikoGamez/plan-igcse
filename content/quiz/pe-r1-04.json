@@ -15,36 +15,35 @@
   },
   {
    "type": "mcq",
-   "q": "HR = 60 bpm and SV = 80 ml. What is cardiac output?",
+   "q": "A performer has a stroke volume of 80 ml and a heart rate of 70 bpm. What is the cardiac output?",
    "options": [
-    "4800 ml/min",
-    "140 ml/min",
-    "480 ml/min",
-    "1.33 litres/min"
+    "150 ml/min",
+    "5,600 ml/min",
+    "560 ml/min",
+    "890 ml/min"
    ],
-   "answer": 0,
-   "why": "Q = HR × SV = 60 × 80 = 4800 ml/min."
+   "answer": 1,
+   "why": "Cardiac output = stroke volume × heart rate = 80 × 70 = 5,600 ml/min."
   },
   {
    "type": "mcq",
-   "q": "What happens to the diaphragm during inspiration?",
+   "q": "Which of these describes the air left in the lungs after the biggest possible exhalation?",
    "options": [
-    "Relaxes and domes upwards",
-    "Contracts and flattens",
-    "Contracts and domes",
-    "Relaxes and flattens"
+    "Tidal volume",
+    "Vital capacity",
+    "Residual volume",
+    "Minute ventilation"
    ],
-   "answer": 1,
-   "why": "It contracts and flattens, increasing chest volume so air flows in."
+   "answer": 2,
+   "why": "Residual volume is the air that always remains in the lungs."
   },
   {
    "type": "short",
-   "q": "Explain how oxygen gets from the alveoli into the blood.",
-   "model": "There is more oxygen in the alveoli than in the blood in the capillaries, so oxygen diffuses across the thin walls into the blood and binds to haemoglobin in red blood cells.",
+   "q": "Explain two ways in which the alveoli are adapted for gaseous exchange.",
+   "model": "The alveoli have walls one cell thick, so diffusion distance is short. They are surrounded by a network of capillaries, which keeps a steep concentration gradient by removing oxygen. They also have a large total surface area.",
    "points": [
-    "higher concentration in alveoli / concentration gradient",
-    "diffuses across thin alveolar and capillary walls",
-    "combines with haemoglobin"
+    "Thin walls / one cell thick, short diffusion distance",
+    "Capillary network maintains concentration gradient (or large surface area)"
    ]
   }
  ]

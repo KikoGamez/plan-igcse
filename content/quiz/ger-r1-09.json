@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "You hear: 'Der Film beginnt um halb acht.' What time is that?",
+   "q": "You hear: « Der Film beginnt nicht um acht, sondern um halb neun. » Wann beginnt der Film?",
    "options": [
+    "8.00",
     "8.30",
-    "7.30",
-    "7.15",
-    "8.15"
+    "9.00",
+    "9.30"
    ],
    "answer": 1,
-   "why": "halb acht = half an hour before eight = 7.30."
+   "why": "nicht … sondern gives the real time; halb neun = 8.30."
   },
   {
    "type": "mcq",
-   "q": "You hear: 'Ich wollte nach Spanien fahren, aber wir fahren jetzt nach Italien.' Where are they going?",
+   "q": "You hear: « Früher bin ich mit dem Bus gefahren, aber jetzt fahre ich mit dem Rad. » Wie fährt sie jetzt?",
    "options": [
-    "Spain",
-    "Italy",
-    "Germany",
-    "Austria"
+    "mit dem Bus",
+    "zu Fuß",
+    "mit dem Rad",
+    "mit dem Auto"
    ],
-   "answer": 1,
-   "why": "The real answer comes after 'aber': Italy."
+   "answer": 2,
+   "why": "früher marks the old habit; jetzt gives the present one."
   },
   {
    "type": "mcq",
-   "q": "Which number is 'sechzig'?",
+   "q": "In Paper 1 Listening, how many times do you hear each recording?",
    "options": [
-    "16",
-    "60",
-    "66",
-    "6"
+    "once",
+    "twice",
+    "three times",
+    "as often as you ask"
    ],
    "answer": 1,
-   "why": "sechzehn = 16; sechzig = 60."
+   "why": "Each text is played twice."
   },
   {
    "type": "short",
-   "q": "A speaker says: 'Ich habe zwei Wochen in Spanien verbracht. Es war zu heiß, deshalb bin ich oft im Hotel geblieben.' How long was the holiday and why did she stay in the hotel?",
-   "model": "Two weeks; it was too hot.",
+   "q": "You hear: « Das Zimmer kostet sechzig Euro pro Nacht. » Write the price in figures and the number it could be confused with.",
+   "model": "60 €; confusable with sechzehn (16).",
    "points": [
-    "two weeks",
-    "too hot"
+    "60",
+    "mentions 16/sechzehn or 6/sechs as the trap"
    ]
   }
  ]

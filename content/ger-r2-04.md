@@ -1,96 +1,79 @@
 # Speaking: mock
 
-> **Goal:** Do a complete Paper 3 speaking mock (picture discussion and two conversations) under timed conditions, record it, and assess it against the mark criteria so you can fix your weakest points before the exam.
+> **Goal:** Do a full Cambridge IGCSE German 0525 speaking mock (10 minutes of preparation, one role play and two topic conversations), record it and assess it against the criteria.
 
 ## Before you start
 
-- **Material:** the Pearson Edexcel International GCSE German (4GN1/03) **Sample Assessment Materials** (on the Pearson qualifications website) contain exemplar pictures and questions for every theme; ask your teacher for the picture and question set your school uses. If you cannot get it, use the cards below.
-- **A partner as examiner** (parent, friend, sibling). They only need to read the German questions aloud, so give them this page. If you are alone, record the questions with pauses and play them back.
-- A phone or laptop to **record** yourself, headphones, a timer, pen, and the checklist below.
-- **A picture for Task A** that has **people, objects and interactions** (a photo of a family at the airport, friends at a café, a class at work). Check with your teacher how your real picture will be selected.
-- Notes only for the review stage. **No notes in the mock.** No dictionary.
+- **Material:** ask your teacher for the official role play cards and topic conversation scripts (the Paper 3 materials are confidential, so a teacher will have to use their own). If you don't have them, use the cards and questions below; they follow the same format.
+- A partner to be the examiner (a parent or friend can read the German lines below even with no German; show them the pronunciation) or record the examiner's questions on your phone with 5-second pauses.
+- Phone or laptop to **record** yourself, a timer, paper to jot the error log.
+- No notes during the mock (the real preparation allows you to study the card only: **no notes**).
 
 ## Exam format reminder
 
-- **Paper 3 Speaking (4GN1/03):** 8–10 minutes, **40 marks, 25%**. Three tasks, in order, recorded without a break:
-  - **Task A:** picture-based discussion (2–3 minutes, 12 marks).
-  - **Task B:** conversation on a second theme (3–3.5 minutes).
-  - **Task C:** conversation on a third theme (3–3.5 minutes). Tasks B and C together: 28 marks (communication and content 12, interaction and spontaneity 8, linguistic knowledge and accuracy 8).
-- Task A, B and C are each on a **different theme** (A: Home and abroad; B: Education and employment; C: Personal life and relationships; D: The world around us; E: Social activities, fitness and health), chosen with a randomisation grid.
-- In Task A the examiner may repeat but not rephrase questions, and may only use the prompts *Warum (nicht)?*, *Noch etwas?* and *Ist das alles?*.
-- You must refer to **past, present and future** and give opinions with reasons.
+- **Paper 3: about 10 minutes (plus 10 minutes' preparation), 40 marks.**
+- **Warm-up** (about 30 seconds, not assessed) → **one role play** (five transactional questions, about 2 minutes; **each 2 marks = 10**) → **two topic conversations** (about 4 minutes each).
+- Role play marks: **2** information communicated, language appropriate and accurate (small errors allowed); **1** partly communicated or ambiguous; **0** no creditable response.
+- Topic conversations: **15 Communication** (relevant, developed answers, opinions and reasons) + **15 Quality of Language** (range of structures and vocabulary, accuracy, pronunciation, fluency).
 
 ## How to do it
 
-1. **0–5 min:** set up. Choose the picture and the three themes, e.g. Task A = Theme A, Task B = Theme B, Task C = Theme E (or use the card below). Start recording.
-2. **5–17 min:** the mock: **Task A** (about 3 minutes), **Task B** (3–3.5), **Task C** (3–3.5). No notes. Examiner keeps to time.
-3. **17–20 min:** break; get the notes.
-4. **20–40 min:** **listen to the recording once** with the checklist: write down timestamps of one good and one weak moment for each task; tick the criteria below.
-5. **40–55 min:** **redo the three weakest answers**: write them as key-word cards (not scripts), then record again.
-6. **55–60 min:** write an error log with your top 3 targets.
+1. **0–10 min:** **Preparation.** Read **Role play card A** below; think about what the examiner might ask; no writing. Set up the recording.
+2. **10–12 min:** **Warm-up** (not marked): *Wie heißt du? Wie alt bist du? Woher kommst du?*
+3. **12–14 min:** **Role play A.** Examiner asks the five questions in the table.
+4. **14–22 min:** **Two topic conversations** (4 minutes each): choose two topics from A–E.
+5. **22–40 min:** **Listen back** to the whole recording. Score with the checklist; note the timestamps of strong and weak moments.
+6. **40–55 min:** Re-record your **three weakest answers** (using only key words), then repeat the role play card B quickly.
+7. **55–60 min:** Error log: three errors with corrections, one rule, one phrase to use next time.
 
-### Mock card for the examiner
+### Role play card A (examiner = Mitarbeiter am Bahnhof, use *Sie*)
+You are at a train station in Germany. Tasks: (1) say where you want to go; (2) say if you want a single or return; (3) say when you want to travel; (4) ask the price; (5) ask which platform.
+Examiner script: *Guten Tag! Wohin möchten Sie fahren? · Einfache Fahrt oder Hin- und Rückfahrt? · Wann möchten Sie fahren? · Das macht 24 Euro. Haben Sie noch eine Frage? · Ja, bitte? / Der Zug fährt um 10.15 Uhr ab.*
+Sample answers: *Ich möchte nach München fahren. · Eine Hin- und Rückfahrt, bitte. · Morgen früh, so gegen neun Uhr. · Wie viel kostet das? · Von welchem Gleis fährt der Zug ab?*
 
-**Task A (picture):** (Theme A, a family at an airport; or your own picture)
-1. *Beschreibe das Bild bitte.*
-2. *Was machen die Leute auf dem Bild?*
-3. *Was für Wetter ist es wahrscheinlich?*
-4. *Warum ist es wichtig, Urlaub zu machen?*
-5. *Was sind die Vor- und Nachteile davon, im Ausland Urlaub zu machen?*
-(Prompts only: *Warum (nicht)? Noch etwas? Ist das alles?*)
+### Role play card B (examiner = Verkäufer in einem Kleidungsgeschäft, use *Sie*)
+Tasks: (1) say what you are looking for; (2) say what colour; (3) say your size; (4) say it is too expensive; (5) say whether you will take it.
+Sample answers: *Ich suche einen Pullover. · Blau, bitte. · Ich habe Größe M. · Der ist leider zu teuer. · Ich nehme ihn / Ich überlege es mir noch.*
 
-**Task B (Theme B, Education and employment):**
-- *Was ist dein Lieblingsfach und warum?*
-- *Was hast du letzte Woche in der Schule gemacht?*
-- *Was möchtest du nach der Schule machen?*
-- *Was sind die Vorteile von Schulausflügen?*
-- *Welchen Beruf möchtest du später haben und warum?*
-
-**Task C (Theme E, Social activities, fitness and health):**
-- *Was machst du in deiner Freizeit?*
-- *Was hast du letztes Wochenende gemacht?*
-- *Wie wichtig ist es, sich gesund zu ernähren?*
-- *Was hältst du von sozialen Medien?*
-- *Was wirst du nächstes Jahr in deiner Freizeit machen?*
-
-(Extra questions to use if time remains: Theme C: *Beschreibe deine Familie. Wer ist dein Vorbild?*; Theme D: *Was tust du für die Umwelt? Wie fährst du am liebsten?*)
+### Topic conversation prompts (examiner chooses two areas; choose 8–10 questions)
+- **A:** *Was isst du gern? · Wie ist ein typischer Tag bei dir? · Wie kommst du zur Schule? · Was machst du für deine Gesundheit? · Wohin bist du im Urlaub gefahren?*
+- **B:** *Beschreibe deine Familie. · Wer ist dein bester Freund / deine beste Freundin? · Was machst du gern in deiner Freizeit? · Was hast du letztes Wochenende gemacht? · Wie ist dein Zimmer? · Was trägst du gern?*
+- **C:** *Wie ist deine Stadt? · Was machst du für die Umwelt? · Wie wichtig ist das Handy für dich? · Wie ist das Wetter bei dir? · Wo kaufst du gern ein?*
+- **D:** *Wie ist deine Schule? · Welche Fächer magst du? · Was möchtest du später werden? · Hast du ein Praktikum gemacht? · Was sind die Vor- und Nachteile von Schuluniformen?*
+- **E:** *Welche Sprachen sprichst du? · Welches Land möchtest du besuchen? · Wie feiert ihr Weihnachten? · Was weißt du über Deutschland?*
 
 ## Exam technique for this paper
 
-- **Task A:** your first answer is the longest: 8–10 details (who, where, clothes, action, mood, weather) and a guess (*Ich glaube, dass …; wahrscheinlich …*). Then answer the other four questions with an **opinion and a reason**.
-- **Develop every answer**: opinion → reason → example (past or future) → contrast. Do not wait to be asked *Warum?*.
-- Use **past, present and future** in both conversations, with at least one conditional (*Ich würde gern …*).
-- **Spontaneity:** answer at once; no memorised paragraphs that don't fit the question. If you don't understand, say *Können Sie das bitte wiederholen?*.
-- If you lose a word, **paraphrase** and keep going.
-- **Pronunciation:** *w* = v; *v* = f; *ei* = "eye"; *ie* = "ee"; *ch* (*ich* soft, *Buch* harsh); *z* = ts; *sch, sp, st* at the start of words; stress the first syllable.
-- Keep verbs in the right place (*weil … habe*; *Nächstes Jahr werde ich …*).
-- Speak at a natural pace and finish your answers; don't stop when you have a sentence.
+- **Role play:** one clear, complete sentence per prompt; answer **exactly** what is asked. Use *Sie* with adults. Ask the question on the card in a complete form (*Wie viel kostet das?*). If you don't understand: *Wie bitte? Können Sie das wiederholen?*
+- **Conversation, Communication:** give **opinions with reasons**, develop answers to 3–4 sentences, stay on the question. The more you can say without the examiner using the alternative question, the higher the band.
+- **Conversation, Language:** show **range**: present, Perfekt/imperfect, future (*werden*), conditional (*würde*), *weil/dass/wenn/obwohl*, comparatives, modal verbs, adjectives with endings.
+- **OPRE:** Opinion → Point → Reason (*weil*) → Example/other time frame.
+- **Fluency:** *Das ist eine gute Frage. · Also, … · Eigentlich … · Ich denke, dass …*
+- **Pronunciation:** *ch* (*ich* soft, *Buch* back), *ei* = "eye", *ie* = "ee", *w* = "v", *z* = "ts", rounded *ü/ö*.
+- **Don't recite.** A rehearsed script that doesn't answer the question loses Communication marks.
 
 ## Checklist while marking
 
-- [ ] **Task A:** gave 8+ details in the description? Opinions with reasons (*weil*)? Needed many prompts?
-- [ ] **Tasks B/C communication and content:** extended answers? opinions with reasons? wide vocabulary, some uncommon words?
-- [ ] **Interaction and spontaneity:** answered at once? developed without prompting? repair strategies when stuck?
-- [ ] **Accuracy:** tenses (past/present/future) correct? word order after *weil/dass*? sein/haben in the perfect? genders and cases?
-- [ ] **Pronunciation:** which words sounded English? (*Schule, Wasser, Vater, Familie, ich*).
-- [ ] Recording length: Task A ≤ 3 min; B and C each 3–3.5 min; total 8–10 min.
-- [ ] Self-assess with the level descriptors (see "Speaking: picture discussion and conversations"): which level for each strand?
-- [ ] Targets: 1. ____ 2. ____ 3. ____ . Re-record those answers next time.
+- **Role play:** for each of the five prompts, did I communicate the information (2), partly (1), not at all (0)? Did I use *Sie*? Did I ask the right question?
+- **Development:** how many answers had 3+ sentences? Any one-word answers?
+- **Opinions + reasons:** count the *weil* clauses (aim for at least one per answer).
+- **Tenses:** tally present / past / future / conditional. Did I use at least three?
+- **Accuracy:** verb position (verb second; verb at end after *weil*); Perfekt auxiliary (*bin gegangen*); case after *mit/für*; gender.
+- **Pronunciation and fluency:** long pauses? English words slipping in? Where did I stumble?
+- **Self-score:** Role play ___/10 · Communication ___/15 · Language ___/15. Be honest against the band descriptors (13–15 very good; 10–12 good; 7–9 satisfactory).
+- **Error log:** error → correction → rule; plus "what I will change next time".
 
 ## Quick-fire revision
 
-- Paper 3: 8–10 minutes, 40 marks, 25%: Task A picture (12), Tasks B and C conversations (28).
-- Describe with: *Auf dem Bild sehe ich … ; Im Vordergrund/Hintergrund …; links/rechts/in der Mitte …*
-- Guess: *Sie sehen glücklich aus, weil … ; Ich glaube, dass … ; Wahrscheinlich …*
-- Opinion: *Meiner Meinung nach … ; Ich finde … gut/schlecht, weil …*
-- Past: *Letztes Wochenende bin ich … gegangen/gefahren; Ich habe … gemacht.*
-- Future: *Nächstes Jahr werde ich … ; Ich möchte … werden.*
+- **Speaking = 40 marks: role play 10 (5 × 2), conversation 30 (15 + 15).**
+- **10 minutes' preparation, no notes. Warm-up not marked.**
+- Role play: *Ich möchte … · Haben Sie …? · Wie viel kostet das? · Ich nehme … · Die Rechnung, bitte. · Kann ich mit Karte zahlen?*
+- Opinion: *Meiner Meinung nach … · Ich finde, dass … · Ich glaube, …*
+- Reason: *…, weil … · …, denn … · …, deshalb …*
+- Past: *Letztes Wochenende bin ich … gegangen / habe ich … gemacht.*
+- Future: *Nächstes Jahr werde ich …; Ich möchte …*
 - Conditional: *Wenn ich Zeit hätte, würde ich …*
-- Contrast: *aber, trotzdem, allerdings, obwohl*.
-- School: *Mein Lieblingsfach ist … , weil … ; Ich bin gut in …*
-- Free time: *Ich spiele gern … ; Ich treffe mich mit Freunden.*
-- Health: *Ich ernähre mich gesund; Ich mache dreimal pro Woche Sport.*
-- Environment: *Ich recycle und fahre mit dem Rad.*
-- Repair: *Das ist ein Ort, wo … ; Können Sie das bitte wiederholen?*
-- Pronunciation: *w* = v, *ei* = eye, *ie* = ee, *ch* two sounds.
-- Don't stop at one sentence: add reason + example every time.
+- Repair: *Wie bitte? · Wie sagt man … auf Deutsch? · Ich meine …*
+- Time fillers: *Das ist eine gute Frage. · Also … · Eigentlich …*
+- Key verbs: *sein, haben, gehen, machen, spielen, fahren, wohnen, möchten.*
+- Smile and sound interested: intonation counts.

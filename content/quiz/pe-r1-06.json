@@ -5,45 +5,45 @@
    "type": "mcq",
    "q": "Which test measures flexibility?",
    "options": [
-    "Cooper 12-minute run",
-    "Sit and reach",
-    "Grip dynamometer",
-    "Ruler drop"
+    "Vertical Jump",
+    "Sit and Reach",
+    "Ruler Drop",
+    "30-Metre Sprint"
    ],
    "answer": 1,
-   "why": "The sit and reach test measures flexibility of the lower back and hamstrings."
+   "why": "The Sit and Reach test measures the range of movement of the lower back and hamstrings."
   },
   {
    "type": "mcq",
-   "q": "The ability to do strength movements quickly is",
+   "q": "Which component is power?",
    "options": [
-    "muscular endurance",
-    "agility",
-    "power",
-    "coordination"
+    "Maximum force in one contraction",
+    "Strength × speed",
+    "Changing direction quickly",
+    "The range of movement at a joint"
+   ],
+   "answer": 1,
+   "why": "Power is strength × speed, the ability to produce force quickly."
+  },
+  {
+   "type": "mcq",
+   "q": "The Vertical Jump Test is used to measure:",
+   "options": [
+    "Agility",
+    "Strength",
+    "Power",
+    "Speed"
    ],
    "answer": 2,
-   "why": "Power = strength × speed."
-  },
-  {
-   "type": "mcq",
-   "q": "A fitness test gives the same result when repeated under the same conditions. It is",
-   "options": [
-    "valid",
-    "reliable",
-    "objective",
-    "sport-specific"
-   ],
-   "answer": 1,
-   "why": "Reliable means consistent, repeatable results."
+   "why": "The vertical jump measures the explosive power of the legs."
   },
   {
    "type": "short",
-   "q": "Give the difference between muscular strength and muscular endurance with a sporting example of each.",
-   "model": "Muscular strength is the maximum force a muscle can apply in one contraction, e.g. a 1-rep max lift. Muscular endurance is the ability to contract repeatedly without tiring, e.g. a rower in a 2000 m race.",
+   "q": "Give two reasons why a performer carries out fitness tests.",
+   "model": "To identify strengths and weaknesses so training can be targeted, and to monitor improvement by retesting after a training programme.",
    "points": [
-    "strength = maximum force in a single effort + example",
-    "endurance = repeated contractions without fatigue + example"
+    "Identify strengths and weaknesses / inform training",
+    "Monitor improvement / compare with norms / motivation"
    ]
   }
  ]

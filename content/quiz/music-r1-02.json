@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many sharps are in the key signature of D major?",
+   "q": "What is the note on the middle line of the alto clef?",
    "options": [
-    "1",
-    "2",
-    "3",
-    "4"
+    "Middle C",
+    "G",
+    "Middle D",
+    "B"
    ],
-   "answer": 1,
-   "why": "D major has F sharp and C sharp."
+   "answer": 0,
+   "why": "The alto clef places middle C on the middle line."
   },
   {
    "type": "mcq",
-   "q": "Which scale is the natural minor with the 7th note raised?",
+   "q": "Which interval is C up to A?",
    "options": [
-    "Melodic minor",
-    "Pentatonic",
-    "Harmonic minor",
-    "Chromatic"
-   ],
-   "answer": 2,
-   "why": "The harmonic minor raises the 7th by a semitone."
-  },
-  {
-   "type": "mcq",
-   "q": "What is the interval from C up to G?",
-   "options": [
-    "Perfect 4th",
-    "Perfect 5th",
+    "Minor 6th",
     "Major 6th",
-    "Major 3rd"
+    "Perfect 5th",
+    "Major 7th"
    ],
    "answer": 1,
-   "why": "C to G is five letter names and 7 semitones: a perfect 5th."
+   "why": "C to A is 9 semitones and A is in the C major scale: a major 6th."
+  },
+  {
+   "type": "mcq",
+   "q": "A clarinet in B♭ is written C. Which note sounds?",
+   "options": [
+    "D",
+    "B♭",
+    "A",
+    "C"
+   ],
+   "answer": 1,
+   "why": "B♭ instruments sound a major 2nd lower than written."
   },
   {
    "type": "short",
-   "q": "What is a sequence in a melody?",
-   "model": "A short melodic idea repeated at a higher or lower pitch.",
+   "q": "Describe the difference between an appoggiatura and an acciaccatura.",
+   "model": "An appoggiatura is a leaning grace note that takes part of the main note's value and often creates a dissonance; an acciaccatura is a very quick crushed note, written with a slash, played just before the beat.",
    "points": [
-    "short melodic idea repeated",
-    "at a different pitch"
+    "appoggiatura takes time/leans onto main note",
+    "acciaccatura is quick/crushed, slashed"
    ]
   }
  ]

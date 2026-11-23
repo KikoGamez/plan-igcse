@@ -3,155 +3,156 @@
  "cards": [
   {
    "f": "Rule of thirds",
-   "b": "Split the frame into a 3×3 grid and place the subject on lines or intersections."
+   "b": "Divide the frame into a 3×3 grid; place the subject on lines or crossings."
   },
   {
    "f": "Leading lines",
-   "b": "Lines in the scene (roads, fences) that lead the viewer's eye to the subject."
+   "b": "Lines such as roads or fences that lead the eye to the subject."
   },
   {
    "f": "Depth of field",
-   "b": "How much of the image is sharp from front to back. Low f-number = shallow."
+   "b": "The range from near to far that is sharp; wide aperture gives shallow depth of field."
   },
   {
    "f": "Aperture",
-   "b": "The lens opening, shown as f-number, controlling light and depth of field."
+   "b": "Lens opening controlling light and depth of field; small f-number is wide."
   },
   {
    "f": "Shutter speed",
-   "b": "How long the sensor is exposed. Fast freezes movement; slow blurs it."
+   "b": "How long the shutter is open; fast freezes motion, slow blurs it."
   },
   {
-   "f": "ISO",
-   "b": "Camera's sensitivity to light. High ISO brightens dark scenes but adds grain."
+   "f": "Side light",
+   "b": "Light from the side; long shadows emphasise texture and form."
   },
   {
    "f": "Golden hour",
-   "b": "The low, warm, soft light near sunrise and sunset."
-  },
-  {
-   "f": "Silhouette",
-   "b": "A dark shape against a light background, from backlighting."
+   "b": "Soon after sunrise or before sunset: warm, soft light."
   },
   {
    "f": "Contact sheet",
-   "b": "A grid of small images of a whole shoot for comparing and selecting."
+   "b": "Small photographs of one subject on a page; circle and explain the best."
   },
   {
    "f": "Photogram",
-   "b": "A camera-less image made by placing objects on light-sensitive paper. Man Ray called his rayographs."
+   "b": "Image made by exposing objects on light-sensitive paper; Man Ray made rayographs."
   },
   {
-   "f": "Henri Cartier-Bresson",
-   "b": "French street photographer known for 'the decisive moment'."
+   "f": "Cartier-Bresson",
+   "b": "Street photographer; 'the decisive moment'."
+  },
+  {
+   "f": "Dorothea Lange",
+   "b": "Documentary photographer of the Great Depression; Migrant Mother, 1936."
   },
   {
    "f": "Ansel Adams",
-   "b": "American photographer of black-and-white landscapes with a wide tonal range."
+   "b": "Black-and-white landscapes with a very wide tonal range."
   },
   {
-   "f": "Cindy Sherman",
-   "b": "Photographer of staged self-portraits in many roles, exploring identity."
+   "f": "David Hockney joiners",
+   "b": "Collages of many photographs showing a scene from many viewpoints."
   },
   {
-   "f": "Why show before and after edits?",
-   "b": "It shows experiment and decision-making (AO2); add a note saying why you made the change."
+   "f": "Layers and masks",
+   "b": "Digital tools for combining and editing parts of an image separately."
   },
   {
-   "f": "AI use in Pearson Art and Design",
-   "b": "Any use of Artificial Intelligence must be clearly referenced."
+   "f": "Cite secondary images",
+   "b": "Say who made an image and where it came from; do not pass it off as your own."
   }
  ],
  "gaps": [
   {
-   "s": "The grid dividing the frame into nine is the rule of ___.",
+   "s": "The part of a photograph that is sharp from near to far is the depth of ___.",
    "a": [
-    "thirds"
+    "field"
    ]
   },
   {
-   "s": "Lines that lead the eye to the subject are ___ lines.",
-   "a": [
-    "leading"
-   ]
-  },
-  {
-   "s": "How long the sensor is exposed is the ___ speed.",
-   "a": [
-    "shutter"
-   ]
-  },
-  {
-   "s": "A camera-less image on light-sensitive paper is a ___.",
-   "a": [
-    "photogram"
-   ]
-  },
-  {
-   "s": "A dark shape against bright light is a ___.",
-   "a": [
-    "silhouette"
-   ]
-  },
-  {
-   "s": "A page of small frames from a shoot is a ___ sheet.",
+   "s": "A page of small photographs of one subject is a ___ sheet.",
    "a": [
     "contact"
    ]
   },
   {
-   "s": "Henri Cartier-Bresson's famous idea is the 'decisive ___'.",
+   "s": "An image made by exposing objects on light-sensitive paper is a ___.",
    "a": [
-    "moment"
+    "photogram"
    ]
   },
   {
-   "s": "A low f-number gives a ___ depth of field.",
+   "s": "Photographs you take yourself are ___ sources.",
    "a": [
-    "shallow",
-    "small"
+    "primary",
+    "first-hand",
+    "first hand"
+   ]
+  },
+  {
+   "s": "The photographer who spoke of 'the decisive moment' is Henri ___-Bresson.",
+   "a": [
+    "cartier"
+   ]
+  },
+  {
+   "s": "Hockney's photo collages are called ___.",
+   "a": [
+    "joiners"
+   ]
+  },
+  {
+   "s": "A fast shutter speed will ___ movement.",
+   "a": [
+    "freeze"
+   ]
+  },
+  {
+   "s": "Soft, even light on a cloudy day is called ___ light.",
+   "a": [
+    "overcast"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain how light can change a photograph's mood.",
-   "model": "Soft low warm light feels calm; hard side light makes strong shadows and drama; backlight makes silhouettes. Changing time or light direction changes the mood.",
+   "q": "Describe how to improve a photograph's composition.",
+   "model": "Crop in to remove distractions, place the subject on a third, use leading lines or a frame within a frame, and choose an unusual viewpoint.",
    "points": [
-    "soft vs hard/side light",
-    "effect on mood/shadows"
+    "two composition techniques",
+    "explained effect"
    ]
   },
   {
-   "q": "Describe how to make a photograph the start of a drawing or painting.",
-   "model": "Crop to the best composition, print in black and white to study tone, transfer main shapes by sketch or grid, then interpret it in your own way.",
+   "q": "Compare side light with overcast light.",
+   "model": "Side light makes long shadows that emphasise texture and form. Overcast light is soft and even, with low contrast, so colours are clear but texture looks flatter.",
    "points": [
-    "crop/tone study",
-    "transfer and develop own way"
+    "side light: shadows/texture",
+    "overcast: soft/even"
    ]
   },
   {
-   "q": "Give two reasons for using your own photographs.",
-   "model": "They are primary sources that show your own observation (AO3) and decisions, and you control viewpoint, light and crop for your intention.",
+   "q": "Describe two digital edits and their effects.",
+   "model": "Cropping improves composition; converting to black and white and raising contrast focuses attention on tone and texture.",
    "points": [
-    "primary source/own observation",
-    "control of viewpoint/light"
+    "edit one with effect",
+    "edit two with effect"
    ]
   },
   {
-   "q": "What does shutter speed do creatively?",
-   "model": "A fast speed freezes movement; a slow speed blurs it, showing motion.",
+   "q": "How could a student link photography to AO3?",
+   "model": "Research a photographer such as Dorothea Lange or Hockney, make photographs in their style and write what was learned and how it informs the project.",
    "points": [
-    "fast freezes",
-    "slow blurs"
+    "research photographer",
+    "own work in style with reflection"
    ]
   },
   {
-   "q": "How can you show AO2 through editing?",
-   "model": "Try several edits such as crop, black and white and contrast, show before and after, and explain which you select and why.",
+   "q": "Why use your own photographs rather than only internet images?",
+   "model": "They are first-hand sources showing personal looking and decisions, adding variety for AO1, and avoid copyright problems.",
    "points": [
-    "several edits tested",
-    "before/after with reason"
+    "first-hand evidence",
+    "variety/originality"
    ]
   }
  ]

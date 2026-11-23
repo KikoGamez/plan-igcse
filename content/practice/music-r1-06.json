@@ -2,158 +2,156 @@
  "id": "music-r1-06",
  "cards": [
   {
-   "f": "Timbre",
-   "b": "The tone colour or quality of a sound."
+   "f": "String quartet",
+   "b": "Two violins, viola and cello."
   },
   {
-   "f": "Arco",
-   "b": "Played with the bow."
+   "f": "Piano trio",
+   "b": "Violin, cello and piano."
   },
   {
-   "f": "Pizzicato",
-   "b": "Plucked strings."
+   "f": "Orchestral families",
+   "b": "Strings, woodwind, brass, percussion."
+  },
+  {
+   "f": "Basso continuo",
+   "b": "Baroque bass line and chords: harpsichord or organ plus cello or double bass."
+  },
+  {
+   "f": "Concertino and ripieno",
+   "b": "Small group of soloists and the full orchestra in a concerto grosso."
+  },
+  {
+   "f": "Pizzicato / arco",
+   "b": "Plucked / bowed."
   },
   {
    "f": "Tremolo",
-   "b": "Very fast repeated bow strokes or note repetition."
+   "b": "Very fast repeated bow strokes or notes; shimmering, tense."
   },
   {
-   "f": "Col legno",
-   "b": "Hitting the strings with the wood of the bow."
+   "f": "Glissando",
+   "b": "A slide through all the notes between two pitches."
   },
   {
-   "f": "Con sordino",
-   "b": "With a mute."
+   "f": "Portamento",
+   "b": "A smooth slide in voice or strings from one note to the next."
   },
   {
-   "f": "Double reed instruments",
-   "b": "Oboe, cor anglais, bassoon."
+   "f": "Double stopping",
+   "b": "Playing two strings at the same time."
   },
   {
-   "f": "Single reed instruments",
-   "b": "Clarinet and saxophone."
+   "f": "Melisma / syllabic",
+   "b": "Many notes on one syllable / one note per syllable."
   },
   {
-   "f": "How brass players make sound",
-   "b": "By buzzing their lips into a mouthpiece."
+   "f": "Word-painting",
+   "b": "Music that depicts the meaning of the words."
   },
   {
-   "f": "Tuned percussion",
-   "b": "Timpani, xylophone, glockenspiel, marimba, vibraphone."
+   "f": "Four voice types",
+   "b": "Soprano, alto, tenor, bass."
   },
   {
-   "f": "Falsetto",
-   "b": "A light high register used by male singers above their normal range."
+   "f": "Sample and loop",
+   "b": "A short recorded sound; a repeated sample or pattern."
   },
   {
-   "f": "Melisma",
-   "b": "Many notes sung to one syllable."
-  },
-  {
-   "f": "Scat singing",
-   "b": "Improvised vocals using nonsense syllables."
-  },
-  {
-   "f": "Sampling",
-   "b": "Taking a short recorded sound and reusing it."
-  },
-  {
-   "f": "MIDI",
-   "b": "A digital system that lets instruments and computers send note information."
+   "f": "Reverb / delay",
+   "b": "Room ambience effect / repeated echoes of a sound."
   }
  ],
  "gaps": [
   {
-   "s": "Plucked strings are played ___.",
+   "s": "A plucked string is played ___.",
    "a": [
     "pizzicato"
    ]
   },
   {
-   "s": "A nasal double-reed woodwind is the ___.",
+   "s": "A string played with a bow is ___.",
    "a": [
-    "oboe"
+    "arco"
    ]
   },
   {
-   "s": "The lowest orchestral string instrument is the double ___.",
+   "s": "The lowest male voice is the ___.",
    "a": [
     "bass"
    ]
   },
   {
-   "s": "Singing many notes on one syllable is called ___.",
+   "s": "Several notes sung to one syllable is a ___.",
    "a": [
-    "melisma",
-    "melismatic"
+    "melisma"
    ]
   },
   {
-   "s": "Brass players make sound by buzzing their ___.",
+   "s": "Recording a new part over an existing one is ___.",
    "a": [
-    "lips"
+    "overdubbing"
    ]
   },
   {
-   "s": "The highest female voice is the ___.",
+   "s": "The Hindustani drone instrument is the ___.",
    "a": [
-    "soprano"
+    "tanpura"
    ]
   },
   {
-   "s": "Layering separately recorded parts is called ___-tracking.",
+   "s": "The Baroque group of soloists in a concerto grosso is the ___.",
    "a": [
-    "multi",
-    "multi-"
+    "concertino"
    ]
   },
   {
-   "s": "The tone colour of an instrument is its ___.",
+   "s": "A tango button accordion is the ___.",
    "a": [
-    "timbre",
-    "sonority"
+    "bandoneon",
+    "bandoneón"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe how a clarinet produces sound.",
-   "model": "Air blown across a single reed makes it vibrate, and keys change the pitch.",
+   "q": "Describe the role of basso continuo in Baroque music.",
+   "model": "A keyboard (harpsichord or organ) plays chords and a cello or double bass plays the bass line, giving the harmonic foundation.",
    "points": [
-    "single reed",
-    "vibrates"
+    "keyboard chords",
+    "cello/bass line"
    ]
   },
   {
-   "q": "Name two electric guitar effects.",
-   "model": "Distortion and reverb (also wah-wah, delay, chorus).",
+   "q": "State the difference between glissando and pizzicato.",
+   "model": "Glissando is a slide through the notes between two pitches; pizzicato is a plucked string.",
    "points": [
-    "effect one",
-    "effect two"
+    "glissando definition",
+    "pizzicato definition"
    ]
   },
   {
-   "q": "Describe belting.",
-   "model": "A powerful chest voice used in musical theatre and pop, often at high pitch.",
+   "q": "List four instruments of a salsa band.",
+   "model": "Any four: congas, bongos, timbales, clave, güiro, cowbell, piano, bass, trumpets, trombones.",
    "points": [
-    "powerful",
-    "chest voice"
+    "first correct feature from the list (1 mark)",
+    "second correct feature from the list (1 mark)"
    ]
   },
   {
-   "q": "Explain looping.",
-   "model": "A section of sound or phrase is repeated continuously to form a groove.",
+   "q": "What is word-painting? Give an example.",
+   "model": "Music that imitates the meaning of the words, e.g. a rising line on the word heaven.",
    "points": [
-    "repeated",
-    "groove"
+    "definition",
+    "example"
    ]
   },
   {
-   "q": "Why can't a harpsichord change dynamics by touch?",
-   "model": "Its strings are plucked mechanically, so the volume stays the same however hard the key is pressed.",
+   "q": "Describe the use of multi-tracking in popular music.",
+   "model": "Separate parts are recorded on different tracks and then mixed together, allowing layering and editing.",
    "points": [
-    "plucked",
-    "same volume"
+    "separate tracks",
+    "mixed/layered"
    ]
   }
  ]

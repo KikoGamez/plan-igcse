@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "In Indian classical music, a tala is:",
+   "q": "Which instrument keeps the drone in Hindustani classical music?",
    "options": [
-    "A drone instrument",
-    "A repeating rhythmic cycle",
-    "A type of melodic framework",
-    "A solo drum"
-   ],
-   "answer": 1,
-   "why": "Tala is the rhythmic cycle; raga is the melodic framework."
-  },
-  {
-   "type": "mcq",
-   "q": "Which instrument is associated with Irish folk music?",
-   "options": [
-    "Djembe",
+    "Tabla",
     "Sitar",
-    "Bodhrán",
-    "Saron"
+    "Tanpura",
+    "Oud"
    ],
    "answer": 2,
-   "why": "The bodhrán is an Irish frame drum."
+   "why": "The tanpura plays the drone throughout; tabla keeps the tāla."
   },
   {
    "type": "mcq",
-   "q": "What is gamelan's colotomic structure?",
+   "q": "Which is typical of salsa?",
    "options": [
-    "A cycle whose points are marked by gongs",
-    "A single melody without accompaniment",
-    "Free improvisation without pulse",
-    "Music in two keys at once"
+    "A pentatonic heterophonic texture",
+    "A clave rhythm with call and response",
+    "A build up and drop made with a synthesiser",
+    "A bandoneón solo with no percussion"
    ],
-   "answer": 0,
-   "why": "Gongs mark fixed points in the repeating cycle."
+   "answer": 1,
+   "why": "Clave plus coro answering the sonero is core salsa."
+  },
+  {
+   "type": "mcq",
+   "q": "A texture where each player plays their own decorated version of the same tune is...",
+   "options": [
+    "homophonic",
+    "polyphonic",
+    "heterophonic",
+    "monophonic"
+   ],
+   "answer": 2,
+   "why": "Heterophonic: typical of silk and bamboo and Arab takht music."
   },
   {
    "type": "short",
-   "q": "Describe two features of West African drumming.",
-   "model": "Several drums play different rhythms together (polyrhythm), with call and response between leader and group; a master drummer improvises over repeated ostinati.",
+   "q": "Describe how a Hindustani rāga performance develops. [3]",
+   "model": "It begins with a slow, free ālāp with no tabla, then jōr with a steady pulse, then a very fast jhālā, and finally a gat with tabla playing a fixed composition.",
    "points": [
-    "Polyrhythm / cross-rhythms",
-    "Call and response / improvisation"
+    "alap slow/free/no tabla",
+    "jor then jhala (faster)",
+    "gat with tabla"
    ]
   }
  ]

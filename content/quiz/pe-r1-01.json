@@ -3,48 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which bones protect the heart and lungs?",
+   "q": "Which type of tissue joins bone to bone and stabilises a joint?",
    "options": [
-    "Vertebrae",
-    "Ribs",
-    "Pelvis",
-    "Scapula"
-   ],
-   "answer": 1,
-   "why": "The ribs form a cage around the heart and lungs."
-  },
-  {
-   "type": "mcq",
-   "q": "What joins muscle to bone?",
-   "options": [
+    "Tendon",
     "Ligament",
     "Cartilage",
-    "Tendon",
     "Synovial membrane"
    ],
-   "answer": 2,
-   "why": "Tendons join muscle to bone; ligaments join bone to bone."
+   "answer": 1,
+   "why": "Ligaments join bone to bone; tendons join muscle to bone."
   },
   {
    "type": "mcq",
-   "q": "A footballer straightens the knee to kick. What is this movement?",
+   "q": "Which pair of joints are both hinge joints?",
    "options": [
-    "Flexion",
-    "Extension",
-    "Abduction",
-    "Circumduction"
+    "Shoulder and hip",
+    "Elbow and knee",
+    "Hip and knee",
+    "Shoulder and elbow"
    ],
    "answer": 1,
-   "why": "Extension increases the angle at the joint."
+   "why": "The elbow and knee only flex and extend; shoulder and hip are ball and socket."
+  },
+  {
+   "type": "mcq",
+   "q": "A swimmer raises her arms sideways away from her body. What is this movement?",
+   "options": [
+    "Adduction",
+    "Flexion",
+    "Abduction",
+    "Rotation"
+   ],
+   "answer": 2,
+   "why": "Abduction is movement away from the midline of the body."
   },
   {
    "type": "short",
-   "q": "State two functions of the skeleton, each with a sporting example.",
-   "model": "Protection: the cranium protects the brain when a cyclist falls. Movement: bones act as levers so a footballer can kick a ball.",
+   "q": "Explain the functions of synovial fluid and cartilage in a synovial joint.",
+   "model": "Synovial fluid lubricates the joint so the bones move smoothly with less friction. Cartilage covers the ends of the bones, reducing friction and absorbing shock.",
    "points": [
-    "function named (e.g. protection, support, movement, blood cell production, mineral storage)",
-    "linked to a correct sporting example",
-    "second function with example"
+    "Synovial fluid lubricates the joint / reduces friction",
+    "Cartilage covers bone ends and absorbs shock / prevents bone wear"
    ]
   }
  ]

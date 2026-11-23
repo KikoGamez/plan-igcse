@@ -1,132 +1,154 @@
 # Art movements: Renaissance to Impressionism
 
-> **In the exam:** There is no written paper and no set list of movements. The spec asks you to know work from **past practice, contemporary practice and different cultures** to show **continuity and change**. This knowledge feeds **AO1** (critical understanding of sources) in both components (18 of 72 marks each) and gives you well-chosen references to analyse, copy in studies and connect to your own theme.
+> **In the exam:** There is no written paper. Knowledge of movements supports **AO3 Develop** ("Develop ideas through investigation, demonstrating critical understanding", 25 of 100 marks in each of Component 1 and Component 2). The syllabus asks you to refer to "contextual sources where appropriate, e.g. artists, key art movements, historical events". You use movements as references in your sketchbook or supporting studies and in annotation. Accuracy matters: an examiner will notice if a date or artist is wrong.
 
 ## What you need to know
 
-- Key **features** of each movement from the Renaissance to Impressionism and Post-Impressionism: when, where, how it looks, why it mattered.
-- Two or three **accurate** artists and works for each movement.
-- How to **use** a movement in your work: a technique or idea you can try, and a link to your own theme (AO1/AO2).
-- That art changes because of **new ideas, materials, technology and events** (continuity and change).
+- The main features, dates and key artists of: **Renaissance, Baroque, Neoclassicism, Romanticism, Realism, Impressionism, Post-Impressionism**.
+- How to link a movement to your theme and technique, for example light, perspective, colour or brushwork.
+- How to describe artworks using content, form, process and mood (topic 8).
+- That movements are **labels** that overlap; artists rarely fit just one.
+- That the syllabus includes "the importance of social and cultural factors" in art, so connect the style to its time and place.
 
 ## Notes
 
 ### Timeline at a glance
-| Movement | Approx. date | Where | Look in one line |
+
+| Movement | Approx. dates | Place | Big idea |
 |---|---|---|---|
-| **Renaissance** | 1400s–1500s | Italy, then Northern Europe | Realism, perspective, anatomy, balanced composition |
-| **Baroque** | 1600s–early 1700s | Italy, Spain, Netherlands | Drama, movement, strong light and shadow |
-| **Neoclassicism** | late 1700s | France | Clear, calm, classical subjects, strong lines |
-| **Romanticism** | late 1700s–mid 1800s | Europe | Emotion, nature, the sublime, imagination |
-| **Realism** | mid 1800s | France | Ordinary people and everyday life, painted honestly |
-| **Impressionism** | 1860s–1880s | France | Light, colour and a moment; visible brushstrokes |
-| **Post-Impressionism** | 1880s–1900s | France | Personal expression, structure, symbolic colour |
+| **Renaissance** | c.1400–1600 | Italy, then Europe | Realism, perspective, the human body, rebirth of classical ideas |
+| **Baroque** | c.1600–1750 | Italy, Spain, Netherlands | Drama, strong light and dark, movement and emotion |
+| **Neoclassicism** | c.1760–1830 | France, Europe | Order, clarity, noble subjects from ancient Greece and Rome |
+| **Romanticism** | c.1800–1850 | Europe | Emotion, nature's power, imagination |
+| **Realism** | c.1840–1880 | France | Ordinary people and everyday life, painted honestly |
+| **Impressionism** | 1870s–1880s | France | Light, colour and fleeting moments, painted quickly |
+| **Post-Impressionism** | c.1885–1905 | France | Personal expression, structure and colour beyond Impressionism |
 
-### Renaissance ("rebirth")
-- Artists rediscovered the ideas of ancient Greece and Rome and studied nature and the human body closely (**humanism**).
-- **Linear perspective** developed (Brunelleschi, then described by Alberti): lines converge to a vanishing point to create depth.
-- **Sfumato** (soft, smoky blending, no hard outlines) and **chiaroscuro** (light and dark) give volume.
-- **Artists:** Leonardo da Vinci (*Mona Lisa*, c.1503–19; *The Last Supper*), Michelangelo (*David* 1501–04; Sistine Chapel ceiling 1508–12), Raphael (*The School of Athens*, c.1509–11), Botticelli (*The Birth of Venus*, c.1485). In the north, Jan van Eyck (*The Arnolfini Portrait*, 1434) used oil paint for fine detail.
-- **To try:** a perspective street or interior drawing; a sfumato portrait in soft pencil or charcoal; a master study of hands from Leonardo or Michelangelo.
+### 1. Renaissance (c.1400–1600)
+"Renaissance" means "rebirth": artists and thinkers turned back to **ancient Greek and Roman** ideas.
+- **Linear perspective**: developed in 15th-century Florence (Brunelleschi, written down by Alberti); parallel lines meet at a **vanishing point** to create depth.
+- **Anatomy and proportion**: artists studied the body, including through dissection (Leonardo).
+- **Techniques**: **sfumato** (soft, smoky blending, Leonardo), **chiaroscuro** (strong light and dark), oil paint becoming common in Northern Europe and Italy.
+- **Subjects**: religion, portraits, mythology.
+- **Key artists**: **Leonardo da Vinci** (*Mona Lisa*, c.1503–19; *The Last Supper*, c.1495–98), **Michelangelo** (Sistine Chapel ceiling, 1508–12; *David* sculpture, 1501–04), **Raphael** (*The School of Athens*, c.1509–11), **Jan van Eyck** (*The Arnolfini Portrait*, 1434).
+- **Use in a project**: portrait studies with soft tone, anatomy sketches, one-point perspective drawings.
 
-### Baroque
-- Drama, emotion, energy and rich colour; strong **tenebrism** (very dark shadows with a spotlight).
-- **Artists:** Caravaggio (*The Calling of St Matthew*, c.1599–1600), Artemisia Gentileschi (*Judith Slaying Holofernes*), Rembrandt (portraits and self-portraits with warm, glowing light), Diego Velázquez (*Las Meninas*, c.1656, in the Prado), Vermeer (quiet interiors with soft window light, e.g. *Girl with a Pearl Earring*, c.1665).
-- **To try:** a single-light-source still life in charcoal or oil pastel on dark paper; a self-portrait lit from the side with a torch.
+### 2. Baroque (c.1600–1750)
+Art meant to impress, move and persuade, often for the Church and royal courts.
+- **Tenebrism**: very dark shadows with a spotlight on the subject. **Caravaggio** (*The Calling of St Matthew*, c.1599–1600) used it for drama.
+- **Movement and emotion**, diagonal compositions, rich colour.
+- **Key artists**: **Caravaggio**; **Rembrandt** (Dutch; portraits and *The Night Watch*, 1642, with subtle light and deep emotion); **Velázquez** (Spanish court painter; *Las Meninas*, 1656, in the **Prado** in Madrid, famous for its complex viewpoint and mirror).
+- **Use in a project**: dramatic lighting studies of a figure or still life in the dark, with a single lamp.
 
-### Neoclassicism and Romanticism
-- **Neoclassicism:** order, clarity and moral seriousness inspired by antiquity. **Jacques-Louis David** (*The Oath of the Horatii*, 1784; *The Death of Marat*, 1793).
-- **Romanticism** reacts with emotion, imagination and the power of nature (the "sublime"). **J. M. W. Turner** (*The Fighting Temeraire*, 1839, glowing atmospheric colour), **Eugène Delacroix** (*Liberty Leading the People*, 1830), **Caspar David Friedrich** (*Wanderer above the Sea of Fog*, c.1818), **Francisco Goya** (*The Third of May 1808*, 1814, a protest against the horror of war, in the Prado; later the dark "Black Paintings").
-- **To try:** a stormy landscape using wet-on-wet watercolour; a dramatic figure group with a single focus of light, like Goya.
+### 3. Neoclassicism (c.1760–1830)
+A reaction against the decoration of Rococo, inspired by ancient Greece and Rome and the Enlightenment.
+- **Clear lines, balanced composition, smooth finish, serious subjects**.
+- **Key artist:** **Jacques-Louis David** (*The Oath of the Horatii*, 1784; *The Death of Marat*, 1793).
+- **Use**: strict composition, careful outline drawing, controlled colour.
 
-### Realism
-- **Gustave Courbet** and **Jean-François Millet** painted ordinary workers and rural life at full scale, without idealising it.
-- **To try:** large, honest studies of people at work around you.
+### 4. Romanticism (c.1800–1850)
+Emotion and imagination over reason; nature as powerful and dangerous.
+- **Key artists:** **J. M. W. Turner** (*The Fighting Temeraire*, 1839; misty light, sea and storms); **Eugène Delacroix** (*Liberty Leading the People*, 1830); **Francisco Goya** (Spanish; *The Third of May 1808*, painted 1814, shows the shooting of Madrid citizens by French soldiers, and is in the Prado); **Caspar David Friedrich** (*Wanderer above the Sea of Fog*, c.1818).
+- **Features:** dramatic skies, loose brushwork, strong emotion.
+- **Use**: atmospheric landscapes, washes and wet-on-wet painting, protest or emotion themes (Goya).
 
-### Impressionism
-- The name came from a critic mocking Monet's *Impression, Sunrise* (1872). The group held its first independent exhibition in Paris in 1874.
-- **Features:** painting **en plein air** (outdoors), quick **broken, visible brushstrokes**, pure colours placed side by side (mixed by the eye), no black outlines, interest in changing **light** and **modern life**. Tube paints and Japanese woodblock prints influenced them.
-- **Artists:** Claude Monet (*Water Lilies*, haystacks and Rouen Cathedral series), Pierre-Auguste Renoir (*Bal du moulin de la Galette*, 1876), Edgar Degas (dancers, unusual cropped viewpoints), Berthe Morisot, Camille Pissarro, Mary Cassatt. Joaquín Sorolla in Spain painted dazzling sunlit beach scenes in a related luminous style.
-- **To try:** a 20-minute outdoor colour study of one view at two times of day; a "series" of the same subject in different light.
+### 5. Realism (c.1840–1880)
+Painters showed **ordinary working people** and real life, without idealising.
+- **Key artists:** **Gustave Courbet** (*The Stone Breakers*, 1849), **Jean-François Millet** (*The Gleaners*, 1857).
+- **Use**: drawings of everyday scenes and people at work, honest colours and textures.
 
-### Post-Impressionism
-- Artists who built on Impressionism but wanted more **personal feeling, structure or symbolism**.
-- **Vincent van Gogh**: expressive, thick directional brushwork and bold colour (*The Starry Night*, 1889; *Sunflowers*).
-- **Paul Cézanne**: built forms from planes of colour and showed more than one viewpoint, an essential step towards Cubism (*Mont Sainte-Victoire* series).
-- **Georges Seurat**: **pointillism**, tiny dots of colour (*A Sunday Afternoon on the Island of La Grande Jatte*, 1884–86).
-- **Paul Gauguin**: flat areas of strong, non-natural colour with symbolic meaning.
-- **To try:** a still life built from blocks of colour (Cézanne); a dot-colour study (Seurat).
+### 6. Impressionism (1870s–1880s)
+The name comes from Claude Monet's *Impression, Sunrise* (1872), shown at the group's first independent exhibition in **Paris in 1874**.
+- **Painting outdoors** (en plein air), made possible by paint in tubes.
+- **Short, broken brushstrokes**, bright colour, and no black: shadows are mixed with colour.
+- **Capturing light and the moment**; ordinary modern life (cafés, boats, gardens, railway stations).
+- **Colour theory**: complementary colours side by side seem to vibrate.
+- **Key artists:** **Claude Monet** (*Water Lilies*, series of the 1890s–1920s; *Rouen Cathedral* series), **Pierre-Auguste Renoir** (*Luncheon of the Boating Party*, 1880–81), **Edgar Degas** (dancers, pastel, unusual cropped viewpoints), **Berthe Morisot** (domestic scenes, loose brushwork, a founding member of the group), **Camille Pissarro**.
+- **Use**: quick outdoor colour studies, series of the same view at different times, dabs of colour with acrylic or pastel.
 
-### Using movements in your work (AO1 and AO2)
-Do not list movements. Choose the **one idea** you can use: e.g. "Caravaggio's lighting to make my portrait dramatic". Then test it and evaluate it. A good page: artist name, title, date, analysis (CFPM), practical study, link to your theme.
+### 7. Post-Impressionism (c.1885–1905)
+Not a single style: artists who started from Impressionism and moved in personal directions.
+- **Vincent van Gogh**: thick, expressive brushwork and intense colour (*Sunflowers*, 1888; *The Starry Night*, 1889).
+- **Paul Cézanne**: built forms from planes and geometry (*Mont Sainte-Victoire* series), a bridge to Cubism.
+- **Georges Seurat**: **pointillism** (tiny dots of pure colour) in *A Sunday Afternoon on the Island of La Grande Jatte* (1884–86).
+- **Paul Gauguin**: flat areas of strong, non-natural colour and symbolism (Tahiti paintings).
+- **Use**: mark-making experiments, dot techniques, flat colour planes.
 
-### Continuity and change
-Many artists reacted **against** what came before: Impressionists broke with polished studio painting; Post-Impressionists went beyond recording light. New **technology** (tube paints, photography) changed painting. Mention this to show you understand context.
+### 8. How to use movements in your own work
+1. Pick **one or two** that connect with your theme, not all of them.
+2. **Describe** their features accurately in annotation.
+3. **Test** a technique in your own work (for example tenebrism with a lamp).
+4. **Say how it changes your idea**: "Caravaggio's dark background made my portrait feel dramatic."
+5. **Compare** two: "Monet blurs shape for light; Cézanne builds shape from planes."
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Linear perspective | A system of drawing in which parallel lines converge at a vanishing point to create the illusion of depth |
-| Sfumato | A soft, smoky blending of tones with no hard outlines |
-| Chiaroscuro | Strong contrast between light and dark to create volume and drama |
-| Tenebrism | Very dark shadows with a dramatic, spotlight-like light source |
-| En plein air | Painting outdoors, directly from the subject |
-| Broken colour | Small separate strokes of pure colour placed side by side rather than blended |
-| Impasto | Thick paint that keeps brushstroke texture |
-| Pointillism | Painting with small dots of pure colour that mix in the viewer's eye |
-| Romanticism | A movement emphasising emotion, imagination and the power of nature |
+- **Renaissance:** a period c.1400–1600 when artists revived ideas from ancient Greece and Rome and studied nature and the human body closely.
+- **Linear perspective:** a system for showing depth, in which parallel lines meet at a vanishing point.
+- **Sfumato:** soft blending of tones with no hard outlines, used by Leonardo da Vinci.
+- **Chiaroscuro:** the strong contrast between light and dark in a picture.
+- **Tenebrism:** a dramatic style with very dark shadows and a strong spotlight, used by Caravaggio.
+- **Baroque:** a dramatic, emotional style of the 17th and early 18th centuries.
+- **Neoclassicism:** a style that revived the order and clarity of ancient Greek and Roman art.
+- **Romanticism:** a movement that valued emotion, imagination and the power of nature.
+- **Realism:** painting ordinary people and everyday life truthfully.
+- **Impressionism:** a movement that used quick, broken brushstrokes to capture light and moments.
+- **En plein air:** painting outdoors from direct observation.
+- **Pointillism:** painting with small dots of pure colour that mix in the eye (Seurat).
+- **Impasto:** thick paint that keeps the marks of the brush or knife.
 
 ## Worked examples
 
-**1.** Give three features of Impressionist painting. [3]
+**Q1. Describe two features of Impressionist painting. [4]**
 
-*Model:* Visible, broken brushstrokes (1); painted outdoors to capture changing light (1); pure colours side by side with no black outlines (1).
+*Model answer:* "Impressionists used short, broken brushstrokes instead of smooth blending (1), which gives a shimmering effect, as in Monet's water lily paintings (1). They often painted outdoors, quickly, to capture changing light (1), and used bright colours and mixed shadows from colour rather than black (1)."
 
-**2.** Explain how an artist from this period could influence a project on "light and shadow". [4]
+**Q2. Explain how you could use the work of Caravaggio in a still-life project. [4]**
 
-*Model:* Caravaggio used tenebrism, with a strong spotlight against deep shadow, to make figures dramatic (1). I would set up a still life lit by one lamp on dark paper (1) and draw it in charcoal with white chalk highlights, as in his work (1). I would compare it to Monet's soft, colourful light to decide the mood for my own final piece (1).
+*Model answer:* "Caravaggio used tenebrism: very dark backgrounds with a strong light on the subject, as in *The Calling of St Matthew* (1). I would set up fruit and a jug in a dark box, light them with one lamp and draw with charcoal and white chalk to show strong contrast (1). The shadows would make the objects look solid and dramatic (1). I would note that this works for my theme of 'fragile things' because the light isolates each object (1)."
 
-**3.** Compare Seurat and Van Gogh. [4]
+**Q3. Compare Seurat and Van Gogh as Post-Impressionists. [4]**
 
-*Model:* Both were Post-Impressionists who developed Impressionist colour (1). Seurat built images from tiny, controlled dots of colour in a scientific way (1), whereas Van Gogh used thick, expressive directional strokes of bold colour (1) to convey emotion (1).
+*Model answer:* "Seurat used tiny dots of pure colour (pointillism), controlled and scientific, so that the eye mixes the colours (1) as in *La Grande Jatte* (1). Van Gogh used thick, directional strokes with strong emotional colour (1), as in *The Starry Night* (1). Both go beyond Impressionism by choosing colour and mark for expression, but Seurat is calm and ordered while Van Gogh is energetic (accept equivalent comparison)."
 
 ## Common mistakes
 
-- Confusing Impressionism (light, plein air) with Post-Impressionism (personal expression/structure).
-- Wrong dates: Renaissance is not "1800s". Check the timeline.
-- Listing five movements with no analysis or practical link.
-- Attributing works to the wrong artist: *The Starry Night* is Van Gogh, *The Water Lilies* is Monet.
-- Describing a movement only by who painted it, not by how it looks.
-- Saying "realistic" for everything: use specific terms (perspective, sfumato, broken colour).
+- Dating wrongly or mixing movements: Van Gogh is **Post-Impressionist**, not Impressionist; Goya is **Romantic**, not Baroque (though he worked in Madrid in the court tradition of Velázquez).
+- Calling any old painting "Renaissance".
+- Saying Impressionists used black outlines or smooth finishes.
+- Name-dropping with no link to your own idea.
+- Confusing **tenebrism** and **sfumato**: tenebrism is hard dark/light contrast; sfumato is soft blending.
+- Using a famous painting as a copy without a study, comment and link.
 
 ## Practice questions
 
-1. Name two features of Renaissance painting. [2]
-2. Who painted *Las Meninas* and where can you see it? [2]
-3. Explain what "tenebrism" is and name one painter who used it. [2]
-4. State three features of Impressionism. [3]
-5. Name the Post-Impressionist who used pointillism and describe the technique. [2]
-6. Explain why Cézanne is important for later art. [2]
-7. Choose one movement from this topic and say what you would try in a sketchbook study. [3]
-8. Why did the Impressionists paint outdoors? [2]
+1. Give the approximate dates and country where Impressionism began. [2]
+2. Explain what linear perspective is, and name one Renaissance artist who used it. [3]
+3. Name the technique Caravaggio is known for and describe its effect. [3]
+4. State two ways that Realism differed from Romanticism. [2]
+5. Name the artist of *Las Meninas* and say where you can see it. [2]
+6. Describe pointillism and name an artist who used it. [3]
+7. Which movement would help a project on "Storms and the sea"? Name one artist and say how you would use them. [4]
+8. Why is Van Gogh described as a Post-Impressionist rather than an Impressionist? [3]
 
-<details><summary>Answers</summary>
+<details>
+<summary>Answers</summary>
 
-1. e.g. linear perspective; realistic anatomy; sfumato; balanced composition; classical/humanist subjects.
-2. Diego Velázquez (c.1656); in the Prado Museum, Madrid.
-3. Very strong contrast with deep shadows lit by a spotlight-like source (1); Caravaggio (1).
-4. Broken visible brushstrokes; plein air; pure colour side by side; capturing changing light; everyday/modern life; no black outlines.
-5. Georges Seurat; tiny dots of pure colour placed side by side that mix in the eye.
-6. He built forms from planes and showed multiple viewpoints, leading towards Cubism.
-7. E.g. Impressionism: paint an outdoor view in 20 min with broken colour (1) at a second time of day (1) and evaluate the changes in colour (1).
-8. To capture changing natural light and atmosphere quickly; portable tube paints made it possible.
+1. 1870s–1880s (1) France / Paris (1).
+2. A system to show depth where parallel lines meet at a vanishing point (2). Brunelleschi/Alberti developed it; Leonardo, Raphael etc. used it (1). (Max 3.)
+3. Tenebrism (1): very dark shadows with a strong spotlight (1), giving drama and a sense of three-dimensional form (1).
+4. Realism showed ordinary people and everyday life (1) honestly, not idealised, whereas Romanticism focused on emotion, imagination and the power of nature (1).
+5. Diego Velázquez (1); the Prado Museum, Madrid (1).
+6. Painting with tiny dots of pure colour that mix in the viewer's eye (2); Georges Seurat (1).
+7. Romanticism (1); Turner (1); for example misty, loose watercolour or acrylic washes to show light through storm clouds (1) and testing wet-on-wet technique to show movement of waves (1). Accept Hokusai or other valid choice if linked.
+8. He started from Impressionism, learning from its colour and brushwork (1), but moved beyond it to a personal, expressive style with thick paint and emotional colour (1), rather than recording the light of a moment (1).
 
 </details>
 
 ## Plan for this hour
 
-- **15 min** – Read the table and learn one artist and one work for each movement.
-- **10 min** – Choose one movement relevant to your own project; write why.
-- **25 min** – Make a quick study in that style on your own subject (20 min), then annotate it with CFPM.
-- **10 min** – Self-test: cover the table and write one feature, one artist and one date for five movements.
+- **15 min:** Learn the timeline table and one artist and feature for each movement.
+- **15 min:** Choose two movements that suit your project theme. Write a short annotation for each, using content, form, process and mood.
+- **20 min:** Make two small studies in your sketchbook, one in each style (for example a tenebrism light study and a broken-colour study).
+- **5 min:** Write a link sentence beneath each study.
+- **5 min:** Do the quiz.

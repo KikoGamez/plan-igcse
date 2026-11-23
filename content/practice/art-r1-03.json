@@ -2,159 +2,160 @@
  "id": "art-r1-03",
  "cards": [
   {
-   "f": "AO3 wording",
+   "f": "AO1 Record",
    "b": "Record ideas, observations and insights relevant to intentions as work progresses."
   },
   {
    "f": "Primary source",
-   "b": "A source you create from direct experience, such as your own drawing or photograph."
+   "b": "First-hand: your own drawings, photographs, visits and observations."
   },
   {
    "f": "Secondary source",
-   "b": "An image or information made by someone else, such as a book or website."
+   "b": "Made by someone else: books, magazines, websites, other artists' work; cite it."
   },
   {
-   "f": "Observational drawing",
-   "b": "Drawing what you see directly in front of you."
+   "f": "Intentions",
+   "b": "What you are trying to explore or say; show them clearly in your work."
+  },
+  {
+   "f": "Blind contour",
+   "b": "Drawing an outline while looking only at the subject, not the paper."
+  },
+  {
+   "f": "Continuous line",
+   "b": "Drawing without lifting the pencil, for flow and confidence."
+  },
+  {
+   "f": "Thumbnail",
+   "b": "A small quick sketch to try out a composition."
   },
   {
    "f": "Proportion",
-   "b": "The size relationships between parts of an object."
+   "b": "The relative size of parts of a subject; check by measuring with a pencil."
   },
   {
-   "f": "Pencil measuring method",
-   "b": "Hold pencil at arm's length, arm locked; measure one part and compare others to it."
+   "f": "Negative space check",
+   "b": "Draw the gaps between parts to correct shapes and proportions."
   },
   {
-   "f": "Negative space drawing",
-   "b": "Drawing the gaps around and between objects to check shapes and proportions."
+   "f": "Cropped viewpoint",
+   "b": "Use a paper frame to select a section for a more interesting composition."
   },
   {
-   "f": "Blind contour drawing",
-   "b": "Drawing the outline without looking at the paper; builds observation and expressive line."
+   "f": "Viewpoint",
+   "b": "Where you look from; try high, low, close or partial views."
   },
   {
-   "f": "Gesture drawing",
-   "b": "A quick 30 second to 2 minute drawing capturing movement and pose."
+   "f": "Variety of sources",
+   "b": "Drawings, photographs, notes, mind maps, swatches and visits: higher AO1 bands need variety."
   },
   {
-   "f": "One-point perspective",
-   "b": "All depth lines meet at one vanishing point on the horizon."
+   "f": "Recording 'as work progresses'",
+   "b": "Keep adding observations through the project, not only at the start."
   },
   {
-   "f": "Viewfinder",
-   "b": "A frame (card or phone camera) used to choose and crop a composition."
+   "f": "Contact sheet",
+   "b": "A page of small photographs of one subject; select the best and say why."
   },
   {
-   "f": "Line of enquiry",
-   "b": "A focus question that guides what you record, for example how light changes an object."
-  },
-  {
-   "f": "David Hockney's joiners",
-   "b": "Photo collages of one scene from many viewpoints; shows several moments and angles."
-  },
-  {
-   "f": "Alberto Giacometti's drawing",
-   "b": "Repeated, scratchy lines drawn again and again to search for the form."
-  },
-  {
-   "f": "Why record again after experiments?",
-   "b": "AO3 should continue as work progresses; new studies show development and relevance."
+   "f": "Good AO1 annotation",
+   "b": "Names the subject, medium, technique, a decision and an intention."
   }
  ],
  "gaps": [
   {
-   "s": "AO3 is about ___ ideas, observations and insights.",
+   "s": "A drawing made from real life is called an ___ drawing.",
    "a": [
-    "recording",
-    "record"
+    "observational",
+    "observation"
    ]
   },
   {
-   "s": "A photo you take yourself is a ___ source.",
+   "s": "Your own drawings and photographs are ___ sources.",
    "a": [
-    "primary"
+    "primary",
+    "first-hand",
+    "first hand"
    ]
   },
   {
-   "s": "An internet image is a ___ source.",
+   "s": "Images from books or websites are ___ sources.",
    "a": [
     "secondary"
    ]
   },
   {
-   "s": "Drawing the gaps around an object is drawing ___ space.",
+   "s": "A small quick layout sketch is called a ___.",
+   "a": [
+    "thumbnail"
+   ]
+  },
+  {
+   "s": "The relative size of parts of a subject is its ___.",
+   "a": [
+    "proportion"
+   ]
+  },
+  {
+   "s": "What you aim to say or achieve in your work is your ___.",
+   "a": [
+    "intentions",
+    "intention"
+   ]
+  },
+  {
+   "s": "Drawing the gaps between objects means drawing the ___ space.",
    "a": [
     "negative"
    ]
   },
   {
-   "s": "A quick drawing capturing movement is a ___ drawing.",
+   "s": "A top AO1 mark needs recording from a ___ of relevant sources.",
    "a": [
-    "gesture"
-   ]
-  },
-  {
-   "s": "In one-point perspective lines meet at the ___ point.",
-   "a": [
-    "vanishing"
-   ]
-  },
-  {
-   "s": "Egon Schiele is known for expressive ___ drawing.",
-   "a": [
-    "line",
-    "contour",
-    "figure"
-   ]
-  },
-  {
-   "s": "Each AO is marked out of ___ marks.",
-   "a": [
-    "18",
-    "eighteen"
+    "variety"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain why AO3 needs your own observation.",
-   "model": "Own observation shows genuine skill and personal insight, and is first-hand evidence that examiners can credit; copying other people's images shows little.",
+   "q": "Why should you include first-hand studies?",
+   "model": "They show your own looking and drawing skill and give variety of sources, which AO1's higher bands require.",
    "points": [
-    "first-hand / own source",
-    "shows skill and personal insight"
+    "personal skill and looking",
+    "variety of sources"
    ]
   },
   {
-   "q": "Describe how to start an accurate observational drawing.",
-   "model": "Use light construction lines and basic shapes, measure proportions with a pencil at arm's length, check with plumb lines and negative space, then add detail.",
+   "q": "Suggest three ways to record a theme of 'Streets'.",
+   "model": "Draw buildings on location, take photographs from several viewpoints, and make notes or sketch at a gallery or from an interview with someone local.",
    "points": [
-    "light construction/basic shapes",
-    "measure/check proportions"
+    "drawing on location",
+    "photography",
+    "notes or other source"
    ]
   },
   {
-   "q": "Give two ways to show variety in recording.",
-   "model": "Use different media (pencil, charcoal, pen), different viewpoints and crops, photographs, notes, rubbings or blind contour studies.",
+   "q": "How do you show intentions as work progresses?",
+   "model": "Write short aims, choose sources that fit them, and review and adjust the plan with comments.",
    "points": [
-    "different media/techniques",
-    "different viewpoints/methods"
+    "state aims",
+    "review and adjust"
    ]
   },
   {
-   "q": "How can you make recording relevant to your intentions?",
-   "model": "State a line of enquiry and choose subjects, viewpoints and techniques that explore it, adding short notes linking each study to your aim.",
+   "q": "Describe how to check proportions in a drawing.",
+   "model": "Hold a pencil at arm's length to measure one part and compare it with others, and check angles and negative spaces.",
    "points": [
-    "clear line of enquiry",
-    "choices and notes linked to aim"
+    "measure with pencil",
+    "compare parts and angles"
    ]
   },
   {
-   "q": "Describe how Hockney's photographic joiners could inspire your recording.",
-   "model": "Take many overlapping photos of one subject from different positions and assemble them to show several viewpoints, then draw from the result.",
+   "q": "Why can photographs alone limit AO1?",
+   "model": "They show little drawing skill and may look less personal, so skill in recording is not fully shown.",
    "points": [
-    "many photos assembled",
-    "different viewpoints"
+    "drawing skill not shown",
+    "less personal"
    ]
   }
  ]

@@ -1,37 +1,37 @@
-{"id":"geo-r1-05","cards":[
-{"f":"Destructive plate boundary","b":"Oceanic plate subducts under continental plate. Causes powerful earthquakes, explosive composite volcanoes and tsunamis."},
-{"f":"Constructive plate boundary","b":"Plates move apart and magma rises to form new crust. Gentle shield volcanoes and small earthquakes."},
-{"f":"Conservative plate boundary","b":"Plates slide past each other. Earthquakes but no volcanoes, e.g. the San Andreas Fault."},
-{"f":"Collision boundary","b":"Two continental plates push together and crumple into fold mountains. Earthquakes but no volcanoes, e.g. the Himalayas."},
-{"f":"Hotspot","b":"A place over a plume of rising magma in the middle of a plate, forming volcanoes, e.g. Hawaii."},
-{"f":"Pacific Ring of Fire","b":"A belt around the Pacific Ocean along plate boundaries with about 75% of the world's volcanoes and most earthquakes."},
-{"f":"Focus vs epicentre","b":"Focus: where the earthquake starts underground. Epicentre: the point on the surface directly above the focus."},
-{"f":"Why do earthquakes happen?","b":"Plates stick due to friction, pressure builds, then is released suddenly as seismic waves."},
-{"f":"How is a tsunami formed?","b":"An undersea earthquake or eruption moves the sea floor, displacing water. The wave grows in shallow coastal water."},
-{"f":"Composite vs shield volcano","b":"Composite: steep, explosive, destructive boundaries. Shield: gentle, runny lava, constructive boundaries or hotspots."},
-{"f":"Pyroclastic flow","b":"A fast-moving cloud of hot gas, ash and rock from a volcano. Very deadly."},
-{"f":"Lahar","b":"A mudflow of volcanic ash and water, often from melting snow or heavy rain."},
-{"f":"Moment magnitude scale","b":"Measures energy released by an earthquake. Logarithmic: each whole number is about 32 times more energy."},
-{"f":"Mercalli scale","b":"Measures earthquake intensity (effects on people and buildings), from I to XII, using observation."},
-{"f":"Volcanic Explosivity Index (VEI)","b":"A scale from 0 to 8 measuring the explosiveness of an eruption by the volume of material and plume height."},
-{"f":"Primary vs secondary impacts","b":"Primary: immediate, e.g. collapsed buildings, deaths. Secondary: later, e.g. fires, disease, landslides, homelessness."},
-{"f":"Why people live near volcanoes","b":"Fertile soil, tourism and jobs, geothermal energy and minerals, family ties, and the risk seems low."},
-{"f":"Earthquake-resistant building features","b":"Deep flexible foundations, rubber shock absorbers, cross-bracing, strong light materials, and automatic gas shut-off."}
-],
-"gaps":[
-{"s":"When an oceanic plate sinks beneath a continental plate it is called ___.","a":["subduction","subducted"]},
-{"s":"The point underground where an earthquake starts is the ___.","a":["focus"]},
-{"s":"The Mercalli scale measures earthquake ___ (effects on people and buildings).","a":["intensity"]},
-{"s":"The Hawaiian volcanoes formed over a ___.","a":["hotspot","hot spot"]},
-{"s":"A fast cloud of hot gas and ash from a volcano is a ___ flow.","a":["pyroclastic"]},
-{"s":"Steep-sided volcanoes with explosive eruptions are called ___ volcanoes.","a":["composite","strato","stratovolcano"]},
-{"s":"A mudflow of ash and water from a volcano is called a ___.","a":["lahar"]},
-{"s":"Fires caused by broken gas pipes after an earthquake are a ___ impact.","a":["secondary"]}
-],
-"short":[
-{"q":"Describe the characteristics of a destructive plate boundary.","model":"An oceanic plate moves towards a continental plate and is subducted. This causes powerful earthquakes and explosive composite volcanoes.","points":["oceanic plate subducted under continental plate","earthquakes and explosive volcanoes"]},
-{"q":"Explain why Japan experiences many earthquakes.","model":"Japan is on the Pacific Ring of Fire where several plates meet at destructive boundaries. Pressure builds up as plates stick and is released as earthquakes.","points":["located on plate boundaries / Ring of Fire","pressure builds and is released suddenly"]},
-{"q":"Give two ways that volcanoes can be monitored.","model":"Seismometers detect small earthquakes before an eruption, and sensors measure gas emissions or ground swelling. Satellites can also track changes.","points":["seismometers / earthquakes","gas or ground-tilt sensors / satellites"]},
-{"q":"Explain why richer countries tend to have fewer deaths from earthquakes.","model":"They can afford earthquake-proof buildings, emergency services and warning systems, and better healthcare for the injured.","points":["can afford better buildings","better emergency services / healthcare / warning"]},
-{"q":"Explain one short-term and one long-term response to an earthquake.","model":"Short-term: search and rescue, and emergency food, water and shelter. Long-term: rebuilding homes to stricter building codes and improving hazard planning.","points":["short-term e.g. rescue/aid/shelter","long-term e.g. rebuilding/building codes/planning"]}
-]}
+{
+  "id": "geo-r1-05",
+  "cards": [
+    {"f": "Drainage basin", "b": "The area of land drained by a river and its tributaries."},
+    {"f": "Watershed", "b": "High ground that separates one drainage basin from another."},
+    {"f": "Confluence vs tributary", "b": "Confluence: where two rivers meet. Tributary: a smaller river that joins a larger one."},
+    {"f": "Hydraulic action", "b": "The force of water pushing into cracks in the bed and banks, breaking the rock apart."},
+    {"f": "Abrasion", "b": "The river's load scrapes and wears away the bed and banks."},
+    {"f": "Attrition", "b": "Load particles collide with each other and become smaller and rounder."},
+    {"f": "Four transport processes", "b": "Traction (rolling), saltation (bouncing), suspension (carried in the flow), solution (dissolved)."},
+    {"f": "When does a river deposit?", "b": "When it loses energy: shallow water, slow flow, inside of bends, drought or at the mouth."},
+    {"f": "Waterfall formation", "b": "Hard rock over soft rock; soft rock eroded faster, forming overhang and plunge pool; it collapses and retreats upstream leaving a gorge."},
+    {"f": "Meander formation", "b": "Erosion on the outside bend makes a river cliff; deposition on the inside makes a slip-off slope."},
+    {"f": "Oxbow lake", "b": "Formed when a river cuts through a narrow meander neck in flood, and the old bend is sealed off by deposition."},
+    {"f": "Levee", "b": "A natural raised bank formed when floods deposit the coarsest material next to the channel."},
+    {"f": "Delta", "b": "Landform at a river mouth where the river deposits its load in a weak-current sea or lake and splits into distributaries."},
+    {"f": "Lag time", "b": "The time between peak rainfall and peak river discharge on a hydrograph."},
+    {"f": "Hard vs soft engineering", "b": "Hard: built structures such as dams and embankments. Soft: working with nature, e.g. afforestation, flood zoning, warnings."}
+  ],
+  "gaps": [
+    {"s": "The volume of water passing a point in a river each second is the ___.", "a": ["discharge"]},
+    {"s": "Pebbles bounced along the river bed are moved by ___.", "a": ["saltation"]},
+    {"s": "A river cliff forms on the ___ of a meander bend.", "a": ["outside", "outer bend", "outer"]},
+    {"s": "A ___ lake is a crescent-shaped lake left when a meander is cut off.", "a": ["oxbow", "ox-bow", "ox bow"]},
+    {"s": "A waterfall forms where a river flows over a band of ___ rock.", "a": ["hard", "resistant"]},
+    {"s": "Building on a floodplain increases flood risk, which is why planners use flood ___.", "a": ["zoning"]},
+    {"s": "A river's small streams that join the main river are called ___.", "a": ["tributaries", "tributary"]},
+    {"s": "Concrete and tarmac are ___, so water cannot soak into the ground.", "a": ["impermeable", "impervious"]}
+  ],
+  "short": [
+    {"q": "Explain how a gorge is formed.", "model": "A waterfall undercuts hard rock above soft rock, which collapses so the waterfall retreats upstream. The retreat leaves a steep-sided gorge behind.", "points": ["undercutting and collapse of waterfall", "retreat upstream leaves a gorge"]},
+    {"q": "Explain how levees form.", "model": "In a flood, the river slows as it spills over its banks and drops its heaviest material first, next to the channel. Repeated floods build up raised banks.", "points": ["flooding and slowing water causes deposition", "coarse material dropped next to channel builds up banks"]},
+    {"q": "Explain why deforestation can increase flooding.", "model": "Fewer trees mean less interception and less water taken up by roots. More rain runs quickly over the surface into rivers, raising peak discharge.", "points": ["less interception/uptake", "faster runoff/higher peak discharge"]},
+    {"q": "Explain one disadvantage of using embankments to control a river.", "model": "Embankments can fail in a very large flood, causing a sudden and destructive flood. They also speed water downstream, increasing flood risk elsewhere.", "points": ["valid disadvantage (cost/failure/downstream risk)", "explained consequence"]},
+    {"q": "Describe how a river's characteristics change downstream.", "model": "Channel width, depth and discharge increase while gradient falls. Load becomes smaller and more rounded.", "points": ["width/depth/discharge increase", "load smaller and more rounded / gradient decreases"]}
+  ]
+}

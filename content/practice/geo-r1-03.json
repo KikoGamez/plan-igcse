@@ -1,36 +1,37 @@
-{"id":"geo-r1-03","cards":[
-{"f":"Fetch","b":"The distance of open water over which the wind has blown. A long fetch produces bigger, more powerful waves."},
-{"f":"Constructive wave","b":"Low, long wavelength, strong swash and weak backwash. Deposits material and builds up the beach."},
-{"f":"Destructive wave","b":"High, frequent, strong backwash and weak swash. Erodes material and removes the beach."},
-{"f":"Swash and backwash","b":"Swash: water moving up the beach. Backwash: water draining back down the beach."},
-{"f":"Hydraulic action (coast)","b":"Waves force air into cracks in the cliff. The compressed air breaks the rock apart."},
-{"f":"Abrasion (coast)","b":"Waves hurl sand and pebbles at the cliff, wearing it away like sandpaper."},
-{"f":"Freeze-thaw weathering","b":"Water enters cracks, freezes and expands, widening the crack. Repeated cycles break rock off."},
-{"f":"Types of weathering","b":"Mechanical (freeze-thaw), chemical (rainwater dissolving rock) and biological (roots and burrowing)."},
-{"f":"Sliding vs slumping","b":"Sliding: rock or soil moves along a flat surface. Slumping: saturated soft rock rotates down a curved surface."},
-{"f":"Longshore drift","b":"Swash carries material up at an angle, backwash returns it straight down. Material zigzags along the coast."},
-{"f":"Discordant coastline","b":"Bands of hard and soft rock lie at right angles to the coast, forming headlands and bays."},
-{"f":"Headlands and bays","b":"Soft rock erodes faster to form bays; hard rock remains as headlands. Beaches form in the sheltered bays."},
-{"f":"Wave-cut platform","b":"A flat rock area at the base of a cliff. Left behind when the cliff retreats after undercutting and collapse."},
-{"f":"Cave, arch, stack, stump","b":"Crack widened to a cave; cave breaks through to an arch; roof collapses leaving a stack; stack erodes to a stump."},
-{"f":"Spit","b":"A long ridge of sand or shingle joined to land at one end, formed by longshore drift where the coast changes direction."},
-{"f":"Bar","b":"A ridge of sand or shingle that grows across a bay, joining two headlands and trapping a lagoon."},
-{"f":"Two examples of how people affect coastal landforms","b":"Building sea walls and groynes change sediment movement; removing dunes or mangroves reduces natural protection."}
-],
-"gaps":[
-{"s":"Waves with a strong swash and weak backwash are called ___ waves.","a":["constructive"]},
-{"s":"Water draining back down a beach is called the ___.","a":["backwash"]},
-{"s":"A coastline with bands of rock at right angles to the sea is called a ___ coastline.","a":["discordant"]},
-{"s":"A column of rock left standing in the sea after an arch collapses is a ___.","a":["stack"]},
-{"s":"A flat platform of rock at the base of a cliff is a wave-cut ___.","a":["platform"]},
-{"s":"Water freezing in cracks and expanding is called ___ weathering.","a":["freeze-thaw","freeze thaw"]},
-{"s":"Seawater dissolving rocks such as chalk or limestone is called ___.","a":["solution"]},
-{"s":"Longshore drift moves material in a ___ pattern along the beach.","a":["zigzag","zig-zag","zig zag"]}
-],
-"short":[
-{"q":"Describe how a destructive wave differs from a constructive wave.","model":"A destructive wave is higher and more frequent with a strong backwash, so it erodes the beach. A constructive wave is lower with a strong swash and deposits material.","points":["destructive: strong backwash, erodes","constructive: strong swash, deposits"]},
-{"q":"Explain how headlands and bays form.","model":"Bands of hard and soft rock lie at right angles to the coast. The soft rock is eroded faster to form bays, while the harder rock remains as headlands.","points":["alternating hard and soft rock","soft rock erodes faster forming bays; hard rock remains as headlands"]},
-{"q":"Explain how a bar forms.","model":"Longshore drift builds a spit across a bay. It grows until it reaches the other side, joining two headlands and trapping a lagoon behind it.","points":["spit built by longshore drift/deposition","grows across the bay, trapping a lagoon"]},
-{"q":"Explain how mass movement affects a cliff made of clay.","model":"Heavy rain saturates the soft clay, making it heavy and unstable. It slumps down a curved surface, so the cliff retreats quickly.","points":["clay saturated by rain / unstable","slumps down the cliff, cliff retreats"]},
-{"q":"Describe the movement of material by longshore drift.","model":"Waves approach at an angle and swash pushes material up the beach at that angle. Backwash drags it straight down, so material moves along the coast in a zigzag.","points":["swash at an angle, backwash at right angles","zigzag movement along the coast"]}
-]}
+{
+  "id": "geo-r1-03",
+  "cards": [
+    {"f": "Site", "b": "The actual place where a settlement is built (e.g. a river bend or hill-top)."},
+    {"f": "Nucleated settlement", "b": "Buildings clustered tightly around a central point such as a crossroads, well or church."},
+    {"f": "Linear settlement", "b": "Buildings arranged in a line along a road, river, canal or coast."},
+    {"f": "Dispersed settlement", "b": "Buildings widely scattered, such as isolated farms in upland areas."},
+    {"f": "Wet-point vs dry-point site", "b": "Wet-point: near water supply. Dry-point: on dry ground, avoiding flooding."},
+    {"f": "Settlement hierarchy", "b": "Ranking of settlements by size and services: hamlet, village, town, city."},
+    {"f": "Sphere of influence", "b": "The area around a settlement from which people use its services. Larger for higher-order settlements."},
+    {"f": "Threshold population", "b": "The minimum number of customers needed to support a service."},
+    {"f": "Low-order vs high-order goods", "b": "Low-order: bought often and nearby (bread). High-order: bought rarely, travel further (cars, jewellery)."},
+    {"f": "CBD features", "b": "Highest land values, tall buildings, shops and offices, very accessible, congested, few residents."},
+    {"f": "Inner city", "b": "Zone next to the CBD: old terraced housing and old factories, high density, often regenerated."},
+    {"f": "Rural-urban fringe", "b": "City edge with new estates, retail parks, golf courses and farmland; lowest land values."},
+    {"f": "Urbanisation", "b": "An increase in the proportion of people living in towns and cities."},
+    {"f": "Causes of urbanisation in LICs", "b": "Rural-urban migration (push and pull factors) and natural increase of young migrants."},
+    {"f": "Self-help scheme", "b": "Residents get materials and services to build or improve their own homes."}
+  ],
+  "gaps": [
+    {"s": "A settlement built on dry ground to avoid flooding has a ___ site.", "a": ["dry-point", "dry point", "drypoint", "dry"]},
+    {"s": "Buildings arranged in a line along a road are a ___ settlement.", "a": ["linear"]},
+    {"s": "The minimum number of customers needed to support a service is the ___ population.", "a": ["threshold"]},
+    {"s": "The commercial centre of a city is called the ___.", "a": ["CBD", "central business district"]},
+    {"s": "The area from which people use a settlement's services is its sphere of ___.", "a": ["influence"]},
+    {"s": "Movement of people from cities back to the countryside is called ___.", "a": ["counter-urbanisation", "counter urbanisation", "counterurbanisation", "counter-urbanization", "counterurbanization"]},
+    {"s": "Squatter settlements in Rio de Janeiro are known as ___.", "a": ["favelas", "favela"]},
+    {"s": "Housing built without legal permission on land the residents do not own is called an ___ settlement.", "a": ["informal", "squatter"]}
+  ],
+  "short": [
+    {"q": "Explain why the CBD has high land values.", "model": "It is the most accessible part of the city, where transport routes meet. Businesses compete for limited space to reach the most customers, which pushes prices up.", "points": ["most accessible/central", "competition for limited space"]},
+    {"q": "Explain why there are fewer cities than villages.", "model": "Cities need a large threshold population to support their many high-order services, so only a few places can grow that big. Villages need fewer customers.", "points": ["higher threshold/more customers needed", "fewer places meet this/larger sphere"]},
+    {"q": "Explain two causes of rapid urban growth in LICs.", "model": "Rural-urban migration happens because farm incomes are low and cities offer jobs and schools. Migrants are mainly young, so births are high and natural increase adds to growth.", "points": ["rural-urban migration with push/pull reason", "natural increase explained"]},
+    {"q": "Explain why informal settlements often have health problems.", "model": "They often lack clean water and sewers, so diseases such as cholera spread easily. Overcrowding and poor materials make this worse.", "points": ["lack of water/sanitation", "overcrowding/disease spread"]},
+    {"q": "Explain how public transport can reduce congestion in a city.", "model": "Metros and buses carry many people at once, so fewer cars are needed on the road. This cuts traffic jams and air pollution.", "points": ["more people carried per vehicle", "fewer cars/less pollution"]}
+  ]
+}

@@ -1,149 +1,140 @@
 # Texture, structure and form
 
-> **In the exam:** Texture and structure questions are on the Appraising paper (1 h 45 min, 80 marks): name or describe a **texture** (1–2 marks), identify a **structure** such as ternary, verse-chorus or ritornello (1 mark), say where a section repeats or changes (1–3 marks), and use both in the 12-mark comparison. Each set work has a known structure you should be able to describe.
+> **In the exam:** Paper 1 (70 marks). Expect "Name the texture of this passage" [1] (monophonic, homophonic, polyphonic, heterophonic, unison…), "Give the structure using letters" [1 to 2] (e.g. A B A, A A B A), "Name the form of the movement" [1] (ritornello, sonata, minuet and trio, theme and variations, rondo), "What compositional device is heard in the bass?" [1] (ostinato, sequence, imitation, Alberti bass), and structure vocabulary in the pop/EDM and Indian extracts (verse, chorus, bridge, drop, ālāp, gat). Texture and structure also gain marks in every descriptive answer.
 
 ## What you need to know
 
-- **Texture**: monophonic, homophonic, polyphonic (contrapuntal), melody with accompaniment, unison, octaves, heterophonic; layered textures in pop and fusion.
-- **Techniques**: imitation, canon, call and response, pedal note, countermelody, descant.
-- **Structure and form**: binary, ternary, rondo, theme and variations, strophic, through-composed, verse-chorus, 12-bar blues, ground bass, ritornello, sonata form, arch form.
-- **Structural terms**: introduction, coda, bridge, middle 8, link, cadenza.
+- Texture: monophonic, unison, doubled in octaves, homophonic (melody and accompaniment), polyphonic, heterophonic, imitative, parallel motion, solo, tutti, antiphonal, cluster chords, drone.
+- Musical devices: repetition, ascending and descending sequence, imitation, ostinato, riff, Alberti bass.
+- Structure: binary, ternary, rondo; ritornello and episode; sonata form (exposition, development, recapitulation, first and second subject, transition, codetta, coda); introduction; cadenza; minuet and trio; theme and variations; strophic, through-composed; intro, verse, chorus, bridge/middle eight, outro; breakdown, build-up, drop; call and response; ālāp, jōr, jhālā, gat.
 
 ## Notes
 
-### Texture: how many layers, and how they relate
+### 1. Texture
+
+Texture is how the layers of sound (melody, accompaniment, bass) are combined.
 
 | Texture | Description | Example |
 |---|---|---|
-| **Monophonic** | one melody line only, with no accompaniment (can be sung or played by one or many in unison) | plainchant, a solo flute, singing in unison |
-| **Homophonic** | chords with the same rhythm, or a melody supported by chords | hymns, pop ballads |
-| **Melody and accompaniment** | one main melody with a different accompaniment; a type of homophony | pop songs, Beethoven's sonata |
-| **Polyphonic / contrapuntal** | two or more independent melodies together, equal in importance | Bach's Brandenburg Concerto No. 5 |
-| **Unison** | all play or sing the same notes at the same pitch | opening of many orchestral pieces |
-| **Octaves** | same melody at different octave pitches | Beethoven's piano passages |
-| **Heterophonic** | same melody played at the same time with slight variations | folk and world music, Indian and Celtic |
-| **Layered** | several different parts added in turn, with parts repeating | Afro Celt Sound System |
+| **Monophonic** | One melody line alone, no accompaniment | Solo singer; plainsong; solo flute |
+| **Unison** | All parts play the **same notes at the same pitch** | An orchestra playing a theme together |
+| **Doubled in octaves** | The same line played at different octaves | Violins and cellos playing the same tune |
+| **Homophonic** (melody and accompaniment) | Main tune with chordal backing | Pop song; Classical piano with chords |
+| **Polyphonic** | Two or more independent melodic lines at once | Baroque fugue |
+| **Imitative** | A tune is copied by another part (a form of polyphony) | Fugue, canon |
+| **Heterophonic** | Several performers play **different versions of the same melody at the same time** | Silk and bamboo, takht ensembles |
+| **Parallel motion** | Parts move in the same direction keeping the same interval | Chords or lines moving in 3rds or 6ths |
+| **Drone** | A long held or repeated note/fifth under a melody | Bagpipes, tanpura in Indian music |
+| **Cluster chords** | Notes a tone or semitone apart sounded together, dense and dissonant | 20th-century piano and orchestral music |
 
-Describe the texture as it **changes**: "thin at the start, thickening as instruments are added".
+**Performing contrasts:** **solo** (one performer), **tutti** (all together), **antiphonal** (two groups answering each other, such as a split choir or call and response).
 
-### Texture techniques
+### 2. Musical devices
 
-- **Imitation**: one part repeats a motif that another part has just played, at a different pitch or in a different voice.
-- **Canon**: strict imitation; each part plays the same melody, entering one after another.
-- **Counter-melody**: a second melody that fits with the main tune.
-- **Call and response**: a phrase ("call") answered by a different voice or instrument ("response"); used in gospel, blues, jazz and African music.
-- **Descant**: a high decorative melody above the main tune.
-- **Walking bass**: steady crotchet bass line stepping through chord notes (jazz, Baroque continuo).
-- **Doubling**: two instruments play the same line.
-- **Antiphonal**: two groups answer each other, often from different places.
-- **Thick / thin texture**: many or few parts.
+| Device | What it is |
+|---|---|
+| **Repetition** | A phrase heard again exactly |
+| **Sequence** | A phrase repeated at a **higher** (ascending) or **lower** (descending) pitch, often by step |
+| **Imitation** | One part copies a phrase just heard in another part (possibly at a different pitch) |
+| **Ostinato** | A short pattern (rhythmic, melodic or chordal) repeated persistently |
+| **Riff** | A short repeated melodic/rhythmic idea, typical of rock, jazz and funk |
+| **Alberti bass** | A left-hand accompaniment of broken chords in a repeated low–high–middle–high pattern (e.g. C–G–E–G); typical of Classical piano |
+| **Call and response** | One performer or group "calls", another answers (African, gospel, salsa, blues) |
 
-### Structure and form
+### 3. Basic forms
 
-| Form | Layout | Notes |
-|---|---|---|
-| **Binary** | A B | two contrasting sections, each often repeated; Baroque dance movements |
-| **Ternary** | A B A | contrast in the middle, then return |
-| **Rondo** | A B A C A (D A…) | main tune returns between contrasting episodes; Classical finales |
-| **Theme and variations** | A A¹ A² … | theme changed each time (melody, rhythm, key, texture) |
-| **Strophic** | A A A | same music for every verse; folk songs, hymns |
-| **Through-composed** | A B C D | no repeated sections; the music follows the words |
-| **Verse–chorus** | intro, verse, chorus, verse, chorus, bridge/middle 8, chorus, outro | pop and rock |
-| **Arch** | A B C B A | symmetrical |
-| **12-bar blues** | 12-bar chord pattern repeated | blues, rock and roll |
-| **Ground bass** | a repeating bass line with changing music above | Purcell; Baroque |
-| **Ritornello** | a returning orchestral theme, in different keys, between solo episodes | Baroque concerto (Bach) |
-| **Sonata form** | exposition, development, recapitulation | Classical first movements (Beethoven) |
+- **Binary form (A B):** two sections, often each repeated (‖: A :‖: B :‖). Baroque dances (minuet, gavotte). The A section usually moves from the tonic to the dominant; B returns.
+- **Ternary form (A B A):** a middle section that contrasts, then the first returns. The aria da capo and **minuet and trio** (minuet – trio – minuet).
+- **Rondo form (A B A C A…):** the main theme A keeps returning between **episodes** (contrasting sections). Classical finales are often rondos.
+- **Theme and variations:** a theme is stated and then varied: changing melody (ornamented), harmony, rhythm, tempo, key (major/minor), texture or instruments, while the theme stays recognisable.
+- **Strophic:** the same music for each verse (hymns, folk songs). **Through-composed:** new music for each verse (art songs, music that follows the story).
 
-### Sonata form (Beethoven, Pathétique, first movement)
+### 4. Baroque: ritornello form
 
-1. **Introduction**: slow, dramatic **Grave** with heavy chords in C minor.
-2. **Exposition**: first subject in C minor (fast, restless); second subject in the **relative major** (E♭ major); repeats.
-3. **Development**: themes are broken up, moved through different keys and developed.
-4. **Recapitulation**: first subject returns in C minor; second subject now also in the home key (C minor).
-5. **Coda**: closing section; the Grave introduction material returns.
+In the Baroque concerto (solo concerto or **concerto grosso**), the fast movements use **ritornello** form. The ritornello is a main theme played by the whole orchestra (the **ripieno** and continuo) that returns in different keys. Between the returns the soloist(s) (**concertino**) play **episodes**: virtuosic, more flexible and with modulation. The first and last ritornello are in the home key. Expect **terraced dynamics** (concerto contrasts of tutti against soloists) and **basso continuo** (harpsichord or organ plus cello/bass).
 
-### Ritornello form (Bach, Brandenburg 5, first movement)
+### 5. Classical: sonata form
 
-The **ritornello** (a bold tutti theme) is played by the full ensemble at the start and **returns in different keys** between **episodes** where the soloists (harpsichord, flute, violin) have lively, virtuosic passages. At the end, the harpsichord plays a long solo **cadenza**, then the ritornello returns in the tonic. The **harpsichord** has both a continuo role and a solo role.
+The first movement of a Classical sonata, string quartet, symphony or chamber work is usually in **sonata form**, in three parts:
 
-### Other structural markers
+| Section | What happens |
+|---|---|
+| **Exposition** | **First subject** in the **tonic**; a **transition** that modulates; **second subject** in a new key (the **dominant** for a major-key piece, the **relative major** for a minor-key piece); ends with a **codetta**. Often repeated |
+| **Development** | Themes broken up, played in many keys, with sequences, imitation, dissonance, fragmentation. Modulates widely, usually ends on a dominant preparing the return |
+| **Recapitulation** | Both subjects return, now **both in the tonic**; the transition changes so no modulation occurs |
+| **Coda** | An optional ending that confirms the tonic |
 
-- **Introduction**: opening, sets mood. **Coda**: ending section.
-- **Bridge / middle 8**: contrasting section (often 8 bars) near the end in pop.
-- **Link / transition**: connects sections. **Pre-chorus**: builds into the chorus.
-- **Cadenza**: unaccompanied virtuosic solo showing off the performer.
-- **Riff**: short repeated rhythmic or melodic pattern (rock, jazz, funk).
-- **Hook**: catchy melodic or rhythmic idea.
-- **Loop**: repeated section, used in dance and electronic music.
+Many sonata-form movements start with a slow **introduction** (e.g. Mozart's focus work begins with a slow Largo). A concerto adds a **cadenza**: an unaccompanied showy solo passage before the end, originally improvised. The **minuet and trio** is a Classical 3/4 dance movement in ternary form.
 
-### Describing structure well
+### 6. Pop, dance and Indian structures
 
-"The song is in **verse–chorus** form: two verses, each followed by the chorus, a middle 8 in a different key, and a final chorus with a key change." "The movement is in **ternary** form: the A section returns after a contrasting minor-key B section."
+- **Verse–chorus song:** **intro**, **verse**, **chorus**, **bridge** (or **middle eight**, a contrasting section of 8 bars, often later in the song), **outro**.
+- **EDM:** layers are added in a **build-up** that raises tension (rising pitch, snare roll, filters), a **drop** (the full-energy, bass-heavy hit), and a **breakdown** (stripped-back section, often with drums removed).
+- **Hindustani rāga performance:** begins with **ālāp** (slow, free-tempo exploration of the rāga with no rhythm and no tabla), moves to **jōr** (a pulse appears), then **jhālā** (fast, strummed, with rhythmic excitement), then **gat** (a fixed composition with tabla, in a tāla). Check the sequence in your class notes.
 
 ## Key terms and definitions
 
-- **Texture**: how the layers of sound in a piece fit together; the number and relationship of the parts.
-- **Monophonic**: a single melodic line without accompaniment.
-- **Homophonic**: music in which parts move together in chords, or one melody with chordal accompaniment.
-- **Polyphonic**: music with two or more melodic lines of equal importance played at the same time.
-- **Imitation**: a melody repeated by another part soon after it first appears.
-- **Canon**: a piece in which one melody is imitated exactly by other parts entering one after another.
-- **Binary form**: a structure of two sections, A and B.
-- **Ternary form**: a structure of three sections: A B A.
-- **Rondo**: a structure where the main theme (A) alternates with different episodes.
-- **Strophic**: a song in which every verse has the same music.
-- **Ground bass**: a bass line repeated throughout a piece, with new music above it.
-- **Coda**: a closing section at the end of a piece.
+- **Texture:** the way layers of sound are combined in a piece.
+- **Monophonic:** a single melodic line with no accompaniment.
+- **Homophonic:** a texture with a main melody and chordal accompaniment.
+- **Polyphonic:** a texture with two or more independent melodic lines at the same time.
+- **Heterophonic:** a texture in which different performers play different versions of the same melody simultaneously.
+- **Imitation:** a phrase copied in another part, usually at a different pitch.
+- **Sequence:** the repetition of a short musical idea at a higher or lower pitch.
+- **Ostinato:** a short musical pattern that is repeated persistently.
+- **Ritornello:** the recurring tutti theme in a Baroque concerto movement.
+- **Binary / ternary form:** a piece in two sections (A B) / three sections (A B A).
+- **Cadenza:** a virtuoso solo passage, usually near the end of a concerto movement.
 
 ## Worked examples
 
-**1. Name the texture when the flute plays a melody and the violin enters later with the same melody. [2]**
-Polyphonic / contrapuntal (1), with imitation between the instruments (1).
+**1. An extract has a flute melody over strummed guitar chords. Name the texture. [1]**
+**Homophonic** (melody and accompaniment).
 
-**2. A song goes intro, verse, chorus, verse, chorus, middle 8, chorus, outro. Name the structure and say what the middle 8 does. [2]**
-Verse–chorus form (1); the middle 8 gives contrast (new chords/key) before the final chorus (1).
+**2. A song has sections: introduction, 2 verses, chorus, a contrasting section, final chorus. Name the contrasting section. [1]**
+The **bridge** (or middle eight).
 
-**3. Describe how the texture changes in a track that starts with a drum pattern and adds a bass, then synth and voice. [3]**
-"It is a layered texture (1) that begins thin with only percussion (1) and gradually thickens as each part is added, ending in a thick, full texture (1)."
+**3. Describe the structure of this extract, played in a Classical style: theme in tonic, bridge passage, new theme in dominant, repeat of exposition. [3]**
+"This is the **exposition** of a **sonata form** movement [1]. The **first subject** is in the tonic [1] and the **second subject** is in the dominant after a **transition** [1]."
 
 ## Common mistakes
 
-- Mixing up homophonic and polyphonic. Test: are there two or more equal, independent tunes (polyphonic), or one tune with chords (homophonic)?
-- Calling any repeated tune a "round" or canon: canon is strict imitation.
-- Confusing **binary** (AB) with **ternary** (ABA) and **rondo** (ABACA).
-- Saying "chorus" for every repeated part: it is the part with the same words and music.
-- Forgetting that **monophonic** is one line even when many people play it.
-- Describing only the start of the texture when the question asks how it changes.
+- Writing "polyphonic" for any texture with many instruments; polyphonic needs independent melodies.
+- Confusing **unison** (same pitch) with **octaves**.
+- Putting both subjects in the dominant in the recapitulation: both return in the **tonic**.
+- Mixing up **sequence** (same idea at a new pitch) with **repetition** (same pitch).
+- Calling a ritornello a "chorus". It is the returning tutti theme.
+- Writing letter structures without checking for repeats; A A B is not A B.
+- Calling heterophony "homophony". Heterophony: same melody at once, slightly different.
 
 ## Practice questions
 
 1. Name the texture of a single unaccompanied melody. [1]
 2. What is the difference between homophonic and polyphonic textures? [2]
-3. What is the structure A B A called? [1]
-4. Name the main sections of sonata form. [3]
-5. What is a ground bass? Name a set work that uses one. [2]
-6. Define *call and response*. [2]
-7. What is a ritornello? [2]
-8. Name the term for a long unaccompanied virtuoso solo in a concerto. [1]
+3. Describe an Alberti bass. [1]
+4. Give the structure letters for minuet and trio. [1]
+5. In which section of sonata form do the themes get broken up and moved through different keys? [1]
+6. In which key is the second subject in the exposition of a major-key sonata-form movement? [1]
+7. What is a cadenza? [1]
+8. In an EDM track, what is the "drop"? [1]
 
 <details><summary>Answers</summary>
 
 1. Monophonic.
-2. Homophonic: parts move together in chords or a melody has accompaniment (1); polyphonic: two or more independent melodies at once (1).
-3. Ternary form.
-4. Exposition, development, recapitulation (1 each).
-5. A repeating bass line (1) with different music above; Purcell, *Music for a While* (1).
-6. A phrase (call) sung or played by one performer (1) answered by another (1).
-7. A recurring theme played by the full ensemble (1) that returns in different keys between solo episodes (1).
-8. Cadenza.
+2. Homophonic: melody with chordal accompaniment [1]; polyphonic: two or more independent melodies at once [1].
+3. A left-hand accompaniment of broken chords in a repeating low–high–middle–high pattern.
+4. A B A (ternary).
+5. The development.
+6. The dominant.
+7. A virtuoso unaccompanied solo passage near the end of a concerto movement.
+8. The section where the full-energy beat and bass enter after a build-up.
 
 </details>
 
 ## Plan for this hour
 
-- 15 min: textures table and techniques: say each term and give one piece.
-- 15 min: structures table; draw A, B, C boxes for five forms.
-- 10 min: sonata form and ritornello.
-- 10 min: worked examples and practice questions.
-- 10 min: listen to a pop song and the Bach extract; label texture and structure for each.
+- 15 min: texture table: write one real example you know for each type.
+- 15 min: forms (binary, ternary, rondo, variations, ritornello, sonata): draw each as letters.
+- 10 min: listen to any Baroque concerto movement and any Classical first movement; label the sections.
+- 10 min: pop, EDM and Indian structure words.
+- 10 min: quiz and flashcards.

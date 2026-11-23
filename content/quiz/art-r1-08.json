@@ -3,48 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What does the 'F' in CFPM stand for?",
+   "q": "Is annotation compulsory in Cambridge IGCSE Art & Design?",
    "options": [
-    "Focus",
-    "Form",
-    "Frame",
-    "Finish"
-   ],
-   "answer": 1,
-   "why": "Content, Form, Process, Mood."
-  },
-  {
-   "type": "mcq",
-   "q": "Which annotation is strongest?",
-   "options": [
-    "I like this because it looks good.",
-    "The painting is colourful and detailed.",
-    "Thick impasto strokes catch the light and lead the eye, making the sky feel restless, so I will use directional marks in my own study.",
-    "This is by Van Gogh."
+    "Yes, on every page",
+    "Yes, in Component 2 only",
+    "No, but if used it must be relevant, purposeful and in English",
+    "No, and it is not allowed"
    ],
    "answer": 2,
-   "why": "It describes, gives evidence, explains the effect and links to own work."
+   "why": "The syllabus says candidates do not have to annotate; if they do it must be relevant, purposeful and in English."
   },
   {
    "type": "mcq",
-   "q": "In P-E-E-L, what does the final L stand for?",
+   "q": "In 'content, form, process, mood', what does 'form' cover?",
    "options": [
-    "Look",
-    "Link",
-    "Layout",
-    "Label"
+    "The materials used",
+    "How the work is put together using the formal elements and composition",
+    "What the subject is",
+    "The artist's life"
    ],
    "answer": 1,
-   "why": "Link the point back to your own work or next step."
+   "why": "Form is line, tone, colour, shape, composition and so on."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is the strongest annotation?",
+   "options": [
+    "I used 4B pencil to show creases; the dark tone makes the shoe feel heavy, matching my theme of journeys.",
+    "I like this painting.",
+    "I drew a shoe.",
+    "First I drew, then I shaded."
+   ],
+   "answer": 0,
+   "why": "It names media, a visual effect and a link to the theme."
   },
   {
    "type": "short",
-   "q": "Describe how to write a useful annotation for one of your own experiments.",
-   "model": "State what you did (materials/technique), evaluate what happened with reasons, and say what you will do next because of it.",
+   "q": "Describe the mood of an artwork you know and explain two ways it is created.",
+   "model": "In The Scream the mood is anxious. The wavy lines of the sky make everything seem unstable and the orange against dark blue creates tension.",
    "points": [
-    "what I did (materials/technique)",
-    "evaluation with reason",
-    "next step/decision"
+    "names an artwork and a mood",
+    "one formal element explained",
+    "second element explained"
    ]
   }
  ]

@@ -3,156 +3,156 @@
  "cards": [
   {
    "f": "Line",
-   "b": "A mark made by a moving point; shows edges, direction and movement."
+   "b": "A mark with length and direction; can be thick or thin, continuous or broken, contour or gestural."
   },
   {
    "f": "Tone",
-   "b": "How light or dark something is."
+   "b": "How light or dark something is; builds form, depth and mood."
+  },
+  {
+   "f": "Colour",
+   "b": "Hue, value and saturation; used for mood, focus and symbolism."
+  },
+  {
+   "f": "Texture",
+   "b": "Surface quality; actual (can be felt) or visual (implied)."
   },
   {
    "f": "Shape",
-   "b": "A flat, two-dimensional enclosed area. Can be geometric or organic."
+   "b": "A flat, enclosed area; geometric or organic."
   },
   {
    "f": "Form",
-   "b": "A three-dimensional object, real or implied in a drawing by tone and perspective."
+   "b": "Three-dimensional, or made to look so using tone and perspective."
   },
   {
-   "f": "Actual texture vs visual texture",
-   "b": "Actual can be felt (collage, thick paint). Visual is drawn or painted to look like a texture."
+   "f": "Hatching",
+   "b": "Parallel lines used to build tone."
   },
   {
-   "f": "Hatching and cross-hatching",
-   "b": "Parallel lines (and layers of crossing lines) used to build tone; closer together = darker."
+   "f": "Cross-hatching",
+   "b": "Layers of lines crossing at angles for darker tone."
+  },
+  {
+   "f": "Stippling",
+   "b": "Building tone with dots."
   },
   {
    "f": "Chiaroscuro",
-   "b": "Strong contrast of light and dark, used by Rembrandt and Caravaggio for drama and solid form."
+   "b": "Strong contrast of light and dark for drama, as in Caravaggio and Rembrandt."
   },
   {
-   "f": "Frottage",
-   "b": "A rubbing taken with pencil or crayon over a textured surface."
-  },
-  {
-   "f": "Impasto",
-   "b": "Thick paint applied so brushstrokes or palette-knife marks stand out."
+   "f": "Contour line",
+   "b": "A line that follows the edges of a form."
   },
   {
    "f": "Negative space",
-   "b": "The space around and between the main objects. Drawing it helps accuracy."
+   "b": "The space around and between objects; drawing it helps accuracy."
   },
   {
-   "f": "Warm and cool colours",
-   "b": "Warm: reds, oranges, yellows (advance). Cool: blues, greens, purples (recede)."
-  },
-  {
-   "f": "Focal point",
-   "b": "The place the eye goes first, made by strongest contrast, colour or size."
-  },
-  {
-   "f": "Parts of a shaded form",
-   "b": "Highlight, mid-tone, core shadow, reflected light, and a cast shadow on the surface."
+   "f": "Frottage",
+   "b": "Rubbing pencil or crayon over a textured surface to record texture."
   },
   {
    "f": "Rule of thirds",
-   "b": "Place key features on the thirds lines of the picture rather than dead centre."
+   "b": "Place the focal point on a line of a 3×3 grid, not the centre."
   },
   {
-   "f": "Saturation",
-   "b": "How pure or strong a colour is."
+   "f": "Tonal scale",
+   "b": "A row of squares from white to black to check your range of tone."
   }
  ],
  "gaps": [
   {
-   "s": "Strong contrast of light and dark is called ___.",
-   "a": [
-    "chiaroscuro"
-   ]
-  },
-  {
-   "s": "A flat, enclosed area is a ___.",
+   "s": "A flat enclosed area is called a ___.",
    "a": [
     "shape"
    ]
   },
   {
-   "s": "A three-dimensional object, or the illusion of one, is a ___.",
+   "s": "Drawing with dots to build tone is called ___.",
    "a": [
-    "form"
+    "stippling"
    ]
   },
   {
-   "s": "A rubbing over a textured surface is called ___.",
+   "s": "Strong contrast of light and dark is known as ___.",
    "a": [
-    "frottage"
+    "chiaroscuro"
    ]
   },
   {
-   "s": "Thick, raised paint is called ___.",
+   "s": "Texture that can really be felt is called ___ texture.",
    "a": [
-    "impasto"
+    "actual",
+    "real"
    ]
   },
   {
-   "s": "The space around objects is ___ space.",
+   "s": "The space around an object is called ___ space.",
    "a": [
     "negative"
    ]
   },
   {
-   "s": "Lines that cross to build dark tone are ___.",
+   "s": "A line that follows the outline of a form is a ___ line.",
    "a": [
-    "cross-hatching",
-    "cross hatching",
-    "crosshatching"
+    "contour"
    ]
   },
   {
-   "s": "Reds, oranges and yellows are ___ colours.",
+   "s": "Rubbing a pencil over a textured surface is called ___.",
    "a": [
-    "warm"
+    "frottage",
+    "rubbing"
+   ]
+  },
+  {
+   "s": "Shapes with regular, mathematical edges such as squares are called ___ shapes.",
+   "a": [
+    "geometric"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain the difference between shape and form.",
-   "model": "Shape is flat and two-dimensional; form is three-dimensional or looks it through tone and perspective.",
+   "q": "Describe how to make a drawn sphere look three-dimensional.",
+   "model": "Add a smooth gradation from light to dark, with a highlight, a darkest area on the side away from the light, and a cast shadow beneath.",
    "points": [
-    "shape is 2D",
-    "form is 3D / implied volume"
+    "tonal gradation and highlight",
+    "cast shadow"
    ]
   },
   {
-   "q": "Describe two techniques for creating tone with a pen.",
-   "model": "Hatching with closely spaced parallel lines, cross-hatching with crossing layers, or stippling dots; denser marks make darker tone.",
+   "q": "Explain why a drawing using only mid-grey tones looks flat.",
+   "model": "Without very light and very dark areas, there is no contrast to describe light and form, so objects lack depth and solidity.",
    "points": [
-    "hatching/cross-hatching",
-    "stippling / denser = darker"
+    "lack of tonal range/contrast",
+    "no sense of form or depth"
    ]
   },
   {
-   "q": "How can an artist use line to show emotion? Give two ways.",
-   "model": "Use heavy, bold, fast lines for energy or anger, and light, broken, wobbly lines for fragility or nervousness.",
+   "q": "Give two ways of creating visual texture.",
+   "model": "Use hatching for fur, stippling for stone, dry-brush marks for wood, or take rubbings and draw them.",
    "points": [
-    "varied thickness/pressure",
-    "broken vs continuous / speed"
+    "method one",
+    "method two"
    ]
   },
   {
-   "q": "What is a focal point and how do you make one?",
-   "model": "The place the eye goes first. Make it with the strongest contrast of tone or colour, the largest shape or placement on a thirds line.",
+   "q": "How can line quality change the mood of a drawing?",
+   "model": "Thick, dark and jagged lines feel aggressive or tense, while thin, light and curved lines feel delicate or calm.",
    "points": [
-    "place the eye goes first",
-    "contrast/colour/size/position"
+    "heavy/jagged = strong, tense",
+    "light/curved = gentle"
    ]
   },
   {
-   "q": "Name one artist and describe how they use a formal element.",
-   "model": "Egon Schiele used a confident, expressive contour line in figure drawings; or Matisse used flat bold colour shapes.",
+   "q": "Why is composition part of visual language?",
+   "model": "Where you place elements, their scale and focal point guide the viewer's eye and communicate your intention.",
    "points": [
-    "real artist named",
-    "accurate element described"
+    "arrangement guides the eye",
+    "communicates intention"
    ]
   }
  ]

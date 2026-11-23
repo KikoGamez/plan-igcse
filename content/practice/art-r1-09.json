@@ -3,66 +3,78 @@
  "cards": [
   {
    "f": "Renaissance",
-   "b": "1400s-1500s, Italy first. Realism, linear perspective, anatomy, balance. Leonardo, Michelangelo, Raphael."
+   "b": "c.1400-1600. Revival of Greek and Roman ideas; perspective, anatomy, realism."
+  },
+  {
+   "f": "Linear perspective",
+   "b": "A system for showing depth where parallel lines meet at a vanishing point (Brunelleschi, Alberti)."
   },
   {
    "f": "Sfumato",
-   "b": "Soft, smoky blending with no hard outlines, used by Leonardo in the Mona Lisa."
+   "b": "Soft, smoky blending of tones without hard outlines; Leonardo da Vinci."
   },
   {
    "f": "Chiaroscuro",
-   "b": "Strong contrast of light and dark to create volume and drama."
-  },
-  {
-   "f": "Baroque",
-   "b": "1600s: drama, movement, rich colour and tenebrism. Caravaggio, Rembrandt, Velázquez."
+   "b": "Strong contrast between light and dark in a picture."
   },
   {
    "f": "Tenebrism",
-   "b": "Very dark shadows lit by a spotlight-like light; typical of Caravaggio."
+   "b": "Very dark shadows with a strong spotlight. Caravaggio."
+  },
+  {
+   "f": "Baroque",
+   "b": "c.1600-1750. Drama, movement, emotion. Caravaggio, Rembrandt, Velazquez."
   },
   {
    "f": "Las Meninas",
-   "b": "Velázquez, c.1656, Prado Museum, Madrid."
+   "b": "By Velazquez (1656), in the Prado, Madrid."
   },
   {
    "f": "Neoclassicism",
-   "b": "Late 1700s France. Order, clarity, classical subjects. Jacques-Louis David."
+   "b": "c.1760-1830. Order and clarity inspired by ancient Greece and Rome; Jacques-Louis David."
   },
   {
    "f": "Romanticism",
-   "b": "Emotion, imagination, nature and the sublime. Turner, Delacroix, Friedrich, Goya."
+   "b": "c.1800-1850. Emotion, imagination and the power of nature: Turner, Delacroix, Goya, Friedrich."
   },
   {
    "f": "The Third of May 1808",
-   "b": "Goya, 1814: protest against war and a firing squad; in the Prado."
+   "b": "Goya, painted 1814; French soldiers shoot Madrid citizens; in the Prado."
   },
   {
    "f": "Realism",
-   "b": "Mid-1800s France: ordinary people and workers, painted honestly. Courbet, Millet."
+   "b": "c.1840-1880. Ordinary working people painted honestly: Courbet, Millet."
   },
   {
    "f": "Impressionism",
-   "b": "1860s-80s France: light, plein air, broken brushstrokes, pure colour. Monet, Renoir, Degas, Morisot."
+   "b": "1870s-1880s France. Broken brushstrokes, bright colour, light, painting outdoors."
   },
   {
    "f": "En plein air",
-   "b": "Painting outdoors, directly from the subject."
-  },
-  {
-   "f": "Impression, Sunrise",
-   "b": "Monet, 1872: the painting that gave Impressionism its name."
-  },
-  {
-   "f": "Post-Impressionism",
-   "b": "Artists after Impressionism seeking more feeling, structure or symbolism: Van Gogh, Cézanne, Seurat, Gauguin."
+   "b": "Painting outdoors from direct observation."
   },
   {
    "f": "Pointillism",
-   "b": "Seurat's technique of tiny dots of pure colour that mix in the viewer's eye."
+   "b": "Tiny dots of pure colour that mix in the eye; Seurat, La Grande Jatte."
+  },
+  {
+   "f": "Post-Impressionism",
+   "b": "c.1885-1905. Van Gogh, Cezanne, Seurat, Gauguin: personal expression beyond Impressionism."
   }
  ],
  "gaps": [
+  {
+   "s": "Soft, smoky blending used by Leonardo is called ___.",
+   "a": [
+    "sfumato"
+   ]
+  },
+  {
+   "s": "Very dark shadows with a spotlight is ___.",
+   "a": [
+    "tenebrism"
+   ]
+  },
   {
    "s": "Painting outdoors is called en plein ___.",
    "a": [
@@ -70,92 +82,80 @@
    ]
   },
   {
-   "s": "Seurat's dot technique is called ___.",
+   "s": "Seurat painted with tiny dots, a technique called ___.",
    "a": [
     "pointillism",
-    "pointillist"
+    "pointilism"
    ]
   },
   {
-   "s": "Leonardo's soft blending technique is called ___.",
+   "s": "Las Meninas was painted by ___.",
    "a": [
-    "sfumato"
+    "Velazquez",
+    "Velázquez",
+    "Diego Velazquez",
+    "Diego Velázquez"
    ]
   },
   {
-   "s": "The painter of Las Meninas is ___.",
+   "s": "Impression, Sunrise was painted by ___.",
    "a": [
-    "velázquez",
-    "velazquez",
-    "diego velázquez",
-    "diego velazquez"
+    "Monet",
+    "Claude Monet"
    ]
   },
   {
-   "s": "The first Impressionist exhibition was held in Paris in ___.",
+   "s": "Thick paint that keeps brush marks is called ___.",
    "a": [
-    "1874"
+    "impasto"
    ]
   },
   {
-   "s": "Van Gogh painted The Starry ___.",
+   "s": "Romanticism valued emotion and the power of ___.",
    "a": [
-    "night"
-   ]
-  },
-  {
-   "s": "___ is very dark shadows with a spotlight effect, used by Caravaggio.",
-   "a": [
-    "tenebrism"
-   ]
-  },
-  {
-   "s": "Cézanne's use of multiple viewpoints was a step towards ___.",
-   "a": [
-    "cubism"
+    "nature"
    ]
   }
  ],
  "short": [
   {
-   "q": "Give two features of Renaissance painting and one artist.",
-   "model": "Linear perspective and realistic anatomy/balanced composition; e.g. Leonardo da Vinci.",
+   "q": "State two features of the Renaissance.",
+   "model": "Artists used linear perspective to show depth and studied anatomy for realistic bodies, reviving ideas from ancient Greece and Rome.",
    "points": [
-    "feature 1",
-    "feature 2",
-    "artist named"
+    "perspective",
+    "anatomy / classical revival / realism"
    ]
   },
   {
-   "q": "How does Post-Impressionism differ from Impressionism?",
-   "model": "Post-Impressionists focused on personal expression, structure or symbolism rather than only capturing light.",
+   "q": "Compare Realism and Romanticism.",
+   "model": "Realism showed ordinary people and everyday life honestly, while Romanticism focused on emotion, imagination and the power of nature.",
    "points": [
-    "personal expression/structure/symbolism",
-    "contrast with light/optical focus"
+    "realism: ordinary life",
+    "romanticism: emotion / nature"
    ]
   },
   {
-   "q": "Describe how you could use Caravaggio in a still life study.",
-   "model": "Light the objects with one lamp on dark paper and draw with charcoal and white chalk for strong light and shadow.",
+   "q": "How could you use Caravaggio in a still-life project?",
+   "model": "Light fruit with one lamp in a dark box and draw in charcoal with white chalk to get strong contrast and drama.",
    "points": [
-    "single strong light source",
-    "dark background/high contrast"
+    "tenebrism / strong light and dark",
+    "applied technique to still life"
    ]
   },
   {
-   "q": "Name one Spanish artist from this period and one work.",
-   "model": "Goya, The Third of May 1808 (or Velázquez, Las Meninas).",
+   "q": "Why is Van Gogh Post-Impressionist?",
+   "model": "He built on Impressionist colour but moved to personal, expressive thick paint and emotional colour rather than recording light.",
    "points": [
-    "artist",
-    "work"
+    "starts from Impressionism",
+    "moves to personal expression"
    ]
   },
   {
-   "q": "Why is it important to include dates and titles on research pages?",
-   "model": "They show accurate knowledge and context so the work can be identified and analysed.",
+   "q": "Name two Impressionist painters and one feature of one.",
+   "model": "Monet and Renoir; Monet used broken brushstrokes to show light on water.",
    "points": [
-    "accuracy",
-    "context/identification"
+    "two correct artists",
+    "one accurate feature"
    ]
   }
  ]

@@ -2,158 +2,159 @@
  "id": "music-r1-10",
  "cards": [
   {
-   "f": "Bach set work",
-   "b": "Brandenburg Concerto No. 5 in D major, 3rd movement; concerto grosso; ritornello form."
+   "f": "Focus works (Areas 1–3)",
+   "b": "Vivaldi Spring, Handel Op. 6 No. 5, Mozart K. 452, Smetana Vltava; not played in the exam."
   },
   {
-   "f": "Concertino in Brandenburg 5",
-   "b": "Solo flute, violin and harpsichord."
+   "f": "Mozart K. 452 forces",
+   "b": "Piano, oboe, clarinet, horn, bassoon. E flat major, 1784."
   },
   {
-   "f": "Ripieno",
-   "b": "The full string orchestra in a concerto grosso."
+   "f": "Vivaldi Spring key",
+   "b": "E major; solo violin, strings and continuo."
   },
   {
-   "f": "Ritornello form",
-   "b": "Full-ensemble theme returns between solo episodes, in different keys."
+   "f": "Handel Op. 6 No. 5 key",
+   "b": "D major; concertino of two violins and cello."
   },
   {
-   "f": "Beethoven set work",
-   "b": "Piano Sonata No. 8 in C minor 'Pathétique', 1st movement; sonata form."
+   "f": "Vltava is in a ... genre",
+   "b": "Symphonic poem (programme music) from Má vlast."
   },
   {
-   "f": "Pathétique introduction",
-   "b": "Grave: slow, heavy chords, dramatic dynamics; returns in development and coda."
+   "f": "Perfect cadence",
+   "b": "Chord V then chord I."
   },
   {
-   "f": "Sonata form",
-   "b": "Exposition, development, recapitulation."
+   "f": "Imperfect cadence",
+   "b": "A phrase ending on chord V."
   },
   {
-   "f": "Pathétique second subject key",
-   "b": "Starts in E♭ minor, then E♭ major in the exposition."
+   "f": "Interrupted cadence",
+   "b": "Chord V followed by chord VI."
   },
   {
-   "f": "Purcell set work",
-   "b": "Music for a While, 1692, from Oedipus; solo voice over ground bass."
+   "f": "B flat clarinet",
+   "b": "Sounds a major second lower than written."
   },
   {
-   "f": "Ground bass",
-   "b": "Bass pattern repeated while upper parts change."
+   "f": "A clarinet",
+   "b": "Sounds a minor third lower than written."
   },
   {
-   "f": "Melisma",
-   "b": "Many notes to one syllable, e.g. 'beguile'."
+   "f": "Horn in F",
+   "b": "Sounds a perfect fifth lower than written."
   },
   {
-   "f": "Word-painting",
-   "b": "Music that illustrates the meaning of the words."
+   "f": "Horn in E flat",
+   "b": "Sounds a major sixth lower than written."
   },
   {
-   "f": "Queen set work",
-   "b": "Killer Queen, 1974, album Sheer Heart Attack, written by Freddie Mercury."
+   "f": "Ritornello form letters",
+   "b": "R E R E R: tutti returns between solo episodes."
   },
   {
-   "f": "Killer Queen texture",
-   "b": "Lead vocal, piano, layered multi-tracked guitar and vocal harmonies."
+   "f": "Sonata form sections",
+   "b": "Exposition, development, recapitulation, optional coda."
   },
   {
-   "f": "Killer Queen key",
-   "b": "E♭ major."
+   "f": "Relative minor",
+   "b": "Minor key with the same key signature, three semitones below the major tonic."
+  },
+  {
+   "f": "Anacrusis",
+   "b": "An upbeat: notes before the first strong beat."
   }
  ],
  "gaps": [
   {
-   "s": "Bach's Brandenburg Concerto No. 5 is a concerto ___.",
+   "s": "The focus work for Area 3 is Smetana's ___.",
    "a": [
-    "grosso"
+    "vltava"
    ]
   },
   {
-   "s": "The solo group in a concerto grosso is the ___.",
+   "s": "Mozart's K. 452 is in the key of E ___ major.",
+   "a": [
+    "flat"
+   ]
+  },
+  {
+   "s": "A V–I cadence is a ___ cadence.",
+   "a": [
+    "perfect"
+   ]
+  },
+  {
+   "s": "A cadence ending on V is an ___ cadence.",
+   "a": [
+    "imperfect"
+   ]
+  },
+  {
+   "s": "A change of key within a piece is a ___.",
+   "a": [
+    "modulation"
+   ]
+  },
+  {
+   "s": "The sounding pitch of a transposing instrument is called ___ pitch.",
+   "a": [
+    "concert"
+   ]
+  },
+  {
+   "s": "The group of soloists in Handel's Op. 6 is the ___.",
    "a": [
     "concertino"
    ]
   },
   {
-   "s": "The Pathétique sonata is in the key of C ___.",
+   "s": "The relative minor of E flat major is C ___.",
    "a": [
     "minor"
-   ]
-  },
-  {
-   "s": "The slow opening of the Pathétique is marked ___.",
-   "a": [
-    "grave"
-   ]
-  },
-  {
-   "s": "Purcell's piece is built over a ground ___.",
-   "a": [
-    "bass"
-   ]
-  },
-  {
-   "s": "Many notes sung to one syllable is called a ___.",
-   "a": [
-    "melisma"
-   ]
-  },
-  {
-   "s": "Killer Queen was written by Freddie ___.",
-   "a": [
-    "mercury"
-   ]
-  },
-  {
-   "s": "Brian May layered guitars using ___ recording.",
-   "a": [
-    "multi-track",
-    "multitrack",
-    "multi-tracking",
-    "multitracking"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the texture of the third movement of Brandenburg 5.",
-   "model": "Mainly polyphonic with fugal entries of the subject and imitation, with homophonic full-ensemble ritornello sections and continuo.",
+   "q": "Why are the focus works not played in the exam?",
+   "model": "Extracts are related to them in style, structure or genre; the aim is to learn skills and apply them to unfamiliar music.",
    "points": [
-    "Polyphonic/fugal imitation",
-    "Continuo or full-ensemble homophony"
+    "not used in exam",
+    "apply skills to extracts"
    ]
   },
   {
-   "q": "How does Beethoven use dynamics in the Pathétique first movement?",
-   "model": "He uses sudden extremes such as ff and p, sforzandi and crescendos, which suit the piano and create drama.",
+   "q": "How do you transpose a B flat clarinet part to concert pitch?",
+   "model": "Move each written note down a major second and use the matching key signature.",
    "points": [
-    "Sudden contrasts",
-    "Piano's dynamic range"
+    "down a major second",
+    "key signature changes"
    ]
   },
   {
-   "q": "Explain how a ground bass gives unity in Music for a While.",
-   "model": "The same bass pattern repeats throughout while the voice and harmony vary above, so the song stays unified yet varied.",
+   "q": "Describe the structure of sonata form.",
+   "model": "Exposition with first and second subjects in different keys, development exploring themes, recapitulation with both subjects in the tonic.",
    "points": [
-    "Repeated bass",
-    "Variation above it"
+    "exposition/development/recap",
+    "key plan"
    ]
   },
   {
-   "q": "Describe the vocal parts in Killer Queen.",
-   "model": "Lead vocal by Mercury with layered, multi-tracked backing harmonies, panned across the stereo field.",
+   "q": "Name the four elements you would use to describe an extract.",
+   "model": "Any four of: instruments, melody, harmony/tonality, rhythm/metre, texture, structure, dynamics/tempo, context.",
    "points": [
-    "Lead vocal",
-    "Multi-tracked harmonies"
+    "four elements",
+    "named correctly"
    ]
   },
   {
-   "q": "Name two Baroque features of Music for a While.",
-   "model": "Basso continuo (harpsichord and bass), ground bass, ornamentation and word-painting.",
+   "q": "Give one context point for Vivaldi's Spring.",
+   "model": "It is a Baroque solo concerto, programme music based on a sonnet about spring.",
    "points": [
-    "Basso continuo",
-    "Ground bass"
+    "Baroque concerto",
+    "programme/sonnet"
    ]
   }
  ]

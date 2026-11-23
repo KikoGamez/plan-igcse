@@ -1,58 +1,49 @@
 # Elements: melody, pitch and notation
 
-> **In the exam:** Appears throughout the Appraising paper (1 h 45 min, 80 marks). Typical tasks: describe a melody (2–4 marks: "conjunct", "sequence", "ornaments"), name an interval or ornament (1 mark), identify the scale or key (1–2 marks), and **dictation**: fill in missing pitches on a stave (up to about 12 marks across the dictation question). You also use melody vocabulary in your Composing and in the 12-mark comparison.
+> **In the exam:** Paper 1 (70 marks) has printed music in most questions, so notation skills earn marks in every area of study. Typical questions: "Name the interval between the two circled notes" [1], "Which scale is used?" [1], "Identify the key of this passage" [1], "Which of these (A to D) is the missing bar of melody?" [1], "Name the ornament" [1], "Write the concert pitch of this clarinet note" [1], and "Describe the melody" in a descriptive question [3 to 4]. Clefs seen: treble, bass and **alto**.
 
 ## What you need to know
 
-- Reading and writing the **treble clef** and **bass clef** (and ledger lines); accidentals; key signatures up to 4 sharps and 4 flats.
-- **Intervals** by number (2nd, 3rd, 4th, 5th, 6th, 7th, octave), including major, minor and perfect.
-- **Scales and modes used in the course**: major, natural / harmonic / melodic minor, pentatonic, chromatic, blues scale.
-- **Melodic devices**: motif, phrase, sequence, repetition, ostinato, conjunct, disjunct, arpeggio, passing note, range.
-- **Ornaments**: trill, mordent, turn, acciaccatura, appoggiatura.
-- Transposition and relative major/minor.
+- Staff notation: treble, bass and alto clefs; key signatures up to four sharps or flats; ledger lines.
+- Intervals: **major, minor and perfect** intervals.
+- Scales and modes: major, minor, chromatic, modal, pentatonic, raga and maqām.
+- Melodic features: ascending, descending, by step, in leaps; scalic, broken chord, arpeggio, countermelody, phrases, improvisation, leitmotif, range, fanfare, hook, riff, raga, quarter-tone.
+- Ornaments and signs: trill, mordent, turn, appoggiatura, acciaccatura; slur, pause.
+- Transposing instruments: trumpets in B♭, clarinets in B♭ and A, horns in F and E♭.
 
 ## Notes
 
-### The stave and clefs
+### 1. Reading the staff
 
-Notes sit on or between five lines. **Treble clef**: lines E G B D F ("Every Good Boy Deserves Fruit"), spaces F A C E. **Bass clef**: lines G B D F A ("Good Boys Deserve Fruit Always"), spaces A C E G. **Middle C** sits on a ledger line just below the treble stave and just above the bass stave. **Ledger lines** extend the stave. The **alto clef** (viola) puts middle C on the centre line; you may meet it in unfamiliar music but dictation is in treble or bass.
+| Clef | Line notes (bottom to top) | Space notes (bottom to top) | Notes |
+|---|---|---|---|
+| **Treble** | E G B D F | F A C E | Memory: *Every Good Boy Deserves Fun*; spaces spell FACE |
+| **Bass** | G B D F A | A C E G | *Good Boys Do Fine Always*; *All Cows Eat Grass* |
+| **Alto** | F A C E G | G B D F | The **middle line is middle C**. Used by the viola |
 
-**Accidentals** change a pitch: sharp (♯) raises a semitone, flat (♭) lowers a semitone, natural (♮) cancels. An accidental lasts until the end of the bar.
+Middle C: one ledger line below the treble staff, one above the bass staff, middle line in the alto clef. Alto clef questions are common in exams because candidates forget it; find middle C first, then count up or down.
 
-### Key signatures
+### 2. Key signatures (up to four sharps or flats)
 
-Sharps appear in this order: **F C G D A E B** ("Father Charles Goes Down And Ends Battle"). Flats in the reverse: **B E A D G C F**.
+Sharps are added in the order **F C G D**; flats in the order **B E A D**. The last sharp is the leading note (one semitone below the tonic), so the major key is a semitone above the last sharp. For flats, the major key is the **second-to-last flat** (except F major with one flat).
 
-| Major key | Key signature | Relative minor |
+| Sharps/flats | Major key | Relative minor |
 |---|---|---|
-| C | none | A minor |
-| G | 1 sharp (F♯) | E minor |
-| D | 2 sharps (F♯ C♯) | B minor |
-| A | 3 sharps | F♯ minor |
-| F | 1 flat (B♭) | D minor |
-| B♭ | 2 flats (B♭ E♭) | G minor |
-| E♭ | 3 flats | C minor |
-| A♭ | 4 flats | F minor |
+| none | C | A minor |
+| 1♯ (F♯) | G | E minor |
+| 2♯ (F♯ C♯) | D | B minor |
+| 3♯ | A | F♯ minor |
+| 4♯ | E | C♯ minor |
+| 1♭ (B♭) | F | D minor |
+| 2♭ | B♭ | G minor |
+| 3♭ | E♭ | C minor |
+| 4♭ | A♭ | F minor |
 
-To find the major key from sharps: go **up a semitone from the last sharp**. From flats: the **second-last flat** is the key (one flat = F major). The **relative minor** starts a minor 3rd (three semitones) below the major's tonic and shares its key signature. Beethoven's Pathétique is in C minor, whose key signature is 3 flats (the same as E♭ major).
+The **relative minor** starts 3 semitones (a minor 3rd) below the major tonic and shares its key signature. To decide between major and minor: look at the final note and the chords, and look for the **raised 7th** (an accidental on the 7th degree) that signals a minor key.
 
-### Scales
+### 3. Intervals
 
-| Scale | Pattern / notes | Where you hear it |
-|---|---|---|
-| **Major** | tone-tone-semitone-tone-tone-tone-semitone | bright, happy, most pop and classical |
-| **Natural minor** | notes of the relative major starting on the 6th note | sad, folk, rock |
-| **Harmonic minor** | natural minor with the **7th raised** by a semitone | classical minor key; gives the leading note and a distinctive augmented 2nd (6th to 7th) |
-| **Melodic minor** | **6th and 7th raised going up**, natural minor coming down | smooth classical melodies |
-| **Pentatonic** | five notes, e.g. C D E G A (no semitones) | folk, rock riffs, East Asian music |
-| **Chromatic** | all twelve notes, every semitone | tension, descending lines, word-painting |
-| **Blues** | minor pentatonic plus a flattened 5th ("blue note") | blues, jazz, rock |
-
-Whole-tone scale and modes (Dorian, Mixolydian) may appear in unfamiliar music; a mode is a scale with a different starting note, giving a different flavour.
-
-### Intervals
-
-An interval is the **distance between two notes**. Count the letter names, including both notes (C to E = 3rd). Then the quality:
+An interval is the distance between two notes. Step 1: count the letter names including both notes (C to E = a 3rd). Step 2: decide the quality (major, minor, perfect) by counting semitones.
 
 | Interval | Semitones | Example from C |
 |---|---|---|
@@ -62,118 +53,127 @@ An interval is the **distance between two notes**. Count the letter names, inclu
 | Major 3rd | 4 | C–E |
 | Perfect 4th | 5 | C–F |
 | Perfect 5th | 7 | C–G |
+| Minor 6th | 8 | C–A♭ |
 | Major 6th | 9 | C–A |
+| Minor 7th | 10 | C–B♭ |
 | Major 7th | 11 | C–B |
-| Octave | 12 | C–C |
+| Perfect octave | 12 | C–C |
 
-A quick test: the notes above the bottom note should all be in the **major scale of the bottom note** for a major or perfect interval; lower it by a semitone for minor.
+Quick method: in a major scale from the lower note, the 2nd, 3rd, 6th and 7th are major, and the 4th, 5th and octave are perfect. If the upper note is not in the major scale of the lower note, lower it by a semitone for the minor version. Example: D up to F: the D major scale has F♯, so F is a **minor 3rd**.
 
-### Describing a melody
+### 4. Scales and modes
 
-| Term | Meaning |
-|---|---|
-| **Conjunct** (stepwise) | moves mainly by step, smooth |
-| **Disjunct** | moves with leaps, angular |
-| **Arpeggio** | notes of a chord played one at a time |
-| **Scalic** | uses a run of scale notes |
-| **Range** | distance from the lowest to the highest note (narrow, wide) |
-| **Motif** | short musical idea that is developed |
-| **Phrase** | a musical "sentence", often 2 or 4 bars; question and answer phrases are "antecedent and consequent" |
-| **Sequence** | a motif repeated at a higher or lower pitch |
-| **Repetition / ostinato** | repeated pattern (ostinato is repeated continuously) |
-| **Passing note** | a note between two chord notes that moves by step |
-| **Syllabic / melismatic** | one note per syllable / many notes on a single syllable (vocal music) |
-| **Pitch bend, scoop, slide** | ways of moving between notes (pop, jazz, blues) |
-
-### Ornaments
-
-| Ornament | Sign | What it does |
+| Scale | Pattern / notes | Where you hear it |
 |---|---|---|
-| **Trill** | *tr* | rapid alternation of the main note and the note above |
-| **Mordent** | a short zigzag | main note, note below (or above), main note, quickly |
-| **Turn** | ∽ | note above, main note, note below, main note |
-| **Acciaccatura** | small note with a slash | very short "crushed" note before the main note |
-| **Appoggiatura** | small note without a slash | leaning note that takes half (or more) of the main note's value, then resolves |
+| **Major** | T T S T T T S (T = tone, S = semitone) | Bright, "happy" sound; most Classical themes |
+| **Natural minor** | T S T T S T T | Darker; folk and rock |
+| **Harmonic minor** | natural minor with raised 7th (a gap of 3 semitones between 6th and 7th) | Classical minor key; gives the strong V–I |
+| **Melodic minor** | raised 6th and 7th going up; natural minor coming down | Classical melodies |
+| **Chromatic** | all 12 semitones | Tension, descending "sighs", storms |
+| **Pentatonic** | five notes (e.g. C D E G A) | Chinese, folk and blues-rock melodies |
+| **Modal** | a mode, e.g. Dorian (like natural minor with raised 6th) | Folk, jazz, film music |
+| **Rāga** | Indian melodic framework of notes with characteristic phrases | Hindustani music |
+| **Maqām** | Arab melodic mode, may use **quarter-tones** | Arab takht music |
 
-Baroque music (Bach, Purcell) is full of ornaments; ornamenting repeated sections was expected. In Classical music (Beethoven) you hear trills at cadences.
+A **quarter-tone** is half of a semitone, a pitch between two piano keys. It is found in maqām and some rāgas. A piano cannot play it, so it is a clue for non-Western music.
 
-### Transposition
+### 5. Describing a melody
 
-To transpose, move every note by the same interval and use the new key signature. Instruments like the B♭ clarinet and trumpet sound a tone lower than written. In the exam, transposition is more likely in Composing than in listening.
+Use these words, matching the tune you hear:
 
-### Dictation tips
+- **Direction and movement:** **ascending**, **descending**, by **step** (conjunct) or in **leaps** (disjunct); **scalic** (moves along a scale), **broken chord** or **arpeggio** (notes of a chord played one at a time).
+- **Shape and length:** **phrases** (musical sentences, often 4 bars; question and answer = antecedent/consequent); **range** (the distance from lowest to highest note: narrow or wide).
+- **Special melodic ideas:** **fanfare** (short brass-style call using notes of the chord), **hook** (a catchy short idea in pop), **riff** (a short repeated pattern, often rock/jazz), **leitmotif** (a theme linked to a character or idea, typical of Romantic opera and film music), **countermelody** (a second melody played against the main one), **improvisation** (making up music as you play).
 
-1. You are given the **key**, the rhythm, and often the first note.
-2. Listen for the **shape**: up, down, repeated.
-3. Count **steps and leaps** from the given note.
-4. Check the end: melodies often finish on the tonic.
+### 6. Ornaments
+
+| Ornament | What it is |
+|---|---|
+| **Trill** | Rapid alternation between the written note and the note above (tr). Common in Baroque and Classical |
+| **Mordent** | Quick flick: main note, note below (or above), main note again |
+| **Turn** | Four-note decoration that "turns" around the main note: above, main, below, main |
+| **Appoggiatura** | "Leaning note": a note that takes **half the value** of the main note (or more) and falls onto it, often dissonant. Written as a small note without a slash |
+| **Acciaccatura** | "Crushed note": a very quick grace note played just before the beat. Small note **with a slash** through its stem |
+
+Other signs: **slur** (curved line over notes: play smoothly, *legato*), **pause** (𝄐: hold the note longer).
+
+### 7. Transposing instruments
+
+Transposing instruments are written at a different pitch from the sound they make. You must be able to give the **concert pitch**.
+
+| Instrument | Sounds | Example: written C sounds |
+|---|---|---|
+| **Trumpet in B♭**, **clarinet in B♭** | a major 2nd **lower** than written | B♭ |
+| **Clarinet in A** | a minor 3rd **lower** | A |
+| **Horn in F** | a perfect 5th **lower** | F |
+| **Horn in E♭** | a major 6th **lower** | E♭ |
+
+Method: find the interval, move *down* by that interval, and adjust the key signature. For a B♭ instrument playing in C major (no sharps or flats), the concert key is B♭ major. Always check that you moved *down*.
 
 ## Key terms and definitions
 
-- **Pitch**: how high or low a note sounds.
-- **Interval**: the distance between two pitches.
-- **Scale**: a set of notes in order of pitch.
-- **Key signature**: sharps or flats at the start of the stave that show the key.
-- **Relative minor**: the minor key that shares a major key's signature.
-- **Conjunct**: melody that moves by step.
-- **Disjunct**: melody that moves by leaps.
-- **Sequence**: repetition of a phrase at a higher or lower pitch.
-- **Ostinato**: a short musical pattern repeated many times.
-- **Trill**: rapid alternation between two adjacent notes.
-- **Acciaccatura**: a very quick grace note played just before the main note.
-- **Chromatic**: using notes outside the key, moving by semitones.
+- **Interval:** the distance in pitch between two notes.
+- **Semitone:** the smallest interval in Western music; one piano key to the next.
+- **Relative minor:** the minor key that shares a key signature with a major key; it begins on the 6th degree of the major scale.
+- **Pentatonic scale:** a scale of five notes.
+- **Chromatic scale:** a scale made of 12 semitones.
+- **Arpeggio:** the notes of a chord played one after another.
+- **Sequence:** a short musical idea repeated at a higher or lower pitch.
+- **Ledger line:** a short line used to extend the staff.
+- **Transposing instrument:** an instrument whose written pitch differs from its sounding pitch.
 
 ## Worked examples
 
-**1. Name the key: three sharps in the key signature, melody ends on A. [1]**
-A major (three sharps = A major, F♯ minor is the relative; the melody ends on A and sounds happy). One mark for "A major".
+**1. Name the interval from E up to C (C above E). [2]**
+Count letters: E F G A B C = a 6th [1]. E to C is 8 semitones, so it is a **minor 6th** [1]. (Check: the E major scale has C♯, so C♮ is minor.)
 
-**2. Describe the melody in bars 1–4. [3]**
-Model: "It is conjunct (1), moving mainly by step with a range of about an octave (1). The phrase is repeated a tone lower in bar 3, which is a sequence (1)."
+**2. A passage has two sharps, ends on a long B and uses A♯ near the end. Give the key. [2]**
+Two sharps = D major or B minor [1]. The final B and the raised 7th (A♯) point to **B minor** [1].
 
-**3. Identify the interval between C and G. [1]**
-Perfect 5th (C D E F G = 5 letters; 7 semitones).
+**3. A clarinet in A has a written note E. What is the concert pitch? [1]**
+A minor 3rd below E = **C♯**.
 
-**4. What is the difference between an acciaccatura and an appoggiatura? [2]**
-"An acciaccatura is a very short grace note, shown with a slash through the stem (1). An appoggiatura is a longer leaning note that takes some of the value of the main note and then resolves (1)."
+**4. Describe the melody of an extract (it starts low, rises in steps, then jumps down a 5th and ends with an arpeggio). [3]**
+"It **ascends by step** from a low note [1], then has a **leap down** of a perfect 5th [1], and finishes with a **broken chord/arpeggio** [1]."
 
 ## Common mistakes
 
-- Saying "going up and down" with no term: use **conjunct, disjunct, sequence, arpeggio, scalic**.
-- Forgetting that accidentals last all bar and are cancelled by the barline.
-- Confusing **sequence** (repeated at a different pitch) with **repetition** (same pitch).
-- Counting an interval without including the starting note (C to E is a 3rd, not a 2nd).
-- Writing the harmonic minor with the raised 6th (that is the melodic minor).
-- Mixing up the two bass-clef mnemonics (lines G B D F A, spaces A C E G).
+- Forgetting the alto clef: the middle line is middle C.
+- Counting interval size from the wrong note or leaving out one of the two notes.
+- Naming a major 3rd as "minor" because it "sounds sad". Always count semitones.
+- Mixing up **appoggiatura** (leaning, takes time) with **acciaccatura** (crushed, slashed).
+- Transposing a B♭ instrument *up* by a tone. Concert pitch is *lower*.
+- Saying "scale" when the melody is just **stepwise**; scalic means a run along the scale.
+- Missing that a raised 7th signals minor rather than the relative major.
 
 ## Practice questions
 
-1. How many sharps in the key of D major, and which are they? [2]
-2. Name the relative minor of E♭ major. [1]
-3. Name the interval from F up to C. [1]
-4. Which note is raised in the harmonic minor scale? [1]
-5. What is meant by a *sequence*? [2]
-6. Name two ornaments found in Baroque music and describe one of them. [3]
-7. Write the C pentatonic scale (letter names). [1]
-8. Describe the difference between *conjunct* and *disjunct* melody and say which is easier to sing. [3]
+1. Name the notes on the lines of the bass clef, bottom to top. [1]
+2. What is the note on the middle line of the alto clef? [1]
+3. How many sharps does D major have and which are they? [2]
+4. Name the interval C up to G. [1]
+5. Name the interval A up to F♯ above it. [1]
+6. Name the ornament that is a small note with a slash through its stem. [1]
+7. A horn in F plays a written G. What sounds? [1]
+8. Give the five notes of a pentatonic scale starting on C. [1]
 
 <details><summary>Answers</summary>
 
-1. Two (1): F♯ and C♯ (1).
-2. C minor.
-3. Perfect 5th.
-4. The 7th (1).
-5. A short melodic idea or phrase (1) repeated at a higher or lower pitch (1).
-6. Any two of trill, mordent, turn, appoggiatura, acciaccatura (2); a correct description, e.g. a trill is a rapid alternation between the main note and the note above (1).
-7. C D E G A.
-8. Conjunct moves by step (1); disjunct moves by leaps (1); conjunct is easier to sing (1).
+1. G B D F A.
+2. Middle C.
+3. Two: F♯ and C♯.
+4. Perfect 5th.
+5. Major 6th (9 semitones; F♯ is in the A major scale).
+6. Acciaccatura.
+7. C (a perfect 5th lower).
+8. C D E G A.
 
 </details>
 
 ## Plan for this hour
 
-- 15 min: learn clefs, key signatures and relative minors (cover the table and test yourself).
-- 15 min: scales and intervals: write out four scales and name five intervals.
-- 15 min: melody vocabulary and ornaments: match the terms to the definitions.
-- 10 min: worked examples and practice questions.
-- 5 min: listen to the Bach or Beethoven extract and describe the melody in three terms.
+- 15 min: learn the clefs and key signature table; practise reading single notes in alto clef.
+- 15 min: intervals: count semitones and use the major-scale method on 10 examples.
+- 10 min: scales and melodic terms: match each term to something you can hear.
+- 10 min: ornaments and transposition: work three transposing examples.
+- 10 min: do the quiz and flashcards.

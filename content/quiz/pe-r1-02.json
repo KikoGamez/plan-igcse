@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "In the upward phase of a bicep curl, which muscle is the antagonist?",
+   "q": "Which muscle is the antagonist to the quadriceps when the knee extends?",
    "options": [
-    "Biceps",
-    "Triceps",
-    "Deltoid",
-    "Quadriceps"
+    "Gastrocnemius",
+    "Hamstrings",
+    "Gluteals",
+    "Tibialis anterior"
    ],
    "answer": 1,
-   "why": "The triceps relaxes and lengthens while the biceps (agonist) contracts."
+   "why": "The hamstrings relax while the quadriceps contract; they are the antagonistic pair at the knee."
   },
   {
    "type": "mcq",
-   "q": "A muscle lengthens while it contracts to lower a weight. This is",
+   "q": "A gymnast holds a still handstand. Which type of contraction do her shoulder muscles perform?",
    "options": [
-    "isometric",
-    "concentric",
-    "eccentric",
-    "fixator"
+    "Isotonic concentric",
+    "Isotonic eccentric",
+    "Isometric",
+    "Reflex"
    ],
    "answer": 2,
-   "why": "Eccentric contractions control movement while the muscle lengthens."
+   "why": "The muscle contracts without changing length, so there is no movement: isometric."
   },
   {
    "type": "mcq",
-   "q": "Which fibre type is best for a marathon runner?",
+   "q": "Which statement about fast twitch fibres is correct?",
    "options": [
-    "Fast glycolytic",
-    "Slow oxidative",
-    "Fast oxidative glycolytic",
-    "Cardiac"
+    "They fatigue slowly and use aerobic energy",
+    "They produce high force but fatigue quickly",
+    "They produce low force and fatigue quickly",
+    "They are best for marathon running"
    ],
    "answer": 1,
-   "why": "Slow oxidative fibres resist fatigue and work aerobically."
+   "why": "Fast twitch fibres give high force, use anaerobic energy and fatigue quickly."
   },
   {
    "type": "short",
-   "q": "Explain the role of the agonist and antagonist when the knee extends to kick a ball.",
-   "model": "The quadriceps is the agonist: it contracts (shortens) to straighten the knee. The hamstrings is the antagonist: it relaxes and lengthens to allow the movement.",
+   "q": "Explain how the biceps and triceps work as an antagonistic pair when the elbow bends.",
+   "model": "The biceps is the agonist and contracts, pulling on the forearm bone through its tendon to bend the elbow. The triceps is the antagonist and relaxes to allow the movement.",
    "points": [
-    "quadriceps agonist contracts",
-    "hamstrings antagonist relaxes/lengthens"
+    "Biceps contract (agonist/prime mover) to flex the elbow",
+    "Triceps relax (antagonist) to allow movement"
    ]
   }
  ]

@@ -1,6 +1,32 @@
-{"id":"geo-r1-04","questions":[
-{"type":"mcq","q":"Which is a biotic feature of a coastal ecosystem?","options":["Water temperature","Salinity","Mangrove trees","Sunlight"],"answer":2,"why":"Biotic means living; mangroves are living organisms. The others are abiotic."},
-{"type":"mcq","q":"Which of the following is an example of soft engineering?","options":["Sea wall","Groynes","Rip-rap","Beach replenishment"],"answer":3,"why":"Beach replenishment works with natural processes; the others are hard structures."},
-{"type":"mcq","q":"A disadvantage of groynes is that they","options":["trap sediment so beaches further down the coast are starved and erode faster","are cheaper than all other defences","destroy the beach in front of them","are made of soft materials"],"answer":0,"why":"Groynes trap sediment, which starves beaches downdrift of material and increases erosion there."},
-{"type":"short","q":"Explain how agriculture can threaten a coastal ecosystem such as a coral reef.","model":"Fertiliser and soil runoff carried by rivers into the sea add nutrients causing algal blooms. These block sunlight and use up oxygen, damaging the coral. Pesticides can also poison marine life.","points":["fertiliser / sediment runoff enters the sea","algal bloom blocks light / removes oxygen, harming coral"]}
-]}
+{
+  "id": "geo-r1-04",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "At which type of plate boundary do plates slide past each other, causing earthquakes but no volcanoes?",
+      "options": ["Divergent", "Conservative", "Oceanic-continental convergent", "Hot spot"],
+      "answer": 1,
+      "why": "Conservative (transform) boundaries, such as the San Andreas Fault, cause earthquakes but no volcanoes."
+    },
+    {
+      "type": "mcq",
+      "q": "Which landform forms where two continental plates collide?",
+      "options": ["Shield volcano", "Fold mountains", "Mid-ocean ridge", "Ocean trench"],
+      "answer": 1,
+      "why": "Neither continental plate sinks, so the crust crumples upwards, e.g. the Himalayas."
+    },
+    {
+      "type": "mcq",
+      "q": "The point on the Earth's surface directly above where an earthquake starts is the:",
+      "options": ["Focus", "Fault", "Epicentre", "Vent"],
+      "answer": 2,
+      "why": "The focus is underground; the epicentre is directly above it on the surface."
+    },
+    {
+      "type": "short",
+      "q": "Explain how earthquake-proof building design reduces the loss of life in an earthquake.",
+      "model": "Buildings with steel frames, reinforced concrete and flexible foundations absorb or sway with the shaking, so they are less likely to collapse on people.",
+      "points": ["named design feature (steel frame, flexible foundations, reinforced concrete)", "absorbs shaking so buildings do not collapse and fewer people are killed"]
+    }
+  ]
+}

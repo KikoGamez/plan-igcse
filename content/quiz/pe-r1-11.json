@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A penalty kick, where the performer decides when to start, is best described as",
+   "q": "A hockey pass in a match is best described as which type of skill?",
    "options": [
-    "externally paced",
-    "self-paced",
-    "open",
-    "low organisation"
+    "Closed",
+    "Open",
+    "Basic",
+    "Fine"
    ],
    "answer": 1,
-   "why": "The performer controls the timing, so it is self-paced."
+   "why": "Players and defenders move, so the environment is unpredictable: open."
   },
   {
    "type": "mcq",
-   "q": "A coach physically moves a gymnast’s arm into the correct position. This is",
+   "q": "Which type of feedback is information about the outcome of a performance?",
    "options": [
-    "verbal guidance",
-    "visual guidance",
-    "manual guidance",
-    "mechanical guidance"
+    "Knowledge of performance",
+    "Intrinsic feedback",
+    "Knowledge of results",
+    "Manual guidance"
    ],
    "answer": 2,
-   "why": "Manual guidance involves physical contact to move the performer."
+   "why": "Knowledge of results = the outcome (score, time)."
   },
   {
    "type": "mcq",
-   "q": "Information about the outcome, such as ‘you ran 12.1 seconds’, is",
+   "q": "According to the inverted-U theory, what happens when arousal is too high?",
    "options": [
-    "knowledge of results",
-    "knowledge of performance",
-    "intrinsic feedback",
-    "manual guidance"
+    "Performance improves",
+    "Performance stays the same",
+    "Performance falls",
+    "Performance is perfect"
    ],
-   "answer": 0,
-   "why": "Knowledge of results tells the outcome; knowledge of performance describes how it was done."
+   "answer": 2,
+   "why": "After the optimum point, overarousal reduces performance."
   },
   {
    "type": "short",
-   "q": "Write a SMART target for a student who wants to improve her free-throw accuracy in basketball.",
-   "model": "I will score 7 out of 10 free throws (from 5 out of 10) within six weeks by practising for 15 minutes three times a week and recording my scores.",
+   "q": "Describe the associative stage of learning.",
+   "model": "In the associative stage the performer makes fewer mistakes and movements become smoother. They can use feedback to refine the skill and are practising to improve consistency.",
    "points": [
-    "specific and measurable (numbers)",
-    "time-bound and achievable"
+    "fewer errors / smoother movement",
+    "uses feedback / practising to refine"
    ]
   }
  ]

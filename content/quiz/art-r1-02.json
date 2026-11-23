@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which of these is a form rather than a shape?",
+   "q": "Which pair describes shape and form correctly?",
    "options": [
-    "A drawn square",
-    "A flat circle",
-    "A sphere",
-    "A triangle outline"
+    "Shape is 3D and form is flat",
+    "Both are flat",
+    "Shape is flat and form is three-dimensional",
+    "Both are only about colour"
    ],
    "answer": 2,
-   "why": "Form is three-dimensional; a sphere has volume, the others are flat."
+   "why": "Shape is a 2D area; form is 3D or made to look 3D."
   },
   {
    "type": "mcq",
-   "q": "Strong contrast of light and dark, as used by Rembrandt, is called",
+   "q": "Building tone with crossing parallel lines is called:",
    "options": [
-    "impasto",
-    "chiaroscuro",
-    "frottage",
-    "sgraffito"
+    "Cross-hatching",
+    "Stippling",
+    "Frottage",
+    "Impasto"
    ],
-   "answer": 1,
-   "why": "Chiaroscuro means light-dark contrast for drama and solidity."
+   "answer": 0,
+   "why": "Cross-hatching uses sets of lines crossing at angles to build darker tone."
   },
   {
    "type": "mcq",
-   "q": "What does frottage mean?",
+   "q": "Which is an example of actual (real) texture?",
    "options": [
-    "Scratching through paint",
-    "Rubbing over a textured surface",
-    "Thick paint application",
-    "Dotting with a pen"
+    "Hatching to suggest fur",
+    "A smooth gradient",
+    "A drawn outline",
+    "Thick impasto paint"
    ],
-   "answer": 1,
-   "why": "Frottage is a rubbing taken over a textured surface."
+   "answer": 3,
+   "why": "Impasto can be felt; hatching only implies texture."
   },
   {
    "type": "short",
-   "q": "Explain how you would use tone to make a drawn apple look three-dimensional.",
-   "model": "Find the light source; put highlight where light hits, grade through mid-tones to a core shadow, add reflected light and a cast shadow on the surface.",
+   "q": "Write an annotation about line for a drawing of a tree.",
+   "model": "I used thick, broken charcoal lines for the trunk to show the rough bark, which makes the tree look old and strong.",
    "points": [
-    "highlight and graded mid-tones to dark core shadow",
-    "cast shadow (and reflected light)"
+    "names line and technique",
+    "explains the effect"
    ]
   }
  ]

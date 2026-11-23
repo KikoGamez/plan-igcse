@@ -1,143 +1,142 @@
 # Writing: short and extended tasks
 
-> **In the exam:** Writing is **Section B of Paper 2 (4GN1/02)**: 40 of the paper's 80 marks (so 20% of the whole qualification). Q6 is a **short writing task**, **60–75 words** including **four prescribed words or phrases** (10 marks). Q7 is the **extended writing task**: a **choice of three questions** from different themes, **130–150 words**, answering **four bullet points** (20 marks). Q8 is a **grammar task** (10 marks): change the word in brackets so it fits the sentence. Q6 and Q7 are marked for **Communication and content** and for **Linguistic knowledge and accuracy**; Q8 for grammatical accuracy, punctuation and spelling. Paper 2 recommends about 52 minutes on this section. No translation task and no dictionary.
+> **In the exam:** Paper 4 Writing is **25%** of Cambridge IGCSE German 0525: **1 hour, 45 marks, three questions**. **Q1** form-filling with single words or short phrases (**5 marks**); **Q2** directed writing of about **80–90 words** on a familiar topic (**12 marks**); **Q3** a choice of an **email/letter** or an **article/blog** of about **130–140 words** (**28 marks**). Q3 is worth more than half of the paper. No dictionary. The examiner rewards communication, range of language and accuracy; read the mark scheme of a past paper to see the exact bands.
 
 ## What you need to know
 
-- How to plan and write **60–75 words** covering four given words, and **130–150 words** covering four bullet points.
-- How to show **past, present and future** (and a conditional) and give **opinions with reasons**.
-- A range of **linking words** and **complex structures** (subordinate clauses, modal verbs, *um … zu*, *wenn*, *obwohl*).
-- **Accuracy:** verb position, cases and adjective endings, genders, plurals, spelling, capital letters on nouns, punctuation.
-- How to do the **grammar task** (verbs, adjectives, nouns, articles, pronouns) and avoid common errors.
-- Task A–E vocabulary, so you can write on any theme without a dictionary.
+- How to fill in a **form** (Q1): single words or short phrases in German, spelt clearly.
+- How to cover **every bullet point** in Q2 in 80–90 words, with correct, simple language.
+- How to plan and write the **130–140-word** email/letter or article/blog (Q3).
+- Letter/email **conventions**: *Lieber Max, … / Sehr geehrte Frau Weber, … / Liebe Grüße / Mit freundlichen Grüßen*.
+- **Range** the syllabus lists: tenses (present, perfect, imperfect, future, conditional), subordinate clauses (*weil, dass, wenn, obwohl*), comparatives, modal verbs, adjective endings.
+- **Accuracy**: verb second, verbs at the end after *weil*, noun capitals, cases after prepositions.
 
 ## Notes
 
-### Q6: short task (60–75 words, four prescribed words)
-- You will be given a theme, a short situation and **four words or short phrases** (e.g. *Ferien, Strand, Freunde, nächstes Jahr*) that you must include.
-- 60–75 words: do not write much more or less. The first and last words count, but small words count too.
-- **Include all four prescribed items**, in any order, and make them fit the context.
-- Include at least **two tenses** (e.g. present + perfect, or perfect + future) and **one opinion with a reason**.
-- Plan: 1) say what you did (perfect), 2) describe/opinion (present or imperfect *war*), 3) future plan (*werde* + infinitive or *möchte*).
+### Q1 Form-filling (5 marks, about 3 minutes)
+You get a context (e.g. booking a language course, joining a club) and a form: *Name, Alter, Nationalität, Adresse, Telefonnummer, Hobbys, Sprachen*.
+- Write **single words or short phrases**. No full sentences needed.
+- Use the information in the context; check the spelling of names and numbers.
+- Answers must fit the heading: *Nationalität* = *spanisch / Spanierin*; *Hobbys* = *Schwimmen, Lesen*.
 
-**Model (64 words):**
-*Letzten Sommer bin ich mit meiner Familie nach Österreich gefahren. Wir haben in einer kleinen Ferienwohnung in den Bergen gewohnt. Jeden Tag sind wir gewandert, und das Wetter war meistens sonnig. Das Essen hat mir sehr gut geschmeckt, aber die Reise war ziemlich lang. Nächstes Jahr möchte ich mit meinen Freunden ans Meer fahren, weil ich gern schwimme. Wir haben auch viele Fotos gemacht.*
+### Q2 Directed writing (12 marks, about 80–90 words, 15 minutes)
+You get a situation and about **four or five bullet points** (e.g. "Tell your friend where you went on holiday, what you did, who you went with, what the weather was like, what you will do next year"). You must:
+1. cover **every point**; 
+2. write **80–90 words** (not much more: you lose time and make more mistakes);
+3. use a mix of **present, past and future** if the points ask for it.
 
-### Q7: extended task (130–150 words, four bullet points)
-- You choose **one of three questions** from different themes. Choose the theme where you know the **most vocabulary**, not the one that "sounds easiest".
-- Each question has **four bullet points** (e.g. *Beschreibe deine Stadt. Was hast du letztes Wochenende gemacht? Was wirst du nächstes Jahr machen? Was sind die Vor- und Nachteile …?*). **Answer every bullet**, in order, in about 30–35 words each, and use the tense each bullet asks for.
-- 130–150 words (a little over is not penalised, but only write what you can do accurately). Count roughly: if you write 12 words per line, you need 11–12 lines.
-- Two paragraphs or four short paragraphs; no need for a letter layout unless asked.
+**Plan:** one or two sentences per bullet point. Tick the bullets as you go.
 
-**Model (135 words), theme A, "Das Leben in der Stadt":**
-*Ich wohne in einer Stadt in Spanien, und meiner Meinung nach hat das Leben hier viele Vorteile. Es gibt viele Geschäfte, Kinos und Parks, und die Verkehrsmittel sind gut. Ich fahre jeden Tag mit der U-Bahn zur Schule, weil das schnell und billig ist. Allerdings ist es manchmal sehr laut und überfüllt, besonders im Sommer.*
-*Letztes Wochenende bin ich mit meinen Freunden in die Innenstadt gegangen. Wir haben ein Eis gegessen und sind ins Kino gegangen. Der Film war lustig, und wir haben viel gelacht.*
-*Im nächsten Jahr werde ich vielleicht auf dem Land wohnen, denn meine Eltern möchten ein Haus mit Garten kaufen. Ich würde das toll finden, aber ich hätte dann weniger Freizeitangebote. Trotzdem glaube ich, dass die Luft dort sauberer ist. Außerdem treffe ich dort leicht Freunde, die in der Nähe wohnen.*
+### Q3 Extended writing (28 marks, 130–140 words, 30 minutes)
+You choose **one** of two tasks: an **email/letter** or an **article/blog**. Each has several bullet points on a topic area (A–E). Spend two minutes choosing: pick the task where you know the vocabulary and can use past, present and future.
 
-Why it scores: all bullets covered; present, perfect, future and conditional; opinions with reasons (*weil, denn*); subordinate clauses (*dass, die … wohnen*); varied openers (time, *Allerdings*, *Trotzdem*); correct word order.
+**Structure**
+- **Email/letter (informal):** *Lieber Tom, / Liebe Lena,* · thanks/opening: *Danke für deine E-Mail.* · points · closing: *Schreib bald! / Viele Grüße, [name].*
+- **Letter (formal):** *Sehr geehrte Damen und Herren,* · *Ich möchte mich um … bewerben.* · *Mit freundlichen Grüßen*
+- **Article/blog:** a title; an opening sentence that grabs attention (*Hast du schon einmal …?*); points in paragraphs; a conclusion (*Zum Schluss …, Ich finde, dass …*).
 
-### How the marks are earned (two strands)
-| Strand | What the examiner looks for |
+**Counting words:** count **average words per line**, then multiply. Short words (*in, ist*) count as words; don't write more than about 150.
+
+### Showing range (what moves marks up)
+
+| Feature | Example |
 |---|---|
-| **Communication and content** | all four bullets covered; relevant detail; opinions justified; reference to different time frames; ideas developed (not one-word answers); length within the limit |
-| **Linguistic knowledge and accuracy** | range of **structures** (not only *ich bin … ich habe …*); correct **verb forms and tenses**; **word order**; cases and endings; **vocabulary variety**; spelling and punctuation; coherent text |
-The detailed split of marks is on the mark scheme: check it in the past paper you use.
+| **Opinion + reason** | *Ich finde Fußball toll, weil es Spaß macht.* |
+| **Past tense (Perfekt)** | *Letztes Jahr bin ich nach Italien gefahren.* |
+| **Imperfect (common verbs)** | *Es war toll. Wir hatten viel Spaß.* |
+| **Future** | *Nächstes Jahr werde ich … / Ich möchte … besuchen.* |
+| **Conditional** | *Wenn ich Zeit hätte, würde ich …* |
+| **Modal verbs** | *Ich muss lernen. Wir können schwimmen.* |
+| **Connectives** | *weil, dass, wenn, obwohl, aber, denn, deshalb, außerdem* |
+| **Comparisons** | *Berlin ist größer als Köln. Das ist am besten.* |
+| **Infinitive with zu** | *Ich habe Lust, ins Kino zu gehen.* |
+| **Time markers** | *letzten Sommer, jeden Tag, nächste Woche, früher* |
 
-### A planning grid (spend 3 minutes)
-For each bullet, note: **tense** (P/Pf/F), **one opinion**, **one reason**, **one connective** or special structure.
-| Bullet | Tense | Opinion + reason | Structure to include |
-|---|---|---|---|
-| 1 | present | *Ich finde … gut, weil …* | *weil*-clause |
-| 2 | perfect | *Es hat mir gefallen, denn …* | *haben/sein + participle* |
-| 3 | future | *Ich werde … , um … zu …* | *werden*, *um … zu* |
-| 4 | conditional/opinion | *Wenn ich … hätte, würde ich …* | *wenn*, *würde* |
+### Accuracy checklist (use the last 3 minutes)
+1. **Capital letters** on every noun.
+2. **Verb second** in main clauses: *Am Samstag **gehe** ich …* (not *Am Samstag ich gehe*).
+3. **Verb at the end** after *weil, dass, wenn, obwohl*: *…, weil es Spaß **macht**.*
+4. **Perfekt:** haben/sein + participle at the end: *Ich **bin** nach Spanien **gefahren**.* Movement/change → *sein*.
+5. **Cases:** after *mit, von, zu, bei, nach, aus* → dative; *für, durch, ohne, gegen* → accusative; *in, auf, an* → accusative for movement, dative for location.
+6. **Adjective endings** (*ein großes Haus*).
+7. **du / Sie:** *du* to friends, *Sie* in formal letters; capital *Sie/Ihr* only for formal.
 
-### Structures that raise the level
-- **Subordinate clauses (verb at the end):** *weil, dass, wenn, obwohl, als, damit, während, ob*.
-- **Verb second after another element:** *Gestern habe ich …; Leider kann ich nicht …; Nächstes Jahr werde ich …*
-- **Modal verbs + infinitive:** *ich möchte/muss/kann/darf nicht …*
-- **um … zu + infinitive:** *Ich spare Geld, um ein Auto zu kaufen.*
-- **Comparatives and superlatives:** *besser als, am liebsten, am wichtigsten.*
-- **Relative clauses:** *Das Hotel, das wir gebucht haben, war schön.*
-- **Perfect with *sein* for movement/change:** *ich bin gefahren/gegangen/geblieben*.
-- **Imperfect of sein, haben, modals:** *war, hatte, konnte, musste, wollte*.
-- **Conditional:** *Ich würde gern … , Ich hätte gern … , Wenn ich reich wäre, würde ich …*
-- **Reflexive and separable verbs:** *Ich interessiere mich für …; Ich stehe um sieben auf.*
+### A model Q2 (about 85 words)
+**Task:** Write to your German friend about your last holiday. Say: where you went; what you did; the weather; what you will do next year. (80–90 words)
 
-### Q8: grammar task (10 marks)
-- 10 short items in a connected text: change the word in brackets so it is correct (e.g. *[klein] Autofirma* → *kleine*; *[gewinnen] … hat … gewonnen*; *[sein] → ist/waren*; *[geben] → gab*).
-- **Not every word needs changing**: sometimes the bracketed word is right as it stands.
-- Ask for each gap: 1) What word type (verb/adjective/noun/pronoun)? 2) For a verb: **tense, person, singular/plural**, auxiliary and participle? 3) For an adjective: **gender, case, article type** → ending (-e, -en, -er, -es, or none).
-- Adjective endings quick guide: after **der/die/das (nominative)**: -e (or -en in plural); after **den (accusative masculine/dative/plural)**: -en; after **ein (nominative masculine)**: -er; **no article** plural: -e/-en.
+*Liebe Anna,*
+*in den Sommerferien bin ich mit meiner Familie nach Portugal gefahren. Wir waren zwei Wochen an der Küste. Jeden Tag haben wir am Strand gelegen und sind im Meer geschwommen. Abends haben wir in einem kleinen Restaurant gegessen, das war sehr lecker. Das Wetter war fantastisch, es war immer sonnig und heiß. Nur nachts war es manchmal ein bisschen kühl. Nächsten Sommer möchte ich nach Deutschland fahren und dich besuchen! Hast du Lust? Dann können wir zusammen die Stadt besichtigen und viel Eis essen. Schreib bald!*
+*Viele Grüße, Lucía*
 
-### Accuracy checklist (use 5 minutes at the end)
-1. Verb in 2nd position in main clauses; at the end after *weil/dass/wenn/obwohl*.
-2. Capital letters on **all nouns**; commas before *weil, dass, wenn, obwohl, der/die/das* (relative).
-3. Perfect: auxiliary (*haben/sein*) correct; participle at the end.
-4. Genders and **cases** (after *mit, von, zu, bei* = dative; *für, durch, ohne* = accusative).
-5. Adjective endings and plurals.
-6. Spelling: ß/ss, ä/ö/ü, *ie/ei*, double consonants (*kommen, Sommer*), capital *Sie/Ihr* only for formal.
+*(about 85 words plus greeting and closing.)* Why it scores: every point covered; present/perfect/imperfect/future; a relative clause (*das war lecker* – short but fine); a question to the friend.
+
+### A model Q3 (about 135 words): informal email
+**Task:** Your German friend asks about your school. Write an email. Say: what your school is like; your favourite subject and why; what you did at school last week; what you want to do after school. (130–140 words)
+
+*Lieber Max,*
+*danke für deine E-Mail! Du hast gefragt, wie meine Schule ist. Sie ist ziemlich groß, und es gibt viele Schüler. Wir tragen eine Uniform, was ich nicht so toll finde, aber die Lehrer sind meistens nett.*
+*Mein Lieblingsfach ist Geschichte, weil unser Lehrer die Stunden so interessant macht. Wir lernen viel über das Leben früher, und ich lese gern Bücher darüber.*
+*Letzte Woche haben wir einen Ausflug ins Museum gemacht. Das war super! Wir haben viele alte Dinge gesehen und einen Film über die Römer angeschaut, der sehr spannend war. Danach sind wir mit dem Bus zurück zur Schule gefahren.*
+*Nach der Schule möchte ich an der Universität Geschichte studieren. Vielleicht werde ich Lehrerin, weil ich gern mit jungen Leuten arbeite. Was möchtest du später machen?*
+*Schreib bald!*
+*Liebe Grüße, Sofía*
+
+(about 135 words; four points covered, opinion + reason, Perfekt, future, relative clause *was ich nicht so toll finde*.)
 
 ## Key terms and definitions
 
-- **prescribed words:** the four words or short phrases you must include in the short task.
-- **bullet point:** one of four prompts in the extended task; each must be answered.
-- **subordinate clause:** a clause introduced by *weil, dass, wenn, obwohl* etc. where the finite verb goes to the end.
-- **word order (V2):** the finite verb is the second element in a main clause.
-- **perfect tense:** *haben/sein* + past participle, used for past events in speaking and writing.
-- **conditional:** *würde* + infinitive for hypothetical statements.
-- **justification:** a reason that supports an opinion (*weil …*).
-- **adjective ending:** the ending on an adjective before a noun (depends on gender, case, article).
+- **Bullet points:** the points you must all cover in a task.
+- **Perfekt:** conversational past tense: *haben/sein* + past participle.
+- **Subordinate clause:** a clause beginning with *weil, dass, wenn* … with the **verb at the end**.
+- **Register:** formal (*Sie*) or informal (*du*) language.
+- **Directed writing:** writing guided by prompts you must follow.
 
 ## Worked examples
 
-**1. [grammar, 3 marks] Complete: *Die (beliebt) Marke ist teuer, und viele Leute (kaufen) sie (nicht).* and *Gestern (sein) wir im Kino.***
-Model: *beliebte* (die Marke, feminine nominative after *die* → -e) (1); *kaufen* (no change: plural subject *viele Leute*) (1); *waren* (*gestern* = past) (1).
+**Example 1 (Q1).** *Form: Anmeldung Sprachkurs. Name: ____ Alter: ____ Hobbys: ____* Context: *Ich heiße Pablo Ruiz, ich bin 15 und spiele gern Basketball und lese Comics.* Answers: *Pablo Ruiz; 15; Basketball, Lesen/Comics.* **[3]**
 
-**2. [Q6 planning] Prescribed words: *Schule, Hausaufgaben, Lehrer, gestern*.** Plan: *Gestern* (perfect) → *habe ich viele Hausaufgaben gemacht*; opinion with *weil*; future plan. Model: *Gestern habe ich in der Schule viele Hausaufgaben bekommen, weil mein Lehrer streng ist. Ich finde das anstrengend, aber ich verstehe, dass es wichtig ist. Nächstes Jahr werde ich mehr Zeit für Sport haben.*
+**Example 2 (Q2 bullet points).** Bullet "what you did yesterday": weak = *Ich spiele Fußball* (present tense, but the point asks for the past). Strong: *Gestern habe ich mit meinen Freunden Fußball gespielt.* Marks: correct Perfekt and verb position.
 
-**3. [Q7 upgrade] Weak: *Ich spiele Tennis. Tennis ist gut.* Strong: *Ich spiele seit drei Jahren Tennis, weil ich gern Sport mache und mich dabei fit halte.*** The strong version has time detail, a reason, a subordinate clause and a reflexive verb.
+**Example 3 (Q3 extract, with opinion).** *Mein Lieblingsfach ist Kunst, weil ich gern zeichne und weil unsere Lehrerin sehr kreativ ist.* Why it scores: opinion, reason, two *weil* clauses (verb at the end).
 
 ## Common mistakes
 
-- Missing one of the **four prescribed words** or **one bullet point**.
-- Writing far under/over the **word count**; Q6 too short loses content, Q7 too long risks errors.
-- Using only the **present tense** or only *ich habe/ich bin*.
-- **Word order** after *weil, dass, obwohl, wenn* (verb last) and after a time phrase (verb second: *Letztes Jahr bin ich …*).
-- Forgetting **ge-** in the participle and the right auxiliary (*ich bin gefahren*, not *ich habe gefahren*).
-- Copying phrases that don't fit the question (**irrelevant content**).
-- **ß/ss and capitals:** nouns always capitalised: *die Stadt, das Haus*.
-- Anglicisms: *Ich habe gegangen*, *Ich gehe zu spielen*, *Ich bin 15* (add *Jahre alt*), *Ich mag zu schwimmen* (use *Ich schwimme gern*).
-- Writing only simple sentences; not using **connectives** and opinions with reasons.
-- **No checking** at the end: always leave 5 minutes.
+- Forgetting a bullet point (you lose communication marks).
+- Writing far more than 140 words (more errors, no extra credit).
+- *Ich habe gegangen* (✗) → *Ich bin gegangen* (✓).
+- *weil ich habe Hunger* (✗) → *weil ich Hunger habe* (✓).
+- Forgetting capital letters on nouns.
+- Writing in English for a word you don't know (try a simpler German word instead).
+- Using *du* in a formal letter.
+- Not using a past, present *and* future when the task allows.
+- *ich* in the middle of a sentence capitalised (*ich* is lower case except at the start).
 
 ## Practice questions
 
-1. Write a 60–75 word text about your school day including: *Schule, Freunde, Mittagessen, später*. [10]
-2. Complete with the correct form: *Letzten Sommer (fahren) wir nach Italien.* [1]
-3. Complete: *Ich habe einen (neu) Computer.* [1]
-4. Complete: *Er (müssen) heute lange arbeiten.* [1]
-5. Rewrite with *weil*: *Ich bin müde. Ich habe schlecht geschlafen.* [2]
-6. Write the four bullet points you would plan for a 130–150 word answer on "Mein letzter Urlaub". [4]
-7. Correct the errors: *Ich habe nach Berlin gefahren, weil ich will meine Oma besuchen.* [3]
-8. Complete: *Wenn ich mehr Geld (haben), (kaufen) ich ein Auto.* (conditional) [2]
+1. **Q1 form.** Context: *Ich heiße Lena Müller, ich bin 16 und komme aus Wien. Ich spreche Deutsch und Englisch.* Fill in: Name / Alter / Stadt / Sprachen. **[4]**
+2. Rewrite correctly: *Gestern ich bin ins Kino gegangen, weil ich habe frei.* **[2]**
+3. Write two sentences with *weil* about why you like (or dislike) a school subject. **[2]**
+4. Write the formal opening and closing of a letter to a hotel manager. **[2]**
+5. Make the sentences past (Perfekt): (a) *Ich spiele Fußball.* (b) *Wir fahren nach Berlin.* **[2]**
+6. Write 85 words (Q2 style): *Write to your friend about your family: who is in your family; what you do together at the weekend; what you did last weekend.* **[12]**
+7. Write the first 40 words of a Q3 blog: *Mein Traumberuf.* Include an opinion with *weil* and a future plan. **[8]**
 
 <details><summary>Answers</summary>
 
-1. Check against the criteria: all four words, perfect + present + future, an opinion with *weil*, 60–75 words, correct word order. Example: *In der Schule habe ich viele Freunde. Wir essen zusammen zu Mittag, und ich finde das lustig, weil wir viel reden. Später gehe ich nach Hause und mache die Hausaufgaben. Gestern bin ich mit meinen Freunden Fußball spielen gegangen. Nächstes Jahr werde ich mehr lernen.* (extend to 60 words).
-2. *fuhren* (imperfect, because *Letzten Sommer* and no other verb; *sind … gefahren* would need extra words).
-3. *neuen* (der Computer, accusative masculine after *einen*).
-4. *muss*.
-5. *Ich bin müde, weil ich schlecht geschlafen habe.* (comma, verb at the end).
-6. Example: 1) where you went and with whom; 2) what you did (perfect); 3) what you liked and disliked with reasons; 4) where you will go next year (future).
-7. *Ich bin nach Berlin gefahren, weil ich meine Oma besuchen will.* (sein; verb last).
-8. *Wenn ich mehr Geld hätte, würde ich ein Auto kaufen.*
+1. *Lena Müller; 16; Wien; Deutsch, Englisch.*
+2. *Gestern bin ich ins Kino gegangen, weil ich frei hatte.* (verb second after *Gestern*; verb at the end after *weil*)
+3. e.g. *Ich mag Biologie, weil es sehr interessant ist. Ich mag Mathe nicht, weil es mir zu schwer ist.*
+4. *Sehr geehrter Herr Müller, … Mit freundlichen Grüßen.* (*Sehr geehrte Damen und Herren* if you don't know the name.)
+5. (a) *Ich habe Fußball gespielt.* (b) *Wir sind nach Berlin gefahren.*
+6. Example: *Liebe Eva, in meiner Familie sind wir vier: meine Eltern, mein Bruder und ich. Am Wochenende gehen wir oft zusammen spazieren oder kochen. Letztes Wochenende sind wir an den See gefahren und haben gegrillt. Das war toll! Was machst du mit deiner Familie? Viele Grüße, …* (this is a shortened sample; yours must have 80–90 words and cover every point)
+7. Example: *Mein Traumberuf ist Tierärztin, weil ich Tiere sehr liebe. Schon als Kind habe ich einen Hund gehabt. Nach dem Abitur werde ich Medizin für Tiere studieren, und später möchte ich eine eigene Praxis eröffnen.*
 
 </details>
 
 ## Plan for this hour
 
-- **0–10 min:** read the notes and study the two model answers; underline connectives, tenses and structures you can copy.
-- **10–25 min:** do a Q6 (60–75 words) in 12 minutes with four prescribed words from a past paper.
-- **25–50 min:** plan and write a Q7 (130–150 words) in 25 minutes; choose the question you have the most vocabulary for.
-- **50–60 min:** check against the accuracy checklist and the mark scheme; correct errors and keep a list of your top three mistakes.
+- **0–10 min:** Read the notes. Memorise the accuracy checklist (verb second, verb at the end, Perfekt, capitals).
+- **10–20 min:** Practice Q1–5 (the quick questions); check.
+- **20–40 min:** Practice Q6 (Q2-style task in 15 min) then check that every point is covered and the length is 80–90 words.
+- **40–55 min:** Write one Q3 task (130–140 words) using the model as a guide; use opinion + reason, past, future.
+- **55–60 min:** Read through with the checklist and fix three errors.

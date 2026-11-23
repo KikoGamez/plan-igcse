@@ -2,174 +2,163 @@
  "id": "ger-r1-12",
  "cards": [
   {
-   "f": "Paper 3 Speaking",
-   "b": "8–10 minutes, 40 marks, 25%: Task A picture + Tasks B and C conversations."
+   "f": "Speaking paper structure",
+   "b": "About 10 minutes: warm-up, one role play (5 questions), two topic conversations (about 4 minutes each). 40 marks."
   },
   {
-   "f": "Task A",
-   "b": "Picture-based discussion, 2–3 minutes, 12 marks."
+   "f": "Role play marks",
+   "b": "5 questions × 2 marks = 10 marks."
   },
   {
-   "f": "Tasks B and C",
-   "b": "Two conversations on two different themes, 3–3.5 minutes each, 28 marks."
+   "f": "Topic conversation marks",
+   "b": "15 Communication + 15 Quality of Language."
   },
   {
-   "f": "Allowed prompts in Task A",
-   "b": "Warum (nicht)? Noch etwas? Ist das alles?"
+   "f": "Preparation time",
+   "b": "10 minutes for the role play card; no notes allowed."
   },
   {
-   "f": "Auf dem Bild sehe ich ...",
-   "b": "In the picture I see ..."
+   "f": "Wie bitte?",
+   "b": "Pardon? (ask for repetition)"
   },
   {
-   "f": "im Vordergrund / im Hintergrund",
-   "b": "in the foreground / in the background"
+   "f": "Können Sie das bitte wiederholen?",
+   "b": "Can you repeat that, please? (formal)"
   },
   {
-   "f": "links / rechts / in der Mitte",
-   "b": "on the left / on the right / in the middle"
+   "f": "Ich möchte bitte …",
+   "b": "I would like … please."
   },
   {
-   "f": "Sie sehen glücklich aus.",
-   "b": "They look happy."
+   "f": "Die Rechnung, bitte.",
+   "b": "The bill, please."
   },
   {
-   "f": "Ich glaube, dass ... / Wahrscheinlich ...",
-   "b": "I think that ... / Probably ..."
+   "f": "Wie viel kostet das?",
+   "b": "How much does that cost?"
   },
   {
-   "f": "Meiner Meinung nach ...",
-   "b": "In my opinion ..."
+   "f": "Von welchem Gleis fährt der Zug ab?",
+   "b": "Which platform does the train leave from?"
   },
   {
-   "f": "Letztes Wochenende bin ich ...",
-   "b": "Last weekend I went ... (perfect with sein)"
+   "f": "Meiner Meinung nach …",
+   "b": "In my opinion …"
   },
   {
-   "f": "Nächstes Jahr werde ich ...",
-   "b": "Next year I will ... (werden + infinitive at the end)"
+   "f": "Das ist eine gute Frage.",
+   "b": "That is a good question (filler)."
   },
   {
-   "f": "Wenn ich Zeit hätte, würde ich ...",
-   "b": "If I had time, I would ... (conditional)"
+   "f": "Wie sagt man … auf Deutsch?",
+   "b": "How do you say … in German?"
   },
   {
-   "f": "Pronunciation: ch in 'ich' vs 'Buch'",
-   "b": "soft hiss after e/i/ä/ö/ü; harsh (loch) after a/o/u/au"
+   "f": "Letztes Wochenende bin ich … gegangen.",
+   "b": "Past tense example: Last weekend I went …"
   },
   {
-   "f": "Pronunciation: ei / ie",
-   "b": "ei = 'eye' (Zeit); ie = 'ee' (Kino)"
+   "f": "Nächstes Jahr werde ich … fahren.",
+   "b": "Future example: Next year I will travel …"
   },
   {
-   "f": "How to paraphrase an unknown word",
-   "b": "Describe it with other words: ein Ort, wo man Bücher leiht = Bibliothek."
-  },
-  {
-   "f": "Structure of a developed answer",
-   "b": "Opinion, reason, example (past or future), contrast or conclusion."
+   "f": "OPRE answer formula",
+   "b": "Opinion, Point, Reason, Example/other time frame."
   }
  ],
  "gaps": [
   {
-   "s": "Task A is a ___ discussion (type of stimulus).",
+   "s": "Ein Tisch für zwei ___ , bitte. (people)",
    "a": [
-    "picture",
-    "picture-based",
-    "Bild"
+    "Personen"
    ]
   },
   {
-   "s": "Auf dem Bild ___ ich eine Familie. (sehen)",
+   "s": "Ich ___ gern ein Mineralwasser, bitte. (would like)",
    "a": [
-    "sehe"
+    "möchte",
+    "moechte",
+    "mochte"
    ]
   },
   {
-   "s": "Im ___ sieht man ein Flugzeug. (background)",
+   "s": "Die ___ , bitte! (I want to pay)",
    "a": [
-    "Hintergrund"
+    "Rechnung"
    ]
   },
   {
-   "s": "Ich finde Mathe schwierig, ___ der Lehrer schnell spricht. (because)",
+   "s": "Ich habe Kopfschmerzen und ___ . (temperature)",
    "a": [
-    "weil",
-    "da"
+    "Fieber"
    ]
   },
   {
-   "s": "Letztes Jahr ___ ich nach Italien gefahren. (sein)",
+   "s": "Wie ___ kostet das? (much)",
+   "a": [
+    "viel"
+   ]
+  },
+  {
+   "s": "Ich fahre ___ dem Bus. (by)",
+   "a": [
+    "mit"
+   ]
+  },
+  {
+   "s": "___ Meinung nach ist das Essen gut. (In my opinion)",
+   "a": [
+    "Meiner"
+   ]
+  },
+  {
+   "s": "Letztes Jahr ___ ich nach Spanien gefahren. (am)",
    "a": [
     "bin"
-   ]
-  },
-  {
-   "s": "Nächstes Jahr ___ ich mehr Sport machen. (werden)",
-   "a": [
-    "werde"
-   ]
-  },
-  {
-   "s": "Wenn ich reich wäre, ___ ich viel reisen. (würde)",
-   "a": [
-    "würde",
-    "wuerde",
-    "wurde"
-   ]
-  },
-  {
-   "s": "Das Mädchen ___ glücklich aus. (aussehen)",
-   "a": [
-    "sieht"
-   ]
-  },
-  {
-   "s": "Der Buchstabe w klingt wie das englische ___.",
-   "a": [
-    "v"
    ]
   }
  ],
  "short": [
   {
-   "q": "Give three pieces of information you would include when describing a picture in German.",
-   "model": "For example: who is in the picture, what they wear, what they are doing, where they are, and a guess about their mood.",
+   "q": "Say two sentences about your family with an opinion.",
+   "model": "Wir sind vier: meine Eltern, mein Bruder und ich. Ich verstehe mich gut mit meinem Bruder, weil er lustig ist.",
    "points": [
-    "a description detail",
-    "a second distinct detail"
+    "family members",
+    "opinion",
+    "weil + verb at the end"
    ]
   },
   {
-   "q": "How can you improve a short answer in the conversation?",
-   "model": "Add a reason with weil, an example from the past or future, and a contrast or opinion; do not wait to be asked 'Warum?'.",
+   "q": "Answer: Was hast du letztes Wochenende gemacht? (two past-tense sentences)",
+   "model": "Am Samstag bin ich mit Freunden ins Kino gegangen. Am Sonntag habe ich Hausaufgaben gemacht.",
    "points": [
-    "reason / justification",
-    "past or future example"
+    "Perfekt correct",
+    "time words",
+    "two sentences"
    ]
   },
   {
-   "q": "Say in German what you did last weekend, using two verbs in the perfect tense.",
-   "model": "Am Samstag bin ich ins Kino gegangen und habe einen Film gesehen.",
+   "q": "What should you do if you don't know a word in the conversation?",
+   "model": "Use a filler, say it another way with simpler German or ask Wie sagt man … auf Deutsch?; don't stay silent.",
    "points": [
-    "bin ... gegangen",
-    "habe ... gesehen with participle at the end"
+    "filler or rephrase",
+    "keep talking"
    ]
   },
   {
-   "q": "What should you do if you forget a German word?",
-   "model": "Paraphrase it with other German words, e.g. 'ein Ort, wo man Bücher leiht', and keep speaking.",
+   "q": "Give a future plan after school with a reason.",
+   "model": "Nach der Schule werde ich Medizin studieren, weil ich Menschen helfen will.",
    "points": [
-    "paraphrase",
-    "keep communicating"
+    "werde + infinitive at the end",
+    "reason"
    ]
   },
   {
-   "q": "What are the three assessment areas for Tasks B and C?",
-   "model": "Communication and content, interaction and spontaneity, and linguistic knowledge and accuracy.",
+   "q": "How is the role play different from the topic conversation?",
+   "model": "Role play: five transactional questions, each worth 2; conversation: opinions and development, marked for Communication and Quality of Language.",
    "points": [
-    "communication and content",
-    "interaction/spontaneity and accuracy"
+    "role play transactional / 2 marks",
+    "conversation / opinions / 15+15"
    ]
   }
  ]

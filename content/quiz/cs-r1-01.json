@@ -3,48 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which flowchart symbol is used for a decision?",
+   "q": "What is the denary value of the binary number 11010110?",
    "options": [
-    "Rectangle",
-    "Diamond",
-    "Parallelogram",
-    "Oval"
+    "214",
+    "212",
+    "198",
+    "230"
    ],
-   "answer": 1,
-   "why": "A diamond asks a yes/no question and has two labelled exits."
+   "answer": 0,
+   "why": "128 + 64 + 16 + 4 + 2 = 214."
   },
   {
    "type": "mcq",
-   "q": "Removing unnecessary detail so only the important features of a problem remain is called",
+   "q": "What is 10101111 in hexadecimal?",
    "options": [
-    "decomposition",
-    "iteration",
-    "abstraction",
-    "initialisation"
+    "FA",
+    "AF",
+    "9F",
+    "AE"
    ],
-   "answer": 2,
-   "why": "Abstraction hides or removes detail that is not needed; decomposition splits the problem up."
+   "answer": 1,
+   "why": "Split into nibbles: 1010 = A and 1111 = F, so AF."
   },
   {
    "type": "mcq",
-   "q": "In Pearson pseudocode, which line stores 0 in the variable Total?",
+   "q": "A logical shift left by 2 places is applied to 00001100 (12). What is the result?",
    "options": [
-    "Total = 0",
-    "SET Total TO 0",
-    "RECEIVE Total FROM KEYBOARD",
-    "Total <- 0 END"
+    "00000011",
+    "00011000",
+    "11000000",
+    "00110000"
    ],
-   "answer": 1,
-   "why": "Pearson pseudocode assigns with SET … TO …; a bare = is a comparison."
+   "answer": 3,
+   "why": "Bits move 2 places left and 0s fill the right: 00110000 = 48 = 12 × 4."
   },
   {
    "type": "short",
-   "q": "Give two benefits of decomposing a problem into smaller sub-problems.",
-   "model": "Each part is easier to understand and solve, and can be tested separately. Different people can work on different parts at the same time, and parts can be reused as subprograms.",
+   "q": "Explain what an overflow error is and when it happens when two 8-bit binary numbers are added.",
+   "model": "An overflow error happens when the result of a calculation is too large to be stored in the available bits. When two 8-bit numbers are added and the answer is more than 255, it needs a ninth bit that cannot be stored, so the stored result is wrong.",
    "points": [
-    "easier to understand/solve smaller parts",
-    "parts can be tested separately",
-    "can be shared between programmers / reused"
+    "result too large for the number of bits available",
+    "8-bit answer needs a 9th bit / is over 255",
+    "the 9th bit cannot be stored so the stored value is wrong"
    ]
   }
  ]

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What percentage of the qualification is the Appraising (listening) paper?",
+   "q": "How many extracts are on Paper 1 Listening?",
    "options": [
-    "30%",
-    "40%",
-    "50%",
-    "60%"
+    "Six",
+    "Seven",
+    "Eight",
+    "Ten"
+   ],
+   "answer": 2,
+   "why": "Questions are set on eight short recorded extracts, at least one from each area of study."
+  },
+  {
+   "type": "mcq",
+   "q": "Which of these is a focus work for the Romantic area of study?",
+   "options": [
+    "Vivaldi: Spring",
+    "Smetana: Vltava",
+    "Mozart: Quintet K. 452",
+    "Handel: Concerto Grosso Op. 6 No. 5"
    ],
    "answer": 1,
-   "why": "Appraising is 40%; Performing and Composing are 30% each."
+   "why": "Vltava from Má vlast is the Romantic focus work; the others are Baroque or Classical."
   },
   {
    "type": "mcq",
-   "q": "Which set work is in the area of study Fusions?",
+   "q": "What is the weighting of Paper 1 Listening?",
    "options": [
-    "Queen: Killer Queen",
-    "Purcell: Music for a While",
-    "Afro Celt Sound System: Release",
-    "John Williams: Star Wars Main Title"
+    "30%",
+    "50%",
+    "40%",
+    "25%"
    ],
    "answer": 2,
-   "why": "Release and Samba Em Preludio are the Fusions set works."
-  },
-  {
-   "type": "mcq",
-   "q": "In a 4-mark listening question, how many separate points should you aim to give?",
-   "options": [
-    "1",
-    "2",
-    "4",
-    "8"
-   ],
-   "answer": 2,
-   "why": "Roughly one point per mark, each with a musical term and evidence."
+   "why": "Paper 1 is 70 marks and 40% of the qualification; Performing and Composing are 30% each."
   },
   {
    "type": "short",
-   "q": "Give two things you should do to answer a listening question well.",
-   "model": "Underline the element the question asks about, then use a specific musical term with evidence from the extract.",
+   "q": "The focus works are not used in the exam. Explain what this means for how you should revise them.",
+   "model": "Exam extracts are different pieces related in genre, structure or style, so I should learn the features the focus works show (e.g. ritornello, sonata form, programme music) and be able to recognise them in unfamiliar music.",
    "points": [
-    "read the question and identify the element",
-    "use correct terms with evidence"
+    "extracts are different pieces",
+    "learn the features/style, not the piece itself"
    ]
   }
  ]

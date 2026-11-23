@@ -2,156 +2,157 @@
  "id": "geo-r1-08",
  "cards": [
   {
-   "f": "Energy demand rises because of...",
-   "b": "Population growth, increased wealth and technological advances."
+   "f": "Emergent layer",
+   "b": "The tallest trees (40–50 m+), with umbrella crowns above the canopy."
   },
   {
-   "f": "Energy gap",
-   "b": "When a country's demand for energy is greater than it can produce or afford."
+   "f": "Canopy",
+   "b": "Dense layer of leaves at 25–40 m that blocks most light; most wildlife lives here."
   },
   {
-   "f": "Energy security",
-   "b": "Having a reliable and affordable supply of energy."
+   "f": "Drip tips",
+   "b": "Pointed leaf ends that let heavy rain run off quickly, preventing fungus."
   },
   {
-   "f": "Balanced energy mix",
-   "b": "Using a range of energy sources so a country does not depend on one fuel or supplier."
+   "f": "Buttress roots",
+   "b": "Large flared roots supporting tall trees on shallow soil."
   },
   {
-   "f": "Non-renewable energy examples",
-   "b": "Coal, oil, natural gas, uranium, shale gas/oil."
+   "f": "Why are rainforest soils infertile?",
+   "b": "Nutrients are held in plants; leaf litter decays fast and rain washes nutrients away (leaching)."
   },
   {
-   "f": "Renewable energy examples",
-   "b": "Solar, wind, hydroelectric power (HEP), geothermal and biomass."
+   "f": "Xerophyte",
+   "b": "A plant adapted to very dry conditions."
   },
   {
-   "f": "Advantages and disadvantages of nuclear power",
-   "b": "No CO₂ when generating and high output; but radioactive waste, accident risk and high costs."
+   "f": "Cactus adaptation: stem",
+   "b": "Thick fleshy stem stores water for long droughts."
   },
   {
-   "f": "Disadvantage of wind power",
-   "b": "Unreliable because it depends on wind; can spoil views, make noise and harm birds."
+   "f": "Cactus adaptation: spines",
+   "b": "Reduce surface area for water loss (transpiration) and deter animals."
   },
   {
-   "f": "Disadvantage of fossil fuels",
-   "b": "Burning them releases CO₂, which enhances the greenhouse effect and causes climate change."
+   "f": "Tap roots",
+   "b": "Very long roots that reach deep groundwater, e.g. mesquite and acacia."
   },
   {
-   "f": "Energy efficiency",
-   "b": "Using less energy to do the same job, e.g. LED bulbs, insulation, hybrid vehicles."
+   "f": "Name four causes of deforestation",
+   "b": "Logging, cattle ranching, soya/palm oil farming, mining, roads, dams."
   },
   {
-   "f": "Energy conservation",
-   "b": "Reducing the amount of energy used, e.g. switching off lights, car-sharing, cycling."
+   "f": "Environmental effects of deforestation",
+   "b": "Loss of biodiversity, soil erosion, flooding, more CO₂, nutrient loss."
   },
   {
-   "f": "Three ways to manage energy sustainably",
-   "b": "Education, efficiency and conservation (in industry, transport and the home)."
+   "f": "Selective logging",
+   "b": "Cutting only some mature trees so the forest regrows."
   },
   {
-   "f": "Carbon footprint",
-   "b": "The total greenhouse gases produced by a person, product, activity or country, measured in tonnes of CO₂."
+   "f": "Ecotourism",
+   "b": "Low-impact tourism that protects the environment and benefits local people."
   },
   {
-   "f": "Ecological footprint",
-   "b": "The area of land and sea needed to supply someone's resources and absorb their waste."
+   "f": "Biodiversity",
+   "b": "The variety of plant and animal species in an area."
   },
   {
-   "f": "Shale gas disadvantages",
-   "b": "Fracking can cause small earth tremors and water pollution, and faces local opposition."
+   "f": "Sustainable management",
+   "b": "Using a resource so it remains available for future generations."
   }
  ],
  "gaps": [
   {
-   "s": "Coal, oil and gas are called ___ fuels.",
+   "s": "Rainforest trees keep their leaves all year, so they are ___.",
    "a": [
-    "fossil"
+    "evergreen"
    ]
   },
   {
-   "s": "Solar and wind are ___ energy sources because they do not run out.",
+   "s": "The tallest layer of the rainforest is the ___ layer.",
    "a": [
-    "renewable"
+    "emergent"
    ]
   },
   {
-   "s": "When demand is greater than supply there is an energy ___.",
+   "s": "Plants adapted to drought are called ___.",
    "a": [
-    "gap"
+    "xerophytes",
+    "xerophyte"
    ]
   },
   {
-   "s": "A reliable, affordable energy supply is called energy ___.",
+   "s": "Loss of water vapour from leaves is called ___.",
    "a": [
-    "security"
+    "transpiration"
    ]
   },
   {
-   "s": "Using a variety of sources is called a balanced energy ___.",
+   "s": "Cutting only mature trees is known as ___ logging.",
    "a": [
-    "mix"
+    "selective"
    ]
   },
   {
-   "s": "Using LED bulbs is an example of energy ___.",
+   "s": "Large flared roots on rainforest trees are ___ roots.",
    "a": [
-    "efficiency"
+    "buttress"
    ]
   },
   {
-   "s": "Switching off lights to use less energy is energy ___.",
+   "s": "The variety of species in an area is called ___.",
    "a": [
-    "conservation"
+    "biodiversity"
    ]
   },
   {
-   "s": "Burning fossil fuels releases ___ dioxide.",
+   "s": "Tourism that protects the environment is called ___.",
    "a": [
-    "carbon"
+    "ecotourism",
+    "eco-tourism"
    ]
   }
  ],
  "short": [
   {
-   "q": "Explain two reasons why global energy demand is increasing.",
-   "model": "Population growth means more people need energy; and increased wealth means more cars, appliances and industry, especially in emerging countries.",
+   "q": "Describe the structure of the tropical rainforest.",
+   "model": "It has layers: tall emergent trees above a dense canopy, then an understorey of young trees and climbers, and a dark shrub and ground layer where little grows.",
    "points": [
-    "population growth",
-    "increased wealth or technology",
-    "development"
+    "names at least three layers",
+    "gives a feature or height for a layer"
    ]
   },
   {
-   "q": "Explain one advantage and one disadvantage of nuclear power.",
-   "model": "Advantage: no CO₂ is emitted when generating, so less climate change. Disadvantage: radioactive waste remains dangerous for thousands of years.",
+   "q": "Explain how rainforest trees are adapted to the climate.",
+   "model": "Drip tips shed heavy rain quickly. Buttress roots support tall trees on shallow soil, and tall trunks lift leaves toward the light.",
    "points": [
-    "advantage developed",
-    "disadvantage developed"
+    "drip tips with reason",
+    "buttress roots / tall trunks with reason"
    ]
   },
   {
-   "q": "Explain why a balanced energy mix improves energy security.",
-   "model": "A country that uses several sources is not reliant on one fuel or supplier, so supply continues if one source becomes expensive or runs out.",
+   "q": "Explain how desert plants are adapted to lack of water.",
+   "model": "Cacti store water in stems and have spines instead of leaves to reduce water loss. Others have long tap roots that reach groundwater.",
    "points": [
-    "not reliant on one source",
-    "supply continues if a source fails"
+    "storage or reduced leaves with reason",
+    "roots (tap or wide shallow) with reason"
    ]
   },
   {
-   "q": "Explain two ways of managing energy sustainably in industry or transport.",
-   "model": "Efficiency: more efficient machines or electric vehicles use less energy for the same output. Conservation: car-sharing and public transport reduce energy used.",
+   "q": "Explain two environmental effects of deforestation.",
+   "model": "Soil is eroded because roots no longer bind it, silting rivers. Biodiversity is lost as habitats are destroyed.",
    "points": [
-    "method one with effect",
-    "method two with effect"
+    "effect 1 with explanation",
+    "effect 2 with explanation"
    ]
   },
   {
-   "q": "Describe how a named country has changed its energy mix.",
-   "model": "The UK reduced coal use to almost zero by 2024 and increased gas and offshore wind, to cut CO₂ emissions.",
+   "q": "Give two ways deforestation can bring economic benefits.",
+   "model": "Logging and mining create jobs and export income. Cleared land can be used for cattle and soya, giving farmers money.",
    "points": [
-    "named country",
-    "change described with data or detail"
+    "jobs/income from logging or mining",
+    "farmland/export crops"
    ]
   }
  ]

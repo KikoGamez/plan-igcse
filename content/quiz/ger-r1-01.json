@@ -3,48 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many marks is the Listening paper worth, and how long is it (not counting reading time)?",
+   "q": "How many marks is Cambridge IGCSE German Paper 4 (Writing) worth, and how long is it?",
    "options": [
-    "50 marks, 45 minutes",
-    "40 marks, 30 minutes",
-    "40 marks, 45 minutes",
-    "30 marks, 30 minutes"
+    "30 marks, 45 minutes",
+    "40 marks, 1 hour 15 minutes",
+    "60 marks, 1 hour 45 minutes",
+    "45 marks, 1 hour"
    ],
-   "answer": 1,
-   "why": "Paper 1 is 40 marks, 30 minutes plus 5 minutes reading time, and is 25% of the qualification."
+   "answer": 3,
+   "why": "Paper 4 is 1 hour and 45 marks (Q1 form 5, Q2 directed writing 12, Q3 extended writing 28), 25% of the grade."
   },
   {
    "type": "mcq",
-   "q": "Which task requires 130–150 words?",
+   "q": "In the Speaking test, what is each of the five role-play answers worth?",
    "options": [
-    "Q6",
-    "Q7",
-    "Q8",
-    "Speaking Task A"
+    "1 mark",
+    "2 marks",
+    "3 marks",
+    "5 marks"
    ],
    "answer": 1,
-   "why": "Q7 is the extended writing task with four bullet points (choice of three); Q6 is 60–75 words."
+   "why": "Each role-play answer is marked out of 2 (5 × 2 = 10); the two topic conversations carry the other 30 marks."
   },
   {
    "type": "mcq",
-   "q": "Which sub-topic can NOT be used for your Speaking picture?",
+   "q": "Which statement about Paper 1 Listening is correct?",
    "options": [
-    "A2 Holidays",
-    "B1 School life",
-    "D2 Weather and climate",
-    "E2 Hobbies"
+    "Answers are short written German sentences",
+    "Each recording is played once",
+    "It has multiple-choice and matching questions, and each recording is played twice",
+    "It is 20% of the qualification"
    ],
    "answer": 2,
-   "why": "A3, C3, C5, D2 and E4 are not assessed in Speaking."
+   "why": "Paper 1 has 37 multiple-choice and matching questions (40 marks); every text is heard twice and the paper is 25%."
   },
   {
    "type": "short",
-   "q": "Describe what you should do in the 5 minutes of reading time in the Listening paper, and how to use the two playings.",
-   "model": "Read all the questions, underline the question words, and predict the kind of answer (number, time, opinion). On the first playing answer what you can; on the second check and fill gaps, and never leave a blank.",
+   "q": "Describe how to approach Writing Q3 (130–140 words) so that you earn both communication and language marks.",
+   "model": "Choose the task, plan before writing, cover every bullet point with relevant detail and an opinion with a reason, use different time frames (past, present, future or conditional), link sentences with conjunctions such as weil and dass, stay near 130–140 words and check verb position, noun capitals and cases.",
    "points": [
-    "Reads all questions and underlines the question words / predicts answer type",
-    "Answers on first play, checks and fills gaps on second",
-    "Does not leave blanks (no penalty for guessing)"
+    "Covers all bullet points / relevant, developed content",
+    "Uses a range of tenses and structures (past, present, future/conditional) and opinions with reasons",
+    "Checks accuracy (verb position, endings, capitals) and keeps to the word count"
    ]
   }
  ]

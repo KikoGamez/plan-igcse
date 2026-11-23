@@ -1,158 +1,177 @@
 # Printmaking, collage and mixed media
 
-> **In the exam:** No written paper. These are techniques you use to show **AO2** (selecting and experimenting with appropriate media, materials, techniques and processes) and to build an individual style in **AO4**. Each AO is out of 18 in both components. Printmaking and collage are popular in the externally set assignment because they let you test, repeat and combine ideas, but the examiner marks the quality of your thinking and results, not the technique itself.
+> **In the exam:** There is no written paper. Printmaking, assemblage/collage and mixed media are listed in the syllabus under **painting and related media**, and you can use them in either component. They are especially good for **AO2** ("Explore and select appropriate resources, media, materials, techniques and processes") and help **AO3** and **AO4**. Each AO is worth 25 of 100 marks in a component. The examiner wants to see you try processes, choose the best, and explain why.
 
 ## What you need to know
 
-- Types of printmaking: relief (lino, woodcut, polystyrene), monoprint, collagraph, screen print, drypoint/etching (awareness).
-- The lino print process step by step, and safety.
-- Collage: types of material, methods, composition and layering.
-- Mixed media: combining materials in one piece, and how to make it coherent.
-- Texture, layering and contrast; how to experiment and review (AO2).
-- Artists using these methods.
+- Types of printmaking: relief (lino, woodcut), monoprint, collagraph, screenprint/stencil, and digital printing; how each is made.
+- Collage and assemblage: materials, composition, layering and adhesives.
+- Mixed media: combining materials (paint, print, collage, stitch, drawing, digital) in one piece.
+- How to explore and select processes, annotate them, and link them to artists and your theme.
+- Working safely with cutting tools and inks, and using recycled materials.
 
 ## Notes
 
-### Printmaking basics
+### Printmaking: the basics
 
-A print is made by transferring ink from a prepared surface (the **matrix**) to paper. Prints are usually made in an **edition** (several copies, numbered, e.g. 3/10). Images in relief printing come out **reversed**, so plan text and direction first.
+A **print** is made by transferring ink from a prepared surface (a plate or block) onto paper or fabric. The big advantage: you can make **multiples** (an **edition**) and vary them.
 
-| Method | How it works | Marks you get | Good for |
+| Process | How it works | Look | Tips |
 |---|---|---|---|
-| **Monoprint** | Paint or ink on a plate (glass, Perspex), then print or draw on the back of paper placed on it. Only one print | painterly, textured, unique | quick experiments, backgrounds |
-| **Lino / relief print** | Carve away areas of a lino block; ink the raised surface and press | bold, flat, graphic; strong contrast | bold designs, repeats |
-| **Polystyrene print** | Draw into a foam tile with a pencil and print | fine lines, simple | quick tests |
-| **Collagraph** | Glue textured materials (card, string, fabric) to a board, seal, ink and print | rich textures and tones | texture, tone |
-| **Screen print** | Ink pressed through a stencil on a mesh screen | flat layers of colour, crisp edges | multi-colour graphic images |
-| **Etching / drypoint** | Lines scratched or etched into metal or plastic plates | fine detailed line | detail (awareness) |
+| **Lino (relief) print** | Carve away areas of a lino block with gouges; roll ink on the raised surface; press onto paper | Bold, graphic, flat colour with cut-line texture | Carved-away areas stay white; lettering must be carved in **reverse**; cut away from your hand |
+| **Woodcut** | Same as lino on wood | Grain texture | Harder to carve |
+| **Monoprint** | Paint or ink on a smooth plate (glass, plastic), then press paper to it; or draw on the back of the paper laid on the inked plate | One-off, painterly, soft marks | Each print is unique; ghost prints (second pull) |
+| **Collagraph** | Build a plate from card, string, fabric, glue; seal; ink and print | Rich textures | Seal with PVA or varnish before inking |
+| **Stencil / screenprint** | Ink forced through a stencil on a mesh screen | Flat, bright layers | Layer colours one at a time, registered; used in pop art |
+| **Polystyrene (drypoint)** | Draw into foam tile; ink it; print | Fine line | Cheap and quick; good for testing |
+| **Digital print** | Design on screen, print or use as a base | Clean, adaptable | Can combine with hand work |
 
-### Lino print: step by step
+### Lino printing step by step
 
-1. **Plan:** draw a simple design with clear shapes and strong contrast. Decide which areas are **black** (ink) and which are **white** (carved away). Remember the print is reversed.
-2. **Transfer** the drawing to the lino (trace, or use carbon paper). Mark white areas.
-3. **Carve** away the white areas with lino cutting tools, always cutting **away from your hands** and keeping hands behind the blade. Use a bench hook or non-slip mat.
-4. **Roll out ink** on a flat plate with a roller until it sounds like crackling bacon (a thin, even layer).
-5. **Ink the block** with the roller in several directions.
-6. **Print:** place the paper on the inked block and rub with a baren or the back of a spoon, or use a press. Peel back carefully.
-7. **Review** and cut further if needed; print an edition and make colour or paper variations.
+1. Draw the design in pencil on paper (include **positive and negative** shapes: what will print, what will be carved away).
+2. Transfer in **reverse** to the block (draw with soft pencil and rub, or trace over carbon).
+3. Carve with a V-gouge (lines) and U-gouge (clearing), working away from your body; use a bench hook.
+4. Roll a thin, even layer of ink onto the block using a roller (brayer).
+5. Place paper on top and rub with a spoon or baren, or use a press. Peel up.
+6. Wash up, dry, and **evaluate**: Is detail lost? Is the ink too thick? Adjust.
+7. Try variations: change colours, print on coloured paper, print twice with the block rotated, layer over collage.
 
-Technique tips: thin even ink gives a clean print; too much ink fills fine lines and blobs; too little is patchy. Print on slightly damp paper for dense colour. Clean up before the ink dries.
+### Artists for printmaking
 
-Variations: **reduction print** (carve and print more colours from the same block, cutting more each time); **overprinting** one print over another; printing onto coloured or collaged paper.
+- **Katsushika Hokusai:** Japanese woodblock print, *The Great Wave off Kanagawa* (c. 1831); flat colour and strong outlines.
+- **Pablo Picasso:** reduction linocuts in the late 1950s and early 1960s, where one block is carved and printed several times.
+- **Käthe Kollwitz:** expressive prints (etching, woodcut, lithography) about poverty and war.
+- **Andy Warhol:** screenprints of Marilyn Monroe and soup cans using repeat and bright colour.
 
-Artists: **Pablo Picasso** made bold multi-colour linocuts using the reduction method; **Hokusai** made Japanese woodblock prints (for example *The Great Wave*); **Angie Lewin** makes detailed prints of plants and landscape; **Andy Warhol** used screen printing for repeated, bright images such as soup cans and portraits.
+### Collage and assemblage
 
-### Monoprint techniques
+**Collage** (French *coller*, "to stick") is making a picture by sticking pieces of paper, photographs, fabric or other flat materials on a surface. **Assemblage** is arranging 3D objects together. **Photomontage** is collage using photographs.
 
-- **Roll and print:** roll ink onto a plate, lay on paper and draw on the back with a pencil (a "pulled" print with a soft drawn line).
-- **Subtractive:** roll ink on the plate and wipe away or draw into it with a cotton bud, then print.
-- **Stencil:** lay shapes or leaves on the plate; they leave white shapes.
-- **Ghost print:** print again from the same plate for a paler second image.
-- Combine with drawing or paint after printing.
+| Material | Effect |
+|---|---|
+| Newspaper, magazines, maps | Text, colour, context |
+| Tissue and tracing paper | Transparency and layering |
+| Fabric, thread, ribbon | Texture and touch |
+| Found objects (tickets, packaging, leaves) | Personal, narrative |
+| Painted papers | Own colour palette (as in Matisse's cut-outs) |
 
-### Collage
+**Adhesives:** PVA glue (strong), glue stick (paper), wallpaper paste (thin papers), matt medium (acrylic gel; also acts as a varnish).
 
-Collage means building a picture from pieces of paper, fabric or other materials stuck down.
+**Composition for collage:** choose a focal point; overlap to create depth; repeat colours; vary scale; use **tearing** for soft edges and **cutting** for sharp edges; leave space to rest the eye.
 
-- **Materials:** magazines, newspaper, maps, painted paper, tissue, fabric, found objects, text, photographs.
-- **Methods:** cutting, tearing (soft, rough edge), layering, overlapping, using a template, **decollage** (tearing away layers), **photomontage** (cutting and joining photographs).
-- **Composition:** choose a focal point; vary scale (big and small pieces); limit the palette or use contrast; leave some negative space.
-- **Meaning:** juxtaposing unexpected images can make a message, as in Dada and political photomontage.
-- **Good practice:** use PVA or glue stick; flatten with a press or books; plan before you glue; keep offcuts for texture; seal with a thin layer of PVA or varnish.
+### Artists for collage and mixed media
 
-Artists: **Kurt Schwitters** (Merz collages from rubbish, tickets and scraps), **Hannah Höch** (Dada photomontage), **Romare Bearden** (collages of Black American life from cut and torn photographs and paper), **Henri Matisse** (late cut-outs of painted paper), **Robert Rauschenberg** (combined images, paint and objects).
+- **Georges Braque and Pablo Picasso:** invented cubist **papier collé** in about 1912.
+- **Kurt Schwitters:** *Merz* collages of tickets, wrapping and rubbish.
+- **Hannah Höch:** Dada photomontage, cutting up magazines to question gender and politics.
+- **Romare Bearden:** collages about African-American life, using photographs and coloured paper.
+- **Robert Rauschenberg:** "combines" mixing paint with objects such as a stuffed goat or a bed.
+- **Henri Matisse:** cut-outs (*The Snail*, 1953) made from gouache-painted paper.
+- **Joseph Cornell:** assemblage in glass-fronted boxes.
 
 ### Mixed media
 
-Mixed media combines **different materials in one piece**, for example collage, ink, pencil and acrylic, or print with watercolour.
+Mixed media combines several materials or processes. Examples:
+- Collage background + ink drawing + acrylic highlights.
+- Monoprint + collage + stitch.
+- Lino print over watercolour wash.
+- Photograph transfer + paint + text.
+- Digital edit printed, then drawn on by hand.
 
-- **Ground:** prepare the surface (gesso, coloured paper, a tea-stained base) so layers sit well.
-- **Order of layers:** wet media first, dry media last; opaque over transparent only where wanted. Fix pastel and charcoal.
-- **Coherence:** link materials with a repeated colour, shape or texture so the piece looks planned. Use one dominant material and one or two supporting ones.
-- **Contrast:** combine smooth with rough, detailed with flat, light with dark.
-- **Test first:** some materials resist each other (oil pastel repels watercolour, which can be used on purpose as **resist**).
+The key is **selection**: each material should have a reason (for example: tissue paper for fragile memories, gold leaf for value). Avoid piling on every material.
 
-Useful combinations:
+### Layering and texture
 
-| Combination | Result |
+- Work from background to foreground; allow drying between layers.
+- Add **actual texture** with modelling paste, sand, string or fabric.
+- Use **resists**: wax crayon under watercolour, masking fluid.
+- **Scratch and sand back** (sgraffito) to reveal layers beneath.
+- Use **transparent** layers (tissue, glazes) to show earlier layers.
+
+### Show AO2 and AO3 in your sketchbook
+
+| Page idea | AO |
 |---|---|
-| Wax crayon + watercolour wash | **Wax resist**: wash slides off the wax |
-| Collage + acrylic paint | covers and unifies the surface |
-| Lino print + collage | graphic layer over textured background |
-| Monoprint background + ink drawing | spontaneous base with controlled line |
-| Newspaper + gesso + charcoal | tonal drawing on textured text |
+| Samples: three prints from the same design with different colours/pressures | AO2 |
+| Test of 3 collage materials on one image, with a note on which works | AO2 |
+| Study of Hannah Höch or Hokusai with a small copy of their technique | AO3 |
+| Final plan combining your best print with collage | AO3/AO4 |
+| Review page: "My first print was too dark because I rolled too much ink; I fixed it by..." | AO2/AO3 |
 
-### Using these techniques to earn marks
+### Safety and sustainability
 
-1. **AO2:** Show **testing**. Make three small tests (e.g. lino, collage, monoprint) of the same idea. Review which suits your intention and say why. Show a second round of changes (different ink, different layering).
-2. **AO1/AO3:** Link to an artist and your own recording. Make a lino from your own drawing, not a stock image.
-3. **AO4:** In the final piece, use the technique to say something about your theme (for example, layers of collage to show memory). Control the formal elements: texture, tone and composition.
-4. **Be realistic:** a 10-hour exam piece must be possible in time. Practise the process beforehand, and time yourself on a test.
+- Cut away from the body; keep fingers behind the blade; use a cutting mat.
+- Keep ink off clothes; wash tools with water for water-based ink.
+- Ventilate when using spray fixative or solvents.
+- Reuse and recycle: packaging, old magazines, offcuts. The syllabus lists recycled materials as a valid choice.
 
 ## Key terms and definitions
 
-- **Printmaking:** making an image by transferring ink from a prepared surface to paper.
-- **Matrix:** the block, plate or screen that carries the image for printing.
-- **Relief print:** a print made from raised areas of a block (lino, woodcut).
-- **Monoprint:** a one-off print from a plate; each is unique.
-- **Edition:** a set of identical prints from one matrix, numbered.
-- **Reduction print:** a multi-colour print made by carving more of the same block between colours.
-- **Collagraph:** a print from a board with textured materials glued to it.
-- **Collage:** an artwork made by sticking pieces of paper or other materials onto a surface.
-- **Photomontage:** a composite image made by joining photographs.
-- **Mixed media:** an artwork using more than one type of material.
-- **Resist:** a material (wax, masking fluid) that blocks paint or ink.
+- **Relief print:** a print made from the raised surface of a block (e.g. lino, woodcut).
+- **Lino cut:** a relief print made by carving a design into linoleum.
+- **Monoprint:** a one-off print, made by transferring ink or paint from a smooth plate to paper.
+- **Collagraph:** a print made from a plate built up from textured materials.
+- **Edition:** a set of identical prints from the same plate.
+- **Registration:** lining up each layer or colour accurately in a multi-layer print.
+- **Collage:** a work made by sticking materials such as paper, photographs or fabric onto a surface.
+- **Assemblage:** a three-dimensional work made by assembling found objects.
+- **Photomontage:** a collage made from photographs.
+- **Mixed media:** using more than one medium or process in a single piece.
+- **Layering:** building up an image from several layers of material or colour.
 
 ## Worked examples
 
-**1. Explain two ways to get a good-quality lino print. [4]**
-*Model answer:* Roll the ink until it is a thin, even layer so fine lines do not fill in (2). Carve clean, deep white areas and keep a strong contrast between carved and raised areas so the image is clear; apply even pressure with a baren or press when printing (2).
+**1. Explain two reasons an artist might choose lino printing for a poster about the sea. [4]**
 
-**2. Describe how you could combine collage and paint in a final piece about the city. [3]**
-*Model answer:* Stick on maps, newspaper and my own photographs to build a textured base (1), then paint over parts in acrylic, leaving some text and image showing, to unify the surface and create a focal point (1), and add ink line drawing on top for detail and contrast (1).
+Lino gives bold flat shapes and strong black lines that read clearly from a distance (2). It can be repeated to make several copies, so a poster could be printed in different colours (2).
 
-**3. Why might a student make a monoprint test before a lino print? [2]**
-*Model answer:* It is quick and lets me try composition, tone and colour before committing to carving (1); because it is a one-off, I can review and change ideas without wasting the block (1).
+**2. "Describe how you would make a monoprint." [3]**
+
+Roll or paint ink onto a smooth plate such as glass or plastic (1); place paper on top and press or draw on the back to transfer marks (1); lift the paper to reveal a unique print, with the possibility of a lighter "ghost" print from the same plate (1).
+
+**3. Write an annotation for a collage test.**
+
+"I tested newspaper, painted paper and tissue on my market drawing. Newspaper added text that fits the theme of busy trade, but the tissue gave a soft layered look for the awnings. I selected a mixture of both and will add ink lines on top to link back to my drawings."
 
 ## Common mistakes
 
-- Carving the wrong areas away because you forgot the print is reversed.
-- Carving towards your hands; always cut away from your body and hands.
-- Too much ink, so details fill in and the print blobs.
-- Making one print and stopping; no review or variations (weak AO2).
-- Gluing before planning, so the collage looks random.
-- Mixed media with no link between materials, so it looks messy.
-- Choosing a technique too slow for the timed 10 hours.
-- Ignoring the artist link: show how an artist's method influenced yours.
+- Carving lettering or a design in the wrong direction (it prints in reverse).
+- Over-inking a lino block, which fills the lines; or too little, which leaves patches.
+- Cutting towards your hand.
+- Gluing too much, so paper wrinkles; not allowing layers to dry.
+- Collage that is just "stuck-on" without a clear idea or focal point.
+- Trying many materials and never selecting or explaining the best (AO2).
+- Naming artists without describing their actual techniques or linking them to your work.
+- Not photographing or scanning prints before they get damaged.
 
 ## Practice questions
 
-1. What is a monoprint, and why is it called that? [2]
-2. State two safety points for lino cutting. [2]
-3. Why are relief prints reversed, and what does this mean for planning text? [2]
-4. Describe how to ink a lino block properly. [2]
-5. Name one artist who used collage and describe what they made. [2]
-6. Explain what a resist is, with an example. [2]
-7. Give two ways to make a mixed media piece look unified. [2]
-8. How do you show AO2 using printmaking? [3]
+1. Give two examples of relief printing. [2]
+2. Why must text be carved in reverse on a lino block? [1]
+3. What is the difference between collage and assemblage? [2]
+4. Describe one way to add actual texture to a mixed-media piece. [2]
+5. State two health and safety rules for lino cutting. [2]
+6. Name one artist known for collage or photomontage and describe how they worked. [3]
+7. Why is a monoprint called "mono"? [1]
+8. Explain how a student could use a print process to show both AO2 and AO3. [3]
 
 <details><summary>Answers</summary>
 
-1. A print made from a plate with ink or paint that gives only one unique print ("mono" means one).
-2. Any two: cut away from your hands; keep your hands behind the blade; use a bench hook or non-slip mat; keep tools sharp and controlled; sit properly and don't rush.
-3. The image is flipped when pressed onto paper, like a stamp; so text and direction must be drawn reversed on the block.
-4. Roll ink onto a plate until it is thin and even (crackling sound), then roll it over the raised surface of the block in several directions.
-5. Examples: Kurt Schwitters made Merz collages from tickets and scraps; Hannah Höch made Dada photomontages; Matisse made paper cut-outs.
-6. A material that blocks paint, e.g. wax crayon under a watercolour wash.
-7. Any two: repeat a colour, shape or texture; keep one dominant material; limit the palette; use a unifying layer of paint or varnish.
-8. Make several tests (e.g. lino, monoprint, collagraph), review which is best for your idea, and select with a reason; show changes in a second attempt.
+1. Any two: lino print, woodcut (1 + 1).
+2. The block prints as a mirror image, so the text appears the right way round only if carved in reverse.
+3. Collage uses flat materials stuck onto a surface (1); assemblage arranges three-dimensional or found objects (1).
+4. Any: add modelling paste, sand, string, fabric, torn card or thick paint (1) and describe how it creates a raised surface (1).
+5. Cut away from your body/hand (1); use a bench hook or cutting mat and sharp, correct tools (1).
+6. E.g. Hannah Höch (1) cut up photographs from magazines and reassembled them into new images (photomontage) (1) to comment on society and gender (1). Accept Schwitters, Bearden, Braque.
+7. It makes one print only (a single, unique impression).
+8. Test printing with different inks, colours or pressures and select the best (AO2) (1 + 1); research a printmaker such as Hokusai and use their flat colour or outline in your own design (AO3) (1).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min:** Draw a simple bold design from one of your observational drawings (strong shapes, three or four tones). Mark black and white areas.
-- **15 min:** Make a monoprint or polystyrene test of the same idea.
-- **15 min:** Make a quick collage version using your own photographs and painted paper.
-- **10 min:** Compare tests. Write two precise notes on how each looks and which fits your intention.
-- **10 min:** Try a mixed-media change: add wax resist and wash, or ink line over your collage, and review the result.
+- 10 min: read the notes; list three print processes and three collage materials you could access at school.
+- 20 min: sketchbook task 1: make a monoprint or a polystyrene print of one of your drawings (two versions with different colours).
+- 20 min: sketchbook task 2: make a small collage of the same subject using at least three materials; add one drawing or paint layer on top.
+- 5 min: annotate both tests, then select one to develop and say why.
+- 5 min: quiz.

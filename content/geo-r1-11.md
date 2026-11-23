@@ -1,181 +1,148 @@
-# Globalisation and migration
+# Energy, water and environmental risks
 
-> **In the exam:** Paper 2 (Human geography), **Section C "Global issues"**, one of three questions (Q7 fragile environments and climate change, **Q8 globalisation and migration**, Q9 development and human welfare); you answer **one** and it is worth **35 marks**. Q8 in June 2024 had: MCQ on tourism (3 × 1), identify highest/lowest on a map (2) and "suggest two reasons for the pattern" (4), "explain how geopolitical relationships affect trade and tourism" (4), "calculate the range in male migration" (2) and "describe a trend" (2), "Assess the factors that have contributed to a more globalised economy" (6, resource) and a **12-mark** "Discuss the view that ..." using two figures and your own knowledge. Note: choose Section C only if you have revised this topic.
+> **In the exam:** Theme 3 (Economic development) on **Paper 1 Geographical Themes** (1 h 45 min, 75 marks; one 25-mark question per theme). Expect "name two renewable sources" [2], "describe the pattern of energy use/water supply shown on a graph or map" [3], "explain why a country uses more renewables" [4], "explain the causes of water shortage" [4], "describe the effects of climate change" [4] and a final 6–8 mark "explain how… can be managed sustainably" with a named example.
 
 ## What you need to know
 
-- **Rise of the global economy**: growth of production and commodity chains; factors: trade, foreign investment, aid, labour, modern transport and information technology.
-- Role of **global institutions**: WTO, IMF and **TNCs**.
-- **Push and pull factors** for different types of migration over 50 years: medical, sport, tourism, economic.
-- **Impacts of globalisation** on different groups, including benefits and costs to countries hosting TNCs.
-- **Impacts of migration**: voluntary, forced, national, international, rural-urban, on different groups.
-- **Tourism**: positive and negative impacts of global growth and mass tourism.
-- **Managing** migration and tourism: geopolitical relationships; approaches to long-term migration in a named country; sustainable tourism in a named developed and a named emerging/developing country.
-- Graph skills: line graphs/bar charts of the global economy and migration rates over 50 years; maps of migration patterns.
+- **Energy:** non-renewable (coal, oil, gas, nuclear) and renewable (hydro, solar, wind, geothermal, biomass, tidal) sources; the **energy mix**; demand and sustainability.
+- **Water:** sources, **demand and supply**, causes and effects of shortage, and ways to **increase supply and manage** water.
+- **Environmental risks** of economic development: pollution, loss of habitats, **climate change** (enhanced greenhouse effect), and **sustainable development**.
+- A **case study** for each if possible: a country's energy mix, a water-supply scheme, an area with environmental problems.
 
 ## Notes
 
-### What is globalisation?
+### Energy sources
 
-**Globalisation** is the process by which the world is becoming more connected and interdependent through flows of **goods (trade), money (investment), information, and people (migration and tourism)**. Since about 1970 it has speeded up.
+| Source | Type | Advantages | Disadvantages |
+|---|---|---|---|
+| **Coal, oil, natural gas** (fossil fuels) | Non-renewable | Reliable, cheap and easy to use; established technology | Release CO₂ and cause pollution; will run out; price changes; mining and spills damage land |
+| **Nuclear** | Non-renewable | Large amounts of power; no CO₂ in use | Radioactive waste; very costly; risk of accidents (e.g. Chernobyl) |
+| **Hydro-electric power (HEP)** | Renewable | Reliable, no CO₂ in use, water stored | Flooding of land and homes, high building costs, harms ecosystems and river flow |
+| **Wind** | Renewable | No CO₂ in use; free fuel | Intermittent (depends on wind); visual and noise impact; kills some birds |
+| **Solar** | Renewable | Free, silent, good for sunny and remote places | Needs sunshine; panels costly; not at night |
+| **Geothermal** | Renewable | Constant supply; used where there is volcanic heat (Iceland) | Only in some places |
+| **Biomass / biofuels** | Renewable | Uses wood, crops and waste; carbon-neutral if replaced | Land used for fuel not food; forests cleared |
+| **Wave / tidal** | Renewable | Predictable | Costly; limited sites |
 
-**Commodity chain / global production chain**: a product (e.g. a smartphone or a T-shirt) is designed in one country, made from parts in several others, assembled somewhere with low labour costs and sold worldwide. Each stage adds value.
+**Non-renewable:** will run out and cannot be replaced in a human lifetime. **Renewable:** replaced naturally and will not run out.
 
-### Factors encouraging globalisation
+**Energy mix** is the proportion of each source a country uses. It depends on **resources available** (coal in China, hydro in Norway, geothermal in Iceland), **wealth and technology**, **government policy** and **cost**.
 
-| Factor | How it helps |
+**Demand is rising** because of population growth, industrial growth in NICs, and higher living standards. **Rich countries** use far more energy per person; many people in LICs still burn wood (fuelwood) and lack electricity.
+
+**Sustainable energy:** reduce demand (insulation, efficient machines, public transport), increase renewables, improve **energy efficiency**, and use new technologies.
+
+### Water
+
+**Sources:** surface water (rivers, lakes, reservoirs), **groundwater** (from aquifers via wells), rainwater, and **desalination** of sea water.
+
+**Water use:** domestic, agriculture (irrigation is the biggest user), industry.
+
+**Water shortage:**
+- **Physical (scarcity):** too little water in the region, e.g. hot deserts and areas with low or unreliable rainfall.
+- **Economic:** water exists but a country cannot afford to **supply** it (no dams, pipes, wells, or treatment).
+
+**Causes of shortage:** rising **demand** (population growth, irrigation, industry), **pollution** of supplies, **climate** (drought, climate change), leaking pipes and waste, over-extraction of groundwater, poor management and lack of money.
+
+**Effects:** disease (cholera, diarrhoea) from unsafe water, crop and livestock failure, hunger, women and children spend hours collecting water, conflict between users or countries, industrial slowdown and migration.
+
+**Ways to increase supply**
+
+| Method | How it works | Problems |
+|---|---|---|
+| **Dams and reservoirs** | Store water; also give HEP and irrigation | Flood land, move people, costly; may reduce flow downstream |
+| **Groundwater (wells, boreholes)** | Taps water stored underground | Water table falls if overused; salty water near coasts |
+| **Desalination** | Removes salt from sea water | Very costly and energy hungry; used in Saudi Arabia, the UAE |
+| **Water transfer (pipelines, canals)** | Moves water from wet to dry areas | Cost; disputes |
+| **Rainwater harvesting; small-scale wells** | Cheap local collecting | Small amounts |
+| **Reduce demand and waste** | Repair leaks, recycle, metering, drip irrigation, education | Needs investment and cooperation |
+
+**Water management case studies:** e.g. a large dam such as the Three Gorges Dam (China), or small-scale community projects in Africa. Know location, why it was built, benefits and problems.
+
+### Environmental risks of economic development
+
+Economic development (farming, industry, mining, tourism, energy) can damage the environment.
+
+| Activity | Risks |
 |---|---|
-| **Trade** | falling trade barriers and free-trade agreements increase exports and imports |
-| **Foreign investment** | companies invest overseas (new factories, call centres) |
-| **Aid** | money and support that fund infrastructure and may be tied to trade |
-| **Labour** | cheap, abundant workers in emerging economies; migrant workers |
-| **Modern transport** | containerisation, jet aircraft, bigger ships, motorways and ports cut cost and time |
-| **Information technology** | internet, mobile phones, satellites and video calls allow instant communication and online trade |
+| **Farming** | Deforestation, soil erosion, fertiliser run-off polluting rivers (**eutrophication**), pesticide, methane from cattle and rice |
+| **Industry** | Air pollution (smog, acid rain), water pollution, waste, CO₂ emissions |
+| **Mining** | Land scarred, waste, toxic spills, habitat loss |
+| **Tourism** | Litter, erosion, damage to reefs and wildlife |
+| **Energy** | Oil spills, burning fossil fuels, flooding for dams |
 
-### Global institutions
+**Global warming and climate change**
+- The **greenhouse effect** is natural: gases such as CO₂ and methane trap heat. The **enhanced greenhouse effect** is when human activity (burning fossil fuels, deforestation, farming) adds more, so the average temperature rises.
+- **Effects:** melting ice and glaciers, **rising sea levels** (flooding low-lying coasts and islands), more **extreme weather** (droughts, heatwaves, storms), changing rainfall and crop yields, loss of species and coral reefs.
+- **Responses:** reduce emissions (renewable energy, efficiency), international agreements (e.g. the Paris Agreement), plant trees, adapt (sea walls, drought-resistant crops).
 
-- **World Trade Organization (WTO)**: sets rules for international trade, helps settle trade disputes and encourages lower trade barriers (created 1995).
-- **International Monetary Fund (IMF)**: lends money to countries in financial difficulty, often with conditions (such as cuts in public spending), and promotes global financial stability (founded 1944).
-- **Transnational corporations (TNCs)**: companies that operate in more than one country (e.g. Apple, Nike, Toyota). Their investment, trade and supply chains are a major driver of globalisation; many TNCs are bigger economically than some countries.
-
-### TNCs: benefits and costs to the host country
-
-| Benefits | Costs |
-|---|---|
-| **jobs** and training; higher wages than local firms | low wages and poor conditions possible; jobs can be moved elsewhere |
-| investment in infrastructure (roads, power) | **profits sent abroad**, little tax paid |
-| **tax** revenue and foreign currency (exports) | environmental damage; use of resources |
-| technology and skills transfer; **positive multiplier** | local firms put out of business; dependence on the TNC |
-
-### Impacts of globalisation on different groups
-
-- **Consumers** gain cheaper goods and a wider choice.
-- **Workers in emerging economies**: more jobs and higher wages, but long hours and poor safety in some factories.
-- **Workers in developed countries**: loss of manufacturing jobs but growth in services.
-- **Countries**: faster economic growth (China, Vietnam), but **widening inequality** and cultural change (spread of Western brands: "cultural globalisation").
-- Environment: more transport, emissions and resource use.
-
-### Types of migration
-
-- **Voluntary** (people choose to move, e.g. for work) and **forced** (refugees fleeing war, persecution or disaster).
-- **Internal / national** (within a country, e.g. rural-urban) and **international** (across borders).
-- Other types in the spec: **economic** (work), **medical** (travelling for treatment), **sport** (athletes moving clubs), **tourism**.
-
-**Push and pull factors**
-
-| | Push (leave) | Pull (attract) |
-|---|---|---|
-| Economic | unemployment, low wages, poverty | jobs, higher wages |
-| Social | poor schools, health care | better education and health |
-| Political | war, persecution, corruption | safety, freedom, stable government |
-| Environmental | drought, floods, hazards | good climate, safe land |
-
-Examples: **Syrian refugees** (forced, war); **Polish workers moving to the UK** after 2004 (voluntary, economic); **rural-urban migration in China** (national, voluntary).
-
-### Impacts of migration
-
-| Group | Positive | Negative |
-|---|---|---|
-| **Destination country** | fills labour shortages, taxes paid, new skills and culture, helps an ageing population | pressure on housing, schools and health care; competition for jobs or lower wages (perceived); social tension |
-| **Source country** | **remittances** (money sent home) support families; skills gained are brought back | **brain drain** (educated workers leave); fewer working-age people; families separated |
-| **Migrants** | higher income, safety, opportunities | discrimination, low-paid or dangerous work, loneliness, risks of the journey |
-| **Rural-urban (national)** | cities get workers | rural areas lose young adults, villages decline; cities overcrowd |
-
-### Tourism
-
-**Global tourism** has grown rapidly (over a billion international arrivals a year before 2020) due to rising incomes, cheaper flights, more leisure time and internet booking. **Mass tourism** means large numbers of people on package or popular trips to the same places.
-
-| | Positive | Negative |
-|---|---|---|
-| **Economy** | jobs, foreign income, **multiplier effect**, new infrastructure | **leakage** (profits go abroad to TNC hotels), seasonal low-paid work, high prices for locals |
-| **Environment** | money for conservation (national parks) | pollution, litter, damage to coral and paths, water and energy use, flights add CO₂ |
-| **People** | meet other cultures, better services | overcrowding, loss of traditional culture, noise, rising house prices (e.g. Barcelona, Venice) |
-
-### Managing migration and tourism
-
-- **Geopolitical relationships**: agreements between countries shape trade and movement. *Trade:* trade blocs and agreements reduce tariffs, while **sanctions**, tariffs or disputes restrict trade. *Tourism/migration:* visa-free travel and open borders (e.g. Schengen area) increase travel; **travel bans**, conflicts or visa restrictions reduce it.
-- **Managing long-term migration** in a named country: points-based visa systems, quotas, border controls, work permits, integration programmes, refugee resettlement. Know one country and its approach (e.g. **Germany**, **the UK**, **Australia**) with strengths and weaknesses.
-- **Making tourism more sustainable** (individuals, organisations, governments): **ecotourism** (low impact, benefits local people), visitor limits and entry fees (e.g. Venice's day-visitor charge introduced in 2024), local ownership and jobs, protected areas, off-season promotion, responsible tourist choices (stay in locally owned accommodation, avoid single-use plastic). Know a named developed and a named emerging/developing country example.
-
-### Answering the 12-mark "discuss the view" question
-
-1. Short intro: define the key idea.
-2. **Evidence for** the view (use resource figures with numbers, plus your own examples).
-3. **Evidence against** (a different group or place).
-4. **Conclusion**: a judgement on how far you agree, with a reason ("depends on...", "most important is...").
-Aim for 4–6 developed points; use both figures and own knowledge.
+**Sustainable development:** development that meets present needs without harming future generations' needs; balances **economic, social and environmental** aims.
 
 ## Key terms and definitions
 
-- **Globalisation**: the growing connection between countries through the movement of goods, money, information and people.
-- **Commodity chain**: the series of stages that a product goes through from raw material to consumer.
-- **Transnational corporation (TNC)**: a company that operates in several countries.
-- **WTO**: the World Trade Organization, which sets and polices rules on international trade.
-- **IMF**: the International Monetary Fund, which lends money to countries and promotes financial stability.
-- **Migration**: the movement of people from one place to live in another.
-- **Push factor / pull factor**: negative factors that make people leave / positive factors that attract people.
-- **Voluntary / forced migration**: movement by choice / movement because people are compelled to leave (e.g. war).
-- **Remittances**: money sent home by migrants to family.
-- **Brain drain**: the loss of educated and skilled workers from a country.
-- **Mass tourism**: tourism involving large numbers of people visiting the same places, often package holidays.
-- **Ecotourism**: tourism that is environmentally responsible and benefits local people.
-- **Geopolitical relationships**: the political relationships between countries which affect trade, travel and migration.
+- **Renewable energy:** energy from sources that are replaced naturally and will not run out.
+- **Non-renewable energy:** energy from sources that will run out because they cannot be replaced in a human lifetime.
+- **Energy mix:** the proportion of each energy source a country uses.
+- **Hydro-electric power (HEP):** electricity generated by flowing water turning turbines.
+- **Water scarcity:** when there is too little water to meet demand.
+- **Desalination:** removing salt from sea water to make fresh water.
+- **Groundwater:** water stored in rocks under the ground (aquifers).
+- **Enhanced greenhouse effect:** extra warming caused by human activity adding greenhouse gases.
+- **Sustainable development:** development that meets present needs without damaging the ability of future generations to meet theirs.
+- **Eutrophication:** nutrient pollution (e.g. fertiliser) causing algae growth that takes oxygen from water.
 
 ## Worked examples
 
-**1. Explain how geopolitical relationships between countries can affect trade and tourism. [4]**
+**1. Explain two disadvantages of using fossil fuels. [4]**
 
-Trade: countries in a trade agreement (such as the EU single market) have no tariffs (1) so goods are cheaper and trade increases; countries in a dispute may impose sanctions or tariffs, reducing trade (1). Tourism: visa-free travel agreements make it easier to visit, so tourism increases (1); conflict or travel warnings between countries discourage tourists, so arrivals fall (1).
+Burning fossil fuels releases carbon dioxide (1), which adds to global warming (1). They are non-renewable and will run out (1), so countries will need other energy sources in the future (1).
 
-**2. Calculate the range in male migration between 2010 and 2020 (graph values 12.1 and 16.4 million). [2]**
+**2. Explain why some countries suffer water shortages. [4]**
 
-Range = highest − lowest = 16.4 − 12.1 = **4.3 million** (1 for method, 1 for answer, with units).
+Some countries have low and unreliable rainfall, for example in hot deserts, so there is little water (1). Rising demand from population growth and irrigation uses more than is available (1). Others lack money for dams, wells or pipes so water cannot be supplied (1) and pollution can make existing water unsafe (1).
 
-**3. Assess the factors that have contributed to a more globalised economy. [6] (resource: bar chart of world exports)**
+**3. Explain how the supply of water in a dry area could be increased. Use a named example. [6]**
 
-Factors: trade (exports rose from ... to ...), transport (containers made shipping cheap), information technology (online trade), TNCs (supply chains), investment, labour costs. Link two to the figure and assess: e.g. "Technology is probably most important because it allowed firms to manage factories across continents."
-
-**4. Explain one push factor and one pull factor for economic migration. [4]**
-
-Push: high unemployment and low wages in the home country (1) mean families cannot earn enough, so people leave to find work (1). Pull: higher wages and plentiful jobs in a developed country (1), so migrants can send money home (1).
+(Example: Saudi Arabia.) Desalination plants remove salt from sea water (1), providing much of the drinking water (1), but they are expensive and use a lot of energy (1). Groundwater from deep aquifers is also pumped for irrigation (1), but it is not being replaced so the supply is running down (1). Reservoirs and recycling help, and reducing leaks lowers demand (1).
 
 ## Common mistakes
 
-- Saying "globalisation is only about trade"; it includes people, money, information and culture.
-- Writing push and pull factors for **tourism** or **forced** migration without matching the type.
-- Treating TNCs as only good or only bad; always give **both** costs and benefits.
-- Calculating a **range** as the mean or adding the values; range = highest − lowest.
-- In 12-mark questions: giving only one side, ignoring the resources, or no conclusion.
-- Mixing up the WTO (trade rules) and the IMF (loans and financial stability).
+- Saying nuclear power is "renewable". It is **non-renewable** (uranium is finite), though low-carbon.
+- Writing "wind is free so it is better" with **no disadvantage** (intermittent, visual impact).
+- Confusing the **greenhouse effect** (natural, needed) with the **enhanced** greenhouse effect (human-made).
+- Forgetting that **irrigation** is the biggest water user.
+- Describing water shortage only as "no rain". Include **economic scarcity** (no money or infrastructure).
+- Mixing up **weather** (a drought) and **climate change** (a long-term shift).
+- No **named place** or facts in the case study answer.
 
 ## Practice questions
 
-1. State two factors that have encouraged globalisation. [2]
-2. Identify the main role of the WTO. [1]
-3. Explain one benefit and one cost of a TNC to the country where it sets up. [4]
-4. Give two push factors and two pull factors for international migration. [4]
-5. Explain one positive and one negative impact of migration on the source country. [4]
-6. Explain two ways tourism can be made more sustainable. [4]
-7. Suggest two reasons for the growth of global tourism. [2]
-8. Discuss the view that globalisation affects economies more than it affects people. [12, plan only: list three points for, three against and a conclusion]
+1. State two renewable energy sources. [2]
+2. Define "non-renewable energy". [1]
+3. Explain one reason why many LICs use fuelwood for energy. [2]
+4. Give two environmental problems caused by dams. [2]
+5. Explain why a country may use more HEP than another. [2]
+6. Describe two effects of water shortage on people. [2]
+7. Explain how burning fossil fuels causes global warming. [3]
+8. Describe two ways of managing water supply sustainably. [4]
 
 <details><summary>Answers</summary>
 
-1. Any two: trade, foreign investment, modern transport, information technology, aid, labour.
-2. It sets rules for international trade and settles disputes (encourages free trade).
-3. Benefit: jobs and wages (1) so incomes and the economy grow (1). Cost: profits go back to the home country, little tax paid (1), so benefits are lost/ or poor pay and conditions (1).
-4. Push (two): unemployment/low wages, conflict, poor services, hazards. Pull (two): jobs, higher wages, safety, better education/health.
-5. Positive: remittances support families and the economy (2). Negative: brain drain, so loss of skilled workers/doctors and a labour shortage (2).
-6. Any two with explanation: ecotourism, visitor limits or entry fees, local ownership and employment, protecting habitats. e.g. limiting numbers prevents overcrowding and damage (1+1).
-7. Any two: cheaper flights, more disposable income, internet booking, more leisure time, new destinations opened.
-8. For: trade/GDP growth, TNC investment, exports; against: people's jobs, wages, culture, migration, working conditions; conclusion: both are affected but depends on place and group.
+1. Any two: wind, solar, HEP, geothermal, biomass, tidal/wave (1 each).
+2. Energy from sources that will run out and cannot be replaced in a human lifetime (1).
+3. It is cheap or free to collect (1) and many people cannot afford electricity or gas (1).
+4. Any two: flooding of land, habitats and farmland (1); fewer nutrients/ reduced river flow downstream (1); blocks fish migration (1); resettlement of people (1).
+5. It has mountains, high rainfall and rivers (1) and it has money to build dams (1).
+6. Any two: disease from unsafe water (1); crop failure and hunger (1); time spent collecting water (1); conflict (1).
+7. Burning releases CO₂ (1), which traps heat in the atmosphere (1), making the enhanced greenhouse effect so the planet warms (1).
+8. Any two with how (2 marks each): rainwater harvesting collects local water cheaply (2); repairing leaks cuts waste (2); drip irrigation uses less water (2); recycling water (2).
 
 </details>
 
 ## Plan for this hour
 
-- **10 min** – Read globalisation factors, institutions and TNC table; make a one-page revision card.
-- **10 min** – Migration types and push/pull table; learn impact table (destination, source, migrant).
-- **10 min** – Tourism impacts and sustainable tourism strategies: add a named example for each.
-- **25 min** – Practice questions, then plan a full 12-mark "discuss the view" answer with evidence from your notes.
-- **5 min** – Error log.
+- **0–15 min:** Learn the energy sources table (renewable/non-renewable, pro and con) and the energy mix.
+- **15–30 min:** Water: sources, causes and effects of shortage, ways to increase supply; learn one example.
+- **30–45 min:** Environmental risks, the enhanced greenhouse effect, effects of climate change, sustainable development.
+- **45–55 min:** Do practice questions 1–8, marking yourself with the answers.
+- **55–60 min:** Quiz and flashcards.

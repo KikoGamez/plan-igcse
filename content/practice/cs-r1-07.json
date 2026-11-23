@@ -1,34 +1,167 @@
-{"id":"cs-r1-07","cards":[
-{"f":"Bit, nibble, byte","b":"Bit = one binary digit (0 or 1). Nibble = 4 bits. Byte = 8 bits."},
-{"f":"8-bit column values","b":"128, 64, 32, 16, 8, 4, 2, 1. Each column is double the one to its right."},
-{"f":"How many values can n bits store?","b":"2ⁿ different values. 8 bits give 256 values (0 to 255 unsigned)."},
-{"f":"Hexadecimal digits A to F","b":"A = 10, B = 11, C = 12, D = 13, E = 14, F = 15."},
-{"f":"How many bits does one hex digit represent?","b":"4 bits (a nibble). Split binary into groups of 4 from the right to convert to hex."},
-{"f":"Why is hexadecimal used?","b":"Shorter and easier for humans to read, remember and copy than binary, so fewer mistakes. Converts easily to binary."},
-{"f":"Binary addition: 1 + 1","b":"0 carry 1. And 1 + 1 + 1 (with a carry) = 1 carry 1."},
-{"f":"Overflow","b":"The result of a calculation is too big to fit in the available bits, so the stored answer is wrong."},
-{"f":"Effect of a left shift by n","b":"Multiplies by 2ⁿ (if no 1s are lost off the left end). Empty places on the right are filled with 0."},
-{"f":"Effect of a right shift by n","b":"Divides by 2ⁿ, keeping the whole-number part. Bits shifted off the right are lost."},
-{"f":"Logical vs arithmetic shift","b":"Logical fills with 0s. Arithmetic is for signed numbers and keeps the sign bit when shifting right."},
-{"f":"Sign and magnitude (8-bit)","b":"Leftmost bit is the sign (1 = negative), rest is the size. Range −127 to +127, with two zeros."},
-{"f":"Two's complement range (8-bit)","b":"−128 to +127. The leftmost bit has place value −128. Only one zero."},
-{"f":"How to write a negative number in two's complement","b":"Write the positive number in binary, flip every bit, then add 1."},
-{"f":"Subtracting a − b in binary","b":"Add the two's complement of b to a (a + (−b)) and ignore any carry out of the left-hand bit."}
-],
-"gaps":[
-{"s":"There are ___ bits in a byte.","a":["8","eight"]},
-{"s":"One hexadecimal digit represents ___ bits.","a":["4","four"]},
-{"s":"In hexadecimal, the digit F has the denary value ___.","a":["15","fifteen"]},
-{"s":"When a result is too large to be stored in the available bits, it is called ___.","a":["overflow"]},
-{"s":"A left shift by 2 places multiplies a number by ___.","a":["4","four"]},
-{"s":"The binary number 00001010 is ___ in denary.","a":["10","ten"]},
-{"s":"The largest unsigned number that can be stored in 8 bits is ___.","a":["255"]},
-{"s":"The lowest number that can be stored in 8-bit two's complement is ___.","a":["-128","−128","minus 128","negative 128"]}
-],
-"short":[
-{"q":"Convert the hexadecimal number 3C to 8-bit binary and to denary.","model":"3C = 0011 1100 in binary. In denary that is 3 × 16 + 12 = 60.","points":["00111100","60"]},
-{"q":"Add 00110101 and 00011110 and check your answer in denary.","model":"00110101 + 00011110 = 01010011. In denary 53 + 30 = 83, and 01010011 = 64 + 16 + 2 + 1 = 83.","points":["01010011","check: 53 + 30 = 83"]},
-{"q":"Explain what is meant by overflow when adding two 8-bit unsigned numbers.","model":"The answer is bigger than 255, so it needs 9 bits. There is a carry out of the leftmost bit and the stored 8-bit result is wrong.","points":["result larger than 255 / too big for 8 bits","carry out of leftmost bit lost, so stored answer is wrong"]},
-{"q":"Show how to write −45 in 8-bit two's complement.","model":"45 = 00101101. Flip the bits to 11010010 and add 1 to get 11010011.","points":["45 = 00101101 and flip bits","add 1 to give 11010011"]},
-{"q":"The 8-bit two's complement number 11110000 (−16) is shifted right by 2 places. Explain which type of shift should be used and give the result.","model":"An arithmetic shift should be used because it keeps the sign bit. The result is 11111100, which is −4.","points":["arithmetic shift keeps the sign bit","11111100 = −4"]}
-]}
+{
+ "id": "cs-r1-07",
+ "cards": [
+  {
+   "f": "Internet vs WWW",
+   "b": "The internet is the global network of networks. The WWW is the collection of web pages accessed using the internet."
+  },
+  {
+   "f": "URL parts",
+   "b": "Protocol (https), domain name (www.example.com), path/file name (/shop/page.html)."
+  },
+  {
+   "f": "HTTPS",
+   "b": "HTTP with encryption using SSL/TLS, so data sent between browser and server cannot be read if intercepted."
+  },
+  {
+   "f": "DNS",
+   "b": "Domain Name System: converts a domain name into the IP address of the web server."
+  },
+  {
+   "f": "Session cookie",
+   "b": "Stored in memory and deleted when the browser closes, e.g. keeps items in a shopping basket."
+  },
+  {
+   "f": "Persistent cookie",
+   "b": "Stored on the drive until it expires or is deleted, e.g. remembers login or preferences."
+  },
+  {
+   "f": "Blockchain",
+   "b": "A decentralised digital ledger of linked blocks; each block stores the hash of the previous block."
+  },
+  {
+   "f": "Brute-force attack",
+   "b": "A program tries every possible combination of characters to guess a password."
+  },
+  {
+   "f": "DDoS attack",
+   "b": "Many computers (a botnet) flood a server with requests so it cannot respond to genuine users."
+  },
+  {
+   "f": "Phishing",
+   "b": "A fake email or message that tricks the user into giving personal data, usually via a link to a fake site."
+  },
+  {
+   "f": "Pharming",
+   "b": "Malicious code redirects the user from a real website to a fake one to steal data."
+  },
+  {
+   "f": "Ransomware",
+   "b": "Malware that encrypts files and demands payment to unlock them."
+  },
+  {
+   "f": "Proxy server",
+   "b": "Sits between user and internet; filters requests, hides the user's IP and can cache pages."
+  },
+  {
+   "f": "Expert system parts",
+   "b": "Knowledge base, rule base, inference engine and user interface."
+  },
+  {
+   "f": "Machine learning",
+   "b": "A system learns from data and improves its performance without being explicitly reprogrammed."
+  }
+ ],
+ "gaps": [
+  {
+   "s": "A ___ server converts a domain name into an IP address.",
+   "a": [
+    "DNS",
+    "domain name system"
+   ]
+  },
+  {
+   "s": "A cookie that is deleted when the browser is closed is called a ___ cookie.",
+   "a": [
+    "session"
+   ]
+  },
+  {
+   "s": "Data sent over the internet is encrypted by HTTPS using ___ or TLS.",
+   "a": [
+    "SSL",
+    "TLS"
+   ]
+  },
+  {
+   "s": "A ___ is a self-replicating malware program that spreads over a network without a host file.",
+   "a": [
+    "worm"
+   ]
+  },
+  {
+   "s": "Software that pretends to be legitimate but contains malicious code is a ___ horse.",
+   "a": [
+    "trojan",
+    "trojan horse"
+   ]
+  },
+  {
+   "s": "Two-step ___ sends a code to the user's phone after the password has been entered.",
+   "a": [
+    "verification",
+    "authentication"
+   ]
+  },
+  {
+   "s": "In an expert system, the ___ engine uses the rules to reach a conclusion.",
+   "a": [
+    "inference"
+   ]
+  },
+  {
+   "s": "Each block in a blockchain stores the ___ of the previous block.",
+   "a": [
+    "hash"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "q": "Describe how a persistent cookie could be used by an online shop.",
+   "model": "A persistent cookie is stored on the customer's drive after they leave. The shop can use it to remember login details or preferences, or to show adverts based on pages they viewed.",
+   "points": [
+    "Stored on the device after the browser closes",
+    "Remembers login details/preferences/items viewed",
+    "Used for targeted advertising (any one use)"
+   ]
+  },
+  {
+   "q": "Explain why public Wi-Fi puts a user at risk of data interception and how HTTPS helps.",
+   "model": "On public Wi-Fi a hacker can use a packet sniffer to capture packets travelling across the network. HTTPS encrypts the data so the captured packets cannot be understood.",
+   "points": [
+    "Data/packets can be captured (packet sniffer)",
+    "HTTPS/SSL encrypts the data",
+    "Intercepted data cannot be read"
+   ]
+  },
+  {
+   "q": "Describe two differences between phishing and pharming.",
+   "model": "Phishing uses an email or message that the user must respond to by clicking a link. Pharming installs malicious code that redirects the user to a fake website automatically, even if the correct address is typed.",
+   "points": [
+    "Phishing needs the user to click a link in a message",
+    "Pharming redirects automatically using malicious code",
+    "Pharming works even when the correct URL is typed"
+   ]
+  },
+  {
+   "q": "Explain why a blockchain is difficult to tamper with.",
+   "model": "Each block contains the hash of the block before it. If someone changes a block, its hash changes and no longer matches the next block, breaking the chain. The ledger is also copied on many computers, so the change would be spotted.",
+   "points": [
+    "Each block stores previous block's hash",
+    "Changing one block changes its hash and breaks the chain",
+    "Ledger copied on many computers / change detected"
+   ]
+  },
+  {
+   "q": "Describe how an automated greenhouse keeps the temperature at 20 °C.",
+   "model": "A temperature sensor sends readings to a microprocessor. The microprocessor compares the reading with 20 °C. If it is too cold it signals an actuator to switch on the heater; if too hot it opens the windows. The sensor keeps reading in a loop.",
+   "points": [
+    "Sensor measures temperature",
+    "Microprocessor compares with stored value",
+    "Actuator turns heater on/opens windows",
+    "Process repeats (feedback)"
+   ]
+  }
+ ]
+}

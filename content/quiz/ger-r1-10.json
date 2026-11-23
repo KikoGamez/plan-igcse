@@ -3,47 +3,48 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "How many reading marks are there in Paper 2, and how many tasks?",
+   "q": "Sign: « Eintritt frei für Kinder unter sechs ». Was bedeutet das?",
    "options": [
-    "20 marks, 3 tasks",
-    "40 marks, 5 tasks",
-    "60 marks, 6 tasks",
-    "80 marks, 8 tasks"
+    "Children under six pay nothing.",
+    "Children over six pay nothing.",
+    "Only children may enter.",
+    "Entry costs six euros."
    ],
-   "answer": 1,
-   "why": "Section A has 5 tasks for 40 marks (6+6+8+10+10); the other 40 marks are for writing."
+   "answer": 0,
+   "why": "Eintritt frei = free entry; unter sechs = under six."
   },
   {
    "type": "mcq",
-   "q": "Text: 'Obwohl der Bus vor der Tür hält, fährt Lena mit dem Rad.' How does Lena travel?",
+   "q": "Text: « Das Café ist täglich geöffnet, außer montags. » Wann ist es zu?",
    "options": [
-    "by bus",
-    "by bike",
-    "on foot",
-    "by car"
+    "jeden Tag",
+    "nur sonntags",
+    "montags",
+    "nie"
    ],
-   "answer": 1,
-   "why": "obwohl signals the contrast: bus available, but she cycles."
+   "answer": 2,
+   "why": "außer montags = except Mondays, so it is closed on Monday."
   },
   {
    "type": "mcq",
-   "q": "Which answer fits the question 'Wer hat angerufen?' (text: 'Gestern hat Georg angerufen')?",
+   "q": "Which word is a false friend? « Ich bekomme ein Geschenk. »",
    "options": [
-    "Gestern",
-    "Georg",
-    "Anruf",
-    "Wo"
+    "bekommen = to become",
+    "bekommen = to get",
+    "bekommen = to bake",
+    "bekommen = to begin"
    ],
    "answer": 1,
-   "why": "Wer asks for a person: Georg."
+   "why": "bekommen means to get/receive, not become."
   },
   {
    "type": "short",
-   "q": "Name two ways of working out the meaning of an unknown German word.",
-   "model": "Split a compound noun into parts (e.g. Fahrradweg = bike + path), or use cognates/context/word family.",
+   "q": "Text: « Ich arbeite samstags im Café, weil ich Geld für ein Handy sparen will. » Warum arbeitet sie?",
+   "model": "Sie will Geld für ein Handy sparen.",
    "points": [
-    "compound splitting or word family",
-    "cognate or context"
+    "Geld",
+    "Handy",
+    "sparen / saving"
    ]
   }
  ]

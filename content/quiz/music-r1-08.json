@@ -3,48 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "What is a leitmotif?",
+   "q": "Which best describes a symphonic poem?",
    "options": [
-    "A short theme associated with a character or idea",
-    "A drum fill at the end of a verse",
-    "A chord pattern of twelve bars",
-    "A type of microphone effect"
+    "A one-movement orchestral work that tells a story or paints a scene",
+    "A piece for solo piano in three movements",
+    "A song for solo voice with piano",
+    "A dance suite for harpsichord"
    ],
    "answer": 0,
-   "why": "A leitmotif returns through a film or opera to represent a person or idea."
+   "why": "Symphonic poems are single-movement programme works for orchestra."
   },
   {
    "type": "mcq",
-   "q": "Which chords make up the basic 12-bar blues?",
+   "q": "Smetana's Vltava is an example of musical...",
    "options": [
-    "I, II, III",
-    "I, IV, V",
-    "I, vi, ii",
-    "I, V, vi"
+    "minimalism",
+    "nationalism",
+    "serialism",
+    "baroque ornamentation"
    ],
    "answer": 1,
-   "why": "12-bar blues is built from I, IV and V."
+   "why": "It celebrates a Czech river and uses folk-style dance, a feature of nationalism."
   },
   {
    "type": "mcq",
-   "q": "Music the characters in a film can hear is called:",
+   "q": "Which is a leitmotif?",
    "options": [
-    "Non-diegetic",
-    "Underscore",
-    "Diegetic",
-    "Leitmotif"
+    "A scale used in every key",
+    "A repeated bass line",
+    "A fast tremolo",
+    "A short recurring theme linked to a character or idea"
    ],
-   "answer": 2,
-   "why": "Diegetic music comes from within the film world (radio, band on screen)."
+   "answer": 3,
+   "why": "A leitmotif is a recurring idea tied to a person, object or idea, as in Star Wars."
   },
   {
    "type": "short",
-   "q": "Describe two ways in which a film composer can create tension.",
-   "model": "Use a repeated ostinato in low strings or percussion, a gradual crescendo and rising pitch, and dissonant or chromatic chords with tremolo strings.",
+   "q": "Describe how Smetana uses the orchestra to suggest the two sources of the river. [2]",
+   "model": "Flutes (and clarinets) play light, rippling quavers over plucked pizzicato strings, in a quiet, delicate texture, which sounds like small streams.",
    "points": [
-    "Ostinato/repeated pattern",
-    "Rising pitch/crescendo",
-    "Dissonance or tremolo"
+    "flutes/clarinets rippling quavers",
+    "pizzicato strings / quiet delicate texture"
    ]
   }
  ]

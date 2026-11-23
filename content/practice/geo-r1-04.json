@@ -1,37 +1,37 @@
-{"id":"geo-r1-04","cards":[
-{"f":"Biotic vs abiotic","b":"Biotic: living parts of an ecosystem (plants, animals). Abiotic: non-living parts (temperature, salinity, light, soil)."},
-{"f":"Conditions for coral reefs","b":"Warm (about 23–29°C), clear, shallow, sunlit, salty water in tropical seas between about 30°N and 30°S."},
-{"f":"Why are coral reefs important?","b":"Very high biodiversity, protect coasts by absorbing wave energy, and support tourism and fishing."},
-{"f":"Mangrove features","b":"Salt-tolerant trees in muddy tropical shores with stilt roots. Nursery for fish, trap sediment, slow waves."},
-{"f":"Salt marsh","b":"Muddy, salty, tidal land in sheltered estuaries, with salt-tolerant plants. Absorbs wave energy and supports birds."},
-{"f":"Sand dune ecosystem","b":"Windblown sand stabilised by marram grass, which has long roots. Dunes act as a natural sea defence."},
-{"f":"Coral bleaching","b":"Stressed corals (warm water, pollution) expel their algae and turn white. Many then die."},
-{"f":"Threats from tourism","b":"Anchors and divers damage reefs; sewage and waste pollute water; hotels built on dunes and mangroves."},
-{"f":"Threats from agriculture","b":"Fertiliser and soil runoff cause algal blooms and cloudy water; pesticides poison marine life."},
-{"f":"Storm surge","b":"A rise in sea level caused by low air pressure and strong winds, especially at high tide."},
-{"f":"Causes of coastal flooding","b":"Storm surges, tsunamis and climate change (sea-level rise and stronger storms)."},
-{"f":"Sea wall: pros and cons","b":"Very effective at stopping erosion and flooding. But very expensive, can be ugly and erode at the base."},
-{"f":"Groynes: pros and cons","b":"Trap sediment and build beaches, relatively cheap. But starve beaches downdrift, causing more erosion there."},
-{"f":"Rip-rap and gabions","b":"Rip-rap: large boulders piled at the cliff base. Gabions: wire cages of stones. Cheap but can look unattractive."},
-{"f":"Beach replenishment","b":"Adding sand or shingle to the beach. Natural-looking and good for tourism, but must be repeated, costly and dredging harms habitats."},
-{"f":"Managed retreat","b":"Allowing the sea to flood land in a planned way. Cheap and creates marsh habitat, but people lose homes and land."},
-{"f":"Four SMP options","b":"Hold the line, advance the line, managed realignment (retreat), and do nothing."},
-{"f":"Conservation vs development","b":"Conservation protects nature but limits building; development brings jobs and income but can damage the environment."}
-],
-"gaps":[
-{"s":"Corals expel their algae and turn white in a process called coral ___.","a":["bleaching"]},
-{"s":"Trees such as mangroves that live in salty tidal mud have ___ roots.","a":["stilt","breathing","prop"]},
-{"s":"A rise in sea level caused by low pressure and strong winds is a storm ___.","a":["surge"]},
-{"s":"Barriers built at right angles to the beach to trap sediment are called ___.","a":["groynes","groyne"]},
-{"s":"Adding sand to a beach is known as beach ___.","a":["replenishment","nourishment"]},
-{"s":"Planned flooding of land and moving people back is called managed ___.","a":["retreat","realignment"]},
-{"s":"Water temperature and salinity are examples of ___ factors in an ecosystem.","a":["abiotic"]},
-{"s":"Plants that tolerate salt, found on salt marshes, are called ___.","a":["halophytes","halophyte"]}
-],
-"short":[
-{"q":"Explain why mangroves are important for coastal protection.","model":"Their roots slow waves and absorb wave energy, and trap sediment, which reduces erosion and flooding behind them.","points":["roots absorb wave energy / slow water","trap sediment, reducing erosion and flooding"]},
-{"q":"Give two ways that climate change threatens coral reefs.","model":"Warmer seas cause coral bleaching, and ocean acidification weakens coral skeletons. Sea-level rise can also change light levels.","points":["warm water causes bleaching","ocean acidification / sea-level rise"]},
-{"q":"Describe one disadvantage of hard engineering on the coast.","model":"Hard engineering such as sea walls is very expensive to build and maintain, and can increase erosion elsewhere along the coast.","points":["expensive","can increase erosion elsewhere / ugly / disrupts sediment"]},
-{"q":"Explain why managed retreat may be chosen instead of building a sea wall.","model":"It is much cheaper than defending low-value land, and the flooded land can become salt marsh that absorbs wave energy and provides habitat.","points":["cheaper than hard defences","creates natural habitat / sustainable"]},
-{"q":"State one conflict between conservationists and developers on a coast.","model":"Developers want to build hotels or ports for jobs and income, while conservationists want to protect habitats like dunes or mangroves from damage.","points":["developers want hotels/ports/jobs","conservationists want to protect habitats"]}
-]}
+{
+  "id": "geo-r1-04",
+  "cards": [
+    {"f": "Layers of the Earth", "b": "Inner core (solid), outer core (liquid), mantle (semi-molten), crust (thin, solid)."},
+    {"f": "Why do plates move?", "b": "Convection currents in the mantle, driven by heat from the core, drag the plates slowly."},
+    {"f": "Divergent boundary", "b": "Plates move apart; magma rises to make new crust. Forms mid-ocean ridges and shield volcanoes."},
+    {"f": "Oceanic-continental convergent boundary", "b": "Denser oceanic plate subducts beneath continental plate. Forms trenches, fold mountains, composite volcanoes."},
+    {"f": "Continental-continental convergent boundary", "b": "Plates collide and crumple, forming fold mountains such as the Himalayas. No volcanoes."},
+    {"f": "Conservative boundary", "b": "Plates slide past each other. Strong earthquakes, no volcanoes. Example: San Andreas Fault."},
+    {"f": "Subduction", "b": "A denser plate sinks beneath another at a convergent boundary, melting to form magma."},
+    {"f": "Focus vs epicentre", "b": "Focus: where the earthquake starts underground. Epicentre: point on the surface directly above."},
+    {"f": "Composite volcano", "b": "Steep cone of ash and sticky lava layers; violent eruptions; at subduction zones. Example: Mount Fuji."},
+    {"f": "Shield volcano", "b": "Wide, gentle slopes built by runny lava; gentle eruptions; at divergent boundaries and hot spots. Example: Mauna Loa."},
+    {"f": "Pacific Ring of Fire", "b": "Horseshoe of plate boundaries around the Pacific with about 75% of active volcanoes and 90% of earthquakes."},
+    {"f": "Richter vs Mercalli", "b": "Richter (moment magnitude) measures energy released. Mercalli measures intensity or damage, I to XII."},
+    {"f": "Primary vs secondary effects", "b": "Primary: direct damage from shaking or eruption. Secondary: later effects like tsunamis, fires, disease."},
+    {"f": "Pyroclastic flow", "b": "A fast, extremely hot cloud of ash, gas and rock that rushes down a volcano's slope."},
+    {"f": "Why live near volcanoes?", "b": "Fertile soil, geothermal energy, tourism, jobs, minerals, low chance of eruption in a lifetime, cannot afford to move."}
+  ],
+  "gaps": [
+    {"s": "Tectonic plates float on the semi-molten ___.", "a": ["mantle"]},
+    {"s": "Where plates move apart is a ___ boundary.", "a": ["divergent", "constructive"]},
+    {"s": "When a denser plate sinks beneath another it is called ___.", "a": ["subduction", "subducting"]},
+    {"s": "The Himalayas formed where two ___ plates collided.", "a": ["continental"]},
+    {"s": "The San Andreas Fault is a ___ plate boundary.", "a": ["conservative", "transform"]},
+    {"s": "A series of large sea waves caused by an earthquake is called a ___.", "a": ["tsunami"]},
+    {"s": "The Mercalli scale measures earthquake ___, not magnitude.", "a": ["intensity", "damage"]},
+    {"s": "A volcano with steep sides built from ash and sticky lava is a ___ volcano.", "a": ["composite", "strato", "stratovolcano"]}
+  ],
+  "short": [
+    {"q": "Explain why volcanoes form at oceanic-continental convergent boundaries.", "model": "The denser oceanic plate sinks into the mantle and melts to form magma. This magma is less dense, so it rises through the crust and erupts.", "points": ["oceanic plate subducts and melts", "magma rises and erupts"]},
+    {"q": "Explain why earthquakes happen at conservative boundaries.", "model": "Plates sliding past each other get stuck by friction and pressure builds. When they suddenly slip, the energy is released as an earthquake.", "points": ["plates stick/pressure builds", "sudden release of energy as seismic waves"]},
+    {"q": "Explain why earthquakes cause more deaths in LICs than in HICs.", "model": "LICs often have poorly built houses that collapse and few emergency services. HICs have strict building codes, drills and fast rescue.", "points": ["poor buildings/no building codes", "weaker emergency response/less preparation in LICs"]},
+    {"q": "Explain why volcanic eruptions can be predicted better than earthquakes.", "model": "Volcanoes give warning signs such as small tremors, gas release and ground swelling, which can be monitored. Earthquakes have no reliable warning signs.", "points": ["monitoring signs for volcanoes (tremors, gas, tilt)", "earthquakes have no reliable warning"]},
+    {"q": "Give two benefits of living near an active volcano.", "model": "Volcanic soils are very fertile, giving good harvests. Geothermal energy and tourism provide power and jobs.", "points": ["fertile soil", "geothermal energy/tourism/minerals"]}
+  ]
+}

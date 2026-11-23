@@ -2,12 +2,24 @@
  "id": "music-r1-02",
  "cards": [
   {
-   "f": "Treble clef lines",
-   "b": "E G B D F (Every Good Boy Deserves Fruit)."
+   "f": "Treble clef line notes",
+   "b": "E G B D F (Every Good Boy Deserves Fun)."
   },
   {
-   "f": "Bass clef lines",
-   "b": "G B D F A (Good Boys Deserve Fruit Always)."
+   "f": "Treble clef space notes",
+   "b": "F A C E."
+  },
+  {
+   "f": "Bass clef line notes",
+   "b": "G B D F A (Good Boys Do Fine Always)."
+  },
+  {
+   "f": "Bass clef space notes",
+   "b": "A C E G."
+  },
+  {
+   "f": "Alto clef",
+   "b": "Middle line is middle C; used by the viola."
   },
   {
    "f": "Order of sharps",
@@ -19,95 +31,76 @@
   },
   {
    "f": "Relative minor",
-   "b": "The minor key sharing a major key's signature; it starts a minor 3rd below the major tonic."
+   "b": "Starts a minor 3rd (3 semitones) below the major tonic and shares its key signature."
   },
   {
-   "f": "Harmonic minor scale",
-   "b": "Natural minor with the 7th note raised a semitone."
+   "f": "Major 3rd / minor 3rd",
+   "b": "4 semitones / 3 semitones."
   },
   {
-   "f": "Melodic minor scale",
-   "b": "6th and 7th raised going up, natural minor coming down."
+   "f": "Perfect 5th",
+   "b": "7 semitones, e.g. C to G."
   },
   {
    "f": "Pentatonic scale",
-   "b": "A five-note scale with no semitones, e.g. C D E G A."
+   "b": "A scale of five notes, e.g. C D E G A."
   },
   {
-   "f": "Blues scale",
-   "b": "Minor pentatonic plus a flattened fifth, the blue note."
-  },
-  {
-   "f": "Conjunct vs disjunct",
-   "b": "Conjunct moves by step; disjunct moves by leaps."
-  },
-  {
-   "f": "Sequence",
-   "b": "A motif or phrase repeated at a higher or lower pitch."
-  },
-  {
-   "f": "Acciaccatura",
-   "b": "A very short grace note, shown with a slash, played just before the main note."
-  },
-  {
-   "f": "Appoggiatura",
-   "b": "A leaning grace note without a slash that takes some of the main note's value, then resolves."
+   "f": "Chromatic scale",
+   "b": "All 12 semitones in an octave."
   },
   {
    "f": "Trill",
-   "b": "Rapid alternation between the main note and the note above."
+   "b": "Rapid alternation between the written note and the note above."
   },
   {
-   "f": "Perfect 5th size",
-   "b": "Seven semitones, e.g. C to G."
+   "f": "Appoggiatura vs acciaccatura",
+   "b": "Appoggiatura: leaning note taking time. Acciaccatura: very quick crushed note with a slash."
+  },
+  {
+   "f": "B♭ clarinet or trumpet",
+   "b": "Sounds a major 2nd lower than written."
   }
  ],
  "gaps": [
   {
-   "s": "The key of G major has one sharp, which is F ___.",
+   "s": "The clef whose middle line is middle C is the ___ clef.",
    "a": [
-    "sharp",
-    "♯",
-    "#"
+    "alto"
    ]
   },
   {
-   "s": "A melody that moves mainly by step is called ___.",
+   "s": "The key with two sharps is ___ major.",
    "a": [
-    "conjunct",
-    "stepwise"
+    "D"
    ]
   },
   {
-   "s": "A melody that moves by leaps is called ___.",
+   "s": "C up to G is a perfect ___.",
    "a": [
-    "disjunct"
+    "5th",
+    "fifth",
+    "5"
    ]
   },
   {
-   "s": "The note raised in the harmonic minor scale is the ___ degree.",
-   "a": [
-    "7th",
-    "seventh",
-    "7"
-   ]
-  },
-  {
-   "s": "A scale using only five notes is called a ___ scale.",
-   "a": [
-    "pentatonic"
-   ]
-  },
-  {
-   "s": "A very short grace note with a slash is an ___.",
+   "s": "An ornament that is a quick crushed note is an ___.",
    "a": [
     "acciaccatura"
    ]
   },
   {
-   "s": "A repeated pattern played continuously is called an ___.",
+   "s": "A scale of five notes is called ___.",
    "a": [
-    "ostinato"
+    "pentatonic"
+   ]
+  },
+  {
+   "s": "A horn in F sounds a perfect ___ lower than written.",
+   "a": [
+    "5th",
+    "fifth",
+    "5"
    ]
   },
   {
@@ -115,47 +108,53 @@
    "a": [
     "minor"
    ]
+  },
+  {
+   "s": "A pitch halfway between two semitones is a ___-tone.",
+   "a": [
+    "quarter"
+   ]
   }
  ],
  "short": [
   {
-   "q": "Describe the difference between an acciaccatura and an appoggiatura.",
-   "model": "An acciaccatura is a very short crushed note; an appoggiatura is a longer leaning note that takes part of the main note's value.",
+   "q": "Name the interval from D up to F and explain how you know.",
+   "model": "A minor 3rd: D to F is three letters and 3 semitones, because D major has F♯.",
    "points": [
-    "acciaccatura short",
-    "appoggiatura longer"
+    "minor 3rd",
+    "reason (3 semitones / F♯ in D major)"
    ]
   },
   {
-   "q": "Describe a conjunct melody.",
-   "model": "It moves mostly by step to adjacent notes, giving a smooth, singable line.",
+   "q": "How can you tell a piece is in a minor key from a printed score?",
+   "model": "The final note and chords fit the relative minor and an accidental raises the 7th degree.",
    "points": [
-    "by step",
-    "smooth"
+    "final note/chords",
+    "raised 7th accidental"
    ]
   },
   {
-   "q": "How do you find the relative minor of a major key?",
-   "model": "Go down a minor third (three semitones) from the tonic; it shares the key signature.",
+   "q": "A clarinet in A is written E. What is the concert pitch?",
+   "model": "C♯, a minor 3rd lower than written.",
    "points": [
-    "down a minor third",
-    "same key signature"
+    "C♯",
+    "minor 3rd lower"
    ]
   },
   {
-   "q": "Name and describe a melodic device where a phrase repeats at a different pitch.",
-   "model": "A sequence: the motif is repeated higher or lower, often stepwise.",
+   "q": "Describe a melody that is scalic.",
+   "model": "It moves by step along the notes of a scale, ascending or descending.",
    "points": [
-    "sequence",
-    "different pitch"
+    "moves by step",
+    "along a scale"
    ]
   },
   {
-   "q": "Why is the blues scale used in blues and rock?",
-   "model": "It contains blue notes (flattened fifth), giving the characteristic bent, expressive sound.",
+   "q": "Give two ways to describe the range of a melody.",
+   "model": "Narrow (small distance between lowest and highest note) or wide (large distance).",
    "points": [
-    "blue note",
-    "characteristic sound"
+    "narrow",
+    "wide"
    ]
   }
  ]

@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "A ligament is damaged when an ankle is twisted. This injury is a",
+   "q": "Which phase comes first in a warm-up?",
    "options": [
-    "strain",
-    "sprain",
-    "fracture",
-    "dislocation"
+    "Stretching",
+    "Skill-related practice",
+    "Pulse raiser",
+    "Cool-down jog"
    ],
-   "answer": 1,
-   "why": "Sprains are ligament injuries; strains involve muscle or tendon."
+   "answer": 2,
+   "why": "A warm-up starts with a pulse raiser, then stretches, then skill practice."
   },
   {
    "type": "mcq",
-   "q": "Which drug is most likely to be used by an archer to steady the hands?",
+   "q": "What does the 'C' in RICE stand for?",
+   "options": [
+    "Cooling",
+    "Compression",
+    "Circulation",
+    "Care"
+   ],
+   "answer": 1,
+   "why": "RICE: Rest, Ice, Compression, Elevation."
+  },
+  {
+   "type": "mcq",
+   "q": "Which drug reduces anxiety and would help an archer?",
    "options": [
     "Anabolic steroid",
     "Diuretic",
-    "Beta blocker",
-    "EPO"
+    "Stimulant",
+    "Beta blocker"
    ],
-   "answer": 2,
-   "why": "Beta blockers slow the heart and reduce tremor."
-  },
-  {
-   "type": "mcq",
-   "q": "Which is a risk of taking EPO?",
-   "options": [
-    "Blood clots",
-    "Weight loss",
-    "Loss of hearing",
-    "Weaker bones only"
-   ],
-   "answer": 0,
-   "why": "EPO thickens the blood, raising the risk of clots, stroke and heart attack."
+   "answer": 3,
+   "why": "Beta blockers slow heart rate and reduce tremor, helping precision sports."
   },
   {
    "type": "short",
-   "q": "Give two reasons why a cool-down is important after exercise.",
-   "model": "It keeps blood flowing to remove waste products such as lactic acid. It lowers heart rate gradually and reduces muscle soreness.",
+   "q": "Describe how blood doping is carried out and one side effect.",
+   "model": "Blood is removed and stored, then re-injected before competition to increase red blood cells. A side effect is thicker blood, which raises the risk of clots, heart attack or stroke.",
    "points": [
-    "removes lactic acid / waste",
-    "gradually lowers heart rate / reduces soreness"
+    "blood removed/stored then re-injected (transfusion) to increase red blood cells",
+    "valid side effect (thicker blood/clots/stroke/infection)"
    ]
   }
  ]

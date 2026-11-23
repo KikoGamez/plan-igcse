@@ -1,6 +1,32 @@
-{"id":"geo-r1-05","questions":[
-{"type":"mcq","q":"At which type of plate boundary does an oceanic plate sink beneath a continental plate?","options":["Constructive","Conservative","Destructive","Hotspot"],"answer":2,"why":"At a destructive boundary the denser oceanic plate is subducted, causing earthquakes and explosive volcanoes."},
-{"type":"mcq","q":"The point on the Earth's surface directly above where an earthquake starts is the","options":["focus","fault","epicentre","hotspot"],"answer":2,"why":"The focus is underground; the epicentre is the surface point directly above it."},
-{"type":"mcq","q":"Which scale measures the explosiveness of a volcanic eruption?","options":["Mercalli","Volcanic Explosivity Index","Moment magnitude","Saffir-Simpson"],"answer":1,"why":"The VEI (0 to 8) measures eruption size and explosiveness."},
-{"type":"short","q":"Explain why earthquakes cause fewer deaths in developed countries than in developing countries.","model":"Developed countries have earthquake-resistant buildings, better emergency services, hospitals and warning systems, so fewer people are killed. Developing countries have weaker buildings and less money for rescue and healthcare.","points":["better building design / preparation in developed countries","better emergency services / healthcare, more money"]}
-]}
+{
+  "id": "geo-r1-05",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "Which process is the wearing down of a river's load into smaller, rounder pieces?",
+      "options": ["Abrasion", "Attrition", "Hydraulic action", "Traction"],
+      "answer": 1,
+      "why": "Attrition is when load particles collide and break down; abrasion wears the bed and banks."
+    },
+    {
+      "type": "mcq",
+      "q": "On the inside of a meander bend you would expect to find:",
+      "options": ["A river cliff", "Fast flow and erosion", "A slip-off slope formed by deposition", "A waterfall"],
+      "answer": 2,
+      "why": "Water is slower on the inside of the bend, so material is deposited to form a slip-off slope."
+    },
+    {
+      "type": "mcq",
+      "q": "What is lag time on a flood hydrograph?",
+      "options": ["Time between peak rainfall and peak discharge", "Time from the start of rainfall to the end of the flood", "The highest discharge", "Total rainfall in the storm"],
+      "answer": 0,
+      "why": "Lag time is the delay between the highest rainfall and the highest river discharge."
+    },
+    {
+      "type": "short",
+      "q": "Explain how afforestation can reduce the risk of flooding.",
+      "model": "Trees intercept rainfall and take up water through their roots, so less water reaches the river quickly. This lengthens lag time and lowers peak discharge.",
+      "points": ["trees intercept rain/absorb water", "less/slower runoff so lower peak discharge"]
+    }
+  ]
+}

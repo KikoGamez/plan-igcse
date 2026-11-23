@@ -1,149 +1,142 @@
-# Set works: study (2/2)
+# Music and words; music for stage and screen
 
-> **In the exam:** On Paper 3 (Appraising, 1 h 45 min, 80 marks, 40% of the course) Section A asks about all four areas of study in six questions. This session covers **Area of Study 3 (Music for Stage and Screen)** and **Area of Study 4 (Fusions)**: four works. It also shows how to **compare** set works, which is useful for the extended-response question (up to 12 marks). Check your own set-work list and booklet; the notes below must match it.
+> **In the exam:** Cambridge IGCSE Music 0410 (exams 2026, 2027, 2028) does not have a single "World Focus" tradition that changes each year. Instead, Areas 4–7 have **starting points**: recommended pieces and styles that are *not* prescribed and not played in the exam. Paper 1 (Listening, c.1 h 15 min, 70 marks) has at least one extract from each area; the extract could be any piece in the style. This topic gives you a method plus the starting-point pieces for Area 4 (music and words), Area 5, Area 6 and Area 7 (stage and screen). Check with your teacher which pieces your school is using, and the syllabus for the exam year.
 
 ## What you need to know
 
-- **AoS 3:** Stephen Schwartz, *Defying Gravity* (from the musical *Wicked*); John Williams, *Main Title* from *Star Wars: Episode IV – A New Hope*.
-- **AoS 4:** Afro Celt Sound System, *Release*; Esperanza Spalding, *Samba Em Prelúdio*.
-- For each: context, instruments, structure, melody, harmony, rhythm, texture, and what is special about it.
-- How to **compare** two works using the musical elements, and what they have in common with the other area-of-study works.
+| Area | Focus areas | Starting points (syllabus) |
+|---|---|---|
+| 4 Music and words | Art song for solo voice; music for choirs; popular song and songs from musicals | Libby Larsen *Chanting to Paradise*; Jonathan Dove *The Passing of the Year*; Pasek and Paul *A Million Dreams* from *The Greatest Showman* |
+| 5 Music for dance | Tango; salsa; EDM | Piazzolla *Libertango*; Héctor Lavoe *El Cantante*; F-777 *Viking Arena* |
+| 6 Music for small ensemble | Silk and bamboo; Hindustani classical; Arab takht | *San Liu* (Chinese National Orchestra); Rāga Khamāj (Ravi Shankar); *Wasla en sabâ* (Al-Kindî Ensemble) |
+| 7 Music for stage and screen | Ballet; film; video game music | Stravinsky *The Rite of Spring*; John Williams *Star Wars*; Yoko Shimomura *Gran Saga* soundtrack |
+
+- Repertoire for Areas 4 and 7 is from the **early 20th century to the present day**.
+- You should be able to **identify** instruments and styles, **describe** features, and **comment** on context.
+- Areas 5 and 6 details are in the topic on world music. This topic adds the *study method* and the details for **Areas 4 and 7**.
+- Terms: *syllabic, melisma, word-painting, strophic, through-composed, verse, chorus, bridge/middle eight, hook, riff, rap, a cappella, leitmotif, ostinato, fanfare, loop, sample, tremolo.*
 
 ## Notes
 
-Use the same **DR SMITH** checklist as in Session 1: **D**ynamics, **R**hythm/tempo, **S**tructure, **M**elody, **I**nstruments, **T**exture, **H**armony/tonality + context.
+### How to study a starting point (20 minutes per piece)
 
-### 1. Schwartz: Defying Gravity (from *Wicked*)
+1. **Listen once, blind:** write the instruments, mood and the first thing that would help you recognise the style.
+2. **Listen with a timeline:** write what changes at each minute (texture, dynamics, tempo, instruments).
+3. **Fill in the SPICED grid:** Structure, Pitch/melody, Instruments, Context, Expression (dynamics, tempo, articulation), Dynamics/Rhythm. 
+4. **Write the "three features" answer:** the three most identifiable features of the style, in a sentence each, using the syllabus terms.
+5. **Find a second piece** in the same style (that is what the exam does) and check you can still describe it.
 
-- **Context:** a musical (Broadway, 2003), music and lyrics by **Stephen Schwartz**. It is the **finale of Act 1**: Elphaba (the future Wicked Witch of the West) decides to rebel against the Wizard and "defy gravity". Glinda joins her at the start.
-- **Genre:** **musical theatre** song: **dramatic character song** with an **ensemble** feel at the end.
-- **Voices:** two female voices: Elphaba (**mezzo-soprano**, **belting** at the climax) and Glinda (soprano). The chorus enters at the end.
-- **Structure:** builds from a quiet, reflective opening to a huge climax: slow section; fast section; final big sung climax with **key changes** that lift the energy.
-- **Instruments:** pit orchestra with **strings, woodwind, brass, percussion, guitar and synthesiser**.
-- **Melody:** wide range, rising leaps and long held notes for excitement; **word-setting** is syllabic in the faster sections.
-- **Harmony:** uses **modulation** (key changes) to build tension; chord progressions repeat, and there is a driving **ostinato** that moves the song to the climax.
-- **Rhythm and tempo:** changes of tempo; syncopated rhythms; the ostinato in the accompaniment drives the energy.
-- **Dynamics:** gradual **crescendo** from quiet to full orchestra, ending with a dramatic final note.
+### Area 4: Music and words
 
-### 2. John Williams: Star Wars, Main Title
+**Why it matters:** the exam asks how the music reflects the words, and how songs are structured.
 
-- **Context:** film score (1977), composed by **John Williams** and performed by the **London Symphony Orchestra**. It is the music over the opening crawl. Williams used a **late-Romantic orchestral style** (like Wagner, Holst, Korngold), unusual for sci-fi at the time, which usually used electronic sounds.
-- **Instruments:** full **symphony orchestra**, with prominent **brass** (trumpets, horns, trombones), strings, woodwind and **percussion (snare drum, timpani, cymbals)**.
-- **Melody:** the opening **brass fanfare** is heroic, with a **rising interval (perfect fifth)** and **triplet** rhythms; the theme is later played in different forms.
-- **Leitmotif:** the main theme is associated with the **hero** (Luke / the Rebels); other themes appear in the score for other characters.
-- **Harmony and tonality:** **major key** (B♭ major) for a heroic feel; chords include brass chords with modal and chromatic touches.
-- **Texture:** mainly **homophonic**: brass melody with accompaniment; **tremolo strings** and rapid wind figures add energy.
-- **Dynamics:** begins with a loud **ff** fanfare; later a quieter, lyrical contrasting section; then a return.
-- **Tempo and rhythm:** a march-like, steady beat in 4/4 with strong accents and triplets.
-- **Purpose:** to tell the audience immediately that this is a heroic adventure.
+| Feature | Meaning | What to say |
+|---|---|---|
+| **Syllabic** | One note per syllable | clear, direct text; typical of pop and chant |
+| **Melismatic** | Many notes on one syllable (**melisma**) | expressive, emphasis, decorated |
+| **Word-painting** | Music imitates the meaning of the words | rising melody for "heaven", low notes for "dark" |
+| **Strophic** | Same music for each verse | folk song, hymn, many pop songs |
+| **Through-composed** | New music for each section of text | art song |
+| **Verse–chorus** | Verses with changing words, a chorus that repeats | popular song; **bridge / middle eight** gives contrast |
+| **Texture of choir** | Unison, homophonic chords, polyphony; soprano, alto, tenor, bass (SATB) | choir parts enter one after another (imitation) or all together |
+| **Accompaniment** | Piano, band or backing track | arpeggios, sustained chords, rhythm section |
 
-### 3. Afro Celt Sound System: Release
+- **Art song** (solo voice with piano): piano and voice are partners; the piano can paint the scene.
+- **Choral music:** a choir with or without accompaniment (a cappella). Look for changes of texture (unison to harmony), dynamic build-up, repeated text.
+- ***A Million Dreams*** (popular song from a musical, 2017): typical **verse–chorus** structure; starts quietly with a simple accompaniment and builds in dynamics, texture and instrumentation to a big, emotionally powerful chorus. Uses a memorable melodic **hook**, repetition and a rising shape. Check your recording for details (instruments, key changes).
+- ***Chanting to Paradise*** (Libby Larsen) and ***The Passing of the Year*** (Jonathan Dove) are modern **choral** works. In whichever extract you hear, comment on how the voices are used, how the text is set (syllabic or melismatic), and how dynamics and texture reflect the meaning.
 
-- **Context:** a **fusion** band formed in the 1990s (producer **Simon Emmerson**) that blends **Irish/Celtic** music with **West African** music and **electronic dance** music. *Release* is from their album **Volume 2: Release** (1999). Released on Peter Gabriel's **Real World** label.
-- **Traditions blended:** Irish **sean-nós** vocals, **uilleann pipes/low whistle**, **bodhrán**; West African **djembe/talking drum** and **kora**; **electronic drum machines, synthesisers and samples**.
-- **Rhythm:** a strong, steady **dance beat** with layered percussion; **polyrhythm** and **ostinati**.
-- **Structure:** builds in layers (**texture builds** by adding instruments), with repeating sections and a long climax (like club tracks).
-- **Texture:** layered and polyphonic; loops (repetition) and a **drone-like** bass.
-- **Production:** **multi-tracking, sampling, reverb, filter sweeps**; electronic effects blend old and new.
+### Area 7: Music for stage and screen
 
-(Check your booklet for exactly which instruments and vocal parts to name.)
+**Purpose:** music accompanies action: it sets the **atmosphere**, builds **tension and excitement**, and highlights **specific moments**.
 
-### 4. Esperanza Spalding: Samba Em Prelúdio
+| Tool | Effect | Example/How |
+|---|---|---|
+| **Leitmotif** | A theme for a character or idea; changes with the story | *Star Wars* themes |
+| **Fanfare / brass** | Heroic, powerful, grand | opening of *Star Wars* |
+| **Ostinato** | Drives the action, creates pulse or tension | *The Rite of Spring*; action scenes |
+| **Tremolo / dissonance / low sustained notes** | Suspense, danger | horror, thriller cues |
+| **Rising sequence + crescendo** | Excitement building | chase scene |
+| **Strings, slow melody** | Emotion, romance, sadness | film love theme |
+| **Looping (video games)** | Music repeats seamlessly while the player plays; changes with the action | *Gran Saga* |
+| **Changes of tempo/dynamic** | Mickey-mousing: music mirrors action | cartoons, ballet |
 
-- **Context:** a jazz singer and **double-bass** player from the USA; she recorded this on her 2008 album *Esperanza*. The song is a **bossa nova/samba** originally written by **Baden Powell** and **Vinícius de Moraes** (Brazil, 1960s).
-- **Traditions blended:** **Brazilian samba/bossa nova** with **jazz** (improvisation, extended chords, scat-style vocal lines).
-- **Instruments:** voice (sung in **Portuguese**), **double bass** played by Spalding herself, **piano**, **drum kit** and **percussion**.
-- **Rhythm:** a **syncopated samba rhythm** with a lilting feel; **tempo** changes between slower sections and faster sections.
-- **Melody:** the voice often **doubles the bass line**; expressive, sometimes **scatted**; wide range.
-- **Harmony:** rich **jazz chords** (7ths, 9ths and altered chords), including **modulations**.
-- **Texture:** lead voice and bass, with piano chords and percussion; some **improvised** solo sections.
-- **Structure:** an introduction, main sections with verse-like repeats and an instrumental/improvised section, ending with the theme.
+- ***The Rite of Spring*** (Stravinsky, ballet, 1913, Paris): shocking rhythms (irregular, changing metre, strong accents), ostinato, big orchestra, dissonant chords, folk-like melodies; it is the most famous example of a ballet score changing music history.
+- ***Star Wars*** (John Williams, 1977): a Romantic-style orchestra, brass fanfares, **leitmotifs**, heroic march-like main theme.
+- ***Gran Saga*** (Yoko Shimomura): video game soundtrack; check your recording for the instruments. Game music supports the action and exploration and is often built around **loops** and changes with the game situation.
 
-(Check your booklet: instrument lists differ between recordings, so use the one you were given.)
+### What to write: a template for "describe" questions in Areas 4–7
 
-### Comparing set works
+> "The extract is [style]. It uses [instruments/voices], with [texture]. The melody is [shape], the rhythm is [feature] and the tempo is [x]. This creates [mood] because [reason]."
 
-For a **12-mark comparison** use this plan:
-
-| Step | What to write |
-|---|---|
-| 1. Context | Date, genre, purpose of each piece |
-| 2. Similarities | Two or three, with evidence (e.g. both use a repeated pattern: ground bass in Purcell, ostinato in Defying Gravity) |
-| 3. Differences | Two or three, with evidence (e.g. Bach is polyphonic; Star Wars is homophonic with brass melody) |
-| 4. Use musical terms | Name instruments, dynamics, textures, structures |
-| 5. Link to the question | Finish with a short conclusion |
-
-**Useful links between works:**
-
-- **Ostinato/repeated patterns:** Purcell (ground bass), Queen (riff), Defying Gravity (ostinato), Release (loops).
-- **Leitmotif/recurring theme:** Star Wars (leitmotif), Bach (ritornello returns).
-- **Fusion:** Release (Irish + African + electronic); Samba Em Prelúdio (samba + jazz).
-- **Dynamics:** Beethoven (extreme sudden contrasts); Defying Gravity (long crescendo).
-- **Technology:** Queen (multi-tracking), Release (samples and electronics).
+Use the **command words** correctly: **identify** = name it; **describe** = features; **explain** = say why/how and use evidence; **compare** = similarities and differences; **comment** = informed opinion; **suggest** = apply knowledge, several answers are valid.
 
 ## Key terms and definitions
 
-- **Belting:** a loud, strong chest-voice singing style used in musical theatre.
+- **Syllabic:** one note for each syllable of text.
+- **Melisma / melismatic:** many notes sung to a single syllable.
+- **Word-painting:** the music reflects the meaning of the words.
+- **Strophic:** the same music repeated for each verse.
+- **Through-composed:** new music for each part of the text, without repetition.
+- **Bridge / middle eight:** contrasting section, typically after the second chorus in a song.
+- **Hook:** a short, memorable musical idea.
+- **A cappella:** voices singing without instrumental accompaniment.
 - **Leitmotif:** a recurring theme associated with a character, place or idea.
-- **Fanfare:** a short, loud, brassy flourish, often for announcements.
-- **Modulation:** changing from one key to another.
-- **Ostinato:** a short pattern repeated persistently.
-- **Sean-nós:** traditional unaccompanied, highly ornamented Irish singing.
-- **Fusion:** a blend of two or more musical traditions.
-- **Bossa nova:** a gentle Brazilian style mixing samba with jazz.
-- **Scat singing:** improvising with vocal sounds instead of words.
-- **Sampling:** re-using part of an earlier recording in a new piece.
+- **Fanfare:** a short, loud, brass-led flourish.
+- **Loop:** a short musical section repeated continuously.
+- **Sample:** a section of an existing recording reused in a new piece.
 
 ## Worked examples
 
-**1. Describe how John Williams makes the Star Wars *Main Title* sound heroic. [4]**
+**1. A song from a musical begins quietly with piano and solo voice and ends with full choir and orchestra. Describe how the music develops. [3]**
+*Model answer:* "It starts with a soft dynamic and a sparse texture of voice and piano (1). More instruments and voices are added gradually (1), with a crescendo to a loud, full chorus (1)."
 
-*Model answer:* The brass play the fanfare theme at a loud dynamic (ff) [1]. It is in a major key [1] with a rising fifth and triplet rhythms in a march-like beat [1]. The full orchestra (strings, percussion, timpani) adds power and the style is late-Romantic [1].
+**2. Describe two ways film music can create suspense. [2]**
+*Model answer:* "Low, sustained notes or tremolo strings (1) and dissonant chords that do not resolve (1)." Also: slow crescendo, ostinato, silence.
 
-**2. Explain how the fusion in *Release* is created. [4]**
+**3. What is meant by word-painting? Give an example. [2]**
+*Model answer:* "The music imitates the meaning of the words (1), for example a rising melody on the word 'heaven' / a falling line on 'sorrow' (1)."
 
-*Model answer:* Irish elements: sean-nós singing and instruments such as pipes/whistle and bodhrán [1]. West African elements: djembe/talking drum and polyrhythm [1]. Electronic elements: drum machine, synthesisers and samples with a dance beat [1]. These are layered over a repeating groove that builds in texture [1].
-
-**3. Compare how the music builds excitement in *Defying Gravity* and one other set work. [6]**
-
-*Model answer (outline):* *Defying Gravity* builds with a gradual crescendo, an ostinato accompaniment, key changes and belted vocals [3]. In *Release* excitement is built by adding layers of percussion and electronic sounds over a repeated groove [2]. Both therefore use repetition and building texture, but *Defying Gravity* relies on modulation and voices while *Release* relies on electronic production [1].
+**4. Suggest how a game composer keeps the music from becoming boring when it loops. [2]**
+*Model answer:* "Add or remove instrumental layers as the action changes (1) and vary dynamics or tempo while keeping the main theme (1)." (Suggest = several answers valid.)
 
 ## Common mistakes
 
-- Saying *Star Wars* uses "electronic music". It is a **symphony orchestra** (London Symphony Orchestra).
-- Forgetting to name the **tradition** each element comes from when describing a fusion.
-- Using "loud" and "quiet" instead of **ff, p, crescendo**.
-- Mixing up Williams' **fanfare** (brass, triplets) with a **leitmotif** in general. The fanfare is part of the main theme.
-- In comparisons, writing about only one piece. You must **compare**: use "whereas", "both", "in contrast".
+- Expecting the **exam piece to be the starting point**. The exam plays *different* examples in the same style.
+- Using "film music" with no features. Name **leitmotif**, **fanfare**, **tremolo**, etc.
+- Confusing **syllabic** (one note per syllable) and **melismatic** (many notes per syllable).
+- Calling every song "strophic". Check whether the music changes: verse–chorus is not the same.
+- Saying "it sounds sad" only. Add **minor key, slow tempo, low register, quiet dynamics**.
+- Not reading the question for the **area and tradition** printed on the paper: it tells you what to compare with.
 
 ## Practice questions
 
-1. Who composed *Defying Gravity* and in which musical does it appear? [2]
-2. What is belting? [1]
-3. Name two instruments that are prominent in the *Star Wars Main Title*. [2]
-4. What is a leitmotif? How is one used in *Star Wars*? [3]
-5. Name the traditions blended in *Release*. [3]
-6. Describe the role of the double bass in *Samba Em Prelúdio*. [2]
-7. Give two ways in which jazz influences *Samba Em Prelúdio*. [2]
-8. Compare how texture is used in *Release* and *Samba Em Prelúdio*. [4]
+1. What does syllabic mean? [1]
+2. Name the structure with a repeated chorus and a contrasting middle eight. [1]
+3. Name two ways a choir can vary texture. [2]
+4. What is a leitmotif? [1]
+5. Give two uses of brass in film music. [2]
+6. Why do video-game composers use loops? [1]
+7. Name the composer of *The Rite of Spring*. [1]
+8. Suggest how music could build excitement in a chase scene. [2]
 
 <details><summary>Answers</summary>
 
-1. Stephen Schwartz [1]; *Wicked* [1].
-2. A loud, strong chest-voice singing style used in musical theatre.
-3. Any two: brass (trumpets/horns), strings, timpani, snare drum, woodwind.
-4. A recurring theme linked to a character or idea [1]. The main theme is associated with the hero / the Rebels [1] and returns in the film in different forms [1].
-5. Irish/Celtic [1], West African [1], electronic dance music [1].
-6. Played by Spalding herself, providing the bass line and harmonic foundation [1]; the voice often doubles/echoes it [1].
-7. Any two: extended chords, improvisation, scat-style vocal, swing/syncopation, double bass.
-8. *Release*: layered texture with many percussion and electronic parts built up [2]. *Samba Em Prelúdio*: smaller group, with voice and bass prominent and piano and drums accompanying [2].
+1. One note per syllable (1).
+2. Verse–chorus (popular song) structure, with a bridge / middle eight (1).
+3. Any two: unison to harmony (1); homophonic vs polyphonic/imitative (1); solo vs full choir (1); divided parts (SATB) (1).
+4. A recurring theme linked to a character, place or idea (1).
+5. Any two: fanfares (1); heroic themes (1); loud dramatic climaxes (1); danger/menace with low brass (1).
+6. Music repeats seamlessly while the player continues the game (1).
+7. Stravinsky (1).
+8. Any two: fast tempo (1); ostinato (1); rising sequence / crescendo (1); percussion or brass (1).
 
 </details>
 
 ## Plan for this hour
 
-- **15 min** – Read the AoS 3 notes with your booklet and listen to each piece.
-- **15 min** – Read the AoS 4 notes; list the traditions in each fusion.
-- **10 min** – Make a comparison grid for all eight set works (one line each).
-- **15 min** – Practice questions and marking.
-- **5 min** – Say aloud three similarities between any two works.
+- **0–10 min:** Learn the starting-points table.
+- **10–25 min:** Area 4: listen to *A Million Dreams*; map the structure and build-up; then a choral extract.
+- **25–40 min:** Area 7: listen to *Star Wars* and an extract from *The Rite of Spring*; tick the tools table.
+- **40–55 min:** Practice questions 1–8.
+- **55–60 min:** List weak points for the world music topic.

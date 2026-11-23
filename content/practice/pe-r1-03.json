@@ -2,167 +2,160 @@
  "id": "pe-r1-03",
  "cards": [
   {
-   "f": "Parts of a lever in the body",
-   "b": "Fulcrum = joint; effort = muscle; load = body part or weight to be moved; bone acts as the lever."
+   "f": "Force",
+   "b": "A push or a pull, measured in newtons (N)."
+  },
+  {
+   "f": "Force equation",
+   "b": "Force = mass × acceleration (F = m × a)."
+  },
+  {
+   "f": "Effect of more force on the same mass",
+   "b": "Greater acceleration (or deceleration if the force opposes the motion)."
+  },
+  {
+   "f": "Forces on a moving performer",
+   "b": "Gravity, air resistance and muscular force."
+  },
+  {
+   "f": "Forces on a sprinter in the blocks",
+   "b": "Gravity, ground reaction force and air resistance."
+  },
+  {
+   "f": "Forces on an object flying through the air",
+   "b": "Force applied at release, air resistance and gravity."
+  },
+  {
+   "f": "Ground reaction force",
+   "b": "The ground pushes back on the performer with an equal and opposite force when they push on it."
+  },
+  {
+   "f": "Air resistance",
+   "b": "A force opposing the motion of a performer or object through the air; reduced by streamlining."
+  },
+  {
+   "f": "Lever",
+   "b": "A rigid bar (bone) that pivots around a fulcrum (joint) when effort is applied."
+  },
+  {
+   "f": "Fulcrum",
+   "b": "The pivot point of a lever; in the body, the joint."
+  },
+  {
+   "f": "Effort and resistance",
+   "b": "Effort is the force applied by the muscle; resistance (load) is the weight or force being moved."
   },
   {
    "f": "First-class lever",
-   "b": "Fulcrum is in the middle (effort – fulcrum – load). Example: head tilting back at the neck."
+   "b": "Fulcrum in the middle (E-F-R). Example: neck nodding."
   },
   {
    "f": "Second-class lever",
-   "b": "Load is in the middle (fulcrum – load – effort). Example: standing on tiptoes."
+   "b": "Resistance in the middle (F-R-E). Example: ankle when rising on to the toes."
   },
   {
    "f": "Third-class lever",
-   "b": "Effort is in the middle (fulcrum – effort – load). Example: bicep curl. Most body levers."
+   "b": "Effort in the middle (F-E-R). Example: elbow in a bicep curl; the most common type."
   },
   {
-   "f": "Class order trick",
-   "b": "1-2-3 = F-L-E: the Fulcrum, Load or Effort is in the middle."
-  },
-  {
-   "f": "Mechanical advantage formula",
-   "b": "Effort arm ÷ load arm."
-  },
-  {
-   "f": "MA greater than 1 means",
-   "b": "A force multiplier: small effort moves a large load, but less speed and range."
-  },
-  {
-   "f": "MA less than 1 means",
-   "b": "More effort needed, but gives speed and range of movement."
-  },
-  {
-   "f": "Why third-class levers suit sport",
-   "b": "Short effort arm gives MA < 1, so limbs move fast and far for throwing, kicking, swinging."
-  },
-  {
-   "f": "Sagittal plane",
-   "b": "Divides body into left and right. Flexion/extension, e.g. running, somersault."
-  },
-  {
-   "f": "Frontal plane",
-   "b": "Divides body into front and back. Abduction/adduction, e.g. cartwheel, star jump."
-  },
-  {
-   "f": "Transverse plane",
-   "b": "Divides body into top and bottom. Rotation, e.g. discus, pirouette."
-  },
-  {
-   "f": "Frontal axis",
-   "b": "Runs side to side. Goes with sagittal plane, e.g. somersault."
-  },
-  {
-   "f": "Sagittal axis",
-   "b": "Runs front to back. Goes with frontal plane, e.g. cartwheel."
-  },
-  {
-   "f": "Longitudinal axis",
-   "b": "Runs head to toe. Goes with transverse plane, e.g. spin or twist."
-  },
-  {
-   "f": "Plane and axis for a bicep curl",
-   "b": "Sagittal plane, frontal axis (flexion at the elbow)."
+   "f": "Memory aid for lever classes",
+   "b": "1-2-3 = F-R-E: the item in the middle is fulcrum, resistance, effort."
   }
  ],
  "gaps": [
   {
-   "s": "The joint in a body lever is the ___.",
+   "s": "Force is measured in ___.",
+   "a": [
+    "newtons",
+    "newton",
+    "N"
+   ]
+  },
+  {
+   "s": "Force = mass × ___.",
+   "a": [
+    "acceleration"
+   ]
+  },
+  {
+   "s": "The pivot point of a lever is called the ___.",
    "a": [
     "fulcrum"
    ]
   },
   {
-   "s": "The force provided by a muscle is the ___.",
+   "s": "The bicep curl is an example of a ___-class lever.",
    "a": [
-    "effort"
+    "third",
+    "3rd",
+    "3"
    ]
   },
   {
-   "s": "In a third-class lever the ___ is between the fulcrum and the load.",
+   "s": "The force the ground exerts back on a sprinter's feet is the ground ___ force.",
    "a": [
-    "effort"
+    "reaction"
    ]
   },
   {
-   "s": "Standing on tiptoes is an example of a ___ class lever.",
+   "s": "In a second-class lever the ___ is in the middle.",
    "a": [
-    "second",
-    "2nd",
-    "2"
-   ]
-  },
-  {
-   "s": "Mechanical advantage equals effort arm divided by ___ arm.",
-   "a": [
+    "resistance",
     "load"
    ]
   },
   {
-   "s": "A somersault is in the sagittal plane about the ___ axis.",
+   "s": "After a javelin is released, the force that pulls it to the ground is ___.",
    "a": [
-    "frontal"
+    "gravity"
    ]
   },
   {
-   "s": "Twisting movements happen in the ___ plane.",
+   "s": "A 20 kg object accelerating at 3 m/s² needs a force of ___ N.",
    "a": [
-    "transverse"
-   ]
-  },
-  {
-   "s": "The axis that runs from head to toe is the ___ axis.",
-   "a": [
-    "longitudinal"
-   ]
-  },
-  {
-   "s": "Abduction and adduction take place in the ___ plane.",
-   "a": [
-    "frontal"
+    "60"
    ]
   }
  ],
  "short": [
   {
-   "q": "Calculate the mechanical advantage when the effort arm is 2 cm and the load arm is 20 cm, and say what it means.",
-   "model": "MA = 2 ÷ 20 = 0.1. It is below 1, so a large effort is needed but the lever gives speed and range of movement.",
+   "q": "A 65 kg player accelerates at 3 m/s². Calculate the force.",
+   "model": "Force = mass × acceleration = 65 × 3 = 195 N.",
    "points": [
-    "0.1",
-    "less than 1 means speed/range at cost of force"
+    "F = m × a",
+    "195 N with unit"
    ]
   },
   {
-   "q": "Describe the lever system used in a bicep curl.",
-   "model": "Third-class lever: elbow is the fulcrum, biceps pulls between the elbow and hand (effort), and the weight in the hand is the load.",
+   "q": "Name three forces acting on a cyclist.",
+   "model": "Gravity, air resistance and muscular force (pushing the pedals).",
    "points": [
-    "third class",
-    "fulcrum/effort/load identified"
+    "Gravity",
+    "Air resistance and muscular force"
    ]
   },
   {
-   "q": "Name the plane and axis for a forward roll, and the type of movement.",
-   "model": "Sagittal plane and frontal axis; the movement is flexion and extension.",
+   "q": "Identify the fulcrum, effort and resistance in a bicep curl.",
+   "model": "Fulcrum is the elbow joint, effort is the biceps muscle, resistance is the weight of the forearm and dumbbell.",
    "points": [
-    "sagittal plane",
-    "frontal axis"
+    "Fulcrum: elbow",
+    "Effort: biceps; resistance: weight in hand"
    ]
   },
   {
-   "q": "Explain why a longer lever, such as a hockey stick, can hit the ball harder.",
-   "model": "A longer lever increases the load arm so the end moves faster for the same rotation, giving a greater speed of contact, though more effort is needed.",
+   "q": "Explain why a shot put follows a curved path after release.",
+   "model": "After release the only forces acting are gravity pulling it down and air resistance slowing it, so it follows a curved path to the ground.",
    "points": [
-    "longer lever / larger load arm",
-    "faster at the end"
+    "No force from the thrower after release",
+    "Gravity and air resistance"
    ]
   },
   {
-   "q": "Name the plane and axis of a discus thrower's spin and name the movement.",
-   "model": "Transverse plane, longitudinal axis; the movement is rotation.",
+   "q": "State the class of lever at the ankle when rising onto tiptoes and give the order of its parts.",
+   "model": "It is a second-class lever: fulcrum (ball of foot), resistance (body weight at the ankle), effort (calf muscle at the heel).",
    "points": [
-    "transverse plane",
-    "longitudinal axis"
+    "Second class",
+    "Resistance in the middle"
    ]
   }
  ]

@@ -3,179 +3,166 @@
  "cards": [
   {
    "f": "Paper 1 Listening",
-   "b": "40 marks, 30 minutes plus 5 minutes reading time, 7 extracts each played twice, 25%."
+   "b": "About 50 minutes including 6 minutes' transfer time, 40 marks, 25%. Multiple choice and matching; each text played twice."
   },
   {
-   "f": "Paper 2 Reading and Writing",
-   "b": "1 h 45 min, 80 marks (40 reading + 40 writing and grammar), 50% of the qualification."
+   "f": "Paper 2 Reading",
+   "b": "1 hour, 45 marks, 25%. Six question groups: matching, multiple choice, and short answers in German."
   },
   {
    "f": "Paper 3 Speaking",
-   "b": "8–10 minutes, 40 marks, 25%. Recorded, all in German. Tasks A, B and C."
+   "b": "About 10 minutes (plus 10 minutes' preparation), 40 marks, 25%. One role play and two topic conversations."
   },
   {
-   "f": "Q6 (writing)",
-   "b": "Short task, 60–75 words, with words in boxes that you must use."
+   "f": "Paper 4 Writing",
+   "b": "1 hour, 45 marks, 25%. Q1 form (5), Q2 directed writing (12), Q3 extended writing (28)."
   },
   {
-   "f": "Q7 (writing)",
-   "b": "Choice of three extended tasks, 130–150 words, four bullet points to cover."
+   "f": "Tiers in 0525",
+   "b": "None: all candidates take the same four papers and can get grades A* to G."
   },
   {
-   "f": "Q8 (grammar)",
-   "b": "Complete a text with the correct form of verbs and adjectives given in brackets. Use the context."
+   "f": "Speaking role play marks",
+   "b": "Five answers, 2 marks each: communicated clearly with appropriate, accurate language. Minor errors allowed."
   },
   {
-   "f": "Speaking Task A",
-   "b": "Picture of your own choice, 2–3 min, five questions from the examiner. No presentation."
+   "f": "Speaking topic conversations",
+   "b": "About four minutes each. Marked out of 15 for Communication and 15 for Quality of Language, across both."
   },
   {
-   "f": "Speaking Tasks B and C",
-   "b": "Two spontaneous conversations on two different themes chosen by Pearson, 3–3½ min each."
+   "f": "Writing Q2",
+   "b": "Directed writing, about 80–90 words, 12 marks, on a familiar everyday topic."
   },
   {
-   "f": "Sub-topics not used in Speaking",
-   "b": "A3 Services, C3 Role models, C5 Childhood, D2 Weather and climate, E4 Accidents, injuries, common ailments and health issues."
+   "f": "Writing Q3",
+   "b": "Choose an email/letter or an article/blog, about 130–140 words, 28 marks."
   },
   {
-   "f": "Theme A",
-   "b": "Home and abroad: town and rural life, holidays, services, customs, everyday life and traditions."
+   "f": "Paper 2 groups 4 and 6",
+   "b": "Longer email/blog/article texts. Answer the questions with short answers in German; marked on understanding."
   },
   {
-   "f": "Theme B",
-   "b": "Education and employment: school life, rules, trips and exchanges, work/careers/volunteering, future plans."
+   "f": "Topic area A",
+   "b": "Everyday activities: time, food and drink, the human body and health, travel and transport."
   },
   {
-   "f": "Theme C",
-   "b": "Personal life and relationships: house and home, daily routine, role models, family and friends, childhood."
+   "f": "Topic area B",
+   "b": "Personal and social life: self, family and friends, home, colours, clothes, leisure time."
   },
   {
-   "f": "Theme D",
-   "b": "The world around us: environment, weather, travel and transport, the media, ICT."
+   "f": "Topic area C",
+   "b": "The world around us: people and places, nature, weather, technology, built environment, shopping."
   },
   {
-   "f": "Theme E",
-   "b": "Social activities, fitness and health: special occasions, hobbies and sport, shopping and money, accidents and health, food and drink."
+   "f": "Topic area D",
+   "b": "The world of work: education (school, subjects) and work (jobs, careers, the workplace)."
   },
   {
-   "f": "How to mark Q7 well",
-   "b": "Cover all four bullets, use past, present and future, give opinions with reasons, and keep to 130–150 words."
+   "f": "Topic area E",
+   "b": "The international world: countries, nationalities, languages; culture, customs, faiths, celebrations."
   },
   {
-   "f": "Viertel vor drei",
-   "b": "2:45 (a quarter to three). Viertel nach drei is 3:15; halb drei is 2:30."
+   "f": "Grammar for recognition only",
+   "b": "Indirect speech (Konjunktiv I) and the passive: you need to understand them, not write them."
   }
  ],
  "gaps": [
   {
-   "s": "Der Hörtext wird ___ gespielt.",
+   "s": "Die Prüfung ___ vier Papiere: Hören, Lesen, Sprechen und Schreiben. (haben)",
    "a": [
-    "zweimal",
-    "2 mal",
-    "zwei mal",
-    "2x"
+    "hat"
    ]
   },
   {
-   "s": "In Paper 1 hast du ___ Minuten Lesezeit.",
+   "s": "Paper 1 hat insgesamt ___ Fragen mit Mehrfachauswahl und Zuordnung.",
+   "a": [
+    "37",
+    "siebenunddreißig",
+    "siebenunddreissig"
+   ]
+  },
+  {
+   "s": "In der Hörprüfung hört man jeden Text ___ Mal.",
+   "a": [
+    "zwei",
+    "2"
+   ]
+  },
+  {
+   "s": "Im Rollenspiel gibt es ___ Fragen, jede mit 2 Punkten. (fünf)",
    "a": [
     "fünf",
-    "funf",
     "fuenf",
+    "funf",
     "5"
    ]
   },
   {
-   "s": "Die Hörverstehensprüfung hat ___ Hörtexte.",
+   "s": "Bei einem Erwachsenen sagt man im Rollenspiel ___, nicht du.",
    "a": [
-    "sieben",
-    "7"
+    "Sie"
    ]
   },
   {
-   "s": "Bei Q7 musst du alle ___ Stichpunkte beantworten.",
+   "s": "Ich ___ gern Pizza, aber ich esse nicht gern Fisch. (mögen, 1. Person)",
    "a": [
-    "vier",
-    "4"
+    "mag"
    ]
   },
   {
-   "s": "Q6 verlangt 60 bis ___ Wörter.",
+   "s": "Die Aufgabe 3 im Schreiben hat etwa ___ bis 140 Wörter.",
    "a": [
-    "75",
-    "fünfundsiebzig",
-    "fuenfundsiebzig",
-    "funfundsiebzig"
+    "130",
+    "hundertdreißig",
+    "hundertdreissig"
    ]
   },
   {
-   "s": "Das Bild für Task A darfst du selbst ___.",
+   "s": "Kleidung und Hobbys gehören zu Themenbereich ___ (Buchstabe).",
    "a": [
-    "wählen",
-    "waehlen",
-    "wahlen",
-    "auswählen",
-    "aussuchen",
-    "auswaehlen"
-   ]
-  },
-  {
-   "s": "Das Sprechen zählt ___ Prozent der Note.",
-   "a": [
-    "25",
-    "fünfundzwanzig",
-    "fuenfundzwanzig"
-   ]
-  },
-  {
-   "s": "Das Thema E heißt Soziale Aktivitäten, Fitness und ___.",
-   "a": [
-    "Gesundheit"
+    "B"
    ]
   }
  ],
  "short": [
   {
-   "q": "Describe the structure of Paper 2 and how many marks each section is worth.",
-   "model": "Paper 2 lasts 1 h 45 min and has Section A, reading, five passages for 40 marks, and Section B, writing and grammar (Q6, Q7, Q8), for 40 marks.",
+   "q": "Explain what the examiner is looking for in the Speaking topic conversations.",
+   "model": "Communication: relevant answers with developed, justified opinions. Quality of Language: a wide range of structures and vocabulary, accuracy, pronunciation and fluency.",
    "points": [
-    "Section A reading, five passages, 40 marks",
-    "Section B writing and grammar (Q6, Q7, Q8), 40 marks",
-    "1 h 45 min, 50% of the qualification"
+    "Communication: developed, justified opinions",
+    "Quality of Language: range and accuracy of structures"
    ]
   },
   {
-   "q": "Explain how Speaking Tasks B and C are different from Task A.",
-   "model": "Task A is about your own chosen picture with five questions; B and C are spontaneous conversations on two different themes chosen at random by Pearson, so you cannot rely on a prepared speech.",
+   "q": "How should you use the time before each recording in Paper 1?",
+   "model": "Read the options, underline key words, and predict the kind of answer (numbers, times, reasons). Watch for corrections such as nicht ... sondern.",
    "points": [
-    "Task A: own picture, five questions",
-    "B and C: spontaneous, different themes chosen at random",
-    "Marks for interaction and spontaneity"
+    "Reads the options and finds key words",
+    "Expects corrections and distractors"
    ]
   },
   {
-   "q": "Give three ways to avoid losing marks in Q7.",
-   "model": "Address every bullet point, use a range of tenses with opinions and reasons, and stay within 130–150 words while checking verb position and endings.",
+   "q": "A Reading question asks for a short answer in German. How do you write it?",
+   "model": "Find the part of the text that answers exactly the question, and write a short, clear German answer with the key detail, without copying irrelevant or wrong information.",
    "points": [
-    "Cover all four bullets",
-    "Past, present and future plus opinions with reasons",
-    "Keep to word count and check accuracy"
+    "Answers only what is asked",
+    "Keeps the key detail clear in German"
    ]
   },
   {
-   "q": "A listening speaker says 'Eigentlich wollte ich ins Kino gehen, aber jetzt gehe ich schwimmen.' What is the answer to 'what will he do?' and why?",
-   "model": "He will go swimming. The speaker changed his mind: the first thing mentioned (cinema) was the original plan, not the final one.",
+   "q": "What should you do in the 10 minutes' preparation for the role play?",
+   "model": "Read the card carefully, work out the situation and who you speak to (du or Sie), and prepare a full polite sentence for each prompt. You may not make notes.",
    "points": [
-    "Swimming",
-    "Cinema was the original plan, replaced after 'aber'"
+    "Understands the situation and prompts",
+    "Plans full, appropriate sentences without notes"
    ]
   },
   {
-   "q": "Why must you read the word in brackets in Q8 in context?",
-   "model": "The word does not always change; you must check the subject, tense, case and gender of the sentence to decide the correct form.",
+   "q": "Plan a Writing Q3 email about your last holiday: which tenses and structures would you include?",
+   "model": "Perfect and imperfect for what you did and what it was like, an opinion with weil, a future or conditional (Nächstes Jahr werde ich ... / Ich würde gern ...), and linked sentences.",
    "points": [
-    "Context decides the form",
-    "Sometimes the word stays the same"
+    "Past tenses for events",
+    "Opinion with a reason and a future or conditional"
    ]
   }
  ]

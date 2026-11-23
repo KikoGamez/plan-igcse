@@ -1,152 +1,176 @@
-# Hazards: earthquakes and volcanoes
+# Rivers
 
-> **In the exam:** Paper 1, Section A (hazards question, about 25 marks; choose two of rivers, coasts, hazards). Typical tasks: a world map of plate boundaries or hazards to describe (2–3 marks), name a plate boundary or scale (1 mark), "explain why earthquakes happen at a destructive boundary" (3–4 marks), "explain why people live near volcanoes" (3–4 marks), and a 6-mark case-study question on the management of an earthquake or volcano in a developed and a developing/emerging country.
+> **In the exam:** Paper 1 (Geographical Themes, 75 marks), Theme 2 The natural environment. Common questions: labelling a drainage-basin diagram or river long profile [1–3], naming erosion/transport processes [2], describing or explaining a landform (waterfall, meander, oxbow lake, floodplain, delta) with a labelled sketch [3–4], reading a flood hydrograph [2–3], causes and effects of flooding [4], and a 7-mark extended question on flood management for a **named river or flood event**. Photos, OS maps and cross-sections of rivers also appear in Paper 2 (Geographical Skills).
 
 ## What you need to know
 
-- Characteristics and distribution of tectonic hazards (use world maps).
-- Causes of volcanic and earthquake hazards: plate boundaries, hotspots, tsunamis.
-- Measurement: Mercalli scale and moment magnitude scale (earthquakes), Volcanic Explosivity Index (volcanoes).
-- Primary and secondary impacts; reasons people continue to live in hazardous environments.
-- Case studies of hazard management for a volcano or earthquake in a developed country and a developing or emerging country.
+- Drainage-basin features: source, tributary, confluence, watershed, mouth, channel, floodplain.
+- River processes: erosion (hydraulic action, abrasion, attrition, solution), transport (traction, saltation, suspension, solution) and deposition.
+- Landforms of the upper, middle and lower course: waterfalls and gorges, meanders, oxbow lakes, floodplains, levees and deltas.
+- Flooding: causes (physical and human), effects, and hydrographs.
+- River management: hard engineering and soft engineering, with a named example and an evaluation.
 
 ## Notes
 
-### Earth's structure and plates
+### The drainage basin
 
-The Earth has a **crust** (thin, solid), a **mantle** (hot, slow-flowing rock) and a **core**. The crust is broken into **tectonic plates** that move a few centimetres a year, driven by **convection currents** in the mantle (and slab pull at subduction zones).
+A **drainage basin** is the area of land drained by a river and its tributaries.
+- **Source:** where the river begins (often in uplands).
+- **Tributary:** a smaller river joining a larger one.
+- **Confluence:** where two rivers meet.
+- **Watershed:** the high ground that separates one drainage basin from another.
+- **Mouth:** where the river ends (sea or lake). **Channel:** the path the water follows.
 
-- **Continental crust:** thick, light, less dense, cannot sink.
-- **Oceanic crust:** thin, heavy, dense, and can be destroyed (subducted).
+### River processes
 
-### Plate boundaries
+**Erosion** (wearing away of the bed and banks):
+| Process | How it works |
+|---|---|
+| **Hydraulic action** | Force of water pushes air into cracks, breaking rock apart |
+| **Abrasion** | Load carried by the river scrapes and wears the bed and banks (like sandpaper) |
+| **Attrition** | Load particles collide and become smaller and rounder |
+| **Solution (corrosion)** | Acids in water dissolve rocks such as limestone |
 
-| Boundary | Plate movement | What happens | Hazards | Example |
-|---|---|---|---|---|
-| **Destructive (convergent)** | oceanic plate moves towards continental plate | dense oceanic plate is **subducted** under the continental plate and melts; pressure builds then releases | powerful earthquakes; explosive **composite (strato) volcanoes**; tsunamis | Nazca plate under South America (Andes); Pacific Ring of Fire; Japan |
-| **Collision** | two continental plates move together | neither sinks; crust is crumpled upwards into **fold mountains** | strong earthquakes, no volcanoes | Indian plate and Eurasian plate (Himalayas, Nepal) |
-| **Constructive (divergent)** | plates move apart | magma rises to fill the gap, creating new crust | gentle eruptions from **shield volcanoes**, small earthquakes | Mid-Atlantic Ridge, Iceland |
-| **Conservative (transform)** | plates slide past each other (or in the same direction at different speeds) | plates stick, pressure builds, then release | earthquakes, no volcanoes | San Andreas Fault, California |
+**Transport** (moving the load):
+| Process | Material |
+|---|---|
+| **Traction** | Large boulders rolled along the bed |
+| **Saltation** | Pebbles and small stones bounced along the bed |
+| **Suspension** | Fine silt and clay carried in the flow |
+| **Solution** | Dissolved minerals carried in the water |
 
-**Hotspots:** places over a plume of rising magma in the middle of a plate where volcanoes form, e.g. Hawaii.
+**Deposition:** the river drops its load when its **energy falls** (e.g. shallow water, slow flow on the inside of bends, a lower volume in drought, or at the river mouth).
 
-### Distribution
+**Changes along the course:** from source to mouth, channel **width, depth and discharge increase**; **gradient decreases**; load particles get **smaller and more rounded** (due to attrition); **vertical erosion** dominates in the upper course, **lateral (sideways) erosion** in the middle and lower courses.
 
-Earthquakes and volcanoes occur in **narrow belts** along plate boundaries. The **Pacific Ring of Fire** has about 75% of the world's volcanoes and most earthquakes. Few occur in the middle of plates (except hotspots).
+### Landforms
 
-### Earthquakes
+**Upper course:** steep V-shaped valleys with **interlocking spurs**, **waterfalls and gorges**, rapids.
 
-- **Focus:** the point underground where the earthquake starts. **Epicentre:** the point on the surface directly above the focus. Shaking is strongest near the epicentre.
-- Cause: plates get stuck, **pressure builds up**, then is released suddenly as **seismic waves**.
-- **Shallow-focus** earthquakes cause more damage than deep-focus.
-- **Tsunamis** are caused when an undersea earthquake (or volcano) lifts or drops the sea floor, displacing a huge volume of water. The wave is small in deep ocean, but grows to a huge wave in shallow coastal water.
+**Waterfall and gorge formation (typical 4-mark answer):**
+1. A river flows over a layer of **hard (resistant) rock** above a layer of **soft rock**.
+2. The soft rock is eroded faster by hydraulic action and abrasion, creating an **overhang** of hard rock and a **plunge pool** below (eroded by swirling water and stones).
+3. The hard rock is undercut and eventually collapses.
+4. The waterfall **retreats upstream**, leaving a steep-sided **gorge**. (Example: High Force, Niagara Falls.)
 
-### Volcanoes
+**Meanders and oxbow lakes (middle and lower course):**
+- A **meander** is a bend in the river. Water flows fastest on the **outside** of the bend where **erosion** forms a steep **river cliff**; on the **inside** the water is slow, so **deposition** forms a gentle **slip-off slope (point bar)**.
+- Over time the neck of land narrows as the outside banks are eroded. In a flood the river cuts through, taking the shortest route. The ends of the old meander are sealed with deposits, leaving an **oxbow lake**.
 
-- **Composite (strato) volcano:** steep sides, made of layers of ash and lava; sticky, explosive lava; found at destructive boundaries (e.g. Mount St Helens, Mount Fuji).
-- **Shield volcano:** gentle, wide sides; runny lava; frequent gentle eruptions; found at constructive boundaries and hotspots (e.g. Mauna Loa, Hawaii; Iceland).
-- Hazards: lava flows, **pyroclastic flows** (fast-moving clouds of hot gas and ash, very deadly), ash fall, **lahars** (mudflows from melting snow or rain mixed with ash), volcanic gases, tsunamis.
+**Floodplain, levees (lower course):**
+- A **floodplain** is the flat area of land beside the river that floods. When it floods, the river deposits **fertile silt (alluvium)**.
+- **Levees** are natural raised banks along the river formed when floods deposit the coarsest material closest to the channel first, building up the banks.
 
-### Measuring hazards
+**Deltas (at the mouth):** form where a river meets a sea or lake with weak currents/tides; the river slows, deposits its load (**deposition**) and splits into **distributaries**. Features: fertile, flat land; e.g. the Mississippi, Nile, Ganges–Brahmaputra.
 
-| Scale | Measures | Details |
+### Flooding
+
+A **flood** happens when river discharge exceeds channel capacity and water spills over the banks onto the floodplain.
+
+| Physical causes | Human causes |
+|---|---|
+| **Heavy or prolonged rainfall**; rapid snowmelt | **Deforestation** (less interception, more surface runoff) |
+| **Impermeable rock/saturated soil** → more runoff | **Urbanisation**: concrete and tarmac, drains send water quickly to rivers |
+| **Steep slopes** → rapid runoff | **Building on the floodplain** or removing natural vegetation |
+| Small, round basin shape: water arrives all at once | Poor drainage maintenance; breaking of embankments or dams |
+| **Tropical storms/monsoon** | |
+
+**Hydrographs (storm hydrograph):** a graph of river **discharge** (cumecs) against time after a rainfall event.
+- **Rising limb:** discharge increases after rain. **Peak discharge:** highest flow. **Falling limb:** return to normal. **Lag time:** time between peak **rainfall** and peak discharge.
+- **Flashy** hydrograph: short lag time, high steep peak (impermeable surfaces, steep slopes, urban areas). **Gentle (flat)**: long lag time, lower peak (forests, permeable soil, gentle slopes).
+
+**Effects of flooding:** deaths and injuries; homes, roads, bridges and crops destroyed; disease (waterborne); power loss and economic cost; insurance claims. **Benefits:** fertile silt, water for irrigation.
+
+**Case study example:** Pakistan 2022: unusually heavy monsoon rain and glacier melt along the Indus caused floods affecting around 33 million people, with over 1,700 deaths and huge areas of farmland lost. Learn a case study you have been taught (e.g. Boscastle 2004 or Bangladesh, Mississippi, Somerset 2014) with causes, effects, management and figures.
+
+### River management
+
+| Hard engineering | How it works | Evaluation |
 |---|---|---|
-| **Moment magnitude scale (Mw)** | energy released by an earthquake (magnitude) | logarithmic: each whole number is about 32 times more energy; replaced the Richter scale |
-| **Mercalli scale** | intensity: effects on people and buildings | I to XII (Roman numerals); based on observation |
-| **Volcanic Explosivity Index (VEI)** | explosiveness of an eruption | 0 to 8, based on volume of material, plume height; logarithmic |
+| **Dams and reservoirs** | Store water and release it slowly | Expensive; flood land and villages; trap silt; provide HEP and water |
+| **Embankments (levees)** | Raise the channel height so it holds more water | Protect nearby land; can fail and cause worse floods downstream |
+| **Straightening channels** | Water is moved away faster | Moves flood risk downstream |
+| **Flood relief channels** | Divert water from the main channel | Expensive; need land |
 
-### Impacts
-
-| | Primary (immediate, caused directly) | Secondary (later, caused by primary effects) |
+| Soft engineering | How it works | Evaluation |
 |---|---|---|
-| **Earthquake** | buildings and bridges collapse, deaths and injuries, roads and pipes broken | fires from broken gas pipes, landslides, tsunamis, disease from lack of clean water, homelessness, loss of jobs |
-| **Volcano** | lava destroying property, pyroclastic flows, ash fall, deaths | lahars, flooding, flight disruption, loss of crops, respiratory problems, tourism lost |
+| **Afforestation** | Trees intercept rain and absorb water | Cheap, sustainable; slow to work |
+| **Flood zoning (land-use planning)** | Stops building on floodplain | Cheap; can limit development |
+| **Warning systems and evacuation plans** | Give people time to prepare | Cheap; does not protect property |
+| **Wetland and floodplain restoration** | Allows river to flood naturally | Natural and low-cost; needs land |
 
-**Why impacts differ between rich and poor countries:** richer countries have **earthquake-proof buildings**, better emergency services, hospitals, warning systems and insurance, so fewer deaths but often **higher economic cost**. Poorer countries have weaker buildings, less money, poorer roads and healthcare so more deaths and slower recovery. The size of the hazard, time of day, population density and distance from the epicentre also matter.
-
-### Why do people live in hazardous areas?
-
-- **Fertile volcanic soil** for farming.
-- Jobs and income: **tourism**, geothermal energy, mining (sulphur, minerals).
-- They have lived there for generations (family, culture) and cannot afford to move.
-- Cities were built there and have jobs and services.
-- Hazards are rare, and people believe warnings or defences will keep them safe. They may not realise the risk.
-
-### Managing the hazard (prediction, protection, planning)
-
-- **Volcanoes can be monitored:** seismometers detect small earthquakes before eruptions, gas and ground-swelling sensors, satellite data. This allows **evacuation** and exclusion zones.
-- **Earthquakes cannot be predicted accurately.** Management focuses on **preparation**: earthquake-resistant buildings (deep foundations, cross-bracing, rubber shock absorbers, flexible materials), land-use zoning, emergency kits, drills ("drop, cover, hold on"), emergency services training, early warning systems that give seconds of notice, and tsunami warnings.
-- **After the event:** short-term aid (search and rescue, food, water, medical care, shelter); long-term rebuilding, improved building codes and training.
-
-### Case studies
-
-Learn two (earthquake or volcano) from your course: one in a **developed** country (e.g. Japan 2011 Tohoku, Christchurch NZ 2011, L'Aquila Italy 2009) and one in a **developing/emerging** country (e.g. Nepal 2015, Haiti 2010, Nyiragongo DR Congo). For each, learn: date and magnitude (Mw) or VEI, plate boundary and cause, **primary and secondary impacts with numbers**, **short-term responses** and **long-term responses**, and how far management was **successful** (comparing rich and poor). For example, the April 2015 Nepal earthquake (Mw 7.8, collision boundary) killed about 9,000 people and destroyed several hundred thousand homes, and aid from other countries and NGOs was vital. Check numbers in your own notes.
+Hard methods **protect settlements immediately** but are costly and can damage the environment; soft methods are cheaper and **more sustainable** but may not stop major floods. Good management often uses both.
 
 ## Key terms and definitions
 
-| Term | Definition |
-|---|---|
-| Tectonic plate | A large slab of the Earth's crust that moves slowly over the mantle |
-| Subduction | When a denser oceanic plate sinks beneath a less dense plate at a destructive boundary |
-| Focus | The point underground where an earthquake starts |
-| Epicentre | The point on the Earth's surface directly above the focus |
-| Hotspot | A place in the middle of a plate where magma rises, forming volcanoes |
-| Tsunami | A giant wave caused by an earthquake, eruption or landslide under the sea |
-| Pyroclastic flow | A fast-moving cloud of hot gas, ash and rock from a volcano |
-| Primary impact | An immediate effect directly caused by the hazard |
-| Secondary impact | A later effect caused by the primary impact |
-| Magnitude | The amount of energy released by an earthquake (moment magnitude scale) |
-| Intensity | The effects of an earthquake on people and buildings (Mercalli scale) |
+- **Drainage basin:** the area of land drained by a river and its tributaries.
+- **Watershed:** the boundary of high land separating two drainage basins.
+- **Tributary:** a smaller stream or river that joins a larger one.
+- **Confluence:** the point where two rivers meet.
+- **Discharge:** the volume of water passing a point in a river each second (measured in cumecs).
+- **Hydraulic action:** the force of water on the river's banks and bed, which breaks up the rock.
+- **Abrasion:** the wearing away of the river bed and banks by the load the river carries.
+- **Attrition:** the wearing down of load particles as they collide, making them smaller and rounder.
+- **Floodplain:** the flat land on either side of a river that floods in high discharge.
+- **Levee:** a raised bank along a river formed by deposition during floods, or built by people as flood protection.
+- **Lag time:** the time between peak rainfall and peak discharge on a hydrograph.
 
 ## Worked examples
 
-**1. Explain why earthquakes occur at destructive plate boundaries. [4]**
-An oceanic plate moves towards a continental plate and is forced under it (subduction) (1). The plates stick together because of friction and pressure builds up (1). When the pressure exceeds the friction the plates suddenly jolt (1), releasing energy as seismic waves that shake the ground (1).
+**1. Explain how a waterfall is formed. [4]**
 
-**2. Give two reasons why people live near active volcanoes. [2]**
-Volcanic soils are very fertile, so good for farming (1). Volcanoes attract tourists, giving jobs and income / geothermal energy (1).
+River flows over hard rock above soft rock (1); the soft rock is eroded faster by hydraulic action and abrasion (1); an overhang forms and eventually collapses, and a plunge pool is eroded below (1); the waterfall retreats upstream, creating a gorge (1). A labelled sketch is credited.
 
-**3. Compare the impacts of an earthquake in a developed and a developing country you have studied. [6]**
-Use paired comparisons with numbers: deaths and injuries (more in the developing country because of poor buildings) (1–2), economic costs (higher in total in the developed country but lower as % of GDP) (1–2), speed of response and recovery (faster in the developed country, with better services and insurance) (1–2), and the role of aid. Add a conclusion about why: wealth, preparedness, building quality (1).
+**2. Describe what the hydrograph shows. [3]**
+
+Use figures: "Rainfall peaks at 10:00, but discharge peaks at 14:00, so the **lag time** is four hours (1); discharge rises from 5 to 40 cumecs (1); then falls gradually (1)". Always quote units and times.
+
+**3. Explain why urbanisation can increase the risk of flooding. [3]**
+
+Tarmac and concrete are **impermeable** so there is less infiltration (1); water runs off quickly along drains and gutters into rivers (1); this shortens lag time and increases peak discharge, which can overflow (1).
+
+**4. For a named river, assess the success of flood management. [7]**
+
+Name the river; give causes of flooding; describe hard and soft strategies, e.g. dams, embankments, afforestation, flood warnings; evaluate their costs and benefits; decide how successful it is, and why. Include figures (cost, length, number protected).
 
 ## Common mistakes
 
-- Confusing **focus** and **epicentre**.
-- Saying plates "collide and crack". Say what happens: friction, pressure builds up, plates jolt, energy released as seismic waves.
-- Saying volcanoes happen at conservative boundaries. They do not; only earthquakes do.
-- Mixing up magnitude (energy, moment magnitude scale) and intensity (damage, Mercalli).
-- Listing impacts without separating **primary** and **secondary**.
-- Saying "poor countries have more damage". Poor countries have more **deaths** and slower recovery; rich countries often have higher **economic cost**.
-- Saying earthquakes can be predicted. They cannot; volcanoes can be monitored.
+- Confusing **erosion** processes with **transport** processes. Attrition is erosion of the load itself; saltation is transport.
+- Saying meanders form by erosion only. There is **erosion on the outside** and **deposition on the inside**.
+- Forgetting to mention **hard and soft rock** in a waterfall answer.
+- Mixing up **lag time** and **peak discharge**; lag time is a time, not a flow.
+- Saying "afforestation stops floods": it **reduces** risk.
+- Describing management with no **evaluation** (cost, effects, sustainability) or named place.
+- Labelling the watershed as a river feature. It is high ground between basins.
 
 ## Practice questions
 
-1. Name the plate boundary where two plates move apart. [1]
-2. Which scale measures the explosiveness of a volcano? A Mercalli B moment magnitude C VEI D Saffir-Simpson [1]
-3. State the difference between the focus and the epicentre. [2]
-4. Describe the global distribution of earthquakes and volcanoes. [3]
-5. Explain how a tsunami is caused by an earthquake. [3]
-6. Give two reasons why earthquakes cause more deaths in developing countries than in developed countries. [2]
-7. Explain two ways in which buildings can be designed to reduce earthquake damage. [4]
-8. Explain why it is easier to monitor volcanoes than to predict earthquakes, and why people still live close to volcanoes. [6]
+1. Define the term **watershed**. [1]
+2. Name the process in which the river's load is bounced along the bed. [1]
+3. Describe how the long profile of a river changes from source to mouth. [3]
+4. Explain how a meander develops. [4]
+5. Explain two human causes of flooding. [4]
+6. Describe how a flood hydrograph for an urban river would look different from one for a forested basin. [3]
+7. Explain one advantage and one disadvantage of building a dam. [4]
+8. For a named river or flood event, assess how successfully flooding is managed. [7]
 
 <details><summary>Answers</summary>
 
-1. Constructive (divergent).
-2. C.
-3. Focus: the point underground where the earthquake starts (1). Epicentre: the point on the surface directly above the focus (1).
-4. They occur in narrow belts (1) along plate boundaries (1), e.g. the Pacific Ring of Fire; few occur in the middle of plates (1).
-5. An earthquake under the sea suddenly moves the sea floor (1), displacing a large volume of water (1). The wave travels across the ocean and grows as it reaches shallow coastal water (1).
-6. Buildings are less well built / not earthquake-proof (1); less money for emergency services, hospitals and warning systems (1). Also acceptable: higher population density in poor housing.
-7. Rubber shock absorbers / flexible foundations allow the building to move without collapsing (2); cross-bracing and strong materials hold the frame together (2). Also: automatic shut-off valves for gas.
-8. Volcanoes give warning signs (small earthquakes, gas emissions, ground swelling) that can be measured (1–2); earthquakes give no reliable warning because the stress build-up cannot be measured precisely (1). People live nearby for fertile soil (1), tourism and jobs (1), geothermal energy, and because they have family and homes there and cannot afford to move (1). The risk is rare and they trust warnings (1).
+1. The area of high land that separates one drainage basin from another. [1]
+2. Saltation. [1]
+3. Gradient becomes gentler (1); channel gets wider and deeper/discharge increases (1); load becomes smaller and more rounded (1). [3]
+4. Water flows faster on the outside of the bend, causing erosion and a river cliff (2); slower on the inside, causing deposition and a slip-off slope (2). [4]
+5. Deforestation reduces interception so more water reaches the river (2); urbanisation covers land with impermeable surfaces so water runs off quickly (2). [4]
+6. Urban: short lag time and a steep rising limb (1) and a high peak (1); forested: longer lag time, lower and flatter peak because trees intercept water (1). [3]
+7. Advantage: stores water and reduces flood risk or provides HEP/water supply (2). Disadvantage: very expensive/floods land and homes upstream/traps silt (2). [4]
+8. Named river/event; causes; management strategies with data; evaluation of success (costs, benefits, limits); overall judgement. [7]
 
 </details>
 
 ## Plan for this hour
 
-- 10 min: Learn the Earth's structure, plates and the four boundary types (draw each with arrows).
-- 10 min: Learn measurement scales and hazards: focus and epicentre, tsunamis, volcano types.
-- 10 min: Learn primary vs secondary impacts, reasons people live there, and management methods.
-- 20 min: Prepare your two case studies on cards, with figures. Practise a 6-mark compare question.
-- 10 min: Practice questions and the quiz.
+- 10 min: Drainage basin terms and river processes (make a table from memory).
+- 15 min: Landforms: sketch and annotate waterfall, meander/oxbow, levee and delta; questions 1–4.
+- 15 min: Flooding causes and hydrographs; hard and soft management; questions 5–7.
+- 10 min: Learn a case study with dates and figures; plan question 8.
+- 10 min: Write question 8, then quiz and flashcards.

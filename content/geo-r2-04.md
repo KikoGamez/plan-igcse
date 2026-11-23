@@ -1,61 +1,66 @@
-# Mark both papers and weak topics
+# Past paper · Paper 4 Alternative to Coursework
 
-> **Goal:** Mark your Paper 1 and Paper 2 with the official mark schemes, find exactly where you lost marks, and turn the weak topics and case studies into a short fix list for your next revision hours.
+> **Goal:** Do a real Cambridge IGCSE Geography **Paper 4 Alternative to Coursework** question on fieldwork under timed conditions, then mark it and fix the weaknesses in how you plan, collect, present, analyse and evaluate an enquiry.
 
 ## Before you start
 
-- **Have ready:** your completed **Paper 1** (4GE1/01) and **Paper 2** (4GE1/02), with the question papers and Resource Booklets; the **official mark schemes** for the same series from the Pearson Qualifications website (same page as the question papers; the examiner's report is also useful if it is available); a **red pen** and a highlighter; a sheet or notebook page for an error log; your case-study notes.
-- **Timer:** 60 minutes: about 25 minutes for Paper 1 (70 marks), 30 minutes for Paper 2 (105 marks) and 5 minutes for the error log. Do not rewrite answers yet.
-- **Rule:** mark honestly, in red, with no extra credit for things you "meant". If it is not on the page it does not score.
+- **Paper:** Cambridge IGCSE Geography (0460) **Paper 4: Alternative to Coursework**. Use a real past paper, for example **May/June 2025 Paper 42 (0460/42)** or **October/November 2024 Paper 42**, or another variant (41, 42, 43) from your teacher or the Cambridge Schools Support Hub. Print the question paper (and any Insert). Check with your teacher whether your school is sitting Paper 3 coursework or Paper 4 in the real exam; the skills here help either way.
+- **Equipment:** black pen, pencil, ruler, calculator, coloured pencils, eraser, timer.
+- **Timer:** the full paper is **1 h 30 min, 60 marks**, about 1.5 minutes per mark. Today do **one full fieldwork question (about 30 marks) in 45 minutes**. Choose one you have not seen and which matches a topic you studied (river, coastal, urban, rural or weather).
+- **Before you start:** read the **investigation title and hypothesis** and look at **all the figures** before answering.
 
 ## Exam format reminder
 
-- **Paper 1: 70 marks** (Section A two of three topics, 25 each; Section B one fieldwork question, 20). **Paper 2: 105 marks** (Section A two of three, 25 each; Section B one fieldwork question, 20; Section C one of three, 35). Both are 40% and 60% of the qualification.
-- **Assessment objectives:** AO1 knowledge (locations, places, processes), AO2 understanding (concepts and links), AO3 applying knowledge to analyse and evaluate information, AO4 using skills and techniques (graphs, calculations, fieldwork). Most marks across both papers are AO3 and AO4, so using the resource and showing skills matters.
-- Mark schemes: short items are **point marked** (1 mark per valid point, sometimes with a "development" mark). The 6-, 8- and 12-mark questions are **levels marked**: the marker finds the best-fit level from the quality of knowledge, understanding, use of the resource and (for the 12-marker) the judgement.
+- **Paper 4: 1 hour 30 minutes, 60 marks, about 27.5%.** Answer **all** questions.
+- It is made of **fieldwork enquiries** in unfamiliar places: students investigate a question (e.g. how river channel changes downstream, or how coastal defences affect a beach; or how tourism affects a place), and you answer questions about the **enquiry stages**.
+- Typical parts: **aims and hypotheses**; **data collection** methods and equipment (why, how, sampling); **presenting data** (completing graphs, a map, a table); **describing and analysing** results (trend, figures, anomalies); **conclusion** (does the data support the hypothesis?); **evaluation** (reliability, limitations, improvements); **safety/risk**; sometimes questionnaires or secondary data.
+- The longer answers (4–6 marks) need **developed** explanations using figures.
 
 ## How to do it
 
-1. **0–25 min – Mark Paper 1.**
-   - Mark question by question. Write the marks beside each part and the total at the end of each question.
-   - For each lost mark write **one reason** in the margin: K (did not know), V (too vague / no development), R (did not use the resource), N (no named example), C (calculation error or missing working), T (ran out of time), M (misread the question or command word).
-   - For 8-mark answers: read the indicative content and the level descriptors; decide the level, then list which points you missed.
-2. **25–55 min – Mark Paper 2.** Same method. Pay extra attention to the case-study questions ("for a named...") and the 12-mark "Discuss the view": did you give both sides, use both figures and write a conclusion?
-3. **55–58 min – Add up**: Section A, B and C marks, totals and percentages. Convert each to a percentage; grade boundaries vary by series, so check the Pearson grade boundaries page for the series you used.
-4. **58–60 min – Fix list:** write the **three** topics with most lost marks and the **top three error types** (e.g. "no named example, 8 marks lost"). That list is your next revision plan.
+1. **0–3 min:** Read the introduction and the title. Underline the **hypothesis** and the **sites**. Look at the data tables and figures.
+2. **3–25 min:** Start with the **data collection and presentation** parts: explain methods, equipment, sampling and complete any graph or calculation.
+3. **25–40 min:** **Describe and analyse** the results with figures; then write the **conclusion** (answer the hypothesis with evidence) and the **evaluation**.
+4. **40–45 min:** Check each part has an answer, with units on calculations.
+5. **45–60 min: Mark** with the mark scheme: tick the mark points, write the missing points in colour, add the total out of the marks attempted.
+6. **Error log:** note which stage lost marks: methods, sampling, graph skills, description, conclusion, evaluation or safety.
 
 ## Exam technique for this paper
 
-Use what the marking taught you:
-- **K errors**: make flashcards for the missing facts (definitions, processes, hazard types).
-- **V errors**: rewrite two vague answers using "because / so / which means".
-- **R errors**: in every "Study Figure" question, quote two data points before you explain.
-- **N errors**: prepare a one-page case-study sheet for each: Paper 1: river management (developed and developing/emerging), coastal management (two countries), earthquake management (developed and developing/emerging). Paper 2: sector shift (developed and developing/emerging), informal employment in a megacity, energy resource management (two countries), urban strategies (named developed and named developing/emerging city), rural change, plus examples for Section C.
-- **C errors**: redo the calculations from memory; percentage change = change ÷ original × 100; range = highest − lowest.
-- **T errors**: decide which questions to shorten (the MCQs and short answers should take under 40% of the time) and practise the 8-mark answers in 9 minutes.
-- **M errors**: underline command words (identify, explain, suggest, analyse, evaluate, assess, discuss) before you answer.
-- **Case-study checklist:** each should have a **name**, **location**, 3 facts with **numbers**, 2 causes, 2 impacts or effects (social, economic, environmental), 2 responses, an evaluation of how well it worked.
+- **Methods:** say **what you measure**, **how** (equipment and steps), **where/how often** (sites, repeats) and **why** (what it shows). Example: "Use a ruler to measure the depth at 5 points across the channel and calculate the mean, because depth varies across the river."
+- **Sampling:** name the method (**random, systematic, stratified**) and a reason; mention **sample size**.
+- **Graphs:** use the correct type (line for change over distance/time, bar for categories, scatter for relationship); label axes with units; plot accurately.
+- **Describe results:** **trend, figures, anomalies**; compare sites.
+- **Conclusion:** begin with "The data **supports / partly supports / does not support** the hypothesis because …" and quote figures.
+- **Evaluation:** give a **limitation** and why it matters, then an **improvement**. Use words like **reliability, accuracy, bias, anomalous result**.
+- **Safety:** name the hazard (fast water, tides, traffic) and a precaution.
+- **Questionnaire:** short, clear, unbiased; closed questions for easy analysis; sample different ages.
+- Link back to **geographical theory** (e.g. why velocity increases downstream).
 
 ## Checklist while marking
 
-- Marks for Paper 1: Section A (/50) ____ ; Section B (/20) ____ ; total (/70) ____.
-- Marks for Paper 2: Section A (/50) ____ ; Section B (/20) ____ ; Section C (/35) ____ ; total (/105) ____.
-- Did you lose most marks on 8-mark or 12-mark answers? Identify the missing level criteria.
-- Did you choose the strongest questions? If a different question would have scored more, note why.
-- Did you give a **named** case study in every "named" question?
-- Did you use the resource, with data, in every figure question?
-- Check the 1-mark items: wrong MCQs usually mean a definition gap; list the terms.
-- Write the three weakest topics: ______ ______ ______.
-- Write the top three error types: ______ ______ ______.
-- Add each missed fact to a flashcard list or to the app's quiz topics, and revisit within 48 hours.
+- Did I give a **clear hypothesis-based** answer, using the exact wording?
+- **Methods:** equipment, steps, repeats, reason.
+- **Sampling:** method named, why it avoids bias.
+- **Graph:** correct type, scale, plots exact, labelled, joined or drawn properly.
+- **Description:** trend + figures + anomaly.
+- **Conclusion:** supports or not, **with evidence**.
+- **Evaluation:** limitation + effect + improvement.
+- **Calculations:** working and units.
+- Which **stage** lost most marks? Practise that stage next.
+- Rewrite your weakest answer using the mark scheme.
 
 ## Quick-fire revision
 
-- Paper 1 key topics: drainage basin and river processes; river landforms; flooding and management; coastal erosion, transport and deposition; coastal landforms; mangroves, coral reefs, salt marshes; coastal management; earthquakes, volcanoes, tropical cyclones; measuring hazards; fieldwork.
-- Paper 2 key topics: sectors and Clark-Fisher; informal employment; Malthus/Boserup; energy sources and management; biomes and farming; rural change; urbanisation, land use, squatter settlements, sustainable cities; fieldwork; fragile environments and climate change; globalisation and migration; development and human welfare.
-- Explain = reason with "because"; Analyse = break down and use the resource; Evaluate/Assess/Discuss = both sides and a conclusion.
-- 4-mark "explain two": two points, each developed. 8-mark: a plan of 3–4 developed points with data. 12-mark: for, against, conclusion.
-- Calculate: write formula and working, add units.
-- Fieldwork: title, sampling, equipment, risk, accuracy; evaluate with strengths, weaknesses and improvement.
-- A quick way to learn from errors: redo, from memory, the one 4-mark and one 8-mark answer you did worst, then check against the mark scheme.
-- Keep your error log to hand: it is the best revision list you have for the mocks.
+- **Enquiry stages:** question/hypothesis → methods → sampling → presentation → analysis → conclusion → evaluation.
+- **Primary** data = collected by you; **secondary** = from other sources.
+- **River methods:** width (tape), depth (ruler), velocity (float timed over a set distance or flow meter), gradient (clinometer), bedload (measure long axis).
+- **Coast methods:** beach profile with ranging poles and clinometer; pebble size and shape; longshore drift measures.
+- **Urban methods:** pedestrian counts, land-use survey, environmental quality survey, questionnaire.
+- **Sampling:** random, systematic (every nth), stratified (groups in proportion).
+- **Reliability:** repeat readings, calculate a mean, more sites, larger sample.
+- **Anomaly:** a result that does not fit the pattern; try to explain it.
+- **Scatter graph:** line of best fit; correlation.
+- **Risk assessment:** hazard + precaution (life jackets, pairs, tide times, high-vis).
+- **Conclusion** must refer to the **hypothesis** and **data**.
+- Limit: "small sample", "one day only", "measurement error", "weather".

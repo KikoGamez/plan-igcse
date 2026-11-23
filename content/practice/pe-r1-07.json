@@ -2,68 +2,68 @@
  "id": "pe-r1-07",
  "cards": [
   {
-   "f": "SPORT (principles of training)",
-   "b": "Specificity, Progressive overload, Reversibility, Tedium."
+   "f": "SPORT",
+   "b": "Specificity, Progression, Overload, Reversibility, Tedium."
   },
   {
    "f": "Specificity",
-   "b": "Training matched to the activity, muscles and fitness component needed. A sprinter does sprints."
+   "b": "Training must match the demands of the activity and the fitness component to improve."
   },
   {
-   "f": "Progressive overload",
-   "b": "Gradually increasing the work so the body keeps adapting."
+   "f": "Progression",
+   "b": "Gradually increasing the workload so the body keeps adapting."
+  },
+  {
+   "f": "Overload",
+   "b": "Working harder than normal so the body adapts."
   },
   {
    "f": "Reversibility",
-   "b": "Fitness gained is lost when training stops or is reduced."
+   "b": "Fitness gained is lost when training stops or reduces."
   },
   {
    "f": "Tedium",
-   "b": "Boredom from repeating the same training, which lowers motivation."
+   "b": "Boredom from repetitive training, lowering motivation."
   },
   {
    "f": "FITT",
-   "b": "Frequency (how often), Intensity (how hard), Time (how long), Type (kind of training)."
+   "b": "Frequency, Intensity, Time, Type: ways to apply overload."
+  },
+  {
+   "f": "Overtraining",
+   "b": "Too much training with too little rest: injury, illness, lower performance."
   },
   {
    "f": "Maximum heart rate",
-   "b": "220 − age, in beats per minute."
+   "b": "220 minus age."
   },
   {
    "f": "Aerobic training zone",
-   "b": "About 60–80% of max heart rate. Improves cardiovascular endurance."
+   "b": "60–80% of maximum heart rate."
   },
   {
-   "f": "Anaerobic training zone",
-   "b": "About 80–90% of max heart rate. Improves speed, power and lactic acid tolerance."
-  },
-  {
-   "f": "Continuous training",
-   "b": "Steady pace without rest for 20+ minutes. Improves cardiovascular endurance."
-  },
-  {
-   "f": "Fartlek training",
-   "b": "Continuous running with unplanned changes of speed and terrain. Trains aerobic and anaerobic fitness."
-  },
-  {
-   "f": "Interval training",
-   "b": "Work periods alternating with rest periods. Improves speed and anaerobic capacity."
-  },
-  {
-   "f": "Circuit training",
-   "b": "A series of stations done in order with rest between. Improves muscular endurance and strength."
+   "f": "Fartlek",
+   "b": "Continuous running with changes of speed and terrain."
   },
   {
    "f": "Plyometric training",
-   "b": "Explosive jumping and bounding to develop power. Risk of injury to joints."
+   "b": "Explosive jumps such as depth jumps and hurdle jumps; improves power."
   },
   {
-   "f": "Weight training for strength",
-   "b": "Heavy weights, few reps (about 1–6), 3–5 sets."
+   "f": "Circuit training",
+   "b": "Series of stations each targeting a fitness component or muscle group."
   },
   {
-   "f": "PNF stretching",
-   "b": "Stretch, contract the muscle against a partner’s resistance, then stretch further. Improves flexibility."
+   "f": "HIIT",
+   "b": "High-intensity work intervals with rest or low intensity periods; rest removes waste products."
+  },
+  {
+   "f": "1 rep max",
+   "b": "Heaviest weight that can be lifted once; used to set weight training intensity."
+  },
+  {
+   "f": "High-altitude training",
+   "b": "Makes more red blood cells, helping endurance; hard to train at normal intensity."
   }
  ],
  "gaps": [
@@ -74,90 +74,90 @@
    ]
   },
   {
-   "s": "The principle that fitness is lost when you stop training is ___.",
+   "s": "The F in FITT stands for ___.",
+   "a": [
+    "frequency"
+   ]
+  },
+  {
+   "s": "Maximum heart rate is estimated as 220 minus your ___.",
+   "a": [
+    "age"
+   ]
+  },
+  {
+   "s": "Continuous training is done at 60 to 80 per cent of maximum ___ rate.",
+   "a": [
+    "heart",
+    "heart rate"
+   ]
+  },
+  {
+   "s": "Losing fitness when training stops is called ___.",
    "a": [
     "reversibility"
    ]
   },
   {
-   "s": "Maximum heart rate is estimated as 220 minus ___.",
-   "a": [
-    "age",
-    "your age"
-   ]
-  },
-  {
-   "s": "In FITT, the letter I stands for ___.",
-   "a": [
-    "intensity"
-   ]
-  },
-  {
-   "s": "A group of repetitions is called a ___.",
-   "a": [
-    "set"
-   ]
-  },
-  {
-   "s": "Training that uses box jumps to develop power is called ___ training.",
+   "s": "Depth jumps are an example of ___ training.",
    "a": [
     "plyometric",
     "plyometrics"
    ]
   },
   {
-   "s": "Running with unplanned changes of speed is ___ training.",
+   "s": "The ___ scale is used to rate how hard you feel you are working in fartlek training.",
    "a": [
-    "fartlek"
+    "borg"
    ]
   },
   {
-   "s": "Working harder than normal to force the body to adapt is called ___.",
+   "s": "Training too much without enough rest is called ___.",
    "a": [
-    "overload"
+    "overtraining",
+    "over-training"
    ]
   }
  ],
  "short": [
   {
-   "q": "Calculate 70% of the maximum heart rate for a 14-year-old.",
-   "model": "Max HR = 220 − 14 = 206; 206 × 0.7 = 144.2, so about 144 bpm.",
+   "q": "Describe how a footballer could apply overload using FITT.",
+   "model": "Increase frequency (e.g. 3 to 4 sessions), intensity (higher heart rate), time (longer sessions) or change type of training.",
    "points": [
-    "max HR 206",
-    "× 0.7 = 144 bpm"
+    "at least two FITT components",
+    "specific change given"
    ]
   },
   {
-   "q": "Explain how progressive overload could be applied to a weight-training programme.",
-   "model": "Gradually increase the weight, reps or sets over the weeks. This keeps challenging the muscles so strength keeps improving.",
+   "q": "Calculate the 60–80% heart-rate zone for a 16-year-old.",
+   "model": "MHR = 204; 60% = 122 bpm and 80% = 163 bpm.",
    "points": [
-    "increase weight/reps/sets gradually",
-    "body keeps adapting"
+    "220 − 16 = 204",
+    "122 and 163 bpm"
    ]
   },
   {
-   "q": "Give one advantage and one disadvantage of circuit training.",
-   "model": "Advantage: many people can train at once and stations can suit the sport. Disadvantage: needs space and equipment, and technique can slip when tired.",
+   "q": "Give one advantage and one disadvantage of fartlek training.",
+   "model": "Advantage: varied so less boring, no equipment. Disadvantage: hard to measure intensity, easy to go easy on yourself.",
    "points": [
     "valid advantage",
     "valid disadvantage"
    ]
   },
   {
-   "q": "Which training method is best for a sprinter wanting to improve speed, and why?",
-   "model": "Interval training, with short fast sprints and rest. It is specific to sprinting and trains the anaerobic system.",
+   "q": "Explain why a volleyball player would use plyometric training.",
+   "model": "It improves power by training explosive jumps, which helps the player jump higher to spike or block.",
    "points": [
-    "interval training",
-    "specific / anaerobic"
+    "improves power",
+    "links to jumping in volleyball"
    ]
   },
   {
-   "q": "Describe the three seasons of training and what happens in each.",
-   "model": "Pre-season builds a fitness base and sport-specific fitness. Competition season maintains fitness and sharpens skills. Off-season gives active rest and recovery from injury.",
+   "q": "Explain one disadvantage of high-altitude training.",
+   "model": "It is hard to train at normal intensity because there is less oxygen, or the benefits are lost quickly (reversibility).",
    "points": [
-    "pre-season build fitness",
-    "competition maintain",
-    "off-season rest/recover"
+    "valid disadvantage",
+    "explanation"
    ]
   }
  ]

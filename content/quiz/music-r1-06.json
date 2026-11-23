@@ -3,47 +3,47 @@
  "questions": [
   {
    "type": "mcq",
-   "q": "Which woodwind instrument has a single reed?",
+   "q": "Which technique is the plucking of a string on a violin?",
    "options": [
-    "Oboe",
-    "Bassoon",
-    "Clarinet",
-    "Cor anglais"
-   ],
-   "answer": 2,
-   "why": "The clarinet has a single reed; the others are double reed."
-  },
-  {
-   "type": "mcq",
-   "q": "Pizzicato means",
-   "options": [
-    "played with the bow",
-    "plucked",
-    "played very quietly",
-    "muted"
+    "Arco",
+    "Pizzicato",
+    "Tremolo",
+    "Glissando"
    ],
    "answer": 1,
-   "why": "Pizzicato is plucking the strings."
+   "why": "Pizzicato means plucked; arco means bowed."
   },
   {
    "type": "mcq",
-   "q": "Recording parts separately and layering them is",
+   "q": "Which instrument is the bandoneón?",
    "options": [
-    "sampling",
-    "panning",
-    "multi-tracking",
-    "tremolo"
+    "A button accordion used in tango",
+    "A bamboo flute",
+    "A drone lute",
+    "A pair of drums"
+   ],
+   "answer": 0,
+   "why": "The bandoneón is a button accordion typical of the tango orquesta típica."
+  },
+  {
+   "type": "mcq",
+   "q": "Which term describes many notes sung to one syllable?",
+   "options": [
+    "Syllabic",
+    "Word-painting",
+    "Melisma",
+    "Unison"
    ],
    "answer": 2,
-   "why": "Multi-tracking layers separately recorded parts."
+   "why": "A melisma is several notes on one syllable; syllabic is one note per syllable."
   },
   {
    "type": "short",
-   "q": "Name two techniques for string instruments and say what they are.",
-   "model": "Pizzicato is plucking; tremolo is very fast repeated bow strokes.",
+   "q": "Describe two differences between the harpsichord and the piano.",
+   "model": "The harpsichord's strings are plucked, giving a bright metallic tone, and it cannot change volume by touch, so dynamics are terraced; the piano's strings are struck by hammers and can play louder or softer.",
    "points": [
-    "pizzicato plucking",
-    "tremolo or other technique explained"
+    "plucked vs hammered",
+    "dynamics fixed/terraced vs controllable"
    ]
   }
  ]

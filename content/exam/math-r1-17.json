@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-17",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The point A is (−2, 3).\n(a) Write down the coordinates of the image of A after a reflection in the x-axis. [1]\n(b) Write down the coordinates of the image of A after a translation by the vector (5 over −1). [1]",
+      "ms": [
+        "(a) B1: (−2, −3)",
+        "(b) B1: (3, 2)"
+      ],
+      "model": "(a) Reflecting in the x-axis changes the sign of the y-coordinate: (−2, −3).\n(b) (−2 + 5, 3 − 1) = (3, 2).",
+      "tip": "The top number of a column vector moves you horizontally, the bottom number vertically."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Triangle P has vertices (1, 1), (3, 1) and (1, 2).\nTriangle Q has vertices (1, −1), (3, −1) and (1, −2).\nDescribe fully the single transformation that maps triangle P onto triangle Q.",
+      "ms": [
+        "B1: reflection",
+        "B1: in the x-axis (or y = 0)"
+      ],
+      "model": "Reflection in the x-axis (the line y = 0).",
+      "tip": "'Reflected in the x-axis' needs both the word reflection and the mirror line."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Triangle A has vertices (2, 1), (4, 1) and (4, 4).\n(a) Triangle A is rotated 90° anticlockwise about the point (1, 0). Find the coordinates of the vertices of the image. [2]\n(b) Triangle A is enlarged by scale factor ½, centre (0, 1). Find the coordinates of the vertices of the image. [2]",
+      "ms": [
+        "(a) B1: two correct vertices, or a correct 90° anticlockwise rotation about a different centre",
+        "(a) B1: all three correct: (0, 1), (0, 3), (−3, 3)",
+        "(b) B1: two correct vertices",
+        "(b) B1: all three correct: (1, 1), (2, 1), (2, 2.5)"
+      ],
+      "model": "(a) Relative to (1, 0) the vertices are (1, 1), (3, 1), (3, 4).\nRotating 90° anticlockwise: (x, y) → (−y, x) gives (−1, 1), (−1, 3), (−4, 3).\nAdd the centre back: (0, 1), (0, 3), (−3, 3).\n(b) Relative to (0, 1): (2, 0), (4, 0), (4, 3). Halve: (1, 0), (2, 0), (2, 1.5).\nAdd the centre back: (1, 1), (2, 1), (2, 2.5).",
+      "tip": "Work relative to the centre: subtract it, transform, then add it back."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Triangle P has vertices (2, 2), (4, 2) and (2, 6).\nTriangle Q has vertices (−1, −1), (−2, −1) and (−1, −3).\n(a) Describe fully the single transformation that maps triangle P onto triangle Q. [3]\n(b) The area of triangle P is 4 square units. Find the area of triangle Q. [1]",
+      "ms": [
+        "(a) B1: enlargement",
+        "(a) B1: scale factor −½",
+        "(a) B1: centre (0, 0)",
+        "(b) B1: 1 square unit"
+      ],
+      "model": "(a) Each vertex of Q is −½ times the corresponding vertex of P, e.g. (2, 2) → (−1, −1) and (4, 2) → (−2, −1).\nEnlargement, scale factor −½, centre (0, 0).\n(b) Area factor = (−½)² = ¼, so the area of Q = 4 × ¼ = 1 square unit.",
+      "tip": "If the image is smaller and on the opposite side of the centre (upside down), the scale factor is a negative fraction."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Shape S has vertices (1, 2), (3, 2) and (3, 3).\n(a) Reflect shape S in the line y = x. Label the image T and write down its vertices. [2]\n(b) Rotate shape T through 90° clockwise about the origin. Label the image U and write down its vertices. [2]\n(c) Describe fully the single transformation that maps shape S onto shape U. [2]",
+      "ms": [
+        "(a) B1: two correct vertices of T",
+        "(a) B1: T = (2, 1), (2, 3), (3, 3)",
+        "(b) B1: two correct vertices of U FT their T",
+        "(b) B1: U = (1, −2), (3, −2), (3, −3)",
+        "(c) B1: reflection",
+        "(c) B1: in the x-axis (y = 0)"
+      ],
+      "model": "(a) Reflection in y = x swaps the coordinates: T = (2, 1), (2, 3), (3, 3).\n(b) 90° clockwise about the origin: (x, y) → (y, −x).\nU = (1, −2), (3, −2), (3, −3).\n(c) S (1, 2) → U (1, −2), (3, 2) → (3, −2), (3, 3) → (3, −3): only the sign of y changes.\nReflection in the x-axis.",
+      "tip": "A combination of two transformations still needs a single transformation as the answer: 'reflection then rotation' scores 0."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Triangle A has vertices (1, 1), (3, 1) and (1, 4).\nTriangle B has vertices (3, 1), (3, −1) and (6, 1).\n(a) Describe fully the single transformation that maps triangle A onto triangle B. [3]\n(b) Describe fully the single transformation that maps triangle B onto triangle A. [1]\n(c) Triangle B is enlarged by scale factor 2, centre (3, 1). Find the coordinates of the vertices of the image. [2]",
+      "ms": [
+        "(a) B1: rotation",
+        "(a) B1: 90° clockwise (or 270° anticlockwise)",
+        "(a) B1: centre (2, 0)",
+        "(b) B1: rotation 90° anticlockwise about (2, 0) FT their (a)",
+        "(c) B1: two correct vertices",
+        "(c) B1: all three correct: (3, 1), (3, −3), (9, 1)"
+      ],
+      "model": "(a) The 3-unit side from (1, 1) up to (1, 4) maps to the side from (3, 1) right to (6, 1), so the turn is 90° clockwise.\nThe centre is equidistant from each point and its image: (2, 0) works, e.g. (1, 1) is (−1, 1) from (2, 0) and (3, 1) is (1, 1) from (2, 0).\nRotation, 90° clockwise, centre (2, 0).\n(b) Rotation, 90° anticlockwise, centre (2, 0).\n(c) Relative to (3, 1): (0, 0), (0, −2), (3, 0). Double: (0, 0), (0, −4), (6, 0).\nAdd the centre back: (3, 1), (3, −3), (9, 1).",
+      "tip": "Check your centre with every vertex: rotating each one about it must give the image."
+    }
+  ]
+}

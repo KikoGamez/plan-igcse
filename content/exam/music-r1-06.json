@@ -1,0 +1,81 @@
+{
+ "id": "music-r1-06",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the lowest-pitched standard instrument in each orchestral family:\n(a) brass\n(b) strings (bowed)",
+   "ms": [
+    "(a) tuba",
+    "(b) double bass"
+   ],
+   "model": "(a) tuba (b) double bass"
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "What does each instruction or technique mean for a string player?\n(a) arco (after a pizzicato passage)\n(b) double stopping\n(c) tremolo",
+   "ms": [
+    "(a) return to playing with the bow",
+    "(b) playing two strings at the same time",
+    "(c) very fast repeated bow strokes on a note, giving a shimmering/trembling effect"
+   ],
+   "model": "(a) Play with the bow again. (b) Play two strings at once. (c) Very rapid repeated bow strokes that make a shimmering sound."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the voice type or vocal term described.\n(a) the highest female voice\n(b) the lowest male voice\n(c) the male voice between tenor and bass\n(d) a male singer producing very high notes above his normal range, with a light, thin tone",
+   "ms": [
+    "(a) soprano",
+    "(b) bass",
+    "(c) baritone",
+    "(d) falsetto"
+   ],
+   "model": "(a) soprano (b) bass (c) baritone (d) falsetto"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the ensemble.\n(a) two violins, viola and cello\n(b) violin, cello and piano\n(c) piano, oboe, clarinet, horn and bassoon (as in Mozart's K. 452)\n(d) bandoneón, violins, piano and double bass playing tango",
+   "ms": [
+    "(a) string quartet",
+    "(b) piano trio",
+    "(c) (piano and wind) quintet",
+    "(d) orquesta típica"
+   ],
+   "model": "(a) string quartet (b) piano trio (c) quintet for piano and wind (d) orquesta típica"
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain the meaning of each music-technology term and its effect on the sound.\n(a) reverb\n(b) multi-tracking\n(c) sample",
+   "ms": [
+    "(a) meaning: an effect that adds the ambience of a room or hall",
+    "(a) effect: the sound seems more spacious, fuller or further away",
+    "(b) meaning: recording separate parts on different tracks and mixing them together",
+    "(b) effect: allows layering of many parts (one performer can play several), with separate control of each part's balance",
+    "(c) meaning: a short recorded sound reused in a track",
+    "(c) effect/use: can be looped, pitched or triggered, e.g. a vocal or drum sample repeated as a loop in EDM"
+   ],
+   "model": "(a) Reverb adds the echo-like ambience of a room or hall, so the sound seems more spacious. (b) Multi-tracking records each part on its own track and then mixes them, so many layers can be built up and balanced separately. (c) A sample is a short recording of a sound reused in a new track, often looped or triggered as a pattern.",
+   "tip": "Delay is a clear repeat of a sound after a gap; reverb is a blurred room ambience."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A composer is writing music for a film scene: a calm, moonlit lake that turns into a violent storm. Suggest how the instruments and playing techniques could change between the two parts of the scene.",
+   "ms": [
+    "Calm: muted strings (con sordino) / soft sustained strings",
+    "Calm: flute or harp with a gentle, legato melody or arpeggios",
+    "Calm: pianissimo, thin texture, slow tempo",
+    "Storm: string tremolo for tension / rushing scales",
+    "Storm: loud brass (low trombones, horns) and timpani rolls / cymbal crashes",
+    "Storm: fortissimo tutti, dense texture, dissonance, faster tempo / ostinato",
+    "Credit any other appropriate instrument + technique + effect; max 3 for one section only"
+   ],
+   "model": "For the lake I would use muted strings holding soft chords, with a flute playing a slow legato melody over harp arpeggios, all pianissimo and in a thin texture. For the storm the strings would switch to tremolo and rapid scales, the brass and timpani would enter with loud accents and rolls, and cymbal crashes would mark lightning, building to a fortissimo tutti with dissonant chords.",
+   "tip": "Name the instrument + technique + effect for each point, as the mark scheme does."
+  }
+ ]
+}

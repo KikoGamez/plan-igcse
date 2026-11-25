@@ -1,0 +1,122 @@
+{
+  "id": "spa-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Reescriba esta frase de forma más concisa y con sus propias palabras, como lo haría en un resumen.\n\n«En el comedor del colegio se sirven lentejas, garbanzos y alubias tres veces por semana, y además todos los días hay manzanas, naranjas o plátanos de postre.»",
+      "ms": [
+        "uso de un término general para la lista: legumbres (tres veces por semana)",
+        "uso de un término general para la segunda lista: fruta (a diario / todos los días)"
+      ],
+      "model": "El comedor ofrece legumbres tres veces por semana y fruta a diario.",
+      "tip": "Los hiperónimos (legumbres, fruta) sustituyen listas de ejemplos y ahorran palabras."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Un alumno debe resumir los inconvenientes de vivir en una gran ciudad. Lea estas cuatro frases del texto.\n\nA. El ruido del tráfico dificulta el descanso.\nB. «Yo me mudé al centro en 2015 y no he vuelto a dormir bien», cuenta Marta, de 34 años.\nC. Los alquileres son cada vez más caros.\nD. La ciudad ofrece una gran variedad de actividades culturales.\n\nIndique qué dos frases no deben aparecer en el resumen y explique por qué.",
+      "ms": [
+        "B: es una cita / anécdota personal (un ejemplo), no una idea nueva",
+        "D: es una ventaja, no un inconveniente / no responde al enfoque de la pregunta"
+      ],
+      "model": "La frase B no debe aparecer porque es una cita y una anécdota personal que solo ilustra la idea de A. La frase D tampoco, porque presenta una ventaja de la ciudad y la pregunta pide solo inconvenientes.",
+      "tip": "Antes de seleccionar, subraye el enfoque de la pregunta (aquí, «inconvenientes»)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea el texto.\n\nAprender a cocinar durante la adolescencia tiene más ventajas de las que parece. Quien sabe preparar sus propias comidas suele comer de forma más equilibrada y recurre menos a la comida rápida. Además, cocinar exige planificar, medir y calcular tiempos, habilidades que luego resultan útiles en los estudios. Muchos jóvenes descubren también que la cocina reduce el estrés: concentrarse en una receta les ayuda a olvidar los problemas. Mi sobrino, por ejemplo, prepara una tortilla cada viernes. Por último, saber cocinar facilita la independencia cuando llega el momento de irse a estudiar fuera de casa, y permite ahorrar dinero.\n\nAnote, en forma de lista breve y con sus propias palabras, cuatro ventajas de aprender a cocinar según el texto.",
+      "ms": [
+        "dieta más sana / menos comida rápida",
+        "desarrolla la organización / capacidad de planificar, útil para estudiar",
+        "relaja / ayuda a combatir la tensión",
+        "da autonomía al independizarse",
+        "permite gastar menos [no se acredita el ejemplo del sobrino ni frases copiadas literalmente]"
+      ],
+      "model": "• alimentación más saludable\n• mejora la organización, útil también para estudiar\n• ayuda a relajarse\n• mayor autonomía y ahorro al vivir solo",
+      "tip": "Un ejemplo (el sobrino) ilustra una idea pero no es una idea: no lo incluya."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Un alumno escribió este resumen de las ventajas de aprender a cocinar en la adolescencia:\n\n«En este texto, el autor habla de las ventajas de cocinar. Dice que quien sabe preparar sus propias comidas suele comer de forma más equilibrada. Su sobrino prepara una tortilla cada viernes. Yo creo que todos los jóvenes deberían aprender a cocinar.»\n\n(a) Identifique tres defectos de este resumen. [3]\n(b) Reescriba la segunda frase con sus propias palabras. [1]",
+      "ms": [
+        "(a) introducción innecesaria / palabras desperdiciadas («En este texto, el autor habla de…»)",
+        "(a) copia literal del texto («quien sabe preparar sus propias comidas suele comer de forma más equilibrada»)",
+        "(a) incluye un ejemplo / anécdota (el sobrino)",
+        "(a) añade una opinión personal («Yo creo que…»)",
+        "(a) faltan muchas ventajas / es incompleto",
+        "(b) p. ej.: «Cocinar uno mismo favorece una alimentación más sana.»"
+      ],
+      "model": "(a) Empieza con una introducción que no aporta nada («En este texto, el autor habla de…»); copia una frase entera del texto; incluye un ejemplo, el del sobrino, y termina con una opinión personal, que no se pide en un resumen.\n(b) Cocinar uno mismo favorece una alimentación más sana.",
+      "tip": "Un buen resumen va directo a las ideas: sin introducción, sin ejemplos y sin opiniones."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Lea el texto.\n\nLa noche ya no es oscura en la mayoría de las ciudades. Farolas, escaparates y pantallas publicitarias mantienen encendido el cielo durante horas, y los expertos advierten de que ese exceso de luz artificial tiene un precio. En primer lugar, afecta a la salud: la luz nocturna altera el reloj biológico y reduce la producción de melatonina, por lo que cada vez más personas duermen mal. Además, desorienta a muchos animales. Las aves migratorias, que se guían por las estrellas, chocan contra edificios iluminados, y las crías de tortuga marina, que al nacer buscan el brillo del mar, se dirigen hacia las carreteras. Los insectos, atraídos por las farolas, mueren por millones, lo que perjudica la polinización. También supone un enorme derroche de energía: buena parte de la luz se proyecta hacia el cielo, donde no ilumina nada. Por último, la mayoría de los habitantes de las grandes ciudades ya no pueden ver la Vía Láctea desde su casa. «Mi abuelo me enseñaba las constelaciones desde el balcón; mis hijos no conocen ninguna», cuenta un vecino de Valencia. Algunas localidades ya han instalado farolas que apuntan hacia el suelo y se apagan de madrugada.\n\nResuma, con sus propias palabras, los efectos negativos de la contaminación lumínica según el texto. Escriba entre 80 y 100 palabras, en prosa continua.",
+      "ms": [
+        "altera el ritmo biológico / el sueño de las personas (afecta a la salud)",
+        "las aves migratorias se desorientan y chocan contra los edificios",
+        "las tortugas recién nacidas se pierden / van hacia las carreteras en lugar de al mar",
+        "mueren muchísimos insectos, lo que perjudica la polinización",
+        "derroche / malgasto de energía (luz que se pierde hacia el cielo)",
+        "impide contemplar el cielo nocturno / las estrellas (pérdida de un conocimiento o patrimonio que se transmitía) [no se acreditan: la cita del vecino, la solución de las farolas, detalles técnicos copiados]"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Selecciona casi todas las ideas relevantes (5–6) sin material irrelevante. Las expresa con sus propias palabras, de forma concisa y bien organizada, agrupando ideas relacionadas con conectores. Respeta la extensión y escribe con corrección."
+        },
+        {
+          "m": "5–6",
+          "d": "Selecciona la mayoría de las ideas (4–5). Usa mayormente sus propias palabras, con algunas expresiones copiadas o algo de repetición. Organización clara; extensión aproximadamente adecuada."
+        },
+        {
+          "m": "3–4",
+          "d": "Selecciona algunas ideas (2–3), a veces mezcladas con ejemplos, citas o la solución. Copia bastante del texto o escribe de forma poco concisa; organización irregular."
+        },
+        {
+          "m": "1–2",
+          "d": "Pocas ideas relevantes (1–2). Copia en gran parte del texto, incluye opiniones o material irrelevante, o escribe en forma de lista."
+        }
+      ],
+      "model": "El exceso de iluminación nocturna perjudica, en primer lugar, la salud, ya que desajusta el ritmo natural del organismo y provoca problemas de sueño. También confunde a numerosas especies: las aves que migran se desorientan y se estrellan contra los edificios, mientras que las tortugas recién nacidas se alejan del mar y acaban en las carreteras. Asimismo, provoca la muerte masiva de insectos, lo que reduce la polinización. Por otra parte, supone malgastar energía, pues mucha luz se pierde hacia arriba. Finalmente, impide contemplar las estrellas desde las ciudades. (89 palabras)",
+      "tip": "Ignore la anécdota del vecino y las farolas que apuntan al suelo: son un ejemplo y una solución, no efectos negativos."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Lea el texto.\n\nDesde 2020, millones de personas trabajan total o parcialmente desde casa. Muchos celebran no tener que pasar una hora diaria en el transporte y poder organizar mejor su tiempo. Sin embargo, los psicólogos empiezan a detectar efectos menos visibles. El primero es el aislamiento: sin la charla del café o la comida con los compañeros, algunos empleados se sienten solos y desconectados de su empresa. Otros confiesan que les cuesta «desconectar»: cuando la oficina está en el salón, el horario se alarga y los correos llegan a cualquier hora. A esto se suma que no todos los hogares están preparados; trabajar en una silla de cocina durante ocho horas provoca dolores de espalda, y muchos han tenido que pagar de su bolsillo la conexión, la luz o un ordenador nuevo. Hay quien teme, además, que quien no se ve en la oficina tenga menos oportunidades de ascender. Las empresas, por su parte, ahorran en alquiler de oficinas y en suministros.\n\nResuma, con sus propias palabras, los inconvenientes del teletrabajo para los trabajadores según el texto. Escriba entre 70 y 90 palabras, en prosa continua.",
+      "ms": [
+        "soledad / falta de contacto social con los compañeros",
+        "sensación de alejamiento / pérdida de vínculo con la empresa",
+        "dificultad para separar la vida laboral y la personal / jornadas más largas / disponibilidad constante",
+        "problemas físicos (dolores de espalda) por trabajar en espacios o muebles poco adecuados",
+        "el trabajador asume gastos (internet, electricidad, equipos)",
+        "menos posibilidades de promoción / ascenso al no estar presente [no se acreditan: las ventajas (ahorro de transporte, organización del tiempo) ni el ahorro de las empresas]"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Selecciona casi todos los inconvenientes (5–6) y solo los que afectan a los trabajadores. Reformula con precisión y de forma concisa; ideas agrupadas y bien enlazadas; extensión adecuada; escritura correcta."
+        },
+        {
+          "m": "5–6",
+          "d": "Selecciona la mayoría de los inconvenientes (4–5). Mayormente con palabras propias, con alguna copia o repetición. Organización clara."
+        },
+        {
+          "m": "3–4",
+          "d": "Algunas ideas relevantes (2–3), mezcladas con ventajas o con el ahorro de las empresas. Bastante copia literal o falta de concisión."
+        },
+        {
+          "m": "1–2",
+          "d": "Muy pocas ideas relevantes; copia extensa, opiniones personales o formato de lista."
+        }
+      ],
+      "model": "Trabajar desde casa puede provocar soledad, ya que se pierde el trato diario con los compañeros y el empleado se siente alejado de su empresa. Además, resulta difícil separar la vida profesional de la personal, por lo que la jornada se prolonga y el trabajador está siempre disponible. Por otra parte, muchos trabajan en espacios poco adecuados que causan molestias físicas, y deben costear ellos mismos los gastos de conexión, electricidad o equipos. Por último, existe el riesgo de que su carrera profesional avance más despacio. (86 palabras)",
+      "tip": "El texto mezcla ventajas e inconvenientes, y para trabajadores y empresas: seleccione solo lo que pide el enfoque."
+    }
+  ]
+}

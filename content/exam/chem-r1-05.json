@@ -1,0 +1,86 @@
+{
+  "id": "chem-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define:\n(a) a hydrated substance [1]\n(b) an anhydrous substance. [1]",
+      "ms": [
+        "(a) a substance that is chemically combined with water",
+        "(b) a substance containing no water",
+        "do not allow 'wet' or 'dissolved in water' for (a)"
+      ],
+      "model": "(a) A hydrated substance is chemically combined with water.\n(b) An anhydrous substance contains no water.",
+      "tip": "'Chemically combined' is the phrase that earns the mark — hydrated crystals are dry to touch."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "50 cm³ of methane is mixed with 80 cm³ of oxygen and the mixture is ignited. All volumes are measured at r.t.p., where water is a liquid.\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n(a) Which gas is in excess? [1]\n(b) Calculate the volume of carbon dioxide formed. [1]\n(c) Calculate the volume of the gas that is left over. [1]",
+      "ms": [
+        "(a) methane",
+        "(b) 40 cm³",
+        "(c) 10 cm³ (of methane)"
+      ],
+      "model": "(a) 50 cm³ of methane would need 100 cm³ of oxygen, but only 80 cm³ is available, so oxygen is limiting and methane is in excess.\n(b) 80 cm³ O₂ reacts with 40 cm³ CH₄, forming 40 cm³ CO₂.\n(c) 50 − 40 = 10 cm³ of methane is left over.",
+      "tip": "For gases at the same temperature and pressure, the volume ratio equals the mole ratio in the equation."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "4.00 g of copper(II) oxide is added to a solution containing 3.92 g of sulfuric acid.\nCuO + H₂SO₄ → CuSO₄ + H₂O\n[Ar: H = 1, O = 16, S = 32, Cu = 64]\nShow which reactant is limiting, and calculate the mass of copper(II) sulfate formed and the mass of the reactant left over.",
+      "ms": [
+        "M1: moles CuO = 4.00 ÷ 80 = 0.0500 and moles H₂SO₄ = 3.92 ÷ 98 = 0.0400",
+        "M1: 1 : 1 ratio so sulfuric acid is limiting (copper(II) oxide in excess)",
+        "A1: mass CuSO₄ = 0.0400 × 160 = 6.40 g",
+        "A1: CuO left = 0.0100 mol × 80 = 0.800 g (ecf)"
+      ],
+      "model": "Mr CuO = 80, so moles CuO = 4.00 ÷ 80 = 0.0500 mol. Mr H₂SO₄ = 2 + 32 + 64 = 98, so moles H₂SO₄ = 3.92 ÷ 98 = 0.0400 mol. The reacting ratio is 1 : 1, so sulfuric acid is the limiting reactant and copper(II) oxide is in excess.\nMoles CuSO₄ = 0.0400 mol; Mr CuSO₄ = 160; mass = 0.0400 × 160 = 6.40 g.\nCuO left = 0.0500 − 0.0400 = 0.0100 mol = 0.0100 × 80 = 0.800 g.",
+      "tip": "Always base the product calculation on the limiting reactant, never on the one in excess."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Blue hydrated copper(II) sulfate, CuSO₄·5H₂O, is heated in a test-tube until no further change occurs.\n(a) Write the symbol equation for the reaction. [1]\n(b) The solid is left to cool and then a few drops of water are added to it. Describe two observations. [2]\n(c) State how the student could show that the liquid collected from the mouth of the tube is pure water. [1]",
+      "ms": [
+        "(a) CuSO₄·5H₂O → CuSO₄ + 5H₂O",
+        "(b) white solid turns blue",
+        "(b) tube gets warm / heat is given out (allow steam / hissing)",
+        "(c) measure its boiling point: exactly 100 °C (allow melting/freezing point exactly 0 °C)"
+      ],
+      "model": "(a) CuSO₄·5H₂O → CuSO₄ + 5H₂O\n(b) The white anhydrous copper(II) sulfate turns blue, and the tube gets warm because heat is given out.\n(c) Measure its boiling point: pure water boils at exactly 100 °C.",
+      "tip": "A colour test only shows that water is present; purity needs a boiling or melting point."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "4.20 g of magnesium carbonate is heated strongly until it has completely decomposed.\nMgCO₃ → MgO + CO₂\n[Ar: C = 12, O = 16, Mg = 24; molar gas volume = 24 dm³ at r.t.p.]\n(a) Calculate the volume of carbon dioxide, in cm³ at r.t.p., that is given off. [3]\n(b) Calculate the mass of solid left at the end. [2]\n(c) Explain why the student heats, cools and reweighs the solid until the mass stays constant. [1]",
+      "ms": [
+        "(a) M1: Mr MgCO₃ = 84; moles = 4.20 ÷ 84 = 0.0500 mol",
+        "(a) M1: moles CO₂ = 0.0500 mol",
+        "(a) A1: 0.0500 × 24 000 = 1200 cm³",
+        "(b) M1: moles MgO = 0.0500; Mr MgO = 40",
+        "(b) A1: 2.00 g (allow 4.20 − 2.20 = 2.00 g)",
+        "(c) to make sure the decomposition is complete / all the carbon dioxide has been given off"
+      ],
+      "model": "(a) Mr MgCO₃ = 24 + 12 + 48 = 84. Moles = 4.20 ÷ 84 = 0.0500 mol. Moles CO₂ = 0.0500 mol (1 : 1). Volume = 0.0500 × 24 000 = 1200 cm³.\n(b) Moles MgO = 0.0500 mol; Mr MgO = 40; mass = 0.0500 × 40 = 2.00 g.\n(c) A constant mass shows the reaction is complete and no more carbon dioxide is being lost.",
+      "tip": "Check (b) with conservation of mass: 4.20 g − mass of CO₂ (0.0500 × 44 = 2.20 g) = 2.00 g."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "Hydrogen reacts with chlorine to form hydrogen chloride.\nH₂(g) + Cl₂(g) → 2HCl(g)\nA mixture of 0.200 g of hydrogen and 3.55 g of chlorine is reacted.\n[Ar: H = 1, Cl = 35.5; molar gas volume = 24 dm³ at r.t.p.]\n(a) Show by calculation which reactant is limiting. [3]\n(b) Calculate the mass of hydrogen chloride formed. [2]\n(c) Calculate the volume, in dm³ at r.t.p., of the reactant gas left over at the end. [2]",
+      "ms": [
+        "(a) M1: moles H₂ = 0.200 ÷ 2 = 0.100 mol",
+        "(a) M1: moles Cl₂ = 3.55 ÷ 71 = 0.0500 mol",
+        "(a) A1: 1 : 1 ratio so chlorine is limiting",
+        "(b) M1: moles HCl = 2 × 0.0500 = 0.100 mol (ecf)",
+        "(b) A1: 0.100 × 36.5 = 3.65 g",
+        "(c) M1: hydrogen left = 0.100 − 0.0500 = 0.0500 mol",
+        "(c) A1: 0.0500 × 24 = 1.20 dm³"
+      ],
+      "model": "(a) Moles H₂ = 0.200 ÷ 2 = 0.100 mol. Moles Cl₂ = 3.55 ÷ 71 = 0.0500 mol. They react 1 : 1, so 0.0500 mol Cl₂ uses only 0.0500 mol H₂: chlorine is the limiting reactant.\n(b) Moles HCl = 2 × 0.0500 = 0.100 mol. Mr HCl = 36.5. Mass = 0.100 × 36.5 = 3.65 g.\n(c) Hydrogen left over = 0.100 − 0.0500 = 0.0500 mol. Volume = 0.0500 × 24 = 1.20 dm³.",
+      "tip": "Chlorine is Cl₂: use Mr = 71, not 35.5. Check (b): 0.200 g + 3.55 g − 0.100 g unreacted H₂ = 3.65 g."
+    }
+  ]
+}

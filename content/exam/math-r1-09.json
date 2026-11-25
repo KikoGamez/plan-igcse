@@ -1,0 +1,84 @@
+{
+  "id": "math-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Line L is parallel to the line y = 4x + 1 and passes through the point (0, −3).\n(a) Write down the equation of line L. [1]\n(b) Does the point (2, 5) lie on line L? Show how you decide. [1]",
+      "ms": [
+        "(a) B1: y = 4x − 3",
+        "(b) B1: Yes, with 4 × 2 − 3 = 5 shown FT their (a)"
+      ],
+      "model": "(a) Parallel lines have the same gradient, 4, and the y-intercept is −3: y = 4x − 3.\n(b) When x = 2, y = 4 × 2 − 3 = 5, so yes, (2, 5) lies on L.",
+      "tip": "To test a point, substitute its x-coordinate and see if you get its y-coordinate."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Find the coordinates of the points where the graph of y = x³ − 4x crosses the x-axis.",
+      "ms": [
+        "M1: x(x² − 4) = 0 or x(x − 2)(x + 2) = 0",
+        "A1: (−2, 0), (0, 0) and (2, 0)"
+      ],
+      "model": "On the x-axis y = 0: x³ − 4x = 0 → x(x − 2)(x + 2) = 0.\nx = 0, 2 or −2, so the points are (−2, 0), (0, 0) and (2, 0).",
+      "tip": "Factorise out x first: dividing by x would lose the solution x = 0."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Here is a table of values for y = x² + 2/x.\nx: −2 | −1 | 0.5 | 1 | 2\ny:  ? |  ? |  ?  | 3 | 5\n(a) Complete the table. [3]\n(b) Explain why there is no value of y when x = 0. [1]",
+      "ms": [
+        "(a) B1: x = −2 gives y = 3",
+        "(a) B1: x = −1 gives y = −1",
+        "(a) B1: x = 0.5 gives y = 4.25",
+        "(b) B1: 2/0 cannot be calculated (division by zero is undefined), so the graph has an asymptote at x = 0"
+      ],
+      "model": "(a) x = −2: 4 + 2/(−2) = 4 − 1 = 3\nx = −1: 1 + 2/(−1) = 1 − 2 = −1\nx = 0.5: 0.25 + 2/0.5 = 0.25 + 4 = 4.25\n(b) 2/x would mean dividing by zero, which is undefined, so the curve never meets the y-axis.",
+      "tip": "Square negative numbers in brackets: (−2)² = 4, but 2/(−2) = −1."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The graph of y = 2x² − 3x − 1 has been drawn.\nFind the equation of the straight line that should be drawn on the same grid to solve each of these equations.\n(a) 2x² − 5x + 2 = 0 [2]\n(b) x² − x − 3 = 0 [2]",
+      "ms": [
+        "(a) M1: 2x² − 3x − 1 = 2x − 3 seen, or subtracts 2x² − 5x + 2 from 2x² − 3x − 1",
+        "(a) A1: y = 2x − 3",
+        "(b) M1: multiplies by 2 to give 2x² − 2x − 6 = 0",
+        "(b) A1: y = 5 − x oe"
+      ],
+      "model": "(a) 2x² − 5x + 2 = 0 → 2x² − 3x − 1 = 2x − 3 (add 2x − 3 to both sides).\nDraw y = 2x − 3.\n(b) Multiply by 2: 2x² − 2x − 6 = 0 → 2x² − 3x − 1 = −x + 5.\nDraw y = 5 − x.",
+      "tip": "First make the x² term match the curve's x² term, then rearrange so the curve's expression is on the left."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The curve y = a × bˣ passes through the points (0, 5) and (2, 45). b is positive.\n(a) Find the values of a and b. [2]\n(b) Find the value of y when x = −1. [1]\n(c) Write down the equation of the asymptote of the curve. [1]\n(d) The curve meets the line y = 100 at x = k. Use trial and improvement to find k correct to 1 decimal place. Show your trials. [2]",
+      "ms": [
+        "(a) B1: a = 5",
+        "(a) B1: b = 3",
+        "(b) B1: 5/3 (allow 1.67)",
+        "(c) B1: y = 0",
+        "(d) M1: at least two trials between 2.7 and 2.8 evaluated correctly, e.g. 5 × 3^2.7 = 97.1, 5 × 3^2.8 = 108.4, with 5 × 3^2.75 = 102.6",
+        "(d) A1: k = 2.7"
+      ],
+      "model": "(a) At x = 0: y = a × 1 = 5, so a = 5.\nAt x = 2: 5b² = 45 → b² = 9 → b = 3.\n(b) y = 5 × 3⁻¹ = 5/3.\n(c) y = 0 (the x-axis).\n(d) 5 × 3^2.7 = 97.1 (too small), 5 × 3^2.8 = 108.4 (too big).\n5 × 3^2.75 = 102.6 (too big), so k lies between 2.7 and 2.75.\nk = 2.7 (1 d.p.).",
+      "tip": "To decide which 1 d.p. value is nearer, test the halfway value (2.75)."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "The curve y = x² − 4x + 1 and the line y = 2x − 4 intersect at points A and B.\n(a) Find the coordinates of A and B. [4]\n(b) Find the length of AB. Give your answer as a surd in its simplest form. [2]\n(c) Write down the coordinates of the turning point of the curve. [1]",
+      "ms": [
+        "(a) M1: x² − 4x + 1 = 2x − 4",
+        "(a) M1: x² − 6x + 5 = 0 and (x − 1)(x − 5) = 0",
+        "(a) A1: (1, −2)",
+        "(a) A1: (5, 6)",
+        "(b) M1: √(4² + 8²) or √80 FT their points",
+        "(b) A1: 4√5",
+        "(c) B1: (2, −3)"
+      ],
+      "model": "(a) x² − 4x + 1 = 2x − 4 → x² − 6x + 5 = 0 → (x − 1)(x − 5) = 0.\nx = 1: y = 2 − 4 = −2; x = 5: y = 10 − 4 = 6.\nA(1, −2) and B(5, 6).\n(b) AB = √((5 − 1)² + (6 − (−2))²) = √(16 + 64) = √80 = 4√5.\n(c) x² − 4x + 1 = (x − 2)² − 3, so the turning point is (2, −3).",
+      "tip": "Use the line, not the curve, to find the y-coordinates: it is quicker and less error-prone."
+    }
+  ]
+}

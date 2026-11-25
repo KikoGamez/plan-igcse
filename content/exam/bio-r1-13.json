@@ -1,0 +1,87 @@
+{
+  "id": "bio-r1-13",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In a food web:\ngrass is eaten by rabbits and grasshoppers;\ngrasshoppers are eaten by frogs;\nfrogs are eaten by snakes;\nrabbits are eaten by foxes and snakes.\n(a) Name one primary consumer. [1]\n(b) Name the organism that is both a secondary consumer and a tertiary consumer. [1]",
+      "ms": [
+        "(a) rabbit / grasshopper",
+        "(b) snake"
+      ],
+      "model": "(a) Rabbit.\n(b) Snake: it is a secondary consumer when it eats rabbits and a tertiary consumer when it eats frogs.",
+      "tip": "An organism can be at more than one trophic level in a food web."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Name the process in the carbon cycle that:\n(a) converts carbon dioxide into glucose in plants\n(b) releases carbon dioxide when coal, oil or gas are burned\n(c) passes carbon compounds from a plant into an animal",
+      "ms": [
+        "(a) photosynthesis",
+        "(b) combustion",
+        "(c) feeding (allow eating / consumption)"
+      ],
+      "model": "(a) Photosynthesis.\n(b) Combustion.\n(c) Feeding.",
+      "tip": "The carbon cycle processes in the syllabus: photosynthesis, respiration, feeding, decomposition, fossil fuel formation and combustion."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The table shows the energy in each trophic level of a food chain in one year.\nproducers: 20 000 kJ\nprimary consumers: 2 000 kJ\nsecondary consumers: 180 kJ\n(a) Calculate the percentage of energy transferred from the primary consumers to the secondary consumers. [2]\n(b) Explain why the transfer of energy between these trophic levels is not efficient. [2]",
+      "ms": [
+        "(a) M1: 180 ÷ 2000 × 100",
+        "(a) A1: 9 %",
+        "(b) energy is transferred to the environment as heat (from respiration)",
+        "(b) energy used in movement / life processes (respiration)",
+        "(b) not all of the organism is eaten (e.g. bones, fur) / some energy lost in faeces (undigested) / some organisms die and are not eaten"
+      ],
+      "model": "(a) 180 ÷ 2000 × 100 = 9 %.\n(b) Much of the energy taken in by primary consumers is released in respiration and used for movement, then transferred to the environment as heat. Also, not all parts of the primary consumers are eaten, and some of what is eaten is not digested and is lost in faeces.",
+      "tip": "Energy is not 'lost' from the universe — it is transferred to the environment, mainly as heat."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "In a food web:\ngrass is eaten by rabbits and grasshoppers;\ngrasshoppers are eaten by frogs;\nfrogs are eaten by snakes;\nrabbits are eaten by foxes and snakes.\nA foreign species of lizard that eats only grasshoppers is introduced into the area. It has no predators.\nSuggest and explain the effects of introducing this lizard on the populations of two other organisms in the food web.",
+      "ms": [
+        "grasshoppers decrease because they are eaten by the lizard",
+        "frogs decrease because there is less food / competition with the lizard for grasshoppers",
+        "snakes eat more rabbits (as there are fewer frogs), so rabbits decrease",
+        "foxes decrease because fewer rabbits / more competition with snakes",
+        "grass may increase because fewer grasshoppers eat it"
+      ],
+      "model": "The grasshopper population would decrease, because the lizards eat them and have no predators to control their numbers. The frog population would then decrease too, because the frogs compete with the lizards for a smaller supply of grasshoppers. With fewer frogs, snakes would eat more rabbits, so the rabbit population might also fall.",
+      "tip": "Follow the arrows: say which population changes AND why, one link at a time."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Large areas of tropical rainforest are being cut down and burned to clear land for cattle.\nExplain how this deforestation can lead to:\n• an increase in carbon dioxide in the atmosphere\n• loss of soil and flooding\n• reduced biodiversity",
+      "ms": [
+        "fewer trees, so less photosynthesis / less carbon dioxide removed from the atmosphere",
+        "burning (combustion) of trees releases carbon dioxide",
+        "decomposition of remaining wood / leaves releases carbon dioxide (respiration of decomposers)",
+        "no roots to hold the soil, so soil is washed / blown away (erosion)",
+        "less water absorbed by roots / less transpiration / no leaves to intercept rain, so more run-off and flooding",
+        "habitats destroyed so species lose food and shelter",
+        "species may become endangered / extinct, so fewer different species (lower biodiversity)"
+      ],
+      "model": "With fewer trees, less photosynthesis takes place, so less carbon dioxide is removed from the atmosphere. Burning the trees releases carbon dioxide by combustion, and decomposers respiring as they break down the remaining wood release more.\nTree roots normally hold the soil together; without them the soil is washed or blown away. Trees also take up a lot of water and their leaves intercept rain, so after clearing more rainwater runs off the land, causing flooding.\nMany species lose their habitat, food and shelter, so their populations fall and some become extinct. This reduces biodiversity, the number of different species in the area.",
+      "tip": "Explain each effect with a cause → consequence chain; just listing the effects is not enough."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The table shows the population of an endangered species of giant tortoise on an island. A conservation programme, including captive breeding, began in 2000.\nyear:        1970 | 1990 | 2000 | 2010 | 2020\npopulation:  3000 | 1200 |  800 | 1100 | 1600\n(a) Calculate the percentage decrease in the population between 1970 and 2000. [2]\n(b) Suggest two reasons why the population of tortoises decreased. [2]\n(c) Explain how captive breeding and one other conservation method could have helped the population to increase after 2000. [2]",
+      "ms": [
+        "(a) M1: (3000 − 800) ÷ 3000 × 100",
+        "(a) A1: 73 % (allow 73.3 %)",
+        "(b) one reason: hunting (for food / shells) / overharvesting",
+        "(b) a second reason: habitat destruction (land cleared for farming / housing) / introduced species (e.g. goats competing for food, rats eating eggs) / pollution / climate change",
+        "(c) captive breeding: tortoises bred in safe conditions to increase numbers, then young released into the wild",
+        "(c) other method: protecting habitats / monitoring the population / education / laws against hunting / removing introduced species (with explanation)"
+      ],
+      "model": "(a) Decrease = 3000 − 800 = 2200. 2200 ÷ 3000 × 100 = 73 %.\n(b) Tortoises may have been hunted for food, and introduced animals such as goats may have eaten the plants that tortoises feed on.\n(c) In captive breeding, tortoises are bred in safe conditions where the young are protected, and then released into the wild to increase the population. Protecting their habitat, for example by making the island a reserve and removing introduced goats, means the released tortoises have enough food and space to survive.",
+      "tip": "For percentage decrease, divide the decrease by the ORIGINAL value (1970)."
+    }
+  ]
+}

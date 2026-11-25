@@ -1,0 +1,87 @@
+{
+  "id": "spa-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Lea el texto y conteste las preguntas.\n\n(1) Desde que su madre aceptó el trabajo en la ciudad, Nerea contaba los días que le quedaban en el pueblo como quien cuenta las monedas antes de un viaje largo. Paseaba por la orilla del río despacio, deteniéndose en cada piedra, como si quisiera aprenderse el camino de memoria.\n(2) La víspera de la mudanza, su abuelo le dejó sobre la almohada una brújula vieja, con el cristal rayado. No había nota. Nerea la sostuvo un buen rato entre las manos y, por primera vez en semanas, sonrió.\n\n(a) Según el párrafo 1, ¿por qué tenía que irse Nerea del pueblo? [1]\n(b) Según el párrafo 2, ¿qué detalle muestra que la brújula no era nueva? [1]",
+      "ms": [
+        "(a) su madre había aceptado un trabajo en la ciudad (aceptar «por el trabajo de su madre»)",
+        "(b) el cristal estaba rayado (aceptar «era vieja»)"
+      ],
+      "model": "(a) Porque su madre había aceptado un trabajo en la ciudad.\n(b) Tenía el cristal rayado.",
+      "tip": "En las preguntas explícitas basta con el dato preciso; no hace falta explicar más."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Lea el texto.\n\nNerea paseaba por la orilla del río despacio, deteniéndose en cada piedra, como si quisiera aprenderse el camino de memoria. Dentro de pocos días se mudaría a la ciudad.\n\nExplique con sus propias palabras qué quiere decir el autor con «deteniéndose en cada piedra, como si quisiera aprenderse el camino de memoria».",
+      "ms": [
+        "caminaba muy lentamente / se paraba a mirar cada detalle del lugar",
+        "quería guardar el recuerdo del paisaje / no olvidarlo cuando se marchara [no se acredita copiar «aprenderse el camino de memoria» sin reformular]"
+      ],
+      "model": "Nerea caminaba muy lentamente, fijándose en cada detalle del paisaje, porque quería grabarlo en su mente para recordarlo cuando ya no viviera allí.",
+      "tip": "Dos puntos = dos ideas distintas: qué hace (lo literal) y por qué lo hace (la intención)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea el texto.\n\n(1) Desde que su madre aceptó el trabajo en la ciudad, Nerea contaba los días que le quedaban en el pueblo como quien cuenta las monedas antes de un viaje largo.\n(2) La víspera de la mudanza, su abuelo le dejó sobre la almohada una brújula vieja, con el cristal rayado. No había nota. Nerea la sostuvo un buen rato entre las manos y, por primera vez en semanas, sonrió.\n\n¿Qué sugieren el regalo y la reacción de Nerea sobre:\n(a) la intención del abuelo? [2]\n(b) los sentimientos de Nerea? [2]",
+      "ms": [
+        "(a) quería ayudarla a orientarse / a encontrar su camino en la nueva vida",
+        "(a) es un objeto personal y querido (vieja, usada): le da algo suyo para que no olvide su origen / para que sepa volver",
+        "(a) no deja nota: es un hombre de pocas palabras / el regalo habla por sí mismo / le cuesta expresar sus sentimientos",
+        "(b) llevaba semanas triste / preocupada por la mudanza («por primera vez en semanas»)",
+        "(b) el regalo la consuela / la reconforta / se siente querida y comprendida",
+        "(b) lo sostiene «un buen rato»: el regalo la emociona / tiene gran valor para ella"
+      ],
+      "model": "(a) El abuelo quería darle algo que la ayudara a orientarse en su nueva vida y, a la vez, a encontrar el camino de vuelta al pueblo. Que no dejara nota sugiere que es un hombre de pocas palabras, que prefiere expresar su cariño con un gesto.\n(b) Nerea había estado triste durante semanas por tener que irse, ya que no sonreía desde hacía tiempo. El regalo la emociona y la consuela, porque siente que su abuelo la comprende y la quiere.",
+      "tip": "En las preguntas de inferencia, apoye cada idea en un detalle concreto del texto."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea el texto.\n\n(1) Cada verano, el pequeño pueblo de Valdeoliva multiplica por diez su población. Llegan antiguos vecinos que emigraron hace décadas, sus hijos y, cada vez más, turistas atraídos por las fiestas y por las casas rurales que han abierto en los últimos años.\n(2) Para los comercios locales, julio y agosto son una bendición: la panadería, que en invierno apenas cuece cincuenta barras al día, llega a vender quinientas. Sin embargo, no todos los vecinos lo celebran. «En agosto no hay quien aparque ni quien duerma», se queja Rosario, que vive en la plaza desde hace cuarenta años.\n\n(a) Según el párrafo 1, identifique dos grupos de personas que llegan al pueblo en verano. [2]\n(b) ¿Qué demuestra el ejemplo de la panadería? [1]\n(c) Explique con sus propias palabras la queja de Rosario. [1]",
+      "ms": [
+        "(a) antiguos vecinos que emigraron (y sus hijos)",
+        "(a) turistas (atraídos por las fiestas / las casas rurales)",
+        "(b) que el verano aumenta mucho las ventas / beneficia económicamente a los comercios del pueblo",
+        "(c) hay tanta gente y tanto ruido que es imposible encontrar sitio para el coche o descansar por la noche"
+      ],
+      "model": "(a) Personas que se fueron del pueblo hace muchos años (con sus hijos) y turistas.\n(b) Que el verano multiplica las ventas y es muy beneficioso para los negocios del pueblo.\n(c) En agosto hay tantos visitantes que no se encuentra dónde dejar el coche y el ruido no deja dormir.",
+      "tip": "Si la pregunta pide «sus propias palabras», cambie el vocabulario: no repita «no hay quien aparque»."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lea el texto.\n\n(1) Cada verano, el pequeño pueblo de Valdeoliva multiplica por diez su población gracias a antiguos vecinos y turistas.\n(2) Para los comercios locales, julio y agosto son una bendición. Sin embargo, no todos los vecinos lo celebran. «En agosto no hay quien aparque ni quien duerma», se queja Rosario, que vive en la plaza desde hace cuarenta años.\n(3) El alcalde reconoce que el agua escasea en las semanas de más calor y que el servicio de limpieza no da abasto. Aun así, insiste en que sin el verano el pueblo habría desaparecido hace tiempo.\n\nExplique la actitud del alcalde hacia la llegada de visitantes en verano y compárela con la actitud de Rosario. Utilice sus propias palabras y apoye su respuesta en el texto.",
+      "ms": [
+        "el alcalde admite que hay problemas (falta de agua, la limpieza es insuficiente)",
+        "pero los considera un precio que vale la pena pagar / sigue a favor del turismo",
+        "«aun así» / «insiste» muestra que, a pesar de las dificultades, mantiene su postura con firmeza",
+        "cree que el verano es vital para la supervivencia del pueblo / sin visitantes el pueblo estaría vacío o muerto",
+        "Rosario tiene una actitud negativa / de queja / molestia: el verano le quita tranquilidad",
+        "contraste: Rosario habla desde su experiencia personal y diaria; el alcalde piensa en el interés general / la economía y el futuro del pueblo",
+        "Rosario es una vecina de toda la vida (cuarenta años), por eso le molesta el cambio en su rutina"
+      ],
+      "model": "El alcalde tiene una actitud realista pero favorable: reconoce abiertamente que en verano falta agua y que la limpieza no es suficiente, pero no cambia de opinión. La expresión «aun así» y el verbo «insiste» muestran que, a pesar de estos inconvenientes, defiende con firmeza los veranos, porque cree que sin ellos el pueblo se habría quedado vacío. Para él, los visitantes son la clave de la supervivencia de Valdeoliva.\nRosario, en cambio, se muestra molesta: vive en la plaza desde hace décadas y siente que en agosto pierde su tranquilidad, ya que no puede ni aparcar ni descansar. Mientras ella juzga el verano desde su vida diaria, el alcalde lo valora pensando en el futuro de todo el pueblo.",
+      "tip": "Una pregunta sobre «actitud» pide sentimientos u opiniones implícitos: identifique la actitud y justifíquela con palabras concretas del texto."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lea el texto y conteste las preguntas.\n\n(1) Martín llegó al entrenamiento veinte minutos antes que nadie. Ató y desató las zapatillas tres veces, y cada vez que se abría la puerta del vestuario levantaba la cabeza de golpe.\n(2) Cuando por fin entró el entrenador con la lista en la mano, el resto del equipo siguió bromeando. Martín no. Se quedó mirando la hoja como si en ella estuviera escrito su futuro.\n(3) El entrenador leyó once nombres. El de Martín no estaba entre ellos. Él asintió, dobló la toalla con mucho cuidado y fue el primero en salir al campo a recoger los conos.\n\n(a) Explique con sus propias palabras cómo se sentía Martín en el párrafo 1 y qué detalles lo muestran. [2]\n(b) ¿Qué sugiere el contraste entre Martín y el resto del equipo en el párrafo 2? [2]\n(c) ¿Qué revela la reacción de Martín en el párrafo 3 sobre su carácter? [2]",
+      "ms": [
+        "(a) estaba nervioso / inquieto / ansioso",
+        "(a) evidencia: llega muy pronto / ata y desata las zapatillas / levanta la cabeza bruscamente cada vez que se abre la puerta",
+        "(b) para Martín la lista era muy importante / se jugaba mucho; para los demás no",
+        "(b) los compañeros estaban tranquilos (quizá seguros de jugar), Martín estaba tenso / solo con su preocupación",
+        "(c) es disciplinado / maduro / sabe aceptar la derrota sin quejarse",
+        "(c) oculta su decepción / es comprometido con el equipo: sigue ayudando (recoge los conos) aunque no juegue",
+        "(c) doblar la toalla «con mucho cuidado» sugiere que intenta controlar sus emociones"
+      ],
+      "model": "(a) Martín estaba muy nervioso: llegó mucho antes que los demás, no paraba de atarse y desatarse las zapatillas y miraba hacia la puerta, sobresaltado, cada vez que se abría.\n(b) Sugiere que para Martín la lista era algo decisivo, mientras que a sus compañeros no les preocupaba; él vivía ese momento con una tensión que los demás no compartían.\n(c) Revela que es un chico maduro y comprometido: aunque se lleva una gran decepción, no protesta, controla sus emociones (dobla la toalla con calma) y sigue ayudando al equipo.",
+      "tip": "En cada parte de 2 puntos, dé la idea (sentimiento o rasgo) y la prueba del texto que la apoya."
+    }
+  ]
+}

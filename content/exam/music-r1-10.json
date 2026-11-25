@@ -1,0 +1,83 @@
+{
+ "id": "music-r1-10",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "State the genre of each focus work.\n(a) Smetana, Vltava\n(b) Mozart, K. 452\n(c) Handel, Op. 6 No. 5",
+   "ms": [
+    "(a) symphonic poem (programme music)",
+    "(b) chamber music: quintet for piano and winds",
+    "(c) concerto grosso"
+   ],
+   "model": "(a) symphonic poem (b) quintet for piano and wind (chamber music) (c) concerto grosso"
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "The first movement of Mozart's K. 452 is marked Largo – Allegro moderato. Explain what each marking means.",
+   "ms": [
+    "Largo: very slow and broad (the slow introduction)",
+    "Allegro moderato: moderately fast"
+   ],
+   "model": "Largo means slow and broad; Allegro moderato means moderately fast."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the key of each printed passage.\n(a) three sharps; E♯ appears often; ends on an F♯ minor chord\n(b) two flats; no accidentals; ends on a B♭ major chord\n(c) four flats; E♮ appears often; ends on an F minor chord\n(d) no key signature; G♯ appears often; ends on an A minor chord",
+   "ms": [
+    "(a) F♯ minor",
+    "(b) B♭ major",
+    "(c) F minor",
+    "(d) A minor"
+   ],
+   "model": "(a) F♯ minor (b) B♭ major (c) F minor (d) A minor",
+   "tip": "The raised 7th (E♯, E♮, G♯) is the clue that the minor key is meant."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "K. 452 uses transposing instruments.\n(a) The horn in E♭ plays the written notes C E G. Give the concert pitch. [2]\n(b) The clarinet in B♭ plays a written F. Give the concert pitch. [1]\n(c) What chord do the horn's notes form at concert pitch, and how does it relate to the key of the movement? [1]",
+   "ms": [
+    "(a) M1: each note a major 6th lower",
+    "(a) A1: E♭ G B♭",
+    "(b) E♭",
+    "(c) E♭ major chord: the tonic chord of the home key (E♭ major)"
+   ],
+   "model": "(a) E♭ G B♭ (a major 6th lower). (b) E♭. (c) An E♭ major chord, the tonic chord of the movement.",
+   "tip": "Horn in E♭ sounds a major 6th lower: written C sounds E♭."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe the character and features of the four studied movements of Handel's Concerto Grosso Op. 6 No. 5, and how the instruments are organised.",
+   "ms": [
+    "Mvt 1 Larghetto e staccato: slow, stately/ceremonial, detached chords",
+    "Mvt 2 Allegro: fast, imitative/fugue-like, theme passed between parts",
+    "Mvt 4 Largo: slow, lyrical and expressive over a steady continuo",
+    "Mvt 6 Menuet: triple-time dance, homophonic, clear balanced phrases",
+    "concertino of two violins and cello contrasted with the ripieno strings",
+    "basso continuo (harpsichord + bass) throughout",
+    "one mood/character per movement; contrast between slow, fast and dance movements"
+   ],
+   "model": "The concertino (two violins and cello) contrasts with the ripieno strings, over a harpsichord continuo. Movement 1, Larghetto e staccato, is slow and ceremonial with detached chords. Movement 2, Allegro, is fast and imitative, passing the theme between parts. Movement 4, Largo, is slow and lyrical. Movement 6 is a menuet: a triple-time dance with a homophonic texture and clear phrases."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain how Vivaldi uses ritornello form and the solo violin to tell the story of the sonnet in Spring (first movement).",
+   "ms": [
+    "the ritornello (tutti, E major) represents the joy of spring",
+    "the ritornello returns between episodes, in different keys and fragments, ending in the tonic",
+    "birdsong episode: solo violin (with orchestral violins) imitates birds with trills and high repeated notes",
+    "streams episode: soft, murmuring quavers in the strings",
+    "storm episode: tremolo and rapid scales/flashes, with a move to the minor",
+    "solo violin shows virtuosity in the episodes",
+    "this is programme music / word-painting of the sonnet"
+   ],
+   "model": "The tutti ritornello in E major represents the arrival of spring and returns between the episodes, often in other keys and in fragments, until it closes the movement in the tonic. In the episodes the solo violin depicts the sonnet: birds with trills and high repeated notes, gentle streams with murmuring quavers, and a storm with tremolo and rushing scales in a minor key. So the form is used to tell the story as programme music.",
+   "tip": "The exam will not play Spring: use it to explain how ritornello form and programme music work."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "id": "ger-r1-06",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Schreiben Sie die Sätze neu. Beginnen Sie mit den Wörtern in Klammern.\n(a) Ich gehe nach der Schule mit meinem Hund spazieren. (Nach der Schule …)\n(b) Meine Familie fährt im Sommer nach Österreich. (Im Sommer …)",
+   "ms": [
+    "(a) Nach der Schule gehe ich mit meinem Hund spazieren.",
+    "(b) Im Sommer fährt meine Familie nach Österreich."
+   ],
+   "model": "(a) Nach der Schule gehe ich mit meinem Hund spazieren. (b) Im Sommer fährt meine Familie nach Österreich.",
+   "tip": "The verb stays in position 2; the subject jumps behind it."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Ersetzen Sie beide Nomen durch Pronomen.\n(a) Ich gebe meinem Bruder den Ball.\n(b) Sie zeigt den Freunden die Fotos.\n(c) Er schreibt seiner Oma eine Karte.",
+   "ms": [
+    "(a) Ich gebe ihn ihm.",
+    "(b) Sie zeigt sie ihnen.",
+    "(c) Er schreibt sie ihr.",
+    "Both pronouns correct and in the order accusative before dative"
+   ],
+   "model": "(a) Ich gebe ihn ihm. (b) Sie zeigt sie ihnen. (c) Er schreibt sie ihr.",
+   "tip": "Two nouns: dative before accusative. Two pronouns: accusative before dative."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Verbinden Sie die Sätze mit dem Wort in Klammern.\n(a) Ich gehe joggen. Es regnet. (obwohl)\n(b) Ich bleibe zu Hause. Ich bin krank. (denn)\n(c) Ich war zehn. Wir sind nach Hamburg gezogen. (Als … – beginnen Sie mit „Als“)\n(d) Mein Lehrer sagt. Die Prüfung ist leicht. (dass)",
+   "ms": [
+    "(a) Ich gehe joggen, obwohl es regnet.",
+    "(b) Ich bleibe zu Hause, denn ich bin krank. (no change of word order)",
+    "(c) Als ich zehn war, sind wir nach Hamburg gezogen. (verb-comma-verb)",
+    "(d) Mein Lehrer sagt, dass die Prüfung leicht ist."
+   ],
+   "model": "(a) Ich gehe joggen, obwohl es regnet. (b) Ich bleibe zu Hause, denn ich bin krank. (c) Als ich zehn war, sind wir nach Hamburg gezogen. (d) Mein Lehrer sagt, dass die Prüfung leicht ist.",
+   "tip": "denn does not move the verb; obwohl, als and dass send it to the end."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Ergänzen Sie die Relativpronomen.\n(a) Das ist die Lehrerin, ___ ich am liebsten habe.\n(b) Der Junge, ___ ich mein Handy geliehen habe, heißt Max.\n(c) Das Café, ___ neben der Schule liegt, ist billig.\n(d) Die Freunde, mit ___ ich Urlaub mache, wohnen in Bonn.",
+   "ms": [
+    "(a) die (feminine accusative)",
+    "(b) dem (masculine dative: jemandem etwas leihen)",
+    "(c) das (neuter nominative)",
+    "(d) denen (dative plural after mit)"
+   ],
+   "model": "(a) die (b) dem (c) das (d) denen",
+   "tip": "Gender comes from the noun before the comma; case comes from the job of the pronoun inside its own clause."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Verbessern Sie diesen Text für Paper 4. Verbinden Sie die Sätze. Benutzen Sie: einen Relativsatz, einen Satz mit „wenn“ am Anfang, einen Satz mit „weil“ und einen Zeitausdruck am Satzanfang.\n„Ich habe einen Bruder. Er heißt Ben. Er studiert in Köln. Ich habe Zeit. Ich besuche ihn. Wir gehen ins Kino. Das macht Spaß.“",
+   "ms": [
+    "Relative clause with correct pronoun and verb at the end (e.g. …, der Ben heißt, …) [1]",
+    "wenn-clause with verb at the end (Wenn ich Zeit habe,) [1]",
+    "inversion in the main clause after the wenn-clause (… besuche ich ihn) [1]",
+    "weil-clause with verb at the end (weil das Spaß macht) [1]",
+    "time expression at the start with verb second (e.g. Am Wochenende gehen wir …) [1]",
+    "commas correct and meaning of the original kept [1]"
+   ],
+   "model": "Ich habe einen Bruder, der Ben heißt und in Köln studiert. Wenn ich Zeit habe, besuche ich ihn. Am Wochenende gehen wir oft zusammen ins Kino, weil das Spaß macht.",
+   "tip": "Wenn-clause first = verb, comma, verb: „Wenn ich Zeit habe, besuche ich …“."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "In diesem Text gibt es sieben Wortstellungsfehler. Schreiben Sie den Text richtig.\n„Gestern ich bin mit dem Zug nach Köln gefahren. Ich wollte besuchen meine Tante, die wohnt in der Altstadt. Weil der Zug hatte Verspätung, ich kam spät an. Meine Tante hat gesagt, dass sie war froh. Am Abend wir haben zusammen gekocht.“",
+   "ms": [
+    "Gestern bin ich …",
+    "Ich wollte meine Tante besuchen",
+    "…, die in der Altstadt wohnt",
+    "Weil der Zug Verspätung hatte, …",
+    "…, kam ich spät an",
+    "…, dass sie froh war",
+    "Am Abend haben wir zusammen gekocht"
+   ],
+   "model": "Gestern bin ich mit dem Zug nach Köln gefahren. Ich wollte meine Tante besuchen, die in der Altstadt wohnt. Weil der Zug Verspätung hatte, kam ich spät an. Meine Tante hat gesagt, dass sie froh war. Am Abend haben wir zusammen gekocht.",
+   "tip": "Three rules fix all seven errors: verb second, infinitive to the end, verb to the end in subordinate and relative clauses."
+  }
+ ]
+}

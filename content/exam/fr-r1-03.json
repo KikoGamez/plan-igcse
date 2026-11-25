@@ -1,0 +1,95 @@
+{
+  "id": "fr-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Mettez les verbes entre parenthèses au passé composé.\n(a) Hier, mes cousines (partir) ______ à huit heures. [1]\n(b) Samedi, nous (voir) ______ un très bon film. [1]\n(c) Mon grand-père (descendre) ______ du train à Lyon. [1]",
+      "ms": [
+        "(a) sont parties (agreement required)",
+        "(b) avons vu",
+        "(c) est descendu"
+      ],
+      "model": "(a) sont parties (b) avons vu (c) est descendu",
+      "tip": "Verbs of movement like partir and descendre take être, and the participle agrees with the subject."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Compréhension orale (transcription). Vous entendez Nathan.\n« Avant, j'allais au collège à pied, mais depuis septembre, je prends le bus. Hier, pourtant, le bus était en panne, alors mon père m'a emmené en voiture. »\nRépondez en français.\n(a) Comment Nathan allait-il au collège avant ? [1]\n(b) Comment va-t-il au collège normalement maintenant ? [1]\n(c) Comment est-il allé au collège hier ? [1]",
+      "ms": [
+        "(a) à pied",
+        "(b) en bus / il prend le bus",
+        "(c) en voiture (avec son père)"
+      ],
+      "model": "(a) À pied.\n(b) En bus.\n(c) En voiture, avec son père.",
+      "tip": "The imperfect (j'allais) describes what used to happen; the passé composé (m'a emmené) is a single event."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Complétez le texte. Mettez chaque verbe à l'imparfait ou au passé composé.\n« Quand j'(a) ______ (avoir) dix ans, j'(b) ______ (habiter) dans un petit village. Un jour, mon père (c) ______ (trouver) un nouveau travail à Paris et nous (d) ______ (déménager). »",
+      "ms": [
+        "(a) avais",
+        "(b) habitais",
+        "(c) a trouvé",
+        "(d) avons déménagé"
+      ],
+      "model": "Quand j'avais dix ans, j'habitais dans un petit village. Un jour, mon père a trouvé un nouveau travail à Paris et nous avons déménagé.",
+      "tip": "Background and description → imparfait; 'un jour' signals a single completed action → passé composé."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Réécrivez les phrases en remplaçant « Paul » par « Claire et Sophie ». Faites tous les changements nécessaires.\n(a) Paul est arrivé en retard. [1]\n(b) Paul s'est levé très tôt. [1]\n(c) Paul est resté à la maison. [1]\n(d) Paul a mangé une pizza. [1]\n(e) Paul est né en 2010. [1]",
+      "ms": [
+        "(a) Claire et Sophie sont arrivées en retard.",
+        "(b) Claire et Sophie se sont levées très tôt.",
+        "(c) Claire et Sophie sont restées à la maison.",
+        "(d) Claire et Sophie ont mangé une pizza. (no agreement — reject mangées)",
+        "(e) Claire et Sophie sont nées en 2010.",
+        "both the auxiliary and the agreement must be correct for each mark"
+      ],
+      "model": "(a) Claire et Sophie sont arrivées en retard.\n(b) Claire et Sophie se sont levées très tôt.\n(c) Claire et Sophie sont restées à la maison.\n(d) Claire et Sophie ont mangé une pizza.\n(e) Claire et Sophie sont nées en 2010.",
+      "tip": "Only être verbs (and reflexives) agree with the subject: feminine plural adds -es. Avoir verbs do not."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez le texte et répondez aux questions en français.\n« Samedi dernier, Léa est arrivée à la gare à dix heures, mais le train était déjà parti : elle avait mal lu l'horaire. Elle était furieuse. Comme il faisait beau, elle a décidé de prendre son vélo. Elle a fait trente kilomètres et, quand elle est arrivée chez sa tante, toute la famille avait déjà mangé ! Heureusement, sa tante lui avait gardé une part de tarte. Le soir, elles ont regardé les photos que Léa avait prises en Italie l'été précédent. »\n(a) Pourquoi Léa a-t-elle raté le train ? [1]\n(b) Comment se sentait-elle ? [1]\n(c) Pourquoi a-t-elle décidé de prendre son vélo ? [1]\n(d) Quelle distance a-t-elle faite à vélo ? [1]\n(e) Qu'est-ce que la famille avait fait avant son arrivée ? [1]\n(f) Où Léa avait-elle pris les photos ? [1]",
+      "ms": [
+        "(a) elle avait mal lu l'horaire (reject 'le train était parti' alone)",
+        "(b) furieuse / en colère",
+        "(c) il faisait beau",
+        "(d) trente kilomètres / 30 km",
+        "(e) ils avaient (déjà) mangé / déjeuné",
+        "(f) en Italie"
+      ],
+      "model": "(a) Elle avait mal lu l'horaire.\n(b) Elle était furieuse.\n(c) Parce qu'il faisait beau.\n(d) Trente kilomètres.\n(e) Ils avaient déjà mangé.\n(f) En Italie, l'été précédent.",
+      "tip": "The plus-que-parfait (avait lu, avait mangé) tells you what had happened BEFORE the main event."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture. Écrivez un article (80–100 mots) pour le blog de votre école : « Une journée inoubliable ».\nMentionnez :\n• où vous étiez et avec qui\n• le temps qu'il faisait et ce que vous avez vu\n• ce qui s'est passé d'inattendu\n• ce que vous avez ressenti et pourquoi",
+      "ms": [
+        "place and companions given (imparfait or passé composé)",
+        "weather / description in the imparfait (il faisait…, c'était…)",
+        "events narrated in the passé composé, including at least one être verb with correct agreement",
+        "an unexpected event clearly described",
+        "feelings with a reason (j'étais…, parce que…)",
+        "range: connectives (soudain, ensuite, finalement), opinions, a reflexive verb or plus-que-parfait",
+        "accuracy of auxiliaries and past participles",
+        "all four points covered"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "All four points communicated clearly and developed. Confident, accurate mix of passé composé and imparfait; good range of vocabulary and structures (e.g. reflexive verbs, plus-que-parfait, connectives). Very few errors."},
+        {"m": "5–6", "d": "All or most points communicated. Both past tenses used, mostly correctly, with some variety of language. Some errors with auxiliaries or agreements, but meaning is clear."},
+        {"m": "3–4", "d": "Two or three points communicated. Past tenses attempted but often inaccurate or confused with the present. Limited range."},
+        {"m": "1–2", "d": "Little relevant communication. Mostly present tense or very short phrases; frequent errors."}
+      ],
+      "model": "L'été dernier, j'étais à la plage de Cadix avec ma meilleure amie et sa famille. Il faisait très chaud et la mer était calme. Le matin, nous avons nagé et nous avons vu des dauphins près des rochers ; c'était incroyable ! L'après-midi, soudain, le ciel est devenu noir et un orage a éclaté. Nous nous sommes cachées dans un petit café où un musicien jouait de la guitare. Finalement, nous sommes restées là jusqu'au soir. J'étais très heureuse parce que j'avais toujours rêvé de voir des dauphins.",
+      "tip": "Describe with the imparfait (il faisait chaud), narrate with the passé composé (nous avons vu)."
+    }
+  ]
+}

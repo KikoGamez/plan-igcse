@@ -1,0 +1,90 @@
+{
+  "id": "bio-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) Name the hormone secreted when the blood glucose concentration is too high. [1]\n(b) Name the substance that the liver stores when it removes excess glucose from the blood. [1]",
+      "ms": [
+        "(a) insulin",
+        "(b) glycogen (do not accept glucagon)"
+      ],
+      "model": "(a) Insulin.\n(b) Glycogen.",
+      "tip": "Glycogen is the storage carbohydrate; glucagon is the hormone. Spell them carefully."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Name the structure in the skin that:\n(a) contains fat and insulates the body\n(b) carries impulses from temperature receptors towards the brain\n(c) contracts to make the hairs stand up",
+      "ms": [
+        "(a) fatty tissue (allow adipose tissue)",
+        "(b) sensory neurone",
+        "(c) hair erector muscle"
+      ],
+      "model": "(a) Fatty tissue.\n(b) Sensory neurone.\n(c) Hair erector muscle.",
+      "tip": "Learn the syllabus names exactly: hair erector muscles, sensory neurones, fatty tissue."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Using the example of body temperature rising above normal, explain what is meant by homeostatic control by negative feedback.",
+      "ms": [
+        "there is a set point (about 37 °C)",
+        "a rise above the set point is detected (by receptors / the brain)",
+        "the brain coordinates a response by effectors (e.g. sweat glands, arterioles)",
+        "the response is the opposite of the change / brings the temperature back down",
+        "when the temperature returns to the set point, the response is reduced / switched off"
+      ],
+      "model": "The body has a set point for temperature of about 37 °C. If the temperature rises above it, the change is detected by receptors and by the brain. The brain coordinates responses by effectors, for example making sweat glands produce more sweat and causing vasodilation, which lower the temperature. This is negative feedback because the response reverses the change. Once the temperature is back at the set point, the responses are reduced.",
+      "tip": "Negative feedback means the response OPPOSES the change, bringing the value back to the set point."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A person drank a glucose solution at 0 minutes. Their blood glucose concentration was measured.\ntime / min:                    0  |  30 |  60 |  90 | 120\nblood glucose / mmol per dm³: 5.0 | 8.5 | 7.0 | 5.8 | 5.2\n(a) Calculate the percentage increase in blood glucose concentration between 0 and 30 minutes. [2]\n(b) Explain how the concentration is brought back down between 30 and 120 minutes. [3]",
+      "ms": [
+        "(a) M1: (8.5 − 5.0) ÷ 5.0 × 100",
+        "(a) A1: 70 %",
+        "(b) the pancreas detects the rise and secretes insulin",
+        "(b) insulin travels in the blood to the liver",
+        "(b) liver converts glucose to glycogen / takes up and stores glucose"
+      ],
+      "model": "(a) Increase = 8.5 − 5.0 = 3.5. 3.5 ÷ 5.0 × 100 = 70 %.\n(b) The pancreas detects the high glucose concentration and secretes insulin into the blood. Insulin travels to the liver, which takes up glucose and converts it into glycogen to store it. This lowers the blood glucose concentration back towards the set point.",
+      "tip": "Insulin does not 'turn into' glycogen: it makes the liver convert glucose into glycogen."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Explain how changes in the arterioles supplying the skin surface capillaries help to control body temperature:\n• on a very hot day\n• on a very cold day",
+      "ms": [
+        "hot: vasodilation / arterioles (supplying skin capillaries) widen",
+        "hot: more blood flows through capillaries near the skin surface",
+        "hot: more heat lost (by radiation) to the surroundings",
+        "cold: vasoconstriction / arterioles narrow",
+        "cold: less blood flows through the skin surface capillaries / blood diverted away from the surface",
+        "cold: less heat lost / heat kept in the body",
+        "the brain detects the blood temperature and coordinates these changes",
+        "the capillaries / blood vessels do not move up or down in the skin"
+      ],
+      "model": "On a hot day the brain detects the rise in blood temperature and causes vasodilation: the arterioles supplying the skin surface capillaries widen, so more blood flows close to the skin surface and more heat is lost to the surroundings by radiation. On a cold day vasoconstriction happens: these arterioles narrow, so less blood flows through the surface capillaries and less heat is lost, keeping heat in the body core. The blood vessels do not move; only the amount of blood flowing through the surface capillaries changes.",
+      "tip": "It is the ARTERIOLES that widen or narrow, and the vessels never move towards or away from the surface."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A student models heat loss from the body using three identical flasks, each filled with 200 cm³ of water at 80 °C.\nFlask 1: no covering. Flask 2: wrapped in a thick layer of cotton wool. Flask 3: wrapped in a wet cloth.\nAfter 10 minutes the temperatures were: flask 1: 56 °C; flask 2: 71 °C; flask 3: 48 °C.\n(a) Calculate the mean rate of cooling of flask 1 and of flask 2, in °C per minute. [2]\n(b) Flask 2 models a structure in the skin. Name this structure and explain why the flask cooled more slowly. [2]\n(c) Explain why flask 3 cooled fastest, and state which process in the body it models. [2]\n(d) State two variables, other than the starting volume and temperature of water, that should be kept the same. [2]",
+      "ms": [
+        "(a) flask 1: 24 ÷ 10 = 2.4 °C per min",
+        "(a) flask 2: 9 ÷ 10 = 0.9 °C per min",
+        "(b) fatty tissue / hair (trapping air)",
+        "(b) acts as an insulator / reduces heat loss (by conduction)",
+        "(c) water evaporates from the cloth, which transfers heat (energy) from the flask",
+        "(c) models sweating",
+        "(d) one variable: size / type / material of flask",
+        "(d) a second variable: room temperature / air movement (draughts) / same thermometer / thickness of covering"
+      ],
+      "model": "(a) Flask 1: (80 − 56) ÷ 10 = 2.4 °C per min. Flask 2: (80 − 71) ÷ 10 = 0.9 °C per min.\n(b) Fatty tissue. The cotton wool is an insulator: it traps air and reduces heat loss, so the water cooled more slowly.\n(c) Water evaporated from the wet cloth, and evaporation takes heat energy from the flask, so it cooled fastest. This models sweating.\n(d) The room temperature, and the size and type of flask.",
+      "tip": "Sweat cools the body only when it evaporates — dripping sweat does not cool."
+    }
+  ]
+}

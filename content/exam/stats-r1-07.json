@@ -1,0 +1,85 @@
+{
+ "id": "stats-r1-07",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A time series graph shows quarterly ice-cream sales from 2021 to 2024. Every year the sales are highest in Quarter 3 and lowest in Quarter 1, and each year's sales are higher than in the year before.\n(a) Describe the trend. [1]\n(b) Describe the seasonal variation. [1]",
+   "ms": [
+    "(a) B1: increasing / upward trend: sales are rising over time",
+    "(b) B1: sales peak in Quarter 3 (summer) and are lowest in Quarter 1 every year (repeating pattern)"
+   ],
+   "model": "(a) The trend is upward: ice-cream sales are generally increasing from year to year.\n(b) There is a repeating yearly pattern: sales are highest in Quarter 3 and lowest in Quarter 1.",
+   "tip": "Trend = long-term direction; seasonal variation = the pattern that repeats each cycle."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) Monthly data for January, February and March are used to calculate a 3-point moving average. State where this moving average should be plotted. [1]\n(b) Quarterly data for Quarters 1 to 4 of 2023 are used to calculate a 4-point moving average. State where this moving average should be plotted. [1]",
+   "ms": [
+    "(a) B1: at February (the middle month)",
+    "(b) B1: halfway between Quarter 2 and Quarter 3 of 2023"
+   ],
+   "model": "(a) At February, the middle of the three months.\n(b) Halfway between Quarter 2 and Quarter 3 of 2023, the middle of the four quarters.",
+   "tip": "Plot every moving average at the middle of the values it uses."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The number of books (in hundreds) borrowed from a library each term for three years is shown.\n\n          Term 1   Term 2   Term 3\nYear 1      36       51       24\nYear 2      42       57       30\nYear 3      45       63       33\n\n(a) Calculate the 3-point moving averages. [3]\n(b) Describe the trend shown by the moving averages. [1]",
+   "ms": [
+    "M1: correct method, e.g. (36 + 51 + 24) ÷ 3 = 37",
+    "A1: at least four correct from 37, 39, 41, 43, 44, 46, 47",
+    "A1: all seven correct: 37, 39, 41, 43, 44, 46, 47",
+    "(b) B1: upward/increasing trend: the number of books borrowed is generally rising"
+   ],
+   "model": "(a) (36 + 51 + 24) ÷ 3 = 37; (51 + 24 + 42) ÷ 3 = 39; (24 + 42 + 57) ÷ 3 = 41; (42 + 57 + 30) ÷ 3 = 43; (57 + 30 + 45) ÷ 3 = 44; (30 + 45 + 63) ÷ 3 = 46; (45 + 63 + 33) ÷ 3 = 47.\n(b) The moving averages rise steadily from 37 to 47, so there is an upward trend in the number of books borrowed.",
+   "tip": "Three terms make one cycle, so a 3-point moving average is used; n values give n − 2 averages."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "The number of books (in hundreds) borrowed from a library each term is shown, with the 3-point moving average plotted at each Term 2.\n\n          Term 2 value   Moving average at that term\nYear 1        51                 37\nYear 2        57                 43\nYear 3        63                 47\n\n(a) Calculate the seasonal variation for Term 2 in each year. [2]\n(b) Calculate the mean seasonal variation for Term 2. [1]\nThe trend line drawn through the moving averages gives a trend value of 52 for Term 2 of Year 4.\n(c) Predict the number of books that will be borrowed in Term 2 of Year 4. [1]\n(d) Give one reason why your prediction may not be reliable. [1]",
+   "ms": [
+    "M1: seasonal variation = actual − trend, e.g. 51 − 37",
+    "A1: 14, 14, 16",
+    "(b) B1: 14.7 (awrt 14.7; ft)",
+    "(c) B1: 52 + 14.7 = 66.7 hundred books (allow 6670 books; ft)",
+    "(d) B1: e.g. it is extrapolation / the trend may not continue / the trend line is drawn by eye / something may change, e.g. library opening hours"
+   ],
+   "model": "(a) Year 1: 51 − 37 = 14; Year 2: 57 − 43 = 14; Year 3: 63 − 47 = 16.\n(b) Mean = (14 + 14 + 16) ÷ 3 = 44 ÷ 3 = 14.7.\n(c) Prediction = 52 + 14.7 = 66.7 hundred, i.e. about 6670 books.\n(d) It is based on extrapolating the trend line, which assumes the upward trend continues; a change such as new opening hours could alter borrowing.",
+   "tip": "Seasonal variation is actual minus trend; the prediction is trend plus the mean seasonal variation."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "A family's quarterly gas bills, in euros, are shown.\n\n        Q1    Q2    Q3    Q4\n2023   210   120    80   190\n2024   226   132    92   206\n2025   238\n\n(a) Calculate the 4-point moving averages. [3]\n(b) Describe the trend. [1]\nA trend line is drawn through the moving averages. It gives trend values of 152 for Q3 2023, 165 for Q3 2024 and 179 for Q3 2025.\n(c) Calculate the seasonal variation for Q3 in 2023 and 2024. [2]\n(d) Calculate the mean seasonal variation for Q3. [1]\n(e) Predict the gas bill for Q3 2025. [1]",
+   "ms": [
+    "M1: correct method, e.g. (210 + 120 + 80 + 190) ÷ 4 = 150",
+    "A1: at least three of 150, 154, 157, 160, 164, 167",
+    "A1: all six correct: 150, 154, 157, 160, 164, 167",
+    "(b) B1: increasing trend: gas bills are rising over time",
+    "(c) M1: 80 − 152 or 92 − 165",
+    "(c) A1: −72 and −73",
+    "(d) B1: −72.5 (ft)",
+    "(e) B1: 179 − 72.5 = €106.50 (allow €106 or €107; ft)"
+   ],
+   "model": "(a) (210 + 120 + 80 + 190) ÷ 4 = 150; (120 + 80 + 190 + 226) ÷ 4 = 154; (80 + 190 + 226 + 132) ÷ 4 = 157; (190 + 226 + 132 + 92) ÷ 4 = 160; (226 + 132 + 92 + 206) ÷ 4 = 164; (132 + 92 + 206 + 238) ÷ 4 = 167.\n(b) The moving averages increase from 150 to 167, so there is an upward trend in the gas bills.\n(c) 2023: 80 − 152 = −72. 2024: 92 − 165 = −73.\n(d) Mean = (−72 + −73) ÷ 2 = −72.5.\n(e) Prediction = 179 + (−72.5) = €106.50.",
+   "tip": "Keep the minus sign on seasonal variations: Q3 bills are below the trend, so the prediction is below 179."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "The quarterly sales, in thousands, of a shop for five consecutive quarters are 38, 52, x, 41 and y.\nThe first two 4-point moving averages are 45.5 and 47.0.\n(a) Find the value of x. [2]\n(b) Find the value of y. [2]\n(c) Explain why the difference between y and 38 must equal 4 × (47.0 − 45.5). [1]",
+   "ms": [
+    "M1: 38 + 52 + x + 41 = 4 × 45.5 = 182",
+    "A1: x = 51",
+    "M1: 52 + x + 41 + y = 4 × 47.0 = 188 (ft their x)",
+    "A1: y = 44",
+    "(c) B1: the two moving averages share the values 52, x and 41, so the difference in their totals (4 × 1.5 = 6) is y − 38 (oe)"
+   ],
+   "model": "(a) 38 + 52 + x + 41 = 4 × 45.5 = 182, so 131 + x = 182 and x = 51.\n(b) 52 + 51 + 41 + y = 4 × 47.0 = 188, so 144 + y = 188 and y = 44.\n(c) The second total is the first total with 38 removed and y added. The totals differ by 4 × (47.0 − 45.5) = 6, so y − 38 = 6 (check: 44 − 38 = 6).",
+   "tip": "Turn each moving average back into a total by multiplying by the number of points."
+  }
+ ]
+}

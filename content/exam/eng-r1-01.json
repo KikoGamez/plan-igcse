@@ -1,0 +1,86 @@
+{
+  "id": "eng-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The Paper 2 composition (Section B) is marked out of 40.\n\nState the two areas the marks are divided into and how many marks each is worth. [2]",
+      "ms": [
+        "Content and structure: 16 marks (1)",
+        "Style and accuracy: 24 marks (1)"
+      ],
+      "model": "16 marks are for content and structure, and 24 marks are for style and accuracy.",
+      "tip": "Style and accuracy is worth more — vocabulary, sentence control and correct spelling and punctuation really matter."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "For each task below, state which paper and which question (or section) it belongs to.\n(a) “Imagine you are the lighthouse keeper’s daughter. Write a letter to a friend about the night of the storm, based on Text C.” [1]\n(b) “Re-read paragraphs 3 and 6. Explain how the writer uses language to convey meaning and to create effect in these paragraphs.” [1]",
+      "ms": [
+        "(a) Paper 1, Question 3 (extended response to reading, on Text C) (1)",
+        "(b) Paper 1, Question 2 — the final part (writer’s effect / language question on Text C) (1)"
+      ],
+      "model": "(a) Paper 1, Question 3 – the extended response to reading based on Text C.\n(b) Paper 1, Question 2 – the writer’s effect question at the end of Question 2.",
+      "tip": "Both Question 2 and Question 3 of Paper 1 are based on Text C."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "State which assessment objective is mainly tested by each of these tasks.\n(a) “Give two reasons from paragraph 2 why the village was abandoned.” [1]\n(b) “Explain how the writer uses language to create a sense of danger in paragraph 4.” [1]\n(c) Writing a speech for an audience of 14-year-olds in a tone that suits them. [1]",
+      "ms": [
+        "(a) R1 — understanding explicit meanings (1) (allow R5 select information for a specific purpose)",
+        "(b) R4 — how writers achieve effects and influence readers (1)",
+        "(c) W4 — register appropriate to context (1) (allow W3 if linked to vocabulary chosen for the audience)"
+      ],
+      "model": "(a) R1 – explicit meaning.\n(b) R4 – how writers achieve effects.\n(c) W4 – using a register appropriate to the audience and context.",
+      "tip": "Knowing the AOs helps you see what the examiner is looking for in each answer."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student plans to spend the two hours of Paper 1 like this:\n• Question 1 short answers: 45 minutes\n• Summary: 15 minutes\n• Question 2 short answers: 15 minutes\n• Writer’s effect: 35 minutes\n• Question 3 extended response: 10 minutes\n\nIdentify two problems with this plan and explain why each would cost marks. [4]",
+      "ms": [
+        "Problem 1: far too long on Q1 short answers (45 min for about 15 marks; about 20 min is enough) (1)",
+        "Explanation: time taken from higher-value tasks; marks per minute very low (1)",
+        "Problem 2: only 10 minutes for Q3, which is worth 25 marks (1)",
+        "Explanation: cannot plan, cover all bullet points or reach 250–350 words; both reading and writing marks suffer (1)",
+        "Alternative: summary given only 15 minutes for 15 marks — rushed selection of ideas, no time to redraft into own words within 120 words (1)",
+        "Alternative: writer’s effect slightly over-timed (35 min for 15 marks) (1)"
+      ],
+      "model": "First, 45 minutes is far too long for the Question 1 short answers, which are worth only about 15 marks; about 20 minutes is enough. The extra time is wasted on low-value questions.\nSecond, only 10 minutes is left for Question 3, which is worth 25 marks. In that time the student cannot plan, cover all the bullet points or write 250–350 words, so both the reading and the writing marks would be low. Question 3 needs about 35 minutes.",
+      "tip": "Spend time in proportion to marks — roughly a mark a minute after reading."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "A student’s summary for Paper 1 is 180 words long. It includes almost every relevant idea from Text B, but most sentences are copied word for word from the text.\n\nExplain how this answer would be judged against the Reading (10 marks) and Writing (5 marks) criteria, and what the student should do differently. [5]",
+      "ms": [
+        "Reading: selecting most of the relevant ideas is rewarded, so the reading mark could be reasonable (1)",
+        "Reading: but copying does not clearly show understanding of the ideas, which can hold the mark back (1)",
+        "Writing: copied/lifted text is not ‘own words’, so the writing mark will be low (1)",
+        "Writing: going well over 120 words shows lack of concision/control, which is penalised (1)",
+        "Improvement: rewrite ideas in own words and generalise examples (1)",
+        "Improvement: combine related ideas into concise sentences and stay within 120 words (1)"
+      ],
+      "model": "For Reading, the student would get some credit because they have found almost all the relevant ideas. However, copying whole sentences does not show that they understand those ideas, so the mark may be limited.\nFor Writing, the mark would be low. The summary is mostly lifted from the text rather than in the student’s own words, and at 180 words it is well over the 120-word limit, so it is not concise.\nThe student should note the ideas first, then rewrite each one in their own words, combine related points and generalise examples, so the answer stays under 120 words.",
+      "tip": "The summary rewards WHAT you select (reading) and HOW concisely you express it (writing)."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Two students answer the Paper 2 directed writing task, which asks them to write a letter giving their views on two texts about school uniform.\n• Student X: summarises Text 1 in one paragraph, summarises Text 2 in the next, and ends “I agree with both texts.”\n• Student Y: picks out ideas from both texts, judges how convincing each one is, and builds a clear argument for a compromise.\n\nExplain which student is likely to gain the higher Reading mark and why. Then explain two things Student X should do to reach a higher level. [6]",
+      "ms": [
+        "Student Y gains the higher Reading mark (1)",
+        "Because Y evaluates ideas (judges how strong/convincing they are) rather than just repeating them (1)",
+        "Y combines ideas from both texts into a developed argument, which the top levels require (1)",
+        "X only reports/summarises the texts, which keeps the reading mark in a lower level (1)",
+        "X should evaluate ideas, e.g. question evidence, bias, or how far an idea applies (1)",
+        "X should take a clear position and organise the letter around an argument, not text-by-text (1)",
+        "X should read between the lines / comment on implicit attitudes in the texts (1)",
+        "X’s “agree with both” is contradictory/unconvincing — needs a reasoned own view (1)"
+      ],
+      "model": "Student Y would gain the higher Reading mark. The top levels reward evaluating ideas from both texts – judging how convincing they are – and using them to build a clear argument, which is what Y does. Student X only reports what each text says, so the answer shows understanding but not evaluation, and it stays in a lower level.\nTo improve, Student X should first evaluate the ideas, for example by pointing out when a claim has little evidence or when the writer may be biased. Second, X should decide on a clear position and organise the letter around that argument, mixing ideas from both texts in each paragraph, instead of writing one paragraph per text and ending with a contradictory “I agree with both”.",
+      "tip": "In directed writing, reporting = middle level at best; evaluating = top level."
+    }
+  ]
+}

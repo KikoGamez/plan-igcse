@@ -1,0 +1,81 @@
+{
+  "id": "math-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) Write 4.06 × 10⁻³ as an ordinary number. [1]\n(b) Write 72 500 000 in standard form. [1]",
+      "ms": [
+        "(a) B1: 0.004 06",
+        "(b) B1: 7.25 × 10⁷"
+      ],
+      "model": "(a) Move the decimal point 3 places to the left: 0.004 06.\n(b) 72 500 000 = 7.25 × 10 000 000 = 7.25 × 10⁷.",
+      "tip": "In standard form the first number must be at least 1 and less than 10: 72.5 × 10⁶ scores 0."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The mass of a parcel is 3.8 kg, correct to the nearest 100 g.\nWrite down the lower bound and the upper bound of the mass, in grams.",
+      "ms": [
+        "B1: lower bound 3750 g",
+        "B1: upper bound 3850 g"
+      ],
+      "model": "3.8 kg = 3800 g. Half of 100 g is 50 g.\nLower bound = 3750 g, upper bound = 3850 g.",
+      "tip": "Halve the degree of accuracy (100 g → 50 g) and convert units before you add and subtract."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "Do not use a calculator in this question. Give each answer in standard form.\n(a) Work out (6.3 × 10⁵) ÷ (9 × 10⁻²). [2]\n(b) Work out (2 × 10⁴)³. [1]",
+      "ms": [
+        "(a) M1: 0.7 × 10⁷ seen, or 6.3 ÷ 9 = 0.7 and 5 − (−2) = 7",
+        "(a) A1: 7 × 10⁶",
+        "(b) B1: 8 × 10¹²"
+      ],
+      "model": "(a) 6.3 ÷ 9 = 0.7 and 10⁵ ÷ 10⁻² = 10⁷, so the answer is 0.7 × 10⁷ = 7 × 10⁶.\n(b) 2³ = 8 and (10⁴)³ = 10¹², so the answer is 8 × 10¹².",
+      "tip": "0.7 × 10⁷ is not in standard form; adjust it to 7 × 10⁶."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A colony of bacteria has a population of 2.4 × 10⁴. The population increases by 15% every hour.\n(a) Calculate the population after 6 hours. Give your answer in standard form, correct to 3 significant figures. [2]\n(b) Find the number of complete hours until the population first exceeds 1 × 10⁵. [2]",
+      "ms": [
+        "(a) M1: 2.4 × 10⁴ × 1.15⁶",
+        "(a) A1: 5.55 × 10⁴",
+        "(b) M1: trials showing 2.4 × 10⁴ × 1.15¹⁰ (= 97 100) and 2.4 × 10⁴ × 1.15¹¹ (= 111 700), or equivalent",
+        "(b) A1: 11"
+      ],
+      "model": "(a) 24 000 × 1.15⁶ = 55 513.4… ≈ 5.55 × 10⁴.\n(b) After 10 hours: 24 000 × 1.15¹⁰ = 97 093 (below 100 000).\nAfter 11 hours: 24 000 × 1.15¹¹ = 111 657 (above 100 000).\nSo it takes 11 hours.",
+      "tip": "Show the trial on each side of the target value: that is what earns the method mark."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A metal cube has side length 4.3 cm, correct to the nearest 0.1 cm.\nIts mass is 640 g, correct to the nearest 10 g.\nDensity = mass ÷ volume.\n(a) Calculate the upper bound of the density of the metal. Give your answer correct to 3 significant figures. [3]\n(b) Calculate the lower bound of the density. Give your answer correct to 3 significant figures. [2]\n(c) Use your answers to (a) and (b) to give the density to a suitable degree of accuracy. Give a reason for your answer. [1]",
+      "ms": [
+        "(a) B1: 645 and 4.25 seen",
+        "(a) M1: 645 ÷ 4.25³ (their upper mass ÷ their lower side cubed)",
+        "(a) A1: 8.40 g/cm³ (8.402…)",
+        "(b) M1: 635 ÷ 4.35³",
+        "(b) A1: 7.71 g/cm³ (7.714…)",
+        "(c) B1: 8 g/cm³, because both bounds round to 8 correct to 1 significant figure"
+      ],
+      "model": "(a) Upper mass = 645 g, lower side = 4.25 cm.\nUpper density = 645 ÷ 4.25³ = 645 ÷ 76.765… = 8.40 g/cm³.\n(b) Lower mass = 635 g, upper side = 4.35 cm.\nLower density = 635 ÷ 4.35³ = 635 ÷ 82.312… = 7.71 g/cm³.\n(c) 8 g/cm³ (1 s.f.), because 8.40 and 7.71 both round to 8 to 1 significant figure but not to the same value to 2 significant figures.",
+      "tip": "For a division, the upper bound is (biggest top) ÷ (smallest bottom)."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "(a) A boat loses 8% of its value every year. After 3 years it is worth €38 934.40.\nCalculate the value of the boat when it was new. [2]\n(b) Kai invests €10 000 at r% per year compound interest. After 5 years the investment is worth €12 166.53.\nFind the value of r. [3]",
+      "ms": [
+        "(a) M1: 38 934.40 ÷ 0.92³",
+        "(a) A1: €50 000",
+        "(b) M1: 10 000 × (1 + r/100)⁵ = 12 166.53 oe",
+        "(b) M1: (12 166.53 ÷ 10 000)^(1/5) or ⁵√1.216653 (allow trial and improvement reaching 1.04)",
+        "(b) A1: r = 4"
+      ],
+      "model": "(a) Value now = original × 0.92³, so original = 38 934.40 ÷ 0.92³ = 38 934.40 ÷ 0.778688 = €50 000.\n(b) 10 000 × m⁵ = 12 166.53, so m⁵ = 1.216653.\nm = ⁵√1.216653 = 1.04, so r = 4.",
+      "tip": "Reverse depreciation: divide by the multiplier to the power of the number of years; never add 8% back three times."
+    }
+  ]
+}

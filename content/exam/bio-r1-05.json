@@ -1,0 +1,87 @@
+{
+  "id": "bio-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State one good dietary source of:\n(a) carbohydrate\n(b) vitamin C",
+      "ms": [
+        "(a) any one: bread / rice / pasta / potatoes / cereals",
+        "(b) any one: citrus fruit / oranges / lemons / fresh fruit / fresh vegetables (e.g. peppers)"
+      ],
+      "model": "(a) Rice.\n(b) Oranges.",
+      "tip": "Name a food, not a nutrient ('sugar' or 'starch' is not a food source)."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Name the part of the alimentary canal where each of these happens.\n(a) Food is carried from the mouth to the stomach.\n(b) The chemical digestion of protein begins.\n(c) Most of the small soluble molecules from digestion are absorbed into the blood.",
+      "ms": [
+        "(a) oesophagus",
+        "(b) stomach",
+        "(c) small intestine / ileum"
+      ],
+      "model": "(a) Oesophagus.\n(b) Stomach.\n(c) Small intestine (ileum).",
+      "tip": "Spelling: oesophagus. Don't confuse it with the trachea."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Chewing food and the action of bile on fats are both types of physical digestion.\nExplain how each of them helps chemical digestion.",
+      "ms": [
+        "chewing breaks food into smaller pieces",
+        "bile emulsifies fats / breaks fats into small droplets",
+        "this increases the surface area (for enzymes to act on)",
+        "so (lipase / enzymes) digest the food / fat faster",
+        "no chemical change to the food molecules in either process"
+      ],
+      "model": "Chewing breaks food into smaller pieces, and bile emulsifies fats, breaking them into many tiny droplets. Neither process changes the food molecules chemically, but both increase the surface area of the food. This means enzymes such as amylase and lipase have more surface to act on, so chemical digestion is faster.",
+      "tip": "Bile contains no enzymes: it emulsifies fat, it does not digest it."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student set up three tubes of milk at 35 °C, each with an indicator that changes colour when the pH falls.\nTube A: milk + lipase. Colour changed after 8 minutes.\nTube B: milk + lipase + bile salts. Colour changed after 4 minutes.\nTube C: milk + boiled lipase. No colour change after 20 minutes.\n(a) Explain why the pH falls in tube A. [1]\n(b) Explain why the colour changed faster in tube B. [2]\n(c) Explain the result in tube C. [1]",
+      "ms": [
+        "(a) lipase breaks fat into fatty acids (and glycerol); fatty acids lower the pH",
+        "(b) bile salts emulsify the fat / break it into smaller droplets",
+        "(b) larger surface area for lipase, so fatty acids produced faster",
+        "(c) boiling denatured the lipase, so no fat was digested / no fatty acids made"
+      ],
+      "model": "(a) Lipase digests fat in the milk into fatty acids and glycerol; the fatty acids make the pH fall.\n(b) Bile salts emulsify the fat into smaller droplets, which gives a larger surface area for lipase to act on, so fatty acids are produced faster.\n(c) Boiling denatured the lipase, so no fat was digested and the pH did not change.",
+      "tip": "Tube C is the control: it shows the enzyme is responsible for the change."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The table shows the daily intake of some nutrients by a 15-year-old girl and the recommended daily intake.\nnutrient:          daily intake | recommended\nvitamin C / mg:         15      |    40\ncalcium / mg:          500      |  1000\nfibre / g:              10      |    30\niron / mg:              14      |    15\n(a) Calculate her calcium intake as a percentage of the recommended intake. [1]\n(b) Identify the two nutrients where her intake is furthest below the recommended intake, as a percentage. State a likely health problem caused by each deficiency. [4]\n(c) Suggest one change to her diet that would help. [1]",
+      "ms": [
+        "(a) 50 %",
+        "(b) vitamin C (about 38 %)",
+        "(b) lack of vitamin C → scurvy (allow bleeding gums / poor healing)",
+        "(b) fibre (about 33 %)",
+        "(b) lack of fibre → constipation (allow food moves slowly through the gut)",
+        "(c) eat more fresh fruit / vegetables / wholemeal bread / cereals (any sensible food linked to the deficiencies)"
+      ],
+      "model": "(a) 500 ÷ 1000 × 100 = 50 %.\n(b) Fibre: 10 ÷ 30 = 33 % of the recommended amount, which may cause constipation. Vitamin C: 15 ÷ 40 = 38 %, which may cause scurvy.\n(c) Eat more fresh fruit and vegetables, which provide both vitamin C and fibre.",
+      "tip": "Compare as percentages, not as raw differences — the units are different for each nutrient."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Describe what happens to the starch in a piece of bread from the time it is ingested until the products are used in a muscle cell.",
+      "ms": [
+        "ingestion: bread taken into the mouth",
+        "chewing / physical digestion breaks it into smaller pieces, increasing surface area",
+        "amylase in saliva (from the salivary glands) starts to break starch into simple reducing sugars",
+        "swallowed through the oesophagus to the stomach (amylase does not work in the acid)",
+        "amylase from the pancreas continues digestion in the small intestine / duodenum",
+        "the sugars (glucose) are absorbed in the small intestine / ileum into the blood",
+        "assimilation: glucose taken into the muscle cell and used in respiration to release energy",
+        "undigested material (e.g. fibre) is egested as faeces"
+      ],
+      "model": "The bread is ingested and chewed, which breaks it into smaller pieces and increases its surface area. Amylase in saliva starts to break the starch down into simple reducing sugars. The food is swallowed down the oesophagus into the stomach, where amylase stops working in the acid. In the small intestine, amylase from the pancreas digests the rest of the starch. The sugars, finally glucose, are absorbed through the wall of the small intestine into the blood. The blood carries the glucose to a muscle cell, where it is assimilated and used in respiration to release energy. Undigested fibre in the bread passes on and is egested as faeces.",
+      "tip": "Use the five process words: ingestion, digestion, absorption, assimilation, egestion."
+    }
+  ]
+}

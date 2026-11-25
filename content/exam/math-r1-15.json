@@ -1,0 +1,84 @@
+{
+  "id": "math-r1-15",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Do not use a calculator in this question.\nA square has side length 5 cm. Find the length of its diagonal. Give your answer as a surd in its simplest form.",
+      "ms": [
+        "M1: √(5² + 5²) or √50",
+        "A1: 5√2 cm"
+      ],
+      "model": "Diagonal = √(25 + 25) = √50 = √25 × √2 = 5√2 cm.",
+      "tip": "Simplify the surd by finding the largest square factor (25)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) The bearing of P from Q is 290°. Find the bearing of Q from P. [1]\n(b) R is south-east of S. Write down the bearing of R from S. [1]",
+      "ms": [
+        "(a) B1: 110°",
+        "(b) B1: 135°"
+      ],
+      "model": "(a) 290 − 180 = 110°.\n(b) South-east is halfway between east (090°) and south (180°): 135°.",
+      "tip": "Bearings always have three figures and are measured clockwise from north."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Ben looks out of a window that is 12 m above horizontal ground.\nThe angle of depression from the window to the foot of a tree is 28°.\nThe angle of elevation from the window to the top of the tree is 15°.\nCalculate the height of the tree.",
+      "ms": [
+        "M1: horizontal distance = 12 ÷ tan 28° (= 22.57)",
+        "M1: their 22.57 × tan 15° (= 6.05)",
+        "M1: 12 + their 6.05",
+        "A1: 18.0 m (18.04 to 18.05)"
+      ],
+      "model": "Horizontal distance to the tree: d = 12 ÷ tan 28° = 22.57 m.\nHeight of tree above window level: 22.57 × tan 15° = 6.05 m.\nHeight of tree = 12 + 6.05 = 18.0 m (3 s.f.).",
+      "tip": "Split the picture into two right-angled triangles that share the horizontal distance."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A boat sails 9 km due east from harbour H, then 14 km due south to point K.\n(a) Calculate the distance HK. [2]\n(b) Calculate the bearing of K from H. [2]\n(c) Find the bearing of H from K. [1]",
+      "ms": [
+        "(a) M1: √(9² + 14²) or √277",
+        "(a) A1: 16.6 km (16.64…)",
+        "(b) M1: tan⁻¹(14/9) (= 57.3) or tan⁻¹(9/14) (= 32.7)",
+        "(b) A1: 147.3° (147.26…)",
+        "(c) B1: 327.3° FT 180 + their (b)"
+      ],
+      "model": "(a) HK = √(81 + 196) = √277 = 16.6 km.\n(b) The angle at H between east and HK is tan⁻¹(14/9) = 57.26°.\nBearing = 90 + 57.26 = 147.3°.\n(c) 147.3 + 180 = 327.3°.",
+      "tip": "Draw a north line at H and measure the bearing clockwise from it."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "In quadrilateral ABCD, angle ABC = 90° and angle ACD = 90°.\nAB = 7 cm, BC = 24 cm and CD = 10 cm.\n(a) Calculate AC. [2]\n(b) Calculate AD. [2]\n(c) Calculate angle BAD. [3]",
+      "ms": [
+        "(a) M1: √(7² + 24²)",
+        "(a) A1: 25 cm",
+        "(b) M1: √(25² + 10²) FT their AC",
+        "(b) A1: 26.9 cm (26.92…)",
+        "(c) M1: angle BAC = tan⁻¹(24/7) (= 73.7°)",
+        "(c) M1: angle CAD = tan⁻¹(10/25) (= 21.8°)",
+        "(c) A1: 95.5°"
+      ],
+      "model": "(a) AC = √(49 + 576) = √625 = 25 cm.\n(b) AD = √(25² + 10²) = √725 = 26.9 cm.\n(c) Angle BAC = tan⁻¹(24/7) = 73.74°.\nAngle CAD = tan⁻¹(10/25) = 21.80°.\nAngle BAD = 73.74 + 21.80 = 95.5°.",
+      "tip": "Find the shared side (AC) first: it links the two right-angled triangles."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Two points A and B are on horizontal ground, in a straight line with the foot F of a vertical tower. A is between B and F, and AB = 30 m.\nThe angle of elevation of the top of the tower from A is 40°. The angle of elevation of the top of the tower from B is 25°.\nCalculate the height of the tower.",
+      "ms": [
+        "M1: h = AF tan 40° (or AF = h ÷ tan 40°)",
+        "M1: h = (AF + 30) tan 25° (or BF = h ÷ tan 25°)",
+        "M1: eliminates to form one equation, e.g. AF(tan 40° − tan 25°) = 30 tan 25°, or h/tan 25° − h/tan 40° = 30",
+        "M1: AF = 37.5 or complete rearrangement for h",
+        "A1: 31.5 m (31.48…)"
+      ],
+      "model": "Let AF = d and the height = h.\nh = d tan 40° and h = (d + 30) tan 25°.\nd tan 40° = d tan 25° + 30 tan 25°\nd (0.8391 − 0.4663) = 13.989\nd = 37.53 m\nh = 37.53 × tan 40° = 31.5 m.",
+      "tip": "With two unknowns, write one equation for each right-angled triangle and solve them together."
+    }
+  ]
+}

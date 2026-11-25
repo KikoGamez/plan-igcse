@@ -1,0 +1,86 @@
+{
+  "id": "math-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A train travels at a constant speed of 54 km/h.\n(a) Change 54 km/h into metres per second. [1]\n(b) How many seconds does the train take to travel 600 m? [1]",
+      "ms": [
+        "(a) B1: 15 m/s",
+        "(b) B1: 40 s FT their (a)"
+      ],
+      "model": "(a) 54 × 1000 ÷ 3600 = 15 m/s.\n(b) 600 ÷ 15 = 40 seconds.",
+      "tip": "km/h → m/s: multiply by 1000 and divide by 3600 (or divide by 3.6)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "y = 5x⁴ − 3x² + 2x − 7.\nFind dy/dx.",
+      "ms": [
+        "B1: any two of the three terms 20x³, −6x, +2 correct",
+        "B1: 20x³ − 6x + 2 fully correct with no constant term"
+      ],
+      "model": "dy/dx = 20x³ − 6x + 2",
+      "tip": "The constant −7 differentiates to 0, and 2x differentiates to 2."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A bus starts from rest and accelerates uniformly for 15 seconds until its speed is 12 m/s.\nIt then travels at 12 m/s for 40 seconds.\nIt then decelerates uniformly to rest in 10 seconds.\n(a) Calculate the acceleration during the first 15 seconds. [1]\n(b) Calculate the total distance travelled. [3]\n(c) Calculate the average speed for the whole journey. [1]",
+      "ms": [
+        "(a) B1: 0.8 m/s²",
+        "(b) M1: one correct area, e.g. ½ × 15 × 12 = 90",
+        "(b) M1: complete method for total area, e.g. 90 + 40 × 12 + ½ × 10 × 12 or ½(40 + 65) × 12",
+        "(b) A1: 630 m",
+        "(c) B1: 9.69 m/s (9.692…) FT their (b) ÷ 65"
+      ],
+      "model": "(a) 12 ÷ 15 = 0.8 m/s².\n(b) Area under the speed–time graph:\n½ × 15 × 12 + 40 × 12 + ½ × 10 × 12 = 90 + 480 + 60 = 630 m.\n(c) Total time 15 + 40 + 10 = 65 s. Average speed = 630 ÷ 65 = 9.69 m/s.",
+      "tip": "Average speed = total distance ÷ total time, not the mean of the speeds."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A curve has equation y = x³ − 2x² + 5.\n(a) Find the gradient of the curve at the point (2, 5). [2]\n(b) Find the x-coordinate of the other point on the curve where the gradient is the same as at (2, 5). [2]",
+      "ms": [
+        "(a) M1: dy/dx = 3x² − 4x",
+        "(a) A1: 4",
+        "(b) M1: 3x² − 4x = 4 and attempt to solve, e.g. (3x + 2)(x − 2) = 0",
+        "(b) A1: x = −2/3"
+      ],
+      "model": "(a) dy/dx = 3x² − 4x. At x = 2: 12 − 8 = 4.\n(b) 3x² − 4x = 4 → 3x² − 4x − 4 = 0 → (3x + 2)(x − 2) = 0.\nx = 2 is the given point, so the other point has x = −2/3.",
+      "tip": "The gradient is dy/dx, not y: substitute into the derivative."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A car starts from rest and accelerates uniformly to a speed of V m/s in 20 seconds.\nIt travels at V m/s for 60 seconds, then decelerates uniformly to rest in 15 seconds.\nThe total distance travelled is 1395 m.\n(a) Find V. [3]\n(b) Calculate the deceleration. [1]\n(c) Find the speed of the car 85 seconds after it started. [2]",
+      "ms": [
+        "(a) M1: area expression, e.g. ½ × 20V + 60V + ½ × 15V or ½(60 + 95)V",
+        "(a) M1: 77.5V = 1395",
+        "(a) A1: V = 18",
+        "(b) B1: 1.2 m/s² FT their V ÷ 15",
+        "(c) M1: recognises the car has been decelerating for 5 s: 18 − 5 × 1.2 oe",
+        "(c) A1: 12 m/s"
+      ],
+      "model": "(a) Distance = ½ × 20 × V + 60V + ½ × 15 × V = 10V + 60V + 7.5V = 77.5V.\n77.5V = 1395 → V = 18.\n(b) Deceleration = 18 ÷ 15 = 1.2 m/s².\n(c) Deceleration starts at t = 80 s, so at t = 85 s it has slowed for 5 s.\nSpeed = 18 − 5 × 1.2 = 12 m/s.",
+      "tip": "Sketch the speed–time graph and label the times; the area gives one equation in V."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A curve has equation y = 2x³ + 3x² − 36x + 10.\n(a) Find dy/dx. [2]\n(b) Find the coordinates of the two turning points. [4]\n(c) Determine whether each turning point is a maximum or a minimum. Show how you decide. [2]",
+      "ms": [
+        "(a) B1: 6x² + 6x",
+        "(a) B1: − 36",
+        "(b) M1: their dy/dx = 0",
+        "(b) M1: 6(x + 3)(x − 2) = 0 or x² + x − 6 = 0 solved",
+        "(b) A1: (2, −34)",
+        "(b) A1: (−3, 91)",
+        "(c) M1: d²y/dx² = 12x + 6 evaluated at both points, or sign of dy/dx either side, or reference to the shape of a positive cubic",
+        "(c) A1: (2, −34) minimum and (−3, 91) maximum"
+      ],
+      "model": "(a) dy/dx = 6x² + 6x − 36.\n(b) 6x² + 6x − 36 = 0 → x² + x − 6 = 0 → (x + 3)(x − 2) = 0.\nx = 2: y = 16 + 12 − 72 + 10 = −34.\nx = −3: y = −54 + 27 + 108 + 10 = 91.\nTurning points: (2, −34) and (−3, 91).\n(c) d²y/dx² = 12x + 6.\nAt x = 2: 30 > 0, so (2, −34) is a minimum.\nAt x = −3: −30 < 0, so (−3, 91) is a maximum.",
+      "tip": "Substitute into the original equation for y, not into dy/dx."
+    }
+  ]
+}

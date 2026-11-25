@@ -1,0 +1,88 @@
+{
+ "id": "phys-r1-01",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) State the difference between speed and velocity. [1]\n(b) Define acceleration. [1]\n(c) State the unit of acceleration. [1]",
+   "ms": [
+    "(a) velocity is speed in a given direction / velocity is a vector, speed is a scalar (has no direction)",
+    "(b) change in velocity per unit time (allow rate of change of velocity; allow a = Δv ÷ Δt with symbols explained)",
+    "(c) m/s² (allow m s⁻²)"
+   ],
+   "model": "(a) Velocity is speed in a given direction, so velocity is a vector but speed is a scalar.\n(b) Acceleration is the change in velocity per unit time.\n(c) m/s².",
+   "tip": "'Change in speed per second' scores in some papers but 'change in velocity per unit time' is the safe definition."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A student uses a ruler to measure the thickness of a stack of 200 identical sheets of paper. The stack is 2.4 cm thick.\nCalculate the thickness of one sheet of paper in millimetres.",
+   "ms": [
+    "C1: 2.4 ÷ 200 (= 0.012 cm) or 24 ÷ 200",
+    "A1: 0.12 mm"
+   ],
+   "model": "Thickness of one sheet = 2.4 cm ÷ 200 = 0.012 cm = 0.12 mm.",
+   "tip": "Measuring many sheets (multiples) and dividing makes a tiny length measurable with a ruler; watch the cm → mm conversion."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A cyclist's journey is shown on a distance–time graph described below.\n• From 0 s to 20 s: a straight line from 0 m to 120 m.\n• From 20 s to 50 s: a horizontal line at 120 m.\n• From 50 s to 70 s: a straight line from 120 m to 240 m.\n(a) Describe the motion of the cyclist between 20 s and 50 s. [1]\n(b) Calculate the speed of the cyclist between 0 s and 20 s. [2]\n(c) Calculate the average speed for the whole 70 s journey. [2]",
+   "ms": [
+    "(a) at rest / stationary (allow speed is zero)",
+    "(b) C1: speed = gradient = 120 ÷ 20",
+    "(b) A1: 6.0 m/s",
+    "(c) C1: total distance ÷ total time = 240 ÷ 70",
+    "(c) A1: 3.4 m/s (allow 3.43 m/s)"
+   ],
+   "model": "(a) The line is horizontal, so the distance does not change: the cyclist is at rest.\n(b) speed = gradient = 120 m ÷ 20 s = 6.0 m/s.\n(c) average speed = total distance ÷ total time = 240 m ÷ 70 s = 3.4 m/s.",
+   "tip": "Average speed uses the TOTAL time, including the 30 s spent at rest."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A trolley rolls down a slope. Its speed is measured every second.\ntime / s:   0    1.0   2.0   3.0   4.0   5.0\nspeed / m/s: 0    1.5   3.0   4.5   5.5   6.0\n(a) State whether the acceleration is constant between 0 s and 3.0 s. Explain your answer using the data. [2]\n(b) Calculate the acceleration between 0 s and 3.0 s. [2]\n(c) Describe how the acceleration changes between 3.0 s and 5.0 s. [1]",
+   "ms": [
+    "(a) constant (acceleration)",
+    "(a) speed increases by the same amount (1.5 m/s) every second / equal increases in equal times",
+    "(b) C1: a = Δv ÷ Δt = (4.5 − 0) ÷ 3.0",
+    "(b) A1: 1.5 m/s²",
+    "(c) acceleration decreases (speed still increases but by smaller amounts each second: 1.0 then 0.5 m/s); allow 'non-uniform/decreasing acceleration'"
+   ],
+   "model": "(a) The acceleration is constant, because the speed increases by the same amount, 1.5 m/s, in each second.\n(b) a = Δv ÷ Δt = 4.5 ÷ 3.0 = 1.5 m/s².\n(c) The speed increases by only 1.0 m/s and then 0.5 m/s per second, so the acceleration is decreasing (the trolley is still speeding up).",
+   "tip": "In (c) do not say 'decelerating' – the speed is still increasing, only the acceleration is getting smaller."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "A car travelling at 15 m/s approaches a set of speed bumps. Its speed–time graph is described below.\n• 0 s to 4.0 s: speed falls uniformly from 15 m/s to 5.0 m/s.\n• 4.0 s to 10.0 s: speed constant at 5.0 m/s.\n• 10.0 s to 18.0 s: speed rises uniformly from 5.0 m/s to 15 m/s.\n(a) Calculate the acceleration of the car between 0 s and 4.0 s. [2]\n(b) Calculate the total distance travelled in the 18 s. [3]\n(c) Calculate how much longer the car takes to cover this distance than it would at a constant 15 m/s. [3]",
+   "ms": [
+    "(a) C1: a = (5.0 − 15) ÷ 4.0",
+    "(a) A1: −2.5 m/s² (allow deceleration of 2.5 m/s²)",
+    "(b) C1: use of area under graph for any one section, e.g. ½ × (15 + 5.0) × 4.0 = 40 m",
+    "(b) C1: 5.0 × 6.0 = 30 m and ½ × (5.0 + 15) × 8.0 = 80 m",
+    "(b) A1: 150 m",
+    "(c) C1: time at 15 m/s = 150 ÷ 15 (ecf from (b))",
+    "(c) C1: = 10 s",
+    "(c) A1: 18 − 10 = 8.0 s (ecf)"
+   ],
+   "model": "(a) a = Δv ÷ Δt = (5.0 − 15) ÷ 4.0 = −2.5 m/s² (a deceleration of 2.5 m/s²).\n(b) Distance = area under graph:\n0–4 s: ½ × (15 + 5.0) × 4.0 = 40 m\n4–10 s: 5.0 × 6.0 = 30 m\n10–18 s: ½ × (5.0 + 15) × 8.0 = 80 m\nTotal = 150 m.\n(c) At 15 m/s: t = 150 ÷ 15 = 10 s. Extra time = 18 − 10 = 8.0 s.",
+   "tip": "Areas under sloping sections are trapeziums (or a rectangle plus a triangle); show each part so you keep method marks."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A ball is thrown vertically upwards with a speed of 14.7 m/s. Air resistance is negligible. The acceleration of free fall g = 9.8 m/s².\n(a) Calculate the time taken for the ball to reach its highest point. [2]\n(b) Calculate the maximum height reached by the ball. [2]\n(c) Explain why the acceleration of the ball is the same while it is rising as while it is falling. [2]",
+   "ms": [
+    "(a) C1: t = Δv ÷ a = 14.7 ÷ 9.8 (speed at top is zero)",
+    "(a) A1: 1.5 s",
+    "(b) C1: distance = area under speed–time graph = ½ × 14.7 × 1.5 (or average speed 7.35 m/s × 1.5 s); ecf from (a)",
+    "(b) A1: 11 m (allow 11.0 m or 11.025 m)",
+    "(c) the only force on the ball is its weight (no air resistance)",
+    "(c) weight is constant and always acts downwards, so acceleration = g = 9.8 m/s² downwards throughout (ball decelerates going up and accelerates coming down)"
+   ],
+   "model": "(a) At the top the speed is zero. t = 14.7 ÷ 9.8 = 1.5 s.\n(b) Height = area under speed–time graph = ½ × 14.7 × 1.5 = 11 m.\n(c) With no air resistance the only force is the ball's weight. Its weight is constant and always downwards, so the acceleration is always 9.8 m/s² downwards: on the way up this slows the ball, on the way down it speeds it up.",
+   "tip": "At the highest point the speed is zero but the acceleration is NOT zero – it is still 9.8 m/s² downwards."
+  }
+ ]
+}

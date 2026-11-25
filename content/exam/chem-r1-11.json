@@ -1,0 +1,86 @@
+{
+  "id": "chem-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State the approximate composition of clean, dry air.",
+      "ms": [
+        "78% nitrogen and 21% oxygen",
+        "the rest (about 1%) is noble gases (argon) and carbon dioxide"
+      ],
+      "model": "Clean, dry air is about 78% nitrogen and 21% oxygen; the remaining 1% is a mixture of noble gases (mainly argon) and carbon dioxide.",
+      "tip": "Learn the numbers: 78% nitrogen, 21% oxygen."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Put these metals in order of reactivity, starting with the most reactive.\ncopper   iron   magnesium   sodium   zinc",
+      "ms": [
+        "sodium, magnesium, zinc, iron, copper — all correct for 2 marks",
+        "one pair of adjacent metals swapped scores 1 mark"
+      ],
+      "model": "sodium > magnesium > zinc > iron > copper",
+      "tip": "Learn the full series: K, Na, Ca, Mg, Al, (C), Zn, Fe, (H), Cu, Ag, Au."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student sets up three test-tubes, each with an iron nail, and leaves them for a week.\nTube A: nail in tap water, tube open to the air.\nTube B: nail in water that has been boiled, with a layer of oil on top.\nTube C: nail in dry air, with anhydrous calcium chloride to absorb water vapour, tube stoppered.\n(a) In which tube does the nail rust? [1]\n(b) Explain why the nails in the other two tubes do not rust. [2]\n(c) Explain how painting a steel gate prevents it from rusting. [1]",
+      "ms": [
+        "(a) A only",
+        "(b) B: no oxygen / air — boiling removes dissolved air and the oil stops air dissolving again",
+        "(b) C: no water (it is absorbed by the calcium chloride)",
+        "(c) paint is a barrier that keeps out oxygen and water"
+      ],
+      "model": "(a) Only the nail in tube A rusts.\n(b) In tube B there is no oxygen: boiling removed the dissolved air and the oil layer stops air dissolving back into the water. In tube C there is no water, because the anhydrous calcium chloride absorbs it. Iron needs both oxygen and water to rust.\n(c) The paint acts as a barrier that stops oxygen and water reaching the surface of the steel.",
+      "tip": "Rusting needs BOTH oxygen and water; remove either one and rusting stops."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A student tests three metals, P, Q and R. The results are shown.\nmetal | dilute hydrochloric acid | aqueous copper(II) sulfate | aqueous zinc sulfate\nP | a few bubbles slowly | brown coating forms, blue colour fades | no change\nQ | no reaction | no change | no change\nR | rapid bubbling | brown coating forms, blue colour fades | grey coating forms\n(a) Put P, Q, R, copper and zinc in order of reactivity, most reactive first. [2]\n(b) Use the results to explain the position of P in your list. [2]\n(c) Suggest the identity of metal P. [1]",
+      "ms": [
+        "(a) R > zinc > P > copper > Q — fully correct for 2",
+        "(a) one error / R, P, Q correct relative order only = 1",
+        "(b) P displaces copper (from copper(II) sulfate) so it is more reactive than copper",
+        "(b) P does not displace zinc so it is less reactive than zinc (allow P reacts with acid so is above hydrogen)",
+        "(c) iron (allow any metal between zinc and copper that reacts with dilute acid, e.g. tin, lead)"
+      ],
+      "model": "(a) R, zinc, P, copper, Q.\n(b) P displaces copper from copper(II) sulfate, so it is more reactive than copper. It does not displace zinc from zinc sulfate, so it is less reactive than zinc. It reacts slowly with acid, so it is above hydrogen.\n(c) Iron.",
+      "tip": "A metal only displaces another metal from a solution of its ions if it is more reactive (has a greater tendency to form positive ions)."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) Explain why aluminium is extracted by electrolysis but iron can be extracted by heating its ore with carbon. [2]\n(b) In the blast furnace, carbon dioxide reacts with more coke to form carbon monoxide.\nWrite the equation for this reaction and identify the substance that is reduced. [2]\n(c) The iron ore contains sand (silicon dioxide, SiO₂) as an impurity. Explain, with equations, how limestone removes it. [2]",
+      "ms": [
+        "(a) aluminium is more reactive than carbon (above carbon in the reactivity series), so carbon cannot reduce its oxide",
+        "(a) iron is less reactive than carbon, so carbon (or CO) can remove the oxygen from iron(III) oxide",
+        "(b) C + CO₂ → 2CO",
+        "(b) carbon dioxide is reduced (it loses oxygen)",
+        "(c) CaCO₃ → CaO + CO₂ (limestone decomposes to calcium oxide)",
+        "(c) CaO + SiO₂ → CaSiO₃ (forms slag, which is removed)"
+      ],
+      "model": "(a) Aluminium is above carbon in the reactivity series, so carbon cannot remove the oxygen from aluminium oxide and electrolysis must be used. Iron is below carbon, so its oxide can be reduced by carbon (as carbon monoxide).\n(b) C + CO₂ → 2CO. Carbon dioxide is reduced because it loses oxygen.\n(c) Limestone decomposes in the heat: CaCO₃ → CaO + CO₂. The basic calcium oxide reacts with the acidic silicon dioxide to form slag: CaO + SiO₂ → CaSiO₃. The molten slag floats on the iron and is tapped off.",
+      "tip": "The more reactive the metal, the harder it is to extract: above carbon means electrolysis."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "(a) Describe how carbon dioxide and methane in the atmosphere cause global warming. [3]\n(b) State two strategies to reduce the effects of climate change and explain how each one works. [2]\n(c) Sulfur dioxide causes acid rain. State two strategies to reduce sulfur dioxide emissions. [2]",
+      "ms": [
+        "(a) the Earth's surface emits thermal energy (infrared radiation)",
+        "(a) carbon dioxide and methane absorb this thermal energy",
+        "(a) and re-emit it in all directions, including back towards the Earth, so less thermal energy is lost to space",
+        "(b) planting trees — absorb CO₂ in photosynthesis",
+        "(b) burning fewer fossil fuels / using renewable energy (wind, solar) or hydrogen — less CO₂ released",
+        "(b) reducing livestock farming — less methane released",
+        "(c) using low-sulfur fuels",
+        "(c) flue gas desulfurisation using calcium oxide (to remove SO₂ from power-station waste gases)"
+      ],
+      "model": "(a) The Earth's surface emits thermal energy. Carbon dioxide and methane in the atmosphere absorb this thermal energy and then emit it in all directions, including back towards the Earth. Less thermal energy escapes into space, so the Earth's temperature rises.\n(b) Planting trees removes carbon dioxide from the air by photosynthesis. Using renewable energy such as wind and solar power instead of fossil fuels means less carbon dioxide is released.\n(c) Use low-sulfur fuels, and remove sulfur dioxide from power-station waste gases by flue gas desulfurisation with calcium oxide.",
+      "tip": "Global warming: absorb AND re-emit. Don't confuse it with the ozone layer."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "bio-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State the function of:\n(a) the sepals of an insect-pollinated flower\n(b) the petals of an insect-pollinated flower",
+      "ms": [
+        "(a) protect the flower when it is a bud",
+        "(b) attract insects (for pollination) (allow brightly coloured / scented to attract insects)"
+      ],
+      "model": "(a) Sepals protect the flower while it is in bud.\n(b) Petals are brightly coloured to attract insects for pollination.",
+      "tip": "'Attract insects' alone is fine, but 'for pollination' shows the purpose."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "(a) State what is meant by a sexually transmitted infection (STI). [1]\n(b) Explain how using a condom reduces the spread of HIV. [2]",
+      "ms": [
+        "(a) an infection transmitted through sexual contact",
+        "(b) a condom is a barrier",
+        "(b) prevents exchange of body fluids (semen / vaginal fluids) which may contain HIV"
+      ],
+      "model": "(a) An infection that is transmitted through sexual contact.\n(b) A condom acts as a barrier, so body fluids such as semen, which may contain the virus, are not exchanged between partners.",
+      "tip": "HIV is the pathogen (a virus); AIDS is the condition it may lead to."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Descriptions of two flowers are given.\nFlower X: large, brightly coloured petals; nectar; anthers and stigma inside the flower; sticky stigma.\nFlower Y: small green petals; anthers hanging outside the flower on long filaments; large feathery stigma outside the flower; large amounts of light, smooth pollen.\nIdentify which flower is wind-pollinated and explain how three of its features are adaptations for wind pollination.",
+      "ms": [
+        "flower Y is wind-pollinated",
+        "anthers outside the flower / on long filaments so pollen is easily blown away by the wind",
+        "feathery stigma outside the flower has a large surface area to catch pollen from the air",
+        "large amounts of pollen because most is wasted / it is a matter of chance whether it lands on a stigma",
+        "light, smooth pollen is easily carried by the wind",
+        "small green petals / no nectar: no need to attract insects (so no energy wasted)"
+      ],
+      "model": "Flower Y is wind-pollinated. Its anthers hang outside the flower on long filaments, so the wind can easily blow the pollen away. Its feathery stigma hangs outside the flower and has a large surface area to catch pollen grains from the air. It makes large amounts of light pollen, which is carried easily by the wind; so much is needed because most of it never reaches a stigma.",
+      "tip": "For each feature, give the 'so that…' explanation, not just the description."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A woman has a regular 28-day menstrual cycle. Her period (menstruation) starts on 1 March.\n(a) Suggest the date on which she is most likely to ovulate. [1]\n(b) Describe what happens in the ovary during the first half of the cycle and at ovulation. [2]\n(c) Suggest why the lining of the uterus stays thick after ovulation. [1]",
+      "ms": [
+        "(a) 14 March (allow 13–15 March)",
+        "(b) an egg (cell) matures / develops (in the ovary)",
+        "(b) at ovulation the egg is released from the ovary (into the oviduct)",
+        "(c) ready to receive / nourish an embryo if fertilisation happens"
+      ],
+      "model": "(a) 14 March (day 14 of the cycle).\n(b) During the first half of the cycle an egg cell matures inside the ovary. At ovulation, around day 14, the egg is released from the ovary into the oviduct.\n(c) So that it is ready to receive and nourish an embryo if the egg is fertilised.",
+      "tip": "Day 1 of the cycle is the first day of menstruation; ovulation is around day 14."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Wild strawberry plants reproduce asexually by sending out runners that grow into new plants. They also reproduce sexually by producing flowers and seeds.\nDiscuss the advantages and disadvantages of asexual and sexual reproduction to a population of wild strawberry plants.",
+      "ms": [
+        "asexual advantage: only one parent needed / no pollination needed",
+        "asexual advantage: quick / many new plants produced",
+        "asexual advantage: offspring genetically identical so all suited to the same (good) conditions",
+        "asexual disadvantage: no variation, so a disease or change in the environment could kill them all",
+        "asexual disadvantage: offspring grow close to the parent, so competition / overcrowding",
+        "sexual advantage: genetic variation, so some may survive a change in the environment / a new disease (natural selection)",
+        "sexual advantage: seeds can be dispersed to new areas / less competition",
+        "sexual disadvantage: needs pollinators / two parents / slower / energy used for flowers and nectar"
+      ],
+      "model": "Asexual reproduction by runners needs only one parent and no pollinators, and it is quick, so the plants can spread fast. The offspring are genetically identical, which is useful if the parent is well suited to the conditions. However, with no variation, a new disease or a change in the environment could kill the whole population, and the new plants grow close together, so they compete for light, water and minerals.\nSexual reproduction produces genetically varied offspring, so some may survive a disease or environmental change, allowing natural selection. Seeds can also be dispersed to new areas, reducing competition. On the other hand, it depends on pollinators, is slower, and uses energy to make flowers and nectar.",
+      "tip": "'Discuss' means give both sides: advantages AND disadvantages of EACH type, related to a wild population."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Plan an investigation to find out how temperature affects the germination of cress seeds.",
+      "ms": [
+        "use a range of at least three temperatures (e.g. 5 °C, 15 °C, 25 °C, 35 °C)",
+        "use a fridge / incubators / water baths / named places to set the temperatures",
+        "same number of seeds in each dish (e.g. 20)",
+        "same type / age of seed",
+        "same volume of water / damp cotton wool and access to air (oxygen)",
+        "count the number of germinated seeds after the same time (e.g. 3 days) / each day",
+        "calculate percentage germination at each temperature",
+        "repeat / replicate dishes at each temperature and calculate a mean",
+        "define germination, e.g. root visible"
+      ],
+      "model": "Place 20 cress seeds of the same type on damp cotton wool in each of four Petri dishes, adding the same volume of water to each. Put one dish in a fridge at 5 °C and the others in incubators at 15 °C, 25 °C and 35 °C. Leave the lids loose so oxygen can reach the seeds, and keep all dishes in the dark (or same light). After 3 days, count how many seeds have germinated, counting a seed as germinated when its root is visible. Calculate the percentage germination for each temperature. Set up three dishes at each temperature and calculate a mean to make the results more reliable.",
+      "tip": "A good plan has: independent variable with values, controlled variables, what you measure and how, and repeats."
+    }
+  ]
+}

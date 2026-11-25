@@ -1,0 +1,87 @@
+{
+ "id": "pe-r1-02",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A sprinter drives her knee forward and up during each stride. Name the muscle that:\n(a) flexes the hip as the knee drives forward [1]\n(b) dorsiflexes the ankle as the toes are pulled up towards the shin [1]",
+   "ms": [
+    "(a) hip flexors (1)",
+    "(b) tibialis anterior (1)"
+   ],
+   "model": "(a) The hip flexors.\n(b) The tibialis anterior.",
+   "tip": "Tibialis anterior is on the front of the shin; the gastrocnemius does the opposite (plantar flexion)."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the type of muscle contraction that occurs in each example.\n(a) The quadriceps as a basketball player lands from a jump and bends her knees under control. [1]\n(b) The biceps as a gymnast pulls herself up during a pull-up. [1]",
+   "ms": [
+    "(a) eccentric (1)",
+    "(b) concentric (1)"
+   ],
+   "model": "(a) Eccentric: the quadriceps lengthen under tension to control the landing.\n(b) Concentric: the biceps shorten to bend the elbow and lift the body.",
+   "tip": "Controlling a movement downwards against gravity is usually eccentric."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A footballer takes a penalty kick. Name the agonist and the antagonist at the hip during:\n(a) the backswing, when the leg moves backwards (hip extension) [2]\n(b) the forward swing, when the leg moves forwards to strike the ball (hip flexion) [2]",
+   "ms": [
+    "(a) agonist: gluteals (1)",
+    "(a) antagonist: hip flexors (1)",
+    "(b) agonist: hip flexors (1)",
+    "(b) antagonist: gluteals (1)"
+   ],
+   "model": "(a) Backswing: the gluteals are the agonist and the hip flexors are the antagonist.\n(b) Forward swing: the hip flexors are the agonist and the gluteals are the antagonist.",
+   "tip": "In an antagonistic pair the roles swap when the movement reverses."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "State the location of each muscle and describe its role in a named sporting action.\n(a) latissimus dorsi [2]\n(b) trapezius [2]",
+   "ms": [
+    "(a) location: side/back of the trunk (lower back to upper arm) (1)",
+    "(a) role: pulls the arm down/back towards the body (adduction/extension at the shoulder), e.g. a pull-up, rowing stroke, butterfly arm pull (1)",
+    "(b) location: upper back and neck (1)",
+    "(b) role: moves/raises the shoulder blades and holds the shoulders back, e.g. lifting the bar in a clean / holding the head and shoulders in a rugby scrum (1)"
+   ],
+   "model": "(a) The latissimus dorsi is the large muscle at the side of the back. It pulls the arm downwards and backwards towards the body, for example when a rower pulls the oar.\n(b) The trapezius is in the upper back and neck. It raises and pulls back the shoulder blades and supports the neck, for example when a weightlifter shrugs the bar up in a clean.",
+   "tip": "A 'role' mark needs the movement and a sport example."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "A central midfield footballer plays for 90 minutes. During the match she jogs most of the time but also sprints to win the ball and jumps to head it.\nExplain why she needs both slow twitch and fast twitch muscle fibres.",
+   "ms": [
+    "slow twitch fibres produce a small force / contract slowly (1)",
+    "slow twitch are fatigue resistant / can work for a long time (1)",
+    "slow twitch use aerobic respiration (oxygen) (1)",
+    "so they are used for jogging/moving into position for 90 minutes (1)",
+    "fast twitch fibres produce a large force / contract quickly (1)",
+    "fast twitch fatigue quickly and use anaerobic respiration (1)",
+    "so they are used for sprinting to the ball / jumping to head / shooting (1)",
+    "max 5"
+   ],
+   "model": "Slow twitch fibres contract slowly with a small force, but they use oxygen (aerobic respiration) and are very resistant to fatigue. She needs them to keep jogging and moving into position for the whole 90 minutes. Fast twitch fibres contract quickly and produce a large force, but they work anaerobically and tire quickly. She needs these for short, explosive actions such as sprinting to win the ball and jumping to head it.",
+   "tip": "Cover force, fatigue and energy supply for each fibre type, then link each to a match action."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A basketball player bends her knees and then jumps upwards to catch a rebound. She then lands and bends her knees.\nExplain how the muscles at the knee and the ankle work during the take-off and the landing. In your answer, name the agonists and antagonists and the types of contraction.",
+   "ms": [
+    "take-off: knee extends with quadriceps as agonist (1)",
+    "hamstrings act as the antagonist (relax/lengthen) (1)",
+    "ankle plantar flexes with gastrocnemius as agonist (1)",
+    "tibialis anterior acts as the antagonist (1)",
+    "agonists contract concentrically (shorten) at take-off (1)",
+    "landing: quadriceps contract eccentrically (lengthen under tension) to control the knee bending / absorb force (1)",
+    "tendons transmit the force from muscle to bone (1)",
+    "max 6"
+   ],
+   "model": "At take-off the knee extends. The quadriceps are the agonist and contract concentrically, while the hamstrings are the antagonist and relax and lengthen. At the ankle the gastrocnemius is the agonist and contracts concentrically to plantar flex the foot, with the tibialis anterior as the antagonist. The muscles pull on the bones through tendons. On landing the knees bend, but the quadriceps keep working, contracting eccentrically (lengthening under tension) to control the movement and absorb the force so she does not collapse.",
+   "tip": "Landing is the classic eccentric example: the muscle is lengthening but still working."
+  }
+ ]
+}

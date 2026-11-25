@@ -4,7 +4,7 @@
 const CFG={url:'https://pijoiswrklwrkdzltnoy.supabase.co',key:'sb_publishable_ecb7RwDjk3OZKOUiTsE7dw_fhpnwxqd'};
 const SITE='https://kikogamez.github.io/plan-igcse/';
 const ADMIN='kiko.gamez@gmail.com';
-const KEYS=['igcse-plan-v1','igcse-moves-v1','igcse-quiz-v1','igcse-hours-v1','igcse-cards-v1','igcse-profile-v1'];
+const KEYS=['igcse-plan-v1','igcse-moves-v1','igcse-quiz-v1','igcse-hours-v1','igcse-cards-v1','igcse-profile-v1','igcse-exam-v1','igcse-mock-v1'];
 const OWNER='igcse-owner',TS='igcse-sync-ts',DIRTY='igcse-dirty';
 const ES=document.documentElement.lang==='es';
 const ls={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}},del:k=>{try{localStorage.removeItem(k)}catch(e){}}};

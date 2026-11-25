@@ -1,0 +1,99 @@
+{
+  "id": "geo-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) confluence [1]\n(b) tributary. [1]",
+      "ms": [
+        "(a) the point where two rivers meet / join",
+        "(b) a smaller river / stream that joins a larger (main) river"
+      ],
+      "model": "(a) A confluence is the place where two rivers join.\n(b) A tributary is a smaller river that flows into a larger, main river."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "State the meaning of each of these drainage basin processes:\n(a) interception [1]\n(b) infiltration [1]\n(c) throughflow. [1]",
+      "ms": [
+        "(a) precipitation caught / stored by vegetation (leaves, branches) before it reaches the ground",
+        "(b) water soaking into the soil (from the surface)",
+        "(c) water moving downslope through the soil (towards the river)"
+      ],
+      "model": "(a) Interception is when rain is caught by leaves and branches before it reaches the ground.\n(b) Infiltration is water soaking into the soil from the surface.\n(c) Throughflow is the movement of water sideways through the soil towards the river.",
+      "tip": "Do not confuse infiltration (into soil) with percolation (into rock)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain how an oxbow lake is formed.",
+      "ms": [
+        "erosion is fastest on the outside of meander bends (1) by hydraulic action / abrasion (1)",
+        "the neck of the meander becomes narrower (1)",
+        "during a flood / high discharge the river cuts through the neck (1)",
+        "the river takes the shorter, straighter course (1)",
+        "deposition seals off the ends of the old meander (1), leaving a horseshoe-shaped lake (1)"
+      ],
+      "model": "On a meander, the fastest flow is on the outside of each bend, so lateral erosion by hydraulic action and abrasion cuts into the banks. Over time two bends erode towards each other and the neck of land between them becomes very narrow. During a flood, the river has enough energy to break through the neck and takes the shorter, straighter route. Deposition then seals off the ends of the old bend, leaving a curved oxbow lake cut off from the river.",
+      "tip": "A labelled sequence of sketches helps, but you must name the processes."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A storm hydrograph for a river shows:\n• peak rainfall at 10:00 on Day 1\n• discharge before the storm (base flow) of 5 cumecs\n• peak discharge of 45 cumecs at 16:00 on Day 1\n(a) Calculate the lag time. [1]\n(b) Calculate the increase in discharge from base flow to peak. [1]\n(c) Suggest two reasons why this river had a short lag time. [2]",
+      "ms": [
+        "(a) 6 hours",
+        "(b) 40 cumecs (allow m³/s)",
+        "(c) one reason, e.g. steep slopes in the basin",
+        "(c) a second different reason. Accept any two of: steep slopes in the basin; impermeable rock / saturated soil / frozen ground; urban areas / concrete and drains; little vegetation / deforestation (less interception); small / circular basin; very heavy / intense rainfall"
+      ],
+      "model": "(a) 16:00 − 10:00 = 6 hours.\n(b) 45 − 5 = 40 cumecs.\n(c) The basin may have steep slopes so water runs off quickly into the river, and it may be urbanised, with concrete surfaces and drains that stop infiltration and carry water straight to the channel.",
+      "tip": "Lag time is from PEAK rainfall to PEAK discharge, not from the start of the rain."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain how a floodplain and levees are formed in the lower course of a river.",
+      "ms": [
+        "floodplain: wide, flat area of land either side of the river (1)",
+        "formed by meanders migrating / lateral erosion widening the valley (1)",
+        "when the river floods it spreads over the land, loses velocity / energy and deposits alluvium / silt (1); repeated floods build up the floodplain (1)",
+        "levees: during a flood, the heaviest / coarsest material is deposited first, next to the channel (1)",
+        "repeated floods build up raised banks (levees) along the river (1)",
+        "finer material is carried further and deposited across the floodplain (1)"
+      ],
+      "model": "In the lower course, meanders move across the valley floor and lateral erosion widens it, creating a wide flat area called the floodplain. When the river floods, water spreads out over the land, slows down and loses energy, so it deposits its load of silt (alluvium). Repeated floods build up thick layers of fertile alluvium.\nLevees form because, as soon as water leaves the channel, friction slows it sharply and the heaviest, coarsest material is dropped right next to the river. The finer silt is carried further across the floodplain. After many floods these coarse deposits build up into raised banks along each side of the river: the levees.",
+      "tip": "Explain WHY deposition happens (loss of velocity/energy), not just that it does."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named river flood you have studied, explain the causes and effects of the flooding.",
+      "ms": [
+        "physical causes: very heavy / prolonged rainfall, e.g. Pakistan 2022: unusually heavy monsoon rain; glacier / snow melt; saturated ground; steep slopes; low-lying land",
+        "human causes: deforestation, urbanisation, building on the floodplain, poor drainage / defences",
+        "effects on people: deaths and injuries (Pakistan: over 1,700 deaths), homes destroyed, people made homeless (around 33 million people affected)",
+        "economic effects: crops and livestock lost, roads / bridges / infrastructure destroyed, cost of repairs",
+        "secondary effects: water-borne disease, food shortages / price rises, loss of income",
+        "environmental effects: soil erosion / silt deposited, pollution of water",
+        "place-specific detail of the named flood (river, country, date)"
+      ],
+      "model": "In 2022 Pakistan suffered severe floods along the Indus river. The main cause was unusually heavy monsoon rain over several months, several times the normal amount in some provinces, together with meltwater from glaciers in the north after a very hot spring. Much of the land in Sindh is flat and low-lying, so water could not drain away, and poor drainage and building on floodplains made the flooding worse.\nThe effects were enormous. Around 33 million people were affected and over 1,700 people died. Millions of homes were damaged or destroyed, leaving people homeless in camps. Huge areas of crops such as cotton and rice were lost and livestock drowned, which raised food prices and caused hunger. Roads and bridges were washed away, making it hard to deliver aid, and standing water led to outbreaks of water-borne disease such as cholera and malaria.",
+      "tip": "Separate causes from effects, and use figures from your named event for Level 3.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both causes and effects, with place-specific detail (river, country, date, figures)."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one developed idea; may focus on causes or effects only; some reference to a place."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named flood."
+        }
+      ]
+    }
+  ]
+}

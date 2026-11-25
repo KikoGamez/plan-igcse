@@ -1,0 +1,85 @@
+{
+  "id": "chem-r1-13",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Salt is dissolved in water and the mixture is filtered to remove some sand. State the meaning of each term, using this example.\n(a) solvent [1]\n(b) solute [1]\n(c) filtrate [1]",
+      "ms": [
+        "(a) the substance that dissolves a solute / the liquid that does the dissolving — water",
+        "(b) the substance that is dissolved — salt",
+        "(c) the liquid (or solution) that passes through the filter paper — the salt solution"
+      ],
+      "model": "(a) The solvent is the substance that dissolves the solute: water.\n(b) The solute is the substance that dissolves in the solvent: salt.\n(c) The filtrate is the liquid that passes through the filter paper: the salt solution. (The sand left behind is the residue.)",
+      "tip": "Residue stays in the filter paper; filtrate goes through."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In a titration, the initial burette reading is 1.40 cm³ and the final reading is 24.65 cm³.\n(a) Calculate the volume of acid added. [1]\n(b) State the precision to which burette readings should be recorded. [1]",
+      "ms": [
+        "(a) 23.25 cm³",
+        "(b) to the nearest 0.05 cm³ (two decimal places)"
+      ],
+      "model": "(a) 24.65 − 1.40 = 23.25 cm³\n(b) To the nearest 0.05 cm³, so always with two decimal places, e.g. 1.40 not 1.4.",
+      "tip": "Write 1.40, not 1.4 — burette readings always have two decimal places."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Name the best method to obtain:\n(a) pure water from sea water [1]\n(b) crystals of copper(II) sulfate from copper(II) sulfate solution [1]\n(c) solid chalk from a mixture of chalk and water [1]\n(d) the separate liquids from a mixture of two miscible liquids with boiling points 98 °C and 126 °C. [1]",
+      "ms": [
+        "(a) (simple) distillation",
+        "(b) crystallisation",
+        "(c) filtration",
+        "(d) fractional distillation"
+      ],
+      "model": "(a) Simple distillation\n(b) Crystallisation\n(c) Filtration\n(d) Fractional distillation",
+      "tip": "Evaporation alone does not give pure water — it is lost into the air. Use distillation to collect the solvent."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A food dye F and three known dyes, X, Y and Z, are spotted on a pencil baseline on chromatography paper and run in water.\nThe solvent front travels 8.0 cm from the baseline.\nDye F gives two spots, at 2.4 cm and 5.6 cm from the baseline.\nThe Rf values of the known dyes are: X = 0.30, Y = 0.70, Z = 0.45.\n(a) Calculate the Rf value of each spot from F. [2]\n(b) Use your answers to identify the dyes in F. [1]\n(c) State what the chromatogram shows about whether F is pure. [1]\n(d) Explain why the baseline must be above the level of the solvent in the beaker. [1]",
+      "ms": [
+        "(a) 2.4 ÷ 8.0 = 0.30",
+        "(a) 5.6 ÷ 8.0 = 0.70",
+        "(b) X and Y (not Z) — ecf from (a)",
+        "(c) F is a mixture / impure, because it gives two spots",
+        "(d) otherwise the dyes would dissolve into the solvent in the beaker (instead of moving up the paper)"
+      ],
+      "model": "(a) Rf = distance moved by spot ÷ distance moved by solvent. Spot 1: 2.4 ÷ 8.0 = 0.30. Spot 2: 5.6 ÷ 8.0 = 0.70.\n(b) F contains X (Rf 0.30) and Y (Rf 0.70); it does not contain Z.\n(c) F is not pure — it is a mixture of two substances because it separates into two spots.\n(d) If the spots were below the solvent level they would dissolve into the solvent in the beaker and wash away.",
+      "tip": "Rf has no unit and is always less than 1."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student wants to find the volume of dilute hydrochloric acid needed to neutralise exactly 25.0 cm³ of aqueous sodium hydroxide, using methyl orange indicator.\nDescribe how the student should carry out the titration. Include the apparatus used and how the end-point is identified.",
+      "ms": [
+        "use a (volumetric) pipette (with filler) to put 25.0 cm³ of sodium hydroxide into a conical flask",
+        "add a few drops of methyl orange (solution turns yellow)",
+        "fill a burette with the acid and record the initial reading",
+        "add acid from the burette while swirling the flask",
+        "add the acid dropwise near the end-point; end-point when the indicator changes from yellow to orange (allow red)",
+        "record the final reading and repeat until concordant results (within 0.10 cm³), then find the mean"
+      ],
+      "model": "Use a volumetric pipette and pipette filler to transfer 25.0 cm³ of sodium hydroxide into a conical flask, and add a few drops of methyl orange, which turns yellow. Fill a burette with the hydrochloric acid and record the initial reading. Add the acid to the flask while swirling. When the colour starts to change, add the acid drop by drop. The end-point is reached when the indicator just changes from yellow to orange. Record the final reading and calculate the volume added. Repeat the titration until two results agree within 0.10 cm³ and take the mean of these concordant results.",
+      "tip": "Name the apparatus precisely: 'volumetric pipette' for a fixed 25.0 cm³, 'burette' for the acid."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student has some water coloured with an orange dye.\n(a) Describe how simple distillation is used to obtain pure water from this mixture. Explain what happens at each stage. [4]\n(b) Explain why the bulb of the thermometer is placed next to the side-arm of the flask. [1]\n(c) Describe how the student could show that the water collected is pure. [1]",
+      "ms": [
+        "(a) heat the mixture in a flask (with anti-bumping granules) so that the water boils / evaporates",
+        "(a) water vapour passes into the (Liebig) condenser",
+        "(a) the condenser is cooled by cold water so the vapour condenses (back to liquid)",
+        "(a) pure water (distillate) is collected in a beaker; the dye stays in the flask",
+        "(b) to measure the temperature / boiling point of the vapour that is passing into the condenser",
+        "(c) boiling point is exactly 100 °C (allow freezes / melts at exactly 0 °C)"
+      ],
+      "model": "(a) Heat the coloured water in a distillation flask. The water boils and turns into vapour, but the dye does not evaporate and stays in the flask. The water vapour passes into a condenser, which is cooled by cold water flowing through its outer jacket, so the vapour condenses back into liquid water. The pure water (distillate) drips into a beaker.\n(b) So that it measures the temperature of the vapour passing into the condenser, which is the boiling point of the substance being collected.\n(c) Measure its boiling point: pure water boils at exactly 100 °C.",
+      "tip": "Cold water enters the condenser at the bottom and leaves at the top."
+    }
+  ]
+}

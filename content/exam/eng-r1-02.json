@@ -1,0 +1,83 @@
+{
+  "id": "eng-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Text A – First Light (paragraph 1)\n\n(1) Every morning at four, while the rest of Marlow Street slept, Ines Duarte unlocked the bakery with a key that had belonged to her grandfather. The ovens took forty minutes to heat, so she used that time to weigh flour, check yesterday’s dough and, as she put it, “listen to the building wake up”.\n\nGive two things Ines does while the ovens heat up. [2]",
+      "ms": [
+        "She weighs (the) flour (1)",
+        "She checks (yesterday’s) dough (1)",
+        "Allow: she listens to the building (waking up) (1)"
+      ],
+      "model": "She weighs flour and checks the dough from the day before.",
+      "tip": "For ‘give’ questions, short precise answers from the right paragraph are enough."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Text A – First Light (paragraph 2)\n\n(2) She had not planned to be a baker. At twenty-three she had been training as an accountant in the city, earning a good salary and hating every minute. When her grandfather fell ill, she came home “for a fortnight” to keep the shop open. That was nine years ago.\n\nUsing your own words, explain why Ines came home. [2]",
+      "ms": [
+        "Her grandfather became unwell / was sick (1) — not ‘fell ill’ copied alone",
+        "To make sure the bakery kept running / did not have to close (1) — not ‘keep the shop open’ copied alone"
+      ],
+      "model": "Her grandfather became unwell, so she returned to make sure the bakery stayed in business.",
+      "tip": "Own words = change the key words (‘fell ill’, ‘keep the shop open’) but keep the meaning."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "Text A – First Light (paragraph 2)\n\n(2) She had not planned to be a baker. At twenty-three she had been training as an accountant in the city, earning a good salary and hating every minute. When her grandfather fell ill, she came home “for a fortnight” to keep the shop open. That was nine years ago.\n\nExplain what the writer suggests by putting “for a fortnight” in inverted commas and then adding the short sentence “That was nine years ago.” [3]",
+      "ms": [
+        "Ines intended (or claimed) to stay only for a short time (1)",
+        "The inverted commas suggest irony / that this was what she told herself or others, and it did not turn out to be true (1)",
+        "The short sentence creates a contrast/surprise: she ended up staying permanently and became a baker (1)",
+        "Allow: suggests the bakery drew her in / she found where she belonged, contrasted with hating her job in the city (1)"
+      ],
+      "model": "Ines meant to stay only for two weeks, but the inverted commas suggest this was just what she said at the time – the writer is being ironic. The blunt short sentence “That was nine years ago” shows the surprising contrast: the temporary visit became her whole life, and the bakery has taken the place of the accountancy job she hated.",
+      "tip": "When a writer uses inverted commas around ordinary words, ask: is this ironic or someone else’s words?"
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Text A – First Light (paragraph 3)\n\n(3) The first months were brutal. Regular customers compared every loaf with her grandfather’s, and few were kind. One elderly man returned a sourdough with a note that simply said: “Not yet.” Ines kept the note pinned above the mixer.\n\n(a) Using your own words, explain why the first months were difficult for Ines. [2]\n(b) What does the note “Not yet.” suggest about the elderly man’s opinion of her bread? [2]",
+      "ms": [
+        "(a) Customers measured her bread against her grandfather’s / expected the same standard (1)",
+        "(a) Most of them were harsh / critical / unfriendly about it (1)",
+        "(b) Her bread was not (yet) as good as it should be / as her grandfather’s (1)",
+        "(b) But he believed she could improve / it might become good in future (1)"
+      ],
+      "model": "(a) Customers judged every loaf against the bread her grandfather used to make, and most of them were very critical of her.\n(b) He thought her bread was not good enough yet, but “yet” suggests he believed she could improve and reach the right standard in time.",
+      "tip": "Small words like ‘yet’ often carry the implied meaning — look closely."
+    },
+    {
+      "lvl": 3,
+      "marks": 4,
+      "q": "Text A – First Light (paragraph 4)\n\n(4) Now the queue on Saturday stretches past the chemist’s. Ines has resisted offers from a supermarket chain to sell her bread in their stores. “They want three thousand loaves a week,” she says, shrugging. “I make three hundred. The day I make three thousand is the day they stop tasting like anything.”\n\nWhat does paragraph 4 suggest about Ines’s attitude to her business? Explain your answer with reference to the text. [4]",
+      "ms": [
+        "She values quality more than size/money/profit (1)",
+        "She believes mass production would ruin the taste of her bread (‘stop tasting like anything’) (1)",
+        "She is confident/independent — happy to turn down a big company (‘resisted offers’) (1)",
+        "‘Shrugging’ suggests she is unbothered/not tempted by the offer (1)",
+        "The long queue shows her approach works / she has proved herself, which gives her confidence (1)"
+      ],
+      "model": "Ines cares more about the quality of her bread than about growing the business or making more money. She has “resisted offers” from a supermarket chain because she believes that making ten times as much bread would ruin its taste – it would “stop tasting like anything”. Her shrug suggests she is not at all tempted by the deal and is confident in her decision, and the long Saturday queue shows that her way of working is successful.",
+      "tip": "For attitude questions, name the attitude, then support it with a short quotation or close reference."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Text A – First Light (paragraphs 3 and 5)\n\n(3) The first months were brutal. Regular customers compared every loaf with her grandfather’s, and few were kind. One elderly man returned a sourdough with a note that simply said: “Not yet.” Ines kept the note pinned above the mixer.\n(5) At half past six she turns the sign on the door. The first customer, as always, is the elderly man. He buys one sourdough, nods once, and leaves without a word.\n\nExplain how the relationship between Ines and the elderly man has changed, and what the ending suggests. Use evidence from both paragraphs. [5]",
+      "ms": [
+        "At first he was critical — he returned her bread with a negative note (1)",
+        "Ines took his criticism seriously / used it as motivation — she kept the note above the mixer (1)",
+        "Now he is a loyal, regular customer — the first customer ‘as always’ (1)",
+        "‘Nods once’ suggests quiet approval/respect without needing words (1)",
+        "The ending suggests her bread is now good enough / she has finally matched her grandfather’s standard (1)",
+        "He says nothing, which links back to the short note — he is a man of few words; the silence is a kind of praise (1)"
+      ],
+      "model": "At first the elderly man was one of Ines’s harshest critics: he returned her sourdough with a note saying “Not yet.” Instead of being hurt, she pinned it above the mixer, which suggests she used his judgement as a target.\nBy paragraph 5 he is her first customer every day – “as always” shows this is a long-standing habit, so he has become loyal. He still says nothing, but his single nod suggests silent approval. The ending implies that her bread has finally reached the standard he expected, perhaps even her grandfather’s, and that his wordless respect matters more to her than any praise.",
+      "tip": "Compare ‘then’ and ‘now’, and explain what the small details (‘as always’, ‘nods once’) imply."
+    }
+  ]
+}

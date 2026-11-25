@@ -1,0 +1,101 @@
+{
+ "id": "pe-r1-12",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two factors that can influence the leisure activities a person chooses.",
+   "ms": [
+    "age (1)",
+    "interests (1)",
+    "social circumstances, e.g. money/time/work commitments (1)",
+    "family / peer influence (1)",
+    "facilities available / where you live (geography, climate, culture, tradition) (1)",
+    "max 2"
+   ],
+   "model": "Their age, and the facilities available where they live.",
+   "tip": "One-word answers such as 'age' are acceptable for 'state'."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two reasons for the growth in leisure activities in recent years.",
+   "ms": [
+    "more leisure time / shorter working hours (1)",
+    "advances in technology (1)",
+    "improvements in healthcare / longer life expectancy (1)",
+    "greater awareness of the health benefits of activity (1)",
+    "more leisure facilities / cheaper equipment / better transport / more media coverage (1)",
+    "max 2"
+   ],
+   "model": "People have more leisure time because of shorter working hours, and there are more leisure facilities available.",
+   "tip": "Each reason must be different; 'more time' and 'shorter working week' count as one."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Describe the performance and elite levels of the sports development pyramid. [2]\n(b) Explain how the foundation level helps to produce elite performers. [2]",
+   "ms": [
+    "(a) performance: skilled performers in clubs/regional competitions, receiving coaching to improve (1)",
+    "(a) elite: the best performers competing at national/international/professional level, e.g. Olympic athletes (1)",
+    "(b) foundation is where basic skills are learned, e.g. in school PE (1)",
+    "(b) a broad base means more people progress to participation and performance, so a bigger pool of talent from which elite performers emerge (1)",
+    "(b) success at elite level inspires more people to start at foundation level (1)",
+    "max 2 for (b)"
+   ],
+   "model": "(a) At performance level, people have developed their skills and compete in club or regional competitions, with coaching to improve. At elite level are the very best performers who compete nationally and internationally, such as Olympic athletes.\n(b) At foundation level children learn the basic skills, for example in school PE. If many young people learn these skills, more of them move up to participation and performance, giving a large pool of talent from which elite performers can come.",
+   "tip": "Think of a pyramid: the wider the base, the more people can reach the top."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A fast-food company sponsors a youth football tournament.\nExplain one advantage and one disadvantage of this sponsorship for:\n(a) the sponsor [2]\n(b) the sport (the tournament) [2]",
+   "ms": [
+    "(a) advantage: advertising / brand awareness / positive image / more sales (1)",
+    "(a) disadvantage: cost / negative publicity if linked with an unhealthy product or if the event goes badly (1)",
+    "(b) advantage: money for facilities/prizes/coaching / cheaper entry / more publicity (1)",
+    "(b) disadvantage: linked to unhealthy food, which harms the sport's image / sponsor may influence the timing or rules / tournament may depend on the sponsor's money (1)"
+   ],
+   "model": "(a) The company gets advertising to young people and families, increasing its sales. However, it costs a lot, and the company may receive criticism for promoting unhealthy food to children.\n(b) The tournament gets money for pitches, kit and prizes, so it can run more cheaply. But linking youth football to fast food gives a mixed message about health, which can harm the sport's image.",
+   "tip": "Name who the advantage or disadvantage is for: sponsor, performer, sport or audience."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Fewer teenage girls than teenage boys take part in sport.\n(a) Explain three factors that may reduce participation among teenage girls. [3]\n(b) Suggest three strategies that could increase participation among teenage girls. [3]",
+   "ms": [
+    "(a) lack of female role models / less media coverage of women's sport (1)",
+    "(a) social/cultural pressures or stereotypes / religious or dress rules (1)",
+    "(a) lack of suitable facilities/activities, e.g. no girls' teams / mixed changing rooms (1)",
+    "(a) lack of time (study/work/family commitments) or money (1)",
+    "(a) low confidence / body image / peer pressure / previous negative PE experiences (1)",
+    "max 3 for (a)",
+    "(b) promotion: campaigns/media coverage featuring female role models (1)",
+    "(b) provision: girls-only sessions / more girls' teams / a wider choice of activities (e.g. dance, fitness classes) (1)",
+    "(b) access: reduced cost / flexible times / private changing facilities / transport (1)",
+    "(b) taster days / school–club links / female coaches (1)",
+    "max 3 for (b)"
+   ],
+   "model": "(a) Women's sport gets much less media coverage, so girls see fewer female role models to inspire them. Some girls face cultural pressures or stereotypes that sport is 'for boys', or dress rules that make some activities difficult. Many lack confidence or worry about their body image, especially in mixed groups.\n(b) Promotion: a media campaign showing successful female athletes as role models. Provision: girls-only sessions with female coaches and a wider choice of activities such as dance or fitness classes. Access: free or cheap sessions at convenient times, with private changing facilities.",
+   "tip": "Organise strategies under promotion, provision and access."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Technology is now widely used in sport, for example video replays for officials, electronic timing and new equipment.\nDiscuss the positive and negative impacts of technology on sport.",
+   "ms": [
+    "positive: more accurate decisions by officials, e.g. Hawk-Eye in tennis, VAR in football, TMO in rugby (1)",
+    "positive: fairer results / fewer arguments with officials (1)",
+    "positive: accurate timing and measurement, e.g. photo-finish, electronic timing in athletics/swimming (1)",
+    "positive: improves performance, e.g. lighter rackets, aerodynamic bikes, better shoes (1)",
+    "positive: improves safety (e.g. protective equipment) / more interesting for spectators (replays) (1)",
+    "negative: slows down the game / interrupts the flow (e.g. VAR delays) (1)",
+    "negative: expensive, so richer teams/countries gain an unfair advantage (1)",
+    "negative: reduces the role or authority of officials / some decisions still need judgement (1)",
+    "max 6 (at least one positive and one negative needed for full marks)"
+   ],
+   "model": "Technology has many positive impacts. Officials make more accurate decisions using systems such as Hawk-Eye in tennis and VAR in football, so results are fairer. Electronic timing and photo-finish cameras in athletics measure performances precisely. New equipment such as lighter rackets and aerodynamic bikes improves performance and safety, and replays make sport more interesting for spectators.\nHowever, there are negatives. Video reviews can slow the game and break its flow, as when VAR checks take several minutes. Technology is expensive, so richer teams and countries can afford better equipment, which gives them an unfair advantage. It can also reduce the authority of officials.",
+   "tip": "'Discuss' needs both sides: give positives and negatives, each with an example."
+  }
+ ]
+}

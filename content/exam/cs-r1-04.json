@@ -1,0 +1,84 @@
+{
+  "id": "cs-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Describe what is meant by the Von Neumann (stored program) architecture.",
+      "ms": [
+        "program instructions and data are stored together in the same (main) memory (1)",
+        "instructions are fetched from memory and executed one at a time / in sequence by the CPU (1)",
+        "uses registers / a single bus system to move data and instructions (allow)"
+      ],
+      "model": "In Von Neumann architecture, both the program instructions and the data are stored together in the same main memory. The CPU fetches the instructions one at a time from memory and executes them in sequence."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "State the most suitable output device for each task:\n(a) producing a solid plastic prototype of a new phone case [1]\n(b) printing 500 high-quality leaflets quickly in an office [1]\n(c) opening a valve in an automatic watering system. [1]",
+      "ms": [
+        "(a) 3D printer",
+        "(b) laser printer",
+        "(c) actuator (allow motor / solenoid)"
+      ],
+      "model": "(a) A 3D printer.\n(b) A laser printer.\n(c) An actuator, such as a motor."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how a 3D printer produces a solid object.",
+      "ms": [
+        "a design is created using CAD software / a 3D model (1)",
+        "the design is sliced into thin horizontal layers by software (1)",
+        "material such as plastic filament / resin / powder is used (1); plastic is heated / melted (1)",
+        "a nozzle / print head moves and deposits the material one layer at a time (1)",
+        "each layer hardens / bonds to the one below before the next is added (1) – additive manufacturing (1)"
+      ],
+      "model": "First the object is designed with CAD software, and the 3D model is sliced into many thin horizontal layers. The printer heats plastic filament until it melts, and a nozzle moves over the build plate depositing the plastic for the first layer. Each layer cools and hardens, bonding to the layer below, and the printer builds the object up layer by layer until it is complete."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how a capacitive touch screen detects where a user touches it.",
+      "ms": [
+        "the screen has a layer of (transparent) conductive material / an electrostatic field across its surface (1)",
+        "a finger is a conductor and draws / changes the charge / current at the point of touch (1)",
+        "sensors (at the corners / in a grid) detect the change in capacitance / current (1)",
+        "the microprocessor calculates the coordinates of the touch from the changes (1)",
+        "it does not work with an insulator, e.g. a normal glove (allow as extra point) (1)"
+      ],
+      "model": "A capacitive screen has a transparent conductive layer that creates an electrostatic field across the glass. Because a finger conducts electricity, touching the screen draws a small amount of charge at that point, changing the capacitance. Sensors around the screen detect this change, and the microprocessor uses the size of the changes to calculate the exact coordinates of the touch."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A house has an alarm system that uses an infrared (motion) sensor, a microprocessor and a siren. Describe how the system detects an intruder and sounds the alarm.",
+      "ms": [
+        "the infrared sensor continuously monitors / detects infrared radiation / movement in the room (1)",
+        "the sensor sends data / readings to the microprocessor (1)",
+        "an ADC converts the analogue signal to digital (1)",
+        "the microprocessor compares the reading with a stored / pre-set value (1)",
+        "if the reading is outside / above the stored value (and the alarm is set), the microprocessor sends a signal to the siren / actuator (1)",
+        "the siren sounds (and may stay on until reset by a PIN) (1)",
+        "if not, no action, and the process repeats continuously / in a loop (1)"
+      ],
+      "model": "When the alarm is set, the infrared sensor continuously measures infrared radiation in the room and sends its readings to the microprocessor. An analogue-to-digital converter changes the sensor's analogue signal into digital data. The microprocessor compares each reading with a stored value. If the reading is above the stored value, showing that a warm body has moved, it sends a signal to the actuator that switches on the siren, which keeps sounding until the correct PIN is entered. If not, nothing happens and the monitoring continues in a loop.",
+      "tip": "The microprocessor 'compares with a stored value' – the sensor itself does not decide anything."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A video-editing company is choosing between two computers.\nComputer A: clock speed 3.2 GHz, 2 cores, 4 MiB cache\nComputer B: clock speed 2.8 GHz, 8 cores, 16 MiB cache\nExplain how each of the three characteristics affects performance, and recommend which computer the company should buy.",
+      "ms": [
+        "clock speed: number of FDE cycles per second (1); A's higher clock speed lets each core process more instructions per second (1)",
+        "cores: each core can process instructions independently / at the same time (1); B can run 8 tasks in parallel (1)",
+        "cache: faster memory than RAM storing frequently used instructions / data (1); a larger cache means fewer slow fetches from RAM (1)",
+        "recommend B (1)",
+        "justification: video editing software can use many cores / handles large amounts of data, so more cores and more cache outweigh the lower clock speed (1)",
+        "limitation: more cores only help if the software is written to use them (1)"
+      ],
+      "model": "Clock speed is the number of fetch–decode–execute cycles per second, so Computer A's 3.2 GHz cores can each process instructions slightly faster. The number of cores is how many processing units can work at the same time; Computer B can process eight streams of instructions in parallel. Cache is very fast memory close to the CPU that stores frequently used data and instructions, so B's 16 MiB cache means the CPU waits less for slow RAM.\nI recommend Computer B. Video editing involves processing huge amounts of data and editing software can split the work across many cores, so eight cores and a much larger cache will outweigh the slightly lower clock speed. Computer A would only be better for programs that can use just one or two cores.",
+      "tip": "'Recommend' questions need a choice AND a reason linked to the scenario."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "chem-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "(a) State what is meant by a hydrocarbon. [1]\n(b) State two uses of ethanol. [2]",
+      "ms": [
+        "(a) a compound containing hydrogen and carbon only",
+        "(b) solvent",
+        "(b) fuel"
+      ],
+      "model": "(a) A hydrocarbon is a compound that contains hydrogen and carbon only.\n(b) Ethanol is used as a solvent and as a fuel.",
+      "tip": "'Only' is essential in the hydrocarbon definition — ethanol contains oxygen, so it is not a hydrocarbon."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Petroleum is separated into fractions by fractional distillation. Name the fraction used for:\n(a) making roads [1]\n(b) fuel for cars [1]\n(c) fuel for diesel engines. [1]",
+      "ms": [
+        "(a) bitumen",
+        "(b) gasoline / petrol",
+        "(c) diesel oil / gas oil"
+      ],
+      "model": "(a) Bitumen\n(b) Gasoline (petrol)\n(c) Diesel oil (gas oil)",
+      "tip": "Learn the five fractions with their uses as pairs: refinery gas, gasoline, naphtha, diesel oil, bitumen."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Three compounds are shown by their structural formulae.\nA: CH₃CH₂CH₃\nB: CH₂=CHCH₂CH₃\nC: CH₃CH₂OH\n(a) Name compounds A, B and C. [3]\n(b) Which compound is unsaturated? Give a reason. [1]",
+      "ms": [
+        "(a) A: propane",
+        "(a) B: but-1-ene",
+        "(a) C: ethanol",
+        "(b) B, because it has a C=C double bond"
+      ],
+      "model": "(a) A is propane, B is but-1-ene and C is ethanol.\n(b) B is unsaturated because it contains a carbon–carbon double bond.",
+      "tip": "Number the double bond from the nearer end: CH₂=CHCH₂CH₃ is but-1-ene, not but-3-ene."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Butane, C₄H₁₀, is used as a camping gas fuel.\n(a) Write the balanced symbol equation for the complete combustion of butane. [2]\n(b) In a tent with poor ventilation, incomplete combustion of butane can occur. Name a harmful gas produced and state why it is harmful. [2]",
+      "ms": [
+        "(a) products CO₂ and H₂O",
+        "(a) 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O (allow C₄H₁₀ + 6½O₂ → 4CO₂ + 5H₂O)",
+        "(b) carbon monoxide",
+        "(b) it is toxic / poisonous"
+      ],
+      "model": "(a) 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O\n(b) Carbon monoxide, which is a toxic gas.",
+      "tip": "Balance C, then H, then O last; double everything if you end up with a half."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Decane, C₁₀H₂₂, can be cracked to form octane and ethene.\n(a) State the conditions needed for cracking. [2]\n(b) Write the balanced symbol equation for this cracking reaction. [1]\n(c) Suggest why oil companies crack large alkane molecules. [1]\n(d) Ethene reacts with bromine. Write the equation for this reaction and explain why it is called an addition reaction. [2]",
+      "ms": [
+        "(a) high temperature",
+        "(a) catalyst",
+        "(b) C₁₀H₂₂ → C₈H₁₈ + C₂H₄",
+        "(c) to make smaller, more useful molecules (e.g. for petrol) because demand for them is greater than supply / to make alkenes (ethene) for polymers",
+        "(d) C₂H₄ + Br₂ → C₂H₄Br₂",
+        "(d) two molecules join to form a single product (the double bond opens)"
+      ],
+      "model": "(a) A high temperature and a catalyst.\n(b) C₁₀H₂₂ → C₈H₁₈ + C₂H₄\n(c) There is more demand for the smaller molecules, such as petrol, than is supplied by fractional distillation, and cracking also makes alkenes such as ethene for making polymers.\n(d) C₂H₄ + Br₂ → C₂H₄Br₂. The C=C double bond opens and the bromine atoms add on, so two molecules join to form only one product.",
+      "tip": "Cracking always gives a shorter alkane plus an alkene (or hydrogen): check that C and H both balance."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) Describe how poly(ethene) is formed from ethene. [2]\n(b) Chloroethene, CH₂=CHCl, forms an addition polymer. Draw or write the repeat unit of this polymer. [1]\n(c) Describe two differences between addition polymerisation and condensation polymerisation. [2]\n(d) Nylon is a condensation polymer. State the type of polymer it is. [1]",
+      "ms": [
+        "(a) many ethene molecules / monomers join together (to form a long chain)",
+        "(a) the C=C double bond breaks / opens (addition polymerisation)",
+        "(b) –CH₂–CHCl– (in brackets with continuation bonds, allow –[CH₂–CHCl]ₙ–)",
+        "(c) condensation also produces a small molecule (such as water); addition gives only the polymer",
+        "(c) addition monomers contain C=C double bonds; condensation usually uses two different monomers (with two reactive groups each)",
+        "(d) polyamide"
+      ],
+      "model": "(a) Many ethene monomers join together to form a long chain: the C=C double bond in each ethene molecule opens and the molecules bond to each other. This is addition polymerisation.\n(b) –[CH₂–CHCl]– with bonds extending out of each side.\n(c) In addition polymerisation the polymer is the only product, but in condensation polymerisation a small molecule such as water is also formed. Addition monomers contain a C=C double bond, whereas condensation polymers such as nylon are usually made from two different monomers.\n(d) Nylon is a polyamide.",
+      "tip": "For an addition repeat unit, the C=C becomes C–C and both end bonds must stick out of the brackets."
+    }
+  ]
+}

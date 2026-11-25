@@ -1,0 +1,100 @@
+{
+  "id": "geo-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between subsistence farming and commercial farming.",
+      "ms": [
+        "subsistence: food grown to feed the farmer and their family (little or none sold)",
+        "commercial: crops / animals produced to be sold for profit"
+      ],
+      "model": "Subsistence farming produces food mainly for the farmer's own family, with little left to sell. Commercial farming produces crops or animals to sell for profit."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State the meaning of:\n(a) primary industry [1]\n(b) tertiary industry. [1]",
+      "ms": [
+        "(a) extracting / collecting raw materials from the land or sea, e.g. farming, fishing, mining, forestry",
+        "(b) providing services, e.g. retail, health, education, tourism, transport"
+      ],
+      "model": "(a) Primary industry extracts raw materials from the land or sea, for example farming or mining.\n(b) Tertiary industry provides services to people, for example teaching, health care or retail."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "For a named type of farming, describe its inputs, processes and outputs.",
+      "ms": [
+        "inputs (physical), e.g. rice farming in South Asia: high temperatures, heavy monsoon rainfall, flat land / terraces, fertile alluvial soil (1)",
+        "inputs (human): large amount of labour, seeds, water buffalo / simple tools, fertiliser (1)",
+        "processes: ploughing, planting seedlings in nursery, transplanting, flooding paddy fields, weeding, harvesting, threshing (1)",
+        "outputs: rice (main crop), sometimes vegetables / fish, surplus sold (1)",
+        "at least one correct item in each of inputs, processes and outputs; allow other farm types (e.g. commercial arable, dairy) with appropriate detail"
+      ],
+      "model": "Rice farming in the lowlands of South Asia has physical inputs of high temperatures, heavy monsoon rain and flat land with fertile alluvial soil, and human inputs of a lot of family labour, seeds, water buffalo for ploughing and some fertiliser. The processes include ploughing, flooding the paddy fields, planting seedlings in a nursery and transplanting them by hand, weeding and harvesting. The main output is rice, mostly eaten by the family, with any surplus sold at market.",
+      "tip": "Name a specific type of farm and give at least one item for inputs, processes AND outputs."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain the factors that influence the location of high-technology industries.",
+      "ms": [
+        "near universities / research centres (1) for research links and skilled graduates (dev 1)",
+        "skilled, educated workforce (1)",
+        "good transport, e.g. motorways / airports for fast movement of light products and international business travel (1)",
+        "attractive environment / pleasant surroundings to attract workers (1)",
+        "science / business parks with modern buildings and space (1)",
+        "footloose – not tied to raw materials, products are light and high value (1)",
+        "near other high-tech firms – shared ideas / services (1)"
+      ],
+      "model": "High-tech industries are footloose because their raw materials and products are light and valuable, so they can choose locations freely. They often locate near universities, which provide research links and a supply of highly skilled graduates. Good access to motorways and international airports is important for meeting clients and moving products quickly. They prefer attractive surroundings, such as landscaped science parks, which help them attract skilled workers, and being near other high-tech firms lets them share ideas."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain the human causes of food shortages in some low-income countries.",
+      "ms": [
+        "war / conflict (1) destroys crops and stops farmers working / disrupts food supply (dev 1)",
+        "poverty – people cannot afford to buy food or farming inputs (1)",
+        "rapid population growth increases demand (1)",
+        "land used for cash crops / biofuels for export instead of food (1)",
+        "poor transport / storage – food wasted or cannot reach markets (1)",
+        "corruption / poor government, e.g. aid or land not fairly shared (1)",
+        "rising world food prices (1)",
+        "lack of farming technology / irrigation (1)"
+      ],
+      "model": "War is a major cause: fighting destroys crops and stores and forces farmers to flee, so less food is produced. Poverty means many people cannot afford to buy food or seeds and fertiliser to grow more. In some countries good land is used for cash crops or biofuels for export rather than food for local people. Rapid population growth increases demand faster than production. Poor roads and storage mean food rots or cannot reach the people who need it, and corruption can stop food aid reaching the poor."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named area you have studied, explain why it has become an important tourist destination.",
+      "ms": [
+        "physical attractions: climate (e.g. hot, sunny, dry season), beaches, coral reefs, mountains, wildlife / national parks",
+        "human attractions: culture, history, heritage sites, festivals, food, friendly people",
+        "accessibility: international airports, cheap / direct flights, shorter travel times",
+        "accommodation and services: hotels, resorts, all-inclusive packages",
+        "government promotion / investment / advertising; political stability and safety",
+        "rising incomes, paid holidays and internet booking in source countries",
+        "place-specific detail, e.g. Kenya: safari parks (Maasai Mara, Amboseli), Indian Ocean beaches at Mombasa, Nairobi airport; or the Maldives: coral islands, all-year warm climate, resort islands, Malé airport"
+      ],
+      "model": "Kenya in East Africa has become a major tourist destination for both physical and human reasons. Its main attraction is wildlife: national parks and reserves such as the Maasai Mara and Amboseli allow tourists to see lions, elephants and the annual wildebeest migration on safari. The Indian Ocean coast around Mombasa has white sandy beaches, coral reefs and a warm, sunny climate, so tourists can combine a safari with a beach holiday.\nHuman factors are also important. Kenya has the Maasai culture, which many visitors want to experience. International airports at Nairobi and Mombasa have direct flights from Europe, and package holidays make trips affordable. The government has promoted Kenya abroad and invested in lodges and hotels. Rising incomes and online booking in Europe have also made long-haul holidays more popular.",
+      "tip": "Name the area and give real attractions (named parks, beaches, airports) for Level 3.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed reasons (physical and human), with place-specific detail of the named area."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three reasons with some development, or one developed reason; some reference to a named area."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general reasons (e.g. 'hot weather'); no named area."
+        }
+      ]
+    }
+  ]
+}

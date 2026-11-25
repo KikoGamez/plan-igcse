@@ -1,0 +1,87 @@
+{
+  "id": "cs-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Name the validation check used in each case:\n(a) a date must be entered in the form DD/MM/YYYY [1]\n(b) the number of tickets must be an integer, not text. [1]",
+      "ms": [
+        "(a) format check",
+        "(b) type check"
+      ],
+      "model": "(a) Format check.\n(b) Type check."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A program accepts whole numbers from 1 to 20 inclusive. Give the boundary test data for this range.",
+      "ms": [
+        "lower boundary: 0 (rejected) and 1 (accepted) (1)",
+        "upper boundary: 20 (accepted) and 21 (rejected) (1)"
+      ],
+      "model": "Lower boundary: 1 should be accepted and 0 rejected. Upper boundary: 20 should be accepted and 21 rejected.",
+      "tip": "Boundary data = the largest/smallest accepted value AND the value just outside it."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Show the list 8, 3, 5, 1 after each pass of a bubble sort into ascending order, and state how the algorithm knows the list is sorted.",
+      "ms": [
+        "after pass 1: 3, 5, 1, 8 (1)",
+        "after pass 2: 3, 1, 5, 8 (1)",
+        "after pass 3: 1, 3, 5, 8 (1)",
+        "a pass is made with no swaps (a flag stays FALSE) so the algorithm stops / allow: after n − 1 passes (1)"
+      ],
+      "model": "Pass 1: 3, 5, 1, 8 (8 moves to the end)\nPass 2: 3, 1, 5, 8\nPass 3: 1, 3, 5, 8\nPass 4: no swaps are made, so the swap flag stays FALSE and the algorithm stops because the list is sorted.",
+      "tip": "After each pass the largest unsorted value has 'bubbled' to its correct place."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "This algorithm should search the array Names[1:50] for a name and output its position. It contains three errors.\n01 Found ← TRUE\n02 INPUT Target\n03 FOR Index ← 0 TO 50\n04    IF Names[Index] = Target\n05       THEN\n06          Found ← TRUE\n07          Position ← Index\n08    ENDIF\n09 NEXT Index\n10 IF Found = TRUE\n11    THEN\n12       OUTPUT \"Found at \", Index\n13    ELSE\n14       OUTPUT \"Not found\"\n15 ENDIF\nIdentify two of the errors by line number and write the corrected line for each.",
+      "ms": [
+        "error in line 01 identified (1)",
+        "corrected: Found ← FALSE (1)",
+        "error in line 03 identified (1)",
+        "corrected: FOR Index ← 1 TO 50 (1)",
+        "error in line 12 identified (1)",
+        "corrected: OUTPUT \"Found at \", Position (1)",
+        "max 4: any two errors, 1 mark for identifying the line and 1 for the correction"
+      ],
+      "model": "Line 01 is wrong because Found starts as TRUE, so 'Found at' would be output even if the name is not there. Correct line: Found ← FALSE\nLine 12 outputs the loop counter instead of the stored position. Correct line: OUTPUT \"Found at \", Position\n(Line 03 is also wrong: the array starts at 1, so it should be FOR Index ← 1 TO 50.)",
+      "tip": "Check the initial values and the array bounds first – they are the most common planted errors."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The array Scores[1:100] stores 100 integers.\nWrite an algorithm in pseudocode that:\n• inputs a value to search for\n• uses a linear search that stops as soon as the value is found\n• outputs the position of the value, or \"Not found\".",
+      "ms": [
+        "inputs the search value (1)",
+        "initialises Found ← FALSE and Index ← 1 (1)",
+        "conditional loop, e.g. WHILE Found = FALSE AND Index <= 100 (1)",
+        "compares Scores[Index] with the search value; sets Found ← TRUE when equal (1)",
+        "increments Index when not found (1)",
+        "after the loop outputs the position if found, otherwise \"Not found\" (1)"
+      ],
+      "model": "INPUT SearchValue\nFound ← FALSE\nIndex ← 1\nWHILE Found = FALSE AND Index <= 100 DO\n   IF Scores[Index] = SearchValue\n      THEN\n         Found ← TRUE\n      ELSE\n         Index ← Index + 1\n   ENDIF\nENDWHILE\nIF Found = TRUE\n   THEN\n      OUTPUT \"Found at position \", Index\n   ELSE\n      OUTPUT \"Not found\"\nENDIF",
+      "tip": "A FOR loop cannot stop early – use WHILE or REPEAT…UNTIL when asked to stop as soon as it is found."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A website registration form asks for an email address, a password and a date of birth.\n(a) Describe three different validation checks, one for each field, stating how each check would be applied. [6]\n(b) Describe one verification method that could be used for the password, and explain why verification is needed as well as validation. [2]",
+      "ms": [
+        "(a) email: presence check (1) – the field cannot be left blank (1)",
+        "(a) email: format check (1) – must contain one @ and a full stop after it (1)",
+        "(a) password: length check (1) – at least 8 characters (1)",
+        "(a) date of birth: range check (1) – e.g. between 1900 and today / user at least 13 years old (1)",
+        "(a) date of birth: type / format check (1) – must be a valid date DD/MM/YYYY (1)",
+        "(a) max 2 marks per field; 1 mark for naming a check, 1 for applying it to that field",
+        "(b) double entry: password typed twice and compared; if different, re-enter (1)",
+        "(b) validation only checks data is reasonable / follows rules, not that it is what the user intended / correct (1)"
+      ],
+      "model": "(a) Email address: a format check that the entry contains an @ symbol followed later by a full stop, otherwise it is rejected.\nPassword: a length check that the password has at least 8 characters.\nDate of birth: a range check that the date is not in the future and makes the user at least 13 years old.\n(b) Double entry: the user types the password twice and the two entries are compared; if they do not match, the password must be re-entered. This is needed because validation only checks that the data is reasonable; a password with a typing mistake could pass the length check but would not be the one the user intended.",
+      "tip": "Each validation mark pair = name of check + how it applies to THAT field."
+    }
+  ]
+}

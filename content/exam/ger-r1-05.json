@@ -1,0 +1,86 @@
+{
+ "id": "ger-r1-05",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Ergänzen Sie die richtigen Endungen.\n„Ich wohne mit ___ (meine) Eltern in ___ (eine) Wohnung in der Nähe ___ (der) Bahnhofs.“",
+   "ms": [
+    "meinen (dative plural after mit)",
+    "einer (dative feminine after in, location)",
+    "des (genitive after in der Nähe)"
+   ],
+   "model": "Ich wohne mit meinen Eltern in einer Wohnung in der Nähe des Bahnhofs.",
+   "tip": "mit always takes the dative; in + location (wo?) takes the dative."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Ergänzen Sie den Artikel.\n„Ich hänge das Poster an ___ Wand. Jetzt hängt das Poster an ___ Wand.“",
+   "ms": [
+    "die (accusative: movement, wohin?)",
+    "der (dative: position, wo?)"
+   ],
+   "model": "Ich hänge das Poster an die Wand. Jetzt hängt das Poster an der Wand.",
+   "tip": "Two-way prepositions: wohin? → accusative, wo? → dative."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Ergänzen Sie die Adjektivendungen in dieser Anzeige.\n„Zu verkaufen: ein schwarz__ Fahrrad mit neu__ Reifen. Ideal für einen sportlich__ Jungen oder ein sportlich__ Mädchen.“",
+   "ms": [
+    "schwarzes (neuter nominative after ein)",
+    "neuen (dative plural, no article)",
+    "sportlichen (masculine accusative after einen)",
+    "sportliches (neuter accusative after ein)"
+   ],
+   "model": "ein schwarzes Fahrrad mit neuen Reifen … für einen sportlichen Jungen oder ein sportliches Mädchen.",
+   "tip": "After ein with no ending (ein Fahrrad, ein Mädchen) the adjective shows the gender: -es for neuter."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "In diesem Text gibt es vier Fehler mit Fällen (cases). Finden und korrigieren Sie sie.\n„Am Wochenende bin ich mit mein Freund in die Stadt gefahren. Wir haben ein neues Handy für meinem Bruder gekauft. Wegen dem Regen sind wir dann in einem Café gegangen. Dort haben wir einen Kuchen gegessen.“",
+   "ms": [
+    "mit mein Freund → mit meinem Freund",
+    "für meinem Bruder → für meinen Bruder",
+    "wegen dem Regen → wegen des Regens (genitive in written German)",
+    "in einem Café gegangen → in ein Café gegangen (movement → accusative)",
+    "Do not penalise „einen Kuchen“ if left unchanged (it is correct)"
+   ],
+   "model": "Am Wochenende bin ich mit meinem Freund in die Stadt gefahren. Wir haben ein neues Handy für meinen Bruder gekauft. Wegen des Regens sind wir dann in ein Café gegangen. Dort haben wir einen Kuchen gegessen.",
+   "tip": "für always takes the accusative; gehen + in shows movement, so accusative."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Lesen Sie die Informationen und schreiben Sie die Sätze auf Deutsch.\nHotel Sonne: 80 € pro Nacht, 2 km vom Strand, 3 Sterne\nHotel Mond: 120 € pro Nacht, 500 m vom Strand, 4 Sterne\nHotel Stern: 60 € pro Nacht, 5 km vom Strand, 2 Sterne\n(a) Welches Hotel ist am billigsten? Antworten Sie mit einem ganzen Satz. [1]\n(b) Vergleichen Sie die Preise von Hotel Mond und Hotel Sonne. [1]\n(c) Vergleichen Sie Hotel Mond und Hotel Stern: Welches ist näher am Strand? [2]\n(d) Welches Hotel empfehlen Sie einer Familie mit kleinen Kindern? Geben Sie einen Grund mit „weil“. [2]",
+   "ms": [
+    "(a) Das Hotel Stern ist am billigsten.",
+    "(b) Das Hotel Mond ist teurer als das Hotel Sonne. (allow: Das Hotel Sonne ist billiger als …) – note teurer, not teuerer",
+    "(c) näher (comparative of nah, with umlaut) [1]",
+    "(c) … als das Hotel Stern (correct als construction) [1]",
+    "(d) sensible recommendation, e.g. Ich empfehle das Hotel Mond [1]",
+    "(d) weil-clause with verb at the end, e.g. weil es nur 500 Meter vom Strand entfernt ist [1]"
+   ],
+   "model": "(a) Das Hotel Stern ist am billigsten.\n(b) Das Hotel Mond ist teurer als das Hotel Sonne.\n(c) Das Hotel Mond ist näher am Strand als das Hotel Stern.\n(d) Ich empfehle das Hotel Mond, weil es nur 500 Meter vom Strand entfernt ist und die Kinder nicht weit laufen müssen.",
+   "tip": "Irregular comparatives to learn: teuer → teurer, nah → näher → am nächsten, gut → besser."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Beschreiben Sie Ihr Schlafzimmer in etwa 50 Wörtern. Sie müssen benutzen:\n• vier verschiedene Präpositionen mit dem richtigen Fall\n• zwei Adjektive mit der richtigen Endung vor einem Nomen",
+   "ms": [
+    "Preposition 1 with correct case and article (e.g. neben dem Bett)",
+    "Preposition 2, different, with correct case (e.g. an der Wand)",
+    "Preposition 3, different, with correct case (e.g. auf dem Schreibtisch)",
+    "Preposition 4, different, with correct case (e.g. unter dem Fenster / zwischen dem Schrank und der Tür)",
+    "Adjective 1 with correct ending before a noun (e.g. ein großes Bett)",
+    "Adjective 2 with correct ending before a noun (e.g. einen alten Schrank / ein blauer Teppich)",
+    "An incorrect case or ending scores 0 for that item"
+   ],
+   "model": "Mein Zimmer ist klein, aber gemütlich. Ich habe ein großes Bett und einen alten Schrank. Neben dem Bett steht ein Nachttisch. An der Wand hängt ein Poster von meiner Lieblingsband. Auf dem Schreibtisch liegt mein Laptop, und unter dem Fenster steht ein Regal mit Büchern.",
+   "tip": "With stehen, liegen, hängen (position) the two-way prepositions take the dative."
+  }
+ ]
+}

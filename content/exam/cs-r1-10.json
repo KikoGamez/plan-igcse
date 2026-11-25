@@ -1,0 +1,86 @@
+{
+  "id": "cs-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State the output of each statement:\n(a) OUTPUT LENGTH(\"Revision\") [1]\n(b) OUTPUT UCASE(SUBSTRING(\"Revision\", 3, 4)) [1]",
+      "ms": [
+        "(a) 8",
+        "(b) VISI"
+      ],
+      "model": "(a) 8\n(b) SUBSTRING(\"Revision\", 3, 4) starts at the 3rd character and takes 4 characters: \"visi\". UCASE gives VISI.",
+      "tip": "In Cambridge pseudocode the first character is position 1."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain what is meant by a constant and give one reason for using a constant instead of a variable.",
+      "ms": [
+        "a named value that cannot change while the program runs (1)",
+        "reason: value only needs changing in one place / easier to maintain (1); or prevents accidental change / makes the program easier to read (1)"
+      ],
+      "model": "A constant is a named data item whose value is set once and cannot change while the program is running, for example CONSTANT VATRate ← 0.2. Using a constant means that if the value ever has to change, it only needs updating in one place."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Write a function in pseudocode called CountVowels that takes a string as a parameter and returns the number of vowels (a, e, i, o, u, in upper or lower case) in the string.\nThen write a statement that uses the function to output the number of vowels in \"Computer\".",
+      "ms": [
+        "function header with a STRING parameter and RETURNS INTEGER, and ENDFUNCTION (1)",
+        "initialises a counter to 0 (1)",
+        "loop from 1 to LENGTH of the string (1)",
+        "extracts each character with SUBSTRING and checks it against all vowels, handling case (e.g. LCASE) (1)",
+        "increments counter and RETURNs it after the loop (1)",
+        "calling statement, e.g. OUTPUT CountVowels(\"Computer\") (1)"
+      ],
+      "model": "FUNCTION CountVowels(Word : STRING) RETURNS INTEGER\n   DECLARE Count : INTEGER\n   DECLARE Letter : STRING\n   Count ← 0\n   FOR Position ← 1 TO LENGTH(Word)\n      Letter ← LCASE(SUBSTRING(Word, Position, 1))\n      IF Letter = \"a\" OR Letter = \"e\" OR Letter = \"i\" OR Letter = \"o\" OR Letter = \"u\"\n         THEN\n            Count ← Count + 1\n      ENDIF\n   NEXT Position\n   RETURN Count\nENDFUNCTION\n\nOUTPUT CountVowels(\"Computer\")   // outputs 3",
+      "tip": "A function must RETURN a value; a procedure does not."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Write a procedure Stars that takes an integer N as a parameter and outputs a line of N asterisks (*).\nThen write pseudocode that calls the procedure to output this pattern:\n*\n**\n***\n****\n*****",
+      "ms": [
+        "procedure header with an INTEGER parameter, and ENDPROCEDURE (1)",
+        "builds the line using a loop from 1 to N and concatenation (&), or outputs N asterisks on one line (1)",
+        "outputs the line (once, after the loop) (1)",
+        "loop from 1 to 5 that CALLs Stars with the loop counter (1)"
+      ],
+      "model": "PROCEDURE Stars(N : INTEGER)\n   DECLARE Line : STRING\n   Line ← \"\"\n   FOR Count ← 1 TO N\n      Line ← Line & \"*\"\n   NEXT Count\n   OUTPUT Line\nENDPROCEDURE\n\nFOR Row ← 1 TO 5\n   CALL Stars(Row)\nNEXT Row",
+      "tip": "Procedures are run with CALL in Cambridge pseudocode."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Write pseudocode that:\n(a) inputs members' names until \"END\" is entered and writes each name to a new text file \"Members.txt\" [3]\n(b) then reads the file back and outputs the number of names stored in it. [2]\n(c) State the file mode that should be used to add more names later without deleting the existing ones. [1]",
+      "ms": [
+        "(a) OPENFILE \"Members.txt\" FOR WRITE and CLOSEFILE after writing (1)",
+        "(a) loop that inputs names until \"END\" (END not written) (1)",
+        "(a) WRITEFILE \"Members.txt\", Name inside the loop (1)",
+        "(b) OPENFILE … FOR READ with a loop WHILE NOT EOF(\"Members.txt\") (1)",
+        "(b) READFILE each line, increment a counter, output the count after the loop (1)",
+        "(c) APPEND (OPENFILE \"Members.txt\" FOR APPEND)"
+      ],
+      "model": "(a)\nOPENFILE \"Members.txt\" FOR WRITE\nOUTPUT \"Enter a name, or END to finish\"\nINPUT Name\nWHILE Name <> \"END\" DO\n   WRITEFILE \"Members.txt\", Name\n   INPUT Name\nENDWHILE\nCLOSEFILE \"Members.txt\"\n(b)\nCount ← 0\nOPENFILE \"Members.txt\" FOR READ\nWHILE NOT EOF(\"Members.txt\") DO\n   READFILE \"Members.txt\", Name\n   Count ← Count + 1\nENDWHILE\nCLOSEFILE \"Members.txt\"\nOUTPUT \"Number of members: \", Count\n(c) APPEND.",
+      "tip": "FOR WRITE creates a new file and overwrites anything already there."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "The arrays Names[1:30] and Scores[1:30] store the names and test scores of 30 students; Names[1] belongs with Scores[1], and so on.\nWrite an algorithm in pseudocode that outputs:\n• the name and score of the student with the highest score\n• the number of students whose score is above the average (mean) score.",
+      "ms": [
+        "initialises Total ← 0 and a variable to track the highest (e.g. HighIndex ← 1 or HighScore ← Scores[1]) (1)",
+        "loop through all 30 elements (1)",
+        "adds each score to Total (1)",
+        "compares each score with the current highest and updates it (1)",
+        "stores the index / name of the student with the highest score (1)",
+        "calculates Average ← Total / 30 after the first loop (1)",
+        "second loop counting scores greater than the average (1)",
+        "outputs the name, highest score and count with messages (1)"
+      ],
+      "model": "Total ← 0\nHighIndex ← 1\nFOR I ← 1 TO 30\n   Total ← Total + Scores[I]\n   IF Scores[I] > Scores[HighIndex]\n      THEN\n         HighIndex ← I\n   ENDIF\nNEXT I\nAverage ← Total / 30\nAboveCount ← 0\nFOR I ← 1 TO 30\n   IF Scores[I] > Average\n      THEN\n         AboveCount ← AboveCount + 1\n   ENDIF\nNEXT I\nOUTPUT \"Highest: \", Names[HighIndex], \" with \", Scores[HighIndex]\nOUTPUT \"Number above average: \", AboveCount",
+      "tip": "Storing the INDEX of the highest score lets you output the matching name from the parallel array."
+    }
+  ]
+}

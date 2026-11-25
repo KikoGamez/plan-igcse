@@ -1,0 +1,107 @@
+{
+  "id": "geo-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State two differences between oceanic crust and continental crust.",
+      "ms": [
+        "oceanic crust is thinner (about 5–10 km); continental is thicker (about 25–70 km)",
+        "oceanic crust is denser / heavier; continental is less dense / lighter",
+        "oceanic crust is younger; continental crust is older",
+        "oceanic crust can sink / be subducted (destroyed); continental crust is not subducted",
+        "oceanic is made of basalt; continental mainly granite"
+      ],
+      "model": "Oceanic crust is thinner and denser than continental crust. Oceanic crust can be subducted and destroyed, but continental crust is too light to sink.",
+      "tip": "Each difference must compare both types: 'oceanic is denser than continental'."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) Name the instrument used to detect and record earthquake waves. [1]\n(b) Name a scale used to measure the magnitude of an earthquake. [1]",
+      "ms": [
+        "(a) seismometer (allow seismograph)",
+        "(b) Richter scale (allow moment magnitude scale)",
+        "(b) do not accept Mercalli – that measures intensity / damage"
+      ],
+      "model": "(a) A seismometer.\n(b) The Richter scale.",
+      "tip": "The Mercalli scale measures the effects (damage), not the magnitude."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain how volcanoes are formed at a divergent (constructive) plate boundary, such as the Mid-Atlantic Ridge.",
+      "ms": [
+        "two plates move apart (1)",
+        "convection currents in the mantle move the plates (1)",
+        "pressure is reduced, so mantle rock melts / magma forms (1)",
+        "magma rises to fill the gap / erupts at the surface (1)",
+        "runny / basaltic lava flows a long way, forming gently sloping shield volcanoes / new crust (1)",
+        "e.g. Iceland lies on the ridge (1)"
+      ],
+      "model": "At a divergent boundary two plates are pulled apart by convection currents in the mantle. As they separate, pressure on the mantle below is reduced and some rock melts to form magma. The magma rises through the gap and erupts at the surface as runny basaltic lava. Because the lava flows a long way before cooling, it builds wide, gently sloping shield volcanoes and new crust, as in Iceland on the Mid-Atlantic Ridge."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe the hazards caused by a volcanic eruption.",
+      "ms": [
+        "lava flows – destroy buildings, roads and farmland in their path (1)",
+        "pyroclastic flows – very fast, very hot clouds of gas and ash that kill people (1)",
+        "ash fall – collapses roofs, buries crops, causes breathing problems, grounds aircraft (1)",
+        "lahars / mudflows – ash mixed with rain or melted snow flows down valleys (1)",
+        "volcanic gases, e.g. sulphur dioxide / carbon dioxide – poisonous (1)",
+        "volcanic bombs / tephra thrown out (1)",
+        "max 2 for naming hazards with no description"
+      ],
+      "model": "Lava flows destroy buildings, roads and farmland in their path, though they usually move slowly enough for people to escape. Pyroclastic flows are clouds of very hot gas and ash that race down the slopes at high speed and kill anything in their path. Ash can fall over a wide area, collapsing roofs, burying crops and stopping aircraft from flying. When ash mixes with rain or melted snow it forms lahars, fast mudflows that bury villages in valleys.",
+      "tip": "Name the hazard and say what it does: that is the 'describe'."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Two continental plates are colliding. Explain how fold mountains form at this boundary and why earthquakes are common there but volcanoes are not.",
+      "ms": [
+        "both plates have the same / low density so neither is subducted (1)",
+        "the crust (and sediments between the plates) is crumpled / folded / pushed upwards (1)",
+        "forming fold mountains, e.g. the Himalayas (India–Eurasia) (1)",
+        "pressure / stress builds up as the plates push against each other (1)",
+        "and is released suddenly as an earthquake when rocks slip (1)",
+        "no subduction, so no crust is melted / no magma is formed (1)",
+        "so there are (almost) no volcanoes (1)"
+      ],
+      "model": "When two continental plates collide, neither can sink because continental crust is too light. Instead the rocks and sediments between them are squeezed and crumpled upwards into folds, forming fold mountains such as the Himalayas, where the Indian plate is pushing into the Eurasian plate. Pressure builds up as the plates push against each other, and when the rocks suddenly slip the energy is released as an earthquake. Because there is no subduction, no crust is melted to form magma, so there are no volcanoes at this type of boundary.",
+      "tip": "The key word for 'no volcanoes' is no subduction, so no magma."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named earthquake or volcanic eruption you have studied, describe its causes and its effects.",
+      "ms": [
+        "cause linked to the correct plate boundary, e.g. Haiti 2010: conservative boundary (Caribbean and North American plates), shallow focus, near Port-au-Prince",
+        "Japan 2011: subduction of the Pacific plate, magnitude 9.0, triggered a tsunami",
+        "Eyjafjallajökull 2010 (Iceland): divergent boundary on the Mid-Atlantic Ridge, eruption under an ice cap",
+        "primary effects: deaths, injuries, collapsed buildings, destroyed roads / ports (with figures, e.g. Haiti over 100,000 deaths; Japan about 18,000 deaths, mostly from the tsunami)",
+        "secondary effects: tsunami, fires, disease (cholera in Haiti), Fukushima nuclear accident, homelessness, economic losses",
+        "for Eyjafjallajökull: ash cloud closed much of European airspace for about six days, about 100,000 flights cancelled; meltwater floods; ash on farmland",
+        "social, economic and environmental effects distinguished / short- and long-term"
+      ],
+      "model": "The Haiti earthquake of January 2010 had a magnitude of 7.0. It was caused by movement along a conservative plate boundary between the Caribbean and North American plates. The focus was shallow and the epicentre was only about 25 km from the capital, Port-au-Prince, so the shaking was very strong where many people lived.\nThe primary effects were devastating: over 100,000 people died (some estimates exceed 200,000), and badly built homes, schools, hospitals and the presidential palace collapsed. The port and roads were damaged, making it hard to deliver aid. Secondary effects followed: over a million people were made homeless and lived in crowded camps, and later a cholera outbreak killed thousands more. The economy, already the poorest in the Americas, was severely damaged.",
+      "tip": "Name the event, year and magnitude, explain the plate cause, then give effects with figures.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both causes and effects, with accurate place-specific detail (dates, figures, plate names)."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one developed idea; may focus mainly on causes or effects; some reference to the event."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named event or detail."
+        }
+      ]
+    }
+  ]
+}

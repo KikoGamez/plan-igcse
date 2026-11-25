@@ -1,0 +1,101 @@
+{
+  "id": "geo-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain what is meant by gross national income (GNI) per capita.",
+      "ms": [
+        "the total value of goods and services produced by a country (including income from abroad) in a year (1)",
+        "divided by the number of people / population (1)",
+        "usually given in US$ (allow) "
+      ],
+      "model": "GNI per capita is the total income of a country in a year, the value of all the goods and services it produces plus income from abroad, divided by the number of people. It is usually given in US dollars."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) interdependence [1]\n(b) globalisation. [1]",
+      "ms": [
+        "(a) countries relying on / depending on each other, e.g. for trade, goods, aid, investment",
+        "(b) the increasing links / connections between countries around the world through trade, investment, communications, culture"
+      ],
+      "model": "(a) Interdependence means countries rely on each other, for example for trade, investment and aid.\n(b) Globalisation is the process by which countries are becoming more connected through trade, investment, technology and culture."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The table shows two indicators of development for five countries.\nCountry   GNI per capita (USD)   Life expectancy (years)\nA         800                    60\nB         3,500                  68\nC         12,000                 76\nD         45,000                 82\nE         20,000                 66\n(a) Describe the relationship between GNI per capita and life expectancy. [2]\n(b) Identify the anomaly and suggest one reason for it. [2]",
+      "ms": [
+        "(a) positive relationship: as GNI per capita increases, life expectancy increases (1)",
+        "(a) use of data, e.g. A 800 USD → 60 years, D 45,000 USD → 82 years (1)",
+        "(b) Country E (1)",
+        "(b) any one reason: wealth is unequally shared (most people still poor); income from oil / minerals not spent on health care; high rates of disease, e.g. HIV/AIDS; conflict; poor diet / lifestyle (1)"
+      ],
+      "model": "(a) There is a positive relationship: countries with higher GNI per capita have higher life expectancy. For example, Country A has a GNI per capita of 800 USD and a life expectancy of 60 years, while Country D has 45,000 USD and 82 years.\n(b) Country E is the anomaly: it has a high GNI per capita of 20,000 USD but a life expectancy of only 66 years. This could be because its wealth comes from oil and is shared very unequally, so most people cannot afford good health care.",
+      "tip": "Quote paired data (both indicators for the same country) when describing a relationship."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain how aid can help a low-income country (LIC) to develop, and why aid does not always help.",
+      "ms": [
+        "helps: emergency aid saves lives after disasters (1)",
+        "helps: long-term development aid funds schools, clinics, wells / clean water, roads (1) improving health / education / productivity (dev 1)",
+        "helps: training / technology transfer builds skills (1)",
+        "problems: tied aid – must be spent on donor's goods / services (1)",
+        "problems: dependency on aid (1); corruption – aid does not reach the poor (1)",
+        "problems: inappropriate large projects (e.g. dams) can harm local people / create debt (loans) (1)"
+      ],
+      "model": "Aid can help development when it funds long-term projects such as wells, clinics and schools: clean water and health care reduce disease, and education gives people skills to earn more. Training and technology transfer also improve farming and industry. However, aid does not always help. Tied aid has to be spent on goods from the donor country, so the benefit returns to the donor. Corruption can mean money does not reach the poor, and countries can become dependent on aid rather than developing their own economy.",
+      "tip": "Balance: 2 marks for how aid helps, 2 for why it may not."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain why transnational corporations (TNCs) choose to locate factories in low-income and newly industrialised countries.",
+      "ms": [
+        "cheap labour / low wages (1) reduces production costs and increases profit (dev 1)",
+        "large workforce available (1)",
+        "fewer / weaker environmental and labour laws (1)",
+        "government incentives, e.g. tax breaks / export processing zones / grants (1)",
+        "close to raw materials (1)",
+        "access to growing markets / large populations (1)",
+        "cheaper land / building costs (1)",
+        "improved transport / communications make it possible to manage from abroad (1)"
+      ],
+      "model": "TNCs locate factories in LICs and NICs mainly because labour is much cheaper, so production costs are lower and profits higher. These countries have large workforces willing to work long hours. Laws on pollution and working conditions are often weaker, which also reduces costs. Governments attract TNCs with tax breaks and export processing zones. Some locations are near raw materials, and countries with large populations, such as India, are growing markets for the TNC's products. Better transport and the internet make it easy to run factories far from headquarters."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "'Globalisation has brought more benefits than problems to low-income countries.' To what extent do you agree? Use examples you have studied.",
+      "ms": [
+        "benefits: investment by TNCs creates jobs and wages (e.g. garment factories in Bangladesh, call centres in India)",
+        "benefits: new technology / skills / infrastructure; export earnings; access to world markets; tax income",
+        "benefits: faster communication, access to information, mobile banking",
+        "problems: low wages / poor and unsafe working conditions (e.g. Rana Plaza factory collapse, Bangladesh 2013)",
+        "problems: profits go abroad to the TNC's home country; TNCs can leave quickly",
+        "problems: pollution and weak environmental controls; local firms cannot compete; dependence on primary exports / unfair trade",
+        "benefits unevenly distributed – cities gain more than rural areas, inequality grows",
+        "supported conclusion / judgement"
+      ],
+      "model": "Globalisation has brought important benefits to some LICs. TNCs have invested in countries such as Bangladesh, where the garment industry employs millions of people, many of them women, giving them a regular wage. Investment brings new technology, skills and infrastructure, and exports earn foreign currency. Mobile phones and the internet have also spread quickly, allowing services such as mobile banking.\nHowever, there are serious problems. Wages are low and working conditions can be dangerous: in 2013 the Rana Plaza factory building in Bangladesh collapsed, killing over 1,100 workers. Much of the profit goes back to the TNC's home country, and companies can move to cheaper countries at short notice. Weak environmental laws mean rivers are polluted by factories, and many rural areas gain very little, so inequality grows.\nOverall, globalisation has brought more benefits than problems to countries that have attracted investment, but the benefits are shared unevenly and depend on governments protecting workers and the environment.",
+      "tip": "Use real examples on both sides and finish with a judgement ('to what extent').",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both benefits and problems, with specific examples, and a supported judgement."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one-sided but developed; some reference to examples; judgement weak or missing."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general points; no examples or judgement."
+        }
+      ]
+    }
+  ]
+}

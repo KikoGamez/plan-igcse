@@ -1,0 +1,119 @@
+{
+  "id": "bus-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “horizontal integration”. [2]",
+      "ms": [
+        "When two businesses join together / one takes over another (1)",
+        "in the same industry and at the same stage of production (1)",
+        "Allow an example for the second mark only if it shows the same stage, e.g. two supermarket chains merging"
+      ],
+      "model": "Horizontal integration is when two businesses join together, by a merger or takeover, that are in the same industry and at the same stage of production, for example two bakery chains merging.",
+      "tip": "The key words are “same industry” and “same stage of production”."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Lena runs a small shop that sells hand-made pottery in a seaside village. She has no plans to grow.\n\nIdentify two reasons why some businesses, like Lena’s, remain small. [2]",
+      "ms": [
+        "The market is small / niche market with limited demand",
+        "The owner wants to keep control / independence",
+        "The owner is happy with the current level of profit / wants less stress or a good work–life balance",
+        "Personal service / close relationships with customers are easier when small",
+        "Lack of finance / difficult to raise capital to grow",
+        "The type of product, e.g. hand-made goods cannot be mass-produced"
+      ],
+      "model": "1. The market is small, as there is limited demand for hand-made pottery in a village.\n2. The owner may want to keep full control and avoid the stress of managing more staff.",
+      "tip": "Identify = name the reason; no development needed."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Bao opened a café three years ago. In its first year its main objective was survival. Bao now says the café’s main objective is growth.\n\nOutline two reasons why a business’s objectives may change over time. [4]",
+      "ms": [
+        "First reason identified (1)",
+        "First reason developed/explained (1)",
+        "Second reason identified (1)",
+        "Second reason developed/explained (1)",
+        "e.g. The business has survived / become established (1) so it can now aim for growth, profit or market share (1)",
+        "e.g. Change in the economy, e.g. recession (1) means survival becomes the objective again (1)",
+        "e.g. New competitors enter the market (1) so the business may focus on market share or survival (1)",
+        "e.g. Change in ownership/legal form, e.g. becomes a plc (1) so shareholders expect profit/dividends (1)",
+        "e.g. The owner’s personal aims change, e.g. wants a higher income or retirement (1)",
+        "e.g. Success of the business means more finance is available (1) to fund expansion (1)"
+      ],
+      "model": "First, once a business has survived the risky first year and built up loyal customers, the owner can set more ambitious objectives such as opening a second café to grow.\nSecond, changes in the external environment can change objectives. For example, if a large coffee chain opens nearby, Bao may have to change the objective to protecting market share or even survival.",
+      "tip": "Link each reason to what the new objective would be."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "TopTiles Ltd makes floor tiles. It has grown quickly from 30 to 250 employees in four years, and now has three factories.\n\nOutline two problems linked to business growth and how TopTiles could overcome each one. [4]",
+      "ms": [
+        "First problem identified (1)",
+        "First problem developed/explained (1)",
+        "Second problem identified (1)",
+        "Second problem developed/explained (1)",
+        "e.g. Poor communication with more workers and factories (1) — use regular meetings, email/intranet, or managers in each factory reporting weekly (1)",
+        "e.g. Difficulty controlling/coordinating three factories (1) — decentralise / delegate to factory managers / set targets and monitor them (1)",
+        "e.g. Cash-flow problems from expanding too quickly (1) — use a cash-flow forecast / arrange long-term finance / slow expansion (1)",
+        "e.g. Lower motivation / lack of commitment as workers feel distant from managers (1) — teamworking, delegation, recognition schemes (1)",
+        "e.g. Diseconomies of scale: rising average costs (1) — improve management structure, e.g. clear organisation chart (1)"
+      ],
+      "model": "One problem is poor communication: with 250 employees in three factories, messages from senior managers may be delayed or misunderstood. TopTiles could overcome this by holding weekly meetings with each factory manager and using an internal messaging system.\nA second problem is cash-flow difficulties, because building new factories uses a lot of cash before extra sales arrive. TopTiles could prepare a cash-flow forecast and arrange a long-term bank loan before any further expansion.",
+      "tip": "The question asks for a problem AND a solution each time — answers with only problems score a maximum of 2."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "FreshCo is a supermarket chain with 80 stores. It is planning to take over Green Valley Farms, a company that grows vegetables and currently sells to several supermarkets.\n\nExplain two benefits to FreshCo of this backward vertical integration. [6]",
+      "ms": [
+        "First benefit — K: valid benefit identified (1)",
+        "First benefit — App: applied to the business in the question (1)",
+        "First benefit — An: consequence for the business explained (1)",
+        "Second benefit — K: valid benefit identified (1)",
+        "Second benefit — App: applied to the business in the question (1)",
+        "Second benefit — An: consequence for the business explained (1)",
+        "e.g. Secure/guaranteed supply of vegetables (K) — FreshCo’s 80 stores will always have stock (App), so fewer empty shelves and lost sales (An)",
+        "e.g. Lower costs — supplier’s profit margin is absorbed/no longer paid (K) — FreshCo buys vegetables at cost price (App), so it can lower prices or increase its profit margin (An)",
+        "e.g. Control over quality (K) — FreshCo can set standards for freshness/organic growing (App), improving its brand image and customer loyalty (An)",
+        "e.g. Can stop/limit supplies to competing supermarkets (K) — rivals lose a supplier (App), so FreshCo may gain market share (An)",
+        "e.g. Control over delivery times / easier stock management (K) — e.g. supports just-in-time delivery of perishable goods (App/An)"
+      ],
+      "model": "One benefit is that FreshCo would no longer pay Green Valley’s profit margin, because it would own the supplier. It could buy vegetables at cost price for its 80 stores, which lowers its cost of sales. This means it could either cut vegetable prices to attract customers from rival supermarkets or keep prices the same and increase its profit margin.\nA second benefit is control over supply and quality. FreshCo could make sure the farm always delivers fresh vegetables to its stores first, so its shelves are rarely empty. In addition, rival supermarkets that bought from Green Valley might lose a supplier, so customers could switch to FreshCo, increasing its market share.",
+      "tip": "Backward vertical = taking over a supplier. Show the chain: benefit → effect on costs/sales → profit or market share. Marking: Max 2 marks if not applied to FreshCo/vegetables/supermarkets."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lumo plc makes paint in a factory in a small town, where it employs 600 people. The directors are considering closing the factory and moving production to another country where wages are 40% lower. Shareholders support the plan. The local council and the trade union are against it.\n\nDo you think Lumo plc should move production abroad? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "For moving: wages 40% lower reduce costs → higher profit/dividends, meets shareholders’ objectives; lower prices could increase market share",
+        "For moving: may be nearer new markets / lower other costs (land, taxes)",
+        "Against: 600 job losses → local unemployment, lower spending in the town; conflict with employees, trade union (strikes before closure) and local council",
+        "Against: bad publicity / damage to brand image → lost sales; redundancy and relocation costs; quality and communication problems abroad; transport costs back to customers",
+        "Against: lower wages may come with lower productivity or skills",
+        "Ev: a clear decision weighing shareholders’ objective (profit) against other stakeholders, with a reason why it outweighs the other side or a condition (e.g. depends on whether lower wages outweigh relocation and transport costs; long-term vs short-term)"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of arguments for and against applied to Lumo and its stakeholders, with a justified decision explaining why one side outweighs the other or what the decision depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one argument applied to Lumo; decision given but weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of stakeholders’ objectives or effects of relocation, with little application."
+        }
+      ],
+      "model": "Moving abroad would cut wage costs by 40%, which would raise Lumo’s profit. Shareholders would receive higher dividends, and Lumo could also lower its prices to win market share from other paint makers.\nHowever, 600 workers would lose their jobs in a small town, so unemployment would rise and local shops would lose customers. The trade union may organise strikes before the closure, and the council and media could criticise Lumo, damaging its brand image and sales. There would also be redundancy payments, the cost of building or renting a new factory, and higher transport costs to bring heavy paint back to its customers.\nI do not think Lumo should move yet. The 40% saving is only on wages, while relocation, redundancy and transport costs are certain and the damage to its reputation could reduce sales. Lumo should first calculate whether the total saving is greater than these costs over several years. If it is much greater, moving would be justified to stay competitive, but Lumo should then help workers find new jobs to protect its image.",
+      "tip": "Name the stakeholders and their objectives; then say whose objectives matter most and why."
+    }
+  ]
+}

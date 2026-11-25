@@ -1,0 +1,100 @@
+{
+  "id": "geo-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) fetch [1]\n(b) swash. [1]",
+      "ms": [
+        "(a) the distance of open water over which the wind blows (to form waves)",
+        "(b) the movement of water up the beach after a wave breaks"
+      ],
+      "model": "(a) Fetch is the distance of open sea over which the wind blows to create waves.\n(b) Swash is the water that rushes up the beach after a wave breaks.",
+      "tip": "A longer fetch gives bigger, more powerful waves."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "State three conditions needed for mangrove forests to grow.",
+      "ms": [
+        "tropical / subtropical (warm) coasts",
+        "sheltered coast with low wave energy / calm water",
+        "salty / brackish (mixed fresh and salt) water",
+        "muddy / silty, gently sloping coast / estuaries",
+        "inter-tidal zone (covered and uncovered by tides)"
+      ],
+      "model": "Mangroves need warm tropical or subtropical temperatures, sheltered coastlines with gentle waves such as estuaries, and muddy, gently sloping shores in the inter-tidal zone where salty water covers them at high tide."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain how headlands and bays are formed.",
+      "ms": [
+        "coastline has alternating bands of hard (resistant) and soft (less resistant) rock (1)",
+        "running at right angles to the coast / discordant coastline (1)",
+        "soft rock (e.g. clay) is eroded more quickly (1) by hydraulic action / abrasion (1) forming bays",
+        "hard rock (e.g. limestone / chalk / granite) is more resistant, so erodes slowly and sticks out as headlands (1)",
+        "headlands are then exposed to more wave energy / bays become sheltered so beaches form (1)"
+      ],
+      "model": "Headlands and bays form on a coastline where bands of hard and soft rock meet the sea at right angles. Waves erode the soft rock, such as clay, more quickly by hydraulic action and abrasion, so it is worn back to form bays. The hard rock, such as chalk, resists erosion and is left sticking out into the sea as headlands. Once formed, waves are concentrated on the headlands, while the bays become sheltered and beaches build up in them."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how sand dunes form behind a beach and how they become stable.",
+      "ms": [
+        "large beach with plenty of sand, exposed at low tide so sand dries (1)",
+        "onshore winds blow dry sand inland (1)",
+        "sand is trapped by obstacles, e.g. driftwood / plants, and builds up (1)",
+        "pioneer plants such as marram grass colonise the dunes (1)",
+        "marram grass has long roots that bind the sand (1) and grows up through new sand (1)",
+        "as plants die they add organic matter, so other plants can grow and the dunes are fixed (1)"
+      ],
+      "model": "At low tide a wide sandy beach dries out and onshore winds blow the dry sand inland. The sand is trapped by obstacles such as driftwood or seaweed at the top of the beach and builds into small embryo dunes. Plants such as marram grass then colonise them; its long roots bind the sand together and it can grow up through fresh sand. As plants die they add organic matter, so other plants can grow, and the dunes become fixed and stable."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain why coral reefs are valuable to people and to the environment.",
+      "ms": [
+        "very high biodiversity / habitat for many species (1) – about a quarter of marine species (dev 1)",
+        "fishing / food supply for local people (1)",
+        "tourism – diving / snorkelling bring income and jobs (1)",
+        "coastal protection: reefs absorb wave energy (1) reducing erosion / storm damage on the coast (dev 1)",
+        "source of medicines / scientific research (1)",
+        "nursery / breeding area for fish (1)"
+      ],
+      "model": "Coral reefs are among the most biodiverse ecosystems on Earth and provide a habitat for a large share of all marine species, so they matter for the environment. They are also breeding and nursery grounds for fish, which local communities depend on for food and income. Reefs attract tourists for diving and snorkelling, bringing jobs and foreign currency. They act as natural breakwaters, absorbing wave energy before it reaches the shore, which reduces erosion and storm damage. Some reef organisms are also used in medicines."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named stretch of coastline you have studied, explain the causes and effects of coastal erosion.",
+      "ms": [
+        "physical causes: soft / weak rock, e.g. Holderness boulder clay; destructive waves; long fetch / strong winds; narrow beaches give little protection",
+        "processes: hydraulic action, abrasion; slumping / mass movement when clay is saturated",
+        "human causes: defences elsewhere starve the coast of sediment (e.g. groynes at Hornsea / Withernsea reduce longshore drift further south)",
+        "rate of erosion with data, e.g. Holderness about 2 m a year, one of Europe's fastest-eroding coasts",
+        "effects: loss of farmland, houses / caravan parks / roads lost, falling property values, people forced to move",
+        "economic and social effects: cost of defences, tourism affected, stress / no compensation",
+        "environmental effects: loss of habitats, sediment supplies spits / beaches elsewhere (e.g. Spurn Head)"
+      ],
+      "model": "The Holderness coast in north-east England is one of the fastest-eroding coastlines in Europe, losing about 2 metres of land a year. The main cause is geology: the cliffs are made of soft boulder clay, which is easily eroded by hydraulic action and abrasion. When it rains the clay becomes saturated and slumps down onto the beach. The coast faces a long fetch across the North Sea, so powerful destructive waves remove the material, and the beaches are narrow, giving little protection. Groynes at towns such as Hornsea trap sand, which leaves beaches further south even narrower and erosion faster.\nThe effects are serious. Farmland is lost every year, and houses, roads and caravan parks near places like Skipsea have fallen into the sea, so people have lost homes and income. Property values have fallen and owners do not get compensation. However, the eroded sediment is carried south by longshore drift and helps to build Spurn Head spit.",
+      "tip": "Use a named coast with a rate of erosion in metres per year and named places.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both causes and effects, with place-specific detail (named coast, rock type, rate, settlements)."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one developed idea; may cover only causes or effects; some reference to a place."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named coastline."
+        }
+      ]
+    }
+  ]
+}

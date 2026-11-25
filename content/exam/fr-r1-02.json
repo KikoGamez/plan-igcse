@@ -1,0 +1,109 @@
+{
+  "id": "fr-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez le message de Zoé. Complétez avec la bonne forme du verbe au présent.\n« Le samedi matin, mes parents (a) ______ (aller) au marché. Moi, je (b) ______ (faire) la grasse matinée ! À midi, nous (c) ______ (prendre) le déjeuner ensemble. »",
+      "ms": [
+        "(a) vont",
+        "(b) fais",
+        "(c) prenons",
+        "spelling must be correct (reject allent, fait, prendons)"
+      ],
+      "model": "(a) vont (b) fais (c) prenons",
+      "tip": "aller, faire and prendre are irregular: ils vont, je fais, nous prenons."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Répondez aux questions de manière négative. Utilisez l'expression entre parenthèses.\n(a) Tu manges quelque chose le matin ? (ne… rien) [1]\n(b) Tu connais quelqu'un dans ce club ? (ne… personne) [1]\n(c) Tu joues encore au tennis ? (ne… plus) [1]",
+      "ms": [
+        "(a) Non, je ne mange rien (le matin).",
+        "(b) Non, je ne connais personne (dans ce club).",
+        "(c) Non, je ne joue plus au tennis."
+      ],
+      "model": "(a) Non, je ne mange rien le matin.\n(b) Non, je ne connais personne dans ce club.\n(c) Non, je ne joue plus au tennis.",
+      "tip": "The two parts of the negative go round the verb: ne + verb + rien / personne / plus."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Lisez le texte et répondez aux questions en français.\n« Chez nous, le dimanche, tout le monde est occupé. Mon père fait la cuisine pendant que ma mère et ma sœur vont à la piscine. Mes grands-parents viennent déjeuner chez nous à une heure. L'après-midi, je dois faire mes devoirs, mais mon frère, lui, sort avec ses copains. Le soir, on lit ou on regarde un film ensemble. »\n(a) Que fait le père le dimanche ? [1]\n(b) Qui va à la piscine ? [1]\n(c) Que font les grands-parents ? [1]\n(d) Que doit faire l'auteur l'après-midi ? [1]\n(e) Que fait la famille le soir ? (un détail) [1]",
+      "ms": [
+        "(a) il fait la cuisine / il cuisine",
+        "(b) la mère et la sœur (both needed)",
+        "(c) ils viennent déjeuner (chez la famille) (à une heure)",
+        "(d) ses devoirs",
+        "(e) ils lisent / ils regardent un film (ensemble)"
+      ],
+      "model": "(a) Il fait la cuisine.\n(b) Sa mère et sa sœur.\n(c) Ils viennent déjeuner chez eux à une heure.\n(d) Il/Elle doit faire ses devoirs.\n(e) Ils regardent un film ensemble.",
+      "tip": "Spot the irregular verbs (font, vont, viennent, sort) to work out who does what."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Complétez l'email avec la bonne forme d'un verbe de la liste. Utilisez chaque verbe une fois.\npouvoir   vouloir   savoir   devoir\n« Salut Max ! Est-ce que tu (a) ______ venir à ma fête samedi ? Mes cousins (b) ______ aussi venir, ils adorent danser ! Mais attention : nous (c) ______ finir avant minuit à cause des voisins. Au fait, est-ce que vous (d) ______ où j'habite maintenant ? »",
+      "ms": [
+        "(a) peux / veux",
+        "(b) veulent / peuvent (whichever not used in (a))",
+        "(c) devons",
+        "(d) savez",
+        "accept (a) veux and (b) peuvent, or (a) peux and (b) veulent"
+      ],
+      "model": "« Est-ce que tu peux venir à ma fête samedi ? Mes cousins veulent aussi venir… nous devons finir avant minuit… est-ce que vous savez où j'habite maintenant ? »",
+      "tip": "Modal verbs are followed by an infinitive: tu peux venir, nous devons finir."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Ce texte contient six erreurs de verbes. Trouvez-les et corrigez-les.\n« J'ai quinze ans et j'habite à Séville depuis trois ans. Ma sœur est dix-huit ans. Le matin, je me lève à sept heures et je m'habille vite. Mes parents ne boivent pas de café, ils prendent du thé. Le samedi, mon frère sortent avec ses copains. Mes sœurs lisent beaucoup, mais elles ne écrivent jamais. Et vous, vous faisez du sport ? Moi, je voulez faire de l'escalade. »",
+      "ms": [
+        "Ma sœur est dix-huit ans → a dix-huit ans",
+        "ils prendent → prennent",
+        "mon frère sortent → sort",
+        "elles ne écrivent → n'écrivent",
+        "vous faisez → faites",
+        "je voulez → veux",
+        "1 mark per error found AND correctly corrected; do not penalise changes to correct forms unless they introduce an error"
+      ],
+      "model": "(1) Ma sœur a dix-huit ans. (2) Ils prennent du thé. (3) Mon frère sort avec ses copains. (4) Elles n'écrivent jamais. (5) Vous faites du sport ? (6) Je veux faire de l'escalade.",
+      "tip": "Age uses avoir, not être: j'ai quinze ans. And ne becomes n' before a vowel."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture. Vous écrivez un message à votre ami(e) français(e) sur votre week-end typique. Écrivez 70–90 mots en français, au présent.\nMentionnez :\n• à quelle heure vous vous levez et ce que vous faites le matin\n• une activité que vous faites depuis longtemps (utilisez « depuis »)\n• ce que vous ne faites jamais le week-end et pourquoi\n• ce que vous voulez ou devez faire ce week-end",
+      "ms": [
+        "communicates getting-up time and a morning activity (reflexive verb, e.g. je me lève)",
+        "activity with depuis + present, e.g. je joue du piano depuis cinq ans",
+        "negative (ne… jamais) with a reason",
+        "modal verb + infinitive (je veux / je dois…)",
+        "opinions with reasons and connectives",
+        "range of irregular present-tense verbs used correctly (aller, faire, prendre, sortir…)",
+        "accuracy of verb endings and agreements",
+        "all four points covered"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "All four points communicated clearly and developed. Wide range of correct present-tense forms including irregular, reflexive and modal verbs, depuis and a negative. Very few errors."
+        },
+        {
+          "m": "5–6",
+          "d": "All or most points communicated. Some variety of verbs and structures; depuis or the negative may be weak. Some errors, but meaning is clear."
+        },
+        {
+          "m": "3–4",
+          "d": "Two or three points communicated, simply. Limited range, mainly regular verbs. Errors sometimes obscure meaning."
+        },
+        {
+          "m": "1–2",
+          "d": "Little relevant communication. Very limited language; frequent errors."
+        }
+      ],
+      "model": "Salut Léo !\nLe week-end, je me lève vers dix heures parce que je suis fatigué. D'abord, je prends un bon petit-déjeuner, puis je sors avec mon chien. Je joue de la guitare depuis quatre ans et le samedi après-midi, je vais à mon cours. Je ne fais jamais mes devoirs le dimanche soir, car je préfère les finir le samedi. Ce week-end, je dois réviser pour un examen, mais je veux aussi aller au cinéma avec mes copains.\nÀ plus !\nDaniel",
+      "tip": "Depuis + PRESENT tense: 'je joue depuis quatre ans', not 'j'ai joué depuis'."
+    }
+  ]
+}

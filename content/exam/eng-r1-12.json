@@ -1,0 +1,117 @@
+{
+  "id": "eng-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Rewrite this sentence, correcting the two apostrophe errors:\n\n“The childrens shoes were by the door, and the dog had chewed it’s lead.” [2]",
+      "ms": [
+        "children’s (apostrophe before s — irregular plural possessive) (1)",
+        "its (possessive, no apostrophe) (1)"
+      ],
+      "model": "The children’s shoes were by the door, and the dog had chewed its lead.",
+      "tip": "‘It’s’ only ever means ‘it is’ or ‘it has’."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Correct the three homophone errors in this sentence:\n\n“We where sure there car would arrive on time, but it was much later then planned.” [3]",
+      "ms": [
+        "where → were (1)",
+        "there → their (1)",
+        "then → than (1)"
+      ],
+      "model": "We were sure their car would arrive on time, but it was much later than planned.",
+      "tip": "Than = comparison; then = time. Their = belonging; there = place; they’re = they are."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "This paragraph from a student’s story contains four different types of error. Rewrite it correctly.\n\n“I definately heard footsteps behind me, I turned around slowly. “who’s there” I whispered. Nobody answers.” [4]",
+      "ms": [
+        "Spelling: definately → definitely (1)",
+        "Comma splice corrected: full stop, semicolon or conjunction after ‘me’ (e.g. ‘…behind me. I turned…’) (1)",
+        "Speech punctuation: capital W, question mark inside the speech marks — “Who’s there?” I whispered. (1)",
+        "Tense consistency: answers → answered (1)"
+      ],
+      "model": "I definitely heard footsteps behind me. I turned around slowly. “Who’s there?” I whispered. Nobody answered.",
+      "tip": "Proofread for one error type at a time: spelling, sentence boundaries, speech punctuation, tense."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Rewrite these sentences as a short paragraph that includes: one complex sentence, one compound sentence, one minor sentence, and one sentence that begins with an adverbial or prepositional phrase. You may add details.\n\n“The storm arrived. The lights flickered. We sat in the kitchen. The windows rattled. We waited.” [4]",
+      "ms": [
+        "Correct complex sentence (main clause + subordinate clause, e.g. ‘As the storm arrived, …’) (1)",
+        "Correct compound sentence (two main clauses joined by and/but/so with correct punctuation) (1)",
+        "Minor sentence used deliberately for effect (e.g. ‘Silence.’) (1)",
+        "Sentence beginning with an adverbial/prepositional phrase (e.g. ‘In the kitchen, …’, ‘Slowly, …’) (1)"
+      ],
+      "model": "As the storm arrived, the lights flickered and died. In the kitchen, we sat close together around a single candle. The windows rattled in their frames, but nobody spoke. Waiting.",
+      "tip": "Sentence variety is part of style and accuracy — but each type must also be punctuated correctly."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Rewrite this paragraph to improve vocabulary, sentence variety and accuracy. Keep the same content.\n\n“The beach was really nice. There was alot of people and they was all having fun. The sea was nice and blue and the sand was nice and hot. Their was a man selling ice creams, he was shouting really loud. I felt really happy.” [6]",
+      "ms": [
+        "Indicative content:",
+        "Corrects errors: ‘a lot’; ‘there were’ (subject–verb agreement); ‘There was a man’; comma splice after ‘ice creams’; ‘loudly’ (adverb)",
+        "Replaces repeated vague words (‘nice’ ×3, ‘really’ ×3) with precise vocabulary/images",
+        "Varies sentence structures and openings",
+        "Shows the feeling of happiness rather than stating it (optional but rewarded)",
+        "Keeps the same content and is accurately punctuated"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "All errors corrected; vague and repeated words replaced with precise, varied vocabulary; sentence structures varied for effect; fluent and accurate."
+        },
+        {
+          "m": "3–4",
+          "d": "Most errors corrected; some vocabulary improved; some sentence variety; a few errors or repetitions remain."
+        },
+        {
+          "m": "1–2",
+          "d": "Some errors corrected but vocabulary and sentences largely unchanged; errors remain."
+        }
+      ],
+      "model": "The beach was crowded with families, and everyone seemed to be laughing. Beyond the shoreline, the sea glittered a deep, clear turquoise, while the sand burned the soles of my feet. Somewhere behind me, an ice-cream seller bellowed his prices over the noise, waving a cone like a trophy. I stretched out on my towel, eyes half-closed, and grinned at the sky.",
+      "tip": "Circle every ‘nice’, ‘really’ and ‘a lot’ in your own work — each one is a chance to be precise."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Timed task: allow 20 minutes.\nWrite the opening (about 200 words) of a descriptive composition with the title:\n“Describe the moments before the start of an important race.”\nThis task is marked mainly for style and accuracy: precise vocabulary, varied sentences and accurate spelling, punctuation and grammar. Leave 3 minutes to proofread. [8]",
+      "ms": [
+        "Indicative content:",
+        "Descriptive focus (atmosphere, sensations, crowd, runners) — not a story of the whole race",
+        "Precise, ambitious vocabulary; fresh images, no clichés",
+        "Deliberately varied sentences (long build-up sentences, short sentences/minor sentences for tension)",
+        "Consistent tense",
+        "Accurate spelling, punctuation (no comma splices; correct apostrophes) and grammar",
+        "Evidence of proofreading (few or no careless errors)"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Precise, ambitious vocabulary and controlled imagery; sentences varied deliberately for tension and pace; consistent tense; very few errors, none basic."
+        },
+        {
+          "m": "5–6",
+          "d": "Vocabulary often precise; some effective sentence variety; mostly accurate with occasional slips."
+        },
+        {
+          "m": "3–4",
+          "d": "Plain or clichéd vocabulary; limited sentence variety; several errors, including some basic ones (e.g. comma splices, homophones)."
+        },
+        {
+          "m": "1–2",
+          "d": "Simple vocabulary and repetitive sentences; frequent errors that sometimes obscure meaning."
+        }
+      ],
+      "model": "The stadium holds its breath.\nEight lanes stretch ahead, white lines sharp as chalk on a blackboard, and the red track shimmers in the afternoon heat. In the stands, thousands of faces blur into a single restless sea of colour. Flags twitch. Somewhere high above, a commentator’s voice crackles and fades.\nOn the start line, the runners are performing their private rituals. One rolls her shoulders as though shrugging off a heavy coat; another bounces on the balls of his feet, eyes fixed on a point no one else can see. A third crouches to retie a lace that is already tied. The air smells of sun cream, hot rubber and nerves.\n“On your marks.”\nThe noise drains from the stadium like water from a bath. Fingers spread on the track, trembling slightly. Heartbeats seem loud enough to hear. A camera shutter clicks, impossibly sharp in the silence.\n“Set.”\nHips rise. Muscles lock. For one long second, the whole world is a coiled spring, waiting for a single sound to set it free.",
+      "tip": "Proofread in the last minutes: comma splices, apostrophes, homophones and tense are the most common slips."
+    }
+  ]
+}

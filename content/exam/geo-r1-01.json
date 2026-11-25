@@ -1,0 +1,103 @@
+{
+  "id": "geo-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) life expectancy [1]\n(b) infant mortality rate. [1]",
+      "ms": [
+        "(a) the average number of years a person (born now) can expect to live",
+        "(b) the number of babies who die before their first birthday per 1,000 live births per year",
+        "(b) allow 'deaths of children under 1 year old per 1,000 live births' (must say 'per 1,000 live births')"
+      ],
+      "model": "(a) Life expectancy is the average number of years a person born today can expect to live.\n(b) Infant mortality rate is the number of babies who die before they are one year old, per 1,000 live births, per year.",
+      "tip": "Infant mortality is per 1,000 LIVE BIRTHS, not per 1,000 people."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "The table shows birth and death rates (per 1,000 per year) for two countries.\nCountry A: birth rate 42, death rate 12\nCountry B: birth rate 9, death rate 11\n(a) Calculate the natural change for each country per 1,000. [2]\n(b) State which country has a natural decrease. [1]",
+      "ms": [
+        "(a) Country A: +30 per 1,000 (allow 3.0%)",
+        "(a) Country B: −2 per 1,000 (allow −0.2%) – must show minus sign",
+        "(b) Country B"
+      ],
+      "model": "(a) Country A: 42 − 12 = +30 per 1,000. Country B: 9 − 11 = −2 per 1,000.\n(b) Country B has a natural decrease because its death rate is higher than its birth rate.",
+      "tip": "Always subtract death rate FROM birth rate and keep the sign: a negative answer means natural decrease."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain why death rates have fallen in many low-income countries (LICs) over the last 50 years.",
+      "ms": [
+        "vaccination / immunisation programmes (1) reduce deaths from diseases such as measles / polio (dev 1)",
+        "cleaner water supply and sanitation (1) reduce water-borne diseases such as cholera / diarrhoea (dev 1)",
+        "more doctors, clinics and hospitals / better access to medicines (1)",
+        "better food supply / nutrition (1) so people resist disease (dev 1)",
+        "health education, e.g. about hygiene (1)",
+        "max 2 for a list of reasons without explanation"
+      ],
+      "model": "Many LICs now have vaccination programmes, so fewer children die from diseases such as measles and polio. Clean piped water and better sanitation mean fewer people catch water-borne diseases such as cholera. More clinics and trained health workers mean illnesses are treated earlier, and better food supplies mean people are healthier and better able to fight infection.",
+      "tip": "'Explain' needs a reason AND how it lowers deaths: 'vaccines' alone is only 1 mark."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The table shows the population of Country Z by age group.\n0–14 years: 12 million\n15–64 years: 30 million\n65 years and over: 3 million\n(a) Calculate the dependency ratio of Country Z. Show your working. [2]\n(b) Suggest one problem that Country Z may face in the future because of its population structure. [2]",
+      "ms": [
+        "(a) M1: (12 + 3) ÷ 30 (× 100)",
+        "(a) A1: 50 (dependants per 100 people of working age); allow 0.5",
+        "(b) most dependants are young / youthful population (1)",
+        "(b) e.g. need for more schools / teachers now (1); or not enough jobs when the young people reach working age (1); or more births in future as they reach child-bearing age, so population keeps growing (1); or pressure on housing / food (1)"
+      ],
+      "model": "(a) Dependency ratio = (young dependants + old dependants) ÷ working population × 100 = (12 + 3) ÷ 30 × 100 = 50 dependants per 100 people of working age.\n(b) Most of the dependants are children, so in the future there may not be enough jobs for them when they reach working age, which could lead to high unemployment.",
+      "tip": "The 15–64 group goes on the bottom of the fraction; children AND elderly go on top."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain the problems that a country with a youthful population structure is likely to face.",
+      "ms": [
+        "high spending needed on schools / teachers (1) taking money from other services (dev 1)",
+        "high spending on child health care, e.g. vaccinations / maternal care (1)",
+        "high dependency – few workers (taxpayers) supporting many children (1)",
+        "not enough jobs when young people reach working age → unemployment / migration to cities (1)",
+        "housing shortages / growth of informal settlements as the population grows (1)",
+        "pressure on food supply / resources (1)",
+        "rapid future growth (population momentum) because many young people will soon have children (1)"
+      ],
+      "model": "A youthful country has a large proportion of under-15s. The government must spend a lot on primary schools, teachers and child health care such as vaccinations, so there is less money for roads or industry. There are relatively few working adults paying taxes to support so many dependent children. When the young people reach working age there may not be enough jobs, causing unemployment and rural–urban migration. Also, because so many young people will soon have children of their own, the population will keep growing quickly, putting more pressure on food, water and housing.",
+      "tip": "Develop each point (problem → why it matters) to reach 5 marks; a list of five words scores less."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named country you have studied which is overpopulated, describe the evidence that it is overpopulated and explain the causes.",
+      "ms": [
+        "evidence: shortages of food / malnutrition; unemployment / underemployment; poor housing / informal settlements; overcrowded schools and hospitals; lack of clean water; pressure on land, e.g. farming on steep slopes / deforestation",
+        "causes: high birth rate / high fertility (children needed for farm work, as security in old age, lack of contraception, religious/cultural reasons)",
+        "falling death rate leading to rapid natural increase",
+        "limited resources / land: e.g. small area, frequent flooding, poor soils",
+        "lack of money / technology to develop resources",
+        "place-specific detail, e.g. Bangladesh: over 1,100 people per km², low-lying delta land often flooded, large numbers living in slums in Dhaka, many working in low-paid garment factories",
+        "other valid countries (e.g. Nigeria, Haiti, parts of India) credited with relevant detail"
+      ],
+      "model": "Bangladesh is overpopulated because it does not have enough resources to give its people a good standard of living. Evidence includes a very high population density of over 1,100 people per km², many people living in crowded slums in Dhaka without clean water or sanitation, and high levels of unemployment and underemployment, with many working long hours in low-paid garment factories. There is pressure on farmland, so plots are small and some families do not grow enough food.\nThe causes are partly a rapid natural increase: in the past birth rates were high because children were needed to work on farms and to care for parents in old age, while death rates fell as health care improved. At the same time resources are limited: much of the country is a low-lying delta that floods during the monsoon, damaging crops and homes, and the country lacks the money and technology to provide enough jobs and services. So the balance between people and resources is poor.",
+      "tip": "Without a named country the answer cannot get beyond Level 2. Overpopulation is about people vs resources, not just a large population.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both evidence and causes, with place-specific detail about the named country."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three simple ideas with some development, or one developed idea; may cover only evidence or causes; limited place detail."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named country or detail."
+        }
+      ]
+    }
+  ]
+}

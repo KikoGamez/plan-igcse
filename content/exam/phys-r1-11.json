@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-11",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two ways in which an e.m.f. can be induced in a conductor.",
+   "ms": [
+    "moving the conductor across a magnetic field / cutting magnetic field lines",
+    "a changing magnetic field linking the conductor (e.g. moving a magnet in or out of a coil)"
+   ],
+   "model": "1. Moving the conductor across a magnetic field so that it cuts the field lines.\n2. Changing the magnetic field that links the conductor, for example by moving a magnet into a coil."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State what is meant by a step-down transformer and how the numbers of turns on its coils compare.",
+   "ms": [
+    "output (secondary) voltage is less than input (primary) voltage",
+    "secondary coil has fewer turns than the primary coil"
+   ],
+   "model": "A step-down transformer gives an output (secondary) voltage smaller than its input (primary) voltage. Its secondary coil has fewer turns than its primary coil."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A transformer has 400 turns on the primary coil and 20 turns on the secondary coil. The primary coil is connected to a 240 V a.c. supply. A lamp of resistance 6.0 Ω is connected to the secondary coil. The transformer is 100% efficient.\n(a) Calculate the secondary voltage. [2]\n(b) Calculate the current in the lamp. [1]\n(c) Calculate the current in the primary coil. [2]",
+   "ms": [
+    "(a) C1: Vp ÷ Vs = Np ÷ Ns, so Vs = 240 × 20 ÷ 400",
+    "(a) A1: 12 V",
+    "(b) I = V ÷ R = 12 ÷ 6.0 = 2.0 A (ecf)",
+    "(c) C1: IpVp = IsVs, so Ip × 240 = 2.0 × 12",
+    "(c) A1: 0.10 A (ecf)"
+   ],
+   "model": "(a) Vs = Vp × Ns ÷ Np = 240 × 20 ÷ 400 = 12 V.\n(b) Is = Vs ÷ R = 12 ÷ 6.0 = 2.0 A.\n(c) IpVp = IsVs, so Ip = (2.0 × 12) ÷ 240 = 0.10 A.",
+   "tip": "A step-down transformer steps the voltage down but the current UP; check your primary current is smaller."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The e.m.f. of a simple a.c. generator varies with time. The graph has a peak value of 8.0 V and one complete cycle takes 0.040 s.\n(a) Calculate the frequency of the a.c. [1]\n(b) State the number of complete turns the coil makes each second. [1]\n(c) State two changes that would increase the peak e.m.f. without changing the frequency. [2]",
+   "ms": [
+    "(a) f = 1 ÷ 0.040 = 25 Hz",
+    "(b) 25 (ecf)",
+    "(c) stronger magnet / magnetic field",
+    "(c) more turns on the coil (allow larger area of coil)"
+   ],
+   "model": "(a) f = 1 ÷ T = 1 ÷ 0.040 = 25 Hz.\n(b) One cycle per turn, so 25 turns per second.\n(c) Use a stronger magnet; use a coil with more turns.",
+   "tip": "Rotating faster also increases the peak e.m.f. but changes the frequency, so it does not answer (c)."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "A power station sends 50 MW of electrical power along transmission cables at a voltage of 400 kV. The power lost as heat in the cables is 100 kW.\n(a) Calculate the current in the cables and the total resistance of the cables. [4]\n(b) The same power is sent along the same cables at 200 kV. Calculate the new power loss. [2]\n(c) Explain why transformers are needed at both ends of the transmission line. [2]",
+   "ms": [
+    "(a) C1: I = P ÷ V = 50 × 10⁶ ÷ 400 × 10³",
+    "(a) A1: 125 A",
+    "(a) C1: P = I²R so R = 100 × 10³ ÷ 125² (ecf)",
+    "(a) A1: 6.4 Ω",
+    "(b) C1: current doubles to 250 A",
+    "(b) A1: loss = 250² × 6.4 = 400 kW (four times as much)",
+    "(c) step-up transformer at the power station raises the voltage, so the current is small and less power (energy) is lost as heat in the cables",
+    "(c) step-down transformer near the consumers lowers the voltage to a safe / usable value (e.g. 230 V)"
+   ],
+   "model": "(a) I = P ÷ V = 50 000 000 ÷ 400 000 = 125 A.\nP = I²R, so R = 100 000 ÷ 125² = 100 000 ÷ 15 625 = 6.4 Ω.\n(b) At 200 kV the current is 250 A. Loss = I²R = 250² × 6.4 = 400 000 W = 400 kW (four times larger).\n(c) A step-up transformer at the power station raises the voltage so that the current, and therefore the I²R heating loss in the cables, is small. A step-down transformer near homes reduces the voltage to a safe value such as 230 V.",
+   "tip": "Use the CURRENT in the cables in P = I²R – not the transmission voltage."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe how a simple a.c. generator produces an alternating e.m.f. Include the role of the slip rings and brushes.",
+   "ms": [
+    "a coil of wire is rotated in a magnetic field (between the poles of a magnet)",
+    "the sides of the coil cut the magnetic field lines, so an e.m.f. is induced",
+    "each side of the coil moves up then down through the field every half turn",
+    "so the e.m.f. reverses direction every half turn (alternating)",
+    "e.m.f. is maximum when the coil is parallel to the field and zero when it is perpendicular",
+    "slip rings are fixed to the ends of the coil and rotate with it",
+    "brushes press on the slip rings and connect the rotating coil to the external circuit without the wires twisting"
+   ],
+   "model": "A coil of wire is rotated between the poles of a magnet. As its sides cut through the magnetic field lines, an e.m.f. is induced. Each side moves up through the field for half a turn and down for the next half, so the e.m.f. reverses direction every half turn, giving an alternating e.m.f. It is largest when the plane of the coil is parallel to the field (sides cutting lines fastest) and zero when it is perpendicular. The ends of the coil are joined to two slip rings that turn with it; carbon brushes press on the rings and connect the coil to the external circuit without the wires becoming twisted.",
+   "tip": "Do not confuse slip rings (a.c. generator) with a split-ring commutator (d.c. motor)."
+  }
+ ]
+}

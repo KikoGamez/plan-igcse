@@ -1,0 +1,106 @@
+{
+ "id": "ger-r1-11",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Paper 4 Writing, Question 1 style. Sie machen einen Schüleraustausch. Füllen Sie das Formular auf Deutsch aus (Wörter oder kurze Ausdrücke).\n1 Lieblingsfach\n2 Haustier (oder „kein Haustier“)\n3 Was trinken Sie zum Frühstück?",
+   "ms": [
+    "1 a school subject in German, e.g. Biologie / Kunst",
+    "2 an animal, e.g. ein Hund / eine Katze, or kein Haustier",
+    "3 a drink, e.g. Orangensaft / Tee / Milch",
+    "Recognisable German spelling needed; English = 0"
+   ],
+   "model": "1 Geschichte  2 eine Katze  3 Orangensaft",
+   "tip": "Keep Q1 short: no sentences needed, just correct German words that fit the heading."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Sie schreiben an einen Campingplatz. Schreiben Sie diese Sätze in der höflichen Sie-Form.\n„Hast du noch einen Platz für ein Zelt frei? Kannst du mir die Preise schicken?“",
+   "ms": [
+    "Haben Sie noch einen Platz für ein Zelt frei?",
+    "Können Sie mir die Preise schicken?"
+   ],
+   "model": "Haben Sie noch einen Platz für ein Zelt frei? Können Sie mir die Preise schicken?",
+   "tip": "Formal letters and emails to businesses always use Sie (capital S) and Ihr/Ihnen."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 4, Question 2 task: „Schreiben Sie eine E-Mail über Ihre Schule: Wie kommen Sie zur Schule? Was ist Ihr Lieblingsfach? Was haben Sie letzte Woche in der Schule gemacht? Was möchten Sie nach der Schule machen?“\nEin Schüler schreibt: „Ich fahre mit dem Bus zur Schule, weil es zu weit ist. Mein Lieblingsfach ist Kunst, weil ich gern male. Nach der Schule möchte ich Grafikdesign studieren.“\n(a) Welcher Punkt fehlt? [1]\n(b) Schreiben Sie zwei Sätze für diesen Punkt (Perfekt). [2]\n(c) Schreiben Sie den ersten Satz neu. Beginnen Sie mit „Jeden Tag“. [1]",
+   "ms": [
+    "(a) Was er letzte Woche in der Schule gemacht hat (the past-tense bullet)",
+    "(b) first sentence: relevant, correct Perfekt (auxiliary + participle at end) [1]",
+    "(b) second sentence: relevant, correct Perfekt [1]",
+    "(c) Jeden Tag fahre ich mit dem Bus zur Schule, weil es zu weit ist."
+   ],
+   "model": "(a) Was er letzte Woche in der Schule gemacht hat.\n(b) Letzte Woche haben wir in Chemie ein Experiment gemacht. Am Freitag sind wir mit der Klasse ins Theater gegangen.\n(c) Jeden Tag fahre ich mit dem Bus zur Schule, weil es zu weit ist.",
+   "tip": "A missed bullet caps your Communication mark: tick each bullet as you write."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "In dieser E-Mail gibt es fünf Fehler. Finden und korrigieren Sie sie.\n„Liebe Frau Schmidt,\nvielen Dank für Ihre Einladung. Leider ich kann am Samstag nicht kommen, weil ich muss arbeiten. Letzte Woche ich habe ein neuen Job in einem Supermarkt gefunden. Die Arbeit ist anstrengend, aber die Kollegen sind nett. Ich hoffe, Sie haben ein schönes Fest!\nMit freundlichen Grüße\nTom“",
+   "ms": [
+    "Leider ich kann → Leider kann ich",
+    "weil ich muss arbeiten → weil ich arbeiten muss",
+    "Letzte Woche ich habe → Letzte Woche habe ich",
+    "ein neuen Job → einen neuen Job",
+    "Mit freundlichen Grüße → Mit freundlichen Grüßen"
+   ],
+   "model": "Leider kann ich am Samstag nicht kommen, weil ich arbeiten muss. Letzte Woche habe ich einen neuen Job in einem Supermarkt gefunden. … Mit freundlichen Grüßen, Tom",
+   "tip": "Use your last 3 minutes to check: verb second, verb to the end, accusative masculine (einen), set phrases."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 4 Writing, Question 2 style (marked out of 8 here; the real Q2 is 12 marks). Schreiben Sie 80–90 Wörter auf Deutsch.\nSie haben einen Ausflug mit Ihrer Klasse gemacht. Schreiben Sie eine E-Mail an Ihren Freund / Ihre Freundin.\n• Wohin sind Sie gefahren, und wie?\n• Was haben Sie dort gemacht?\n• Wie fanden Sie den Ausflug? Warum?\n• Wohin möchten Sie beim nächsten Ausflug fahren?",
+   "ms": [
+    "All four bullets addressed",
+    "Past tense for bullets 1–3 (Perfekt with sein for fahren/gehen; Präteritum for war/hatte/es gab)",
+    "Opinion with justification (weil/denn/da)",
+    "Future or conditional for bullet 4",
+    "Range: subordinate clauses, time expressions with inversion, varied vocabulary",
+    "Accuracy: verb forms, word order, cases mostly correct",
+    "Appropriate register (du, Liebe/Lieber …, Viele Grüße)"
+   ],
+   "model": "Liebe Sophie,\nletzten Freitag sind wir mit der Klasse mit dem Zug nach Köln gefahren. Zuerst haben wir den Dom besichtigt, und dann sind wir auf den Turm gestiegen. Die Aussicht war fantastisch! Am Nachmittag hatten wir Freizeit, also habe ich mit Freunden am Rhein Eis gegessen. Ich fand den Ausflug super, weil wir viel gelacht haben, aber die Rückfahrt war zu lang. Beim nächsten Ausflug würde ich gern in einen Freizeitpark fahren, denn das wäre noch lustiger. Und du?\nViele Grüße\nMarco",
+   "tip": "Aim for 80–90 words: much shorter loses development; much longer adds errors and wastes Q3 time.",
+   "levels": [
+    {
+     "m": "7–8",
+     "d": "All tasks covered with some development and opinions/reasons. Good range of vocabulary and structures (e.g. subordinate clauses, more than one time frame). Mostly accurate; errors do not impede meaning."
+    },
+    {
+     "m": "5–6",
+     "d": "Most tasks covered, some development. Some range (a few linking words and a second tense). Generally accurate with some errors in verbs, word order or cases."
+    },
+    {
+     "m": "3–4",
+     "d": "Some tasks covered in simple sentences. Limited range, mostly present tense. Frequent errors, but the message is mostly clear."
+    },
+    {
+     "m": "1–2",
+     "d": "Very little relevant information. Isolated words or very simple phrases; errors often make meaning unclear."
+    }
+   ]
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 4, Question 3 task: „Schreiben Sie einen Artikel über Ihre Stadt: Beschreiben Sie Ihre Stadt. Was haben Sie letztes Wochenende dort gemacht? Wie wird Ihre Stadt in zwanzig Jahren aussehen?“\nEin Schüler beginnt so:\n„Ich wohne in London. London ist groß. Ich mag London. Es gibt viele Museen. Die Museen sind interessant. Ich gehe oft ins Museum. Am Wochenende gehe ich in den Park. Der Park ist schön.“\n(a) Nennen Sie (auf Englisch oder Deutsch) vier Schwächen dieses Textes. [4]\n(b) Schreiben Sie zwei Sätze des Textes zu einem besseren Satz um. [2]",
+   "ms": [
+    "(a) no past tense: the 'last weekend' task is not answered (Am Wochenende gehe ich = present) [1]",
+    "(a) no future: the 'in 20 years' task is missing [1]",
+    "(a) short repetitive sentences; no connectives or subordinate clauses [1]",
+    "(a) repetition of vocabulary (London, Museen, Park) / no pronouns [1]",
+    "(a) opinions not justified (Ich mag London – why?) [1]",
+    "(b) improved sentence combines ideas accurately (e.g. relative clause, weil-clause, adjective ending) [1]",
+    "(b) language is accurate [1]"
+   ],
+   "model": "(a) The writer never uses the past tense, so the last-weekend bullet is not done; there is no future for the last bullet; every sentence is short and simple with no weil/dass/der-clauses; London, Museen and Park are repeated; the opinions have no reasons.\n(b) Ich wohne gern in London, weil es so viele interessante Museen gibt, die meistens kostenlos sind.",
+   "tip": "Q3 is marked for communication, range and accuracy: a correct but simple text stays in the lower bands."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "music-r1-08",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) What does Má vlast mean? [1]\n(b) How many symphonic poems are in the cycle, and which one is Vltava? [1]",
+   "ms": [
+    "(a) My Homeland / My Country",
+    "(b) six; Vltava is the second (both needed)"
+   ],
+   "model": "(a) My Homeland. (b) Six; Vltava is the second."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define:\n(a) a cluster chord\n(b) polyrhythm",
+   "ms": [
+    "(a) notes a tone or semitone apart sounded together (dense, dissonant)",
+    "(b) several different rhythms sounded at the same time"
+   ],
+   "model": "(a) A chord of adjacent notes (tones/semitones) played together. (b) Two or more different rhythms played at once."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the section of Smetana's Vltava suggested by each description.\n(a) muted strings and flutes, soft and floating\n(b) a bouncy polka in a major key\n(c) horn calls and fanfares\n(d) fast, loud music with cymbals and rushing figures in a minor key",
+   "ms": [
+    "(a) moonlight / the water nymphs",
+    "(b) the peasant (village) wedding",
+    "(c) the (forest) hunt",
+    "(d) St John's Rapids"
+   ],
+   "model": "(a) Moonlight and nymphs (b) Peasant wedding (c) Forest hunt (d) St John's Rapids"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Give four features of Stravinsky's The Rite of Spring (1913) that shocked its first audience.",
+   "ms": [
+    "irregular / frequently changing metre (time signatures)",
+    "strong, unpredictable accents",
+    "repeated ostinato patterns",
+    "harsh dissonance / clashing chords",
+    "extreme registers (e.g. high bassoon opening)",
+    "very large orchestra with prominent percussion and brass",
+    "short, repeated folk-like melodic fragments",
+    "primitive/violent subject matter of the ballet"
+   ],
+   "model": "It uses constantly changing time signatures and violent, unpredictable accents; ostinato patterns drive the music; the harmony is harshly dissonant; and the huge orchestra is used in extreme registers, such as the very high bassoon at the start."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Compare the use of harmony, rhythm and the orchestra in a Romantic symphonic poem with an early 20th-century ballet score such as The Rite of Spring.",
+   "ms": [
+    "Harmony: Romantic chromatic but still tonal, dissonance resolves",
+    "Harmony: 20th century harsh dissonance / clusters that do not resolve; tonality weakened",
+    "Rhythm: Romantic regular metre, with rubato and tempo changes for expression",
+    "Rhythm: 20th century irregular, changing metre, strong off-beat accents, ostinato, polyrhythm",
+    "Orchestra: Romantic large orchestra used for colour, lyrical melody (strings, harp, horns)",
+    "Orchestra: 20th century even larger, percussive use of the orchestra, extreme registers",
+    "max 3 if only one style is described"
+   ],
+   "model": "Romantic harmony is chromatic but still tonal, and its dissonances resolve; Stravinsky uses harsh dissonances that do not resolve. A Romantic symphonic poem keeps a regular metre with expressive rubato, while The Rite changes metre constantly and uses ostinato and violent accents. Smetana uses the large orchestra for colour and lyrical melodies, whereas Stravinsky uses it percussively, in extreme registers."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain how Smetana presents the main river theme in Vltava, and how it is transformed near the end of the piece.",
+   "ms": [
+    "First appearance: long, lyrical melody on violins / high strings (with woodwind)",
+    "First appearance: in E minor",
+    "First appearance: in 6/8 (compound time) with flowing quaver accompaniment depicting the water",
+    "At the end: the theme returns in E major",
+    "At the end: louder (ff), fuller orchestration with brass / tutti",
+    "At the end: the Vyšehrad (castle) theme in the brass; the river arrives in Prague; it ends with two loud chords",
+    "Purpose: thematic transformation shows the river growing and national pride / triumph"
+   ],
+   "model": "The river theme first appears as a long, lyrical melody in the violins in E minor, in 6/8 over flowing quavers that suggest moving water. Near the end it returns in E major, played fortissimo by the full orchestra with brass. A brass theme suggests the castle at Vyšehrad as the river reaches Prague. This transformation shows the river growing wider and expresses national pride.",
+   "tip": "Your own recording may differ in details: always describe what you hear."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "cs-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A data packet has a header, a payload and a trailer. State what is meant by:\n(a) the payload [1]\n(b) the trailer. [1]",
+      "ms": [
+        "(a) the actual data being sent (in the packet)",
+        "(b) marks the end of the packet / contains an error check, e.g. a checksum / CRC"
+      ],
+      "model": "(a) The payload is the actual data being carried by the packet.\n(b) The trailer marks the end of the packet and contains error-checking data such as a checksum."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Even parity is used. A parity bit is added as the leftmost bit to the 7-bit data 0110101.\n(a) State the parity bit. [1]\n(b) Give the 8-bit byte that is transmitted. [1]",
+      "ms": [
+        "(a) 0 (there are four 1s, already even)",
+        "(b) 00110101 (ecf)"
+      ],
+      "model": "(a) The data 0110101 contains four 1s, which is already even, so the parity bit is 0.\n(b) 00110101",
+      "tip": "Count the 1s carefully; an even count with even parity gives a parity bit of 0."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Four bytes are sent with even parity (the first bit of each byte is the parity bit), followed by a parity byte. This block is received:\nByte 1:      10110100\nByte 2:      01010101\nByte 3:      11100110\nByte 4:      00011110\nParity byte: 00011101\nIdentify the bit that has been corrupted, and give the corrected byte. Explain how you found it.",
+      "ms": [
+        "Byte 3 has an odd number of 1s (five) so it contains the error (1)",
+        "column / bit 6 (counting from the left) has an odd number of 1s (1)",
+        "the error is where the row and column cross: Byte 3, bit 6 (1)",
+        "corrected byte: 11100010 (1)"
+      ],
+      "model": "Each byte should have an even number of 1s. Byte 3 (11100110) has five 1s, so it is wrong. Checking each column (including the parity byte), only column 6 from the left has an odd number of 1s (five). The error is where they cross: bit 6 of Byte 3. Flipping it from 1 to 0 gives the corrected byte 11100010.",
+      "tip": "A parity block (row + column check) finds the exact bit, which a single parity bit cannot."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how an echo check is used to detect errors, and give one drawback of this method.",
+      "ms": [
+        "the receiver sends a copy of the data back to the sender (1)",
+        "the sender compares the returned data with the original (1)",
+        "if they are different, an error has occurred and the data is sent again (1)",
+        "drawback: cannot tell if the error happened on the way to the receiver or on the way back (1)",
+        "drawback: doubles the amount of data sent / slower / uses more bandwidth (1)"
+      ],
+      "model": "After the data is received, the receiver sends a copy of it straight back to the sender. The sender compares this copy with the original data. If the two match, the data is assumed correct; if they differ, an error has occurred and the data is re-sent. A drawback is that the sender cannot tell whether the error happened during the first transmission or on the return journey, so correct data may be re-sent unnecessarily."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A check digit is calculated for a 6-digit product code like this:\n• multiply the digits, from left to right, by the weights 1, 3, 1, 3, 1, 3\n• add the results\n• check digit = (10 − (total MOD 10)) MOD 10\n(a) Calculate the check digit for the code 4 7 2 9 1 6. Show your working. [3]\n(b) The code 4 7 2 9 1 6 with its check digit is entered as 4 7 2 8 1 6 followed by the same check digit. Show how the error is detected. [2]\n(c) Name one other type of data entry error that check digits are designed to detect. [1]",
+      "ms": [
+        "(a) M1: products 4, 21, 2, 27, 1, 18",
+        "(a) M1: total = 73",
+        "(a) A1: check digit = 7 (10 − 3)",
+        "(b) M1: new total = 4 + 21 + 2 + 24 + 1 + 18 = 70",
+        "(b) A1: recalculated check digit is 0, which does not match 7, so an error is detected",
+        "(c) transposition of digits / omitted or extra digit / phonetic error (e.g. 13 for 30)"
+      ],
+      "model": "(a) 4×1 = 4, 7×3 = 21, 2×1 = 2, 9×3 = 27, 1×1 = 1, 6×3 = 18. Total = 73. 73 MOD 10 = 3. (10 − 3) MOD 10 = 7. Check digit = 7.\n(b) With 8 instead of 9: 4 + 21 + 2 + 24 + 1 + 18 = 70. 70 MOD 10 = 0, so the check digit should be 0. The entered check digit is 7, so they do not match and the error is detected.\n(c) Transposition errors, where two digits are swapped.",
+      "tip": "Show every product – the method marks are given even if you add up wrongly."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "For each situation, state whether serial or parallel transmission, or which direction of transmission, is most suitable, and justify your choice.\n(a) Data moving between the CPU and memory along the internal bus, a few centimetres long. [2]\n(b) A file sent to a server in another city along a long-distance cable. [2]\n(c) Two people talking on a video call. [2]",
+      "ms": [
+        "(a) parallel (1)",
+        "(a) fast because several bits are sent at once, and the distance is short so bits do not skew / arrive out of sync (1)",
+        "(b) serial (1)",
+        "(b) one wire / channel so no skew over long distance; cheaper and more reliable cabling (1)",
+        "(c) full-duplex (1)",
+        "(c) both people need to send and receive (sound / video) at the same time (1)"
+      ],
+      "model": "(a) Parallel. Several bits travel at the same time on separate wires, which is fast, and because the distance is very short the bits do not get out of step (skew).\n(b) Serial. Bits travel one after another along a single channel, so there is no skew over long distances, and the cable is cheaper and more reliable.\n(c) Full-duplex. Both people need to speak and see each other at the same time, so data must travel in both directions simultaneously.",
+      "tip": "The justification must link to the scenario: distance for serial/parallel, simultaneity for duplex."
+    }
+  ]
+}

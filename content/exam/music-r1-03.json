@@ -1,0 +1,85 @@
+{
+ "id": "music-r1-03",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "In G major, name the notes of:\n(a) chord IV\n(b) chord V7",
+   "ms": [
+    "(a) C E G",
+    "(b) D F♯ A C"
+   ],
+   "model": "(a) C E G (b) D F♯ A C",
+   "tip": "V7 adds the 7th above the root: in G major that is C (a minor 7th above D)."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the relative minor and the dominant key of F major.",
+   "ms": [
+    "relative minor: D minor",
+    "dominant: C major"
+   ],
+   "model": "Relative minor: D minor. Dominant: C major."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The last four chords of a phrase in D major are given (bass note first, then the upper notes):\nChord 1: D – F♯ A D\nChord 2: G – B D G\nChord 3: A – C♯ E G\nChord 4: B – D F♯ B\n(a) Give the Roman numerals for chords 2, 3 and 4. [3]\n(b) Name the cadence formed by chords 3 and 4. [1]",
+   "ms": [
+    "(a) chord 2: IV",
+    "(a) chord 3: V7",
+    "(a) chord 4: vi (allow VI)",
+    "(b) interrupted cadence"
+   ],
+   "model": "(a) IV, V7, vi. (b) Interrupted cadence (V7 to vi).",
+   "tip": "If you expect I after V and get vi instead, it is interrupted."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A piece begins in E minor (key signature of one sharp).\n(a) Which accidental would you expect to see often in the E minor section? [1]\n(b) Later this accidental disappears and the passage ends with the chord D F♯ A C followed by G B D. Name the new key and its relationship to E minor. [2]\n(c) Name the cadence at the end of that passage. [1]",
+   "ms": [
+    "(a) D♯ (the raised 7th / leading note)",
+    "(b) G major",
+    "(b) relative major",
+    "(c) perfect cadence (V7–I in G major)"
+   ],
+   "model": "(a) D♯. (b) G major, the relative major. (c) A perfect cadence (V7–I).",
+   "tip": "Minor keys show their raised 7th as an accidental; when it vanishes, think relative major."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "In a Baroque slow movement in C major:\n• In bars 1–4 the cellos and basses hold a low C throughout while the upper strings play chords I – IV – V7 – I.\n• In bar 7 the top part holds a C from a C major chord into the next chord, which is G major (G B D), and then the C falls to B.\n(a) Name the device in bars 1–4. [1]\n(b) Name the device in bar 7. [1]\n(c) Explain the three stages of the device in bar 7, referring to the notes. [3]\n(d) Is this harmony diatonic or chromatic? Give a reason. [1]",
+   "ms": [
+    "(a) tonic pedal (allow pedal)",
+    "(b) suspension",
+    "(c) preparation: C is a consonant note in the C major chord",
+    "(c) suspension: C is held into the G major chord, where it clashes (a 4th above G / dissonance)",
+    "(c) resolution: the C falls by step to B, the 3rd of the G chord",
+    "(d) diatonic, because all notes belong to C major (no accidentals)"
+   ],
+   "model": "(a) A tonic pedal. (b) A suspension. (c) The C is prepared as a consonant note in chord I; it is held over into chord V, where it is a dissonant 4th above the root G; it then resolves down a step to B, the 3rd of chord V. (d) Diatonic: every note is in C major.",
+   "tip": "Suspension = prepare, suspend, resolve – always downward by step in this style."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Compare the harmony and tonality you would expect in a Classical sonata-form movement with those in a Romantic symphonic poem.",
+   "ms": [
+    "Classical: mainly diatonic harmony",
+    "Classical: mostly primary chords (I, IV, V/V7)",
+    "Classical: clear cadences (perfect/imperfect) mark balanced phrases",
+    "Classical: modulations to closely related keys, e.g. the dominant for the second subject",
+    "Romantic: more chromatic harmony / notes outside the key",
+    "Romantic: more dissonance, e.g. diminished 7th chords, for drama",
+    "Romantic: more frequent / unexpected modulations to distant keys",
+    "Romantic: changes between tonic minor and major for effect (e.g. a minor theme returning in the major)",
+    "max 4 for one period only; at least one point from each period for full marks"
+   ],
+   "model": "A Classical movement is mainly diatonic, using primary chords with V7, and clear perfect and imperfect cadences that mark balanced phrases. It modulates to closely related keys, e.g. the dominant for the second subject. A Romantic symphonic poem uses much more chromatic harmony and dissonance, such as diminished sevenths, to create drama. It modulates more often and to more distant keys, and may switch from minor to major for a triumphant ending.",
+   "tip": "In a compare question, make points in pairs: 'Classical … whereas Romantic …'."
+  }
+ ]
+}

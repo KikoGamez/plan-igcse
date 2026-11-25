@@ -1,0 +1,86 @@
+{
+  "id": "cs-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain why a computer needs secondary storage as well as RAM.",
+      "ms": [
+        "RAM is volatile / loses its contents when the power is turned off (1)",
+        "secondary storage is non-volatile, so files and programs (e.g. the OS) are kept permanently (1)",
+        "secondary storage has a much larger capacity / is cheaper per GiB (1)"
+      ],
+      "model": "RAM is volatile, so everything in it is lost when the computer is switched off. Secondary storage is non-volatile, so it keeps the operating system, programs and files permanently, and it has a much larger capacity."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between a static IP address and a dynamic IP address.",
+      "ms": [
+        "static: permanently assigned / does not change (1)",
+        "dynamic: assigned each time a device connects to the network (e.g. by the ISP / DHCP server) and can change (1)"
+      ],
+      "model": "A static IP address is permanently assigned to a device and never changes, which is useful for servers. A dynamic IP address is allocated by the network each time the device connects, so it may be different each time."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how data is stored on a magnetic hard disk drive (HDD).",
+      "ms": [
+        "data is stored on platters coated with a magnetic material (1)",
+        "the platters spin at high speed (1)",
+        "a read/write head on an actuator arm moves across the surface (1)",
+        "the head magnetises tiny areas / domains in one of two directions to represent 1 or 0 (1)",
+        "data is stored in tracks and sectors (1)",
+        "to read, the head detects the direction of magnetisation (1)"
+      ],
+      "model": "An HDD contains circular platters coated in a magnetic material that spin at high speed. A read/write head on an actuator arm moves across the platters to the correct track and sector. To write, the head magnetises tiny areas of the surface in one of two directions, one representing 1 and the other 0. To read, the head detects the direction of magnetisation as the platter spins under it."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how data is stored in solid-state (flash) memory.",
+      "ms": [
+        "uses NAND / NOR flash memory made of transistors / cells (1)",
+        "arranged in a grid of rows and columns / pages and blocks (1)",
+        "each cell has a control gate and a floating gate (1)",
+        "electrons are trapped in the floating gate (or not) to represent 0 or 1 (1)",
+        "the charge stays without power – non-volatile (1)",
+        "no moving parts (1)"
+      ],
+      "model": "Solid-state storage uses NAND flash memory, made of millions of transistors arranged in a grid. Each transistor has a control gate and a floating gate. To store data, electrons are pushed into the floating gate and trapped there, changing the state of the cell to represent a 0 or 1. Because the electrons stay trapped without power, the data is kept when the device is switched off, and there are no moving parts."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "A laptop's network interface card has the MAC address 00:1A:2B:3C:4D:5E.\n(a) State how many bits are in a MAC address. [1]\n(b) State what the first six and the last six hexadecimal digits identify. [2]\n(c) Explain how a home router uses IP addresses and MAC addresses to deliver a web page from the internet to this laptop. [2]",
+      "ms": [
+        "(a) 48 bits (12 hex digits × 4)",
+        "(b) first six: the manufacturer (1)",
+        "(b) last six: the serial number of the device / NIC (1)",
+        "(c) the router receives packets addressed to its public IP address / uses IP addresses to route packets across the internet to the correct network (1)",
+        "(c) inside the home network the router looks up / uses the laptop's private IP and its MAC address to forward the packets to the correct device (1)",
+        "(c) the router assigns private IP addresses to devices on the network (allow) (1)"
+      ],
+      "model": "(a) 48 bits.\n(b) The first six hex digits identify the manufacturer of the NIC; the last six are the serial number of that particular device.\n(c) Across the internet, packets are routed using IP addresses, so the web page arrives at the router's public IP address. The router then uses its table of the devices on the home network to find the laptop's private IP address and MAC address, and forwards the packets to that specific device."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A film studio needs to store 400 TiB of raw video. It is considering magnetic hard disk drives (HDD), solid-state drives (SSD) and cloud storage.\nEvaluate the three options and recommend one.",
+      "ms": [
+        "HDD: lowest cost per GiB / large capacity drives available (1)",
+        "HDD: slower access than SSD / moving parts can fail (1)",
+        "SSD: very fast read/write speeds for editing / no moving parts (1)",
+        "SSD: much more expensive per GiB for 400 TiB (1)",
+        "cloud: accessible from anywhere / easy to share with other staff (1)",
+        "cloud: no need to buy or maintain hardware / scalable (1)",
+        "cloud: needs fast reliable internet; uploading 400 TiB would take a very long time (1)",
+        "cloud: ongoing subscription cost / security and privacy risks / data controlled by a third party (1)",
+        "recommendation with justification (1), e.g. HDD for bulk archive because cheapest per GiB, possibly with SSD for current projects"
+      ],
+      "model": "Magnetic HDDs offer the lowest cost per gigabyte and very large capacities, so storing 400 TiB would be affordable, but they are slower than SSDs and their moving parts can fail. SSDs are much faster, which helps when editing, and have no moving parts, but buying 400 TiB of SSD would be extremely expensive. Cloud storage means staff could access and share the video from anywhere and the studio would not need to maintain hardware, but uploading 400 TiB needs a very fast internet connection and would take a long time, there are ongoing fees, and the studio depends on a third party to keep its files secure.\nI recommend HDDs for storing the bulk of the raw video because they are the cheapest per gigabyte for such a large amount, with a small number of SSDs for the projects currently being edited.",
+      "tip": "Evaluate = advantages AND disadvantages of each, then a justified recommendation."
+    }
+  ]
+}

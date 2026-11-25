@@ -1,0 +1,89 @@
+{
+  "id": "chem-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In an electrolytic cell, state what is meant by:\n(a) the anode [1]\n(b) the electrolyte. [1]",
+      "ms": [
+        "(a) the positive electrode",
+        "(b) the molten or aqueous (ionic) substance that undergoes electrolysis / is decomposed"
+      ],
+      "model": "(a) The anode is the positive electrode.\n(b) The electrolyte is the molten or aqueous ionic substance that is decomposed during electrolysis.",
+      "tip": "Remember PANiC: Positive Anode, Negative is Cathode."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Molten lead(II) bromide is electrolysed using graphite electrodes.\n(a) Describe what is seen at each electrode. [2]\n(b) Explain why the lead(II) bromide must be molten and not solid. [1]",
+      "ms": [
+        "(a) anode: red-brown / brown fumes or gas (bromine)",
+        "(a) cathode: silvery / grey molten metal (lead) forms, collecting at the bottom",
+        "(b) in the solid the ions cannot move / are fixed; when molten the ions are free to move (to the electrodes)"
+      ],
+      "model": "(a) At the anode, red-brown fumes of bromine are given off. At the cathode, a silvery bead of molten lead forms and collects at the bottom of the crucible.\n(b) In solid lead(II) bromide the ions are held in fixed positions in the lattice. When molten, the ions are free to move to the electrodes, so it can conduct and be decomposed.",
+      "tip": "'Ions free to move' — never 'electrons free to move' — for an electrolyte."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Molten sodium chloride is electrolysed using inert electrodes.\nDescribe the transfer of charge during this electrolysis. In your answer refer to:\n• the external circuit\n• the electrolyte\n• what happens at each electrode, including the half-equation at the cathode.",
+      "ms": [
+        "electrons move through the external circuit / wires from the anode to the cathode",
+        "Na⁺ ions move to the cathode and Cl⁻ ions move to the anode",
+        "at the cathode Na⁺ ions gain electrons (reduction)",
+        "at the anode Cl⁻ ions lose electrons (forming chlorine)",
+        "Na⁺ + e⁻ → Na"
+      ],
+      "model": "In the external circuit, charge is carried by electrons, which flow through the wires from the anode to the cathode. In the molten electrolyte, charge is carried by ions: positive Na⁺ ions move towards the cathode and negative Cl⁻ ions move towards the anode. At the cathode, Na⁺ ions gain electrons and are reduced to sodium atoms: Na⁺ + e⁻ → Na. At the anode, Cl⁻ ions lose electrons and form chlorine molecules, Cl₂.",
+      "tip": "Electrons never travel through the electrolyte — only ions move there."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Aqueous copper(II) sulfate is electrolysed using carbon electrodes.\n(a) Describe what is seen at the cathode and at the anode. [2]\n(b) Describe a test to identify the gas formed at the anode. [1]\n(c) Describe and explain how the colour of the solution changes. [1]\n(d) Write the half-equation for the reaction at the cathode. [1]",
+      "ms": [
+        "(a) cathode: pink / brown solid (copper) coats the electrode",
+        "(a) anode: bubbles (of colourless gas)",
+        "(b) oxygen: relights a glowing splint",
+        "(c) blue colour fades / becomes paler because Cu²⁺ ions are removed from the solution",
+        "(d) Cu²⁺ + 2e⁻ → Cu"
+      ],
+      "model": "(a) A pink-brown layer of copper forms on the cathode. Bubbles of a colourless gas form at the anode.\n(b) The gas is oxygen: it relights a glowing splint.\n(c) The blue colour of the solution fades because the blue Cu²⁺ ions are discharged at the cathode and removed from the solution.\n(d) Cu²⁺ + 2e⁻ → Cu",
+      "tip": "With carbon electrodes the anode gives oxygen; with copper electrodes the anode dissolves instead — read which electrodes are used."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Concentrated aqueous sodium chloride is electrolysed using carbon electrodes.\n(a) Name the product at each electrode and describe a test for each one. [4]\n(b) Explain why sodium is not formed at the cathode. Include the half-equation for the reaction at the cathode. [2]",
+      "ms": [
+        "(a) cathode: hydrogen",
+        "(a) hydrogen: lighted splint gives a (squeaky) pop",
+        "(a) anode: chlorine",
+        "(a) chlorine: bleaches damp litmus paper",
+        "(b) sodium is more reactive than hydrogen, so hydrogen ions are discharged instead (allow H⁺ ions gain electrons more easily)",
+        "(b) 2H⁺ + 2e⁻ → H₂",
+        "allow (b) the solution left is (aqueous) sodium hydroxide as an alternative to either (b) mark"
+      ],
+      "model": "(a) At the cathode hydrogen is formed: it burns with a squeaky pop when a lighted splint is held near it. At the anode chlorine is formed: it bleaches damp litmus paper.\n(b) The solution contains both Na⁺ ions and H⁺ ions (from the water). Sodium is more reactive than hydrogen, so hydrogen ions are discharged instead: 2H⁺ + 2e⁻ → H₂. The Na⁺ ions stay in solution, which becomes sodium hydroxide.",
+      "tip": "In aqueous solutions, the metal is only formed at the cathode if it is less reactive than hydrogen."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A city plans to replace its petrol-engined buses with buses powered by hydrogen–oxygen fuel cells. The hydrogen will be made by electrolysis using electricity from a coal-fired power station.\n(a) State the only chemical product formed in a hydrogen–oxygen fuel cell and write the overall equation for the reaction. [2]\n(b) Evaluate the plan. Give arguments for and against it. [4]",
+      "ms": [
+        "(a) water",
+        "(a) 2H₂ + O₂ → 2H₂O",
+        "(b) for: no carbon dioxide released by the buses / at point of use",
+        "(b) for: no carbon monoxide / oxides of nitrogen / particulates in the city, so better air quality / fewer respiratory problems",
+        "(b) against: burning coal to make the electricity releases carbon dioxide (and sulfur dioxide), so global warming is not reduced much",
+        "(b) against: hydrogen is difficult / dangerous to store (flammable / explosive) or needs large high-pressure tanks",
+        "(b) against: few refuelling stations / high cost of fuel cells or buses",
+        "max 3 for (b) if only one side is given"
+      ],
+      "model": "(a) Water is the only product: 2H₂ + O₂ → 2H₂O.\n(b) For: the buses would release no carbon dioxide, carbon monoxide, oxides of nitrogen or particulates in the city, so air quality would improve and there would be fewer respiratory problems. Against: the electricity used to make the hydrogen comes from burning coal, which releases carbon dioxide and sulfur dioxide at the power station, so the pollution is moved rather than removed. Hydrogen is a flammable gas that is difficult to store safely, needing large high-pressure tanks, and new refuelling stations would be expensive to build. Overall, the plan improves local air quality but would only reduce climate change if the hydrogen were made using renewable electricity.",
+      "tip": "In 'evaluate' questions give both sides and finish with a short judgement."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "bus-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “liquidity”. [2]",
+      "ms": [
+        "The ability of a business to pay its short-term debts (1)",
+        "as they fall due / by converting assets into cash quickly (1)"
+      ],
+      "model": "Liquidity is the ability of a business to pay its short-term debts when they are due, using cash or assets that can quickly be turned into cash.",
+      "tip": "Liquidity ≠ profitability. A profitable business can still have poor liquidity."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In 2025 Harbour Hotel had revenue of $250 000 and profit of $20 000.\n\nCalculate the profit margin. [2]",
+      "ms": [
+        "M1: 20 000 ÷ 250 000 × 100",
+        "A1: 8% (award 2 marks for correct answer)"
+      ],
+      "model": "Profit margin = profit ÷ revenue × 100 = 20 000 ÷ 250 000 × 100 = 8%.",
+      "tip": "Profit margin uses profit (after expenses); gross profit margin uses gross profit."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Data for KitchenPro Ltd:\n\n                     2024        2025\nProfit             $36 000     $45 000\nCapital employed  $300 000    $360 000\n\n(a) Calculate the return on capital employed (ROCE) for each year. [3]\n(b) State whether ROCE has improved. [1]",
+      "ms": [
+        "M1: ROCE = profit ÷ capital employed × 100 (correct method for either year)",
+        "A1: 2024 = 36 000 ÷ 300 000 × 100 = 12%",
+        "A1: 2025 = 45 000 ÷ 360 000 × 100 = 12.5%",
+        "(b) Yes — it has increased slightly, by 0.5 percentage points (ecf) (1)"
+      ],
+      "model": "(a) 2024: 36 000 ÷ 300 000 × 100 = 12%.\n2025: 45 000 ÷ 360 000 × 100 = 12.5%.\n(b) ROCE has improved slightly, from 12% to 12.5%.",
+      "tip": "Profit rose by 25% but capital employed also rose, so ROCE only improved a little."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "An investor is comparing two clothing companies using ratios from their latest accounts.\n\nOutline two limitations of using ratio analysis to make this decision. [4]",
+      "ms": [
+        "First limitation identified (1)",
+        "First limitation developed/explained (1)",
+        "Second limitation identified (1)",
+        "Second limitation developed/explained (1)",
+        "e.g. Ratios are based on past data (1) — they may not show future performance, e.g. a new competitor next year (1)",
+        "e.g. Companies may use different accounting methods / year ends (1) — so comparisons may be misleading (1)",
+        "e.g. Do not show non-financial/qualitative factors (1) — e.g. brand image, quality of management, staff motivation (1)",
+        "e.g. One year’s ratios may be unusual (1) — need trends over several years (1)",
+        "e.g. Ratios do not explain the causes of a problem (1) — further investigation is needed (1)",
+        "e.g. External factors, e.g. inflation or recession, may distort figures (1)"
+      ],
+      "model": "First, ratios are calculated from past accounts, so they show how the companies performed last year, not how they will perform in the future when, for example, fashions or the economy may change.\nSecond, ratios ignore non-financial factors such as the strength of each company’s brand, the quality of its managers or its reputation for ethical sourcing, which could be just as important to the investor.",
+      "tip": "Past data, no qualitative factors, different methods — the three most common limitations."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Trendy Threads is a clothing retailer. Its latest statement of financial position shows:\n• Current assets: $90 000 (inventory $70 000, cash $5 000, trade receivables $15 000)\n• Current liabilities: $75 000\nIts current ratio is 1.2 and its acid test ratio is about 0.27.\n\nExplain two ways Trendy Threads could improve its liquidity. [6]",
+      "ms": [
+        "First way — K: valid way identified (1)",
+        "First way — App: applied to the business in the question (1)",
+        "First way — An: consequence for the business explained (1)",
+        "Second way — K: valid way identified (1)",
+        "Second way — App: applied to the business in the question (1)",
+        "Second way — An: consequence for the business explained (1)",
+        "e.g. Sell off excess inventory, e.g. a sale/discounts (K) — $70 000 of clothes is most of its current assets (App) — turns stock into cash, raising the acid test ratio; but lower profit margin on discounted clothes (An)",
+        "e.g. Reduce/repay current liabilities using long-term finance, e.g. replace overdraft with a long-term loan or share capital (K) — current liabilities of $75 000 fall (App) — both ratios rise (An)",
+        "e.g. Sell unused non-current assets / sale and leaseback (K) — brings in cash (App/An)",
+        "e.g. Collect trade receivables faster / reduce credit period (K) — $15 000 owed (App) — cash comes in sooner (An)",
+        "e.g. Buy less inventory / JIT ordering (K) — less cash tied up (App/An)",
+        "e.g. Credit correct analysis of effect on current or acid test ratio"
+      ],
+      "model": "First, Trendy Threads could hold a sale to reduce its inventory. It has $70 000 of stock, which is most of its current assets, and clothes can go out of fashion. Selling some at a discount turns stock into cash, so its acid test ratio of 0.27 would rise and it would be better able to pay its suppliers. The drawback is a lower profit margin on the discounted items.\nSecond, it could replace some of its current liabilities, such as an overdraft, with a long-term bank loan. This would reduce the $75 000 of current liabilities, increasing both the current ratio and the acid test ratio, because the debt would no longer have to be repaid within one year.",
+      "tip": "Acid test = (current assets − inventory) ÷ current liabilities. Here: (90 000 − 70 000) ÷ 75 000 ≈ 0.27."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Extracts from the income statements of Coastline Cafés Ltd:\n\n                     2024        2025\nRevenue           $500 000    $600 000\nCost of sales     $300 000    $390 000\nGross profit      $200 000    $210 000\nExpenses          $150 000    $150 000\nProfit             $50 000     $60 000\n\n(a) Calculate the gross profit margin and the profit margin for each year. [4]\n(b) Has Coastline Cafés’ performance improved? Justify your answer. [4]",
+      "ms": [
+        "(a) A1: GPM 2024 = 200 000 ÷ 500 000 × 100 = 40%",
+        "(a) A1: GPM 2025 = 210 000 ÷ 600 000 × 100 = 35%",
+        "(a) A1: PM 2024 = 50 000 ÷ 500 000 × 100 = 10%",
+        "(a) A1: PM 2025 = 60 000 ÷ 600 000 × 100 = 10%",
+        "(b) Analysis — argument that performance improved, using data, e.g. revenue +20%, profit +$10 000, expenses unchanged (1)",
+        "(b) Analysis — argument that it has not improved, e.g. GPM fell from 40% to 35% because cost of sales rose 30%, faster than revenue (1)",
+        "(b) Evaluation — clear overall judgement (e.g. only a slight/mixed improvement) (1)",
+        "(b) Evaluation — judgement justified, e.g. profit grew only because sales grew; depends on why cost of sales rose / whether expenses stay flat (1)"
+      ],
+      "model": "(a) Gross profit margin: 2024 = 200 000 ÷ 500 000 × 100 = 40%; 2025 = 210 000 ÷ 600 000 × 100 = 35%.\nProfit margin: 2024 = 50 000 ÷ 500 000 × 100 = 10%; 2025 = 60 000 ÷ 600 000 × 100 = 10%.\n(b) In some ways performance improved: revenue grew by 20% and profit increased by $10 000 to $60 000, while expenses stayed at $150 000, showing good control of overheads.\nHowever, the gross profit margin fell from 40% to 35% because cost of sales rose by 30%, faster than revenue. This may be due to higher food prices or price cuts to win customers. The profit margin stayed at 10% only because expenses did not rise.\nOverall, performance has improved only slightly. Coastline earns more profit because it sells more, but it is less efficient at turning each sale into gross profit. If cost of sales keeps rising faster than revenue and expenses increase in future, profit could fall, so the company should find cheaper suppliers or review its prices.",
+      "tip": "A rise in profit does not always mean better performance — compare margins, not just totals. Marking: max 2 marks in (b) without an overall judgement."
+    }
+  ]
+}

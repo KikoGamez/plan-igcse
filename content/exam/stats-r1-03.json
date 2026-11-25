@@ -1,0 +1,88 @@
+{
+ "id": "stats-r1-03",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "The table shows the number of goals scored by a team in each of 25 matches.\n\nGoals            0   1   2   3   4\nNumber of games  4   7   6   5   3\n\nWrite down (a) the mode [1], (b) the median [1].",
+   "ms": [
+    "(a) B1: 1 (goal)",
+    "(b) B1: 2 (goals)"
+   ],
+   "model": "(a) The mode is 1 goal (it has the highest frequency, 7).\n(b) The median is the 13th value. Cumulative frequencies are 4, 11, 17, …, so the 13th value is in the 2-goal group. Median = 2 goals.",
+   "tip": "The mode is the value with the highest frequency (1), not the frequency itself (7)."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "The mean mass of 12 parcels is 3.5 kg. One more parcel is added and the mean mass of the 13 parcels becomes 3.8 kg.\nCalculate the mass of the extra parcel.",
+   "ms": [
+    "M1: 12 × 3.5 = 42",
+    "M1: 13 × 3.8 = 49.4",
+    "A1: 7.4 kg"
+   ],
+   "model": "Total of 12 parcels = 12 × 3.5 = 42 kg.\nTotal of 13 parcels = 13 × 3.8 = 49.4 kg.\nExtra parcel = 49.4 − 42 = 7.4 kg.",
+   "tip": "Work with totals (mean × number), not with the means themselves."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "The table shows the times, t minutes, that 60 customers waited at a bank.\n\nTime (t min)   0 < t ≤ 5   5 < t ≤ 10   10 < t ≤ 20   20 < t ≤ 30\nFrequency          8           19            21            12\n\n(a) Calculate an estimate of the mean waiting time. [3]\n(b) Use linear interpolation to estimate the median waiting time. [2]",
+   "ms": [
+    "M1: midpoints 2.5, 7.5, 15, 25 used",
+    "M1: Σfx ÷ Σf, e.g. (20 + 142.5 + 315 + 300) ÷ 60 = 777.5 ÷ 60",
+    "A1: 13.0 minutes (awrt 13.0; allow 12.96)",
+    "(b) M1: 30th value in 10 < t ≤ 20 class, e.g. 10 + (30 − 27) ÷ 21 × 10",
+    "(b) A1: 11.4 minutes (awrt 11.4)"
+   ],
+   "model": "(a) Midpoints: 2.5, 7.5, 15, 25.\nΣfx = 8 × 2.5 + 19 × 7.5 + 21 × 15 + 12 × 25 = 20 + 142.5 + 315 + 300 = 777.5\nMean = 777.5 ÷ 60 = 12.96 ≈ 13.0 minutes.\n(b) n ÷ 2 = 30th value. Cumulative frequencies: 8, 27, 48, 60, so the median is in the 10 < t ≤ 20 class.\nMedian ≈ 10 + (30 − 27) ÷ 21 × 10 = 10 + 1.43 = 11.4 minutes.",
+   "tip": "Watch the unequal class widths: the midpoint of 10 < t ≤ 20 is 15, and the width used in interpolation is 10."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "The annual salaries, in thousands of euros, of the 9 employees of a small firm are:\n\n21  23  23  24  26  27  28  30  95\n\n(a) Find the mean and the median salary. [2]\n(b) The owner advertises a job saying \"the average salary is €33 000\". Explain why this is misleading. [1]\n(c) Find the interquartile range of the salaries. [2]",
+   "ms": [
+    "(a) B1: mean = 297 ÷ 9 = 33 (€33 000)",
+    "(a) B1: median = 26 (€26 000)",
+    "(b) B1: the mean is increased by the extreme value (95, probably the owner's salary); 8 out of 9 employees earn less than €33 000, so the median (€26 000) is more typical",
+    "(c) M1: Q₁ = 2.5th value = 23 and Q₃ = 7.5th value = 29",
+    "(c) A1: IQR = 6 (€6000)"
+   ],
+   "model": "(a) Σx = 297, so mean = 297 ÷ 9 = 33, i.e. €33 000. Median = 5th value = 26, i.e. €26 000.\n(b) The €95 000 salary is an outlier that pulls the mean up: 8 of the 9 employees earn less than €33 000, so the median of €26 000 is a better 'typical' salary.\n(c) n = 9. Q₁ is the (9 + 1) ÷ 4 = 2.5th value = (23 + 23) ÷ 2 = 23. Q₃ is the 7.5th value = (28 + 30) ÷ 2 = 29.\nIQR = 29 − 23 = 6, i.e. €6000.",
+   "tip": "Use (n + 1)/4 and 3(n + 1)/4 for small lists of raw data."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "The heights, h cm, of 50 tomato plants grown without fertiliser are shown in the table.\n\nHeight (h cm)   10 < h ≤ 20   20 < h ≤ 30   30 < h ≤ 40   40 < h ≤ 50\nFrequency            6             14            18            12\n\n(a) Calculate an estimate of the mean height. [3]\n(b) Calculate an estimate of the standard deviation of the heights. [3]\nA second group of plants was grown with fertiliser. Their mean height was 38.5 cm and the standard deviation was 6.1 cm.\n(c) Compare the heights of the two groups of plants. [2]",
+   "ms": [
+    "M1: midpoints 15, 25, 35, 45",
+    "M1: Σfx = 1610 and ÷ 50",
+    "A1: 32.2 cm",
+    "M1: Σfx² = 56 450 (6 × 225 + 14 × 625 + 18 × 1225 + 12 × 2025)",
+    "M1: √(56 450 ÷ 50 − 32.2²) (ft their mean)",
+    "A1: 9.6 cm (awrt 9.60)",
+    "(c) B1: plants with fertiliser had a higher mean height (38.5 cm v 32.2 cm), so were generally taller (ft)",
+    "(c) B1: plants with fertiliser had a lower standard deviation (6.1 cm v 9.6 cm), so their heights were more consistent (ft)"
+   ],
+   "model": "(a) Midpoints 15, 25, 35, 45.\nΣfx = 90 + 350 + 630 + 540 = 1610. Mean = 1610 ÷ 50 = 32.2 cm.\n(b) Σfx² = 6 × 225 + 14 × 625 + 18 × 1225 + 12 × 2025 = 1350 + 8750 + 22 050 + 24 300 = 56 450.\nσ = √(56 450 ÷ 50 − 32.2²) = √(1129 − 1036.84) = √92.16 = 9.6 cm.\n(c) The plants grown with fertiliser had a higher mean height (38.5 cm compared with 32.2 cm), so they were generally taller. They also had a smaller standard deviation (6.1 cm compared with 9.6 cm), so their heights were more consistent.",
+   "tip": "Subtract the square of the mean, x̄², before you take the square root."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "For a set of 15 values, Σx = 270 and Σx² = 5115.\n(a) Calculate the mean and the standard deviation of the values. [3]\nIt is then found that one value was recorded as 18 when it should have been 28.\n(b) Calculate the correct mean and the correct standard deviation. [3]",
+   "ms": [
+    "B1: mean = 18",
+    "M1: √(5115 ÷ 15 − 18²) = √17",
+    "A1: 4.12 (awrt 4.12)",
+    "M1: new Σx = 280, giving mean 18.7 (awrt 18.7)",
+    "M1: new Σx² = 5115 − 18² + 28² = 5575",
+    "A1: σ = √(5575 ÷ 15 − (280 ÷ 15)²) = 4.82 (awrt 4.82)"
+   ],
+   "model": "(a) Mean = 270 ÷ 15 = 18.\nσ = √(5115 ÷ 15 − 18²) = √(341 − 324) = √17 = 4.12.\n(b) New Σx = 270 − 18 + 28 = 280, so mean = 280 ÷ 15 = 18.7 (18.67).\nNew Σx² = 5115 − 18² + 28² = 5115 − 324 + 784 = 5575.\nσ = √(5575 ÷ 15 − 18.667²) = √(371.67 − 348.44) = √23.22 = 4.82.",
+   "tip": "Both Σx and Σx² must be corrected: take out the old value (and its square) and put in the new one."
+  }
+ ]
+}

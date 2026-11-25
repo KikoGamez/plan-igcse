@@ -1,0 +1,119 @@
+{
+  "id": "bus-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “limited liability”. [2]",
+      "ms": [
+        "The owners/shareholders are only responsible for the debts of the business up to the amount they invested (1)",
+        "Their personal possessions/assets cannot be taken to pay the business’s debts (1)",
+        "Allow: owners can only lose the money they put into the business (1)"
+      ],
+      "model": "Limited liability means that the owners of a business can only lose the amount of money they have invested in it. If the business fails, their personal belongings, such as their house, cannot be taken to pay its debts.",
+      "tip": "Unlimited liability is the opposite — always mention personal possessions being safe/at risk to get the second mark."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Sara wants to open a dog-grooming business and needs a bank loan. The bank has asked her for a business plan.\n\nIdentify two items that Sara should include in her business plan. [2]",
+      "ms": [
+        "Description of the business / the service and prices",
+        "Details of the owner (skills, experience)",
+        "Market research / target market / competitors",
+        "Marketing plan (how customers will be attracted)",
+        "Location / premises",
+        "Equipment and other resources needed",
+        "Financial information: start-up costs, forecast revenue/profit, cash-flow forecast, sources of finance",
+        "Objectives of the business",
+        "Employees needed"
+      ],
+      "model": "1. A cash-flow forecast showing expected cash inflows and outflows for the first year.\n2. The results of her market research, showing who her target customers are and which competitors are nearby.",
+      "tip": "“Identify” means a short answer — no explanation is needed, but each item must be a separate content of the plan."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The government of Country Z wants to increase the number of new businesses because unemployment is high.\n\nOutline two ways the government could support business start-ups. [4]",
+      "ms": [
+        "First way identified (1)",
+        "First way developed/explained (1)",
+        "Second way identified (1)",
+        "Second way developed/explained (1)",
+        "e.g. Grants/subsidies (1) — money that does not have to be repaid, so it reduces the finance problem of new businesses (1)",
+        "e.g. Low-interest or government-guaranteed loans (1) — banks are often unwilling to lend to new businesses with no track record (1)",
+        "e.g. Free advice/training/business support centres (1) — entrepreneurs lack experience, e.g. writing a business plan or keeping accounts (1)",
+        "e.g. Lower taxes / tax holidays for new firms (1) — keeps more profit to reinvest in the early years (1)",
+        "e.g. Business incubators / cheap premises/workspace (1) — reduces fixed costs such as rent (1)",
+        "e.g. Allow other valid methods, e.g. reducing paperwork/regulation to set up a business"
+      ],
+      "model": "First, the government could give grants to new businesses. Because grants do not have to be repaid, entrepreneurs can buy equipment without the burden of interest, which is often the reason start-ups cannot get finance.\nSecond, it could set up advice centres that offer free training in skills such as writing a business plan and managing cash flow. Many new entrepreneurs lack business experience, so this reduces the chance of the business failing in its first year.",
+      "tip": "“Outline” = point + one line of development. Two well-developed points beat four bare ones."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Kwame owns an orange farm. He has started making orange juice. Each bottle of juice sells for $2.50. The bought-in materials for each bottle cost:\n• oranges: $0.90\n• bottle, cap and label: $0.35\n\n(a) Calculate the added value per bottle. [2]\n(b) Outline one way Kwame could increase the added value of his juice. [2]",
+      "ms": [
+        "(a) M1: cost of bought-in materials = 0.90 + 0.35 = $1.25 OR 2.50 − 0.90 − 0.35",
+        "(a) A1: added value = $1.25 per bottle (award 2 marks for correct answer with no working)",
+        "(b) 1 mark for a way + 1 mark for development, e.g.: create a strong brand / premium image (1) so customers will pay a higher price for the same materials (1)",
+        "(b) Alternative: improve the packaging or advertise it as fresh/organic (1) to justify a higher price (1)",
+        "(b) Alternative: buy bottles/labels more cheaply, e.g. in bulk (1) so cost of bought-in materials falls while price stays the same (1)",
+        "(b) Alternative: add a feature/service, e.g. new flavours or home delivery (1) which customers value and pay more for (1)"
+      ],
+      "model": "(a) Bought-in materials = $0.90 + $0.35 = $1.25. Added value = $2.50 − $1.25 = $1.25 per bottle.\n(b) Kwame could market the juice as freshly squeezed and organic with attractive packaging. This creates a premium brand image, so customers will pay a higher price, e.g. $3.00, while the cost of materials stays at $1.25, increasing the added value.",
+      "tip": "Added value is price minus the cost of bought-in materials only — do not subtract wages or rent."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Ana and Leo are hairdressers. They each work as sole traders but are thinking of forming a partnership and opening one larger salon together.\n\nExplain two disadvantages to Ana and Leo of forming a partnership. [6]",
+      "ms": [
+        "First disadvantage identified (1)",
+        "First disadvantage developed/explained (1)",
+        "Second disadvantage identified (1)",
+        "Second disadvantage developed/explained (1)",
+        "e.g. Unlimited liability (K) — if the salon cannot pay for its equipment or rent (App), Ana or Leo could lose personal possessions such as a house/car (An)",
+        "e.g. Each partner is responsible for the debts/decisions of the other (K) — e.g. if Leo orders expensive new chairs without asking (App), Ana must also pay (An)",
+        "e.g. Disagreements between partners (K) — e.g. about opening hours, prices or how to style the salon (App), slowing decisions and possibly ending the partnership (An)",
+        "e.g. Profits must be shared (K) — each now receives only part of the salon’s profit (App), so if one works harder they may feel it is unfair (An)",
+        "e.g. Partnership may end if one partner leaves or dies (K) — the salon’s continuity is at risk (An)",
+        "e.g. Limited capital compared with a company / still hard to raise large finance (K)"
+      ],
+      "model": "One disadvantage is that partners usually have unlimited liability. If the new salon cannot pay the rent on its larger premises or the loan for new styling chairs, Ana and Leo would be personally responsible, so they could lose personal possessions such as their cars or savings. This is riskier than before because they are also responsible for debts the other partner creates.\nA second disadvantage is that they may disagree. As sole traders they each made their own decisions, but now they must agree on prices, opening hours and which products to use. If they cannot agree, decisions will be slow and customer service may suffer, and the partnership could even break up, which would be costly after investing in one shared salon.",
+      "tip": "Each point needs K + App + An. Mention the salon, hairdressing or the two names to get application. Marking: Award max 3 marks per disadvantage; max 2 marks if no application to the context."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Raj is a sole trader who repairs mobile phones. His shop is very successful and he wants to open two more shops in other towns. He needs $80 000. Raj has $10 000 in savings. His brother and a friend have offered to invest $35 000 each if they can become shareholders.\n\nShould Raj stay a sole trader or form a private limited company? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Private limited company: limited liability, so Raj’s personal assets are protected if the new shops fail (expansion is risky)",
+        "Ltd: can sell shares to brother and friend — 35 000 + 35 000 + 10 000 = $80 000, exactly the amount needed, with no interest to pay",
+        "Ltd: separate legal identity; continuity; may find it easier to borrow / seen as more established",
+        "Ltd: if shares are issued per $ invested, Raj would own only 10 000 ÷ 80 000 = 12.5% of the shares, so his brother and friend together could outvote him",
+        "Ltd drawbacks: Raj must share profits and decisions with shareholders; loses full control; legal costs and paperwork to set up; accounts must be filed/less privacy",
+        "Sole trader: keeps full control and all profit; fewer formalities; but unlimited liability and only $10 000 own savings, so would need a large loan with interest",
+        "Ev: a clear decision supported by a reason why it is better than the alternative, e.g. the size of the finance gap and the risk of expanding to new towns, and/or a condition (e.g. if Raj keeps over 50% of shares/is the majority shareholder he keeps control)"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both options applied to Raj’s business, with a clear decision justified by explaining why it is better than the alternative (e.g. using the $80 000 figures or the risk of the new shops)."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one option applied to Raj; a decision may be given but it is weakly supported or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of features of sole traders and/or private limited companies, with little or no application to Raj."
+        }
+      ],
+      "model": "If Raj forms a private limited company, his brother and friend can buy shares for $35 000 each. With his $10 000 savings this raises exactly the $80 000 he needs without a loan, so the business has no interest payments while the new shops build up customers. He would also have limited liability, so if the new shops fail he would not lose his house or savings beyond what he invested.\nHowever, Raj would lose control. If shares are issued in proportion to the money invested, he would own only $10 000 of $80 000 = 12.5% of the company, so his brother and friend could outvote him. They would also take most of the profit, and setting up the company costs money and its accounts must be filed.\nIf he stays a sole trader he keeps all the profit and control, but he would need to borrow $70 000. Interest would reduce profit and, with unlimited liability, his personal possessions would be at risk if the expansion fails.\nI recommend a private limited company, because opening two shops in towns where he has no customers yet is risky, and limited liability protects Raj while the shareholders provide finance without interest. A $70 000 loan for a small business with unlimited liability is a bigger risk than sharing control. However, Raj should negotiate to keep the largest shareholding, for example by valuing his existing successful shop as part of his investment, so that he still makes the key decisions.",
+      "tip": "Evaluation means saying why your choice beats the other option for THIS business — use the numbers given."
+    }
+  ]
+}

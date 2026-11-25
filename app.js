@@ -31,6 +31,7 @@ const IC={
   reparto:'<path d="M12 3v9l7 4"/><circle cx="12" cy="12" r="9"/>',
   asignaturas:'<path d="M4 4h6v16H4zM10 4h4v16h-4zM15 5l4-1 3 15-4 1z"/>',
   metodo:'<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0 0 12 3z"/>',
+  nivel:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
   recursos:'<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>',
   menu:'<path d="M4 7h16M4 12h16M4 17h16"/>',
   ajustes:'<circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2 12h3M19 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/>'
@@ -167,7 +168,8 @@ const save=()=>store(KEY,done);
 const level=p=>p>=75?'g':p>=50?'a':'r';
 
 /* ----- Shell: nav, router ----- */
-const VIEWS=['hoy','calendario','reparto','asignaturas','metodo','recursos','ajustes'];
+const VIEWS=['hoy','calendario','reparto','asignaturas','nivel','metodo','recursos','ajustes'];
+T.nav.nivel=T.nav.nivel||(LANG==='es'?'Mi nivel':'My level');T.navSub.nivel=T.navSub.nivel||(LANG==='es'?'Temas fuertes y flojos':'Strong and weak topics');
 $('nav').innerHTML=VIEWS.map(v=>`<a href="#${v}" data-v="${v}">${ic(v)}<b>${T.nav[v]}</b><small>${T.navSub[v]}</small></a>`).join('');
 $('cdNum').textContent=left;$('cdTxt').textContent=T.daysLeft;$('cdMini').textContent=`${left} ${T.daysLeft}`;
 $('langLink').textContent=T.lang;$('langLink').href=T.langHref;
@@ -182,6 +184,7 @@ function show(v,dayK){
   if(!VIEWS.includes(v))v='hoy';
   VIEWS.forEach(x=>{$('v-'+x).hidden=x!==v});
   if(v==='reparto'&&typeof renderReparto==='function'&&$('weekly'))renderReparto();
+  if(v==='nivel'&&window.IGLevel)IGLevel.render();
   document.querySelectorAll('#nav a').forEach(a=>a.setAttribute('aria-current',a.dataset.v===v?'page':'false'));
   $('viewTitle').textContent=v==='hoy'?T.brand:T.nav[v];document.title=`${T.nav[v]} · ${T.brand}`;
   openMenu(false);

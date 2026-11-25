@@ -59,7 +59,7 @@ In **simple time** each beat divides into **two**; in **compound time** each bea
 
 ### 4. Latin and world rhythms (areas 5 and 6)
 
-- **Habanera:** a dotted-quaver, semiquaver, crotchet, crotchet pattern (♪. ♬ ♩ ♩ in 2/4) a Cuban-born rhythm that underlies tango and related Latin styles; it has an elastic, swaying feel.
+- **Habanera:** a dotted-quaver, semiquaver, quaver, quaver pattern in 2/4 (one bar = 2 beats): a Cuban-born rhythm that underlies tango and related Latin styles; it has an elastic, swaying feel.
 - **Marcado:** strongly marked, accented beats in tango, a "stomping" four-in-the-bar that gives the music its stern, dramatic character.
 - **Clave:** a five-note rhythmic key pattern in salsa and other Afro-Cuban music, played on two wooden sticks. In 4/4 it has **three** hits in one bar and **two** in the other. **Forward clave** (3–2) starts with the three-hit bar; **reverse clave** (2–3) starts with the two-hit bar. All other parts fit around the clave. It is a **cross-rhythm** against the steady beat.
 - **Tāla** (Hindustani): a repeating rhythmic cycle of beats (e.g. teental, 16 beats in 4 groups of 4), played on the tabla. The first beat of the cycle, **sam**, is the point of arrival.

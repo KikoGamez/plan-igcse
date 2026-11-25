@@ -1,0 +1,88 @@
+{
+  "id": "chem-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State what is meant by:\n(a) an ionic bond [1]\n(b) a covalent bond. [1]",
+      "ms": [
+        "(a) (strong) electrostatic attraction between oppositely charged ions",
+        "(b) a (shared) pair of electrons shared between two atoms",
+        "ignore 'leading to noble gas configurations' in (b); do not allow 'sharing of electrons between ions'"
+      ],
+      "model": "(a) An ionic bond is a strong electrostatic attraction between oppositely charged ions.\n(b) A covalent bond is a pair of electrons shared between two atoms.",
+      "tip": "'Pair' is the key word for a covalent bond; 'oppositely charged ions' is the key phrase for an ionic bond."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Describe the bonding in a metal such as magnesium.",
+      "ms": [
+        "positive ions (cations)",
+        "arranged in a (giant) lattice / regular layers",
+        "sea of delocalised electrons",
+        "electrostatic attraction between the positive ions and the delocalised electrons"
+      ],
+      "model": "Magnesium has a giant metallic lattice of positive magnesium ions arranged in regular layers. The ions are surrounded by a 'sea' of delocalised electrons. Metallic bonding is the strong electrostatic attraction between the positive ions and the delocalised electrons.",
+      "tip": "Say 'positive ions', not 'atoms' or 'nuclei', and name the attraction as electrostatic."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Calcium (proton number 20) reacts with chlorine (proton number 17) to form calcium chloride, CaCl₂.\nDescribe how the ions in calcium chloride are formed. Your answer should include the electronic configurations of the ions and their charges. (No diagram is needed.)",
+      "ms": [
+        "calcium atom loses two electrons / two outer-shell electrons",
+        "each chlorine atom gains one electron (so two chlorine atoms needed)",
+        "Ca²⁺ ion with configuration 2,8,8",
+        "Cl⁻ ion with configuration 2,8,8",
+        "oppositely charged ions attract (ionic bonds) — allow as alternative to one of the above"
+      ],
+      "model": "A calcium atom (2,8,8,2) loses its two outer-shell electrons to form a Ca²⁺ ion with configuration 2,8,8. These two electrons are transferred to two chlorine atoms (2,8,7); each chlorine atom gains one electron to form a Cl⁻ ion with configuration 2,8,8. Each ion now has a full outer shell (noble gas configuration), and the oppositely charged ions attract each other by strong electrostatic attraction.",
+      "tip": "In a dot-and-cross diagram for CaCl₂ you must draw TWO chloride ions, each with one cross (calcium's electron) among its eight."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Ethene, C₂H₄, is a simple molecular substance. In an ethene molecule each carbon atom is bonded to the other carbon atom and to two hydrogen atoms.\n(a) State the number of shared pairs of electrons between the two carbon atoms. [1]\n(b) State the total number of shared pairs of electrons in one molecule of ethene. [1]\n(c) State the number of non-bonding (lone) pairs of electrons in one molecule of ethene. [1]\n(d) Ethene boils at −104 °C. Explain why its boiling point is low. [2]",
+      "ms": [
+        "(a) 2 (a double bond)",
+        "(b) 6",
+        "(c) 0 / none",
+        "(d) weak (intermolecular) forces / attractions between molecules",
+        "(d) little energy needed to overcome them; do not allow 'covalent bonds are weak' or 'bonds break' for this mark"
+      ],
+      "model": "(a) Two shared pairs — a C=C double bond.\n(b) Six: two between the carbon atoms and one in each of the four C–H bonds.\n(c) None. Each carbon has 8 outer electrons, all in bonds.\n(d) Ethene is made of simple molecules with only weak intermolecular forces between them. Only a small amount of energy is needed to overcome these forces, so it boils at a low temperature. The covalent bonds inside the molecules do not break.",
+      "tip": "Boiling a simple molecular substance overcomes forces BETWEEN molecules; the covalent bonds stay intact."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The table shows some properties of four substances, A to D.\nsubstance | melting point / °C | conducts when solid? | conducts when molten? | soluble in water?\nA | 1083 | yes | yes | no\nB | 3550 | no | no | no\nC | 714 | no | yes | yes\nD | −95 | no | no | no\n(a) Identify the type of structure of each substance (giant ionic, giant covalent, giant metallic or simple molecular). [4]\n(b) Explain why A conducts electricity when solid. [1]\n(c) Explain why B has a very high melting point. [1]",
+      "ms": [
+        "A: giant metallic / metal",
+        "B: giant covalent",
+        "C: giant ionic",
+        "D: simple molecular",
+        "(b) delocalised electrons (are free to) move through the structure",
+        "(c) many strong covalent bonds (in a giant lattice) must be broken, needing a lot of energy"
+      ],
+      "model": "(a) A is giant metallic, B is giant covalent, C is giant ionic and D is simple molecular.\n(b) A metal contains delocalised electrons that are free to move through the lattice and carry the charge.\n(c) B has a giant structure in which every atom is joined by strong covalent bonds, so a very large amount of energy is needed to break the many bonds.",
+      "tip": "Use both clues: high melting point plus conducting only when molten means ionic; conducting as a solid means metallic."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Diamond and graphite are both forms of carbon with giant covalent structures.\n(a) Describe the structure of graphite. [1]\n(b) Explain why both diamond and graphite have very high melting points. [2]\n(c) Explain, in terms of structure and bonding, why graphite conducts electricity but diamond does not. [3]",
+      "ms": [
+        "(a) layers of (hexagonal) rings of carbon atoms with weak forces between the layers",
+        "(b) giant structures with many strong covalent bonds",
+        "(b) a lot of energy is needed to break these bonds",
+        "(c) in graphite each carbon atom forms (covalent bonds to) three other atoms",
+        "(c) so one electron per atom is delocalised / free to move (along the layers)",
+        "(c) in diamond each carbon atom is bonded to four others, so all outer electrons are used in bonds / there are no free electrons"
+      ],
+      "model": "(a) Graphite is made of flat layers of carbon atoms arranged in hexagonal rings, with weak forces between the layers.\n(b) Both are giant covalent structures in which every carbon atom is held by strong covalent bonds. A very large amount of energy is needed to break the many bonds, so the melting points are very high.\n(c) In graphite each carbon atom is covalently bonded to only three other carbon atoms, so the fourth outer electron of each atom is delocalised and can move along the layers, carrying charge. In diamond each carbon atom is bonded to four others, so all its outer electrons are used in bonding and there are no free electrons to carry charge.",
+      "tip": "Graphite conducts because of delocalised ELECTRONS — never 'ions'."
+    }
+  ]
+}

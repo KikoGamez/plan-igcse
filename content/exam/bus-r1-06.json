@@ -1,0 +1,110 @@
+{
+  "id": "bus-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “penetration pricing”. [2]",
+      "ms": [
+        "Setting a low price (1)",
+        "when a product is first launched, to attract customers / gain market share quickly (1)"
+      ],
+      "model": "Penetration pricing is setting a low price when a new product is launched, in order to attract customers and gain market share quickly.",
+      "tip": "Opposite of price skimming (high launch price)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Identify two aims of promotion. [2]",
+      "ms": [
+        "Inform customers about a new product",
+        "Persuade customers to buy / increase sales",
+        "Remind customers about an existing product",
+        "Create or improve brand image / brand loyalty",
+        "Increase market share / compete with rivals",
+        "Change customer perceptions / reposition a product"
+      ],
+      "model": "1. To inform customers that a new product is available.\n2. To persuade customers to buy the product instead of a competitor’s.",
+      "tip": "Inform, persuade, remind, build brand image — learn these four."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "A cinema raises its ticket price from $8 to $10. The number of tickets sold per week falls from 5 000 to 4 500.\n\nCalculate the change in weekly revenue and state whether demand is price-elastic or price-inelastic. [3]",
+      "ms": [
+        "M1: revenue before = 5 000 × 8 = $40 000 and revenue after = 4 500 × 10 = $45 000",
+        "A1: revenue rises by $5 000",
+        "B1: demand is price-inelastic (percentage fall in quantity (10%) is smaller than percentage rise in price (25%)/revenue rose when price rose) — allow ecf from wrong revenue figures"
+      ],
+      "model": "Revenue before = 5 000 × $8 = $40 000.\nRevenue after = 4 500 × $10 = $45 000.\nRevenue rises by $5 000. Demand is price-inelastic, because quantity fell by only 10% while price rose by 25%, so revenue increased.",
+      "tip": "If revenue rises when price rises, demand is price-inelastic."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lotus Crafts sells hand-made candles from a small shop. It is considering also selling through its own website.\n\nOutline two benefits to Lotus Crafts of e-commerce. [4]",
+      "ms": [
+        "First benefit identified (1)",
+        "First benefit developed/explained (1)",
+        "Second benefit identified (1)",
+        "Second benefit developed/explained (1)",
+        "e.g. Reach a wider/global market (1) — customers in other towns/countries can buy the candles, increasing sales (1)",
+        "e.g. Open 24 hours a day (1) — sales can be made when the shop is closed (1)",
+        "e.g. Lower costs than opening more shops (1) — no extra rent or shop staff, improving profit margin (1)",
+        "e.g. Collect customer data (1) — target promotions by email/social media (1)",
+        "e.g. Can respond quickly to changes in demand / update prices and products easily (1)"
+      ],
+      "model": "First, Lotus Crafts could reach customers anywhere in the country, not just people who walk past its shop, so it could increase its sales without opening new branches.\nSecond, the website is open 24 hours a day, so customers can order candles in the evening or at weekends when the shop is closed, and the business avoids the extra rent and wages of a second shop.",
+      "tip": "Practice questions often ask about consumers — read carefully: this is about the business."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "OakHome makes high-quality wooden furniture in a small workshop. At the moment it sells only to customers who visit the workshop. It wants to increase sales.\n\nExplain two factors OakHome should consider when choosing a new distribution channel. [6]",
+      "ms": [
+        "First factor — K: valid factor identified (1)",
+        "First factor — App: applied to the business in the question (1)",
+        "First factor — An: consequence for the business explained (1)",
+        "Second factor — K: valid factor identified (1)",
+        "Second factor — App: applied to the business in the question (1)",
+        "Second factor — An: consequence for the business explained (1)",
+        "e.g. Type of product (K) — large, heavy, expensive furniture (App) — needs careful delivery/display; customers may want to see/touch it, so selling via a furniture retailer or showroom may suit better than a wholesaler (An)",
+        "e.g. Cost of the channel / retailer’s mark-up (K) — retailer takes a share of the price (App) — reduces OakHome’s profit per item unless it raises prices (An)",
+        "e.g. Location and spread of target customers (K) — customers far from the workshop (App) — online sales with delivery reach more customers (An)",
+        "e.g. Control over how products are sold and presented (K) — high-quality image (App) — direct selling keeps control; retailers may not explain craftsmanship (An)",
+        "e.g. Distribution used by competitors / customer expectations (K)",
+        "e.g. Size of business and capacity to deliver (K) — small workshop may not meet large orders from a chain store (App/An)"
+      ],
+      "model": "First, OakHome should consider the type of product. Its furniture is large, heavy and expensive, so customers usually want to see and touch it before buying and need safe delivery. Selling through independent furniture showrooms could therefore be better than relying only on photographs online, because customers would be more confident about the quality and more likely to buy.\nSecond, it should consider the cost of the channel. A retailer would add its own mark-up or ask OakHome for a lower price, so OakHome would earn less profit on each table. Selling directly through its own website keeps all of the price, but OakHome would have to pay for the website and delivery, so it must compare the extra costs with the extra sales.",
+      "tip": "Each factor needs an effect on OakHome: sales, costs, profit or image."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "StarForge is a games developer launching a new game for a popular console. The game has had huge publicity, and many fans have pre-ordered it. Similar games are sold at $60. Development cost $3 million.\n\nShould StarForge use price skimming or penetration pricing for its new game? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Skimming: high launch price, e.g. above $60 → high revenue per unit, recovers $3 m development cost quickly; publicity and pre-orders show strong demand from loyal fans who will pay more (price-inelastic); creates premium image",
+        "Skimming drawbacks: some price-sensitive buyers wait or buy rival games; may encourage competitors; negative reviews if seen as too expensive",
+        "Penetration: low price below $60 → many sales quickly, large player base and market share (useful for online multiplayer/add-on sales); but lower revenue per unit, slower recovery of $3 m; harder to raise price later; may suggest lower quality",
+        "Ev: justified decision, e.g. skimming because demand is high and inelastic, then lower price later to reach other buyers; or penetration if the game relies on many players buying in-game items"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both methods applied to StarForge, with a justified decision explaining why it is better or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one method applied to StarForge; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of pricing methods with little application."
+        }
+      ],
+      "model": "Price skimming means launching at a high price, for example $70 instead of the usual $60. Because the game has had huge publicity and many fans have already pre-ordered, demand is likely to be price-inelastic: keen fans will pay more to play it first. Each sale would earn more revenue, helping StarForge recover the $3 million development cost quickly, and a high price supports a premium image. The risk is that price-sensitive gamers may wait or buy a rival game.\nPenetration pricing, for example $45, would attract more buyers quickly and build a large number of players. However, StarForge would earn less per copy and take longer to cover its costs, and fans who would happily pay $60 or more would be paying less than they are willing to.\nI recommend skimming, because the pre-orders show strong demand from loyal fans, so a high price is unlikely to reduce sales much. StarForge can then lower the price after a few months to attract more price-sensitive customers. Penetration would only be better if most of StarForge’s profit came from in-game purchases, where having as many players as possible matters more than the price of the game.",
+      "tip": "Use the clues in the case: publicity, pre-orders and the $3 million cost all point to strong demand."
+    }
+  ]
+}

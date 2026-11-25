@@ -1,0 +1,84 @@
+{
+  "id": "spa-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Copie la frase y añada las tildes necesarias.\n\nEl miercoles fuimos a ver a Ines al hospital y le llevamos un te.",
+      "ms": [
+        "miércoles",
+        "Inés",
+        "té (sustantivo, la bebida) [penalizar cualquier tilde añadida incorrectamente (p. ej. *fuímos, *hospitál)]"
+      ],
+      "model": "El miércoles fuimos a ver a Inés al hospital y le llevamos un té.",
+      "tip": "«té» (bebida) lleva tilde diacrítica; «te» (pronombre) no: «te llamo»."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explique por qué la palabra «baúl» lleva tilde y por qué la palabra «guion» no la lleva, según las normas actuales de la RAE.",
+      "ms": [
+        "baúl: hiato con vocal cerrada tónica (ú) junto a vocal abierta → siempre lleva tilde (aunque sea aguda terminada en -l)",
+        "guion: se considera monosílaba a efectos ortográficos (diptongo io) y los monosílabos no llevan tilde"
+      ],
+      "model": "«Baúl» tiene un hiato: la u es una vocal cerrada tónica junto a la a, y en ese caso siempre se escribe tilde, aunque por la regla general (aguda terminada en -l) no la llevaría. «Guion», en cambio, se considera monosílaba a efectos ortográficos, porque «io» forma diptongo, y los monosílabos no llevan tilde.",
+      "tip": "La regla del hiato (í, ú tónicas junto a vocal abierta) se impone a las reglas generales."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Corrija la puntuación (y la ortografía, si es necesario) de estas frases.\n\n(a) Querido Juan, te escribo para contarte una noticia.\n(b) Madrid que es la capital de España tiene muchos museos.\n(c) Que hora es\n(d) No vino a clase sin embargo hizo el examen.",
+      "ms": [
+        "(a) Querido Juan: (dos puntos tras el saludo de la carta)",
+        "(b) Madrid, que es la capital de España, tiene muchos museos. (inciso entre comas)",
+        "(c) ¿Qué hora es? (signos de apertura y cierre + tilde en «qué»)",
+        "(d) No vino a clase; sin embargo, hizo el examen. (aceptar punto en lugar de punto y coma; coma tras «sin embargo»)"
+      ],
+      "model": "(a) Querido Juan: te escribo para contarte una noticia.\n(b) Madrid, que es la capital de España, tiene muchos museos.\n(c) ¿Qué hora es?\n(d) No vino a clase; sin embargo, hizo el examen.",
+      "tip": "Los conectores como «sin embargo» van precedidos de punto y coma (o punto) y seguidos de coma."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Elija la forma correcta en cada frase.\n\n(a) No sé (qué / que) regalarle por su cumpleaños.\n(b) Me preguntó (dónde / donde) vivía mi familia.\n(c) (Cuándo / Cuando) llegues a casa, llámame.\n(d) Hazlo (cómo / como) te ha dicho el profesor.",
+      "ms": [
+        "(a) qué (interrogativa indirecta)",
+        "(b) dónde (interrogativa indirecta)",
+        "(c) Cuando (conjunción temporal, no es pregunta)",
+        "(d) como (modo, no es pregunta)"
+      ],
+      "model": "(a) No sé qué regalarle por su cumpleaños.\n(b) Me preguntó dónde vivía mi familia.\n(c) Cuando llegues a casa, llámame.\n(d) Hazlo como te ha dicho el profesor.",
+      "tip": "Si puede transformar la frase en una pregunta directa («¿Qué le regalo?»), lleva tilde aunque no haya signos ¿?."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "El siguiente párrafo contiene seis errores de ortografía, acentuación o puntuación. Identifíquelos y corríjalos.\n\nEl sabado pasado, mis amigos y yo, fuimos a la sierra. Decidimos subir hasta el pico más alto por qué hacía buen tiempo. Desde alli se veía todo el valle. Cuando llegamos arriba, Marta dijo: «no puedo más». A ver si la próxima vez vamos en Julio.",
+      "ms": [
+        "sabado → sábado (esdrújula)",
+        "suprimir la coma entre el sujeto y el verbo: «mis amigos y yo fuimos»",
+        "por qué → porque (causa, no pregunta)",
+        "alli → allí (aguda terminada en vocal)",
+        "«no puedo más» → «No puedo más» (mayúscula tras dos puntos en una cita directa)",
+        "Julio → julio (los meses van en minúscula)"
+      ],
+      "model": "El sábado pasado, mis amigos y yo fuimos a la sierra. Decidimos subir hasta el pico más alto porque hacía buen tiempo. Desde allí se veía todo el valle. Cuando llegamos arriba, Marta dijo: «No puedo más». A ver si la próxima vez vamos en julio.",
+      "tip": "Revise sus textos en tres pasadas: tildes, puntuación y confusiones (porque/por qué, haber/a ver)."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Escriba el plural de cada palabra y explique, aplicando las reglas generales de acentuación, por qué cambia (o no) la tilde.\n\n(a) joven\n(b) canción\n(c) carácter",
+      "ms": [
+        "(a) jóvenes",
+        "(a) joven es llana terminada en -n (sin tilde); jóvenes es esdrújula, y las esdrújulas siempre llevan tilde",
+        "(b) canciones",
+        "(b) canción es aguda terminada en -n (con tilde); canciones es llana terminada en -s (sin tilde)",
+        "(c) caracteres",
+        "(c) el acento se desplaza (ca-rac-TE-res): pasa a ser llana terminada en -s, por eso no lleva tilde"
+      ],
+      "model": "(a) Jóvenes. «Joven» es llana y termina en -n, así que no lleva tilde; al añadir una sílaba, «jóvenes» se convierte en esdrújula y las esdrújulas siempre la llevan.\n(b) Canciones. «Canción» es aguda terminada en -n y por eso lleva tilde; «canciones» es llana terminada en -s, así que no la lleva.\n(c) Caracteres. En el plural la sílaba tónica cambia de lugar (ca-rac-te-res, con acento en «te»); es una palabra llana terminada en -s, por lo que no lleva tilde.",
+      "tip": "En el plural la sílaba tónica suele mantenerse, pero la palabra cambia de categoría (aguda → llana, llana → esdrújula)."
+    }
+  ]
+}

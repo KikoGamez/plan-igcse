@@ -1,0 +1,84 @@
+{
+ "id": "ger-r1-07",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Welches Wort passt nicht in die Gruppe?\n(a) die Gurke – die Kartoffel – die Zwiebel – die Gabel\n(b) das Bein – das Knie – das Kissen – der Arm\n(c) der Rock – das Hemd – die Mütze – der Herd",
+   "ms": [
+    "(a) die Gabel (fork; the others are vegetables)",
+    "(b) das Kissen (cushion/pillow; the others are body parts)",
+    "(c) der Herd (cooker; the others are clothes)"
+   ],
+   "model": "(a) die Gabel (b) das Kissen (c) der Herd",
+   "tip": "Learn nouns in topic groups with their article: it makes odd-one-out and matching tasks easy."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Lesen Sie: „Normalerweise kommt der Bus um Viertel nach drei, aber heute hat er zwanzig Minuten Verspätung.“\n(a) Um wie viel Uhr kommt der Bus normalerweise?\n(b) Um wie viel Uhr kommt der Bus heute?",
+   "ms": [
+    "(a) 3.15 / 15.15 (Viertel nach drei)",
+    "(b) 3.35 / 15.35"
+   ],
+   "model": "(a) Um 15.15 Uhr. (b) Um 15.35 Uhr.",
+   "tip": "Viertel nach = quarter past; Viertel vor = quarter to; halb vier = 3.30."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie, was die Jugendlichen sagen. Welche Aktivität (A–F) passt zu wem? Es gibt zwei Aktivitäten zu viel.\n1 Lukas: „Ich esse sehr gern, aber Sport finde ich langweilig. Ich möchte lernen, wie man Pizza macht.“\n2 Mia: „Ich bin gern an der frischen Luft, und Pferde sind meine Lieblingstiere.“\n3 Jonas: „Ich höre jeden Tag Rockmusik und spiele selbst E-Gitarre.“\n4 Sara: „Ich interessiere mich für Geschichte und alte Gemälde.“\nA Reiten auf dem Bauernhof  B Kochkurs für Jugendliche  C Rockkonzert im Stadtpark  D Schwimmbad mit Rutsche  E Museum für Kunst und Geschichte  F Tanzschule",
+   "ms": [
+    "1 B",
+    "2 A",
+    "3 C",
+    "4 E"
+   ],
+   "model": "1 B  2 A  3 C  4 E",
+   "tip": "Look for meaning, not identical words: Pferde → Reiten; Gemälde → Kunst."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie die E-Mail und wählen Sie die richtige Antwort (A, B oder C).\n„Hallo Tom, ich wohne mit meiner Mutter, meinem Stiefvater und meinen zwei Halbschwestern in einem Reihenhaus am Stadtrand. Mein Zimmer ist klein, aber gemütlich; leider muss ich es mit meinem Hund teilen, der immer auf meinem Bett schläft! Mein Stiefvater ist Koch, deshalb essen wir abends immer zusammen. Am Wochenende helfe ich im Garten oder ich gehe mit meiner besten Freundin einkaufen – wir kaufen meistens Ohrringe oder Turnschuhe. Bis bald, Lea“\n(a) Wo wohnt Lea?  A in der Stadtmitte  B am Stadtrand  C auf dem Land\n(b) Wer schläft auf Leas Bett?  A ihre Halbschwester  B ihr Hund  C ihre Freundin\n(c) Was ist Leas Stiefvater von Beruf?  A Koch  B Gärtner  C Verkäufer\n(d) Was kauft Lea meistens?  A Kleider und Röcke  B Schmuck und Schuhe  C Bücher und Zeitschriften",
+   "ms": [
+    "(a) B",
+    "(b) B",
+    "(c) A",
+    "(d) B"
+   ],
+   "model": "(a) B (b) B (c) A (d) B",
+   "tip": "Ohrringe are Schmuck (jewellery), Turnschuhe are Schuhe: matching often needs a general word for specific items."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 2 (Reading) style. Lesen Sie das Interview und beantworten Sie die Fragen auf Deutsch.\n„Früher habe ich jeden Tag Chips gegessen und Cola getrunken. Dann hatte ich oft Bauchschmerzen und war immer müde. Jetzt frühstücke ich jeden Morgen Müsli mit Obst, und mittags esse ich in der Schulkantine, wo es immer Salat gibt. Ich fahre mit dem Rad zur Schule, obwohl es zwanzig Minuten dauert – mit dem Bus wäre es schneller, aber der ist morgens immer voll. Mein Problem ist der Schlaf: Ich spiele abends zu lange am Handy und gehe oft erst um Mitternacht ins Bett.“ (Max, 16)\n(a) Was hat Max früher gegessen und getrunken? [1]\n(b) Welche zwei Probleme hatte er damals? [2]\n(c) Was isst er jetzt zum Frühstück? [1]\n(d) Warum fährt er nicht mit dem Bus? [1]\n(e) Warum geht er spät ins Bett? [1]",
+   "ms": [
+    "(a) Chips und Cola (both needed)",
+    "(b) Bauchschmerzen [1]",
+    "(b) er war (immer) müde [1]",
+    "(c) Müsli mit Obst (Müsli alone acceptable)",
+    "(d) der Bus ist (morgens) immer voll",
+    "(e) er spielt (abends) zu lange am Handy"
+   ],
+   "model": "(a) Chips und Cola. (b) Er hatte oft Bauchschmerzen und war immer müde. (c) Müsli mit Obst. (d) Weil der Bus morgens immer voll ist. (e) Er spielt abends zu lange am Handy.",
+   "tip": "„wäre schneller“ is a distractor: the reason he does not take the bus comes after aber."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 4 Writing style. Sie fahren bald zu einer Gastfamilie in Deutschland. Schreiben Sie eine E-Mail (etwa 60 Wörter) an die Familie.\n• Was essen Sie gern und was nicht?\n• Was machen Sie in Ihrer Freizeit?\n• Beschreiben Sie Ihr Zuhause.",
+   "ms": [
+    "Bullet 1: food likes and dislikes communicated [1]",
+    "with accurate vocabulary/gern-nicht gern or a reason [1]",
+    "Bullet 2: leisure activity communicated [1]",
+    "developed with frequency, opinion or reason [1]",
+    "Bullet 3: home described (type of house, rooms, location) [1]",
+    "with accurate detail, e.g. adjective endings or prepositions [1]"
+   ],
+   "model": "Liebe Familie Weber,\nich freue mich sehr auf meinen Besuch! Ich esse gern Nudeln und Hähnchen, aber ich esse keinen Fisch, weil ich allergisch bin. In meiner Freizeit spiele ich zweimal pro Woche Volleyball und ich lese gern. Ich wohne mit meinen Eltern in einer Wohnung im dritten Stock. Wir haben drei Schlafzimmer und einen kleinen Balkon.\nBis bald!\nCarla",
+   "tip": "Each bullet earns more if you add one detail: how often, why, or what it is like."
+  }
+ ]
+}

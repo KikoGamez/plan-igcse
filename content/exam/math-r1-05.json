@@ -1,0 +1,81 @@
+{
+  "id": "math-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Solve (x + 7)/3 = (2x − 1)/5.",
+      "ms": [
+        "M1: 5(x + 7) = 3(2x − 1) or 5x + 35 = 6x − 3",
+        "A1: x = 38"
+      ],
+      "model": "Multiply both sides by 15: 5(x + 7) = 3(2x − 1)\n5x + 35 = 6x − 3\n38 = x, so x = 38.",
+      "tip": "Cross-multiplying puts each numerator in a bracket: 5(x + 7), not 5x + 7."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Make h the subject of the formula A = 2πr² + 2πrh.",
+      "ms": [
+        "M1: A − 2πr² = 2πrh",
+        "A1: h = (A − 2πr²)/(2πr) oe, e.g. h = A/(2πr) − r"
+      ],
+      "model": "A − 2πr² = 2πrh\nh = (A − 2πr²)/(2πr)",
+      "tip": "Subtract the term without h first, then divide by everything multiplying h."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Solve the simultaneous equations. You must show all your working.\n5x + 2y = 3\n3x − 4y = 20",
+      "ms": [
+        "M1: multiplies one or both equations to make the coefficients of one variable equal, e.g. 10x + 4y = 6",
+        "M1: correctly adds/subtracts to eliminate one variable, e.g. 13x = 26",
+        "A1: x = 2",
+        "A1: y = −3.5 (or −7/2)"
+      ],
+      "model": "Multiply the first equation by 2: 10x + 4y = 6\nAdd to 3x − 4y = 20: 13x = 26, so x = 2.\nSubstitute: 5(2) + 2y = 3 → 2y = −7 → y = −3.5.\nCheck in the second equation: 3(2) − 4(−3.5) = 6 + 14 = 20 ✓",
+      "tip": "Different signs on the y-terms, so add the equations."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A rectangle has length (3x − 2) cm and width (x + 4) cm. Its perimeter is 52 cm.\n(a) Write down an equation in x and solve it. [3]\n(b) Find the area of the rectangle. [1]",
+      "ms": [
+        "(a) M1: 2(3x − 2) + 2(x + 4) = 52 oe",
+        "(a) M1: simplifies to 8x + 4 = 52 or better",
+        "(a) A1: x = 6",
+        "(b) B1: 160 cm² FT their x if positive lengths"
+      ],
+      "model": "(a) 2(3x − 2) + 2(x + 4) = 52\n6x − 4 + 2x + 8 = 52\n8x + 4 = 52 → 8x = 48 → x = 6.\n(b) Length = 16 cm, width = 10 cm, area = 16 × 10 = 160 cm².",
+      "tip": "Perimeter uses both lengths and both widths; using only one of each halves your equation."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Make x the subject of the formula y = √((x + 2)/(x − 3)).",
+      "ms": [
+        "B1: y² = (x + 2)/(x − 3)",
+        "M1: y²(x − 3) = x + 2 (multiplies out the fraction)",
+        "M1: collects the x terms on one side, e.g. xy² − x = 3y² + 2",
+        "M1: factorises x, e.g. x(y² − 1) = 3y² + 2",
+        "A1: x = (3y² + 2)/(y² − 1) oe"
+      ],
+      "model": "Square both sides: y² = (x + 2)/(x − 3)\nMultiply by (x − 3): xy² − 3y² = x + 2\nCollect x terms: xy² − x = 3y² + 2\nFactorise: x(y² − 1) = 3y² + 2\nx = (3y² + 2)/(y² − 1)",
+      "tip": "When the subject appears twice, collect both x terms on one side and then factorise x out."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Solve the simultaneous equations.\ny = 2x + 1\nxy = 15",
+      "ms": [
+        "M1: substitutes to get x(2x + 1) = 15",
+        "M1: rearranges to 2x² + x − 15 = 0",
+        "M1: correct factorisation (2x − 5)(x + 3) or correct formula substitution",
+        "A1: x = 2.5, y = 6",
+        "A1: x = −3, y = −5"
+      ],
+      "model": "Substitute y = 2x + 1: x(2x + 1) = 15\n2x² + x − 15 = 0\n(2x − 5)(x + 3) = 0\nx = 2.5 → y = 2(2.5) + 1 = 6\nx = −3 → y = 2(−3) + 1 = −5\nSolutions: x = 2.5, y = 6 and x = −3, y = −5.",
+      "tip": "Give the answers as pairs; a lone list of x values loses the final marks."
+    }
+  ]
+}

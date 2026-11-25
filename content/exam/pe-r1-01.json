@@ -1,0 +1,85 @@
+{
+ "id": "pe-r1-01",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A footballer kicks a ball. Name the two bones that form the knee joint and move against each other.",
+   "ms": [
+    "femur (1)",
+    "tibia (1)",
+    "accept patella as one of the two; do not accept fibula"
+   ],
+   "model": "The femur and the tibia.",
+   "tip": "The fibula is in the lower leg but is not part of the knee joint."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Give one example of a fixed (fibrous) joint and one example of a slightly movable (cartilaginous) joint in the body.",
+   "ms": [
+    "fixed: between the bones of the cranium (sutures of the skull) / pelvis (sacrum) (1)",
+    "slightly movable: between the vertebrae (intervertebral discs) / between ribs and sternum (1)"
+   ],
+   "model": "A fixed joint is found between the bones of the cranium. A slightly movable joint is found between the vertebrae of the spine.",
+   "tip": "Name a location, not just 'the skull' or 'the back'."
+  },
+  {
+   "lvl": 2,
+   "marks": 3,
+   "q": "A volleyball player jumps to block a smash at the net. Name the movement that occurs at each joint:\n(a) the shoulder, as she raises her straight arms sideways and up above her head [1]\n(b) the knee, as her legs straighten during the take-off [1]\n(c) the ankle, as she points her toes while in the air [1]",
+   "ms": [
+    "(a) abduction (1)",
+    "(b) extension (1)",
+    "(c) plantar flexion (1)"
+   ],
+   "model": "(a) Abduction at the shoulder.\n(b) Extension at the knee.\n(c) Plantar flexion at the ankle.",
+   "tip": "Abduction = away from the midline; plantar flexion = pointing the toes."
+  },
+  {
+   "lvl": 2,
+   "marks": 3,
+   "q": "One function of the skeleton is the production of red blood cells.\nExplain why this function is important to a marathon runner.",
+   "ms": [
+    "red blood cells are made in the bone marrow (of long/flat bones) (1)",
+    "they contain haemoglobin which carries oxygen (1)",
+    "more oxygen delivered to the working muscles (1)",
+    "for aerobic respiration / to release energy over a long period / delays fatigue (1)",
+    "max 3"
+   ],
+   "model": "Red blood cells are produced in the bone marrow of bones such as the femur. They contain haemoglobin, which carries oxygen from the lungs to the working muscles. The marathon runner needs a constant oxygen supply for aerobic respiration, so she can keep producing energy for over two hours without tiring early.",
+   "tip": "Link the skeleton to oxygen transport and then to the demands of the event."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "A rugby player is tackled and lands heavily on his shoulder.\n(a) Name the two bones that form the shoulder joint. [2]\n(b) Name the type of synovial joint at the shoulder. [1]\n(c) Explain why the shoulder is more likely to dislocate than the elbow. [2]",
+   "ms": [
+    "(a) humerus (1)",
+    "(a) scapula (1)",
+    "(b) ball and socket (1)",
+    "(c) the shoulder has a large range of movement / can move in all directions (1)",
+    "(c) the socket is shallow / fewer bony restrictions so it is less stable (1)",
+    "(c) the elbow is a hinge joint held tightly by bones and ligaments, moving in one direction only, so it is more stable (1)",
+    "(c) max 2"
+   ],
+   "model": "(a) The humerus and the scapula.\n(b) A ball and socket joint.\n(c) The shoulder allows a very large range of movement because the socket of the scapula is shallow. This makes it less stable, so a heavy force can push the head of the humerus out of the socket. The elbow is a hinge joint that only moves in one plane and is held tightly by the bones and ligaments, so it is more stable.",
+   "tip": "Range of movement and stability are opposites: the more mobile a joint, the less stable."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "For each of the following bones, state whether it is a long, short or flat bone, and explain one function of the bone in a named sporting action.\n(a) scapula [2]\n(b) tibia [2]\n(c) tarsals [2]",
+   "ms": [
+    "(a) flat (1)",
+    "(a) broad surface for muscle attachment for arm movement, e.g. throwing a javelin / protects the upper back, e.g. in a rugby tackle (1)",
+    "(b) long (1)",
+    "(b) acts as a lever for movement, e.g. kicking/running / supports body weight, e.g. landing from a jump / produces red blood cells (1)",
+    "(c) short (1)",
+    "(c) support and stability / absorb shock / bear weight, e.g. landing in gymnastics or sprinting on the balls of the feet (1)"
+   ],
+   "model": "(a) The scapula is a flat bone. Its broad surface gives a large area for muscles such as the deltoid and trapezius to attach, so the arm can be moved powerfully when throwing a javelin.\n(b) The tibia is a long bone. It acts as a lever so the leg can be moved quickly when a footballer runs and kicks, and it supports the body's weight.\n(c) The tarsals are short bones. They are strong and give support and stability, absorbing the force when a gymnast lands from a vault.",
+   "tip": "Each part needs a type AND a function linked to a real sporting action."
+  }
+ ]
+}

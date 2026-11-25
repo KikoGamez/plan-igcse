@@ -1,0 +1,97 @@
+{
+ "id": "pe-r1-10",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State one function of fats in the diet and give one food source of fats.",
+   "ms": [
+    "function: source of energy (especially for low-intensity, long-duration activity) / insulation / protects organs / carries some vitamins (1)",
+    "source: e.g. butter, oil, cheese, oily fish, nuts, red meat (1)"
+   ],
+   "model": "Fats provide energy, especially for low-intensity exercise lasting a long time. A source is olive oil.",
+   "tip": "Fats are a slow-release energy source, not the main fuel for high-intensity exercise."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two functions of water in the body of a performer.",
+   "ms": [
+    "regulates body temperature (sweating) (1)",
+    "transports nutrients / oxygen in the blood (plasma) (1)",
+    "removes waste products (e.g. in urine) (1)",
+    "prevents dehydration / maintains blood volume (1)",
+    "max 2"
+   ],
+   "model": "Water controls body temperature through sweating and transports nutrients and waste products in the blood.",
+   "tip": "Give two different functions, not two examples of the same one."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Describe what is meant by a balanced diet. [2]\n(b) Explain why a tennis player needs plenty of carbohydrate in her diet. [2]",
+   "ms": [
+    "(a) eating the correct amounts/proportions of all nutrients (1)",
+    "(a) carbohydrates, fats, proteins, vitamins, minerals, fibre and water (allow 'all food groups') (1)",
+    "(a) energy intake matches energy used (energy balance) (1)",
+    "max 2 for (a)",
+    "(b) carbohydrate is the main source of energy (1)",
+    "(b) stored as glycogen in the muscles and liver / converted to glucose for respiration (1)",
+    "(b) so she has energy for a long match / delays fatigue / keeps high intensity in rallies (1)",
+    "max 2 for (b)"
+   ],
+   "model": "(a) A balanced diet contains all the nutrients (carbohydrates, fats, proteins, vitamins, minerals, fibre and water) in the correct proportions, with energy intake matching energy output.\n(b) Carbohydrate is the body's main energy source. It is stored as glycogen in the muscles and liver, and broken down to glucose for respiration, so she has enough energy to keep playing intense rallies throughout a long match.",
+   "tip": "'Correct proportions' is the key phrase in the definition of a balanced diet."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A 16-year-old basketball player takes in 12 000 kJ of energy a day from food but uses 13 500 kJ a day.\n(a) Explain what will happen to her body mass if this continues. [2]\nShe is later injured and cannot train, but continues to eat the same amount of food.\n(b) Explain what will happen to her body mass now. [2]",
+   "ms": [
+    "(a) she uses more energy than she takes in (negative energy balance) (1)",
+    "(a) stored energy (fat/glycogen) is used, so she loses weight / body mass falls (1)",
+    "(a) may lack energy/feel tired, so performance suffers (1)",
+    "max 2 for (a)",
+    "(b) her energy use falls, so intake is now greater than output (positive energy balance) (1)",
+    "(b) unused energy is stored as fat, so she gains weight (1)"
+   ],
+   "model": "(a) She uses 1500 kJ a day more than she takes in, so she has a negative energy balance. Her body uses its energy stores, such as fat, so her body mass will decrease.\n(b) When injured she uses much less energy, but her intake stays the same, so she now has a positive energy balance. The unused energy is stored as fat and she will gain weight.",
+   "tip": "Energy balance = energy in compared with energy out."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain why the following people have different daily energy needs:\n• a 15-year-old male rugby player\n• a 15-year-old female who does very little exercise\n• a 9-year-old child",
+   "ms": [
+    "the rugby player is active / trains, so uses more energy than the inactive female (1)",
+    "activity level: active people need more energy than sedentary people (1)",
+    "males usually have a larger body size/more muscle mass than females, so need more energy (1)",
+    "teenagers are going through a growth spurt / puberty, so need more energy for growth (1)",
+    "teenagers are larger than children, so need more energy than a 9-year-old (1)",
+    "the 9-year-old has a smaller body size so needs less energy overall (but still needs energy for growth and play) (1)",
+    "rugby player has the highest needs, child the lowest (or a valid ranking with reasons) (1)",
+    "max 6"
+   ],
+   "model": "The rugby player needs the most energy. He is very active, so he uses much more energy in training and matches than someone who exercises very little. Males usually have a larger body size and more muscle mass than females, which also increases energy needs. Both teenagers are going through a growth spurt, so they need extra energy for growth. The 9-year-old has a much smaller body, so overall needs less energy than either teenager, even though children are often active.",
+   "tip": "Use the three syllabus comparisons: male v female, teenager v child, active v sedentary."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain how carbohydrate from food is used and stored by a marathon runner, and why she may slow down suddenly at about 30 km ('hitting the wall'). Suggest one way she could reduce the chance of this happening.",
+   "ms": [
+    "carbohydrate is broken down (digested) into glucose (1)",
+    "glucose is used in (aerobic) respiration in the muscles to release energy (1)",
+    "excess glucose is stored as glycogen (1)",
+    "glycogen is stored in the muscles and liver (1)",
+    "glycogen is converted back to glucose when needed during exercise (1)",
+    "at around 30 km glycogen stores run out / are used up (1)",
+    "body must rely on fat, which releases energy more slowly, so she must slow down / feels fatigue (1)",
+    "suggestion: carbohydrate loading in the days before the race / high-carbohydrate meal / sports drinks or gels during the race (1)",
+    "max 6"
+   ],
+   "model": "Carbohydrate is digested into glucose, which is carried in the blood to the muscles and used in aerobic respiration to release energy. Glucose that is not needed straight away is stored as glycogen in the muscles and the liver. During the race glycogen is converted back into glucose. By about 30 km her glycogen stores may be almost used up. Her body then has to rely more on fat, which releases energy more slowly, so she has to slow down and feels very tired. She can reduce the risk by carbohydrate loading in the days before the race and by taking sports drinks or energy gels during the race.",
+   "tip": "Use the words glucose, glycogen, muscles and liver accurately."
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "geo-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between population distribution and population density.",
+      "ms": [
+        "distribution: the way people are spread out / where people live across an area",
+        "density: the (average) number of people living in a given area, e.g. per km²"
+      ],
+      "model": "Population distribution is the pattern of where people live, how they are spread across an area. Population density is the average number of people per square kilometre.",
+      "tip": "Density always needs a unit: people per km²."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) refugee [1]\n(b) economic migrant. [1]",
+      "ms": [
+        "(a) a person forced to leave their country because of war / persecution / natural disaster (and who cannot safely return)",
+        "(b) a person who moves (voluntarily) to find work / a better income / higher standard of living"
+      ],
+      "model": "(a) A refugee is someone who has been forced to leave their home country because of war, persecution or disaster and fears for their safety.\n(b) An economic migrant is someone who chooses to move to find work or earn higher wages.",
+      "tip": "Refugees are forced; economic migrants choose to move."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "Region P has a population of 2,400,000 and an area of 1,200 km². Region Q has a population of 180,000 and an area of 9,000 km².\n(a) Calculate the population density of each region. [2]\n(b) How many times more densely populated is Region P than Region Q? [1]",
+      "ms": [
+        "(a) P: 2,000 people per km² (2,400,000 ÷ 1,200)",
+        "(a) Q: 20 people per km² (180,000 ÷ 9,000)",
+        "(b) 100 times (ecf from (a))"
+      ],
+      "model": "(a) Region P: 2,400,000 ÷ 1,200 = 2,000 people per km². Region Q: 180,000 ÷ 9,000 = 20 people per km².\n(b) 2,000 ÷ 20 = 100, so Region P is 100 times more densely populated.",
+      "tip": "Divide people by area, never area by people, and include the units."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain why some areas of the world are densely populated.",
+      "ms": [
+        "flat / lowland areas (1) – easy to build on and farm / for transport (dev 1)",
+        "fertile soils, e.g. river floodplains / deltas such as the Ganges (1) – good for farming, feeds many people (dev 1)",
+        "reliable water supply from rivers / adequate rainfall (1)",
+        "moderate / temperate climate (1)",
+        "jobs in industry / services in cities (1) attract people (dev 1)",
+        "coastal / port locations good for trade (1)",
+        "natural resources, e.g. coal / minerals, created industrial areas (1)"
+      ],
+      "model": "Many densely populated areas are on flat, low land such as river floodplains and deltas, for example the Ganges delta. The land is easy to build on and the fertile alluvial soil can grow enough food to support many people. These areas also have a reliable water supply from rivers. Cities and ports are also densely populated because they offer jobs in industry and services and good transport links for trade, which attract migrants.",
+      "tip": "Give both physical and human reasons and say WHY each attracts people."
+    },
+    {
+      "lvl": 3,
+      "marks": 4,
+      "q": "Most people who flee a conflict move to a neighbouring country rather than to a country far away. Suggest reasons why.",
+      "ms": [
+        "they often travel on foot / by road, so nearby countries are easiest to reach (1)",
+        "they have little money – long-distance travel (flights) is too expensive (1)",
+        "they must leave quickly / in an emergency (1)",
+        "similar language / culture / religion / family links across the border (1)",
+        "they hope to return home when the conflict ends, so stay close (1)",
+        "refugee camps / aid (e.g. UNHCR) are set up near the border (1)",
+        "distant countries have strict visa / border controls (1)"
+      ],
+      "model": "Refugees usually have to leave in a hurry and often travel on foot or by road, so a neighbouring country is the quickest and cheapest place to reach. Many have lost their savings and cannot pay for long journeys or flights. Neighbouring countries may share a language, culture or relatives, which makes it easier to settle, and refugee camps run by aid agencies are often set up near the border. Many refugees also hope to go home when the fighting stops, so they want to stay close.",
+      "tip": "'Suggest' means give sensible reasons; each different reason earns a mark."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named example of international migration, explain why people migrated.",
+      "ms": [
+        "push factors at the source, e.g. Syria: civil war from 2011, bombing and destroyed homes / towns, fear of death or persecution",
+        "economic push factors: collapse of jobs / services, unemployment, low wages",
+        "pull factors at the destination, e.g. Germany / Sweden: safety and peace, jobs, welfare / education, existing family and communities",
+        "government policy, e.g. Germany accepted over a million asylum seekers in 2015",
+        "intervening obstacles or routes mentioned (journey via Turkey / Greece / Balkans)",
+        "alternative cases credited: Mexico → USA (low wages, unemployment, drug violence; higher wages, jobs in farming / construction, family links); Poland → UK after EU enlargement in 2004 (higher wages, free movement, jobs)",
+        "distinguishes push and pull clearly with place-specific detail"
+      ],
+      "model": "Many Syrians migrated to Europe after civil war broke out in 2011. The main push factor was the fighting: cities such as Aleppo were bombed, homes, schools and hospitals were destroyed, and people feared being killed or persecuted. The war also destroyed the economy, so there were few jobs and many families lost their income. Millions first fled to neighbouring Turkey, Lebanon and Jordan, and then many travelled on to Europe.\nGermany and Sweden pulled migrants because they were peaceful and safe, had jobs and good welfare and education systems, and already had Syrian communities, so people could join relatives. In 2015 Germany said it would accept asylum seekers and over a million arrived that year. The combination of very strong push factors and attractive pull factors explains the scale of the migration.",
+      "tip": "Name the source AND destination; explain both push and pull factors to reach Level 3.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas explaining both push and pull factors, with place-specific detail (named source, destination, dates)."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three simple ideas with some development, or one developed idea; may focus only on push or pull; some reference to a place."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple ideas, general reasons such as 'jobs' or 'war' with no named example."
+        }
+      ]
+    }
+  ]
+}

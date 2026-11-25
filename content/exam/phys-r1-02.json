@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-02",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) State what is meant by the mass of an object. [1]\n(b) State what is meant by the weight of an object. [1]\n(c) Define gravitational field strength. [1]",
+   "ms": [
+    "(a) measure of the quantity of matter in an object",
+    "(b) gravitational force on an object (that has mass) / effect of a gravitational field on a mass",
+    "(c) (gravitational) force per unit mass (allow g = W ÷ m with symbols explained)"
+   ],
+   "model": "(a) Mass is a measure of the quantity of matter in an object.\n(b) Weight is the gravitational force acting on an object that has mass.\n(c) Gravitational field strength is the gravitational force per unit mass.",
+   "tip": "Weight is a force (N); mass is not (kg). Never write 'weight is how heavy something is'."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A motor boat moves along a straight river. The engine produces a forward force of 2400 N. The water resistance is 1500 N and the wind exerts a force of 300 N, both acting backwards.\nCalculate the resultant force on the boat and state its direction.",
+   "ms": [
+    "C1: 2400 − (1500 + 300)",
+    "A1: 600 N forwards (direction needed for the mark)"
+   ],
+   "model": "Resultant force = 2400 − (1500 + 300) = 600 N forwards.",
+   "tip": "Add the forces acting in the same direction first, then subtract; always give the direction of a resultant."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A student finds the density of cooking oil.\nmass of empty measuring cylinder = 84.0 g\nmass of measuring cylinder + 50.0 cm³ of oil = 130.0 g\n(a) Calculate the density of the oil. [3]\n(b) A plastic block has a density of 0.95 g/cm³. State and explain whether it floats or sinks in the oil. [1]",
+   "ms": [
+    "(a) C1: mass of oil = 130.0 − 84.0 = 46.0 g",
+    "(a) C1: ρ = m ÷ V = 46.0 ÷ 50.0",
+    "(a) A1: 0.92 g/cm³ (allow 920 kg/m³)",
+    "(b) sinks, because its density is greater than the density of the oil (ecf from (a))"
+   ],
+   "model": "(a) Mass of oil = 130.0 − 84.0 = 46.0 g.\nρ = m ÷ V = 46.0 ÷ 50.0 = 0.92 g/cm³.\n(b) The block sinks, because its density (0.95 g/cm³) is greater than that of the oil (0.92 g/cm³).",
+   "tip": "Subtract the mass of the empty cylinder first – a common slip is dividing 130.0 g by 50.0 cm³."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A newton-meter (spring balance) contains a spring. A load of 2.0 N stretches the spring by 5.0 cm. The spring obeys the proportional relationship over the whole scale.\n(a) Calculate the spring constant of the spring. Give the unit. [2]\n(b) An apple is hung from the newton-meter and the spring stretches by 3.5 cm. Calculate the mass of the apple. g = 9.8 N/kg. [3]",
+   "ms": [
+    "(a) C1: k = F ÷ x = 2.0 ÷ 5.0",
+    "(a) A1: 0.40 N/cm (allow 40 N/m) – value and unit",
+    "(b) C1: F = kx = 0.40 × 3.5 (ecf from (a)) or 2.0 × 3.5 ÷ 5.0",
+    "(b) C1: weight = 1.4 N and m = W ÷ g = 1.4 ÷ 9.8",
+    "(b) A1: 0.14 kg (allow 0.143 kg or 140 g)"
+   ],
+   "model": "(a) k = F ÷ x = 2.0 N ÷ 5.0 cm = 0.40 N/cm (= 40 N/m).\n(b) Weight of apple = kx = 0.40 × 3.5 = 1.4 N.\nMass = W ÷ g = 1.4 ÷ 9.8 = 0.14 kg.",
+   "tip": "A newton-meter measures weight in N; divide by g to get the mass in kg."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A model rocket of mass 0.50 kg stands on its launch pad. When the engine is ignited it produces an upward thrust of 12 N. g = 9.8 N/kg.\n(a) Calculate the weight of the rocket. [1]\n(b) Calculate the acceleration of the rocket just after launch and state its direction. [3]\n(c) Assume the acceleration stays constant. Calculate the speed of the rocket 1.5 s after launch. [2]",
+   "ms": [
+    "(a) W = mg = 0.50 × 9.8 = 4.9 N",
+    "(b) C1: resultant force = 12 − 4.9 = 7.1 N (ecf)",
+    "(b) C1: a = F ÷ m = 7.1 ÷ 0.50",
+    "(b) A1: 14 m/s² upwards (allow 14.2 m/s²; direction needed)",
+    "(c) C1: v = a × t = 14.2 × 1.5 (ecf)",
+    "(c) A1: 21 m/s (allow 21.3 m/s)"
+   ],
+   "model": "(a) W = mg = 0.50 × 9.8 = 4.9 N.\n(b) Resultant force = 12 − 4.9 = 7.1 N upwards.\na = F ÷ m = 7.1 ÷ 0.50 = 14 m/s² upwards.\n(c) Starting from rest, v = at = 14.2 × 1.5 = 21 m/s.",
+   "tip": "Use the RESULTANT force in F = ma, not the thrust alone (12 ÷ 0.50 = 24 m/s² is wrong)."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A car of mass 900 kg travels along a straight, level road at a constant speed of 25 m/s. The driving force is 1800 N.\n(a) State the total resistive force on the car. Explain your answer. [2]\n(b) The driver presses the accelerator and the driving force increases to 2700 N. Calculate the acceleration of the car at the moment the driving force increases. [2]\n(c) Explain why the acceleration of the car then decreases and the car eventually travels at a new, higher constant speed. [2]",
+   "ms": [
+    "(a) 1800 N",
+    "(a) constant speed (in a straight line), so resultant force is zero / forces are balanced",
+    "(b) C1: resultant force = 2700 − 1800 = 900 N and a = F ÷ m",
+    "(b) A1: 1.0 m/s²",
+    "(c) as speed increases, air resistance (drag) increases, so the resultant force decreases (so acceleration decreases)",
+    "(c) when the resistive force = 2700 N (equals driving force), resultant force is zero, so speed is constant"
+   ],
+   "model": "(a) 1800 N. The car moves at constant speed in a straight line, so the resultant force is zero and the resistive force equals the driving force.\n(b) Resultant = 2700 − 1800 = 900 N; a = F ÷ m = 900 ÷ 900 = 1.0 m/s².\n(c) As the car speeds up, air resistance increases, so the resultant force and therefore the acceleration decrease. When the resistive force reaches 2700 N the resultant force is zero and the car moves at a new constant speed.",
+   "tip": "A constant speed means zero RESULTANT force, not zero force."
+  }
+ ]
+}

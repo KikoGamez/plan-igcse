@@ -1,0 +1,84 @@
+{
+  "id": "cs-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain what is meant by a character set.",
+      "ms": [
+        "the set of all characters / symbols that a computer can represent (1)",
+        "each character is given a unique binary code / number (1)",
+        "e.g. ASCII or Unicode (allow as part of either mark)"
+      ],
+      "model": "A character set is the complete list of characters a computer can recognise and represent, where each character has its own unique binary code, for example ASCII or Unicode."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Convert:\n(a) 6 MiB into bytes [1]\n(b) 40 960 bits into KiB [1]\n(c) 3.5 GiB into MiB. [1]",
+      "ms": [
+        "(a) 6 291 456 bytes (6 × 1024 × 1024)",
+        "(b) 5 KiB (40 960 ÷ 8 = 5120 bytes; ÷ 1024)",
+        "(c) 3584 MiB (3.5 × 1024)"
+      ],
+      "model": "(a) 6 × 1024 × 1024 = 6 291 456 bytes.\n(b) 40 960 ÷ 8 = 5120 bytes; 5120 ÷ 1024 = 5 KiB.\n(c) 3.5 × 1024 = 3584 MiB.",
+      "tip": "Bits → bytes divide by 8 first; then each step up a unit divide by 1024."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A sound clip is recorded for 40 seconds with a sample rate of 32 000 Hz and a sample resolution of 16 bits. Calculate the file size in KiB. Show your working.",
+      "ms": [
+        "M1: 40 × 32 000 × 16 (= 20 480 000 bits)",
+        "M1: ÷ 8 (= 2 560 000 bytes)",
+        "M1: ÷ 1024",
+        "A1: 2500 KiB"
+      ],
+      "model": "File size = sample rate × resolution × time = 32 000 × 16 × 40 = 20 480 000 bits.\n20 480 000 ÷ 8 = 2 560 000 bytes.\n2 560 000 ÷ 1024 = 2500 KiB.",
+      "tip": "Write the formula first; method marks are given even if the final answer is wrong."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A bitmap image is 2048 pixels wide and 1536 pixels high. Its file size is exactly 3 MiB (ignore any metadata).\nCalculate the colour depth of the image and state how many different colours it can show. Show your working.",
+      "ms": [
+        "M1: number of pixels = 2048 × 1536 = 3 145 728",
+        "M1: 3 MiB = 3 × 1024 × 1024 = 3 145 728 bytes",
+        "A1: colour depth = 8 bits (1 byte per pixel)",
+        "A1: 256 colours (2⁸) (ecf)"
+      ],
+      "model": "Pixels = 2048 × 1536 = 3 145 728.\nFile size = 3 × 1024 × 1024 = 3 145 728 bytes, so there is exactly 1 byte per pixel.\nColour depth = 8 bits, which gives 2⁸ = 256 different colours."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "A row in an 8-bit greyscale image contains 24 pixels: 12 pixels with value 255, then 2 pixels with value 0, then 10 pixels with value 255.\nRun-length encoding (RLE) stores each run as a pair: count, value (1 byte each).\n(a) Write the RLE for this row. [1]\n(b) Calculate the size of the row before and after compression, in bytes. [2]\n(c) Explain why RLE could make a photograph's file larger instead of smaller. [2]",
+      "ms": [
+        "(a) 12 255 2 0 10 255",
+        "(b) before: 24 bytes",
+        "(b) after: 6 bytes (saving of 18 bytes / 75%)",
+        "(c) in a photograph neighbouring pixels are usually different / few runs of identical values (1)",
+        "(c) each single pixel would be stored as two bytes (count + value), doubling its size (1)"
+      ],
+      "model": "(a) 12 255 2 0 10 255\n(b) Before: 24 pixels × 1 byte = 24 bytes. After: 3 pairs × 2 bytes = 6 bytes.\n(c) In a photograph, neighbouring pixels usually have slightly different values, so there are very few runs. Each pixel would then be stored as a count of 1 plus its value, which is 2 bytes instead of 1, so the file could nearly double in size.",
+      "tip": "RLE only works well when data has long runs of the same value."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A music streaming service compresses its songs using lossy compression. A software company sends program files to customers using lossless compression.\nExplain how lossy compression reduces the size of the music files, and why lossless compression must be used for the program files.",
+      "ms": [
+        "lossy: permanently removes some data (1)",
+        "perceptual music shaping removes sounds humans cannot hear / frequencies outside human hearing range (1)",
+        "removes quieter sounds played at the same time as louder ones (1)",
+        "may reduce the sample rate / sample resolution / bit rate (1)",
+        "file is smaller so it streams faster / uses less bandwidth and storage (1); loss of quality not noticeable to most listeners (1)",
+        "lossless: no data is lost – the original file is reconstructed exactly (1)",
+        "a program must be identical / any missing bit would change instructions so the program would not run / would crash (1)",
+        "lossless uses e.g. RLE / replaces repeated patterns with codes (1)"
+      ],
+      "model": "Lossy compression permanently removes data that is judged unnecessary. For music it uses perceptual music shaping: sounds outside the range of human hearing are removed, and quieter sounds that are masked by louder sounds played at the same time are removed. The bit rate may also be reduced. This makes the file much smaller, so songs stream faster and use less bandwidth, and most listeners cannot hear the difference.\nProgram files must use lossless compression because the original file must be rebuilt exactly. Lossless methods such as RLE store repeated patterns more efficiently but lose nothing. If even one bit of a program were missing or changed, an instruction would be different and the program could crash or not run at all.",
+      "tip": "For lossy, say WHAT is removed; for lossless, say the original is restored exactly."
+    }
+  ]
+}

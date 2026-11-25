@@ -1,0 +1,88 @@
+{
+ "id": "music-r1-07",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Give the approximate dates of:\n(a) the Baroque period\n(b) the Classical period",
+   "ms": [
+    "(a) c.1600–1750",
+    "(b) c.1750–1820 (allow 1750–1810/1830)"
+   ],
+   "model": "(a) about 1600–1750 (b) about 1750–1820"
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) Name two ornaments common in Baroque music. [1]\n(b) Which keyboard instrument replaced the harpsichord in the Classical period? [1]",
+   "ms": [
+    "(a) any two of: trill, mordent, turn, appoggiatura (both needed)",
+    "(b) piano / fortepiano"
+   ],
+   "model": "(a) trill and mordent (b) the fortepiano (early piano)"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "An extract is described like this: \"A small string orchestra is accompanied by a harpsichord. A group of two violins and a cello alternates with the full string section. The dynamics switch suddenly between loud and soft, and a short theme is passed from part to part.\"\n(a) Name the period. [1]\n(b) Name the genre. [1]\n(c) Give two features from the description that support your answers. [2]",
+   "ms": [
+    "(a) Baroque",
+    "(b) concerto grosso",
+    "(c) harpsichord continuo",
+    "(c) concertino (2 violins + cello) contrasted with the ripieno",
+    "(c) terraced dynamics",
+    "(c) imitation / imitative texture",
+    "(c) any two, 1 each"
+   ],
+   "model": "(a) Baroque. (b) Concerto grosso. (c) A small concertino of two violins and cello contrasts with the ripieno, and the dynamics are terraced."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Give four features of a Classical minuet and trio.",
+   "ms": [
+    "triple time (3/4)",
+    "ternary structure overall: minuet – trio – minuet (da capo)",
+    "each section is in binary form with repeats",
+    "trio contrasts with the minuet (e.g. lighter/thinner texture, different instrumentation, sometimes a different key)",
+    "balanced phrases (e.g. 4 + 4 bars) / clear perfect and imperfect cadences",
+    "moderate, elegant dance tempo",
+    "homophonic texture"
+   ],
+   "model": "It is in 3/4 at a moderate dance tempo. The overall form is minuet – trio – minuet (ternary), with each part in binary form with repeats. The trio contrasts with a thinner texture. Phrases are balanced in four-bar units ending with clear cadences."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Compare typical Baroque and Classical music in terms of texture, the bass part, melody and dynamics.",
+   "ms": [
+    "Texture: Baroque often polyphonic/imitative; Classical mainly homophonic",
+    "Bass: Baroque has basso continuo (harpsichord/organ + cello/bass)",
+    "Bass: Classical has no continuo; accompaniment such as Alberti bass",
+    "Melody: Baroque long, ornamented lines spun out, with sequences",
+    "Melody: Classical balanced, symmetrical phrases (question and answer)",
+    "Dynamics: Baroque terraced",
+    "Dynamics: Classical gradual crescendo/diminuendo and sforzandi",
+    "max 3 if only one period is described"
+   ],
+   "model": "Baroque textures are often polyphonic and imitative, whereas Classical music is mostly homophonic. A Baroque bass line is played by a continuo of harpsichord and cello, while Classical composers use accompaniment patterns like the Alberti bass. Baroque melodies are long and ornamented, spun out with sequences; Classical melodies fall into balanced four-bar phrases. Baroque dynamics are terraced, but Classical music uses crescendos and diminuendos.",
+   "tip": "For 'compare', link each Baroque point to the Classical point on the same element."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain how the concerto changed between the Baroque period and the Classical period.",
+   "ms": [
+    "Baroque: concerto grosso (concertino vs ripieno) as well as solo concerto",
+    "Baroque: fast movements usually in ritornello form",
+    "Baroque: basso continuo with harpsichord / string-based orchestra",
+    "Classical: solo concerto becomes the main type (often piano, also violin, clarinet, horn)",
+    "Classical: first movements use sonata form (often with an orchestral and a solo exposition)",
+    "Classical: a cadenza for the soloist near the end of the movement",
+    "Classical: larger orchestra with woodwind, horns, (trumpets, timpani); continuo disappears",
+    "Classical: gradual dynamics; contrast of two themes"
+   ],
+   "model": "In the Baroque, concertos were either concerti grossi (concertino against ripieno) or solo concertos, with fast movements in ritornello form over a harpsichord continuo and a mostly string orchestra. In the Classical period the solo concerto, often for piano, became the main type. First movements used sonata form and included a cadenza for the soloist. The orchestra grew to include woodwind and horns, and the continuo disappeared."
+  }
+ ]
+}

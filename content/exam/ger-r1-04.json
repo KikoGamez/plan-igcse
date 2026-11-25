@@ -1,0 +1,103 @@
+{
+ "id": "ger-r1-04",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Lesen Sie die Schulregeln. Was bedeuten sie auf Englisch?\n(a) Man muss eine Uniform tragen.\n(b) Handys dürfen im Unterricht nicht benutzt werden.\n(c) Man soll in der Pause viel Wasser trinken.",
+   "ms": [
+    "(a) You have to / must wear a uniform.",
+    "(b) Mobile phones may not / must not be used in lessons. (passive: accept 'you are not allowed to use phones in lessons')",
+    "(c) You should / are supposed to drink a lot of water at break."
+   ],
+   "model": "(a) You must wear a uniform. (b) Phones must not be used in lessons. (c) You should drink plenty of water at break.",
+   "tip": "„benutzt werden“ is the passive: you only need to recognise it, not write it."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Ergänzen Sie die richtige Form von „werden“.\n„Nächstes Jahr ___ meine Schwester an der Uni studieren. ___ ihr in den Ferien nach Italien fahren?“",
+   "ms": [
+    "wird",
+    "Werdet"
+   ],
+   "model": "Nächstes Jahr wird meine Schwester an der Uni studieren. Werdet ihr in den Ferien nach Italien fahren?",
+   "tip": "werden: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Stell dir vor, du gewinnst im Lotto. Schreiben Sie die Sätze im Konjunktiv II (würde / hätte / wäre / könnte).\n(a) Ich kaufe ein Haus am Meer.\n(b) Wir haben keinen Stress.\n(c) Mein Bruder ist glücklich.\n(d) Du kannst jeden Tag surfen.",
+   "ms": [
+    "(a) Ich würde ein Haus am Meer kaufen. (kaufen at the end)",
+    "(b) Wir hätten keinen Stress.",
+    "(c) Mein Bruder wäre glücklich.",
+    "(d) Du könntest jeden Tag surfen.",
+    "Allow „würde … haben / sein“ for (b) and (c) only if otherwise correct"
+   ],
+   "model": "(a) Ich würde ein Haus am Meer kaufen. (b) Wir hätten keinen Stress. (c) Mein Bruder wäre glücklich. (d) Du könntest jeden Tag surfen.",
+   "tip": "Use hätte, wäre and könnte instead of würde + haben/sein/können: it sounds natural and shows range."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie den Zeitungsartikel und beantworten Sie die Fragen auf Deutsch.\n„In einem Interview sagte die Schwimmerin Lena K. (17), sie trainiere jeden Tag vier Stunden und sie habe fast nie Zeit für ihre Freunde. Ihr Trainer meinte, sie werde bald Europameisterin sein. Das neue Schwimmbad, in dem sie trainiert, wurde letztes Jahr gebaut.“\n(a) Wie lange trainiert Lena pro Tag? [1]\n(b) Was ist ihr Problem? [1]\n(c) Was glaubt ihr Trainer? [1]\n(d) Wann wurde das Schwimmbad gebaut? [1]",
+   "ms": [
+    "(a) vier Stunden",
+    "(b) sie hat (fast) keine Zeit für ihre Freunde",
+    "(c) sie wird bald Europameisterin (sein)",
+    "(d) letztes Jahr"
+   ],
+   "model": "(a) Vier Stunden. (b) Sie hat fast nie Zeit für ihre Freunde. (c) Dass sie bald Europameisterin wird. (d) Letztes Jahr.",
+   "tip": "trainiere, habe, werde are indirect speech (Konjunktiv I): read them as 'she trains, she has, she will'."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 3 Speaking (topic conversation) style. Beantworten Sie die Fragen in ganzen Sätzen auf Deutsch.\n(a) Was wirst du nächstes Wochenende machen?\n(b) Was würdest du machen, wenn du mehr Geld hättest?\n(c) Was musst du zu Hause machen, und was darfst du nicht machen?",
+   "ms": [
+    "(a) future with werden + infinitive at the end (or present + time phrase) [1]",
+    "(a) extra detail or reason [1]",
+    "(b) conditional: würde … + infinitive at end (or hätte/wäre) [1]",
+    "(b) reason or second detail [1]",
+    "(c) correct modal muss + infinitive at end [1]",
+    "(c) correct darf … nicht + infinitive [1]"
+   ],
+   "model": "(a) Nächstes Wochenende werde ich mit meiner Familie wandern gehen, weil das Wetter schön sein soll.\n(b) Wenn ich mehr Geld hätte, würde ich eine Reise nach Japan machen, denn ich interessiere mich für die Kultur.\n(c) Ich muss jeden Tag mein Zimmer aufräumen, aber ich darf nicht nach zehn Uhr fernsehen.",
+   "tip": "In a conversation, the question tells you the tense: answer wirst with werde, würdest with würde."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 4 Writing style (shortened Q2). Schreiben Sie 60–80 Wörter für einen Blog: „Meine Zukunftspläne“.\n• Was werden Sie nach der Schule machen?\n• Welchen Beruf möchten Sie haben? Warum?\n• Was müssen Sie dafür tun?\n• Wo würden Sie gern wohnen?",
+   "ms": [
+    "Bullet 1: future tense (werden + infinitive) correctly formed",
+    "Bullet 2: job + reason with weil/denn",
+    "Bullet 3: modal verb (muss/sollte) + infinitive at the end",
+    "Bullet 4: conditional (würde gern … wohnen / wäre)",
+    "Range: a variety of time frames and connectives",
+    "Accuracy: infinitive at the end, verb second, correct modal forms"
+   ],
+   "model": "Nach der Schule werde ich Abitur machen und dann ein Jahr in Kanada arbeiten. Später möchte ich Tierärztin werden, weil ich Tiere liebe und gern Menschen helfe. Dafür muss ich sehr gute Noten in Biologie und Chemie bekommen, und ich sollte ein Praktikum in einer Tierarztpraxis machen. Ich würde gern in einer kleinen Stadt am Meer wohnen, denn dort ist es ruhig. Wenn ich genug Geld hätte, würde ich auch einen großen Garten haben.",
+   "tip": "Every modal, werden and würde sends the second verb to the end of the clause.",
+   "levels": [
+    {
+     "m": "7–8",
+     "d": "All tasks covered with some development and opinions/reasons. Good range of vocabulary and structures (e.g. subordinate clauses, more than one time frame). Mostly accurate; errors do not impede meaning."
+    },
+    {
+     "m": "5–6",
+     "d": "Most tasks covered, some development. Some range (a few linking words and a second tense). Generally accurate with some errors in verbs, word order or cases."
+    },
+    {
+     "m": "3–4",
+     "d": "Some tasks covered in simple sentences. Limited range, mostly present tense. Frequent errors, but the message is mostly clear."
+    },
+    {
+     "m": "1–2",
+     "d": "Very little relevant information. Isolated words or very simple phrases; errors often make meaning unclear."
+    }
+   ]
+  }
+ ]
+}

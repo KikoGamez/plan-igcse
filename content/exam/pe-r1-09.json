@@ -1,0 +1,95 @@
+{
+ "id": "pe-r1-09",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Describe what is meant by physical health and well-being.",
+   "ms": [
+    "all body systems working well / body functioning properly (1)",
+    "free from illness, disease and injury (1)",
+    "able to carry out everyday tasks without undue fatigue (1)",
+    "max 2"
+   ],
+   "model": "Physical health and well-being means that all of the body's systems are working well, so the person is free from illness and injury and can carry out everyday tasks easily.",
+   "tip": "Physical well-being is one of the three parts of the WHO definition (physical, mental, social)."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) Name two health problems that can be caused by smoking. [2]\n(b) Explain how smoking reduces a footballer's performance. [1]",
+   "ms": [
+    "(a) lung cancer (1)",
+    "(a) heart disease / high blood pressure / stroke (1)",
+    "(a) bronchitis / emphysema / breathing problems (1)",
+    "max 2 for (a)",
+    "(b) carbon monoxide reduces the oxygen-carrying capacity of the blood (haemoglobin) / damage to the lungs reduces gas exchange, so cardiovascular endurance is lower and she tires sooner (1)"
+   ],
+   "model": "(a) Lung cancer and heart disease.\n(b) Carbon monoxide in smoke combines with haemoglobin, so the blood carries less oxygen to the muscles. Her cardiovascular endurance falls and she tires sooner in the match.",
+   "tip": "Link the effect on the body to a component of fitness."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Explain how a person can be healthy but not fit. Give an example. [2]\n(b) Explain how regular exercise to maintain fitness can help a person stay healthy. [2]",
+   "ms": [
+    "(a) they are free from illness/injury and have good physical, mental and social well-being (1)",
+    "(a) but cannot meet the demands of a physical activity, e.g. a healthy office worker who does no exercise and gets out of breath running for a bus / cannot complete a 5 km run (1)",
+    "(b) reduces the risk of illness, e.g. heart disease / obesity / type 2 diabetes / high blood pressure (1)",
+    "(b) improves mental well-being, e.g. reduces stress / improves self-esteem (1)",
+    "(b) improves social well-being, e.g. makes friends through a club (1)",
+    "max 2 for (b)"
+   ],
+   "model": "(a) A person can be free from illness and injury, with good mental and social well-being, but still be unable to meet the physical demands of an activity. For example, a healthy office worker who never exercises might get very out of breath playing a game of football.\n(b) Regular exercise keeps body weight under control and strengthens the heart, which reduces the risk of heart disease and type 2 diabetes. It also reduces stress and improves mood, so it helps mental well-being too.",
+   "tip": "Fitness = meeting the demands of the environment; health = complete well-being."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Describe the effects of an inactive (sedentary) lifestyle on a person's physical, mental and social health.",
+   "ms": [
+    "physical: weight gain / obesity (1)",
+    "physical: heart disease / high blood pressure / type 2 diabetes / poor posture / weak bones (1)",
+    "mental: low self-esteem / depression / stress / lack of confidence (1)",
+    "social: isolation / loneliness / fewer friends / less teamwork (1)",
+    "max 4 (max 2 physical)"
+   ],
+   "model": "Physically, an inactive person is more likely to put on weight and become obese, increasing the risk of heart disease and type 2 diabetes. Mentally, they may have low self-esteem and feel more stressed or depressed. Socially, they miss the chance to meet people through sport, so they may become isolated and lonely.",
+   "tip": "Cover all three areas named in the question."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Sam is 15. He spends about 5 hours a day playing computer games, eats mostly takeaway food, sleeps about 5 hours a night and does no sport.\nSuggest changes Sam could make to his lifestyle and explain how each would improve his physical, mental and social health and well-being.",
+   "ms": [
+    "join a sports club / take part in regular physical activity (e.g. 60 minutes a day) (1)",
+    "improves physical health: fitness, heart and lungs, controls weight (1)",
+    "social benefit: makes friends, teamwork, belonging (1)",
+    "mental benefit: reduces stress, improves mood (endorphins/serotonin), self-esteem (1)",
+    "eat a balanced diet (less fat/salt/sugar, more fruit/vegetables) (1)",
+    "reduces risk of obesity/heart disease, gives energy for activity (1)",
+    "more sleep (8–10 hours) / less screen time (1)",
+    "improves concentration and recovery / reduces tiredness (1)",
+    "max 6"
+   ],
+   "model": "Sam should join a sports club, such as basketball, and aim for about an hour of activity a day. This would improve his physical health by strengthening his heart and helping to control his weight. It would also help him socially, as he would make friends and learn teamwork, and mentally, as exercise releases chemicals that improve mood and reduce stress. He should cut down on takeaways and eat a balanced diet with more fruit, vegetables and wholegrain foods, which reduces the risk of obesity and heart disease and gives him the energy to train. Finally, he should reduce his screen time and sleep 8–10 hours a night, which would improve his concentration and recovery and reduce tiredness.",
+   "tip": "For each change, explain the benefit; a list of changes alone scores only half the marks."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "An elite marathon runner trains 120 km a week. She is currently recovering from a stress fracture, she often feels anxious before races and she has little time to see friends or family.\nUsing the WHO definition of health, discuss whether she is fit and whether she is healthy.",
+   "ms": [
+    "WHO: health is a state of complete physical, mental and social well-being, and not merely the absence of disease or infirmity (1)",
+    "she is fit: able to meet the demands of her event / very high cardiovascular endurance (1)",
+    "physical well-being is reduced because she is injured (stress fracture) (1)",
+    "mental well-being is reduced because of anxiety (1)",
+    "social well-being is reduced because she has little time for friends/family (1)",
+    "conclusion: she is fit but not (fully) healthy (1)",
+    "max 5"
+   ],
+   "model": "The WHO defines health as 'a state of complete physical, mental and social well-being, and not merely the absence of disease or infirmity'. She is very fit, because her cardiovascular endurance allows her to meet the demands of marathon running. However, she is not completely healthy: her physical well-being is affected by the stress fracture, her mental well-being by her anxiety before races, and her social well-being by having little time for friends and family. So she is fit but not healthy.",
+   "tip": "Use all three parts of the WHO definition and end with a clear conclusion."
+  }
+ ]
+}

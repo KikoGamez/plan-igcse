@@ -1,0 +1,87 @@
+{
+  "id": "fr-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez les annonces (1–5). Pour chaque personne, écrivez le bon numéro. Attention : il y a deux annonces de trop.\n1 Fermé pour travaux jusqu'au 15 mars.\n2 Location de vélos à l'heure ou à la journée.\n3 Interdit aux chiens.\n4 Cours de guitare pour débutants, le mardi soir.\n5 Soldes : −50 % sur toutes les chaussures !\n(a) Nina voudrait apprendre à jouer d'un instrument. [1]\n(b) Paul veut faire une balade à vélo, mais il n'a pas de vélo. [1]\n(c) Zoé cherche des baskets pas chères. [1]",
+      "ms": [
+        "(a) 4",
+        "(b) 2",
+        "(c) 5"
+      ],
+      "model": "(a) 4 (b) 2 (c) 5",
+      "tip": "Look for meaning, not identical words: 'baskets pas chères' matches 'soldes … chaussures'."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez le message d'Alice et répondez aux questions en français.\n« Coucou Mamie ! Je ne pourrai pas venir déjeuner mercredi : le collège a organisé une sortie au musée. Je viendrai plutôt jeudi, vers midi. J'apporterai les photos de mon voyage en Écosse. Bisous, Alice »\n(a) Pourquoi Alice ne peut-elle pas venir mercredi ? [1]\n(b) Quand viendra-t-elle ? [1]\n(c) Qu'est-ce qu'elle apportera ? [1]",
+      "ms": [
+        "(a) (il y a) une sortie au musée (avec le collège)",
+        "(b) jeudi (vers midi) — reject mercredi",
+        "(c) les photos de son voyage (en Écosse)"
+      ],
+      "model": "(a) Parce que le collège a organisé une sortie au musée.\n(b) Jeudi, vers midi.\n(c) Les photos de son voyage en Écosse.",
+      "tip": "'plutôt' = 'instead' — it introduces the new arrangement."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Lisez l'email de Sophie et répondez aux questions en français.\n« Salut Clara !\nÇa y est, nous avons déménagé ! Notre nouvelle maison se trouve à la campagne, à dix minutes de Dijon. Elle est plus petite que notre ancien appartement, mais il y a un grand jardin où mon chien peut courir. Ma chambre donne sur la forêt : le matin, j'entends les oiseaux. Le seul inconvénient, c'est le bus : il n'y en a que deux par jour, alors ma mère doit m'emmener au collège en voiture. Le mois prochain, nous organisons une fête pour rencontrer les voisins. Tu veux venir ?\nSophie »\n(a) Où se trouve la nouvelle maison ? [1]\n(b) Quel est l'avantage du jardin ? [1]\n(c) Qu'est-ce que Sophie entend le matin ? [1]\n(d) Pourquoi sa mère doit-elle l'emmener au collège ? [1]\n(e) Pourquoi la famille organise-t-elle une fête ? [1]",
+      "ms": [
+        "(a) à la campagne / à dix minutes de Dijon",
+        "(b) son chien peut (y) courir",
+        "(c) les oiseaux",
+        "(d) il n'y a que deux bus par jour (reject 'il n'y a pas de bus')",
+        "(e) pour rencontrer les voisins"
+      ],
+      "model": "(a) À la campagne, à dix minutes de Dijon.\n(b) Son chien peut y courir.\n(c) Les oiseaux.\n(d) Parce qu'il n'y a que deux bus par jour.\n(e) Pour rencontrer les voisins.",
+      "tip": "'ne… que' means 'only' — 'il n'y en a que deux' does NOT mean there are none."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lisez le blog de Noah. Vrai ou faux ? Corrigez les phrases fausses.\n« Cet été, je suis parti en camping dans les Pyrénées avec trois copains, sans nos parents pour la première fois. Nous avions préparé le voyage pendant des mois. Le premier soir, il a plu toute la nuit et notre tente était mouillée. Heureusement, le gardien du camping nous a prêté une couverture. Le reste de la semaine, il a fait un temps magnifique et nous avons fait de la randonnée tous les jours. »\n(a) Noah est parti en vacances avec sa famille. [1]\n(b) Les garçons avaient préparé le voyage longtemps à l'avance. [1]\n(c) Le gardien leur a prêté une tente. [1]\n(d) Après le premier soir, ils ont fait de la randonnée chaque jour. [1]",
+      "ms": [
+        "(a) FAUX — il est parti avec trois copains / sans ses parents",
+        "(b) VRAI",
+        "(c) FAUX — il leur a prêté une couverture",
+        "(d) VRAI",
+        "a 'faux' answer needs a correct correction for the mark"
+      ],
+      "model": "(a) Faux : il est parti avec trois copains, sans ses parents.\n(b) Vrai.\n(c) Faux : le gardien leur a prêté une couverture.\n(d) Vrai.",
+      "tip": "Check each detail of the statement: one changed word (tente / couverture) makes it false."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez l'article et répondez aux questions en français.\n« Le frigo solidaire\nDans un quartier de Lille, un frigo pas comme les autres est installé devant une boulangerie. C'est un « frigo solidaire » : chacun peut y déposer de la nourriture, et chacun peut se servir gratuitement. L'idée vient de Samia, une lycéenne de dix-sept ans, qui était choquée de voir combien de nourriture les magasins jetaient chaque soir. Au début, les voisins étaient méfiants : ils pensaient que le frigo serait vite sale. Mais des bénévoles le nettoient chaque matin et vérifient les dates. Aujourd'hui, la boulangerie y dépose ses invendus tous les soirs, et une famille sur dix du quartier l'utilise. Samia espère que d'autres villes copieront son idée. »\n(a) Où se trouve le frigo ? [1]\n(b) Combien faut-il payer pour prendre de la nourriture ? [1]\n(c) Qu'est-ce qui a choqué Samia ? [1]\n(d) Pourquoi les voisins étaient-ils méfiants au début ? [1]\n(e) Que font les bénévoles chaque matin ? (un détail) [1]\n(f) Qu'est-ce que Samia espère ? [1]",
+      "ms": [
+        "(a) devant une boulangerie (allow dans un quartier de Lille only with boulangerie)",
+        "(b) rien / c'est gratuit",
+        "(c) la quantité de nourriture que les magasins jetaient (chaque soir)",
+        "(d) ils pensaient que le frigo serait (vite) sale",
+        "(e) ils le nettoient / ils vérifient les dates",
+        "(f) que d'autres villes copieront son idée"
+      ],
+      "model": "(a) Devant une boulangerie, dans un quartier de Lille.\n(b) Rien, c'est gratuit.\n(c) La quantité de nourriture que les magasins jetaient chaque soir.\n(d) Ils pensaient que le frigo serait vite sale.\n(e) Ils le nettoient.\n(f) Que d'autres villes copieront son idée.",
+      "tip": "Lift only the part of the sentence that answers the question; extra wrong details can cost the mark."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez le texte sur Théo.\nParagraphe 1 : Théo a commencé l'escalade à huit ans, presque par hasard : son école avait organisé une sortie dans une salle d'escalade. Il a tout de suite adoré.\nParagraphe 2 : Aujourd'hui, à seize ans, il s'entraîne quatre fois par semaine après les cours. Il fait souvent ses devoirs dans le train, en rentrant de l'entraînement. Ses notes ont un peu baissé et ses parents s'inquiètent.\nParagraphe 3 : Son rêve, c'est de participer aux Jeux olympiques. Mais il sait que c'est très difficile, alors il pense aussi à devenir moniteur d'escalade, pour transmettre sa passion aux enfants.\n(a) Choisissez le bon titre pour chaque paragraphe. Attention : il y a deux titres de trop. [3]\nA Un début inattendu\nB Un accident grave\nC Et plus tard ?\nD Une vie bien remplie\nE Un sport trop cher\n(b) Répondez en français.\n(i) Où Théo fait-il souvent ses devoirs ? [1]\n(ii) Pourquoi ses parents s'inquiètent-ils ? [1]\n(iii) Pourquoi Théo voudrait-il devenir moniteur ? [1]",
+      "ms": [
+        "(a) paragraphe 1: A",
+        "(a) paragraphe 2: D",
+        "(a) paragraphe 3: C",
+        "(b)(i) dans le train",
+        "(b)(ii) ses notes ont (un peu) baissé",
+        "(b)(iii) pour transmettre sa passion aux enfants (allow: parce que les Jeux olympiques sont très difficiles)"
+      ],
+      "model": "(a) 1 – A, 2 – D, 3 – C\n(b)(i) Dans le train.\n(ii) Parce que ses notes ont un peu baissé.\n(iii) Pour transmettre sa passion aux enfants.",
+      "tip": "For headings, find the main idea of the whole paragraph — 'par hasard' = 'inattendu'."
+    }
+  ]
+}

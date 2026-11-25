@@ -1,0 +1,86 @@
+{
+ "id": "ger-r1-08",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Wie heißt das auf Deutsch? Schreiben Sie ein Nomen.\n(a) Hier kann man Briefmarken kaufen und Pakete schicken.\n(b) Diese Person repariert Autos.\n(c) Hier studieren junge Leute nach dem Abitur.",
+   "ms": [
+    "(a) die Post",
+    "(b) der Mechaniker / die Mechanikerin (allow Kfz-Mechaniker, Automechaniker)",
+    "(c) die Universität / die Uni / die Hochschule"
+   ],
+   "model": "(a) die Post (b) der Mechaniker (c) die Universität",
+   "tip": "Ignore the article if not asked, but learning it helps with cases."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 1 (Listening) style – read the transcript.\n„Und nun das Wetter für morgen: Im Norden wird es regnerisch und windig, im Süden bleibt es sonnig bei 25 Grad.“\n(a) Wie ist das Wetter morgen im Norden?\n(b) Wie warm wird es im Süden?",
+   "ms": [
+    "(a) regnerisch und windig (both needed; allow es regnet und es ist windig)",
+    "(b) 25 Grad"
+   ],
+   "model": "(a) Es regnet und es ist windig. (b) 25 Grad.",
+   "tip": "Weather adjectives: sonnig, wolkig, neblig, regnerisch, windig, heiß, kalt."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie die Anzeigen und beantworten Sie die Fragen auf Deutsch.\nAnzeige 1: „Babysitter gesucht! Zwei Abende pro Woche, 10 € pro Stunde. Du musst mindestens 16 sein.“\nAnzeige 2: „Café am Markt sucht Aushilfe für samstags. Erfahrung nicht nötig, aber du musst freundlich sein und gut rechnen können.“\nAnzeige 3: „Tierheim sucht Helfer: Hunde ausführen, sonntags 9–12 Uhr. Leider ohne Bezahlung.“\n(a) Welche Stelle ist nicht bezahlt? [1]\n(b) Wie viel verdient man als Babysitter? [1]\n(c) Was muss man für die Stelle im Café gut können? [1]\n(d) Wann arbeitet man im Tierheim? [1]",
+   "ms": [
+    "(a) Anzeige 3 / im Tierheim",
+    "(b) 10 € pro Stunde",
+    "(c) rechnen (allow: freundlich sein und rechnen)",
+    "(d) sonntags (von 9 bis 12 Uhr)"
+   ],
+   "model": "(a) Die Stelle im Tierheim. (b) 10 Euro pro Stunde. (c) Gut rechnen. (d) Sonntags von 9 bis 12 Uhr.",
+   "tip": "„ohne Bezahlung“ = unpaid; „Erfahrung nicht nötig“ = no experience needed."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "Paper 2 (Reading) style. Lesen Sie, was drei Jugendliche sagen. Wer sagt das? Schreiben Sie P (Paula), T (Tim) oder A (Aylin).\nPaula: „Ich benutze mein Handy jeden Tag, vor allem für soziale Netzwerke. Aber ich finde es gefährlich, dass man im Internet so viele private Informationen teilt.“\nTim: „In meiner Stadt gibt es zu viel Verkehr und die Luft ist schmutzig. Ich fahre deshalb immer mit dem Rad, auch im Winter.“\nAylin: „Ich habe letzten Sommer in einem Krankenhaus in Ghana gearbeitet. Seitdem weiß ich, dass ich Ärztin werden will.“\n(a) … macht sich Sorgen um den Datenschutz.\n(b) … war im Ausland.\n(c) … findet die Umweltverschmutzung schlimm.\n(d) … kennt schon ihren Traumberuf.\n(e) … fährt bei jedem Wetter Rad.",
+   "ms": [
+    "(a) P",
+    "(b) A",
+    "(c) T",
+    "(d) A",
+    "(e) T"
+   ],
+   "model": "(a) P (b) A (c) T (d) A (e) T",
+   "tip": "Paraphrase again: „private Informationen teilen“ ↔ Datenschutz; „auch im Winter“ ↔ bei jedem Wetter."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "Paper 2 (Reading) style. Lesen Sie den Bericht und beantworten Sie die Fragen auf Deutsch.\n„Im März habe ich mein zweiwöchiges Betriebspraktikum in einer Tierarztpraxis gemacht. Ich musste jeden Tag um halb acht anfangen, was für mich sehr früh war. Am Anfang durfte ich nur putzen und Telefonanrufe beantworten, aber in der zweiten Woche habe ich bei einer Operation zugesehen. Das war spannend, aber mir ist ein bisschen schlecht geworden! Die Kollegen waren alle hilfsbereit, nur der Chef war ziemlich streng. Ich habe gelernt, dass man in diesem Beruf viel Geduld braucht. Trotzdem möchte ich später lieber Biologie studieren, weil ich im Labor forschen will.“ (Nina)\n(a) Wie lange dauerte das Praktikum? [1]\n(b) Was fand Nina an der Arbeitszeit schwierig? [1]\n(c) Was musste sie am Anfang machen? Nennen Sie zwei Dinge. [2]\n(d) Wie hat sie sich bei der Operation gefühlt? [1]\n(e) Was möchte sie später machen, und warum? [2]",
+   "ms": [
+    "(a) zwei Wochen",
+    "(b) sie musste (um halb acht) sehr früh anfangen",
+    "(c) putzen [1]",
+    "(c) Telefonanrufe beantworten / ans Telefon gehen [1]",
+    "(d) ihr ist (ein bisschen) schlecht geworden (allow: es war spannend)",
+    "(e) Biologie studieren [1]",
+    "(e) sie will im Labor forschen [1]"
+   ],
+   "model": "(a) Zwei Wochen. (b) Sie musste um halb acht anfangen, das war sehr früh. (c) Sie musste putzen und Telefonanrufe beantworten. (d) Ihr ist ein bisschen schlecht geworden. (e) Sie möchte Biologie studieren, weil sie im Labor forschen will.",
+   "tip": "„Trotzdem … lieber“ signals a change of plan: she will not become a vet."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 4 Writing style. Schreiben Sie einen kurzen Blogeintrag (etwa 60 Wörter): „Die Umwelt in meiner Stadt“.\n• Welche Umweltprobleme gibt es in Ihrer Stadt?\n• Was haben Sie letzte Woche für die Umwelt gemacht?\n• Was sollte man in Zukunft machen?",
+   "ms": [
+    "Bullet 1: at least one environmental problem with correct vocabulary (e.g. Verkehr, Müll, Luftverschmutzung) [1]",
+    "developed with detail or opinion [1]",
+    "Bullet 2: an action in the past tense (e.g. Ich habe Müll getrennt) [1]",
+    "second action or reason [1]",
+    "Bullet 3: suggestion with a modal or conditional (man sollte / man müsste / man könnte) [1]",
+    "justified or developed [1]"
+   ],
+   "model": "In meiner Stadt gibt es zu viel Verkehr, und die Luft ist oft schmutzig. Außerdem liegt viel Müll in den Parks. Letzte Woche bin ich mit dem Rad zur Schule gefahren und habe zu Hause den Müll getrennt. In Zukunft sollte man mehr Busse und Radwege bauen, weil dann weniger Leute mit dem Auto fahren würden.",
+   "tip": "One past action and one „man sollte …“ sentence instantly add range to an environment answer."
+  }
+ ]
+}

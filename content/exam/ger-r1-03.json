@@ -1,0 +1,105 @@
+{
+ "id": "ger-r1-03",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Ergänzen Sie die Partizipien.\n„Am Samstag bin ich früh ___ (aufwachen), habe das Frühstück ___ (vorbereiten) und habe ein Paket ___ (bekommen).“",
+   "ms": [
+    "aufgewacht",
+    "vorbereitet",
+    "bekommen (no ge- with inseparable be-)"
+   ],
+   "model": "Am Samstag bin ich früh aufgewacht, habe das Frühstück vorbereitet und habe ein Paket bekommen.",
+   "tip": "Separable verbs put -ge- after the prefix (aufgewacht); be-, ver-, er- verbs take no ge- (bekommen)."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Paper 2 (Reading) style. Sie lesen: „Als Kind wohnte ich auf dem Land. Wir hatten einen großen Garten, und jeden Morgen ging ich zu Fuß zur Schule.“\nGeben Sie den Infinitiv dieser Verben: (a) wohnte (b) hatten (c) ging",
+   "ms": [
+    "(a) wohnen",
+    "(b) haben",
+    "(c) gehen"
+   ],
+   "model": "(a) wohnen (b) haben (c) gehen",
+   "tip": "Recognising the imperfect is essential in Reading: ging, kam, sah, war, hatte, gab."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Schreiben Sie diesen Tagebucheintrag im Perfekt.\n„Ich fahre mit dem Rad in die Stadt. Ich kaufe ein T-Shirt. Danach treffe ich Lisa im Café. Wir trinken eine Cola.“",
+   "ms": [
+    "Ich bin mit dem Rad in die Stadt gefahren.",
+    "Ich habe ein T-Shirt gekauft.",
+    "Danach habe ich Lisa im Café getroffen. (inversion kept)",
+    "Wir haben eine Cola getrunken.",
+    "Each sentence needs the correct auxiliary AND participle at the end"
+   ],
+   "model": "Ich bin mit dem Rad in die Stadt gefahren. Ich habe ein T-Shirt gekauft. Danach habe ich Lisa im Café getroffen. Wir haben eine Cola getrunken.",
+   "tip": "fahren (movement) takes sein; treffen → getroffen and trinken → getrunken are irregular."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Ergänzen Sie die Verben im Präteritum.\n„Gestern ___ (sein) ich krank. Ich ___ (können) nicht in die Schule gehen. In der Arztpraxis ___ (es geben) leider keinen freien Termin, also ___ (müssen) wir lange warten.“",
+   "ms": [
+    "war",
+    "konnte (no umlaut)",
+    "gab es (verb before es after In der Arztpraxis)",
+    "mussten (no umlaut)"
+   ],
+   "model": "Gestern war ich krank. Ich konnte nicht in die Schule gehen. In der Arztpraxis gab es leider keinen freien Termin, also mussten wir lange warten.",
+   "tip": "Modal verbs lose their umlaut in the imperfect: können → konnte, müssen → musste."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 2 (Reading) style. Lesen Sie den Text und beantworten Sie die Fragen auf Deutsch.\n„Letzten Winter ist Jonas mit seiner Klasse in die Alpen gefahren. Die Reise dauerte acht Stunden, weil es in der Nacht stark geschneit hatte. Am ersten Tag konnte er nicht Ski fahren, denn er hatte seine Handschuhe zu Hause vergessen. Er musste neue kaufen, und die waren sehr teuer. Am zweiten Tag ist er hingefallen und hat sich am Bein verletzt. Trotzdem fand er die Reise toll: Abends haben alle zusammen Karten gespielt und viel gelacht. Nächstes Jahr möchte er wieder mitfahren.“\n(a) Wohin ist Jonas gefahren? [1]\n(b) Warum dauerte die Reise so lange? [1]\n(c) Warum konnte er am ersten Tag nicht Ski fahren? [1]\n(d) Was war das Problem mit den neuen Handschuhen? [1]\n(e) Was ist am zweiten Tag passiert? [1]\n(f) Was haben die Schüler abends gemacht? [1]",
+   "ms": [
+    "(a) in die Alpen",
+    "(b) es hatte (stark) geschneit / wegen des Schnees",
+    "(c) er hatte seine Handschuhe (zu Hause) vergessen",
+    "(d) sie waren (sehr) teuer",
+    "(e) er ist hingefallen / hat sich am Bein verletzt (either)",
+    "(f) Karten gespielt (allow: gelacht)"
+   ],
+   "model": "(a) In die Alpen. (b) Weil es stark geschneit hatte. (c) Er hatte seine Handschuhe vergessen. (d) Sie waren sehr teuer. (e) Er ist hingefallen und hat sich am Bein verletzt. (f) Sie haben Karten gespielt.",
+   "tip": "hatte … geschneit and hatte … vergessen are pluperfect: they explain something that happened even earlier."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 4 Writing style (shortened Q2). Schreiben Sie 60–80 Wörter auf Deutsch über Ihren letzten Geburtstag.\n• Wo und mit wem haben Sie gefeiert?\n• Was haben Sie gegessen und gemacht?\n• Wie war der Tag? Warum?\n• Wie möchten Sie nächstes Jahr feiern?",
+   "ms": [
+    "Bullets 1–3 answered in the past: Perfekt with correct haben/sein and participle at the end",
+    "Imperfect of sein/haben/es gab used for description (e.g. Es war …, Es gab …)",
+    "Opinion with reason (weil/denn) in bullet 3",
+    "Bullet 4 answered with future/conditional (möchte / werde / würde)",
+    "Range: time phrases with inversion (Am Abend sind wir …), subordinate clauses",
+    "Accuracy of verb forms and word order",
+    "Communication is assessed first; an omitted bullet limits the mark"
+   ],
+   "model": "Letzten Monat habe ich meinen sechzehnten Geburtstag zu Hause gefeiert. Meine Familie und meine besten Freunde sind gekommen. Wir haben Pizza gegessen und meine Mutter hat einen Schokoladenkuchen gebacken. Am Abend haben wir getanzt und Musik gehört. Es war ein toller Tag, weil alle so fröhlich waren und es viele Geschenke gab. Nächstes Jahr möchte ich lieber mit meinen Freunden in einen Freizeitpark fahren, denn das wäre noch spannender.",
+   "tip": "Mix Perfekt for actions with war/hatte/es gab for description – that is what examiners call range.",
+   "levels": [
+    {
+     "m": "7–8",
+     "d": "All tasks covered with some development and opinions/reasons. Good range of vocabulary and structures (e.g. subordinate clauses, more than one time frame). Mostly accurate; errors do not impede meaning."
+    },
+    {
+     "m": "5–6",
+     "d": "Most tasks covered, some development. Some range (a few linking words and a second tense). Generally accurate with some errors in verbs, word order or cases."
+    },
+    {
+     "m": "3–4",
+     "d": "Some tasks covered in simple sentences. Limited range, mostly present tense. Frequent errors, but the message is mostly clear."
+    },
+    {
+     "m": "1–2",
+     "d": "Very little relevant information. Isolated words or very simple phrases; errors often make meaning unclear."
+    }
+   ]
+  }
+ ]
+}

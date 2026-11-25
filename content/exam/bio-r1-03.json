@@ -1,0 +1,85 @@
+{
+  "id": "bio-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The enzyme catalase speeds up this reaction in liver cells:\nhydrogen peroxide → water + oxygen\n(a) Name the substrate of this reaction. [1]\n(b) Name the products of this reaction. [1]",
+      "ms": [
+        "(a) hydrogen peroxide",
+        "(b) water and oxygen (both needed)"
+      ],
+      "model": "(a) Hydrogen peroxide.\n(b) Water and oxygen.",
+      "tip": "The substrate is what the enzyme acts on (left of the arrow); the enzyme itself is not a product or a reactant."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Describe what is meant by an enzyme–substrate complex.",
+      "ms": [
+        "the substrate fits into / binds to the active site of the enzyme",
+        "temporary structure formed (before products are released) / substrate is complementary in shape to the active site"
+      ],
+      "model": "It is the temporary structure formed when a substrate molecule fits into the complementary active site of an enzyme, before the reaction happens and the products are released.",
+      "tip": "Use the key words 'active site' and 'complementary shape'."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student investigated the effect of pH on a protease from the stomach. She timed how long it took for the protease to digest a piece of egg white.\npH:          1  | 2 | 3 | 5  | 7\ntime / min: 12 | 5 | 9 | 25 | not digested after 60\n(a) State the optimum pH of this protease. [1]\n(b) Calculate the rate of reaction at pH 3, using rate = 1 ÷ time. Give your answer to 2 significant figures. [1]\n(c) Explain why the egg white was not digested at pH 7. [2]",
+      "ms": [
+        "(a) pH 2",
+        "(b) 0.11 per min (min⁻¹)",
+        "(c) the enzyme is denatured / active site changes shape",
+        "(c) substrate (protein) no longer fits / is no longer complementary to the active site, so no enzyme–substrate complexes form"
+      ],
+      "model": "(a) pH 2, because the shortest time means the fastest rate.\n(b) 1 ÷ 9 = 0.11 min⁻¹.\n(c) pH 7 is far from the optimum, so the shape of the active site changes and the enzyme is denatured. The protein no longer fits the active site, so no enzyme–substrate complexes form.",
+      "tip": "Shortest time = fastest rate. Don't read the optimum as the largest number in the time row."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student mixes starch solution with amylase at 30 °C. Describe how she could use iodine solution and a spotting tile to find the time taken for all the starch to be broken down.",
+      "ms": [
+        "put a drop of iodine solution in each well of the spotting tile",
+        "remove a drop of the mixture at regular intervals (e.g. every 30 s) and add it to a fresh well of iodine",
+        "start the stopwatch as soon as the amylase and starch are mixed",
+        "end point: when the iodine stays orange-brown / no longer turns blue-black",
+        "record the time of the first sample that stays orange-brown"
+      ],
+      "model": "She puts one drop of iodine solution into each well of a spotting tile. She mixes the starch and amylase and starts a stopwatch immediately. Every 30 seconds she uses a pipette to add a drop of the mixture to a new well of iodine. While starch is present the iodine turns blue-black. The end point is the first sample in which the iodine stays orange-brown, and she records this time.",
+      "tip": "Examiners want a clear end point: 'iodine stays orange-brown', not 'the colour changes'."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The table shows the rate of a reaction catalysed by a human enzyme at different temperatures.\ntemperature / °C:        10 | 20 | 30 | 37 | 45 | 55\nrate / arbitrary units:   4 |  9 | 16 | 20 | 11 |  0\nDescribe and explain the effect of temperature on the rate of this reaction.",
+      "ms": [
+        "describe: rate increases from 10 °C to 37 °C (with data, e.g. 4 to 20 units)",
+        "describe: optimum / maximum rate at 37 °C; rate falls above 37 °C to 0 at 55 °C",
+        "as temperature increases (to 37 °C), molecules have more kinetic energy / move faster",
+        "more frequent (effective) collisions between enzyme and substrate / more enzyme–substrate complexes formed",
+        "above 37 °C the enzyme is denatured / active site changes shape",
+        "substrate no longer fits the active site / no longer complementary",
+        "at 55 °C all enzyme molecules are denatured (so rate is 0)"
+      ],
+      "model": "The rate increases from 4 units at 10 °C to a maximum of 20 units at 37 °C, which is the optimum temperature. Above 37 °C the rate falls quickly, to 0 at 55 °C.\nAs the temperature rises up to 37 °C, the enzyme and substrate molecules gain kinetic energy and move faster, so there are more frequent effective collisions and more enzyme–substrate complexes form per second. Above 37 °C the enzyme begins to be denatured: its active site changes shape, so the substrate no longer fits and fewer complexes form. At 55 °C all of the enzyme is denatured, so there is no reaction.",
+      "tip": "'Describe' needs the pattern with data; 'explain' needs kinetic energy, collisions, active site shape and denaturation."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A biological washing powder contains a protease from bacteria that live in hot springs. This protease has an optimum temperature of 70 °C.\n(a) Egg stains are removed faster when the clothes are washed at 60 °C than at 30 °C. Explain why. [2]\n(b) Explain why a protease from the human stomach would not work well in this washing powder at 60 °C. [2]\n(c) Only a small mass of enzyme is needed in each wash. Suggest why. [1]\n(d) The washing powder removes egg stains but not grease stains. Explain why. [1]",
+      "ms": [
+        "(a) at 60 °C the molecules have more kinetic energy (60 °C is closer to the optimum)",
+        "(a) more frequent effective collisions / more enzyme–substrate complexes formed",
+        "(b) human enzyme would be denatured (its optimum is about 37 °C) / active site changes shape",
+        "(b) protein (substrate) no longer fits the active site",
+        "(c) enzymes are catalysts / are not used up / not changed, so can be used again",
+        "(d) enzymes are specific: the active site of a protease is complementary to protein, not to fat / a lipase would be needed for fat"
+      ],
+      "model": "(a) At 60 °C, which is closer to the optimum, the enzyme and protein molecules have more kinetic energy, so there are more frequent effective collisions and more enzyme–substrate complexes form.\n(b) A human enzyme works best at about 37 °C. At 60 °C its active site would change shape and it would be denatured, so the protein in the stain would not fit.\n(c) The enzyme is a catalyst, so it is not used up and each molecule can be used many times.\n(d) Enzymes are specific. The active site of the protease only fits protein molecules; grease is fat, which needs a lipase.",
+      "tip": "Apply your knowledge to the new context: an enzyme's optimum depends on where it comes from."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The exterior angle of a regular polygon is 30°.\n(a) Find the number of sides of the polygon. [1]\n(b) Find the sum of the interior angles of the polygon. [1]",
+      "ms": [
+        "(a) B1: 12",
+        "(b) B1: 1800° FT (their n − 2) × 180"
+      ],
+      "model": "(a) 360 ÷ 30 = 12 sides.\n(b) (12 − 2) × 180 = 1800°.",
+      "tip": "Exterior angles of any polygon add up to 360°."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In triangle ABC, AB = AC and angle BAC = 48°.\nFind angle ABC. Give a geometrical reason for your answer.",
+      "ms": [
+        "B1: 66°",
+        "B1: base angles of an isosceles triangle are equal (and angles in a triangle add up to 180°)"
+      ],
+      "model": "Angle ABC = (180 − 48) ÷ 2 = 66°.\nReason: base angles of an isosceles triangle are equal, and angles in a triangle add up to 180°.",
+      "tip": "Name the property: 'isosceles triangle' earns the reason mark, 'because AB = AC' alone does not."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "AB is parallel to CD. A straight line crosses AB at P and CD at Q.\nAngle APQ = (3x + 10)° and angle PQD = (5x − 30)°. These two angles are alternate angles.\n(a) Find the value of x. [2]\n(b) Find angle PQC. Give a geometrical reason for your answer. [2]",
+      "ms": [
+        "(a) M1: 3x + 10 = 5x − 30",
+        "(a) A1: x = 20",
+        "(b) B1: 110° FT 180 − their angle",
+        "(b) B1: angles on a straight line add up to 180° (with angle PQD = 70°)"
+      ],
+      "model": "(a) Alternate angles are equal: 3x + 10 = 5x − 30 → 40 = 2x → x = 20.\n(b) Angle PQD = 5(20) − 30 = 70°.\nAngle PQC = 180 − 70 = 110° (angles on a straight line add up to 180°).",
+      "tip": "Write 'alternate angles are equal', never 'Z angles'."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "(a) Each interior angle of a regular polygon is 4 times its exterior angle. Find the number of sides of the polygon. [3]\n(b) A regular pentagon and a regular hexagon share one side. Find the angle between them at one end of the shared side (the angle outside both shapes). [1]",
+      "ms": [
+        "(a) M1: e + 4e = 180 oe",
+        "(a) M1: exterior angle 36°, or 360 ÷ their exterior angle",
+        "(a) A1: 10",
+        "(b) B1: 132°"
+      ],
+      "model": "(a) Interior + exterior = 180°, so e + 4e = 180 → e = 36°. Number of sides = 360 ÷ 36 = 10.\n(b) Pentagon interior angle = 108°, hexagon interior angle = 120°.\nAngles at a point: 360 − 108 − 120 = 132°.",
+      "tip": "The interior and exterior angle of any polygon lie on a straight line, so they add up to 180°."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A, B, C and D are points on a circle, in that order. AC is a diameter of the circle.\nAngle BAC = 28° and angle CAD = 35°.\n(a) Find angle ABC. Give a geometrical reason. [2]\n(b) Find angle BDC. Give a geometrical reason. [2]\n(c) Find angle BCD. [2]",
+      "ms": [
+        "(a) B1: 90°",
+        "(a) B1: angle in a semicircle (is 90°)",
+        "(b) B1: 28°",
+        "(b) B1: angles in the same segment are equal",
+        "(c) M1: angle BCA = 62° or angle ACD = 55° (or uses opposite angles of a cyclic quadrilateral with angle BAD = 63°)",
+        "(c) A1: 117°"
+      ],
+      "model": "(a) Angle ABC = 90° (angle in a semicircle).\n(b) Angle BDC = angle BAC = 28° (angles in the same segment are equal).\n(c) Triangle ABC: angle BCA = 180 − 90 − 28 = 62°.\nTriangle ACD: angle ADC = 90° (angle in a semicircle), so angle ACD = 180 − 90 − 35 = 55°.\nAngle BCD = 62 + 55 = 117°.\n(Check: angle BAD = 28 + 35 = 63° and 63 + 117 = 180°, opposite angles of a cyclic quadrilateral.)",
+      "tip": "Look for the arc each angle 'stands on'; angles standing on the same arc are equal."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "TA is a tangent to a circle, centre O, at the point A. B and C are points on the circle, with C on the major arc AB.\nAngle TAB = 58°.\n(a) Find angle ACB. Give a geometrical reason. [2]\n(b) Find angle AOB. Give a geometrical reason. [2]\n(c) Find angle OAB. Give a geometrical reason. [2]",
+      "ms": [
+        "(a) B1: 58°",
+        "(a) B1: alternate segment theorem",
+        "(b) B1: 116° FT 2 × their (a)",
+        "(b) B1: angle at the centre is twice the angle at the circumference",
+        "(c) B1: 32°",
+        "(c) B1: tangent is perpendicular to the radius (90 − 58), or base angles of isosceles triangle OAB since OA = OB (radii)"
+      ],
+      "model": "(a) Angle ACB = 58° (alternate segment theorem).\n(b) Angle AOB = 2 × 58 = 116° (angle at the centre is twice the angle at the circumference).\n(c) OA = OB (radii), so triangle OAB is isosceles: angle OAB = (180 − 116) ÷ 2 = 32°.\nOr: angle OAT = 90° (tangent perpendicular to radius), so angle OAB = 90 − 58 = 32°.",
+      "tip": "Learn the exact wording of each circle theorem; 'alternate segment theorem' is the accepted phrase."
+    }
+  ]
+}

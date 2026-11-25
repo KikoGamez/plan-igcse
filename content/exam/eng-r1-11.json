@@ -1,0 +1,120 @@
+{
+  "id": "eng-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Here is the opening of a student’s story:\n\n“Hi, my name is Sam and I am 15. This is the story of the worst day of my life. It all started when I woke up and got ready for school.”\n\nIdentify two weaknesses in this opening. [2]",
+      "ms": [
+        "Tells/announces the story instead of drawing the reader in — information dump about name and age (1)",
+        "Cliché (“the worst day of my life”) (1)",
+        "Starts with a dull, predictable routine (waking up and getting ready) — slow start, no tension or hook (1)",
+        "Informal chatty register (“Hi”) not suited to a crafted narrative (1)"
+      ],
+      "model": "1. It begins with a list of facts about the narrator (“Hi, my name is Sam and I am 15”) instead of engaging the reader.\n2. It uses a cliché and starts with a predictable routine – waking up – so there is no hook or tension.",
+      "tip": "Start close to the moment that matters, and let details reveal who the narrator is."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A story begins: “The ice cracked a second time, louder, and Jo stopped laughing.”\n\n(a) Name the technique used to open the story in this way. [1]\n(b) Explain one effect of this technique on the reader. [1]",
+      "ms": [
+        "(a) In medias res / starting in the middle of the action (1)",
+        "(b) Creates immediate tension/danger and makes the reader ask questions (what happened? will Jo be safe?), so they want to read on (1)"
+      ],
+      "model": "(a) Starting in medias res – in the middle of the action.\n(b) It throws the reader straight into danger, raising questions about what is happening and whether Jo will be safe, so they want to keep reading.",
+      "tip": "An opening line that raises a question is one of the strongest hooks."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Rewrite this summary-like paragraph as a dramatic scene of about 80 words. Show the characters’ feelings through actions and sensory detail, and vary your sentence lengths.\n\n“We went to the frozen lake. It was cold. Jo walked onto the ice and fell through. I was scared. I pulled her out. We went home.” [4]",
+      "ms": [
+        "Sensory detail that makes the setting and danger vivid (sound of cracking, cold water, breath) (1)",
+        "Feelings shown through actions/physical reactions rather than stated (‘I was scared’ removed or replaced) (1)",
+        "Pace controlled — key moment slowed down; short sentences for tension (1)",
+        "Accurate and engaging; a focused scene rather than a list of events (1)"
+      ],
+      "model": "The ice sang under our boots, a thin, high note. Jo laughed and slid further out. Then came the crack – sharp as a gunshot – and she was gone, swallowed by black water. I flattened myself on the ice, heart slamming, and reached. Her fingers were stone-cold. I pulled. Pulled again. She came up gasping, hair already stiffening into frost, and we crawled back to the shore without a word.",
+      "tip": "Slow down the most important moment — use more words for seconds of action."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Here is a student’s plan for the title “The Locked Room”:\n\n“Ava finds a locked room in her new house. Inside is a portal. She goes through and meets dragons, then aliens, then a talking cat. Then she wakes up and it was all a dream.”\n\nIdentify two weaknesses in this plan and explain how you would improve each one. [4]",
+      "ms": [
+        "Weakness 1: far too many events/settings for 350–450 words — the story will be rushed and underdeveloped (1)",
+        "Improvement: focus on one setting and one key moment, e.g. what Ava finds inside the room and why it matters (1)",
+        "Weakness 2: ‘it was all a dream’ ending is a cliché and cancels the story, leaving the reader unsatisfied (1)",
+        "Improvement: a credible ending that resolves the central conflict or links to Ava’s feelings (e.g. about moving house) (1)",
+        "Alternative weakness: no character motivation/conflict — we don’t know what Ava wants (1); improve by giving her a want and an obstacle (1)"
+      ],
+      "model": "First, there are too many events – a portal, dragons, aliens and a talking cat – for 350–450 words, so nothing could be developed. I would focus on one scene: Ava opening the locked room and finding the belongings of the girl who lived there before.\nSecond, “it was all a dream” is a cliché that cancels everything that happened. I would end with Ava deciding to keep the room as it is, which shows she has begun to accept her new home.",
+      "tip": "One character, one setting, one problem, one change — that’s the right scale for a composition."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Write the opening (about 100 words) of a story with the title:\n“The Lie”\nStart in the middle of the action, establish your main character and hint at a conflict. [6]",
+      "ms": [
+        "Indicative content:",
+        "Opens in medias res with an immediate hook",
+        "Main character established through action, thought or dialogue rather than description lists",
+        "A conflict hinted (the lie, who was lied to, what could go wrong)",
+        "Precise vocabulary and sensory detail; varied sentence lengths",
+        "Dialogue, if used, correctly punctuated and set out",
+        "Accurate spelling and punctuation"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Content and structure: an engaging opening that establishes character and situation and creates questions/tension; well paced. Style and accuracy: precise vocabulary, varied sentences for effect, dialogue (if used) correctly punctuated; almost no errors."
+        },
+        {
+          "m": "3–4",
+          "d": "Clear opening with some interest and detail; some variety of sentences and vocabulary; errors do not block meaning."
+        },
+        {
+          "m": "1–2",
+          "d": "Predictable or ‘telling’ opening with little detail; simple vocabulary and sentences; frequent errors."
+        }
+      ],
+      "model": "“Of course I can swim,” I said.\nIt came out so easily. Mia’s cousins nodded, already peeling off their T-shirts, and the jetty creaked as they ran to the end. Below, the lake was the colour of strong tea, its surface wrinkling in the wind. I took my time untying my trainers. Then I folded my socks. Then I refolded them.\n“Leo! Come on!”\nThe truth was that I had never been further than the shallow end of the town pool, and even there I kept one hand on the side. One small lie. How deep could it be?",
+      "tip": "Hint at the conflict, don’t explain it — let the reader work it out."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A story titled “The Last Bus” begins with this line:\n“The last bus always smelled of rain and old tickets.”\n\nWrite the climax and ending of the story (about 200 words). Your ending should link back to the opening line. [8]",
+      "ms": [
+        "Indicative content:",
+        "A clear climax with rising tension (e.g. a decision, a confrontation, a discovery) on or around the bus",
+        "Pacing controlled: short sentences / delay at the key moment",
+        "Feelings shown through actions, speech and detail",
+        "A credible, satisfying resolution — no ‘it was all a dream’",
+        "Final lines deliberately echo the opening (rain, old tickets, the smell) to show change or closure",
+        "Accurate punctuation, including any dialogue"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Content and structure: a tense, well-paced climax and a satisfying, credible ending that deliberately links to the opening line; character’s feelings shown not told. Style and accuracy: ambitious vocabulary, sentences crafted for pace, highly accurate."
+        },
+        {
+          "m": "5–6",
+          "d": "Clear climax and ending with some tension and an attempt to link to the opening; some showing of feelings; mostly accurate with sentence variety."
+        },
+        {
+          "m": "3–4",
+          "d": "Events told in sequence with limited tension; ending abrupt or predictable; some errors."
+        },
+        {
+          "m": "1–2",
+          "d": "Little sense of climax; ending unclear or ‘it was all a dream’; frequent errors."
+        }
+      ],
+      "model": "The bus lurched to a stop and the doors hissed open. Rain blew in sideways.\n“End of the line,” the driver said.\nMy stop had been three stops ago. I had watched it slide past – the dark house, the one lit window where Dad would be waiting with his questions – and I hadn’t moved.\nThe driver turned in his seat. He was older than I’d thought, his eyes creased and kind. “Running away?” he asked.\nI opened my mouth to lie. Nothing came out. Instead I nodded, and my eyes stung.\nHe didn’t lecture me. He just switched off the engine, poured tea from a battered flask into its lid and passed it back. We sat in the silence while the rain drummed on the roof. When the cup was empty, he started the engine again.\n“I go back the other way at midnight,” he said. “Same route.”\nI paid for a second ticket. When the bus stopped outside my house, the window was still lit.\nI kept that ticket. It is soft and grey now, and it still smells, faintly, of rain.",
+      "tip": "A circular ending works best when the repeated image means something different the second time."
+    }
+  ]
+}

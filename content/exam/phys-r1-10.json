@@ -1,0 +1,84 @@
+{
+ "id": "phys-r1-10",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define magnetic field and state how the direction of a magnetic field at a point is defined.",
+   "ms": [
+    "a region in which a magnetic pole experiences a force",
+    "direction = direction of the force on the N pole of a magnet at that point"
+   ],
+   "model": "A magnetic field is a region in which a magnetic pole experiences a force. The direction of the field at a point is the direction of the force on the north pole of a magnet placed there."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "An unmagnetised iron nail is brought close to the N pole of a bar magnet. The nail is attracted to the magnet.\n(a) Name this effect. [1]\n(b) State which pole is formed at the end of the nail nearest the magnet. [1]\n(c) Explain why the nail is attracted. [1]",
+   "ms": [
+    "(a) induced magnetism (allow: the nail is magnetised by induction)",
+    "(b) S pole (south)",
+    "(c) unlike poles attract (S pole of nail and N pole of magnet)"
+   ],
+   "model": "(a) Induced magnetism – the magnet magnetises the nail.\n(b) A south pole forms at the end nearest the magnet's N pole.\n(c) Unlike poles attract, so the nail is pulled towards the magnet.",
+   "tip": "A magnetic material is always ATTRACTED, never repelled, by either pole, because the induced pole is always the opposite one."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A long straight vertical wire carries a current upwards.\n(a) Describe the shape of the magnetic field around the wire and how its strength changes with distance from the wire. [2]\n(b) State the effect on the field of\n(i) increasing the current, [1]\n(ii) reversing the current. [1]",
+   "ms": [
+    "(a) concentric circles centred on the wire (in a horizontal plane)",
+    "(a) field gets weaker further from the wire (circles further apart)",
+    "(b)(i) field becomes stronger (lines closer together)",
+    "(b)(ii) direction of the field reverses (shape unchanged)"
+   ],
+   "model": "(a) The field lines are concentric circles centred on the wire, in planes at right angles to it. The field is strongest near the wire and gets weaker further away, so the circles get further apart.\n(b)(i) The field becomes stronger.\n(ii) The direction of the field is reversed; the pattern is unchanged.",
+   "tip": "Use the right-hand grip rule for direction: thumb along the current, fingers curl in the field direction."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A horizontal wire runs from west to east between the poles of a magnet. The N pole is above the wire and the S pole is below it, so the magnetic field is vertically downwards. The current in the wire flows from west to east.\n(a) Use the left-hand rule to state the direction of the force on the wire. [1]\n(b) State the direction of the force if only the current is reversed. [1]\n(c) State the direction of the force if both the current and the magnetic field are reversed. [1]\n(d) State two ways of increasing the size of the force on the wire. [2]",
+   "ms": [
+    "(a) north (horizontal)",
+    "(b) south",
+    "(c) north (unchanged)",
+    "(d) larger current",
+    "(d) stronger magnet / magnetic field (allow longer wire in the field)"
+   ],
+   "model": "(a) First finger down (field), second finger east (current): the thumb points north, so the force is towards the north.\n(b) South.\n(c) North – reversing both leaves the force unchanged.\n(d) Increase the current; use a stronger magnet.",
+   "tip": "Field goes from N to S. Left hand: First finger = Field, seCond finger = Current, thuMb = Motion (force)."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe how a simple d.c. electric motor works. Include the role of the split-ring commutator and the brushes.",
+   "ms": [
+    "a coil carrying a current is placed in a magnetic field (between poles of a magnet)",
+    "a force acts on each side of the coil (perpendicular to the field)",
+    "the forces on the two sides are in opposite directions (current flows in opposite directions), giving a turning effect / moment",
+    "brushes (carbon) press against the split-ring commutator to connect the coil to the supply while it rotates",
+    "the split-ring commutator reverses the current in the coil every half turn",
+    "(this happens when the coil is vertical / perpendicular to the field) so the forces keep turning the coil in the same direction",
+    "momentum carries the coil past the vertical position (where there is no turning effect)"
+   ],
+   "model": "A coil of wire carrying a current sits between the poles of a magnet. A force acts on each side of the coil; because the current flows in opposite directions in the two sides, one side is pushed up and the other down, so there is a turning effect and the coil rotates. Carbon brushes press against the split-ring commutator, which turns with the coil and connects it to the supply. Every half turn, as the coil passes the vertical, the gaps in the split ring change over the connections, reversing the current in the coil. This reverses the forces so the coil keeps turning in the same direction. Its momentum carries it past the vertical position.",
+   "tip": "Say exactly what the commutator does: it reverses the CURRENT in the coil every half turn."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A scrapyard uses an electromagnet on a crane to lift and move scrap iron and steel.\n(a) Explain why an electromagnet is used rather than a permanent magnet. [2]\n(b) Explain why the core of the electromagnet is made of soft iron and not steel. [2]\n(c) Explain why the electromagnet can be used to separate iron and steel from aluminium and copper scrap. [2]",
+   "ms": [
+    "(a) it can be switched off (stop the current) to release / drop the load",
+    "(a) its strength can be changed by changing the current",
+    "(b) soft iron is a temporary magnet: it is easily magnetised and loses its magnetism when the current is switched off",
+    "(b) steel would stay magnetised (permanent magnet), so the scrap would not be released",
+    "(c) iron and steel are magnetic materials, so they are attracted (magnetism induced in them)",
+    "(c) aluminium and copper are non-magnetic, so they are not attracted / left behind"
+   ],
+   "model": "(a) The electromagnet can be switched off to drop the scrap where it is needed, and its strength can be adjusted by changing the current; a permanent magnet would always hold on to the scrap.\n(b) Soft iron is a temporary magnet: it is magnetised strongly while the current flows but loses its magnetism as soon as the current stops. Steel would keep its magnetism, so the scrap would stay stuck to it.\n(c) Iron and steel are magnetic materials, so magnetism is induced in them and they are attracted. Aluminium and copper are non-magnetic, so they are left behind."
+  }
+ ]
+}

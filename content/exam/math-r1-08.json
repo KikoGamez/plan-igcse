@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "f(x) = 7 − 3x.\n(a) Find f(−2). [1]\n(b) Solve f(x) = 19. [1]",
+      "ms": [
+        "(a) B1: 13",
+        "(b) B1: x = −4"
+      ],
+      "model": "(a) f(−2) = 7 − 3(−2) = 7 + 6 = 13.\n(b) 7 − 3x = 19 → −3x = 12 → x = −4.",
+      "tip": "f(x) = 19 means 'the output is 19': solve an equation, do not substitute 19."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "h(x) = x³ − 1.\nFind h⁻¹(x).",
+      "ms": [
+        "M1: x = y³ − 1 or y + 1 = x³ (correct first step to rearrange)",
+        "A1: h⁻¹(x) = ∛(x + 1)"
+      ],
+      "model": "y = x³ − 1. Swap x and y: x = y³ − 1.\ny³ = x + 1, so y = ∛(x + 1).\nh⁻¹(x) = ∛(x + 1)",
+      "tip": "Undo the operations in reverse order: add 1, then cube root."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "f(x) = 2x + 1 and g(x) = x² − 3.\n(a) Find fg(−1). [2]\n(b) Find gf(x), giving your answer in the form ax² + bx + c. [2]",
+      "ms": [
+        "(a) M1: g(−1) = −2",
+        "(a) A1: −3",
+        "(b) M1: (2x + 1)² − 3",
+        "(b) A1: 4x² + 4x − 2"
+      ],
+      "model": "(a) g(−1) = (−1)² − 3 = −2. f(−2) = 2(−2) + 1 = −3.\n(b) gf(x) = g(2x + 1) = (2x + 1)² − 3 = 4x² + 4x + 1 − 3 = 4x² + 4x − 2.",
+      "tip": "In fg(x), g is applied first (the function next to x)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "f(x) = 1/(x − 2), x ≠ 2.\n(a) Find f(2.5). [1]\n(b) Find f⁻¹(x). [3]",
+      "ms": [
+        "(a) B1: 2",
+        "(b) M1: x = 1/(y − 2) (swap) or y(x − 2) = 1",
+        "(b) M1: y − 2 = 1/x or correct rearrangement to make the new subject",
+        "(b) A1: f⁻¹(x) = 1/x + 2 oe, e.g. (1 + 2x)/x"
+      ],
+      "model": "(a) f(2.5) = 1/(2.5 − 2) = 1/0.5 = 2.\n(b) y = 1/(x − 2). Swap: x = 1/(y − 2).\ny − 2 = 1/x\ny = 1/x + 2, so f⁻¹(x) = 1/x + 2 = (1 + 2x)/x.",
+      "tip": "Check: f(2.5) = 2 and f⁻¹(2) = 1/2 + 2 = 2.5 ✓"
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "f(x) = 3ˣ and g(x) = x + 2.\n(a) Find gf(x). [1]\n(b) Find fg(x). [1]\n(c) Solve fg(x) = 1/9. [2]\n(d) Solve gf(x) = 29. [2]",
+      "ms": [
+        "(a) B1: 3ˣ + 2",
+        "(b) B1: 3^(x + 2)",
+        "(c) M1: 1/9 = 3⁻² or x + 2 = −2",
+        "(c) A1: x = −4",
+        "(d) M1: 3ˣ = 27 FT their (a)",
+        "(d) A1: x = 3"
+      ],
+      "model": "(a) gf(x) = g(3ˣ) = 3ˣ + 2.\n(b) fg(x) = f(x + 2) = 3^(x + 2).\n(c) 3^(x + 2) = 1/9 = 3⁻², so x + 2 = −2 and x = −4.\n(d) 3ˣ + 2 = 29 → 3ˣ = 27 = 3³ → x = 3.",
+      "tip": "fg(x) and gf(x) are usually different: decide which function acts first."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "f(x) = 2x − 1, g(x) = x² + 1 and h(x) = 3/(x + 1), x ≠ −1.\n(a) Find hf(x), giving your answer in its simplest form. [2]\n(b) Solve the equation fg(x) = 7x − 2. [4]",
+      "ms": [
+        "(a) M1: 3/((2x − 1) + 1)",
+        "(a) A1: 3/(2x)",
+        "(b) M1: fg(x) = 2(x² + 1) − 1 (= 2x² + 1)",
+        "(b) M1: 2x² − 7x + 3 = 0",
+        "(b) M1: (2x − 1)(x − 3) = 0 or correct formula",
+        "(b) A1: x = 0.5 and x = 3"
+      ],
+      "model": "(a) hf(x) = h(2x − 1) = 3/(2x − 1 + 1) = 3/(2x).\n(b) fg(x) = f(x² + 1) = 2(x² + 1) − 1 = 2x² + 1.\n2x² + 1 = 7x − 2 → 2x² − 7x + 3 = 0\n(2x − 1)(x − 3) = 0 → x = 0.5 or x = 3.",
+      "tip": "Write fg(x) as a simplified expression before forming the equation."
+    }
+  ]
+}

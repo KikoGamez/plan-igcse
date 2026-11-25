@@ -1,0 +1,91 @@
+{
+  "id": "fr-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Compréhension orale (transcription). Vous entendez ce message sur votre répondeur.\n« Bonjour, ici le cabinet du docteur Martin. Votre rendez-vous n'est plus mardi à dix heures : il est déplacé à mercredi, à quatorze heures trente. Merci. »\nRépondez en français.\n(a) Quel jour est le nouveau rendez-vous ? [1]\n(b) À quelle heure ? [1]",
+      "ms": [
+        "(a) mercredi (reject mardi)",
+        "(b) 14h30 / quatorze heures trente / deux heures et demie (de l'après-midi)"
+      ],
+      "model": "(a) Mercredi.\n(b) À quatorze heures trente (14h30).",
+      "tip": "The first time and day you hear are the distractor: listen for 'n'est plus' and 'déplacé'."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Compréhension écrite. Lisez le message de Lina.\n« Salut ! Ce soir, je ne peux pas venir au cinéma parce que je dois garder mon petit frère. Mes parents sont au restaurant pour leur anniversaire de mariage. On peut y aller dimanche après-midi ? Bises, Lina »\nRépondez en français.\n(a) Pourquoi Lina ne peut-elle pas aller au cinéma ce soir ? [1]\n(b) Où sont ses parents ? [1]\n(c) Quand propose-t-elle d'aller au cinéma ? [1]",
+      "ms": [
+        "(a) elle doit garder son (petit) frère (allow 'garder mon petit frère')",
+        "(b) au restaurant",
+        "(c) dimanche (après-midi)"
+      ],
+      "model": "(a) Elle doit garder son petit frère.\n(b) Ils sont au restaurant.\n(c) Dimanche après-midi.",
+      "tip": "You can lift words from the text, but change 'mon' to 'son' if needed — the meaning must be clear."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lisez le texte. Vrai ou faux ? Corrigez les phrases fausses.\n« Je m'appelle Hugo et je suis en troisième dans un collège à Nantes. Mon collège est assez grand : il y a huit cents élèves. Ma matière préférée, c'est la géographie, mais je trouve l'anglais difficile. Le mercredi, je n'ai pas cours l'après-midi, alors je joue au handball avec mon club. L'année prochaine, j'irai au lycée en ville. »\n(a) Hugo habite à Nantes. [1]\n(b) Hugo adore l'anglais. [1]\n(c) Hugo a cours le mercredi après-midi. [1]\n(d) Hugo fait du handball dans un club. [1]",
+      "ms": [
+        "(a) VRAI",
+        "(b) FAUX — il trouve l'anglais difficile / sa matière préférée est la géographie",
+        "(c) FAUX — il n'a pas cours le mercredi après-midi",
+        "(d) VRAI",
+        "a 'faux' answer without a correct correction scores 0"
+      ],
+      "model": "(a) Vrai.\n(b) Faux : il trouve l'anglais difficile.\n(c) Faux : il n'a pas cours le mercredi après-midi.\n(d) Vrai.",
+      "tip": "For a false statement, the mark is for the correction — write a short French phrase from the text."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Jeu de rôle. Vous êtes dans un office de tourisme en France. L'examinateur/L'examinatrice joue le rôle de l'employé(e). Écrivez ce que vous diriez pour chaque tâche (une phrase par tâche).\n1. Saluez l'employé(e) et dites que vous voulez visiter la ville.\n2. Demandez un plan de la ville.\n3. Dites combien de jours vous restez.\n4. Demandez à quelle heure le musée ouvre.",
+      "ms": [
+        "1. greeting + wish to visit, e.g. Bonjour, je voudrais visiter la ville.",
+        "2. request for a map, e.g. Avez-vous un plan de la ville, s'il vous plaît ?",
+        "3. number of days, e.g. Je reste trois jours.",
+        "4. question about opening time, e.g. À quelle heure le musée ouvre-t-il ? / Le musée ouvre à quelle heure ?",
+        "each task: message must be clear and unambiguous; minor errors do not lose the mark"
+      ],
+      "model": "1. Bonjour madame, je voudrais visiter la ville.\n2. Est-ce que vous avez un plan de la ville, s'il vous plaît ?\n3. Je reste ici trois jours, jusqu'à samedi.\n4. À quelle heure est-ce que le musée ouvre ?",
+      "tip": "Use 'vous' with an official or stranger, and make a question sound like a question ('Est-ce que…?')."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Écriture — tâche courte. Vous écrivez un email à votre correspondant(e) français(e) au sujet de votre collège. Écrivez 60–80 mots en français.\nMentionnez :\n• à quelle heure les cours commencent\n• votre professeur préféré(e) et pourquoi\n• ce que vous avez fait au collège la semaine dernière\n• ce que vous ferez pendant les prochaines vacances",
+      "ms": [
+        "communicates the start time of lessons",
+        "names / describes a favourite teacher with a reason",
+        "describes something done at school last week (past tense)",
+        "describes plans for the next holidays (future / futur proche)",
+        "uses connectives and opinions (parce que, mais, donc)",
+        "verbs and agreements mostly accurate"
+      ],
+      "levels": [
+        {"m": "5–6", "d": "All four points communicated clearly and developed. Good range of vocabulary and structures, with correct past and future tenses, opinions and reasons. Mostly accurate; errors do not affect meaning."},
+        {"m": "3–4", "d": "Three or four points communicated, some only briefly. Some variety of language and at least one correct tense other than the present. Errors occasionally make meaning unclear."},
+        {"m": "1–2", "d": "One or two points communicated. Very simple, repetitive language, mainly in the present tense. Frequent errors impede communication."}
+      ],
+      "model": "Salut Paul !\nDans mon collège, les cours commencent à huit heures et quart. Mon professeur préféré, c'est Mme López, la prof de biologie, parce qu'elle est patiente et ses cours sont passionnants. La semaine dernière, nous avons fait une expérience au laboratoire et j'ai beaucoup appris. Pendant les prochaines vacances, j'irai à la montagne avec ma famille et je ferai du ski.\nÀ bientôt !\nMarta",
+      "tip": "Each bullet point needs its own sentence; check which tense each bullet asks for before you write."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez le blog de Camille et répondez aux questions en français.\n« Avant, je détestais réviser : je regardais mes notes la veille de l'examen et je paniquais. L'an dernier, j'ai eu une très mauvaise note en histoire, et ça m'a fait réfléchir. Maintenant, je révise un peu chaque jour, toujours à la bibliothèque, parce qu'à la maison mon frère fait trop de bruit. Je fais des fiches et je les relis dans le bus. Ma copine Inès préfère réviser en écoutant de la musique, mais moi, ça me déconcentre. Le mois prochain, je passerai mes examens blancs, et pour la première fois, je ne suis pas stressée. »\n(a) Comment Camille révisait-elle avant ? [1]\n(b) Qu'est-ce qui l'a fait changer ? [1]\n(c) Pourquoi ne révise-t-elle pas à la maison ? [1]\n(d) Où relit-elle ses fiches ? [1]\n(e) Pourquoi n'écoute-t-elle pas de musique quand elle révise ? [1]\n(f) Comment se sent-elle avant ses examens blancs ? [1]",
+      "ms": [
+        "(a) elle regardait ses notes la veille de l'examen (seulement) / à la dernière minute",
+        "(b) une (très) mauvaise note en histoire",
+        "(c) son frère fait trop de bruit",
+        "(d) dans le bus",
+        "(e) ça la déconcentre / elle ne peut pas se concentrer",
+        "(f) elle n'est pas stressée / elle est calme / (assez) confiante; reject 'stressée'"
+      ],
+      "model": "(a) Elle regardait ses notes seulement la veille de l'examen.\n(b) Elle a eu une très mauvaise note en histoire.\n(c) Parce que son frère fait trop de bruit.\n(d) Dans le bus.\n(e) Parce que la musique la déconcentre.\n(f) Elle n'est pas stressée.",
+      "tip": "Watch for 'Avant… Maintenant…' and for negatives such as 'je ne suis pas stressée' — they reverse the meaning."
+    }
+  ]
+}

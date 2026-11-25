@@ -1,0 +1,99 @@
+{
+ "id": "pe-r1-08",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two ways in which a hockey player can reduce the risk of injury.",
+   "ms": [
+    "wear protective equipment, e.g. shin pads / gum shield / goalkeeper's kit (1)",
+    "warm up (and cool down) properly (1)",
+    "use correct technique / follow the rules of the game (1)",
+    "check the pitch and equipment for hazards before playing (1)",
+    "play against opponents of similar age/size/ability / be properly prepared (fitness) (1)",
+    "max 2"
+   ],
+   "model": "She should wear protective equipment such as shin pads and a gum shield, and follow the rules of the game, for example not raising her stick dangerously.",
+   "tip": "Make each answer specific to the named activity (shin pads for hockey, not 'safety gear')."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State the cause of winding and describe one way to treat it.",
+   "ms": [
+    "cause: a blow to the abdomen/stomach (solar plexus), which causes the diaphragm to spasm / makes breathing difficult (1)",
+    "treatment: e.g. sit or lie the person down in a comfortable position / loosen tight clothing / encourage slow, deep breaths (1)"
+   ],
+   "model": "Winding is caused by a blow to the stomach area, which makes the diaphragm spasm so the person cannot breathe properly. They should be sat down in a comfortable position and encouraged to take slow, deep breaths.",
+   "tip": "A cause mark needs the blow to the abdomen, not just 'being hit'."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A netball player sprains her ankle when she lands awkwardly. Describe how the RICE method should be used to treat the injury, explaining each part.",
+   "ms": [
+    "Rest: stop playing / do not put weight on the ankle, to prevent further damage (1)",
+    "Ice: apply ice (wrapped in a cloth) for short periods to reduce swelling/pain by narrowing blood vessels (1)",
+    "Compression: wrap a bandage firmly around the ankle to reduce swelling / support the joint (1)",
+    "Elevation: raise the ankle above the level of the heart to reduce blood flow/swelling (1)"
+   ],
+   "model": "Rest: she should stop playing straight away and not put weight on the ankle, so it is not damaged further. Ice: an ice pack wrapped in a towel is put on the ankle for about 10–15 minutes at a time, to reduce pain and swelling. Compression: a bandage is wrapped firmly around the ankle to limit swelling and support it. Elevation: the ankle is raised above the level of the heart, which reduces blood flow to the area and so reduces swelling.",
+   "tip": "Give what to do AND why for each letter."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Explain why a boxer might take diuretics. [2]\n(b) State two side effects of taking diuretics. [2]",
+   "ms": [
+    "(a) to lose weight (water) quickly (1)",
+    "(a) to make a lower weight category before the weigh-in / fight against lighter opponents (1)",
+    "(a) to mask/hide other drugs by diluting urine (1)",
+    "max 2 for (a)",
+    "(b) dehydration (1)",
+    "(b) kidney problems/damage (1)",
+    "(b) dizziness / muscle cramps / headaches / nausea / heart problems (1)",
+    "max 2 for (b)"
+   ],
+   "model": "(a) Diuretics increase the amount of urine produced, so the boxer loses water and weight quickly. This helps him make a lower weight category at the weigh-in, so he fights lighter opponents. They can also be used to hide other banned drugs by diluting the urine.\n(b) Dehydration and kidney damage.",
+   "tip": "Diuretics work by removing water from the body; side effects come from this."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe a suitable warm-up for a badminton player before a match. Include each phase of the warm-up and explain how the warm-up helps her performance.",
+   "ms": [
+    "phase 1: pulse raiser, e.g. jogging/skipping around the court (1)",
+    "phase 2: stretching, e.g. dynamic stretches such as lunges, arm circles (1)",
+    "phase 3: skill-related/familiarisation, e.g. rallying, practising smashes and footwork drills (1)",
+    "raises heart rate / body and muscle temperature / blood flow and oxygen to muscles (1)",
+    "increases range of movement / flexibility at joints, reducing risk of muscle/tendon injury (1)",
+    "muscles contract faster and more efficiently (1)",
+    "psychological: focus/concentration, mental rehearsal or reduces anxiety (1)",
+    "max 6 (max 3 for the phases)"
+   ],
+   "model": "First a pulse raiser: jogging and side-stepping around the court for about 5 minutes. This raises her heart rate and body temperature, increasing blood flow and oxygen to the muscles so they contract faster and more efficiently. Second, stretching: dynamic stretches such as lunges, leg swings and arm circles, which increase the range of movement at her shoulder, hips and knees and reduce the risk of muscle and tendon injuries. Third, skill-related practice: rallying with a partner, practising smashes, drop shots and footwork to the corners. This prepares her for the movements of the match and helps her focus, mentally rehearse her shots and control her nerves.",
+   "tip": "Each phase needs a badminton-specific example; generic 'do some stretching' scores less."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A sprinter is found to have taken anabolic steroids.\n(a) Explain how anabolic steroids could improve the sprinter's performance. [2]\n(b) Give two health risks of taking anabolic steroids. [2]\n(c) Describe two ways in which organising bodies try to stop performers using performance-enhancing drugs. [2]",
+   "ms": [
+    "(a) increase muscle mass / strength / power (1)",
+    "(a) allow harder training and quicker recovery from training (1)",
+    "(a) so faster acceleration / sprint speed (1)",
+    "max 2 for (a)",
+    "(b) liver damage (1)",
+    "(b) heart disease / high blood pressure (1)",
+    "(b) aggression / mood swings / acne / infertility / hormone changes (1)",
+    "max 2 for (b)",
+    "(c) drug testing: in and out of competition, random tests (urine/blood samples) (1)",
+    "(c) bans / suspensions / stripping of medals or records (1)",
+    "(c) education programmes / a list of banned substances (e.g. by WADA) (1)",
+    "max 2 for (c)"
+   ],
+   "model": "(a) Anabolic steroids increase muscle mass and strength, and allow the sprinter to train harder and recover faster. More powerful muscles produce more force, so she can accelerate faster.\n(b) They can cause liver damage and heart disease (high blood pressure).\n(c) Organising bodies carry out random drug tests, in and out of competition, using urine and blood samples. Performers who test positive are banned from competing and can be stripped of their medals.",
+   "tip": "Organising-body marks need an action (testing, bans), not just 'they are illegal'."
+  }
+ ]
+}

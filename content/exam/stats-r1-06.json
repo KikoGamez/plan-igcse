@@ -1,0 +1,86 @@
+{
+ "id": "stats-r1-06",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A scatter diagram shows the number of hours of television watched per week and the exam mark for 20 students. The points slope down from left to right and lie close to a straight line.\nDescribe the correlation and interpret it in context.",
+   "ms": [
+    "B1: strong negative (correlation)",
+    "B1: students who watch more television tend to get lower exam marks (oe)"
+   ],
+   "model": "There is strong negative correlation: students who watched more hours of television tended to get lower exam marks.",
+   "tip": "Interpretation must use the variables in the question; do not claim the TV causes the lower marks."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "The table shows the number of hours of piano practice per week, x, and the score in a performance assessment, y, for 6 students.\n\nx    3    5    6    8   10    4\ny   12   17   20   26   31   14\n\nCalculate the coordinates of the mean point (x̄, ȳ).",
+   "ms": [
+    "B1: x̄ = 36 ÷ 6 = 6",
+    "B1: ȳ = 120 ÷ 6 = 20, so (6, 20)"
+   ],
+   "model": "x̄ = (3 + 5 + 6 + 8 + 10 + 4) ÷ 6 = 36 ÷ 6 = 6.\nȳ = (12 + 17 + 20 + 26 + 31 + 14) ÷ 6 = 120 ÷ 6 = 20.\nThe mean point is (6, 20).",
+   "tip": "The line of best fit should pass through the mean point, so this is often the first step."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "For the data on hours of piano practice per week (x) and performance score (y), a line of best fit passes through the mean point (6, 20) and the point (2, 9).\n(a) Find the equation of the line of best fit in the form y = a + bx. [3]\n(b) Interpret the value of b in this context. [1]\n(c) Use your equation to estimate the score of a student who practises for 7 hours a week. [1]",
+   "ms": [
+    "M1: gradient = (20 − 9) ÷ (6 − 2)",
+    "A1: b = 2.75",
+    "A1: y = 3.5 + 2.75x (oe)",
+    "(b) B1: for each extra hour of practice per week, the score increases by about 2.75 (points) (ft their b)",
+    "(c) B1: 22.75 (allow 22.8 or 23; ft their equation)"
+   ],
+   "model": "(a) b = (20 − 9) ÷ (6 − 2) = 11 ÷ 4 = 2.75.\na = 20 − 2.75 × 6 = 20 − 16.5 = 3.5.\nSo y = 3.5 + 2.75x.\n(b) Each extra hour of practice per week is linked to an increase of about 2.75 in the performance score.\n(c) y = 3.5 + 2.75 × 7 = 22.75 ≈ 22.8.",
+   "tip": "Interpret the gradient as 'for each extra one unit of x, y changes by b units', using the context."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The height, y metres, of a type of tree is related to its age, x years, by the line of best fit\ny = 1.8 + 0.45x\nThe line was found using trees aged from 5 to 40 years.\n(a) Estimate the height of a tree aged 20 years. [1]\n(b) Comment on the reliability of your answer to (a). [1]\n(c) Use the equation to estimate the height of a tree aged 150 years, and comment on your answer. [2]",
+   "ms": [
+    "(a) B1: 10.8 m",
+    "(b) B1: reliable because 20 years is within the range of the data (interpolation)",
+    "(c) B1: 69.3 m",
+    "(c) B1: unreliable because it is extrapolation (150 is far outside 5–40 years); trees do not keep growing at the same rate (oe)"
+   ],
+   "model": "(a) y = 1.8 + 0.45 × 20 = 1.8 + 9 = 10.8 m.\n(b) It should be fairly reliable because 20 years is inside the range of ages used (interpolation).\n(c) y = 1.8 + 0.45 × 150 = 69.3 m. This is unreliable: 150 years is far outside the range 5–40 years (extrapolation), and trees stop growing at a steady rate as they get older, so the real height is likely to be much less.",
+   "tip": "Use the words interpolation and extrapolation and refer to the range of the data."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "The table shows the marks of 7 students in a maths test and a science test.\n\nStudent   A    B    C    D    E    F    G\nMaths    72   55   81   64   90   47   68\nScience  65   58   77   70   84   52   61\n\n(a) Calculate Spearman's rank correlation coefficient for these data. [5]\nrs = 1 − 6Σd² ÷ (n(n² − 1))\n(b) Interpret your answer in context. [1]\n(c) A teacher says, \"This proves that being good at maths makes students good at science.\" Comment on this statement. [1]",
+   "ms": [
+    "B1: maths ranks 3, 6, 2, 5, 1, 7, 4 (or reversed consistently)",
+    "B1: science ranks 4, 6, 2, 3, 1, 7, 5 (ranked in the same direction)",
+    "M1: d values and Σd² = 6",
+    "M1: 1 − (6 × 6) ÷ (7 × 48)",
+    "A1: 0.893 (awrt 0.893)",
+    "(b) B1: strong positive correlation: students with high maths marks tended to have high science marks (ft)",
+    "(c) B1: correlation does not show causation (another factor, e.g. general ability or revision, could affect both)"
+   ],
+   "model": "(a) Ranks (highest mark = 1):\nMaths: A 3, B 6, C 2, D 5, E 1, F 7, G 4\nScience: A 4, B 6, C 2, D 3, E 1, F 7, G 5\nd: −1, 0, 0, 2, 0, 0, −1, so Σd² = 1 + 0 + 0 + 4 + 0 + 0 + 1 = 6.\nrs = 1 − (6 × 6) ÷ (7 × (49 − 1)) = 1 − 36 ÷ 336 = 0.893.\n(b) There is strong positive correlation: students who did well in maths tended to do well in science.\n(c) The teacher is wrong: correlation does not prove causation. Both marks could depend on something else, such as how hard the student works.",
+   "tip": "Rank both variables in the same direction, and check Σd = 0 before squaring."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A café records the midday temperature, x °C, and the number of hot drinks sold, y, on 12 days. The temperatures range from 2 °C to 25 °C. The mean point is (14, 82). The line of best fit passes through the mean point and the point (4, 130).\n(a) Find the equation of the line of best fit in the form y = a + bx. [3]\n(b) Interpret the values of a and b in context. [2]\n(c) Use the equation to predict the number of hot drinks sold on a day when the temperature is 35 °C. Explain why this prediction is not sensible. [2]",
+   "ms": [
+    "M1: b = (82 − 130) ÷ (14 − 4)",
+    "A1: b = −4.8",
+    "A1: y = 149.2 − 4.8x (oe)",
+    "(b) B1: b: for each 1 °C rise in temperature, about 4.8 fewer hot drinks are sold (ft)",
+    "(b) B1: a: about 149 hot drinks would be sold when the temperature is 0 °C (allow comment that 0 °C is outside the data range) (ft)",
+    "(c) B1: 149.2 − 4.8 × 35 = −18.8 (ft)",
+    "(c) B1: a negative number of drinks is impossible; 35 °C is outside the range of the data (extrapolation)"
+   ],
+   "model": "(a) b = (82 − 130) ÷ (14 − 4) = −48 ÷ 10 = −4.8.\na = 130 + 4.8 × 4 = 149.2 (check: 149.2 − 4.8 × 14 = 82).\ny = 149.2 − 4.8x.\n(b) b = −4.8: for each 1 °C increase in temperature, the café sells about 4.8 fewer hot drinks. a = 149.2: on a day at 0 °C the café would sell about 149 hot drinks, although 0 °C is just outside the data range so this is an estimate.\n(c) y = 149.2 − 4.8 × 35 = −18.8. This is impossible because you cannot sell a negative number of drinks; 35 °C is well outside the range 2–25 °C, so the line should not be used (extrapolation).",
+   "tip": "A negative gradient must be interpreted as a decrease: \"4.8 fewer drinks per 1 °C\"."
+  }
+ ]
+}

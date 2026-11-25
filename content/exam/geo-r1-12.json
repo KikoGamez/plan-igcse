@@ -1,0 +1,84 @@
+{
+  "id": "geo-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "On a 1:50 000 map, the straight-line distance between two churches is 3.4 cm. Calculate the real distance in kilometres. Show your working.",
+      "ms": [
+        "M1: 3.4 × 50 000 = 170 000 cm",
+        "A1: 1.7 km"
+      ],
+      "model": "3.4 × 50 000 = 170 000 cm. 170 000 cm = 1 700 m = 1.7 km.",
+      "tip": "100 000 cm = 1 km: divide cm by 100 000."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Point A is at grid reference 345120 and point B is at grid reference 335110.\n(a) State the compass direction from A to B. [1]\n(b) State the bearing from A to B. [1]",
+      "ms": [
+        "(a) south-west (SW)",
+        "(b) 225° (allow 223°–227°)"
+      ],
+      "model": "(a) B has a lower easting and a lower northing, so it is south-west of A.\n(b) It is 1 km west and 1 km south, so the bearing is exactly 225°.",
+      "tip": "Direction 'from A to B' means stand at A and look towards B."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "On a 1:25 000 map, spot height P is 120 m and spot height Q is 45 m. The distance between P and Q on the map is 6 cm. Calculate the average gradient between P and Q. Show your working.",
+      "ms": [
+        "M1: horizontal distance 6 × 25 000 = 150 000 cm = 1 500 m",
+        "M1: vertical difference 120 − 45 = 75 m",
+        "M1: 1 500 ÷ 75",
+        "A1: 1 in 20 (allow 1:20)"
+      ],
+      "model": "Horizontal distance = 6 × 25 000 = 150 000 cm = 1 500 m. Height difference = 120 − 45 = 75 m. Gradient = 75 / 1 500 = 1 / 20, so the gradient is 1 in 20.",
+      "tip": "Convert both distances to metres before dividing."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Students want to test the hypothesis 'The number of pedestrians decreases with distance from the CBD.' Describe how they should carry out a pedestrian count.",
+      "ms": [
+        "choose sites at regular intervals, e.g. every 100 m along a line (transect) from the centre of the CBD outwards (1)",
+        "count at all sites at the same time / on the same day (1) – groups working at the same time (dev 1)",
+        "count for a fixed time, e.g. 10 minutes (1)",
+        "use a tally chart / clicker counter (1)",
+        "count people passing in both directions / a fixed point such as a shop front (1)",
+        "repeat counts / on different days and take an average (1)"
+      ],
+      "model": "The students should choose about 8 sites at equal intervals, for example every 100 m, along a transect from the centre of the CBD outwards. Groups should stand at each site at the same time on the same day and count every pedestrian passing a fixed point, such as a shop doorway, in both directions for exactly 10 minutes, using a tally chart. They should repeat the count at a different time of day and calculate an average for each site.",
+      "tip": "Accuracy points: same time, same length of count, fixed point, repeats."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Students measured the width of a river at five sites, from Site 1 (nearest the source) to Site 5 (furthest downstream).\nSite:       1    2    3    4    5\nWidth (m): 1.2  2.0  2.6  2.3  3.8\n(a) Calculate the mean width of the river. [1]\n(b) Do the results support the hypothesis 'River width increases downstream'? Use data in your answer. [3]\n(c) Suggest one reason for the result at Site 4. [1]",
+      "ms": [
+        "(a) 2.38 m (11.9 ÷ 5)",
+        "(b) mostly yes / partly supported (1)",
+        "(b) width increases from 1.2 m at Site 1 to 3.8 m at Site 5 (1)",
+        "(b) but Site 4 is an exception / anomaly: 2.3 m, narrower than Site 3 (2.6 m) (1)",
+        "(c) any one: harder / more resistant rock at Site 4; human channel change (e.g. bridge / straightened / embanked channel); measured at a narrow point / pool–riffle; measurement error (e.g. tape not taut, different water level)"
+      ],
+      "model": "(a) 1.2 + 2.0 + 2.6 + 2.3 + 3.8 = 11.9; 11.9 ÷ 5 = 2.38 m.\n(b) The results mostly support the hypothesis. The river widens from 1.2 m at Site 1 to 3.8 m at Site 5, more than three times wider. However, Site 4 does not fit the pattern: at 2.3 m it is narrower than Site 3 (2.6 m), so the width does not increase at every site.\n(c) At Site 4 the river may flow through more resistant rock, or the channel may have been narrowed by a bridge.",
+      "tip": "A good conclusion says 'partly' and names the anomaly with its value."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student used a questionnaire to find out where shoppers in a town centre had travelled from. They stood outside one supermarket from 9:00 to 9:30 on a Monday morning and asked the first 15 people who would stop.\nSuggest how the student could improve the method to make the results more reliable and representative. Explain each improvement.",
+      "ms": [
+        "larger sample, e.g. 50–100 people (1) – reduces the effect of unusual answers / more reliable (dev 1)",
+        "survey at several locations around the town centre, not just one supermarket (1) – one shop attracts only certain shoppers (dev 1)",
+        "different times of day and days of the week, including weekends (1) – Monday morning shoppers (e.g. retired people) are not typical (dev 1)",
+        "use a sampling method, e.g. systematic (every 5th person) / stratified by age (1) – avoids bias of choosing friendly people (dev 1)",
+        "longer survey period / repeat on another day (1)",
+        "clear, closed questions / pilot the questionnaire; work in groups for safety (1)"
+      ],
+      "model": "First, the sample of 15 is too small, so the student should ask at least 50 people; this reduces the effect of a few unusual answers. Second, they should survey at several places in the town centre, not only outside one supermarket, because different shops attract shoppers from different areas. Third, they should survey at different times and on different days, including a Saturday, because Monday-morning shoppers may mainly be retired people living nearby. Finally, they should use systematic sampling, asking every fifth person, instead of the first people who stop, to avoid bias.",
+      "tip": "Each improvement needs a reason (why it makes the results better) for the second mark."
+    }
+  ]
+}

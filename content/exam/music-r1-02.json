@@ -1,0 +1,83 @@
+{
+ "id": "music-r1-02",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the major key with three flats and its relative minor.",
+   "ms": [
+    "E♭ major",
+    "C minor"
+   ],
+   "model": "E♭ major; its relative minor is C minor.",
+   "tip": "Flats: the second-last flat (E♭ in B♭ E♭ A♭) names the major key; the relative minor is 3 semitones lower."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "In the bass clef, name the note on:\n(a) the second space up from the bottom\n(b) the top line",
+   "ms": [
+    "(a) C",
+    "(b) A"
+   ],
+   "model": "(a) C (b) A",
+   "tip": "Bass clef spaces from the bottom: A C E G; lines: G B D F A."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name each interval fully (quality and number). The second note is above the first, and both are in the key of the first note's major scale unless an accidental is shown.\n(a) F up to D\n(b) E up to G\n(c) A up to E\n(d) G up to F (natural)",
+   "ms": [
+    "(a) major 6th",
+    "(b) minor 3rd",
+    "(c) perfect 5th",
+    "(d) minor 7th (F♮ is a semitone below the F♯ of G major)"
+   ],
+   "model": "(a) major 6th (b) minor 3rd (c) perfect 5th (d) minor 7th",
+   "tip": "Count both end notes, then check whether the top note is in the major scale of the bottom note."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the scale or mode used by each melody.\n(a) A melody uses only the notes D E F♯ A B.\n(b) A B C D E F G♯ A\n(c) D E F G A B C D (no sharps or flats)\n(d) A melody moves through all twelve semitones in turn.",
+   "ms": [
+    "(a) pentatonic (D major pentatonic)",
+    "(b) harmonic minor (A harmonic minor)",
+    "(c) Dorian mode (on D)",
+    "(d) chromatic scale"
+   ],
+   "model": "(a) pentatonic (b) A harmonic minor (c) Dorian mode (d) chromatic",
+   "tip": "Harmonic minor: natural minor with a raised 7th (G♯ in A minor)."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Transposition.\n(a) A part for clarinet in B♭ has the written notes G A B C D. Write these notes at concert pitch. [2]\n(b) The written part is in G major. In which key does it sound? [1]\n(c) A horn in F has the written notes C D E. Write them at concert pitch. [2]\n(d) A melody at concert pitch is in E♭ major. What key signature does the B♭ clarinet part need? [1]",
+   "ms": [
+    "(a) M1: moves every note down a major 2nd (tone)",
+    "(a) A1: F G A B♭ C",
+    "(b) F major",
+    "(c) M1: moves every note down a perfect 5th",
+    "(c) A1: F G A",
+    "(d) F major: one flat (B♭) (written a major 2nd higher than concert pitch)"
+   ],
+   "model": "(a) F G A B♭ C (each note a major 2nd lower). (b) F major. (c) F G A (a perfect 5th lower). (d) F major, one flat: the clarinet is written a tone higher than it sounds.",
+   "tip": "B♭ instruments sound a tone lower than written; so their parts are written a tone higher than concert pitch."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A melody in C major, 4/4, all crotchets except the last bar:\nBar 1: C D E C | Bar 2: D E F D | Bar 3: E F G E | Bar 4: F G A F | Bar 5: G (minim) C′ (minim, an octave above the first note)\nA 'tr' sign is written over the G in bar 5.\n(a) Name the melodic device used in bars 1–4. [1]\n(b) By what interval does each repetition move? [1]\n(c) Describe the melodic movement in bars 1–4, and name the interval from G to C′ in bar 5. [2]\n(d) State the range of the melody. [1]\n(e) Name the ornament on the G. [1]",
+   "ms": [
+    "(a) (ascending / rising) sequence",
+    "(b) up a step / a 2nd (allow tone)",
+    "(c) mostly conjunct / stepwise, with a small leap (3rd) back down at the end of each bar",
+    "(c) perfect 4th (rising leap)",
+    "(d) an octave (C to C′)",
+    "(e) trill"
+   ],
+   "model": "(a) An ascending sequence. (b) Up one step each time. (c) Mostly conjunct (stepwise) with a falling 3rd at the end of each bar; G to C′ is a rising perfect 4th. (d) An octave. (e) A trill.",
+   "tip": "A sequence repeats an idea at a different pitch; a repetition at the same pitch is just repetition."
+  }
+ ]
+}

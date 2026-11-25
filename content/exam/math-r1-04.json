@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Factorise completely 12a²b + 8ab³.",
+      "ms": [
+        "B1: a correct partial factorisation, e.g. 4a(3ab + 2b³) or 2ab(6a + 4b²)",
+        "B1: 4ab(3a + 2b²) (scores both marks)"
+      ],
+      "model": "The HCF of the two terms is 4ab.\n12a²b + 8ab³ = 4ab(3a + 2b²).",
+      "tip": "'Completely' means take out the highest common factor: numbers and every letter."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Expand and simplify 3(2x − 5) − 2(x − 4).",
+      "ms": [
+        "M1: 6x − 15 − 2x + 8 (allow one sign error)",
+        "A1: 4x − 7"
+      ],
+      "model": "3(2x − 5) = 6x − 15 and −2(x − 4) = −2x + 8.\n6x − 15 − 2x + 8 = 4x − 7.",
+      "tip": "Minus times minus: −2 × −4 = +8, not −8."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Factorise\n(a) 4x² − 25, [1]\n(b) 6x² − x − 12, [2]\n(c) y² − 12y + 36. [1]",
+      "ms": [
+        "(a) B1: (2x − 5)(2x + 5)",
+        "(b) M1: correct split 6x² − 9x + 8x − 12, or brackets giving two of the three terms correctly, e.g. (3x − 4)(2x + 3)",
+        "(b) A1: (3x + 4)(2x − 3)",
+        "(c) B1: (y − 6)² or (y − 6)(y − 6)"
+      ],
+      "model": "(a) Difference of two squares: (2x)² − 5² = (2x − 5)(2x + 5).\n(b) ac = 6 × −12 = −72; −9 and 8 multiply to −72 and add to −1.\n6x² − 9x + 8x − 12 = 3x(2x − 3) + 4(2x − 3) = (3x + 4)(2x − 3).\n(c) (y − 6)², since 6 × 6 = 36 and −6 − 6 = −12.",
+      "tip": "Expand your answer to check it: (3x + 4)(2x − 3) = 6x² − 9x + 8x − 12 ✓."
+    },
+    {
+      "lvl": 2,
+      "marks": 3,
+      "q": "Expand and simplify (2x − 1)(x + 3)².",
+      "ms": [
+        "M1: (x + 3)² = x² + 6x + 9",
+        "M1: their 3-term quadratic multiplied by (2x − 1) giving at least 5 of the 6 terms correct: 2x³ + 12x² + 18x − x² − 6x − 9",
+        "A1: 2x³ + 11x² + 12x − 9"
+      ],
+      "model": "(x + 3)² = x² + 6x + 9.\n(2x − 1)(x² + 6x + 9) = 2x³ + 12x² + 18x − x² − 6x − 9\n= 2x³ + 11x² + 12x − 9.",
+      "tip": "(x + 3)² is (x + 3)(x + 3), never x² + 9."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) Simplify (x² + 2x − 15)/(2x² − 7x + 3). [4]\n(b) Show that (n + 3)² − (n − 3)² is a multiple of 12 for all integers n. [2]",
+      "ms": [
+        "(a) B1: x² + 2x − 15 = (x + 5)(x − 3)",
+        "(a) M1: attempt to factorise 2x² − 7x + 3 into two brackets giving two of the three terms correctly",
+        "(a) A1: (2x − 1)(x − 3)",
+        "(a) B1: (x + 5)/(2x − 1) final answer",
+        "(b) M1: n² + 6n + 9 − (n² − 6n + 9), or uses difference of two squares (6)(2n)",
+        "(b) A1: = 12n, which is 12 × an integer, so a multiple of 12"
+      ],
+      "model": "(a) Numerator: x² + 2x − 15 = (x + 5)(x − 3).\nDenominator: 2x² − 7x + 3 = (2x − 1)(x − 3).\nCancel (x − 3): the answer is (x + 5)/(2x − 1).\n(b) (n + 3)² − (n − 3)² = n² + 6n + 9 − (n² − 6n + 9) = 12n.\nn is an integer, so 12n is a multiple of 12.",
+      "tip": "Only cancel whole brackets that are factors of both the top and the bottom."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "(a) Write 3/(x + 2) − (x − 4)/(x² − 4) as a single fraction in its simplest form. [4]\n(b) Simplify (x² − 9)/(x + 1) ÷ (x − 3)/(x² + x). [3]",
+      "ms": [
+        "(a) B1: x² − 4 = (x + 2)(x − 2)",
+        "(a) M1: common denominator (x + 2)(x − 2) with numerator 3(x − 2) − (x − 4)",
+        "(a) M1: numerator simplified correctly to 2x − 2",
+        "(a) A1: (2x − 2)/((x + 2)(x − 2)) or 2(x − 1)/(x² − 4) oe",
+        "(b) M1: inverts the second fraction and multiplies",
+        "(b) M1: factorises x² − 9 = (x − 3)(x + 3) and x² + x = x(x + 1)",
+        "(b) A1: x(x + 3) or x² + 3x"
+      ],
+      "model": "(a) x² − 4 = (x + 2)(x − 2), so the common denominator is (x + 2)(x − 2).\n3/(x + 2) = 3(x − 2)/((x + 2)(x − 2))\nNumerator: 3(x − 2) − (x − 4) = 3x − 6 − x + 4 = 2x − 2\nAnswer: (2x − 2)/((x + 2)(x − 2)) = 2(x − 1)/(x² − 4)\n(b) (x − 3)(x + 3)/(x + 1) × x(x + 1)/(x − 3)\nCancel (x − 3) and (x + 1): the answer is x(x + 3).",
+      "tip": "When subtracting a fraction, put its numerator in a bracket: −(x − 4) = −x + 4."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "bio-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Name:\n(a) the muscles found between the ribs\n(b) the sheet of muscle that separates the thorax from the abdomen, below the lungs",
+      "ms": [
+        "(a) intercostal muscles",
+        "(b) diaphragm"
+      ],
+      "model": "(a) Intercostal muscles.\n(b) Diaphragm.",
+      "tip": "Learn the spelling: intercostal, diaphragm."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Describe how limewater could be used to show that expired air contains more carbon dioxide than inspired air.",
+      "ms": [
+        "set up two tubes of limewater (same volume)",
+        "breathe out (expired air) through one tube / draw in (inspired air) through the other",
+        "limewater with expired air turns milky / cloudy faster / more than with inspired air"
+      ],
+      "model": "Set up two tubes with the same volume of limewater, connected so that breathing in draws air through one tube and breathing out bubbles air through the other. Breathe in and out several times. The limewater that expired air passes through turns milky much faster than the limewater that inspired air passes through.",
+      "tip": "Limewater goes milky (cloudy) with carbon dioxide; compare the speed of change."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Expired air contains less oxygen and more carbon dioxide than inspired air.\nExplain these two differences.",
+      "ms": [
+        "oxygen diffuses from the alveoli into the blood",
+        "oxygen is used in (aerobic) respiration in body cells",
+        "carbon dioxide is produced by respiration in cells / carried to the lungs in the blood",
+        "carbon dioxide diffuses from the blood into the alveoli (and is breathed out)"
+      ],
+      "model": "In the alveoli, oxygen diffuses from the air into the blood, which carries it to body cells where it is used in aerobic respiration, so less oxygen is breathed out. Carbon dioxide is produced by respiration in the cells, carried in the blood to the lungs, and diffuses from the blood into the alveoli, so more carbon dioxide is breathed out.",
+      "tip": "Expired air still contains about 16 % oxygen — say 'less', not 'no' oxygen."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A student measured her breathing at rest and during exercise.\nat rest: 14 breaths per min, 0.5 dm³ of air per breath\nduring exercise: 30 breaths per min, 2.0 dm³ of air per breath\n(a) Calculate the volume of air breathed per minute at rest. [1]\n(b) Calculate the volume of air breathed per minute during exercise. [1]\n(c) Calculate how many times greater the volume per minute is during exercise. Give your answer to 2 significant figures. [1]\n(d) Explain how the brain causes these changes during exercise. [2]",
+      "ms": [
+        "(a) 7.0 dm³ per min",
+        "(b) 60 dm³ per min",
+        "(c) 8.6 (ecf)",
+        "(d) increased carbon dioxide concentration in the blood (from faster respiration in muscles)",
+        "(d) detected by the brain, which causes faster and deeper breathing"
+      ],
+      "model": "(a) 14 × 0.5 = 7.0 dm³ per min.\n(b) 30 × 2.0 = 60 dm³ per min.\n(c) 60 ÷ 7.0 = 8.6 times.\n(d) The muscles respire faster and produce more carbon dioxide, so the carbon dioxide concentration in the blood increases. The brain detects this and sends impulses to the breathing muscles to increase the rate and depth of breathing.",
+      "tip": "Volume per minute = breaths per minute × volume per breath."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A student set up three sealed tubes, each containing red hydrogencarbonate indicator, at 25 °C.\nTube A: germinating peas. Tube B: boiled peas. Tube C: glass beads.\nAfter 1 hour the indicator in tube A was yellow. Tubes B and C were still red.\n(a) Explain the colour change in tube A. [3]\n(b) Explain why the indicator in tube B did not change. [1]\n(c) The experiment is repeated at 5 °C. Predict and explain the result in tube A. [2]\n(d) Write the balanced symbol equation for aerobic respiration. [2]",
+      "ms": [
+        "(a) germinating peas respire (aerobically)",
+        "(a) release / produce carbon dioxide",
+        "(a) carbon dioxide concentration increases so indicator turns yellow",
+        "(b) boiled peas are dead / enzymes denatured, so no respiration / no carbon dioxide released",
+        "(c) indicator changes colour more slowly / stays orange or red after 1 hour",
+        "(c) less kinetic energy, enzymes work more slowly, so slower respiration",
+        "(d) C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O: correct formulae",
+        "(d) correct balancing"
+      ],
+      "model": "(a) The germinating peas respire aerobically and release carbon dioxide. The carbon dioxide concentration in the tube increases, so the indicator turns from red to yellow.\n(b) The boiled peas are dead because their enzymes are denatured, so they do not respire and no carbon dioxide is released.\n(c) The colour would change more slowly (it might still be orange after 1 hour), because at 5 °C the enzymes for respiration have less kinetic energy and work more slowly, so respiration is slower.\n(d) C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+      "tip": "Tube C is a control to show that nothing else in the set-up changes the indicator."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Emphysema is a lung disease in which the walls between the alveoli break down, leaving fewer, larger air spaces.\nExplain why a person with emphysema becomes breathless and tired quickly during exercise.",
+      "ms": [
+        "smaller surface area for gas exchange",
+        "less oxygen diffuses into the blood (per minute)",
+        "less oxygen delivered to the muscles",
+        "less aerobic respiration / less energy released for muscle contraction",
+        "more anaerobic respiration so lactic acid builds up / oxygen debt (causing tiredness)",
+        "carbon dioxide removed more slowly / builds up in the blood, detected by the brain, so breathing rate increases (breathless)"
+      ],
+      "model": "When the alveolar walls break down, the total surface area for gas exchange is smaller. So less oxygen diffuses into the blood each minute, and less is delivered to the muscles. During exercise the muscles cannot get enough oxygen for aerobic respiration, so less energy is released and they respire anaerobically, building up lactic acid and an oxygen debt, which makes the person tired. Carbon dioxide is also removed more slowly, so its concentration in the blood rises; the brain detects this and makes the person breathe faster, so they become breathless.",
+      "tip": "Link structure to function: surface area → rate of diffusion → oxygen supply → respiration."
+    }
+  ]
+}

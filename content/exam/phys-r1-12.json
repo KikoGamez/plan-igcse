@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-12",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Explain what is meant by isotopes.",
+   "ms": [
+    "atoms (nuclei) of the same element / same number of protons (same proton number)",
+    "different numbers of neutrons (different nucleon numbers)"
+   ],
+   "model": "Isotopes are atoms of the same element, with the same number of protons, but different numbers of neutrons."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "A technician needs to move a radioactive source from a storage box to an experiment. State three ways she can reduce the dose of radiation she receives, and say how each one helps.",
+   "ms": [
+    "time: handle it for as short a time as possible (less exposure)",
+    "distance: use long tongs / hold at arm's length, keep away from body (less radiation reaches her)",
+    "shielding: keep it in a lead-lined box / use lead screens (absorbs radiation)",
+    "never point the source at people / wear a film badge to monitor exposure (allow as alternative)"
+   ],
+   "model": "Time: handle the source for as short a time as possible. Distance: use long tongs and keep it away from her body, as less radiation reaches her further away. Shielding: carry it in a lead-lined container that absorbs the radiation."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Complete the decay equations below, writing each nuclide in nuclide notation.\n(a) Americium-241 (proton number 95), used in smoke alarms, decays by emitting an α-particle to form neptunium (Np). [2]\n(b) Strontium-90 (proton number 38) decays by emitting a β-particle to form yttrium (Y). [2]",
+   "ms": [
+    "(a) ²³⁷₉₃Np (nucleon number 237 and proton number 93 both correct)",
+    "(a) ⁴₂He (allow ⁴₂α) as the second product",
+    "(b) ⁹⁰₃₉Y (nucleon number 90 and proton number 39 both correct)",
+    "(b) ⁰₋₁e (allow ⁰₋₁β) as the second product"
+   ],
+   "model": "(a) ²⁴¹₉₅Am → ²³⁷₉₃Np + ⁴₂He\n(b) ⁹⁰₃₈Sr → ⁹⁰₃₉Y + ⁰₋₁e",
+   "tip": "Check that the top numbers and the bottom numbers each balance on both sides."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Technetium-99m is used as a medical tracer. It emits only gamma radiation and has a half-life of 6.0 hours. It is injected into a patient.\n(a) Calculate the fraction of the technetium-99m that remains after 24 hours. [2]\n(b) Explain why a gamma emitter with a short half-life is suitable for this use. [2]",
+   "ms": [
+    "(a) C1: 24 ÷ 6.0 = 4 half-lives",
+    "(a) A1: 1/16 (allow 0.0625 or 6.25%)",
+    "(b) gamma is penetrating, so it passes out of the body to the detector / gamma is only weakly ionising so causes less damage to cells",
+    "(b) short half-life means the activity falls quickly, so the patient is exposed to radiation for only a short time"
+   ],
+   "model": "(a) 24 ÷ 6.0 = 4 half-lives: 1 → ½ → ¼ → ⅛ → 1/16, so 1/16 remains.\n(b) Gamma rays are very penetrating, so they pass out of the body and can be detected outside it, and they are only weakly ionising so do little damage. The short half-life means the activity falls quickly, so the patient is not exposed for long.",
+   "tip": "Show the halving steps; 24 ÷ 6.0 = 4 does not mean one quarter remains."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "The Moon orbits the Earth at a radius of 3.84 × 10⁸ m. It takes 27.3 days to complete one orbit. The speed of light is 3.0 × 10⁸ m/s.\n(a) Calculate the orbital speed of the Moon. [3]\n(b) A laser pulse is sent from the Earth to a mirror on the Moon. Calculate the time for the pulse to reach the Moon. [2]\n(c) Name the force that keeps the Moon in its orbit. [1]\n(d) Define the light-year. [1]",
+   "ms": [
+    "(a) C1: T = 27.3 × 24 × 3600 = 2.36 × 10⁶ s",
+    "(a) C1: v = 2πr ÷ T = 2π × 3.84 × 10⁸ ÷ 2.36 × 10⁶",
+    "(a) A1: 1.0 × 10³ m/s (allow 1020 m/s)",
+    "(b) C1: t = distance ÷ speed = 3.84 × 10⁸ ÷ 3.0 × 10⁸",
+    "(b) A1: 1.3 s (allow 1.28 s)",
+    "(c) gravitational attraction of the Earth (gravity)",
+    "(d) the distance travelled by light in space (a vacuum) in one year (not 'time')"
+   ],
+   "model": "(a) T = 27.3 × 24 × 3600 = 2.36 × 10⁶ s.\nv = 2πr ÷ T = (2 × π × 3.84 × 10⁸) ÷ 2.36 × 10⁶ = 1.0 × 10³ m/s.\n(b) t = 3.84 × 10⁸ ÷ 3.0 × 10⁸ = 1.28 s ≈ 1.3 s.\n(c) The gravitational attraction of the Earth.\n(d) The distance travelled by light in space in one year.",
+   "tip": "Convert the period into seconds before using v = 2πr ÷ T, or your answer will not be in m/s."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe how a star with a mass similar to the Sun forms, how it produces energy during its stable stage, and what happens to it at the end of its life.",
+   "ms": [
+    "forms from an interstellar cloud of gas and dust (nebula)",
+    "gravitational attraction pulls the gas and dust together, forming a protostar",
+    "temperature (and pressure) in the core rises until nuclear fusion starts",
+    "stable star: hydrogen nuclei fuse to form helium, releasing energy",
+    "when the hydrogen in the core runs out, the star expands to become a red giant",
+    "the outer layers are thrown off as a planetary nebula",
+    "the core is left as a (hot, dense) white dwarf"
+   ],
+   "model": "The star forms from an interstellar cloud of gas and dust. Gravitational attraction pulls the material together into a protostar, which heats up as it contracts until nuclear fusion begins in its core. During its long stable stage, hydrogen nuclei fuse to form helium, releasing energy. When the hydrogen in the core runs out, the star swells into a red giant. Its outer layers drift away as a planetary nebula, and the remaining core becomes a white dwarf.",
+   "tip": "A Sun-sized star does NOT become a supernova – that is for much more massive stars."
+  }
+ ]
+}

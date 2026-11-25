@@ -1,0 +1,106 @@
+{
+  "id": "fr-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez les panneaux. Pour chaque personne, écrivez la bonne lettre. Attention : il y a deux panneaux de trop.\nA Bureau de poste\nB Objets trouvés\nC Bureau de change\nD Pharmacie\nE Boulangerie\n(a) Anna veut envoyer une carte postale. [1]\n(b) Tom a perdu son sac à dos dans le train. [1]\n(c) Lou a mal à la tête. [1]",
+      "ms": [
+        "(a) A",
+        "(b) B",
+        "(c) D"
+      ],
+      "model": "(a) A (b) B (c) D",
+      "tip": "Read the people first, then look for the key idea (send → post office, lost → lost property)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Compréhension orale (transcription). Vous entendez la météo.\n« Demain matin, il y aura du brouillard dans le nord. L'après-midi, il pleuvra dans l'ouest, mais dans le sud il fera beau, avec des températures jusqu'à vingt-huit degrés. »\nRépondez en français.\n(a) Quel temps fera-t-il demain matin dans le nord ? [1]\n(b) Quelle sera la température maximum dans le sud ? [1]",
+      "ms": [
+        "(a) du brouillard / il y aura du brouillard",
+        "(b) 28 degrés / vingt-huit degrés"
+      ],
+      "model": "(a) Il y aura du brouillard.\n(b) Vingt-huit degrés.",
+      "tip": "Match each weather phrase to the right region and time of day — the forecast lists several."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Lisez le texte d'Inès et répondez aux questions en français.\n« En juin, j'ai fait un stage de deux semaines dans une agence de voyages à Toulouse. Je répondais au téléphone et je classais des documents. À la fin, j'ai même aidé une cliente à réserver un séjour en Grèce ! Mes collègues étaient sympas, mais les journées étaient longues : je commençais à huit heures et je finissais à dix-huit heures. Grâce à ce stage, j'ai compris qu'il est important de parler plusieurs langues, car beaucoup de clients étaient étrangers. »\n(a) Où Inès a-t-elle fait son stage ? [1]\n(b) Donnez une tâche qu'elle faisait tous les jours. [1]\n(c) Qu'est-ce qu'elle a fait à la fin du stage ? [1]\n(d) Qu'est-ce qui était difficile pendant le stage ? [1]\n(e) Pourquoi est-il important de parler plusieurs langues dans ce travail ? [1]",
+      "ms": [
+        "(a) dans une agence de voyages (à Toulouse)",
+        "(b) elle répondait au téléphone / elle classait des documents",
+        "(c) elle a aidé une cliente à réserver un séjour (en Grèce)",
+        "(d) les journées étaient longues / elle travaillait de 8h à 18h",
+        "(e) beaucoup de clients étaient étrangers"
+      ],
+      "model": "(a) Dans une agence de voyages à Toulouse.\n(b) Elle répondait au téléphone.\n(c) Elle a aidé une cliente à réserver un séjour en Grèce.\n(d) Les journées étaient longues.\n(e) Parce que beaucoup de clients étaient étrangers.",
+      "tip": "'Mes collègues étaient sympas, mais…' — the difficulty comes after 'mais'."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Compréhension orale (transcription). Vous entendez un message de l'hôtel.\n« Bonjour, ici l'hôtel du Lac. Nous avons bien reçu votre réservation pour une chambre double du 3 au 6 août. Le petit-déjeuner est servi de sept heures à dix heures et il coûte douze euros par personne. Attention : notre parking est en travaux, donc garez-vous dans la rue derrière l'hôtel. »\nRépondez en français.\n(a) Quel type de chambre est réservé ? [1]\n(b) Combien de nuits le client va-t-il rester ? [1]\n(c) Combien coûte le petit-déjeuner ? [1]\n(d) Où faut-il se garer ? [1]",
+      "ms": [
+        "(a) une chambre double / pour deux personnes",
+        "(b) trois nuits / 3",
+        "(c) douze euros (par personne)",
+        "(d) dans la rue derrière l'hôtel (reject 'au parking')"
+      ],
+      "model": "(a) Une chambre double.\n(b) Trois nuits.\n(c) Douze euros par personne.\n(d) Dans la rue derrière l'hôtel.",
+      "tip": "From the 3rd to the 6th is three nights, not four — count the nights."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez l'article. Vrai ou faux ? Corrigez les phrases fausses.\n« La ville de Valbourg veut devenir plus verte. Il y a dix ans, la mairie a remplacé les grandes publicités dans les rues par des arbres. Maintenant, elle veut aller plus loin : à partir de 2030, les voitures diesel ne pourront plus entrer dans le centre-ville. Beaucoup d'habitants sont d'accord, car la pollution de l'air est un vrai problème dans cette ville entourée de montagnes. Cependant, les commerçants ont peur de perdre des clients. Pour les aider, la ville propose des bus gratuits le samedi et un parking à vélos devant chaque grand magasin. »\n(a) Valbourg a remplacé les publicités par des arbres. [1]\n(b) Les voitures diesel sont déjà interdites dans le centre. [1]\n(c) Beaucoup d'habitants pensent que la pollution de l'air est un problème. [1]\n(d) Tous les commerçants sont contents du projet. [1]\n(e) Les bus sont gratuits tous les jours. [1]\n(f) Il y aura des parkings à vélos devant les grands magasins. [1]",
+      "ms": [
+        "(a) VRAI",
+        "(b) FAUX — elles seront interdites à partir de 2030",
+        "(c) VRAI",
+        "(d) FAUX — les commerçants ont peur de perdre des clients",
+        "(e) FAUX — ils sont gratuits (seulement) le samedi",
+        "(f) VRAI",
+        "a 'faux' answer needs a correct correction for the mark"
+      ],
+      "model": "(a) Vrai.\n(b) Faux : elles seront interdites à partir de 2030.\n(c) Vrai.\n(d) Faux : ils ont peur de perdre des clients.\n(e) Faux : ils sont gratuits le samedi.\n(f) Vrai.",
+      "tip": "Words like 'déjà', 'tous' and 'tous les jours' in a statement are often what makes it false."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture. Écrivez un article (80–100 mots) pour un site de jeunes francophones : « Ma ville ».\nMentionnez :\n• où se trouve votre ville et comment elle est\n• les transports en commun et ce que vous en pensez\n• un changement récent dans votre ville\n• ce que vous changeriez pour protéger l'environnement",
+      "ms": [
+        "location and description of the town (adjectives, il y a…)",
+        "transport vocabulary with opinion and reason",
+        "recent change in a past tense (on a construit / ils ont ouvert…)",
+        "environmental change in the conditional (je créerais / il faudrait…)",
+        "environment vocabulary (pollution, recyclage, pistes cyclables, espaces verts…)",
+        "connectives and justified opinions",
+        "accuracy of verbs and agreements",
+        "all four points covered"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "All four points communicated clearly and developed. Wide range of town, transport and environment vocabulary; accurate past, present and conditional; justified opinions. Very few errors."
+        },
+        {
+          "m": "5–6",
+          "d": "All or most points communicated. Some variety of vocabulary and tenses. Some errors but meaning is clear."
+        },
+        {
+          "m": "3–4",
+          "d": "Two or three points communicated, simply. Limited vocabulary; tenses other than the present weak or missing."
+        },
+        {
+          "m": "1–2",
+          "d": "Little relevant communication. Very limited language; frequent errors."
+        }
+      ],
+      "model": "J'habite à Madrid, la capitale de l'Espagne, au centre du pays. C'est une ville animée, avec beaucoup de parcs et de musées. Les transports en commun sont pratiques : je prends le métro tous les jours, parce qu'il est rapide et pas cher. L'année dernière, la mairie a ouvert de nouvelles pistes cyclables près de mon quartier, ce qui est génial. Cependant, il y a encore trop de voitures. Si j'étais maire, je créerais plus d'espaces verts et je rendrais les bus gratuits pour réduire la pollution.",
+      "tip": "Use 'Si j'étais maire, je…' to give the conditional point a natural, high-scoring structure."
+    }
+  ]
+}

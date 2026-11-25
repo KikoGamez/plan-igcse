@@ -1,0 +1,86 @@
+{
+ "id": "ger-r1-12",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 3 Role play style (2 marks: message + accurate language).\nSie sind im Fundbüro. Der Mitarbeiter fragt: „Was haben Sie verloren, und wo?“ Antworten Sie in einem Satz.",
+   "ms": [
+    "Clear message: item and place both given [1]",
+    "Accurate language, e.g. correct Perfekt with haben + verloren and correct case [1] – minor errors allowed"
+   ],
+   "model": "Ich habe gestern meinen Rucksack im Bus verloren.",
+   "tip": "Answer both parts of the question (was? und wo?) or you can only get 1 mark."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 3 Role play style. Sie sind in einem Kleidergeschäft. Fragen Sie die Verkäuferin höflich, ob Sie die Jacke anprobieren können.",
+   "ms": [
+    "Question communicated (anprobieren/try on + the jacket) [1]",
+    "Accurate polite form, e.g. Kann ich … / Darf ich … with infinitive at the end [1]"
+   ],
+   "model": "Kann ich die Jacke bitte anprobieren?",
+   "tip": "In a role play a short, correct sentence beats a long one with errors."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 3 Role play style. Sie sind im Touristenbüro (Sie-Form). Antworten Sie auf Deutsch.\n(a) Fragen Sie, wann das Schloss geöffnet ist.\n(b) Sagen Sie, dass Sie zwei Eintrittskarten für Samstag möchten.",
+   "ms": [
+    "(a) question communicated (opening times of the castle) [1]",
+    "(a) accurate, e.g. Wann ist das Schloss geöffnet? / Wann hat das Schloss geöffnet? [1]",
+    "(b) two tickets + Saturday communicated [1]",
+    "(b) accurate, e.g. Ich möchte zwei Karten für Samstag. [1]"
+   ],
+   "model": "(a) Wann ist das Schloss geöffnet?\n(b) Ich möchte bitte zwei Eintrittskarten für Samstag.",
+   "tip": "Read the card's question carefully: 'ask' means you must produce a question, not a statement."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 3 Topic conversation style. Die Prüferin fragt: „Was hast du letzten Sommer gemacht?“ Geben Sie eine entwickelte Antwort (3–4 Sätze).",
+   "ms": [
+    "one activity in the Perfekt, correctly formed [1]",
+    "a second past detail (where/with whom/what else) [1]",
+    "an opinion (e.g. Es war … / Ich fand es …) [1]",
+    "a justification with weil/denn, correct word order [1]"
+   ],
+   "model": "Letzten Sommer bin ich mit meiner Familie nach Portugal geflogen. Wir haben in einem Hotel am Strand gewohnt und ich bin jeden Tag gesurft. Ich fand den Urlaub toll, weil das Wetter so heiß war und ich viele neue Leute kennengelernt habe.",
+   "tip": "Communication marks reward development: what + where + opinion + reason."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 3 Topic conversation – Thema „Gesundheit“. Beantworten Sie die Fragen mit je zwei Sätzen.\n(a) Was isst du gern, und ist das gesund?\n(b) Was hast du gestern gemacht, um fit zu bleiben?\n(c) Was würdest du ändern, um gesünder zu leben?",
+   "ms": [
+    "(a) relevant answer in present [1]",
+    "(a) opinion about health with reason [1]",
+    "(b) past tense correctly formed [1]",
+    "(b) extra detail (time, with whom) [1]",
+    "(c) conditional (würde + infinitive at end) [1]",
+    "(c) reason or second change [1]"
+   ],
+   "model": "(a) Ich esse sehr gern Pasta und Obst. Ich glaube, das ist ziemlich gesund, aber ich esse auch zu viele Süßigkeiten.\n(b) Gestern bin ich nach der Schule eine halbe Stunde gejoggt. Danach habe ich viel Wasser getrunken.\n(c) Ich würde früher ins Bett gehen, weil ich oft müde bin. Außerdem würde ich weniger Cola trinken.",
+   "tip": "Use the tense of the question in your answer: isst → present, hast … gemacht → past, würdest → conditional."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 3 Role play (4 prompts × 2 marks). Sie wohnen bei einer Gastfamilie in Deutschland. Die Prüferin ist die Gastmutter (du-Form).\n(a) Sagen Sie, wie Ihre Reise war.\n(b) Sagen Sie, was Sie nicht essen.\n(c) Fragen Sie, wann es Frühstück gibt.\n(d) Sagen Sie, was Sie morgen machen möchten.",
+   "ms": [
+    "(a) message: a description of the journey [1]",
+    "(a) accurate past (Die Reise war …) [1]",
+    "(b) message: food not eaten [1]",
+    "(b) accurate (Ich esse kein(en) …) [1]",
+    "(c) message: question about breakfast time [1]",
+    "(c) accurate (Wann gibt es Frühstück?) [1]",
+    "(d) message: plan for tomorrow [1]",
+    "(d) accurate (Morgen möchte ich … + infinitive at the end) [1]",
+    "Minor errors (e.g. an adjective ending) that do not affect the message are allowed for 2 marks"
+   ],
+   "model": "(a) Die Reise war lang, aber ganz gut. Der Zug hatte nur zehn Minuten Verspätung.\n(b) Ich esse kein Fleisch, weil ich Vegetarierin bin.\n(c) Wann gibt es morgens Frühstück?\n(d) Morgen möchte ich gern die Stadt besichtigen.",
+   "tip": "One task needs a question: start it with a question word or the verb."
+  }
+ ]
+}

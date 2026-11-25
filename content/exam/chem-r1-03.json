@@ -1,0 +1,86 @@
+{
+  "id": "chem-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Write the chemical formula of each compound.\n(a) aluminium oxide [1]\n(b) ammonium carbonate [1]\n(c) iron(II) hydroxide [1]",
+      "ms": [
+        "(a) Al₂O₃",
+        "(b) (NH₄)₂CO₃ — brackets required",
+        "(c) Fe(OH)₂ — brackets required",
+        "do not allow incorrect cases, e.g. AL₂O₃ or Fe(oh)₂"
+      ],
+      "model": "(a) Al₂O₃ (Al³⁺ and O²⁻: two 3+ charges balance three 2− charges)\n(b) (NH₄)₂CO₃ (two NH₄⁺ balance one CO₃²⁻)\n(c) Fe(OH)₂ (one Fe²⁺ balances two OH⁻)",
+      "tip": "Put brackets round a group ion whenever you need more than one of it: (NH₄)₂, (OH)₂."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) A ball-and-stick model of a molecule shows 2 carbon atoms, 6 hydrogen atoms and 1 oxygen atom. Write the molecular formula of the molecule. [1]\n(b) A diagram of part of an ionic lattice shows 6 lithium ions, Li⁺, and 3 oxide ions, O²⁻. Deduce the formula of the compound. [1]",
+      "ms": [
+        "(a) C₂H₆O (allow C₂H₅OH)",
+        "(b) Li₂O"
+      ],
+      "model": "(a) C₂H₆O\n(b) The ratio Li⁺ : O²⁻ is 6 : 3 = 2 : 1, so the formula is Li₂O (two 1+ charges balance one 2− charge).",
+      "tip": "For an ionic lattice, simplify the ratio of ions — never write Li₆O₃."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "(a) Aluminium burns in oxygen to form aluminium oxide. Write the balanced symbol equation. [1]\n(b) When aqueous sodium hydroxide is added to aqueous copper(II) sulfate, a blue precipitate of copper(II) hydroxide forms. The other product is aqueous sodium sulfate.\nWrite the balanced symbol equation for this reaction, including state symbols. [2]\n(c) Write the ionic equation, with state symbols, for the formation of the precipitate in (b). [2]",
+      "ms": [
+        "(a) 4Al + 3O₂ → 2Al₂O₃",
+        "(b) 2NaOH + CuSO₄ → Cu(OH)₂ + Na₂SO₄ (correct formulae and balanced)",
+        "(b) state symbols: NaOH(aq), CuSO₄(aq), Cu(OH)₂(s), Na₂SO₄(aq)",
+        "(c) Cu²⁺ + 2OH⁻ → Cu(OH)₂ (correct species and balanced)",
+        "(c) state symbols (aq), (aq), (s)"
+      ],
+      "model": "(a) 4Al + 3O₂ → 2Al₂O₃\n(b) 2NaOH(aq) + CuSO₄(aq) → Cu(OH)₂(s) + Na₂SO₄(aq)\n(c) Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s)",
+      "tip": "In an ionic equation leave out the spectator ions (here Na⁺ and SO₄²⁻); a precipitate is always (s)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Use the information to write balanced symbol equations, including state symbols.\n(a) When solid sodium hydrogencarbonate, NaHCO₃, is heated it decomposes into solid sodium carbonate, water vapour and carbon dioxide gas. [2]\n(b) Magnesium burns in nitrogen gas to form solid magnesium nitride, which contains Mg²⁺ and N³⁻ ions. [2]",
+      "ms": [
+        "(a) 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ (formulae and balancing)",
+        "(a) state symbols (s) → (s) + (g) + (g); allow H₂O(l)",
+        "(b) 3Mg + N₂ → Mg₃N₂ (formula Mg₃N₂ and balancing)",
+        "(b) state symbols (s) + (g) → (s)"
+      ],
+      "model": "(a) 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(g) + CO₂(g)\n(b) 3Mg(s) + N₂(g) → Mg₃N₂(s)",
+      "tip": "Work out the product formula from the ion charges first (3 × 2+ = 2 × 3−), then balance — never change a formula to balance."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Write ionic equations, with state symbols, for each of these reactions.\n(a) Chlorine is bubbled into aqueous potassium bromide. Bromine and aqueous potassium chloride form. [2]\n(b) Aqueous sodium hydroxide is added to aqueous iron(III) chloride. A red-brown precipitate of iron(III) hydroxide forms. [2]\n(c) Zinc is added to dilute hydrochloric acid. Hydrogen and aqueous zinc chloride form. [2]",
+      "ms": [
+        "(a) Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂ (species and balancing)",
+        "(a) Cl₂(aq) or (g), Br⁻(aq), Cl⁻(aq), Br₂(aq) or (l)",
+        "(b) Fe³⁺ + 3OH⁻ → Fe(OH)₃",
+        "(b) (aq) + (aq) → (s)",
+        "(c) Zn + 2H⁺ → Zn²⁺ + H₂",
+        "(c) (s) + (aq) → (aq) + (g)"
+      ],
+      "model": "(a) Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq)\n(b) Fe³⁺(aq) + 3OH⁻(aq) → Fe(OH)₃(s)\n(c) Zn(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂(g)",
+      "tip": "Check that the charges balance as well as the atoms: in (c) the left has 2+ and the right has 2+."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student adds solid copper(II) carbonate, CuCO₃, to dilute nitric acid, HNO₃. The mixture fizzes and a blue solution forms.\n(a) Name all the products of the reaction. [1]\n(b) Write the balanced symbol equation for the reaction, including state symbols. [3]\n(c) The student then adds aqueous sodium carbonate to the blue solution. A precipitate of copper(II) carbonate forms. Write the ionic equation, with state symbols, for this reaction. [2]",
+      "ms": [
+        "(a) copper(II) nitrate, water and carbon dioxide (all three)",
+        "(b) correct formulae: CuCO₃, HNO₃, Cu(NO₃)₂, H₂O, CO₂",
+        "(b) balanced: 2HNO₃",
+        "(b) state symbols CuCO₃(s), HNO₃(aq), Cu(NO₃)₂(aq), H₂O(l), CO₂(g)",
+        "(c) Cu²⁺ + CO₃²⁻ → CuCO₃",
+        "(c) (aq) + (aq) → (s)"
+      ],
+      "model": "(a) Copper(II) nitrate, water and carbon dioxide.\n(b) CuCO₃(s) + 2HNO₃(aq) → Cu(NO₃)₂(aq) + H₂O(l) + CO₂(g)\n(c) Cu²⁺(aq) + CO₃²⁻(aq) → CuCO₃(s)",
+      "tip": "Acid + carbonate → salt + water + carbon dioxide: the fizzing is the CO₂."
+    }
+  ]
+}

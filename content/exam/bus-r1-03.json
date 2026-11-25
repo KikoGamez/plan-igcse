@@ -1,0 +1,104 @@
+{
+  "id": "bus-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “fringe benefits”. [2]",
+      "ms": [
+        "Benefits given to employees in addition to their wage or salary (1)",
+        "Non-cash/non-financial rewards such as a company car, free meals, health insurance, discounts (1) — an example is enough for the second mark"
+      ],
+      "model": "Fringe benefits are rewards given to workers on top of their wage or salary, such as a company car, free health insurance or staff discounts.",
+      "tip": "Give an example — it often secures the second mark."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "A clothing factory is comparing two ways of paying its sewing machinists for one week.\n• Worker A is paid a time rate of $12 per hour and works 38 hours.\n• Worker B is paid a piece rate of $1.50 per garment and makes 290 garments.\n\nCalculate how much more Worker A earns than Worker B in this week. [3]",
+      "ms": [
+        "M1: Worker A = 38 × 12 = $456",
+        "M1: Worker B = 290 × 1.50 = $435",
+        "A1: difference = $21 (award 3 marks for correct answer)"
+      ],
+      "model": "Worker A: 38 × $12 = $456.\nWorker B: 290 × $1.50 = $435.\nWorker A earns $456 − $435 = $21 more.",
+      "tip": "Show each step — method marks are available even if the final subtraction is wrong."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A call centre manager believes in Taylor’s theory of motivation.\n\nOutline Taylor’s theory of motivation and one limitation of using it in the call centre. [4]",
+      "ms": [
+        "Theory (up to 2): workers are motivated mainly/only by money (1)",
+        "Theory: pay workers according to output, e.g. piece rate / jobs broken into simple tasks; find the most efficient way to do each task (1)",
+        "Theory: workers are like machines / “economic man”; productivity rises if pay rises with output (1)",
+        "Limitation (up to 2): ignores non-financial needs such as social needs, recognition or job satisfaction (1) — call-centre staff may become bored or stressed and leave, so labour turnover rises (1)",
+        "Limitation: output (number of calls) is easy to measure but quality of service is not (1) — staff may rush calls to earn more, upsetting customers (1)"
+      ],
+      "model": "Taylor believed that people work mainly for money, so they will work harder if they are paid more for producing more. Jobs should be broken into simple tasks and workers paid according to their output, for example per call handled.\nOne limitation is that it ignores non-financial needs. Call-centre work is repetitive and stressful, so staff also want recognition and friendly colleagues; if these are ignored, labour turnover may stay high even if pay is linked to output.",
+      "tip": "Taylor = money motivates. The limitation should be linked to the call centre, not just stated."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A hotel manager wants to use Herzberg’s two-factor theory to reduce the number of receptionists who leave.\n\nOutline the difference between hygiene factors and motivators, giving one example of each that the hotel could use. [4]",
+      "ms": [
+        "Hygiene factors: if absent/poor they cause dissatisfaction, but improving them does not motivate in the long term (1)",
+        "Example applied, e.g. fair pay, comfortable working conditions/staff room, reasonable shift patterns, job security, good supervision (1)",
+        "Motivators: factors that give job satisfaction and make workers want to work harder (1)",
+        "Example applied, e.g. responsibility for VIP guests, recognition/employee of the month, training and promotion to supervisor, more challenging work (1)"
+      ],
+      "model": "Hygiene factors are things that cause dissatisfaction if they are poor, but do not motivate workers once they are satisfactory. For example, the hotel should make sure receptionists have fair shift patterns and pay that matches other hotels.\nMotivators are factors that actually make workers want to work harder because they give job satisfaction. For example, the hotel could give experienced receptionists responsibility for training new staff or a chance of promotion to front-office supervisor.",
+      "tip": "Pay is a hygiene factor for Herzberg, not a motivator."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "SpeedyParts makes car components on a production line. Each worker repeats the same short task all day. The managing director is worried about high absenteeism and labour turnover.\n\nExplain two non-financial methods SpeedyParts could use to motivate its production-line workers. [6]",
+      "ms": [
+        "First method — K: valid method identified (1)",
+        "First method — App: applied to the business in the question (1)",
+        "First method — An: consequence for the business explained (1)",
+        "Second method — K: valid method identified (1)",
+        "Second method — App: applied to the business in the question (1)",
+        "Second method — An: consequence for the business explained (1)",
+        "e.g. Job rotation (K) — workers move between tasks on the line, e.g. assembly, checking, packing (App) — less boredom, so absenteeism falls and output rises; workers also become multi-skilled to cover absences (An)",
+        "e.g. Job enlargement (K) — more tasks of similar level added to each job (App) — more variety reduces boredom (An)",
+        "e.g. Job enrichment (K) — e.g. responsibility for checking quality of their own components (App) — meets esteem needs/Herzberg motivator, so workers feel valued and stay (An)",
+        "e.g. Teamworking / cell production (K) — teams responsible for a whole component (App) — meets social needs, workers take pride and labour turnover falls (An)",
+        "e.g. Training (K) — learn new skills, e.g. machine maintenance (App) — chance of promotion, so motivation and productivity rise (An)"
+      ],
+      "model": "First, SpeedyParts could use job rotation, moving workers between different tasks on the line such as assembling, testing and packing components every few hours. This gives more variety, so workers are less bored and less likely to take days off. It also means workers can cover for each other, so the line keeps running when someone is absent.\nSecond, it could introduce teamworking, where small teams are responsible for producing a complete component and checking its quality. This meets workers’ social needs and gives them responsibility, which Herzberg calls a motivator. Workers feel more valued, so fewer of them leave, reducing the cost of recruiting and training replacements.",
+      "tip": "Link back to the problems in the question: absenteeism and labour turnover. Marking: Do not credit financial methods (piece rate, bonus, commission)."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "CarMax sells new and used cars. Its 12 sales staff are currently paid a fixed salary of $2 400 per month. Sales have been falling, and the manager thinks staff are not trying hard enough. She is considering changing to a lower basic salary plus commission on each car sold.\n\nShould CarMax pay its sales staff a fixed salary or a basic salary plus commission? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Commission: pay linked to sales, so staff have an incentive to sell more cars → revenue rises; cost of pay rises only when sales rise",
+        "Commission drawbacks: income less certain → stress/insecurity, staff may leave; may use pushy selling or offer big discounts → customer dissatisfaction / lower profit margin; less teamwork as staff compete",
+        "Fixed salary: security, staff can give honest advice and good after-sales service; easy to budget; but no incentive to sell more (current problem)",
+        "Herzberg: pay is a hygiene factor; Taylor: money motivates",
+        "Ev: a justified decision, e.g. basic + commission because sales are falling and pay will be partly self-financing, provided the basic is high enough for security / commission is paid on profit or customer satisfaction; or keep salary and use non-financial methods if falling sales are caused by external factors"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both methods applied to CarMax, with a justified decision explaining why it is better than the alternative and/or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one method applied to CarMax; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of salary and/or commission, with little application to CarMax."
+        }
+      ],
+      "model": "Paying commission would link each salesperson’s pay to the number of cars they sell. This gives them a clear incentive to follow up customers and close more sales, so CarMax’s revenue should rise. It also reduces risk for CarMax, because total pay rises only when sales rise.\nHowever, staff income would become less certain. Some of the 12 staff may feel insecure and leave, and others might pressure customers or give large discounts to make a sale, which could damage CarMax’s reputation and profit margin. A fixed salary of $2 400 gives security and encourages honest advice, but it gives no reward for extra effort, which the manager thinks is the cause of falling sales.\nI recommend a basic salary plus commission, because cars are expensive products where each extra sale adds a lot of revenue, so even a small commission can be a strong incentive. However, this only works if falling sales are caused by low effort and not by a recession or a competitor. CarMax should keep the basic salary high enough for security and pay part of the commission on customer satisfaction scores so that staff do not use pushy selling.",
+      "tip": "Use the context: falling sales, 12 staff, the $2 400 salary. Evaluation should consider what the decision depends on."
+    }
+  ]
+}

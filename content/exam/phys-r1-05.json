@@ -1,0 +1,84 @@
+{
+ "id": "phys-r1-05",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State the melting point and the boiling point of pure water at standard atmospheric pressure.",
+   "ms": [
+    "melting point 0 °C",
+    "boiling point 100 °C"
+   ],
+   "model": "Melting point 0 °C; boiling point 100 °C.",
+   "tip": "Include the unit °C."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Describe the arrangement, separation and motion of the particles in a gas.",
+   "ms": [
+    "arrangement: random / irregular / no pattern",
+    "separation: far apart (compared with particle size)",
+    "motion: move quickly in random directions (in straight lines between collisions)"
+   ],
+   "model": "The particles are randomly arranged and far apart from each other. They move quickly in random directions, colliding with each other and with the walls of the container.",
+   "tip": "Give one point for each of the three words in the question."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Explain, in terms of particles, why a gas can easily be compressed but a liquid cannot. [3]\n(b) Explain why a liquid takes the shape of its container but a solid does not. [1]",
+   "ms": [
+    "(a) in a gas the particles are far apart / lots of space between them",
+    "(a) so they can be pushed closer together",
+    "(a) in a liquid the particles are close together / touching, so there is (almost) no space to push them into",
+    "(b) liquid particles can move past / slide over each other, but solid particles only vibrate about fixed positions (allow: forces in a liquid are weaker / not strong enough to hold particles in fixed positions)"
+   ],
+   "model": "(a) In a gas the particles are far apart with lots of empty space between them, so a force can push them closer together. In a liquid the particles are already close together, almost touching, so there is no space to push them into.\n(b) Liquid particles can slide past each other, so the liquid flows to fill the container; solid particles only vibrate about fixed positions, so the solid keeps its shape."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A boiling tube of hot liquid wax is left to cool. Its temperature is recorded every minute.\ntime / min:        0   1   2   3   4   5   6   7   8   9\ntemperature / °C: 80  72  65  58  55  55  55  55  50  44\n(a) State the melting point of the wax. [1]\n(b) Explain why the temperature stays constant between 4 min and 7 min, even though the wax is losing energy to the surroundings. [2]\n(c) State the physical state of the wax at 9 min. [1]",
+   "ms": [
+    "(a) 55 °C",
+    "(b) the wax is solidifying / freezing (changing from liquid to solid)",
+    "(b) energy is released as the particles bond / attractive forces form, which balances (replaces) the energy lost, so average kinetic energy of particles stays the same",
+    "(c) solid"
+   ],
+   "model": "(a) 55 °C.\n(b) The wax is solidifying. As the particles become held in fixed positions by attractive forces, energy is released; this replaces the energy lost to the surroundings, so the average kinetic energy of the particles, and therefore the temperature, stays the same.\n(c) Solid.",
+   "tip": "The flat part of a cooling curve is a change of state; its temperature is the melting/freezing point."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe an experiment to show that a dull black surface is a better absorber of thermal radiation than a shiny silver surface. Your answer should include the apparatus, the measurements, how to make it a fair test and the expected result.",
+   "ms": [
+    "two identical containers / metal plates, one painted dull black, one shiny silver",
+    "placed at the same distance from a radiant heater / infrared source (allow in sunlight)",
+    "same volume of water at the same starting temperature (or identical plates)",
+    "thermometer in each container (or wax holding a drawing pin on the back of each plate)",
+    "measure the temperature rise after the same time (or time until each pin falls off)",
+    "expected result: dull black surface shows the greater temperature rise (pin falls off first), so it is the better absorber",
+    "another control, e.g. same size and material of containers / lids on both / same time"
+   ],
+   "model": "Take two identical metal cans, one painted dull black and the other shiny silver. Pour the same volume of cold water at the same starting temperature into each and fit a thermometer. Place both cans the same distance from a radiant heater. Record the temperature of each every minute for 10 minutes. The water in the dull black can rises in temperature faster, showing that the dull black surface absorbs thermal (infrared) radiation better than the shiny silver surface.",
+   "tip": "Name what is kept the same (distance, volume, starting temperature, time) – fair-test points are easy marks."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "(a) A beaker of water is left in a warm room. Explain, in terms of particles, why the temperature of the water falls as it evaporates. [3]\n(b) The metal lid of a glass jar is stuck tight. Running the lid under hot water makes it easier to unscrew. Explain why, in terms of particles. [3]",
+   "ms": [
+    "(a) the more energetic / faster particles escape from the surface of the water",
+    "(a) the particles that remain have a lower average kinetic energy",
+    "(a) temperature depends on the average kinetic energy of the particles, so the temperature falls",
+    "(b) the metal particles gain energy and vibrate more / with larger amplitude",
+    "(b) so they take up more space / move further apart",
+    "(b) the lid expands (more than the glass), so it becomes looser"
+   ],
+   "model": "(a) The most energetic water particles near the surface have enough energy to overcome the attractive forces and escape. The particles left behind have a lower average kinetic energy, and since temperature depends on the average kinetic energy, the temperature of the water falls.\n(b) The hot water gives the metal particles more energy, so they vibrate with a larger amplitude and move slightly further apart. The lid expands (metal expands more than glass), so it fits less tightly and is easier to turn.",
+   "tip": "Particles themselves do not get bigger when heated – they vibrate more and move further apart."
+  }
+ ]
+}

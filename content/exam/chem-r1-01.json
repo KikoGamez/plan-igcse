@@ -1,0 +1,87 @@
+{
+  "id": "chem-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "An atom contains protons, neutrons and electrons.\nComplete the information for each particle by stating its relative mass and its relative charge.\nproton: relative mass ___ , relative charge ___\nneutron: relative mass ___ , relative charge ___\nelectron: relative mass ___ , relative charge ___",
+      "ms": [
+        "proton: mass 1, charge +1",
+        "neutron: mass 1, charge 0",
+        "electron: mass 1/1840 (allow 1/2000 or negligible / almost 0), charge −1",
+        "each row must be fully correct for the mark"
+      ],
+      "model": "Proton: relative mass 1, relative charge +1. Neutron: relative mass 1, relative charge 0. Electron: relative mass 1/1840 (negligible), relative charge −1.",
+      "tip": "Do not write 0 for the mass of an electron unless you add 'negligible' or 'almost'; 1/1840 is safest."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the following terms.\n(a) proton number (atomic number) [1]\n(b) mass number (nucleon number) [1]",
+      "ms": [
+        "(a) the number of protons in the nucleus of an atom",
+        "(b) the total number of protons and neutrons in the nucleus of an atom",
+        "do not allow 'number of protons and electrons' or 'number of particles in an atom' for (b)"
+      ],
+      "model": "(a) Proton number is the number of protons in the nucleus of an atom.\n(b) Mass number is the total number of protons and neutrons in the nucleus of an atom.",
+      "tip": "Say 'in the nucleus' — the electrons are not counted in the mass number."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A magnesium ion is shown by the symbol ²⁵₁₂Mg²⁺.\n(a) State the number of protons, neutrons and electrons in this ion. [2]\n(b) Give the electronic configuration of a magnesium atom and of the Mg²⁺ ion. [2]\n(c) Use the electronic configuration of the magnesium atom to state its period number in the Periodic Table. Explain your answer. [1]",
+      "ms": [
+        "(a) 12 protons and 13 neutrons",
+        "(a) 10 electrons",
+        "(b) atom: 2,8,2",
+        "(b) ion: 2,8",
+        "(c) Period 3 because the atom has three occupied electron shells"
+      ],
+      "model": "(a) Protons = 12; neutrons = 25 − 12 = 13; electrons = 12 − 2 = 10, because the 2+ charge means two electrons have been lost.\n(b) Mg atom: 2,8,2. Mg²⁺ ion: 2,8.\n(c) Period 3, because the number of occupied electron shells (three) equals the period number.",
+      "tip": "A positive ion has LOST electrons: subtract the charge from the proton number."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Four boxes, A to D, show particle diagrams. They are described in words.\nBox A: single atoms, all of the same type, spread far apart and randomly arranged.\nBox B: identical molecules, each made of one black atom joined to two white atoms, spread far apart.\nBox C: two kinds of molecule spread far apart: some made of two white atoms joined together, others made of two black atoms joined together.\nBox D: atoms all of the same type, touching each other in a regular arrangement.\n(a) Which box shows a compound? [1]\n(b) Which box shows a mixture? Explain your answer. [2]\n(c) Box D shows an element. State its physical state and give a reason. [1]",
+      "ms": [
+        "(a) B",
+        "(b) C",
+        "(b) contains two different substances / two different elements (or molecules) that are not chemically joined to each other",
+        "(c) solid, because the particles are touching / closely packed in a regular arrangement"
+      ],
+      "model": "(a) Box B — every molecule contains two different types of atom chemically bonded together.\n(b) Box C. It contains two different substances (two different elements) that are not chemically combined with each other; they are just mixed.\n(c) Solid, because the particles are touching each other in a regular, fixed arrangement.",
+      "tip": "A molecule of two identical atoms (like the ones in C) is an element, not a compound."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A pure solid X is heated steadily and its temperature is recorded every minute.\ntime / min:          0   1   2   3   4   5   6   7   8   9   10  11  12–20\ntemperature / °C:  20  32  44  55  55  55  55  55  72  88  104 120 120\n(a) Use the data to give the melting point and the boiling point of X. [1]\n(b) State the physical state or states of X between 4 and 6 minutes. [1]\n(c) Explain, in terms of particles, why the temperature stays constant between 11 and 20 minutes even though X is still being heated. [2]\n(d) Explain why the temperature stays constant for much longer at 120 °C than at 55 °C. [2]",
+      "ms": [
+        "(a) melting point 55 °C and boiling point 120 °C (both needed)",
+        "(b) solid and liquid (both needed)",
+        "(c) the energy supplied is used to overcome the attractive forces between particles",
+        "(c) and not to increase the kinetic energy of the particles / particles do not move faster, so temperature does not rise",
+        "(d) when boiling, (all) the forces between particles must be overcome so particles become far apart",
+        "(d) so much more energy is needed than for melting, where particles stay close together / only some forces are overcome"
+      ],
+      "model": "(a) Melting point 55 °C; boiling point 120 °C.\n(b) Solid and liquid are both present — X is melting.\n(c) The thermal energy supplied is used to overcome the attractive forces between the particles so that the liquid turns into gas. It is not used to make the particles move faster, so their kinetic energy and the temperature do not increase.\n(d) In boiling, the forces between the particles have to be overcome completely so the particles can separate and become far apart in the gas. In melting the particles stay close together, so much less energy is needed. More energy at the same heating rate takes more time.",
+      "tip": "A flat section of a heating curve means a change of state: energy goes into overcoming forces, not into raising the temperature."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) A gas syringe contains 80 cm³ of air. The end is sealed and the plunger is pushed in slowly, so that the temperature stays constant.\nExplain, in terms of particles, why the gas can be compressed and why its pressure increases. [2]\n(b) Gas P has Mr = 17 and gas Q has Mr = 71. Small amounts of each gas are released at the same time on opposite sides of a room at the same temperature. Predict which gas would be detected first in the middle of the room and explain your answer. [2]\n(c) Explain why a gas diffuses faster at 40 °C than at 15 °C. [2]",
+      "ms": [
+        "(a) gas particles are far apart / there is a lot of space between them, so they can be pushed closer together",
+        "(a) particles hit the walls (of the syringe) more often / collisions with the walls are more frequent, so pressure increases",
+        "(b) P (Mr 17)",
+        "(b) lower relative molecular mass so its particles move faster (at the same temperature)",
+        "(c) at higher temperature the particles have more kinetic energy / move faster",
+        "(c) so they spread out / mix by random movement more quickly"
+      ],
+      "model": "(a) Gas particles are far apart with lots of space between them, so pushing the plunger moves them closer together. The same number of particles is now in a smaller volume, so they collide with the walls of the syringe more frequently and the pressure increases.\n(b) Gas P would be detected first. It has a lower relative molecular mass (17 compared with 71), so at the same temperature its particles move faster and diffuse more quickly.\n(c) At 40 °C the particles have more kinetic energy and move faster, so their random movement spreads them out from high to low concentration more quickly.",
+      "tip": "Link Mr to speed: lighter particles move faster at the same temperature. Do not say lighter particles 'have more energy'."
+    }
+  ]
+}

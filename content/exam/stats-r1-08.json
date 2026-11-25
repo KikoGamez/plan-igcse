@@ -1,0 +1,85 @@
+{
+ "id": "stats-r1-08",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "The price index for a bus ticket in 2024 is 87, using 2020 as the base year.\n(a) Interpret the index number 87. [1]\n(b) The ticket cost €6.40 in 2020. Calculate its price in 2024. [2]",
+   "ms": [
+    "(a) B1: the price fell by 13% between 2020 and 2024 (oe)",
+    "(b) M1: 6.40 × 87 ÷ 100",
+    "(b) A1: €5.57 (allow €5.568)"
+   ],
+   "model": "(a) The 2024 price is 87% of the 2020 price, i.e. the price decreased by 13% since 2020.\n(b) 6.40 × 87 ÷ 100 = €5.57.",
+   "tip": "An index below 100 means a decrease from the base year."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A town has a population of 46 500. In one year there were 651 deaths.\nCalculate the crude death rate for the town.",
+   "ms": [
+    "M1: 651 ÷ 46 500 × 1000",
+    "A1: 14 (per 1000)"
+   ],
+   "model": "Crude death rate = 651 ÷ 46 500 × 1000 = 14 deaths per 1000 people.",
+   "tip": "Crude rates are given per 1000 of the population; state 'per 1000'."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The price of a monthly bus pass on 1 January each year is shown.\n\nYear        2021     2022     2023     2024\nPrice (€)   40.00    42.00    46.20    44.35\n\n(a) Calculate the chain base index numbers for 2022, 2023 and 2024. [2]\n(b) Interpret your chain base index number for 2024. [1]\n(c) Calculate the simple index number for 2024, using 2021 as the base year. [1]",
+   "ms": [
+    "M1: e.g. 42 ÷ 40 × 100",
+    "A1: 105, 110, 96.0 (awrt 96.0)",
+    "(b) B1: the price fell by about 4% from 2023 to 2024 (ft)",
+    "(c) B1: 110.9 (awrt 110.9)"
+   ],
+   "model": "(a) 2022: 42.00 ÷ 40.00 × 100 = 105.\n2023: 46.20 ÷ 42.00 × 100 = 110.\n2024: 44.35 ÷ 46.20 × 100 = 96.0.\n(b) The price in 2024 was about 4% lower than in 2023.\n(c) 44.35 ÷ 40.00 × 100 = 110.9.",
+   "tip": "A chain base index compares each year with the year before, not with the first year."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A weighted price index is calculated from three items.\n\nItem        Index   Weight\nFood         112      5\nTransport    104      3\nHousing       x       2\n\nThe weighted index is 110.\n(a) Find the value of x. [3]\n(b) Explain why weights are used in a weighted index. [1]",
+   "ms": [
+    "M1: (112 × 5 + 104 × 3 + 2x) ÷ 10 = 110 (oe)",
+    "M1: 560 + 312 + 2x = 1100",
+    "A1: x = 114",
+    "(b) B1: items that people spend more on (are more important) have a bigger effect on the overall index (oe)"
+   ],
+   "model": "(a) (112 × 5 + 104 × 3 + x × 2) ÷ (5 + 3 + 2) = 110\n560 + 312 + 2x = 1100\n2x = 228, so x = 114.\n(b) Weights show how important each item is (how much of their money people spend on it), so a price change in a major item like food affects the overall index more than a change in a minor item.",
+   "tip": "Divide by the sum of the weights, not by the number of items."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "The table shows information about two towns, each with a population of 50 000.\n\n             Town A                         Town B\nAge group    Population  Deaths  Rate      Population  Deaths  Rate\n0–24          12 000       18     1.5       9 000        9     1\n25–59         30 000       90     3        21 000       42     2\n60+            8 000      360     ?        20 000      680    34\n\nRates are deaths per 1000. Standard population: 0–24: 35%, 25–59: 45%, 60+: 20%.\n(a) Calculate the crude death rate for Town B. [2]\n(b) Calculate the death rate for the 60+ age group in Town A. [1]\n(c) Calculate the standardised death rate for each town. [3]\n(d) Town B has the higher crude death rate. Explain which town has the healthier population, and why the crude rates are misleading. [2]",
+   "ms": [
+    "M1: (9 + 42 + 680) ÷ 50 000 × 1000",
+    "A1: 14.62 (awrt 14.6) per 1000",
+    "(b) B1: 360 ÷ 8000 × 1000 = 45",
+    "(c) M1: Σ(rate × standard %) ÷ 100 for either town",
+    "(c) A1: Town A: (1.5 × 35 + 3 × 45 + 45 × 20) ÷ 100 = 10.875 (awrt 10.9)",
+    "(c) A1: Town B: (1 × 35 + 2 × 45 + 34 × 20) ÷ 100 = 8.05 (awrt 8.05)",
+    "(d) B1: Town B is healthier because its standardised rate is lower (8.05 v 10.9) / its death rate is lower in every age group (ft)",
+    "(d) B1: Town B has a much larger proportion of people aged 60+ (20 000 v 8000), which raises its crude rate; the standardised rate allows for the different age structures"
+   ],
+   "model": "(a) Deaths in B = 9 + 42 + 680 = 731. Crude rate = 731 ÷ 50 000 × 1000 = 14.62 per 1000.\n(b) 360 ÷ 8000 × 1000 = 45 per 1000.\n(c) Town A: (1.5 × 35 + 3 × 45 + 45 × 20) ÷ 100 = (52.5 + 135 + 900) ÷ 100 = 10.9 per 1000.\nTown B: (1 × 35 + 2 × 45 + 34 × 20) ÷ 100 = (35 + 90 + 680) ÷ 100 = 8.05 per 1000.\n(d) Town B is healthier: its standardised death rate (8.05) is lower than Town A's (10.9), and its death rate is lower in every age group. Its crude rate is higher only because it has many more elderly people (20 000 aged 60+ compared with 8000). Standardising uses the same age structure for both towns, so it gives a fair comparison.",
+   "tip": "In standardised rates, multiply each age-group rate by the standard population percentage, then divide by 100."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "The chain base index numbers for the price of a games console are shown.\n\nYear                2021   2022   2023   2024\nChain base index     104    108     95    102\n\n(a) In which year did the price fall? [1]\n(b) Using 2020 = 100, calculate the index numbers for 2021, 2022, 2023 and 2024. [3]\n(c) The console cost €250 in 2020. Calculate its price in 2022. [1]",
+   "ms": [
+    "(a) B1: 2023",
+    "(b) M1: multiplying successive chain indices, e.g. 1.04 × 1.08 × 100",
+    "(b) A1: 2021: 104 and 2022: 112.3 (awrt 112.3)",
+    "(b) A1: 2023: 106.7 (awrt 106.7) and 2024: 108.8 (awrt 108.8)",
+    "(c) B1: €280.80"
+   ],
+   "model": "(a) 2023, because its chain base index (95) is below 100.\n(b) 2021: 104.\n2022: 104 × 1.08 = 112.3.\n2023: 112.32 × 0.95 = 106.7.\n2024: 106.704 × 1.02 = 108.8.\n(c) 250 × 1.1232 = €280.80.",
+   "tip": "Chain index numbers multiply; never add the percentage changes."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "chem-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "State the appearance (colour and physical state) of each halogen at room temperature and pressure.\n(a) chlorine [1]\n(b) bromine [1]\n(c) iodine [1]",
+      "ms": [
+        "(a) pale yellow-green gas",
+        "(b) red-brown liquid",
+        "(c) grey-black solid",
+        "colour and state both needed for each mark"
+      ],
+      "model": "(a) Chlorine is a pale yellow-green gas.\n(b) Bromine is a red-brown liquid.\n(c) Iodine is a grey-black solid.",
+      "tip": "Iodine solid is grey-black; its solution is brown — don't mix them up."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Complete the sentences about the Periodic Table.\nThe elements are arranged in order of increasing ______ . [1]\nThe vertical columns are called ______ . [1]\nAcross a period, the character of the elements changes from ______ to ______ . [1]",
+      "ms": [
+        "proton number / atomic number",
+        "groups",
+        "metallic to non-metallic (both, in this order)"
+      ],
+      "model": "The elements are arranged in order of increasing proton number. The vertical columns are called groups. Across a period, the character of the elements changes from metallic to non-metallic.",
+      "tip": "Not 'mass number' or 'atomic mass' — the modern table is ordered by proton number."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Caesium, Cs, is in Group I, below potassium.\n(a) Predict how the reaction of caesium with cold water compares with the reaction of potassium with cold water. [1]\n(b) Name the two products of the reaction of caesium with water. [1]\n(c) Write the balanced symbol equation, with state symbols, for this reaction. [2]\n(d) Explain, in terms of electronic configuration, why caesium has similar chemical properties to sodium. [1]",
+      "ms": [
+        "(a) caesium reacts more vigorously / faster / explosively",
+        "(b) caesium hydroxide and hydrogen (both)",
+        "(c) 2Cs + 2H₂O → 2CsOH + H₂ (formulae and balancing)",
+        "(c) state symbols (s) + (l) → (aq) + (g)",
+        "(d) both have one electron in the outer shell"
+      ],
+      "model": "(a) Caesium reacts much more vigorously (explosively), because reactivity increases down Group I.\n(b) Caesium hydroxide and hydrogen.\n(c) 2Cs(s) + 2H₂O(l) → 2CsOH(aq) + H₂(g)\n(d) Both atoms have one electron in their outer shell, which they lose to form 1+ ions.",
+      "tip": "Group I hydroxides have formula MOH because the ions are 1+."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A student adds a small amount of black manganese(IV) oxide to hydrogen peroxide solution. Bubbles of oxygen are given off quickly. At the end, the manganese(IV) oxide is filtered off, dried and weighed. Its mass has not changed.\n(a) State the role of manganese(IV) oxide in this reaction. [1]\n(b) Explain how the student's results support your answer to (a). [1]\n(c) Describe the test for oxygen. [1]\n(d) Manganese is a transition element. State two physical properties of transition elements that make them different from Group I metals. [2]",
+      "ms": [
+        "(a) catalyst",
+        "(b) it speeds up the reaction but its mass is unchanged / it is not used up",
+        "(c) relights a glowing splint",
+        "(d) high density",
+        "(d) high melting point (allow coloured compounds as one mark if not physical — max 1)"
+      ],
+      "model": "(a) It is a catalyst.\n(b) Oxygen is given off quickly when it is added, but its mass is the same at the end, so it speeds up the reaction without being used up.\n(c) Oxygen relights a glowing splint.\n(d) Transition elements have high densities and high melting points, whereas Group I metals are soft with low densities and low melting points.",
+      "tip": "A 'glowing' splint for oxygen, a 'lighted' splint for hydrogen."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student mixes aqueous solutions of halogens and halides.\nExperiment 1: chlorine water + aqueous potassium bromide\nExperiment 2: chlorine water + aqueous potassium iodide\nExperiment 3: iodine solution + aqueous potassium bromide\n(a) Predict what is seen in each experiment. [3]\n(b) Write the ionic equation for the reaction in Experiment 2. [1]\n(c) Explain the result of Experiment 3 and state, in terms of electrons, what happens to the iodide ions in Experiment 2. [2]",
+      "ms": [
+        "(a) Exp 1: solution turns (from colourless to) orange / yellow-orange",
+        "(a) Exp 2: solution turns (from colourless to) brown",
+        "(a) Exp 3: no change / no reaction (stays brown)",
+        "(b) Cl₂ + 2I⁻ → 2Cl⁻ + I₂",
+        "(c) iodine is less reactive than bromine so it cannot displace it",
+        "(c) iodide ions lose electrons / are oxidised (to iodine)"
+      ],
+      "model": "(a) Experiment 1: the colourless solution turns orange as bromine is displaced. Experiment 2: the solution turns brown as iodine is displaced. Experiment 3: no change, because there is no reaction.\n(b) Cl₂ + 2I⁻ → 2Cl⁻ + I₂\n(c) Iodine is less reactive than bromine, so it cannot displace bromide ions. In Experiment 2, each iodide ion loses an electron, so the iodide ions are oxidised to iodine.",
+      "tip": "A more reactive halogen displaces a less reactive one from its halide — reactivity decreases down Group VII."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The table gives data for three halogens. Fluorine is above chlorine in Group VII.\nhalogen | melting point / °C | boiling point / °C | density\nfluorine | ? | ? | ?\nchlorine | −101 | −34 | lowest of the three\nbromine | −7 | 59 | middle\niodine | 114 | 184 | highest of the three\n(a) Predict the physical state of fluorine at room temperature. Use the data to explain your answer. [2]\n(b) Predict whether fluorine is more or less reactive than chlorine. [1]\n(c) Explain, in terms of electronic configuration, why chlorine and bromine have similar chemical reactions. [2]\n(d) Describe the trend in density down Group VII. [1]",
+      "ms": [
+        "(a) gas",
+        "(a) boiling points decrease up the group, so fluorine's boiling point is below −34 °C / below room temperature",
+        "(b) more reactive",
+        "(c) both have seven electrons in the outer shell",
+        "(c) both gain one electron to form ions with a 1− charge (allow same number of outer electrons so react in the same way)",
+        "(d) density increases down the group"
+      ],
+      "model": "(a) Fluorine is a gas. Boiling point increases down the group, so fluorine's boiling point must be lower than chlorine's (−34 °C), which is well below room temperature.\n(b) Fluorine is more reactive than chlorine, because reactivity decreases down Group VII.\n(c) Chlorine and bromine atoms both have seven electrons in their outer shell, so both gain one electron to form 1− ions and react in similar ways.\n(d) Density increases down Group VII.",
+      "tip": "Use the numbers in the table to justify predictions: 'below −34 °C' earns the explanation mark."
+    }
+  ]
+}

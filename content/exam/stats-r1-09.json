@@ -1,0 +1,87 @@
+{
+ "id": "stats-r1-09",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A spinner can land on red, blue, green or yellow. The table shows the probabilities.\n\nColour        Red    Blue   Green   Yellow\nProbability   0.35   0.2     x       2x\n\nFind the probability that the spinner lands on yellow.",
+   "ms": [
+    "M1: 0.35 + 0.2 + 3x = 1 (oe)",
+    "A1: 0.3"
+   ],
+   "model": "0.35 + 0.2 + x + 2x = 1, so 3x = 0.45 and x = 0.15.\nP(yellow) = 2 × 0.15 = 0.3.",
+   "tip": "Probabilities of all the outcomes add up to 1."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Two fair four-sided spinners, each numbered 1, 2, 3, 4, are spun and the scores are added.\nFind the probability that the total is 5.",
+   "ms": [
+    "M1: 16 equally likely outcomes, with 4 giving a total of 5 ((1,4), (2,3), (3,2), (4,1))",
+    "A1: 4/16 = 1/4 (oe)"
+   ],
+   "model": "There are 4 × 4 = 16 equally likely outcomes. A total of 5 comes from (1, 4), (2, 3), (3, 2) and (4, 1): 4 outcomes.\nP(total = 5) = 4/16 = 1/4.",
+   "tip": "A sample space diagram (4 by 4 grid) makes it easy to count the outcomes."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A bag contains 5 red counters and 3 blue counters. Two counters are taken at random, without replacement.\n(a) Find the probability that both counters are red. [2]\n(b) Find the probability that the counters are different colours. [2]\n(c) Find the probability that at least one counter is blue. [1]",
+   "ms": [
+    "M1: 5/8 × 4/7",
+    "A1: 20/56 = 5/14 (oe)",
+    "M1: 5/8 × 3/7 + 3/8 × 5/7",
+    "A1: 30/56 = 15/28 (oe)",
+    "(c) B1: 1 − 5/14 = 9/14 (oe; ft their (a))"
+   ],
+   "model": "(a) P(R, R) = 5/8 × 4/7 = 20/56 = 5/14.\n(b) P(R, B) + P(B, R) = 5/8 × 3/7 + 3/8 × 5/7 = 15/56 + 15/56 = 30/56 = 15/28.\n(c) P(at least one blue) = 1 − P(both red) = 1 − 5/14 = 9/14.",
+   "tip": "Without replacement, the second-pick denominators drop to 7."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "In a class of 60 students, 32 play football (F), 25 play tennis (T) and 10 play both.\n(a) Draw a Venn diagram to show this information, giving the number in each region. [2]\nA student is chosen at random.\n(b) Find the probability that the student plays neither sport. [1]\n(c) Given that the student plays tennis, find the probability that the student also plays football. [2]",
+   "ms": [
+    "B1: F only 22, both 10, T only 15",
+    "B1: neither 13",
+    "(b) B1: 13/60 (ft)",
+    "(c) M1: 10 ÷ 25 (or P(F ∩ T) ÷ P(T) = (10/60) ÷ (25/60))",
+    "(c) A1: 2/5 (oe, 0.4)"
+   ],
+   "model": "(a) Football only = 32 − 10 = 22; both = 10; tennis only = 25 − 10 = 15; neither = 60 − 22 − 10 − 15 = 13.\n(b) P(neither) = 13/60.\n(c) P(F | T) = 10 ÷ 25 = 2/5.",
+   "tip": "Fill in the intersection first, then subtract it from each total."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "In a factory, 2% of items made are faulty. An inspector checks every item.\nThe inspector rejects 95% of faulty items. The inspector also rejects 10% of items that are not faulty.\n(a) Draw a tree diagram to show this information. [2]\n(b) Find the probability that a randomly chosen item is rejected. [2]\n(c) Given that an item is rejected, find the probability that it is faulty. [2]\n(d) Comment on how well the inspection works. [1]",
+   "ms": [
+    "B1: first branches faulty 0.02, not faulty 0.98",
+    "B1: second branches rejected 0.95 / accepted 0.05 after faulty, and rejected 0.1 / accepted 0.9 after not faulty",
+    "(b) M1: 0.02 × 0.95 + 0.98 × 0.1",
+    "(b) A1: 0.117",
+    "(c) M1: 0.019 ÷ 0.117 (ft their (b))",
+    "(c) A1: 0.162 (awrt 0.162)",
+    "(d) B1: e.g. most rejected items (about 84%) are not actually faulty, so many good items are wasted / the inspection should be improved (ft)"
+   ],
+   "model": "(a) First branches: faulty 0.02, not faulty 0.98. After faulty: rejected 0.95, accepted 0.05. After not faulty: rejected 0.1, accepted 0.9.\n(b) P(rejected) = 0.02 × 0.95 + 0.98 × 0.1 = 0.019 + 0.098 = 0.117.\n(c) P(faulty | rejected) = 0.019 ÷ 0.117 = 0.162.\n(d) Only about 16% of rejected items are actually faulty, so the inspector rejects many good items. This is wasteful, so the inspection method should be improved.",
+   "tip": "For 'given that', divide by the probability of the condition you are given (here P(rejected))."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "200 people were asked whether they use a gym.\n\n               Uses a gym   Does not use a gym   Total\nUnder 30           54              66             120\n30 and over        26              54              80\nTotal              80             120             200\n\nA person is chosen at random. G is the event 'uses a gym' and U is the event 'is under 30'.\n(a) Find P(G ∪ U). [2]\n(b) Determine whether the events G and U are independent. Show your working. [3]\n(c) Find P(U | G). [2]",
+   "ms": [
+    "M1: (80 + 120 − 54) ÷ 200 (or (54 + 66 + 26) ÷ 200)",
+    "A1: 0.73 (146/200)",
+    "(b) M1: P(G) × P(U) = 0.4 × 0.6",
+    "(b) A1: = 0.24 and P(G ∩ U) = 54 ÷ 200 = 0.27",
+    "(b) A1: 0.24 ≠ 0.27 so not independent",
+    "(c) M1: 54 ÷ 80 (or 0.27 ÷ 0.4)",
+    "(c) A1: 0.675 (oe, 27/40)"
+   ],
+   "model": "(a) P(G ∪ U) = P(G) + P(U) − P(G ∩ U) = 80/200 + 120/200 − 54/200 = 146/200 = 0.73.\n(b) P(G) = 0.4 and P(U) = 0.6, so P(G) × P(U) = 0.24.\nP(G ∩ U) = 54 ÷ 200 = 0.27.\nSince 0.27 ≠ 0.24, G and U are not independent.\n(c) P(U | G) = 54 ÷ 80 = 0.675.",
+   "tip": "To test independence, compare P(A ∩ B) with P(A) × P(B) and write a conclusion."
+  }
+ ]
+}

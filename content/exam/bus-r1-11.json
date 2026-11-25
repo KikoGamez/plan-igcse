@@ -1,0 +1,108 @@
+{
+  "id": "bus-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “inflation”. [2]",
+      "ms": [
+        "A rise in the general/average level of prices (1)",
+        "over a period of time / sustained, usually measured over a year (1)"
+      ],
+      "model": "Inflation is a sustained increase in the general level of prices in an economy over a period of time, usually measured over a year.",
+      "tip": "“General level of prices” — not the price of one product."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Identify two methods a government could use to protect its domestic businesses from foreign competition. [2]",
+      "ms": [
+        "Tariffs / import taxes",
+        "Import quotas (limit on quantity of imports)",
+        "Allow: subsidies to domestic producers; strict product standards/regulations on imports; embargo/ban on certain imports"
+      ],
+      "model": "1. Tariffs (taxes on imported goods).\n2. Import quotas (a limit on the quantity of a good that can be imported).",
+      "tip": "These are forms of protectionism."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Prairie Shirts is a US company that exports shirts to Europe. Each shirt is sold for USD 30. The exchange rate changes from €1 = USD 1.25 to €1 = USD 1.50.\n\n(a) Calculate the price of one shirt in euros before and after the change. [2]\n(b) Outline the likely effect of this change on Prairie Shirts’ sales in Europe. [2]",
+      "ms": [
+        "(a) Before: 30 ÷ 1.25 = €24 (1)",
+        "(a) After: 30 ÷ 1.50 = €20 (1)",
+        "(b) Shirts become cheaper for European customers / price falls by €4 (1)",
+        "(b) so demand/quantity sold in Europe should rise, increasing sales revenue / more competitive against European producers (1) — allow ecf from (a)"
+      ],
+      "model": "(a) Before: 30 ÷ 1.25 = €24. After: 30 ÷ 1.50 = €20.\n(b) The shirts are now €4 cheaper for European customers, so Prairie Shirts becomes more price-competitive against European clothing firms and is likely to sell more shirts in Europe.",
+      "tip": "To convert USD to euros, divide by the number of dollars per euro."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "LuxeAuto sells expensive new cars. The economy has entered a recession.\n\nOutline two likely effects of the recession on LuxeAuto. [4]",
+      "ms": [
+        "First effect identified (1)",
+        "First effect developed/explained (1)",
+        "Second effect identified (1)",
+        "Second effect developed/explained (1)",
+        "e.g. Lower sales/demand (1) — incomes fall and people delay buying luxury cars, which are not essential (1)",
+        "e.g. Lower profit / possible losses (1) — revenue falls while fixed costs such as showroom rent remain (1)",
+        "e.g. May need to cut prices / offer discounts or finance deals (1) — reduces profit margin (1)",
+        "e.g. Redundancies / fewer staff (1) — to reduce costs, which may lower morale (1)",
+        "e.g. Cash-flow problems (1) — unsold cars tie up cash in inventory (1)",
+        "e.g. Customers switch to cheaper/used cars (1)"
+      ],
+      "model": "First, LuxeAuto’s sales are likely to fall. In a recession incomes fall and people worry about losing their jobs, so they delay buying expensive, non-essential items such as luxury cars.\nSecond, its profit will fall and it may face cash-flow problems, because fixed costs such as showroom rent must still be paid while unsold cars tie up cash in inventory. It may have to offer discounts, reducing its profit margin.",
+      "tip": "Luxury goods are hit hardest in a recession — use that in your application."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Nadia owns a small clothing manufacturer in Morocco with 25 workers. She currently sells only in her home country.\n\nExplain two opportunities that globalisation could create for Nadia’s business. [6]",
+      "ms": [
+        "First opportunitie — K: valid opportunitie identified (1)",
+        "First opportunitie — App: applied to the business in the question (1)",
+        "First opportunitie — An: consequence for the business explained (1)",
+        "Second opportunitie — K: valid opportunitie identified (1)",
+        "Second opportunitie — App: applied to the business in the question (1)",
+        "Second opportunitie — An: consequence for the business explained (1)",
+        "e.g. Access to larger export markets (K) — sell clothes to customers in other countries, e.g. via e-commerce or trade fairs (App) — higher sales and revenue; may grow and gain economies of scale (An)",
+        "e.g. Cheaper materials/components from abroad (K) — import fabric or buttons at lower prices (App) — lower costs, higher profit margin or lower prices (An)",
+        "e.g. Opportunity to become a supplier to multinational retailers / joint ventures (K) — large regular orders (App) — more secure income (An)",
+        "e.g. Access to new technology/ideas/designs from abroad (K) — improves quality/productivity (App/An)",
+        "e.g. Cheaper or easier international communication and transport (K/App)"
+      ],
+      "model": "First, globalisation gives Nadia access to much larger markets. Through online selling and fewer trade barriers, she could sell her clothing to customers in Europe, not just in Morocco. This could greatly increase her sales, and producing more would spread her fixed costs over more garments, lowering the average cost of each item.\nSecond, she could buy materials such as fabric and zips from the cheapest suppliers in other countries. Lower material costs would raise her profit margin or allow her to charge lower prices, helping her small business compete against larger manufacturers.",
+      "tip": "The question asks for opportunities — keep threats out unless the question asks for both. Marking: Do not credit threats (more foreign competition) unless turned into an opportunity."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "CemCo makes cement. Its factory produces a lot of dust and carbon emissions. Local residents have complained, and an environmental pressure group is campaigning against the company. CemCo could spend $2 million on new filters and energy-efficient kilns, which would reduce emissions by 60% and lower energy costs by $200 000 a year. CemCo’s annual profit is $3 million.\n\nDo you think CemCo should make this investment to become more environmentally friendly? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "For: reduces external costs (dust, pollution, health problems for residents); improves reputation, ends pressure-group campaign/negative publicity → protects sales; may avoid future fines or stricter government laws; energy saving of $200 000 a year → payback in about 10 years ($2 m ÷ $200 000)",
+        "For: may attract environmentally aware customers (e.g. construction firms that want ‘green’ materials) and investors",
+        "Against: $2 m is two-thirds of one year’s profit (2/3 of $3 m) → lower profit/dividends this year; cash or loan needed; long payback; competitors who do not invest keep lower costs/prices",
+        "Ev: justified decision, e.g. invest because legal and reputational risks are growing and energy savings partly repay the cost; may depend on finance available, whether government grants or stricter laws are likely, and how far customers care about sustainability"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of arguments for and against using the data, with a justified decision explaining why one side outweighs the other or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one argument applied to CemCo; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of environmental issues/externalities with little application."
+        }
+      ],
+      "model": "Investing would cut emissions by 60%, reducing the dust and pollution that harm local residents’ health. This should end the pressure group’s campaign and improve CemCo’s reputation, so customers and the local council are less likely to turn against it. It also reduces the risk of future fines if the government introduces stricter pollution laws. The new kilns save $200 000 a year in energy, so the investment pays for itself in about 10 years.\nHowever, $2 million is two-thirds of CemCo’s annual profit of $3 million, so profit and dividends would fall sharply this year, or CemCo would need to borrow. Ten years is a long payback period, and competitors that do not invest may keep lower costs and prices.\nI think CemCo should invest. The complaints and the campaign show that pressure is growing, and if the government responds with new laws CemCo may be forced to invest anyway, perhaps with fines as well. The energy savings mean the real cost is much lower than $2 million over time. CemCo could spread the cost with a long-term loan or apply for a government environmental grant, and should publicise the improvement to turn it into a selling point.",
+      "tip": "Calculate something (payback, % of profit) — it turns general points into applied analysis."
+    }
+  ]
+}

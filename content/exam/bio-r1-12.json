@@ -1,0 +1,88 @@
+{
+  "id": "bio-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State whether each of these is an example of continuous or discontinuous variation.\n(a) hand span\n(b) ABO blood group",
+      "ms": [
+        "(a) continuous",
+        "(b) discontinuous"
+      ],
+      "model": "(a) Continuous — any value within a range is possible.\n(b) Discontinuous — there are only four groups and no intermediates.",
+      "tip": "Continuous = a range between two extremes (measured); discontinuous = a few distinct categories."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "A body cell of a fruit fly has a diploid nucleus containing 8 chromosomes.\nState the number of chromosomes in:\n(a) a fruit fly gamete\n(b) a cell produced from a body cell by mitosis\n(c) a fruit fly zygote",
+      "ms": [
+        "(a) 4",
+        "(b) 8",
+        "(c) 8"
+      ],
+      "model": "(a) 4 — gametes are haploid, made by meiosis.\n(b) 8 — mitosis produces genetically identical diploid cells.\n(c) 8 — two haploid gametes fuse to form a diploid zygote.",
+      "tip": "Meiosis halves the chromosome number; mitosis keeps it the same; fertilisation restores it."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "In pea plants, the allele for purple flowers (P) is dominant to the allele for white flowers (p).\nTwo heterozygous purple-flowered plants are crossed.\n(a) Draw a genetic diagram to show this cross. Include the parental genotypes, the gametes, the offspring genotypes and the offspring phenotypes. [4]\n(b) The cross produces 400 seeds. Predict how many of the plants grown from them will have white flowers. [1]",
+      "ms": [
+        "(a) parental genotypes: Pp × Pp",
+        "(a) gametes: P and p from each parent",
+        "(a) offspring genotypes: PP, Pp, Pp, pp (e.g. in a Punnett square)",
+        "(a) phenotypes: 3 purple : 1 white (linked to correct genotypes)",
+        "(b) 100"
+      ],
+      "model": "(a) Parental phenotypes: purple × purple\nParental genotypes: Pp × Pp\nGametes: P, p and P, p\nPunnett square:\n      P    p\nP   PP   Pp\np   Pp   pp\nOffspring genotypes: 1 PP : 2 Pp : 1 pp\nOffspring phenotypes: 3 purple : 1 white\n(b) One quarter are white: 400 ÷ 4 = 100.",
+      "tip": "Circle the gametes and use the same letter (capital and small) for the two alleles of one gene."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A pedigree diagram shows a family. A man and a woman, neither of whom has a genetic condition, have two children: a daughter who has the condition and a son who does not.\nThe condition is controlled by one gene with two alleles, D and d.\n(a) Explain how the pedigree shows that the condition is caused by a recessive allele. [2]\n(b) State the genotypes of the parents. [1]\n(c) Calculate the probability that their next child will have the condition. [1]",
+      "ms": [
+        "(a) both parents are unaffected but have an affected child",
+        "(a) so both parents must carry the allele without showing it / it is hidden in the parents (so it is recessive)",
+        "(b) Dd and Dd",
+        "(c) 0.25 / 25 % / 1 in 4"
+      ],
+      "model": "(a) Both parents are unaffected but their daughter has the condition. She must have inherited the allele from both parents, who carry it without showing it, so the allele must be recessive.\n(b) Both parents are Dd.\n(c) Dd × Dd gives 1 DD : 2 Dd : 1 dd, so the probability is 1 in 4 (0.25).",
+      "tip": "Each child has the same 1 in 4 chance, whatever happened to earlier children."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The peppered moth rests on tree trunks during the day and is eaten by birds. Most moths used to be pale, matching the pale lichen on trees. After air pollution blackened the tree trunks with soot, the dark form became the most common form in industrial areas.\nExplain how natural selection caused this change.",
+      "ms": [
+        "variation exists in the population: some moths are pale and some are dark",
+        "the dark colour is caused by an allele (produced originally by mutation)",
+        "on dark trunks, dark moths are better camouflaged / pale moths are more visible",
+        "birds eat more of the pale moths (predation)",
+        "dark moths are more likely to survive and reproduce",
+        "they pass on the allele for dark colour to their offspring",
+        "over many generations the dark form / allele becomes more common"
+      ],
+      "model": "There was variation in the moth population: some moths were pale and a few were dark, the dark colour being caused by an allele that arose by mutation. When the tree trunks became blackened by soot, the dark moths were better camouflaged, while the pale moths were easily seen by birds. Birds ate more of the pale moths, so the dark moths were more likely to survive and reproduce. They passed the allele for dark colour on to their offspring. Over many generations, the proportion of dark moths in the population increased until they became the most common form.",
+      "tip": "Individuals do not change colour to adapt; the population changes because survivors pass on their alleles."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A farmer wants a herd of dairy cattle that produce a large volume of milk and are calm and easy to handle.\n(a) Describe how the farmer could use selective breeding to produce this herd. [4]\n(b) State two differences between selective breeding and natural selection. [2]",
+      "ms": [
+        "(a) choose / select the cows that produce the most milk and are calmest",
+        "(a) choose a bull whose mother / female relatives had a high milk yield (and that is calm)",
+        "(a) breed them together",
+        "(a) select the offspring with the best combination of features and breed them",
+        "(a) repeat over many generations",
+        "(b) in selective breeding humans choose which individuals breed; in natural selection the environment does",
+        "(b) selective breeding selects features useful to humans; natural selection selects features that help survival / reproduction",
+        "(b) selective breeding is (usually) faster"
+      ],
+      "model": "(a) The farmer selects the cows in the herd that give the most milk and are calmest, and breeds them with a calm bull whose mother had a high milk yield. From the calves, he selects those that grow into the calmest, highest-yielding cows and breeds them again. This is repeated over many generations until the whole herd has both features.\n(b) In selective breeding humans choose which animals breed, whereas in natural selection the environment determines which individuals survive to breed. Selective breeding selects features that are useful to humans, while natural selection favours features that help survival.",
+      "tip": "Bulls do not produce milk, so the bull is chosen using the milk yield of its female relatives."
+    }
+  ]
+}

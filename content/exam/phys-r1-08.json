@@ -1,0 +1,83 @@
+{
+ "id": "phys-r1-08",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) Define the electromotive force (e.m.f.) of a source. [2]\n(b) Define the potential difference (p.d.) between two points in a circuit. [1]",
+   "ms": [
+    "(a) electrical work done by the source",
+    "(a) in moving a unit charge around a complete circuit",
+    "(b) work done by a unit charge passing between the two points (allow energy transferred per unit charge between the points)"
+   ],
+   "model": "(a) The e.m.f. is the electrical work done by a source in moving a unit charge around a complete circuit.\n(b) The p.d. is the work done by a unit charge passing between the two points.",
+   "tip": "Both definitions need 'unit charge'; e.m.f. refers to the whole circuit, p.d. to two points."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A plastic comb can be charged by rubbing it with a dry cloth. A metal spoon held in the hand and rubbed in the same way does not stay charged.\nExplain the difference.",
+   "ms": [
+    "plastic is an insulator: electrons (charge) cannot move through it, so the charge stays where it is",
+    "metal is a conductor: electrons flow through the spoon (and the person) to or from earth, so the charge does not stay"
+   ],
+   "model": "Plastic is an insulator, so electrons cannot flow through it and the charge stays on the comb. Metal is a conductor, so electrons flow through the spoon and the person's hand to or from earth, and the spoon does not stay charged."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A student measures the current I in a resistor for different values of p.d. V.\nV / V: 0    1.5   3.0   4.5   6.0\nI / A: 0    0.10  0.20  0.30  0.40\n(a) Describe the shape of the current–voltage graph and state what it shows about the resistance of the resistor. [2]\n(b) Calculate the resistance of the resistor. [2]",
+   "ms": [
+    "(a) straight line through the origin (current directly proportional to p.d.)",
+    "(a) resistance is constant",
+    "(b) C1: R = V ÷ I = 6.0 ÷ 0.40 (or any pair)",
+    "(b) A1: 15 Ω"
+   ],
+   "model": "(a) A straight line through the origin: the current is directly proportional to the p.d., so the resistance is constant.\n(b) R = V ÷ I = 6.0 ÷ 0.40 = 15 Ω."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Wire A has length 2.0 m, cross-sectional area 0.50 mm² and resistance 6.0 Ω. Wire B is made of the same metal. It has length 3.0 m and cross-sectional area 1.5 mm².\n(a) Calculate the resistance of wire B. [3]\n(b) A p.d. of 6.0 V is applied across wire B. Calculate the current in it. [1]",
+   "ms": [
+    "(a) C1: length × 1.5 so resistance × 1.5 (= 9.0 Ω)",
+    "(a) C1: area × 3 so resistance ÷ 3",
+    "(a) A1: 3.0 Ω",
+    "(b) I = 6.0 ÷ 3.0 = 2.0 A (ecf)"
+   ],
+   "model": "(a) R ∝ length: 3.0 ÷ 2.0 = 1.5, so R becomes 6.0 × 1.5 = 9.0 Ω.\nR ∝ 1 ÷ area: area is 3 times larger, so R = 9.0 ÷ 3 = 3.0 Ω.\n(b) I = V ÷ R = 6.0 ÷ 3.0 = 2.0 A.",
+   "tip": "Longer wire → more resistance; thicker wire → less resistance. Apply the two factors one at a time."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe an experiment to investigate how the potential difference across a resistance wire depends on its length. Include the circuit, the measurements, how you would keep the investigation fair and how you would use the results.",
+   "ms": [
+    "circuit: cell / power supply, ammeter and resistance wire (on a metre rule) in series",
+    "voltmeter connected in parallel across the length of wire being tested (e.g. crocodile clip / sliding contact)",
+    "measure length with the metre rule, e.g. 20, 40, 60, 80, 100 cm",
+    "record the voltmeter reading for each length",
+    "keep the current constant (check ammeter / adjust variable resistor) / use the same wire throughout",
+    "keep current small or switch off between readings so the wire does not heat up (resistance changes with temperature)",
+    "plot a graph of p.d. against length: a straight line through the origin shows p.d. ∝ length"
+   ],
+   "model": "Fix a resistance wire along a metre rule and connect it in series with a cell, a variable resistor and an ammeter. Connect a voltmeter from one end of the wire to a crocodile clip that can be placed at different lengths. For lengths of 20, 40, 60, 80 and 100 cm, record the voltmeter reading, adjusting the variable resistor so the ammeter reading is the same each time. Keep the current small and switch off between readings so the wire does not get hot. Plot p.d. against length; a straight line through the origin shows that the p.d. is directly proportional to the length.",
+   "tip": "The voltmeter always goes in parallel across the part being tested; the ammeter goes in series."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A balloon is rubbed on a dry wool jumper and becomes negatively charged.\n(a) Explain how the balloon becomes negatively charged and state the charge left on the jumper. [2]\n(b) The charged balloon produces an electric field. Define electric field and state how the direction of the field at a point is defined. [2]\n(c) In a lightning flash, 20 C of charge flows in 0.0010 s. Calculate the average current. [2]",
+   "ms": [
+    "(a) electrons (negative charge) are transferred from the jumper to the balloon (by friction); not 'positive charges move'",
+    "(a) jumper is left positively charged",
+    "(b) a region in which an electric charge experiences a force",
+    "(b) direction = direction of the force on a positive charge (at that point)",
+    "(c) C1: I = Q ÷ t = 20 ÷ 0.0010",
+    "(c) A1: 20 000 A (2.0 × 10⁴ A)"
+   ],
+   "model": "(a) Friction transfers electrons from the jumper to the balloon. The balloon gains electrons so it is negative; the jumper loses electrons so it is left positively charged.\n(b) An electric field is a region in which an electric charge experiences a force. Its direction at a point is the direction of the force on a positive charge at that point.\n(c) I = Q ÷ t = 20 ÷ 0.0010 = 20 000 A.",
+   "tip": "Only electrons move when solids are charged by friction – never say positive charges are transferred."
+  }
+ ]
+}

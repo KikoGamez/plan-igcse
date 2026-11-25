@@ -1,0 +1,113 @@
+{
+  "id": "bus-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "CASE: Lumen Bikes Ltd makes electric bikes in Porto. It has 60 employees. Last year its revenue was $4.5 million and its profit was $360 000.\n\nCalculate Lumen Bikes’ profit margin last year. [2]",
+      "ms": [
+        "M1: 360 000 ÷ 4 500 000 × 100",
+        "A1: 8% (award 2 marks for correct answer)"
+      ],
+      "model": "Profit margin = 360 000 ÷ 4 500 000 × 100 = 8%.",
+      "tip": "Write your working — and use the answer later as evidence in longer questions."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "CASE: Lumen Bikes Ltd makes 6 000 electric bikes a year in a factory in Porto, with 60 employees working one shift. Customers currently wait 8 weeks for a bike. Option B is to run a second (evening) shift, employing 20 new workers.\n\nIdentify two stakeholder groups that would be affected by option B. [2]",
+      "ms": [
+        "Existing employees (e.g. may have to work evenings / chance of overtime or supervision roles)",
+        "New workers / job applicants (new jobs)",
+        "Customers (shorter waiting times)",
+        "Shareholders/owners (higher costs and possible higher profit)",
+        "Local community/residents (jobs; noise or traffic in the evening)",
+        "Suppliers (larger orders of parts)",
+        "Government (more tax / lower unemployment)"
+      ],
+      "model": "1. Customers, who would wait less time for their bikes.\n2. Local residents, who would gain 20 new jobs but might suffer noise from the factory in the evening.",
+      "tip": "Identify only needs names, but linking each to the option shows you have read the case. Marking: Ignore ‘managers’ unless linked to supervising the new shift."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "CASE: Lumen Bikes Ltd produces 6 000 electric bikes a year. It is considering two options to increase output:\n• Option A: a new automated assembly line costing $400 000. Output would increase by 30%.\n• Option B: a second shift with 20 new workers. Extra wage costs would be $480 000 a year. Output would increase by 1 500 bikes a year.\n\nCalculate, for each option, the extra number of bikes produced in a year and the first-year cost per extra bike. [4]",
+      "ms": [
+        "M1/A1: Option A extra bikes = 30% × 6 000 = 1 800",
+        "A1: Option A cost per extra bike = 400 000 ÷ 1 800 = $222.22 (allow $222)",
+        "A1: Option B cost per extra bike = 480 000 ÷ 1 500 = $320",
+        "B1: Option B extra bikes = 1 500 stated / comparison: A gives 300 more bikes at a lower first-year cost per bike (ecf)"
+      ],
+      "model": "Option A: extra bikes = 30% × 6 000 = 1 800. Cost per extra bike = $400 000 ÷ 1 800 = $222.22.\nOption B: extra bikes = 1 500. Cost per extra bike = $480 000 ÷ 1 500 = $320.\nSo option A produces 300 more bikes in the first year at a lower cost per extra bike.",
+      "tip": "Note that A is a one-off cost while B’s wage cost is paid every year — a useful point for evaluation later."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "CASE: Lumen Bikes Ltd makes 6 000 electric bikes a year. Customers wait 8 weeks for delivery and some cancel their orders. Option A is a new automated assembly line costing $400 000 that would increase output by 30%.\n\nA student wrote this answer: “Option A will increase productivity.”\n\nRewrite and develop this point so that it shows knowledge, application and analysis. [4]",
+      "ms": [
+        "K (1): correct understanding — automation increases output per worker / labour productivity",
+        "App (1): uses case data, e.g. output rises by 30% / 1 800 extra bikes with the same 60 workers; waiting time of 8 weeks",
+        "An (1): consequence — shorter waiting times, fewer cancelled orders, so more sales/revenue",
+        "An (1): further development — lower labour cost per bike / higher profit margin above 8% / greater market share"
+      ],
+      "model": "Option A would increase labour productivity, because the automated line allows the same 60 workers to make 30% more bikes — 1 800 extra each year. With higher output, Lumen could cut the 8-week waiting time, so fewer customers would cancel their orders and revenue would rise. Because no extra workers are needed, the labour cost of each bike would fall, which could increase Lumen’s profit margin.",
+      "tip": "Use the chain: point → case evidence → “this means…” → effect on sales, costs or profit."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "CASE: Lumen Bikes Ltd makes electric bikes in Porto. It has 60 employees and $250 000 in cash. Its profit last year was $360 000. Option A is a new automated assembly line costing $400 000, which would increase output by 30%. It would take 4 months to install, during which production would be reduced. Five workers would need retraining, and some employees are worried that more machines will be bought in the future and replace them.\n\nExplain two disadvantages to Lumen Bikes of option A. [8]",
+      "ms": [
+        "First disadvantage — K: valid disadvantage identified (1)",
+        "First disadvantage — App: linked to the business in the case (1)",
+        "First disadvantage — An: consequence explained (1)",
+        "First disadvantage — An: further developed chain, e.g. effect on revenue/costs/profit (1)",
+        "Second disadvantage — K: valid disadvantage identified (1)",
+        "Second disadvantage — App: linked to the business in the case (1)",
+        "Second disadvantage — An: consequence explained (1)",
+        "Second disadvantage — An: further developed chain (1)",
+        "e.g. High cost / finance needed (K) — $400 000 is $150 000 more than its $250 000 cash (App) — must borrow, so interest increases costs and reduces profit; or uses all cash, leaving none for emergencies → cash-flow risk (An)",
+        "e.g. Disruption during installation (K) — 4 months of reduced production (App) — waiting times increase further, customers cancel, revenue falls in the short term (An)",
+        "e.g. Worker resistance / lower motivation (K) — employees fear their jobs will be replaced (App) — lower morale, possible conflict or higher labour turnover, lower productivity (An)",
+        "e.g. Retraining costs (K) — five workers (App) — extra cost and time before the line is used efficiently (An)",
+        "e.g. Risk of breakdown / dependence on machinery / maintenance costs (K/App/An)"
+      ],
+      "model": "First, option A is expensive. The line costs $400 000, but Lumen only has $250 000 in cash, so it would need to borrow at least $150 000. The interest on a loan would increase Lumen’s costs and reduce profit. Even after borrowing, using almost all its cash would leave Lumen unable to pay unexpected bills, so it could face cash-flow problems while the new line is being set up.\nSecond, installation would disrupt production for 4 months. Customers already wait 8 weeks, so waiting times would get even longer and more customers would cancel or buy from competitors. Lumen would lose revenue in the short term, and some of these customers might never return, damaging its reputation just when it is trying to grow.",
+      "tip": "8-mark ‘explain two’: two developed paragraphs, each with case evidence and at least two steps of analysis. Marking: Max 4 marks per disadvantage; max 2 per disadvantage if there is no use of the case (e.g. $400 000 v $250 000 cash, 4 months, 8-week wait). Do not credit two points that make the same argument (e.g. ‘expensive’ and ‘needs a loan’ count as one)."
+    },
+    {
+      "lvl": 3,
+      "marks": 12,
+      "q": "CASE: Lumen Bikes Ltd makes 6 000 electric bikes a year in Porto. It has 60 employees, $250 000 in cash and made a profit of $360 000 last year. Demand is greater than output, and customers wait 8 weeks. The directors want to increase output and are considering two options:\n• Option A: new automated assembly line. Cost $400 000 (one-off). Output +30% (1 800 bikes a year). 4 months to install, with reduced production during installation. No new workers; five existing workers retrained.\n• Option B: second evening shift. 20 new workers; extra wage costs $480 000 every year. Output +1 500 bikes a year. Could start within 1 month.\n\nConsider the advantages and disadvantages of each option. Recommend which option Lumen Bikes should choose. Justify your answer. [12]",
+      "ms": [
+        "Indicative content:",
+        "A — advantages: more extra output (1 800 v 1 500); one-off cost, lower cost per extra bike in year 1 ($222 v $320) and much lower in later years (no extra annual cost); higher productivity, lower unit cost, profit margin may rise above 8%; consistent quality",
+        "A — disadvantages: $400 000 > $250 000 cash, so needs a loan/interest; 4 months of disruption increases waiting times; worker fears/resistance; retraining; breakdown risk",
+        "B — advantages: quick to start (1 month), reduces 8-week waiting time quickly; affordable from cash flow (paid monthly, no large initial outlay); flexible — shift can be stopped if demand falls; creates local jobs/good publicity",
+        "B — disadvantages: $480 000 every year (more than last year’s total profit of $360 000); recruitment and training of 20 workers; evening work may be less productive; supervision/communication harder; noise for local residents",
+        "Ev: a justified recommendation comparing the options, e.g. A because over 2+ years it is far cheaper ($400 000 once v $960 000 over two years) and gives more output, provided Lumen can borrow $150 000 and demand stays high; or B if demand is uncertain or a loan is not available — with a condition / short-term v long-term judgement"
+      ],
+      "levels": [
+        {
+          "m": "10–12",
+          "d": "Well-developed analysis of advantages and disadvantages of both options, using case data and calculations effectively; a clear recommendation justified by explaining why the chosen option is better than the other, with a condition or short-/long-term consideration."
+        },
+        {
+          "m": "7–9",
+          "d": "Developed analysis of both options with good use of the case; a recommendation is made with some justification, but comparison with the other option is limited."
+        },
+        {
+          "m": "4–6",
+          "d": "Some analysis of at least one option applied to the case; a decision may be stated but is largely unsupported."
+        },
+        {
+          "m": "1–3",
+          "d": "Knowledge of relevant advantages/disadvantages with little or no application; no meaningful judgement."
+        }
+      ],
+      "model": "Option A would add 1 800 bikes a year, 300 more than option B, and the $400 000 is a one-off cost. In the first year the cost per extra bike is $222 compared with $320 for option B, and in later years A has no extra annual cost, so Lumen’s cost per bike would fall and its 8% profit margin should rise. However, Lumen only has $250 000 in cash, so it must borrow at least $150 000 and pay interest. Installation would reduce production for 4 months, making the 8-week waiting time even worse, and workers who fear automation may become demotivated.\nOption B could start within a month, so it would cut waiting times quickly and win back customers who are cancelling orders. Lumen does not need a large sum at the start, and if demand falls it could close the evening shift. However, it costs $480 000 every year — more than last year’s total profit of $360 000 — so unless the extra 1 500 bikes earn a high contribution, profit could fall. Recruiting and training 20 workers also takes time, and an evening shift may be harder to supervise.\nI recommend option A. Over two years option B would cost $960 000 in wages, more than twice the cost of the automated line, while giving 300 fewer bikes each year. Demand is already greater than supply, so the long-term saving and higher output are worth the short-term disruption. Lumen should take a loan for the $150 000 shortfall, schedule installation during its quietest months, and reassure workers that no jobs will be lost by retraining them to run the new line. If the bank will not lend, or if the directors expect demand to fall, option B would be the safer short-term choice because it can be reversed.",
+      "tip": "Top marks need a decision AND a reason why the other option is worse, plus what the decision depends on."
+    }
+  ]
+}

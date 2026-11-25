@@ -1,0 +1,101 @@
+{
+  "id": "geo-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between the site and the situation of a settlement.",
+      "ms": [
+        "site: the physical characteristics of the land on which the settlement is built (e.g. dry point, flat land)",
+        "situation: the location of the settlement in relation to its surroundings (e.g. other settlements, rivers, routes)"
+      ],
+      "model": "The site is the actual land the settlement is built on, such as a dry hill above a floodplain. The situation is where the settlement is in relation to the surrounding area, such as being near other towns, routes or a river."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Name the rural settlement pattern described in each case:\n(a) farmhouses spread out across the countryside, far apart from each other [1]\n(b) houses built in a line along a main road or river [1]\n(c) houses grouped closely together around a crossroads or church. [1]",
+      "ms": [
+        "(a) dispersed (allow scattered)",
+        "(b) linear",
+        "(c) nucleated (allow clustered)"
+      ],
+      "model": "(a) Dispersed.\n(b) Linear.\n(c) Nucleated."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe and explain the characteristics of the residential area found at the edge of a city in a high-income country (HIC).",
+      "ms": [
+        "newer housing, often built after the 1950s (1)",
+        "detached / semi-detached houses with gardens and garages (1)",
+        "low density / more open space (1) because land is cheaper further from the centre (expl 1)",
+        "wider / curved roads, cul-de-sacs (1)",
+        "people commute by car to work in the city (1)",
+        "out-of-town shopping centres / business parks / leisure built nearby (1) because of cheap land and good road access (expl 1)"
+      ],
+      "model": "At the edge of a city in an HIC, the housing is mostly newer, detached and semi-detached houses with large gardens and garages. The density is low with open spaces and parks. This is because land is much cheaper away from the CBD, so plots can be larger. Residents are often commuters who drive to work, so there are wide roads and garages. Out-of-town shopping centres and business parks are also found here because land is cheap and the area is close to ring roads.",
+      "tip": "Describe a feature AND explain why it is there to get full marks."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A village has a newsagent but no department store. A city has both. Using the terms threshold population and range, explain why.",
+      "ms": [
+        "threshold population: the minimum number of people needed to support a service / keep it in business (1)",
+        "a newsagent is a low-order service with a low threshold (1), so a village has enough customers (dev 1)",
+        "a department store is a high-order service with a high threshold (1), which only a large settlement such as a city can provide (dev 1)",
+        "range: the maximum distance people will travel to use a service (1)",
+        "people travel only a short distance for everyday (convenience) goods but will travel further to the city for comparison / expensive goods (1)"
+      ],
+      "model": "A newsagent is a low-order service: it sells everyday goods, so it has a low threshold population, the minimum number of customers needed to stay open. A village has enough people to support it, and its range is small because people will not travel far for a newspaper. A department store is a high-order service selling expensive, occasional goods, so it needs a very high threshold population, which only a city can provide. Its range is large because people are willing to travel a long way to compare and buy these goods.",
+      "tip": "Define both terms and apply them to each service."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Explain the environmental problems caused by the rapid growth of cities in low-income countries (LICs).",
+      "ms": [
+        "air pollution from traffic / factories / burning fuel (1) causing respiratory illness (dev 1)",
+        "water pollution – untreated sewage and industrial waste enter rivers (1) because sewage systems cannot keep up (dev 1)",
+        "waste / rubbish not collected, dumped in streets or on tips (1) attracting disease (dev 1)",
+        "urban sprawl onto farmland / green land / forests (1)",
+        "informal settlements built on unsafe land, e.g. steep slopes / floodplains (1) – risk of landslides / floods (dev 1)",
+        "noise / traffic congestion (1)"
+      ],
+      "model": "Rapid growth means more cars and factories, often with few pollution controls, so air quality is poor and respiratory illnesses increase. Sewage systems cannot keep up with the growing population, so untreated sewage and industrial waste are put straight into rivers, polluting drinking water. Rubbish collection does not reach informal settlements, so waste piles up and attracts rats and disease. The city also sprawls outwards onto farmland, and new informal settlements are built on steep slopes or floodplains, which increases the risk of landslides and flooding.",
+      "tip": "Environmental means pollution, waste and land – keep social problems (crime, jobs) for another question."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named city you have studied, describe the problems caused by its rapid growth and explain why they occur.",
+      "ms": [
+        "housing: informal settlements / slums, e.g. Dharavi in Mumbai, Rio's favelas – too many migrants for formal housing, cannot afford rents",
+        "lack of services: clean water, sanitation, electricity – infrastructure cannot keep up with growth",
+        "traffic congestion and air pollution – rising car ownership, narrow roads, overcrowded trains",
+        "unemployment / informal sector jobs – more people than formal jobs",
+        "pressure on schools and hospitals",
+        "crime / social problems in poorer areas",
+        "causes linked to rural–urban migration and natural increase",
+        "place-specific detail, e.g. Mumbai: population over 20 million in the metropolitan area; Dharavi is one of Asia's largest slums with about a million people; suburban trains extremely overcrowded"
+      ],
+      "model": "Mumbai in India has grown very quickly because of rural–urban migration from poorer states and a high natural increase among the young population. This growth has caused serious problems. Housing is the biggest: migrants cannot afford formal flats, so a large share of the population (often quoted as about 40%) lives in slums such as Dharavi, where about a million people live in a small area. These areas lack clean water and toilets because the city's services have not expanded as fast as the population, so diseases spread easily.\nTraffic congestion is severe because roads are narrow and car ownership is rising, and the suburban trains are so overcrowded that people are injured falling from them. Air pollution from vehicles and industry is high. There are also not enough formal jobs, so many people work in the informal sector, for example recycling waste in Dharavi, with low and unreliable incomes.",
+      "tip": "Link each problem to its cause (why it happens) and add a named place and data for Level 3.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed problems clearly explained, with place-specific detail of the named city."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three problems with some explanation, or one well-developed problem; some reference to the city."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general problems; no named city or explanation."
+        }
+      ]
+    }
+  ]
+}

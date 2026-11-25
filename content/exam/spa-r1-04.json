@@ -1,0 +1,103 @@
+{
+  "id": "spa-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lea la tarea.\n\n«Su instituto quiere eliminar los deberes durante los fines de semana. Escriba un artículo para la revista escolar, dirigido a alumnos y profesores, en el que evalúe las opiniones de los dos textos y dé su propia opinión.»\n\nIndique: (a) la forma del texto, (b) los destinatarios y (c) el propósito.",
+      "ms": [
+        "(a) artículo (para la revista escolar)",
+        "(b) alumnos y profesores (del instituto)",
+        "(c) evaluar las opiniones de los textos y argumentar / dar su opinión"
+      ],
+      "model": "(a) Un artículo para la revista del instituto.\n(b) Alumnos y profesores.\n(c) Evaluar las opiniones de los dos textos y argumentar mi propia postura.",
+      "tip": "Analizar forma, audiencia, propósito y registro antes de escribir evita perder puntos por un tono equivocado."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Un alumno empezó y terminó así una carta al director de un periódico:\n\n«Hola, señor director, …\n…\nBesos,\nPablo»\n\nCorrija el saludo y la despedida para que sean adecuados a una carta formal en español.",
+      "ms": [
+        "saludo: «Señor director:» / «Estimado señor director:» (con dos puntos, sin «Hola»)",
+        "despedida: «Atentamente,» / «Le saluda atentamente,» + nombre"
+      ],
+      "model": "Estimado señor director:\n…\nAtentamente,\nPablo Ruiz",
+      "tip": "En español el saludo de una carta va seguido de dos puntos, no de coma."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea las dos opiniones.\n\nTexto A (un padre): «Sin deberes el fin de semana, los chicos olvidarán lo aprendido y bajarán sus notas. Siempre ha sido así.»\nTexto B (una psicóloga): «Los adolescentes que descansan el fin de semana rinden más el lunes. El cerebro necesita tiempo libre para consolidar lo aprendido.»\n\nEscriba dos frases que evalúen la opinión del texto A y dos frases que evalúen la opinión del texto B. No se limite a repetirlas.",
+      "ms": [
+        "A: señala que no aporta pruebas / datos («siempre ha sido así» es una costumbre, no un argumento)",
+        "A: reconoce una parte razonable (repasar ayuda a no olvidar) o la matiza / la contrasta con B",
+        "B: valora que es más convincente porque procede de una experta / ofrece una explicación",
+        "B: la cuestiona o desarrolla (p. ej., depende de cómo se use el tiempo libre / no dice cuánto descanso es necesario)",
+        "uso de lenguaje evaluativo (convincente, discutible, generaliza, sin embargo, si bien…)"
+      ],
+      "model": "Aunque el padre teme que olvidemos lo aprendido, no ofrece ningún dato que lo demuestre, y «siempre ha sido así» es una costumbre, no un argumento. Es cierto que repasar ayuda a recordar, pero eso no exige deberes obligatorios cada fin de semana.\nLa opinión de la psicóloga resulta más convincente, ya que procede de una experta y explica por qué el descanso mejora el rendimiento. Sin embargo, habría que preguntarse si todos los adolescentes aprovechan ese tiempo libre para descansar de verdad.",
+      "tip": "Evaluar es juzgar: ¿es convincente? ¿tiene pruebas? ¿generaliza? ¿olvida algo?"
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Tarea: El ayuntamiento quiere cerrar la biblioteca municipal y sustituirla por un servicio de libros digitales. Usted va a pronunciar un discurso ante el pleno del ayuntamiento, con vecinos presentes, para oponerse al cierre.\n\nEscriba el párrafo inicial del discurso (60–80 palabras).",
+      "ms": [
+        "saludo adecuado a un discurso formal (p. ej. «Señora alcaldesa, señores concejales, vecinos:»)",
+        "presenta el tema con claridad (el cierre de la biblioteca)",
+        "expresa una postura clara en contra del cierre",
+        "usa algún recurso oral persuasivo (pregunta retórica, apelación directa al público, repetición)",
+        "registro formal y consistente (usted / ustedes), sin coloquialismos",
+        "corrección: tildes, signos de apertura ¿ ¡, puntuación"
+      ],
+      "model": "Señora alcaldesa, señores concejales, queridos vecinos:\n\nGracias por permitirme hablar hoy. Se nos dice que una pantalla puede sustituir a nuestra biblioteca. Pero ¿puede una aplicación ofrecer un lugar cálido donde estudiar, un bibliotecario que aconseja o un club de lectura para nuestros mayores? Yo creo que no. Por eso vengo a pedirles, con todo respeto, que reconsideren el cierre de un espacio que pertenece a todos.",
+      "tip": "Un discurso se dirige a un público presente: salúdelo y háblele directamente."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Lea los dos textos.\n\nTexto A — Concejala de juventud: «Vamos a instalar cámaras de vigilancia en el parque del barrio. Desde el verano ha habido pintadas y bancos rotos, y muchas familias dicen que no se sienten seguras por la noche. Las cámaras disuaden a los vándalos y ayudan a la policía.»\n\nTexto B — Asociación juvenil: «Las cámaras no solucionan nada: los gamberros se irán a otra calle. Lo que el barrio necesita es iluminación y actividades para los jóvenes, que no tienen ningún otro lugar donde reunirse. Además, nadie nos ha preguntado si queremos que nos graben.»\n\nEscriba una carta al periódico local en la que evalúe las opiniones de los dos textos y explique qué medida le parece mejor para el parque. Escriba unas 250–300 palabras (versión breve para práctica).",
+      "ms": [
+        "usa ideas de los dos textos, reformuladas con sus propias palabras",
+        "evalúa A: el problema es real (pintadas, inseguridad), pero las cámaras quizá solo trasladan el problema / es costoso / no hay datos de su eficacia",
+        "evalúa B: argumento de desplazamiento razonable; propone soluciones de fondo (luz, actividades); plantea la privacidad",
+        "desarrolla las ideas con razonamientos propios (p. ej., combinación de medidas, consulta a los vecinos, responsabilidad compartida)",
+        "opinión clara y coherente a lo largo de la carta, con conclusión",
+        "convenciones de carta formal: «Señor director:» … «Atentamente,» + nombre; registro formal",
+        "estructura en párrafos con conectores (sin embargo, por otra parte, en definitiva…)",
+        "corrección lingüística: tildes, puntuación, concordancias"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Lectura: evalúa con agudeza las ideas de ambos textos, las compara y las desarrolla con argumentos propios convincentes; opinión clara y bien fundamentada. Escritura: registro formal mantenido, convenciones de la carta correctas, estructura muy eficaz, vocabulario preciso y variado, muy pocos errores."},
+        {"m": "5–6", "d": "Lectura: usa ideas de los dos textos con alguna evaluación y algo de desarrollo; opinión clara. Escritura: registro adecuado en general, párrafos organizados, vocabulario apropiado; algunos errores que no dificultan la comprensión."},
+        {"m": "3–4", "d": "Lectura: repite ideas de los textos (a veces copiadas) con poca evaluación; puede basarse sobre todo en un texto. Escritura: registro irregular, estructura simple, vocabulario limitado, errores frecuentes de tildes o puntuación."},
+        {"m": "1–2", "d": "Lectura: pocas ideas relevantes, sin evaluación. Escritura: registro inadecuado o falta de convenciones de carta, organización confusa, errores que dificultan la comprensión."}
+      ],
+      "model": "Señor director:\n\nLe escribo como vecina del barrio, preocupada por el futuro de nuestro parque. Todos estamos de acuerdo en que existe un problema: las pintadas y los bancos rotos son evidentes, y es comprensible que muchas familias eviten pasear por allí de noche.\n\nLa concejala propone instalar cámaras, con el argumento de que disuaden a los vándalos y facilitan el trabajo policial. Es una medida rápida y visible, pero no aporta ningún dato sobre su eficacia. Además, la asociación juvenil plantea una objeción sensata: si los gamberros se sienten vigilados, probablemente se trasladarán a la calle de al lado, de modo que el problema no desaparecerá, solo cambiará de sitio.\n\nLa propuesta de la asociación me parece más completa, porque ataca las causas y no solo los síntomas. Un parque bien iluminado resulta menos atractivo para quien quiere actuar sin ser visto y, sobre todo, ofrecer actividades a los jóvenes les daría un lugar propio que tendrían motivos para cuidar. También comparto su queja sobre la privacidad: sorprende que nadie haya consultado a los vecinos antes de decidir grabarnos a todos.\n\nNo obstante, no creo que debamos descartar del todo la vigilancia. Quizá una solución equilibrada sería mejorar primero la iluminación y crear un espacio para actividades juveniles y, solo si en unos meses los daños continúan, estudiar la instalación de cámaras en puntos concretos, tras consultar al barrio.\n\nEn definitiva, el parque no necesita más ojos, sino más vida. Espero que el ayuntamiento escuche a todos los vecinos, también a los más jóvenes, antes de tomar una decisión.\n\nAtentamente,\n\nLaura Gómez",
+      "tip": "Las mejores respuestas no resumen los textos: los comparan, cuestionan sus pruebas y llegan a una conclusión razonada."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Lea los dos textos.\n\nTexto A — Directora del instituto: «A partir de enero, el uniforme será obligatorio. Evita la competencia por las marcas, ahorra dinero a las familias y refuerza el sentimiento de pertenencia al centro.»\n\nTexto B — Alumno de 4.º de ESO: «Un uniforme no cambia lo que somos. Cada uno tiene derecho a expresar su personalidad, y la ropa es una forma de hacerlo. Además, las familias tendrán que comprar prendas nuevas que solo sirven para el instituto.»\n\nEscriba un artículo para la revista del instituto en el que evalúe las ideas de los dos textos y dé su opinión sobre el uniforme obligatorio. Escriba unas 250–300 palabras (versión breve para práctica).",
+      "ms": [
+        "título atractivo (y, si se quiere, subtítulo); convenciones de artículo",
+        "usa ideas de ambos textos con sus propias palabras",
+        "evalúa el argumento económico: contradicción entre A (ahorro) y B (gasto inicial en prendas nuevas)",
+        "evalúa la presión de las marcas (A) frente a la expresión personal (B): ¿la ropa expresa personalidad o crea desigualdad?",
+        "evalúa «sentimiento de pertenencia»: afirmación sin pruebas / difícil de medir",
+        "desarrolla con ideas propias (p. ej., uniforme flexible, ayudas a familias, la identidad se muestra de otras maneras)",
+        "registro semiformal adecuado a alumnos y profesores; recursos persuasivos (preguntas retóricas)",
+        "estructura clara, conectores, conclusión firme; corrección lingüística"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Lectura: evaluación perspicaz y equilibrada de ambos textos, detecta contradicciones (p. ej. sobre el coste) y desarrolla ideas propias; postura clara y razonada. Escritura: rasgos del artículo bien usados, registro adecuado, estructura eficaz, estilo variado y preciso, muy pocos errores."},
+        {"m": "5–6", "d": "Lectura: ideas de los dos textos con evaluación razonable y algún desarrollo. Escritura: forma de artículo reconocible, registro mayormente adecuado, organización clara, algunos errores."},
+        {"m": "3–4", "d": "Lectura: repite las ideas con poca evaluación o se apoya en un solo texto. Escritura: forma poco marcada (sin título), estructura sencilla, errores frecuentes."},
+        {"m": "1–2", "d": "Lectura: escasa relación con los textos. Escritura: organización confusa, registro inadecuado, errores graves y frecuentes."}
+      ],
+      "model": "¿Uniformes iguales, alumnos iguales?\nLa decisión de imponer el uniforme divide al instituto. Analicemos los argumentos.\n\nA partir de enero, todos llevaremos la misma ropa. La directora defiende que así terminará la competencia por las marcas, las familias ahorrarán y nos sentiremos más parte del centro. El primer argumento tiene peso: cualquiera que haya visto cómo se mira a quien lleva unas zapatillas «de mercadillo» sabe que la ropa puede crear diferencias dolorosas.\n\nSin embargo, el argumento del ahorro no es tan claro. Como recuerda el alumno de 4.º, las familias tendrán que comprar prendas nuevas que solo sirven para clase, mientras seguirán necesitando ropa para el resto de la semana. ¿Ahorro real, o un gasto más? Tampoco se explica cómo un jersey con un escudo va a crear, por sí solo, sentimiento de pertenencia; eso se consigue con proyectos compartidos, no con tela.\n\nEl texto del alumno defiende la ropa como forma de expresar quiénes somos, y es una idea comprensible a nuestra edad. No obstante, nuestra personalidad no depende solo de una camiseta: se nota en lo que decimos, en lo que creamos y en cómo tratamos a los demás.\n\nPor eso propongo un término medio: un uniforme sencillo y barato, con varias prendas a elegir, y ayudas para las familias que lo necesiten. Así se reduciría la presión de las marcas sin olvidar el bolsillo de nadie.\n\nEn definitiva, el uniforme puede ser una buena idea, pero solo si se diseña escuchando a quienes lo vamos a llevar.",
+      "tip": "Busque las contradicciones entre los textos (aquí, el dinero): evaluarlas demuestra lectura crítica."
+    }
+  ]
+}

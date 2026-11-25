@@ -1,0 +1,95 @@
+{
+ "id": "music-r1-01",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Paper 1 prints the area of study above each extract. State the number and name of the area of study for each of these extracts:\n(a) a nuevo tango by Piazzolla\n(b) part of a ballet score\n(c) a performance by an Arab takht ensemble",
+   "ms": [
+    "(a) Area 5: Music for dance",
+    "(b) Area 7: Music for stage and screen",
+    "(c) Area 6: Music for small ensemble",
+    "Accept the name without the number, or the number without the name"
+   ],
+   "model": "(a) Area 5, Music for dance. (b) Area 7, Music for stage and screen. (c) Area 6, Music for small ensemble.",
+   "tip": "Ballet counts as stage music (Area 7), even though people dance to it."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Apart from following a printed score, state two things Paper 1 may ask you to do with printed music.",
+   "ms": [
+    "identify the key",
+    "name an interval",
+    "identify a chord or cadence",
+    "transpose a short passage to concert pitch",
+    "choose the missing melody or rhythm from options",
+    "any two, 1 mark each"
+   ],
+   "model": "Identify the key of the passage, and transpose a passage for a transposing instrument to concert pitch."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A student hears an extract labelled 'Area of study 1: Baroque' (a fast concerto grosso movement) and writes:\n\"The music is fast and loud and sounds happy, with lots of instruments.\"\nRewrite this as a 4-mark answer, replacing each vague idea with a precise musical term or feature.",
+   "ms": [
+    "fast → allegro / fast tempo with a steady driving pulse",
+    "loud → forte, with terraced dynamics (sudden changes, e.g. tutti loud, concertino quieter)",
+    "happy → major key / major tonality",
+    "lots of instruments → concertino and ripieno (tutti) strings",
+    "harpsichord (or organ) basso continuo",
+    "any other accurate Baroque feature, e.g. ritornello, imitation, sequences",
+    "1 mark per precise point, max 4"
+   ],
+   "model": "The tempo is allegro with a driving, constant pulse. The dynamics are terraced: loud tutti passages for the ripieno contrast suddenly with quieter passages for the concertino. The music is in a major key, and a harpsichord continuo plays the chords under the bass line.",
+   "tip": "Marks go to specific terms. 'Fast', 'loud' and 'happy' on their own score nothing."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "An extract is described like this: \"A small group of musicians sit on a low platform. A short-necked, fretless lute and a plucked zither play an ornamented melody that uses notes between the semitones, with a goblet-shaped drum and a tambourine.\"\n(a) Name the area of study and the tradition. [2]\n(b) Name the lute and the zither. [2]",
+   "ms": [
+    "(a) Area 6 / Music for small ensemble",
+    "(a) Arab takht",
+    "(b) oud (lute)",
+    "(b) qanun (zither)"
+   ],
+   "model": "(a) Area 6, Music for small ensemble: an Arab takht ensemble. (b) The lute is the oud and the zither is the qanun.",
+   "tip": "Notes between the semitones = quarter-tones, a strong clue for maqām-based music."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 1 has one short descriptive question. An extract labelled 'Area of study 3: Romantic' is described like this:\n\"It begins very quietly. The cellos and basses hold one low note (the key note) for many bars while the chords above change. A solo horn plays a long, expressive melody with wide leaps; the player slows down and speeds up freely. The full orchestra then gets gradually louder to a very loud climax with cymbal crashes, before the music suddenly becomes very quiet. The key is minor and there are many notes outside the key.\"\nWrite a descriptive answer that names each feature with the correct musical term.",
+   "ms": [
+    "pianissimo / pp opening",
+    "tonic pedal (held bass note) in cellos and double basses",
+    "lyrical / expressive horn melody with a wide range and leaps (disjunct)",
+    "rubato (flexible tempo)",
+    "crescendo to a fortissimo / ff climax (tutti)",
+    "subito piano / sudden drop to pp",
+    "minor tonality",
+    "chromatic harmony (notes outside the key) / dissonance",
+    "large Romantic orchestra with expanded percussion (cymbals)",
+    "1 mark per correctly named feature, max 6"
+   ],
+   "model": "The extract begins pianissimo with a tonic pedal in the cellos and double basses. A solo horn plays a lyrical, disjunct melody with a wide range, using rubato. A long crescendo leads to a fortissimo tutti climax with cymbals, followed by a sudden drop to piano. The tonality is minor and the harmony is chromatic, typical of a large Romantic orchestra.",
+   "tip": "Use the checklist M-H-R-T-S-D-I so you do not forget a whole element."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Cambridge IGCSE Music weights the components: Paper 1 Listening 40% (out of 70), Component 2 Performing 30% (out of 50), Component 3 Composing 30% (out of 50).\nA student scores 49/70 in Listening, 38/50 in Performing and 30/50 in Composing.\n(a) Calculate the student's overall weighted percentage. [4]\n(b) The student could gain 5 more raw marks in one component. Which component gives the biggest gain in weighted percentage? Show your working. [2]",
+   "ms": [
+    "M1: Listening 49/70 × 40 = 28",
+    "M1: Performing 38/50 × 30 = 22.8",
+    "M1: Composing 30/50 × 30 = 18",
+    "A1: total 68.8%",
+    "(b) M1: 5/70 × 40 ≈ 2.86% for Listening vs 5/50 × 30 = 3% for Performing or Composing",
+    "(b) A1: Performing or Composing (each worth 3%), slightly more than Listening"
+   ],
+   "model": "(a) Listening 49/70 × 40 = 28; Performing 38/50 × 30 = 22.8; Composing 30/50 × 30 = 18. Total = 68.8%.\n(b) In Listening 5 marks = 5/70 × 40 ≈ 2.86%; in Performing or Composing 5 marks = 5/50 × 30 = 3%. So 5 marks in Performing or Composing is worth slightly more.",
+   "tip": "Coursework is 60% of the grade: each raw mark there is worth 0.6%, compared with about 0.57% in Listening."
+  }
+ ]
+}

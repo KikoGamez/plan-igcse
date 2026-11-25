@@ -1,0 +1,88 @@
+{
+ "id": "pe-r1-07",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State what is meant by the principle of tedium and give one way a coach can avoid it.",
+   "ms": [
+    "tedium: boredom caused by training that is the same every session (1)",
+    "vary the training, e.g. different methods/venues/exercises/training with others/use games (1)"
+   ],
+   "model": "Tedium is boredom that happens when training is repetitive and always the same. A coach can avoid it by varying the training, for example using different methods, venues or exercises.",
+   "tip": "Tedium is the 'T' in SPORT."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "A 40-year-old masters swimmer wants to train in her aerobic training zone (60–80% of maximum heart rate).\nCalculate her maximum heart rate and the lower and upper limits of her training zone.",
+   "ms": [
+    "maximum heart rate = 220 − 40 = 180 bpm (1)",
+    "lower limit: 60% × 180 = 108 bpm (1)",
+    "upper limit: 80% × 180 = 144 bpm (1)"
+   ],
+   "model": "Maximum heart rate = 220 − 40 = 180 bpm. Lower limit = 0.6 × 180 = 108 bpm. Upper limit = 0.8 × 180 = 144 bpm. So her training zone is 108–144 bpm.",
+   "tip": "Find the maximum heart rate first, then take the percentages."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Describe a fartlek training session for a hockey player. [2]\n(b) Explain how the Borg scale can be used to monitor the intensity of the session. [2]",
+   "ms": [
+    "(a) continuous running without rest (for 20+ minutes) (1)",
+    "(a) with changes of speed/terrain, e.g. jogging, striding and sprinting, uphill and downhill (1)",
+    "(a) mimics the changes of pace in a hockey match (1)",
+    "max 2 for (a)",
+    "(b) the performer rates how hard they feel they are working (rating of perceived exertion) on a scale (6–20) (1)",
+    "(b) useful because heart rate changes constantly in fartlek / coach can check the right intensity is reached / RPE × 10 roughly equals heart rate (1)"
+   ],
+   "model": "(a) The player runs continuously for about 30 minutes without stopping, changing speed and terrain: for example jogging for 2 minutes, sprinting for 10 seconds, striding for 30 seconds and running uphill. This copies the changing pace of a hockey match.\n(b) The Borg scale is a rating of perceived exertion from 6 to 20. During the session the player gives a score for how hard they feel they are working. Because the heart rate keeps changing in fartlek, this is an easy way to check the intensity is high enough in the hard parts.",
+   "tip": "Fartlek = 'speed play': continuous, but with changes in pace."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A badminton player uses high-intensity interval training (HIIT).\n(a) Describe a suitable HIIT session for her. [2]\n(b) Give one advantage and one disadvantage of HIIT for this player. [2]",
+   "ms": [
+    "(a) short periods of very high-intensity work (1)",
+    "(a) alternating with periods of rest/low-intensity recovery, e.g. 30 s shuttle sprints then 30 s walk, repeated 8–10 times (1)",
+    "(b) advantage: copies the stop-start nature of rallies / improves anaerobic and aerobic fitness / takes little time / easy to adapt (1)",
+    "(b) disadvantage: very demanding, so not suitable for beginners / unfit people / risk of injury / hard to stay motivated (1)"
+   ],
+   "model": "(a) She works at near-maximum intensity for short periods, such as 30 seconds of court shuttle sprints, followed by 30 seconds of walking to recover. This is repeated 10 times.\n(b) An advantage is that it copies the short, intense rallies in badminton and improves her fitness in a short time. A disadvantage is that it is very exhausting, which increases the risk of injury and makes it hard to keep going.",
+   "tip": "HIIT always has work periods AND recovery periods; describe both."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A 16-year-old cyclist follows this 6-week training plan.\n\nWeeks   Sessions per week   Time per session   Intensity (% of max HR)\n1–2           3                 20 min                60%\n3–4           4                 20 min                70%\n5–6           6                 50 min                85%\n\n(a) Identify two FITT principles that have been changed during the plan, giving evidence from the table. [2]\n(b) Calculate the heart rate she should work at in weeks 5–6. [1]\n(c) Explain why the plan for weeks 5–6 may lead to overtraining, and give two possible effects of overtraining. [3]",
+   "ms": [
+    "(a) Frequency: increased from 3 to 4 to 6 sessions per week (1)",
+    "(a) Intensity: increased from 60% to 70% to 85% / Time: increased from 20 to 50 minutes (1)",
+    "(b) 220 − 16 = 204; 85% × 204 = 173 bpm (accept 173.4) (1)",
+    "(c) too large an increase / not gradual progression / little rest or recovery time (1)",
+    "(c) 85% is above the aerobic training zone (60–80%) (1)",
+    "(c) effect: injury (e.g. muscle strain, stress fracture) (1)",
+    "(c) effect: fatigue / illness (weakened immune system) / loss of motivation / reduced performance (1)",
+    "max 3 for (c)"
+   ],
+   "model": "(a) Frequency has increased from 3 to 6 sessions per week. Intensity has increased from 60% to 85% of maximum heart rate (and Time from 20 to 50 minutes).\n(b) Maximum heart rate = 220 − 16 = 204 bpm. 85% of 204 = 173 bpm.\n(c) In weeks 5–6 frequency, time and intensity all increase at once by a large amount, leaving almost no rest days, so the body does not have time to recover and adapt. The intensity is also above the 60–80% aerobic zone. Overtraining can lead to injuries such as stress fractures, and to tiredness and illness because the immune system is weakened.",
+   "tip": "Progression should be gradual: change one FITT variable at a time."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A 400 m runner breaks a bone in her foot and cannot run for 8 weeks.\n(a) Explain how the principle of reversibility will affect her fitness. [2]\n(b) Suggest how she could maintain her fitness while she cannot run, and explain why this is not fully specific to her event. [2]\n(c) Explain how she should use the principles of progression and overload when she returns to running. [2]",
+   "ms": [
+    "(a) fitness gained from training is lost when training stops (1)",
+    "(a) e.g. her cardiovascular endurance/muscular strength/anaerobic fitness will decrease; losses can start within a few weeks (1)",
+    "(b) use a low-impact activity that does not load the foot, e.g. swimming, upper-body work, aqua jogging (1)",
+    "(b) it uses different muscles/movements from running, so it does not fully train the specific demands of the 400 m (1)",
+    "(c) start at a low level (lower intensity/time) and increase gradually (1)",
+    "(c) apply overload by slowly increasing FITT (e.g. intensity) once her body has adapted, to avoid re-injury (1)"
+   ],
+   "model": "(a) Reversibility means that fitness gained through training is lost when training stops. After 8 weeks without running, her cardiovascular endurance, leg strength and tolerance to lactic acid will all have decreased.\n(b) She could swim or do upper-body circuit training, which does not put weight on her foot. This keeps some aerobic fitness, but it is not specific to the 400 m because it uses different muscles and movements from sprinting.\n(c) She should start at a much lower level than before, for example short, easy runs, and increase gradually (progression). Once her body has adapted she can apply overload by increasing intensity or time a little at a time, so she improves without being injured again.",
+   "tip": "Apply each principle to the performer's situation, not just its definition."
+  }
+ ]
+}

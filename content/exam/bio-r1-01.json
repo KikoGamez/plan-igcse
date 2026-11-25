@@ -1,0 +1,86 @@
+{
+  "id": "bio-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Plant cells have a cell wall and a cell membrane.\nState one function of the cell wall and one function of the cell membrane.",
+      "ms": [
+        "cell wall: gives support / strength / keeps the shape of the cell / stops the cell bursting (when it takes in water)",
+        "cell membrane: controls what enters and leaves the cell (allow partially permeable / controls movement of substances in and out)"
+      ],
+      "model": "The cell wall supports the cell and stops it from bursting when it takes in water. The cell membrane controls which substances enter and leave the cell.",
+      "tip": "Do not say the cell wall 'controls what enters' — that is the membrane. The cellulose wall is fully permeable."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Living things are organised into cells, tissues, organs and organ systems.\nState the level of organisation of each of these:\n(a) a neurone\n(b) the stomach\n(c) phloem",
+      "ms": [
+        "(a) cell",
+        "(b) organ",
+        "(c) tissue"
+      ],
+      "model": "(a) A neurone is a cell.\n(b) The stomach is an organ.\n(c) Phloem is a tissue.",
+      "tip": "A tissue is a group of similar cells with the same function; an organ is made of several different tissues working together."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student looks at a palisade mesophyll cell under a microscope. In a photomicrograph the cell is 48 mm long. The magnification of the photomicrograph is ×400.\n(a) Calculate the actual length of the cell. Give your answer in micrometres (µm). [2]\n(b) Palisade mesophyll cells contain many chloroplasts. Explain how this adapts the cell for its function. [2]",
+      "ms": [
+        "(a) M1: actual size = 48 ÷ 400 = 0.12 mm",
+        "(a) A1: 120 µm (ecf from wrong mm value × 1000)",
+        "(b) chloroplasts contain chlorophyll which absorbs (energy from) light",
+        "(b) more chloroplasts so more photosynthesis / more carbohydrate (glucose) made"
+      ],
+      "model": "(a) Actual size = image size ÷ magnification = 48 ÷ 400 = 0.12 mm. 0.12 × 1000 = 120 µm.\n(b) Chloroplasts contain chlorophyll, which absorbs light energy. Having many chloroplasts means the cell can absorb more light and carry out more photosynthesis, making more glucose.",
+      "tip": "Rearrange the formula first (actual size = image size ÷ magnification), then convert: mm → µm means × 1000."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student says: 'A car is a living thing. It moves, it takes in fuel and oxygen to release energy, and it gives out waste gases.'\nUsing the characteristics of living organisms, explain why the car is not alive.",
+      "ms": [
+        "a car does not grow / no permanent increase in size and dry mass",
+        "a car does not reproduce / cannot make more cars of the same kind",
+        "a car does not show sensitivity / cannot detect and respond to changes in its environment (by itself)",
+        "burning fuel is combustion, not respiration / respiration is chemical reactions inside cells and a car has no cells",
+        "a living organism must show all seven characteristics, not just some"
+      ],
+      "model": "The car shows only some features of life. It does not grow, because it never has a permanent increase in size and dry mass. It cannot reproduce to make more cars. It does not show sensitivity, because it cannot detect and respond to changes around it on its own. Burning fuel in an engine is combustion, not respiration, because respiration is a set of chemical reactions that happen inside cells, and a car has no cells. A living thing must show all seven characteristics.",
+      "tip": "Use the exact definitions (e.g. growth = permanent increase in size and dry mass) — vague answers like 'it doesn't get bigger' may not score."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A student makes a drawing of a cheek cell from the lining of the mouth. The actual diameter of the cheek cell is 60 µm. In the drawing the diameter is 90 mm.\n(a) Calculate the magnification of the drawing. [2]\nAn electron micrograph of a bacterium has a magnification of ×5000. On the micrograph the bacterium is 15 mm long.\n(b) Calculate the actual length of the bacterium in µm. [2]\n(c) Calculate how many times longer the cheek cell is than the bacterium. [1]\n(d) State two structures found in the cheek cell that are not found in the bacterium. [2]",
+      "ms": [
+        "(a) M1: 90 mm = 90 000 µm (or 60 µm = 0.06 mm), i.e. both sizes in the same unit",
+        "(a) A1: ×1500",
+        "(b) M1: 15 ÷ 5000 = 0.003 mm",
+        "(b) A1: 3 µm",
+        "(c) 60 ÷ 3 = 20 (times) (ecf from (b))",
+        "(d) nucleus",
+        "(d) mitochondria (do not accept cell membrane, cytoplasm or ribosomes — present in both)"
+      ],
+      "model": "(a) 90 mm = 90 000 µm. Magnification = 90 000 ÷ 60 = ×1500.\n(b) Actual length = 15 ÷ 5000 = 0.003 mm = 3 µm.\n(c) 60 ÷ 3 = 20, so the cheek cell is 20 times longer.\n(d) A nucleus and mitochondria.",
+      "tip": "Magnification has no units. Before dividing, make sure image size and actual size are in the same unit."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Ciliated cells line the trachea and bronchi. Neurones carry messages around the body.\n(a) Describe the function of ciliated cells. [2]\n(b) Explain how a neurone is adapted for its function. [2]\n(c) State how new cells, such as new ciliated cells, are produced. [1]",
+      "ms": [
+        "(a) cilia beat / move (in a wave)",
+        "(a) to move mucus (containing trapped dust / pathogens) up and away from the lungs / towards the throat",
+        "(b) neurones carry / conduct electrical impulses",
+        "(b) long (fibre / axon) so impulses can be carried over long distances (e.g. from the spinal cord to a muscle)",
+        "(b) branched endings to connect with many other cells",
+        "(c) by division of existing cells"
+      ],
+      "model": "(a) The cilia beat in a wave-like motion and move mucus, which has trapped dust and pathogens, up the trachea away from the lungs.\n(b) A neurone conducts electrical impulses. It has a very long fibre, so it can carry impulses over long distances in the body, and branched endings, so it can pass impulses to many other cells.\n(c) New cells are made by the division of existing cells.",
+      "tip": "Ciliated cells do not trap dust themselves — the mucus does; the cilia move the mucus."
+    }
+  ]
+}

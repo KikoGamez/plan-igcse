@@ -1,0 +1,85 @@
+{
+ "id": "stats-r1-02",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "80 students each chose one option: Art, Music or Drama. Some of the information is shown in the two-way table.\n\n         Art   Music   Drama   Total\nBoys     12                     35\nGirls          15\nTotal    30    22               80\n\nComplete the two-way table.",
+   "ms": [
+    "B1: Girls total 45 and Girls Art 18",
+    "B1: Boys Music 7 and Boys Drama 16",
+    "B1: Girls Drama 12 and Drama total 28 (ft their values if the table is consistent)"
+   ],
+   "model": "Girls total = 80 − 35 = 45. Girls Art = 30 − 12 = 18. Boys Music = 22 − 15 = 7. Boys Drama = 35 − 12 − 7 = 16. Girls Drama = 45 − 18 − 15 = 12. Drama total = 16 + 12 = 28.\n\n         Art   Music   Drama   Total\nBoys     12     7      16      35\nGirls    18    15      12      45\nTotal    30    22      28      80",
+   "tip": "Check that both the row totals and the column totals add up to 80."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A composite (stacked) bar chart shows how 60 workers travelled to work in 2024. The bar is 60 units tall. The section for \"car\" goes from 0 to 36, the section for \"bus\" goes from 36 to 51, and the section for \"walk\" goes from 51 to 60.\nWhat percentage of the workers walked to work?",
+   "ms": [
+    "M1: 60 − 51 = 9 workers walked",
+    "A1: 15%"
+   ],
+   "model": "Walk = 60 − 51 = 9 workers. 9 ÷ 60 × 100 = 15%.",
+   "tip": "In a composite bar chart, read each section as the difference between its top and bottom values."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "Students at two schools were asked how they travel to school. The results are shown in two comparative pie charts.\nSchool A: 180 students, pie chart radius 5 cm.\nSchool B: 245 students.\n(a) Calculate the radius of the pie chart for School B. [2]\nIn the pie chart for School A, the sector for \"walk\" has angle 84°. In the pie chart for School B, the sector for \"walk\" has angle 72°.\n(b) Pedro says, \"More students walk to School A than to School B, because its angle is bigger.\" Is Pedro correct? Show working to support your answer. [3]",
+   "ms": [
+    "M1: r² ∝ total, e.g. r = 5 × √(245 ÷ 180) or 5² ÷ 180 = r² ÷ 245",
+    "A1: 5.83 cm (awrt 5.83; allow 35/6)",
+    "M1: 84 ÷ 360 × 180 or 72 ÷ 360 × 245",
+    "A1: School A 42 and School B 49",
+    "B1: Pedro is not correct; more students walk to School B (dependent on both figures; ft their values)"
+   ],
+   "model": "(a) The areas are in proportion to the totals, so r² ∝ n.\nr = 5 × √(245 ÷ 180) = 5 × √(49 ÷ 36) = 5 × 7/6 = 5.83 cm.\n(b) School A: 84 ÷ 360 × 180 = 42 students walk.\nSchool B: 72 ÷ 360 × 245 = 49 students walk.\nPedro is wrong: 49 > 42, so more students walk to School B. The angle shows the proportion, not the number, and School B has more students.",
+   "tip": "Angles compare proportions; to compare numbers you must use each chart's own total."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The back-to-back stem-and-leaf diagram shows the times, in seconds, taken by 11 boys and 11 girls to complete a puzzle.\n\n      Boys     |   | Girls\n             8 | 1 | 5 7 9\n       7 3 3 1 | 2 | 2 4 4 6 9\n         8 4 0 | 3 | 1 3 6\n           5 1 | 4 |\n             2 | 5 |\n\nKey: 1 | 2 | 4 means 21 seconds for a boy and 24 seconds for a girl\n\n(a) Find the median and the range of the times for the boys and for the girls. [2]\n(b) Compare the times of the boys and the girls. [2]",
+   "ms": [
+    "B1: boys median 30 and girls median 24",
+    "B1: boys range 34 (52 − 18) and girls range 21 (36 − 15)",
+    "B1: girls have a lower median (24 s v 30 s), so girls generally completed the puzzle faster (ft)",
+    "B1: girls have a smaller range (21 s v 34 s), so girls' times were more consistent (ft)"
+   ],
+   "model": "(a) Boys: 18, 21, 23, 23, 27, 30, 34, 38, 41, 45, 52. Median = 6th value = 30 s; range = 52 − 18 = 34 s.\nGirls: 15, 17, 19, 22, 24, 24, 26, 29, 31, 33, 36. Median = 6th value = 24 s; range = 36 − 15 = 21 s.\n(b) The girls' median time (24 s) is lower than the boys' (30 s), so on average the girls completed the puzzle more quickly. The girls' range (21 s) is smaller than the boys' (34 s), so the girls' times were more consistent.",
+   "tip": "On the boys' side the leaves are read from right to left, starting next to the stem."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "The table shows the population structure of Country Q, by age and gender, as percentages of the total population.\n\nAge      Male (%)   Female (%)\n0–14       8          7\n15–64     31         31\n65+       10         13\n\nThe total population of Country Q is 8.4 million.\n(a) Calculate the number of people in Country Q aged 65 or over. [2]\n(b) Give one reason why there are more females than males aged 65+. [1]\n(c) A population pyramid is drawn for Country Q. Describe its shape and explain what it suggests about the birth rate and life expectancy in Country Q. [2]\n(d) Suggest one problem that the government of Country Q may face in the future. [1]",
+   "ms": [
+    "M1: (10 + 13) ÷ 100 × 8.4 (million) oe",
+    "A1: 1.932 million (allow 1 932 000; awrt 1.93 million)",
+    "(b) B1: women tend to live longer than men (higher female life expectancy)",
+    "(c) B1: narrow base (only 15% aged 0–14) and wide middle/top (23% aged 65+) (oe)",
+    "(c) B1: suggests a low birth rate and a high life expectancy (ageing population)",
+    "(d) B1: e.g. high cost of pensions/healthcare for older people; fewer people of working age to pay taxes or fill jobs in future"
+   ],
+   "model": "(a) 10 + 13 = 23%. 0.23 × 8.4 million = 1.932 million people.\n(b) Women generally have a higher life expectancy than men.\n(c) The pyramid has a narrow base (only 15% aged 0–14) and is wide in the middle and near the top (23% aged 65+). This suggests a low birth rate and a long life expectancy, i.e. an ageing population.\n(d) The government will need to pay for more pensions and healthcare for elderly people, while the number of working-age people paying taxes falls.",
+   "tip": "Use the figures from the table when you describe the shape."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A company wants to show that its number of customers has grown. It has 4200 customers in 2023 and 4600 customers in 2024.\nIt publishes a bar chart. The vertical axis is not labelled and starts at 4000. The bar for 2024 is drawn 3 times as tall as the bar for 2023.\n(a) Calculate the actual percentage increase in the number of customers from 2023 to 2024. [2]\n(b) Explain why the bar chart is misleading. [2]\nThe company also shows its profit using pictures of money bags. Profit doubled from 2023 to 2024, so the 2024 bag is drawn twice as tall and twice as wide as the 2023 bag.\n(c) Explain why the money-bag picture is misleading. [2]",
+   "ms": [
+    "M1: (4600 − 4200) ÷ 4200 × 100",
+    "A1: 9.5% (awrt 9.5)",
+    "(b) B1: the vertical axis does not start at zero (it starts at 4000) / no label or scale",
+    "(b) B1: this makes the increase look much larger than it is: the bar is 3 times as tall but customers increased by less than 10% (oe)",
+    "(c) B1: the area (size) of the picture is 4 times as big (2 × 2)",
+    "(c) B1: so it looks as if profit has quadrupled, when it only doubled (oe)"
+   ],
+   "model": "(a) Increase = 4600 − 4200 = 400. 400 ÷ 4200 × 100 = 9.5%.\n(b) The vertical axis starts at 4000, not 0, and has no label. The bars show only 200 and 600 above 4000, so the 2024 bar is 3 times as tall even though the number of customers rose by only 9.5%. This exaggerates the growth.\n(c) Doubling both the height and the width makes the picture 2 × 2 = 4 times the area. The eye compares areas, so it looks as if profit has increased four times, when it has only doubled.",
+   "tip": "For pictures scaled in two directions, think about area, not height."
+  }
+ ]
+}

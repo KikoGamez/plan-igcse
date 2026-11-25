@@ -1,0 +1,87 @@
+{
+  "id": "bio-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Sense organs are groups of receptor cells that respond to specific stimuli.\nState the stimulus detected by the receptor cells in:\n(a) the ear\n(b) the tongue",
+      "ms": [
+        "(a) sound",
+        "(b) chemicals"
+      ],
+      "model": "(a) Sound.\n(b) Chemicals.",
+      "tip": "The syllabus stimuli are light, sound, touch, temperature and chemicals; 'taste' is not a stimulus — chemicals are."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) Name the gland that secretes adrenaline. [1]\n(b) State how adrenaline reaches its target organs. [1]",
+      "ms": [
+        "(a) adrenal gland(s)",
+        "(b) carried in the blood (allow plasma)"
+      ],
+      "model": "(a) The adrenal glands.\n(b) It is carried in the blood.",
+      "tip": "Hormones travel in the blood, not along neurones."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A girl touches a very hot pan and pulls her hand away before she feels any pain.\nDescribe the pathway in the reflex arc that causes her to pull her hand away.",
+      "ms": [
+        "(temperature) receptor in the skin detects the stimulus",
+        "electrical impulse travels along a sensory neurone (to the spinal cord / CNS)",
+        "impulse passes to a relay neurone (in the spinal cord)",
+        "then along a motor neurone",
+        "to the effector: a muscle (in the arm) which contracts, pulling the hand away"
+      ],
+      "model": "Temperature receptors in the skin of her fingers detect the heat. An electrical impulse travels along a sensory neurone to the spinal cord, where it passes to a relay neurone. The impulse then passes along a motor neurone to the effector, a muscle in her arm, which contracts and pulls her hand away.",
+      "tip": "Name every stage in order: receptor → sensory → relay → motor → effector."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Compare nervous control and hormonal control in the body. Give four differences.",
+      "ms": [
+        "nervous: electrical impulses; hormonal: chemical substances",
+        "nervous: along neurones; hormonal: carried in the blood",
+        "nervous: very fast; hormonal: slower",
+        "nervous: short-lived effect; hormonal: longer-lasting effect",
+        "nervous: acts on a precise / small area (specific muscle or gland); hormonal: can affect several target organs / widespread"
+      ],
+      "model": "Nervous control uses electrical impulses, whereas hormonal control uses chemical substances. Impulses travel along neurones, but hormones are carried in the blood. Nervous responses are very fast, while hormonal responses are slower. The effects of nerve impulses are short-lived, but the effects of hormones usually last longer.",
+      "tip": "Make each difference a direct comparison — say what each system does."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A student measured his reaction time using a ruler. A partner held a ruler vertically above his open hand and dropped it without warning. The student caught it as quickly as possible, and the distance the ruler fell was recorded.\ntrial:        1  |  2 |  3 |  4 |  5\ndistance / cm: 18 | 15 | 16 | 21 | 14\n(a) Calculate the mean distance. [1]\n(b) Catching the ruler is not a reflex action. Explain why. [2]\n(c) Suggest two ways to make the results more reliable or the test fairer. [2]\n(d) Explain why a reflex action, such as pulling the hand away from a hot object, is faster than catching the ruler. [2]",
+      "ms": [
+        "(a) 16.8 cm",
+        "(b) it is a voluntary / conscious action / involves a decision",
+        "(b) the impulse goes to the brain (conscious part) / it is not automatic",
+        "(c) one way: use the same hand each time / same starting position of ruler (gap between fingers) / same person dropping",
+        "(c) a second way: more repeats / a practice trial first / no distractions (same concentration)",
+        "(d) reflex is automatic / no conscious thought or decision",
+        "(d) shorter pathway / impulse passes through the spinal cord (relay neurone) without involving conscious decision in the brain"
+      ],
+      "model": "(a) (18 + 15 + 16 + 21 + 14) ÷ 5 = 84 ÷ 5 = 16.8 cm.\n(b) The student has to see the ruler fall and consciously decide to close his hand. It involves thinking in the brain, so it is a voluntary action, not an automatic reflex.\n(c) Use the same hand every time and start the ruler at the same position between his fingers; also do a practice trial and more repeats.\n(d) A reflex is automatic and does not need a conscious decision. The impulse takes a short route through a relay neurone in the spinal cord straight to the effector, so the response is faster.",
+      "tip": "Reflexes are automatic and rapid; voluntary actions need a decision in the brain."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A cyclist sees a car swerving towards her and adrenaline is released into her blood.\nExplain how the effects of adrenaline could help her to react quickly and escape.",
+      "ms": [
+        "heart rate increases",
+        "more blood delivered to muscles / more oxygen and glucose reach the muscles",
+        "faster (aerobic) respiration in muscles, releasing more energy for contraction",
+        "breathing rate increases",
+        "more oxygen taken into the blood / more carbon dioxide removed",
+        "pupil diameter increases",
+        "more light enters the eye / improves vision so she can see the danger"
+      ],
+      "model": "Adrenaline increases her heart rate, so more blood is pumped to her leg muscles, delivering more oxygen and glucose. The muscles can respire faster and release more energy for contraction, so she can pedal or move away quickly. Adrenaline also increases her breathing rate, so more oxygen enters the blood and more carbon dioxide is removed. Her pupils widen, letting more light into the eyes so she can see the car and her escape route clearly.",
+      "tip": "Don't just list effects: link each one to how it helps (oxygen, glucose, energy, vision)."
+    }
+  ]
+}

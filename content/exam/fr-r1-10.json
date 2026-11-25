@@ -1,0 +1,107 @@
+{
+  "id": "fr-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Jeu de rôle — à la gare. Vous êtes au guichet d'une gare en France. L'examinateur/L'examinatrice est l'employé(e). Que dites-vous ? (une phrase par tâche)\n1. Demandez un aller simple pour Marseille.\n2. Demandez de quel quai part le train.",
+      "ms": [
+        "1. e.g. Je voudrais un aller simple pour Marseille, s'il vous plaît.",
+        "2. e.g. Le train part de quel quai ? / De quel quai part le train ?",
+        "reject aller-retour for task 1; a clear question is needed for task 2"
+      ],
+      "model": "1. Bonjour, je voudrais un aller simple pour Marseille, s'il vous plaît.\n2. Le train part de quel quai, s'il vous plaît ?",
+      "tip": "'aller simple' = single; 'aller-retour' = return — a classic trap."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Jeu de rôle — chez le médecin. Vous êtes en vacances en France et vous êtes malade. L'examinateur/L'examinatrice est le médecin. Que dites-vous ?\n1. Dites ce qui ne va pas (deux symptômes).\n2. Dites depuis quand vous êtes malade.\n3. Demandez si vous devez rester au lit.",
+      "ms": [
+        "1. two symptoms, e.g. J'ai mal à la tête et j'ai de la fièvre.",
+        "2. duration with depuis + present, e.g. Je suis malade depuis deux jours.",
+        "3. question, e.g. Est-ce que je dois rester au lit ?"
+      ],
+      "model": "1. J'ai mal à la gorge et j'ai de la fièvre.\n2. Je suis malade depuis hier soir.\n3. Est-ce que je dois rester au lit ?",
+      "tip": "avoir mal à + body part: j'ai mal au ventre, à la tête, aux dents."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Jeu de rôle — dans un magasin de vêtements. Vous voulez rapporter un tee-shirt. L'examinateur/L'examinatrice est le vendeur/la vendeuse. Écrivez vos réponses.\nVendeur : Bonjour, je peux vous aider ?\n1. Dites que vous avez acheté un tee-shirt ici et quand.\nVendeur : Quel est le problème ?\n2. Expliquez le problème.\nVendeur : Vous avez le ticket de caisse ?\n3. Répondez à la question.\nVendeur : Qu'est-ce que vous voulez faire ?\n4. Dites ce que vous voulez (échange ou remboursement).\nVendeur : Très bien.\n5. Demandez jusqu'à quelle heure le magasin est ouvert.",
+      "ms": [
+        "1. purchase in the past with time, e.g. J'ai acheté ce tee-shirt ici samedi dernier.",
+        "2. a clear problem, e.g. Il est trop petit / Il y a un trou.",
+        "3. an answer to the unexpected question, e.g. Oui, le voici. / Non, je l'ai perdu.",
+        "4. e.g. Je voudrais l'échanger contre une taille plus grande / Je voudrais être remboursé(e).",
+        "5. question, e.g. Le magasin est ouvert jusqu'à quelle heure ?"
+      ],
+      "model": "1. Bonjour, j'ai acheté ce tee-shirt ici samedi dernier.\n2. Il est trop petit et il y a un trou sur la manche.\n3. Oui, le voici.\n4. Je voudrais l'échanger contre une taille plus grande, s'il vous plaît.\n5. Le magasin est ouvert jusqu'à quelle heure ?",
+      "tip": "Listen to the examiner's question in task 3 — the unexpected question is often in a different tense."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Conversation. Répondez à la question de l'examinateur/l'examinatrice en 4–5 phrases.\n« Qu'est-ce que tu penses de la mode ? »",
+      "ms": [
+        "clear opinion (j'adore / je ne m'intéresse pas à…)",
+        "a justification (parce que / car…)",
+        "a developed example (what you wear, brands, shopping habits)",
+        "a second time frame (past or future/conditional) used correctly"
+      ],
+      "levels": [
+        {"m": "4", "d": "Developed answer with a clear opinion, reason and example; at least two time frames used accurately; good range."},
+        {"m": "3", "d": "Opinion with reason and some development; mostly present tense with one other attempt; mostly accurate."},
+        {"m": "1–2", "d": "Short or simple answer (e.g. J'aime la mode); little development; frequent errors."}
+      ],
+      "model": "Honnêtement, je ne suis pas fan de la mode, parce que les vêtements de marque coûtent trop cher. Je préfère porter un jean et un sweat confortables. Par contre, ma sœur adore ça : elle achète des vêtements chaque mois. Le mois dernier, j'ai acheté une veste d'occasion sur internet, et je trouve que c'est meilleur pour l'environnement. À l'avenir, j'aimerais acheter moins mais de meilleure qualité.",
+      "tip": "Opinion + reason + example + another tense: a four-step answer to every conversation question."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Conversation (topic E). Préparez une réponse développée (environ 1 minute à l'oral) aux questions de l'examinateur/l'examinatrice :\n« Est-ce que tu aimerais habiter à l'étranger plus tard ? Pourquoi ? »\n« Tu as déjà visité un autre pays ? C'était comment ? »",
+      "ms": [
+        "clear answer to the first question with conditional (j'aimerais / je voudrais habiter…)",
+        "justification(s) — language, job, culture, climate, family",
+        "an acknowledged disadvantage (mais… ma famille me manquerait)",
+        "past visit narrated in the passé composé",
+        "description / opinion of the visit in the imparfait (c'était…, il faisait…)",
+        "range: connectives, comparatives, si clause, pronouns y / en",
+        "accurate verbs and pronunciation-friendly structures",
+        "spontaneous, developed delivery rather than a list"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Both questions answered fully and spontaneously, with justified opinions. Wide range of vocabulary and complex structures; past, present and conditional used accurately."},
+        {"m": "5–6", "d": "Both questions answered with some development. Good range; tenses mostly correct; occasional errors."},
+        {"m": "3–4", "d": "Questions answered simply with little development. Limited range; tense errors common."},
+        {"m": "1–2", "d": "Minimal answers; very limited language; frequent errors make meaning unclear."}
+      ],
+      "model": "Oui, j'aimerais beaucoup habiter à l'étranger pendant quelques années, surtout au Canada, parce que je voudrais parler français et anglais tous les jours. En plus, je pense qu'on apprend énormément quand on découvre une autre culture. Par contre, ma famille me manquerait, donc je ne voudrais pas y rester toute ma vie.\nOui, l'année dernière, je suis allée à Paris avec mon collège. Nous avons visité le Louvre et nous sommes montés en haut de la tour Eiffel. Il faisait froid, mais c'était inoubliable, et j'ai pu parler français dans les magasins. Si j'avais l'occasion, j'y retournerais demain !",
+      "tip": "Answer, justify, add a 'mais', then switch tense — that pattern keeps you talking and shows range."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Conversation (topic D). Préparez une réponse développée (environ 1 minute à l'oral) aux questions de l'examinateur/l'examinatrice :\n« À ton avis, est-ce important d'apprendre des langues étrangères ? »\n« Comment est-ce que tu as appris le français ? »\n« Qu'est-ce que tu feras avec tes langues plus tard ? »",
+      "ms": [
+        "clear opinion on learning languages",
+        "at least two justifications (travel, jobs, meeting people, brain/culture)",
+        "how French was learnt — past tense (j'ai commencé…, je regardais…)",
+        "a 'depuis + present' or imparfait detail",
+        "future plans with futur simple or conditionnel",
+        "work vocabulary (métier, entreprise, traducteur, international…)",
+        "range of connectives and complex structures",
+        "accuracy and spontaneity"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "All three questions answered fully and spontaneously, with well-justified opinions. Wide range of vocabulary and complex structures; three time frames accurate."},
+        {"m": "5–6", "d": "All questions answered with some development. Good range; tenses mostly correct; occasional errors."},
+        {"m": "3–4", "d": "Questions answered simply with little development. Limited range; tense errors common."},
+        {"m": "1–2", "d": "Minimal answers; very limited language; frequent errors make meaning unclear."}
+      ],
+      "model": "Oui, c'est très important, parce qu'aujourd'hui beaucoup d'entreprises travaillent avec d'autres pays. En plus, quand on voyage, c'est plus facile de rencontrer des gens si on parle leur langue.\nJ'apprends le français depuis quatre ans au collège. Au début, je trouvais ça difficile, surtout la prononciation, mais j'ai commencé à regarder des séries françaises avec des sous-titres et ça m'a beaucoup aidé.\nPlus tard, je voudrais travailler dans le tourisme ou pour une entreprise internationale. L'été prochain, je ferai un stage linguistique à Nice pour améliorer mon français.",
+      "tip": "Use 'depuis + present' for how long you have been learning: j'apprends le français depuis quatre ans."
+    }
+  ]
+}

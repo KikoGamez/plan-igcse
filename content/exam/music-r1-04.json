@@ -1,0 +1,82 @@
+{
+ "id": "music-r1-04",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Give the time signature for:\n(a) three crotchet beats in a bar\n(b) two dotted-crotchet beats in a bar",
+   "ms": [
+    "(a) 3/4",
+    "(b) 6/8"
+   ],
+   "model": "(a) 3/4 (b) 6/8",
+   "tip": "Compound time: each beat is a dotted note, divided into three quavers."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Put these tempo markings in order from slowest to fastest: allegro, largo, presto, andante.",
+   "ms": [
+    "largo slowest, then andante (both in the correct place)",
+    "allegro then presto (fastest) in the correct place"
+   ],
+   "model": "largo, andante, allegro, presto"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Which single note value completes each bar?\n(a) 4/4: minim, crotchet, quaver, ?\n(b) 3/4: dotted crotchet, ?\n(c) 6/8: crotchet, quaver, ?\n(d) 2/4: quaver, semiquaver, semiquaver, ?",
+   "ms": [
+    "(a) quaver",
+    "(b) dotted crotchet",
+    "(c) dotted crotchet",
+    "(d) crotchet"
+   ],
+   "model": "(a) quaver (b) dotted crotchet (c) dotted crotchet (d) crotchet",
+   "tip": "Add up in crotchet beats: e.g. 6/8 = 3 crotchets' worth; crotchet + quaver = 1.5, so 1.5 more."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the rhythmic or tempo feature described.\n(a) In a minuet in 3/4, the two bars before the cadence are accented as if they were one bar of 3/2.\n(b) A song starts with one quaver before the first bar line.\n(c) Accents fall on the off-beats, with notes tied across the beat.\n(d) The music gradually gets faster.",
+   "ms": [
+    "(a) hemiola",
+    "(b) anacrusis / upbeat",
+    "(c) syncopation",
+    "(d) accelerando"
+   ],
+   "model": "(a) hemiola (b) anacrusis (c) syncopation (d) accelerando"
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "In 4/4, a forward (3–2) son clave has hits on: bar 1 – beat 1, the 'and' of beat 2, beat 4; bar 2 – beats 2 and 3.\n(a) How many hits are there in one complete clave pattern? [1]\n(b) How would the reverse (2–3) clave start? [1]\n(c) Explain why the clave is a cross-rhythm against the beat. [2]\n(d) On what instrument is the clave pattern traditionally played? [1]\n(e) Teental is a Hindustani tāla. How many beats does its cycle have? [1]",
+   "ms": [
+    "(a) five",
+    "(b) with the two-hit bar (beats 2 and 3) first, then the three-hit bar",
+    "(c) some hits fall off the main beats (e.g. the 'and' of 2)",
+    "(c) the uneven grouping (3 + 3 + 2 quavers' feel in bar 1) conflicts with the steady four-beat pulse",
+    "(d) claves (two wooden sticks)",
+    "(e) 16 (4 groups of 4)"
+   ],
+   "model": "(a) Five. (b) It starts with the two-hit bar (beats 2 and 3). (c) The hit on the 'and' of beat 2 falls between beats, so the 3-hit bar is grouped unevenly against the steady four-beat pulse, creating a cross-rhythm. (d) Claves. (e) 16 beats.",
+   "tip": "All the other salsa parts fit around the clave, so it is called the rhythmic 'key'."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A passage in 3/4 is marked ♩ = 120.\n(a) How long does one bar last, in seconds? [1]\n(b) How long do 16 bars last? [1]\n(c) The last two bars are marked 'rit.' and 'dim.', ending on 'pp' with a pause sign. Explain what the performer does. [3]\n(d) The next section is marked 'a tempo' and begins with 'sf'. Explain these markings. [2]",
+   "ms": [
+    "(a) 120 beats per minute = 2 beats per second, so 3 beats = 1.5 seconds",
+    "(b) 16 × 1.5 = 24 seconds",
+    "(c) rit. – gradually slows down",
+    "(c) dim. – gradually gets quieter, ending pianissimo / very quietly",
+    "(c) pause – holds the final note longer than written",
+    "(d) a tempo – return to the original speed (♩ = 120)",
+    "(d) sf (sforzando) – a sudden strong accent on that note"
+   ],
+   "model": "(a) 1.5 seconds (2 beats per second, 3 beats per bar). (b) 24 seconds. (c) The performer gradually slows down and gets quieter, ending very quietly and holding the last note longer than its value. (d) a tempo: go back to the original speed; sf: play the first note with a sudden strong accent.",
+   "tip": "Show the working for timing questions: beats per second first, then per bar."
+  }
+ ]
+}

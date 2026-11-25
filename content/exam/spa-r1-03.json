@@ -1,0 +1,100 @@
+{
+  "id": "spa-r1-03",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Lea la frase.\n\n«Aquella mañana la ciudad dormía todavía bajo una manta de niebla.»\n\n(a) Explique el significado de «una manta de niebla» en este contexto. [1]\n(b) Nombre el recurso utilizado en «la ciudad dormía». [1]",
+      "ms": [
+        "(a) una niebla espesa que cubría / envolvía toda la ciudad",
+        "(b) personificación (aceptar metáfora)"
+      ],
+      "model": "(a) Una niebla muy densa que cubría la ciudad por completo, como si la tapara.\n(b) Personificación.",
+      "tip": "Explicar el significado es decir qué ocurre de verdad en la escena, con palabras sencillas."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Compare el efecto de estas dos frases. Explique qué connotaciones añade el verbo «agonizaba».\n\nA. «La casa era vieja.»\nB. «La casa agonizaba al final de la calle.»",
+      "ms": [
+        "A solo informa / es neutra: describe la edad de la casa sin emoción",
+        "B personifica la casa como un ser moribundo: connotaciones de muerte, sufrimiento, abandono / deterioro irreversible, que despierta tristeza o compasión en el lector"
+      ],
+      "model": "La frase A es neutra: solo informa de que la casa tiene muchos años. En B, el verbo «agonizaba» presenta la casa como un ser vivo que está muriendo; sugiere un deterioro lento e irreversible y un abandono doloroso, y provoca en el lector tristeza o compasión.",
+      "tip": "La connotación es lo que una palabra sugiere más allá de su significado literal."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea el texto.\n\nEl autobús avanzaba a trompicones por la carretera de montaña, y cada curva arrancaba un quejido metálico de sus tripas. Fuera, los pinos se agarraban a las rocas como náufragos a una tabla.\n\nExplique el significado y el efecto de:\n(a) «cada curva arrancaba un quejido metálico de sus tripas» [2]\n(b) «los pinos se agarraban a las rocas como náufragos a una tabla» [2]",
+      "ms": [
+        "(a) significado: el autobús chirriaba / hacía ruidos en cada curva",
+        "(a) efecto: personificación de un ser que sufre («quejido», «tripas»): vehículo viejo, agotado, transmite inseguridad o incomodidad al lector",
+        "(b) significado: los árboles crecen aferrados a las rocas en una pendiente muy empinada",
+        "(b) efecto: la comparación con náufragos sugiere lucha desesperada por sobrevivir / peligro de caer; paisaje hostil y amenazante"
+      ],
+      "model": "(a) Significa que el autobús hacía ruidos metálicos en cada curva. Al hablar de «quejido» y de «tripas», el autor lo presenta como un animal o una persona que sufre, lo que sugiere que es un vehículo viejo y agotado, y transmite al lector una sensación de incomodidad e incluso de peligro.\n(b) Significa que los pinos crecían sujetos a las rocas en una ladera muy empinada. La comparación con «náufragos» que se aferran a una tabla sugiere una lucha desesperada por no caer y convierte el paisaje en un lugar hostil, que aumenta la tensión del viaje.",
+      "tip": "Para cada cita: primero el significado (qué pasa), después el efecto (qué sugiere y qué siente el lector)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Lea el texto.\n\nAbrió la puerta. Nada. Encendió la linterna. Polvo, telarañas, una silla volcada, un zapato de niño, un reloj parado a las tres y diez. Dio un paso. El suelo crujió.\n\nExplique cómo la estructura de las frases y la enumeración contribuyen a crear tensión en este fragmento.",
+      "ms": [
+        "frases muy cortas / entrecortadas",
+        "crean un ritmo lento y entrecortado / reflejan cada movimiento cauteloso del personaje / suspense",
+        "la enumeración presenta los objetos uno a uno, como los va descubriendo la linterna",
+        "los objetos tienen connotaciones de abandono / algo inquietante (zapato de niño, reloj parado: un suceso del pasado que se detuvo), lo que despierta preguntas en el lector",
+        "«Nada.» aislado y el sonido final «crujió» rompen el silencio / mantienen al lector en alerta"
+      ],
+      "model": "El autor utiliza frases muy cortas, casi de una palabra («Nada.»), que crean un ritmo entrecortado y reproducen los movimientos cautelosos del personaje, como si contuviéramos la respiración con él. La enumeración presenta los objetos uno a uno, tal como los va descubriendo la luz de la linterna; además, objetos como «un zapato de niño» o «un reloj parado» sugieren que algo ocurrió allí y se interrumpió de golpe, lo que inquieta al lector. Finalmente, el crujido del suelo rompe el silencio y aumenta el suspense.",
+      "tip": "Cuando analice estructura, explique qué efecto tiene el ritmo, no solo que las frases «son cortas»."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Lea el texto.\n\n(A) En el puerto, a las siete, todo era prisa y escamas. Las gaviotas chillaban sobre las barcas como vendedoras impacientes, y los pescadores lanzaban las cajas al muelle con un golpe seco, entre carcajadas y maldiciones. El aire sabía a sal y a gasóleo.\n(B) Al mediodía, el mismo puerto parecía otro. El sol aplastaba los tablones, y las redes, tendidas a secar, colgaban como telarañas gigantes. Solo un perro flaco dormía a la sombra de un bote, y el agua, quieta y espesa, lamía los pilares sin ganas.\n\nExplique cómo el autor utiliza el lenguaje para transmitir el contraste entre el puerto por la mañana (párrafo A) y al mediodía (párrafo B). Elija tres palabras o frases de cada párrafo y explique su significado y su efecto.",
+      "ms": [
+        "A: «todo era prisa y escamas»: actividad frenética; la sinécdoque/metonimia resume el ambiente en el trabajo con el pescado; ritmo vivo",
+        "A: «chillaban… como vendedoras impacientes»: ruido agudo y constante; la comparación humaniza a las gaviotas y sugiere un mercado bullicioso",
+        "A: «golpe seco», «carcajadas y maldiciones»: sonidos fuertes; energía, rudeza, vida auténtica del trabajo",
+        "A: «el aire sabía a sal y a gasóleo»: sinestesia (gusto aplicado al aire), sensación intensa, mezcla de mar y trabajo",
+        "B: «el sol aplastaba los tablones»: personificación / verbo violento: calor opresivo, pesado, que paraliza",
+        "B: «colgaban como telarañas gigantes»: redes inmóviles; connotación de abandono, tiempo detenido, ligera inquietud",
+        "B: «un perro flaco dormía»: soledad, quietud, decadencia; contraste con la multitud de A",
+        "B: «quieta y espesa, lamía los pilares sin ganas»: personificación de la desgana; pereza, lentitud, ambiente adormecido",
+        "visión global: el autor opone vida/ruido/movimiento a quietud/silencio/abandono"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Selecciona citas breves y muy pertinentes de ambos párrafos. Explica con precisión el significado y analiza con perspicacia el efecto y las connotaciones de las imágenes; relaciona las elecciones con el contraste global de atmósfera."},
+        {"m": "5–6", "d": "Selecciona citas adecuadas de ambos párrafos. Explica el significado de la mayoría y comenta efectos con cierta precisión, aunque algunas explicaciones son generales. Alguna referencia al contraste."},
+        {"m": "3–4", "d": "Selecciona algunas citas apropiadas, a veces demasiado largas. Explica sobre todo el significado; los efectos son básicos o genéricos («hace el texto más interesante»). Puede tratar un párrafo mejor que el otro."},
+        {"m": "1–2", "d": "Pocas citas o poco pertinentes. Se limita a identificar recursos o a contar lo que pasa, sin explicar efectos."}
+      ],
+      "model": "En el párrafo A, la expresión «todo era prisa y escamas» resume el puerto en dos sustantivos: la actividad frenética y el pescado que lo invade todo, de modo que el lector percibe un ritmo acelerado desde la primera línea. Las gaviotas «chillaban… como vendedoras impacientes»: la comparación las convierte en comerciantes de un mercado ruidoso y transmite un bullicio agudo y constante. Además, «el aire sabía a sal y a gasóleo» mezcla los sentidos para que casi saboreemos un ambiente intenso, donde se unen el mar y el trabajo.\nEn el párrafo B, en cambio, «el sol aplastaba los tablones» presenta el calor como una fuerza pesada que lo inmoviliza todo. Las redes «colgaban como telarañas gigantes», imagen que sugiere abandono y tiempo detenido, en lugar del movimiento de la mañana. Por último, el agua «lamía los pilares sin ganas»: la personificación transmite desgana y pereza. Así, el autor opone un puerto lleno de vida y ruido a otro silencioso, adormecido y casi abandonado.",
+      "tip": "Elija citas cortas y analice cada una: significado + efecto + relación con la atmósfera general."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lea el texto.\n\nLa tormenta se acercaba desde el sur como un ejército. Primero llegó un murmullo sordo, casi un aviso; después, el cielo se rasgó de un latigazo blanco. Los árboles se retorcían, los postigos golpeaban las paredes, y en el corral las gallinas se apiñaban en un rincón, mudas.\n\nExplique cómo el autor crea una atmósfera amenazante en este fragmento. Comente al menos tres palabras o frases.",
+      "ms": [
+        "«como un ejército»: comparación bélica: la tormenta avanza organizada, imparable, como un enemigo que ataca",
+        "«murmullo sordo, casi un aviso»: sonido apagado que anticipa el peligro; crea suspense / expectación",
+        "«el cielo se rasgó»: metáfora violenta: el relámpago como algo que rompe / hiere el cielo",
+        "«latigazo blanco»: relámpago como golpe de látigo: rapidez, dolor, violencia",
+        "«se retorcían»: personificación: los árboles parecen sufrir / luchar",
+        "enumeración de acciones / ritmo acelerado: caos creciente",
+        "«las gallinas… mudas»: el silencio de los animales sugiere miedo / instinto ante el peligro; contraste con el ruido",
+        "campo semántico de la guerra y la violencia (ejército, aviso, latigazo, golpeaban)"
+      ],
+      "levels": [
+        {"m": "5–6", "d": "Análisis preciso de tres o más elecciones, con significado y efecto bien explicados; explora connotaciones (p. ej. el campo semántico bélico) y las relaciona con la atmósfera de amenaza."},
+        {"m": "3–4", "d": "Comenta citas adecuadas con explicación clara del significado y algún efecto concreto; análisis menos desarrollado o desigual."},
+        {"m": "1–2", "d": "Identifica recursos o parafrasea el contenido, con comentarios generales sobre el efecto."}
+      ],
+      "model": "El autor compara la tormenta con «un ejército», de modo que la presenta como un enemigo organizado e imparable que se dispone a atacar. El «murmullo sordo, casi un aviso» crea suspense: el peligro todavía no se ve, pero se intuye. Después, «el cielo se rasgó de un latigazo blanco»: los verbos y sustantivos violentos convierten el relámpago en un golpe que hiere el cielo, rápido y doloroso. La personificación de los árboles que «se retorcían» sugiere sufrimiento, y la enumeración de acciones acelera el ritmo y transmite caos. Finalmente, las gallinas «mudas» contrastan con todo ese ruido: su silencio revela un miedo instintivo que hace sentir al lector que algo terrible va a ocurrir. Todo el fragmento se construye con un campo semántico de guerra y violencia.",
+      "tip": "Nombrar el recurso («es una comparación») no puntúa por sí solo: explique qué sugiere."
+    }
+  ]
+}

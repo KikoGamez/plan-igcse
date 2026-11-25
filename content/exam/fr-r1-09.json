@@ -1,0 +1,113 @@
+{
+  "id": "fr-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Ce message contient trois erreurs. Trouvez-les et corrigez-les.\n« Salut ! Je m'appelle Ana. Je habite à Bilbao avec mes parents. Ma meilleure amie est très gentil. L'année prochaine, je vais allé en France pour un échange. »",
+      "ms": [
+        "Je habite → J'habite",
+        "très gentil → très gentille",
+        "je vais allé → je vais aller"
+      ],
+      "model": "« Salut ! Je m'appelle Ana. J'habite à Bilbao avec mes parents. Ma meilleure amie est très gentille. L'année prochaine, je vais aller en France pour un échange. »",
+      "tip": "Futur proche = aller + INFINITIVE (aller), never the past participle (allé)."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Réécrivez chaque paire de phrases en une seule phrase, en utilisant la structure indiquée.\n(a) J'ai commencé le piano il y a trois ans. Je joue encore. (depuis) [1]\n(b) Je n'ai pas d'argent. Je ne voyage pas. (si + imparfait) [1]\n(c) J'ai mangé. Ensuite, je suis sorti. (après avoir) [1]",
+      "ms": [
+        "(a) Je joue du piano depuis trois ans.",
+        "(b) Si j'avais de l'argent, je voyagerais.",
+        "(c) Après avoir mangé, je suis sorti."
+      ],
+      "model": "(a) Je joue du piano depuis trois ans.\n(b) Si j'avais de l'argent, je voyagerais.\n(c) Après avoir mangé, je suis sorti.",
+      "tip": "One or two of these structures in a long task show range — but only use them if you are sure of them."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Écriture — tâche courte. Vous écrivez un message à votre ami(e) français(e) au sujet de votre dernier anniversaire. Écrivez 50–60 mots en français.\nMentionnez :\n• comment vous avez fêté votre anniversaire\n• un cadeau que vous avez reçu\n• votre opinion sur la journée\n• comment vous fêterez votre prochain anniversaire",
+      "ms": [
+        "how the birthday was celebrated (passé composé)",
+        "a present received (j'ai reçu…)",
+        "an opinion on the day (c'était…)",
+        "plans for the next birthday (future)",
+        "language mostly accurate; appropriate informal register (Salut / Bises)"
+      ],
+      "levels": [
+        {"m": "5", "d": "All four points communicated clearly in appropriate tenses; language is varied and mostly accurate."},
+        {"m": "3–4", "d": "Three or four points communicated, some briefly or with tense errors; meaning generally clear."},
+        {"m": "1–2", "d": "One or two points communicated; language very limited and errors make meaning unclear."}
+      ],
+      "model": "Salut Tom !\nPour mon anniversaire, j'ai invité six amis à la maison et nous avons mangé des pizzas. Mes parents m'ont offert un nouveau vélo ; j'ai reçu aussi un livre de mon frère. C'était une journée géniale parce que tout le monde a dansé ! L'année prochaine, j'irai au bowling avec mes copains.\nBises,\nIrene",
+      "tip": "Four bullets = four sentences at least, each in the tense the bullet needs."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Écriture — tâche courte. Vous voulez passer une semaine dans un camping en France avec votre famille. Écrivez un email formel au camping (50–60 mots).\nMentionnez :\n• qui vous êtes et les dates de votre séjour\n• combien de personnes vous êtes\n• une question sur le prix\n• une question sur les activités proposées",
+      "ms": [
+        "introduction and dates (du … au …)",
+        "number of people",
+        "question about price (Quel est le prix… ? / Combien coûte… ?)",
+        "question about activities (Quelles activités proposez-vous ?)",
+        "formal register throughout: Madame, Monsieur / vous / Veuillez agréer… or Cordialement"
+      ],
+      "levels": [
+        {"m": "5", "d": "All four points communicated clearly; correctly formed questions; formal register (vous, appropriate opening and closing) maintained."},
+        {"m": "3–4", "d": "Three or four points communicated; questions sometimes awkward or register inconsistent (tu/vous mixed)."},
+        {"m": "1–2", "d": "One or two points communicated; very limited language; register inappropriate."}
+      ],
+      "model": "Madame, Monsieur,\nJe m'appelle Pablo Ruiz et je voudrais réserver un emplacement dans votre camping du 4 au 11 août. Nous sommes quatre personnes : mes parents, ma sœur et moi. Pourriez-vous me dire quel est le prix pour une semaine ? Quelles activités proposez-vous pour les jeunes ?\nCordialement,\nPablo Ruiz",
+      "tip": "In a formal email, use 'vous' and 'Pourriez-vous…' and never 'Salut' or 'Bises'."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture — tâche longue. Écrivez 130–150 mots en français.\nLa technologie. Écrivez un article pour le magazine de votre école.\n• Comment utilisez-vous la technologie dans votre vie de tous les jours ?\n• Racontez une fois où la technologie vous a aidé(e) ou posé un problème.\n• Quels sont, selon vous, les dangers de la technologie pour les jeunes ?\n• Comment la technologie changera-t-elle l'école à l'avenir ?",
+      "ms": [
+        "everyday use of technology (present tense, detail)",
+        "narrated past event (passé composé + imparfait)",
+        "dangers with justified opinion (à mon avis… parce que…)",
+        "future changes at school (futur simple / conditionnel)",
+        "range of vocabulary (réseaux sociaux, écran, harcèlement, appli, en ligne…)",
+        "range of structures: connectives, comparatives, negatives, si clause, pronouns",
+        "accuracy of verbs and agreements",
+        "length about 130–150 words and every bullet covered"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "All four bullets covered and well developed. Wide range of vocabulary and complex structures used confidently; past, present and future/conditional all correct. Very accurate; any errors are minor."},
+        {"m": "5–6", "d": "All bullets covered, most developed. Good range of vocabulary and some complex structures; tenses mostly correct. Some errors that do not affect meaning."},
+        {"m": "3–4", "d": "Most bullets covered, some briefly. Adequate but repetitive language; tenses other than the present sometimes wrong. Errors occasionally affect meaning."},
+        {"m": "1–2", "d": "Only one or two bullets addressed. Very basic language with frequent errors that obscure meaning."}
+      ],
+      "model": "Aujourd'hui, la technologie fait partie de ma vie. Le matin, j'écoute de la musique sur mon portable dans le bus et, le soir, j'utilise mon ordinateur pour faire mes devoirs.\nL'année dernière, la technologie m'a beaucoup aidée. Je préparais un exposé sur le climat et je ne trouvais pas d'informations à la bibliothèque. Heureusement, j'ai trouvé une vidéo excellente en ligne et j'ai eu une très bonne note !\nCependant, à mon avis, la technologie peut être dangereuse pour les jeunes. Beaucoup d'élèves passent trop de temps devant les écrans et dorment mal. De plus, le harcèlement sur les réseaux sociaux est un vrai problème.\nÀ l'avenir, je pense que chaque élève aura une tablette et que les livres disparaîtront. Si j'étais directrice, je garderais quand même des cours sans écrans, parce que parler ensemble est essentiel.",
+      "tip": "Plan one paragraph per bullet, and tick off a different tense for each bullet before you start."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture — tâche longue. Écrivez 130–150 mots en français.\nLa santé. Écrivez un article pour un site de jeunes francophones.\n• Qu'est-ce que vous faites pour être en bonne santé ?\n• Décrivez une fois où vous avez été malade ou blessé(e).\n• À votre avis, pourquoi certains jeunes ont-ils une vie peu saine ?\n• Qu'est-ce que vous changerez dans votre mode de vie l'année prochaine ?",
+      "ms": [
+        "healthy habits in the present (sport, food, sleep) with detail",
+        "past illness / injury narrated (passé composé + imparfait, e.g. je me suis cassé…, j'avais mal à…)",
+        "reasons why some young people are unhealthy, with justified opinion",
+        "changes next year in the future tense",
+        "range of health vocabulary (équilibré, malbouffe, sommeil, s'entraîner, stress…)",
+        "range of structures: connectives, negatives, comparatives, il faut / on devrait",
+        "accuracy of verbs (reflexives, être auxiliaries) and agreements",
+        "length about 130–150 words and every bullet covered"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "All four bullets covered and well developed. Wide range of vocabulary and complex structures used confidently; past, present and future all correct. Very accurate."},
+        {"m": "5–6", "d": "All bullets covered, most developed. Good range of vocabulary and some complex structures; tenses mostly correct. Some errors that do not affect meaning."},
+        {"m": "3–4", "d": "Most bullets covered, some briefly. Adequate but repetitive language; tenses other than the present sometimes wrong."},
+        {"m": "1–2", "d": "Only one or two bullets addressed. Very basic language with frequent errors that obscure meaning."}
+      ],
+      "model": "Pour être en bonne santé, je fais du sport trois fois par semaine : je cours le lundi et je joue au volley le mercredi et le samedi. J'essaie aussi de manger équilibré et de dormir huit heures par nuit.\nL'hiver dernier, je me suis cassé le poignet pendant un match. J'avais très mal et je ne pouvais pas écrire, donc mon frère prenait des notes pour moi en classe. C'était vraiment pénible !\nÀ mon avis, certains jeunes ont une vie peu saine parce qu'ils sont stressés et qu'ils n'ont pas le temps de cuisiner. En plus, la malbouffe est moins chère et plus pratique. On devrait proposer des repas sains et pas chers à la cantine.\nL'année prochaine, je boirai moins de sodas et je me coucherai plus tôt, car je veux avoir plus d'énergie pour mes examens.",
+      "tip": "Don't write far beyond 150 words — extra length adds errors, not marks."
+    }
+  ]
+}

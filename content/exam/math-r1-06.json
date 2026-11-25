@@ -1,0 +1,84 @@
+{
+  "id": "math-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Solve x² − 2x − 24 = 0.",
+      "ms": [
+        "M1: (x − 6)(x + 4) (or correct formula substitution)",
+        "A1: x = 6 and x = −4"
+      ],
+      "model": "x² − 2x − 24 = (x − 6)(x + 4) = 0\nx = 6 or x = −4",
+      "tip": "Find two numbers that multiply to −24 and add to −2: −6 and +4."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Solve 2(x + 1)² = 18.",
+      "ms": [
+        "M1: (x + 1)² = 9 or x + 1 = ±3",
+        "A1: x = 2 and x = −4"
+      ],
+      "model": "(x + 1)² = 9\nx + 1 = 3 or x + 1 = −3\nx = 2 or x = −4",
+      "tip": "Remember ± when you square root: missing x + 1 = −3 loses a solution."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Solve the equation 3x² + 4x − 5 = 0.\nShow all your working and give your answers correct to 2 decimal places.",
+      "ms": [
+        "B1: √(4² − 4 × 3 × (−5)) or √76 seen",
+        "M1: (−4 ± √q)/(2 × 3) with their q",
+        "A1: 0.79",
+        "A1: −2.12"
+      ],
+      "model": "a = 3, b = 4, c = −5\nb² − 4ac = 16 + 60 = 76\nx = (−4 ± √76)/6\nx = (−4 + 8.7178…)/6 = 0.786… ≈ 0.79\nx = (−4 − 8.7178…)/6 = −2.1196… ≈ −2.12",
+      "tip": "Write the full formula with your numbers in it before using the calculator: that line earns the method marks."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "(a) Write 3x² + 12x − 1 in the form a(x + b)² + c. [3]\n(b) Write down the minimum value of 3x² + 12x − 1. [1]",
+      "ms": [
+        "(a) B1: a = 3",
+        "(a) B1: b = 2",
+        "(a) B1: c = −13",
+        "(b) B1: −13 FT their c"
+      ],
+      "model": "(a) 3x² + 12x − 1 = 3(x² + 4x) − 1\n= 3[(x + 2)² − 4] − 1\n= 3(x + 2)² − 12 − 1\n= 3(x + 2)² − 13\n(b) (x + 2)² ≥ 0, so the minimum value is −13 (when x = −2).",
+      "tip": "Take the 3 out of the x terms only, and remember to multiply the −4 by 3."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The sides of a right-angled triangle are x cm, (x + 7) cm and (x + 8) cm. The hypotenuse is (x + 8) cm.\n(a) Show that x² − 2x − 15 = 0. [3]\n(b) Solve x² − 2x − 15 = 0 and find the perimeter of the triangle. [3]",
+      "ms": [
+        "(a) M1: x² + (x + 7)² = (x + 8)²",
+        "(a) M1: expands correctly: x² + x² + 14x + 49 = x² + 16x + 64",
+        "(a) A1: simplifies to x² − 2x − 15 = 0 with no errors",
+        "(b) M1: (x − 5)(x + 3) = 0",
+        "(b) A1: x = 5 (x = −3 rejected as a length cannot be negative)",
+        "(b) A1: perimeter 30 cm"
+      ],
+      "model": "(a) Pythagoras: x² + (x + 7)² = (x + 8)²\nx² + x² + 14x + 49 = x² + 16x + 64\n2x² + 14x + 49 − x² − 16x − 64 = 0\nx² − 2x − 15 = 0\n(b) (x − 5)(x + 3) = 0, so x = 5 or x = −3.\nA length cannot be negative, so x = 5.\nSides 5, 12 and 13 cm: perimeter = 30 cm.",
+      "tip": "Always state why you reject a solution, e.g. 'a length cannot be negative'."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "Lucy cycles 60 km at an average speed of x km/h.\nOn the return journey her average speed is 5 km/h slower, and the journey takes 1 hour longer.\n(a) Show that x² − 5x − 300 = 0. [4]\n(b) Solve the equation and find the time taken for the return journey. [3]",
+      "ms": [
+        "(a) B1: outward time 60/x",
+        "(a) B1: return time 60/(x − 5)",
+        "(a) M1: 60/(x − 5) − 60/x = 1 oe",
+        "(a) A1: multiplies by x(x − 5) correctly: 60x − 60(x − 5) = x(x − 5), leading to x² − 5x − 300 = 0 with no errors",
+        "(b) M1: (x − 20)(x + 15) = 0 or correct formula",
+        "(b) A1: x = 20 (reject −15)",
+        "(b) A1: 4 hours"
+      ],
+      "model": "(a) Time out = 60/x hours, time back = 60/(x − 5) hours.\n60/(x − 5) − 60/x = 1\nMultiply by x(x − 5): 60x − 60(x − 5) = x(x − 5)\n300 = x² − 5x\nx² − 5x − 300 = 0\n(b) (x − 20)(x + 15) = 0, so x = 20 (a speed cannot be negative).\nReturn speed = 15 km/h, time = 60 ÷ 15 = 4 hours.",
+      "tip": "Time = distance ÷ speed. The slower journey takes longer, so subtract the shorter time from the longer one."
+    }
+  ]
+}

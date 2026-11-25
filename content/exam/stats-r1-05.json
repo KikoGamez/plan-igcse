@@ -1,0 +1,84 @@
+{
+ "id": "stats-r1-05",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "The table shows the times, t seconds, taken by some students to solve a puzzle.\n\nTime (t s)   0 < t ≤ 10   10 < t ≤ 15   15 < t ≤ 30\nFrequency        15            21            24\n\nCalculate the frequency density for each class.",
+   "ms": [
+    "B1: frequency ÷ class width used, with at least two correct",
+    "B1: all three correct: 1.5, 4.2, 1.6"
+   ],
+   "model": "Frequency density = frequency ÷ class width.\n0 < t ≤ 10: 15 ÷ 10 = 1.5\n10 < t ≤ 15: 21 ÷ 5 = 4.2\n15 < t ≤ 30: 24 ÷ 15 = 1.6",
+   "tip": "Use the class width (10, 5, 15), not the upper boundary."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "In a test the mean mark was 64 and the standard deviation was 10.\n(a) Mia's standardised score was −0.8. Explain what this tells you about Mia's mark. [1]\n(b) Work out Mia's actual mark. [1]",
+   "ms": [
+    "(a) B1: her mark was 0.8 standard deviations below the mean (oe)",
+    "(b) B1: 56"
+   ],
+   "model": "(a) Mia's mark was 0.8 standard deviations below the mean mark.\n(b) Mark = 64 + (−0.8) × 10 = 64 − 8 = 56.",
+   "tip": "A negative standardised score means below the mean, not a negative mark."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A histogram shows the times, t minutes, that people spent in a museum. The bars have these frequency densities:\n\nTime (t min)        0 < t ≤ 20   20 < t ≤ 30   30 < t ≤ 35   35 < t ≤ 50\nFrequency density      0.6           2.4           5.2           1.2\n\n(a) Calculate the total number of people. [2]\n(b) Estimate the number of people who spent between 25 and 40 minutes in the museum. [2]",
+   "ms": [
+    "M1: frequency = frequency density × class width, e.g. 0.6 × 20 = 12",
+    "A1: 12 + 24 + 26 + 18 = 80",
+    "M1: 5 × 2.4 + 26 + 5 × 1.2 (oe)",
+    "A1: 44"
+   ],
+   "model": "(a) Frequencies: 0.6 × 20 = 12; 2.4 × 10 = 24; 5.2 × 5 = 26; 1.2 × 15 = 18. Total = 80 people.\n(b) 25 to 30: 5 × 2.4 = 12; 30 to 35: 26; 35 to 40: 5 × 1.2 = 6. Total = 12 + 26 + 6 = 44 people.",
+   "tip": "For part of a class, multiply the frequency density by the part of the width you need."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "On a histogram, the bar for the class 20 < x ≤ 25 is 2 cm wide and 6 cm tall. This bar represents a frequency of 36.\n(a) The bar for the class 25 < x ≤ 40 is 3.5 cm tall. Calculate the frequency it represents. [3]\n(b) Explain why, in a histogram with unequal class widths, frequency is represented by the area of a bar and not by its height. [1]",
+   "ms": [
+    "M1: area of first bar = 12 cm² represents 36, so 1 cm² represents 3 (or FD 7.2 ↔ 6 cm, so 1 cm ↔ 1.2)",
+    "M1: width of second bar = 15 ÷ 5 × 2 = 6 cm, area = 6 × 3.5 = 21 cm² (or FD = 3.5 × 1.2 = 4.2)",
+    "A1: 63",
+    "(b) B1: wider classes cover more values, so using height would make wide classes look too big / bars would not be comparable; area takes class width into account (oe)"
+   ],
+   "model": "(a) First bar: area = 2 × 6 = 12 cm² for a frequency of 36, so 1 cm² represents 3.\nA class width of 5 is 2 cm, so a class width of 15 is 6 cm. Second bar area = 6 × 3.5 = 21 cm². Frequency = 21 × 3 = 63.\n(Check: FD 36 ÷ 5 = 7.2 is 6 cm, so 3.5 cm is 4.2; 4.2 × 15 = 63.)\n(b) With unequal widths a wide class would look too important if heights showed frequency. Using area (frequency density × width) takes the width into account, so the picture is fair.",
+   "tip": "Find what 1 cm² (or 1 cm of height) represents first, then scale."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Jo competes in three events. Her results and the mean and standard deviation for all the competitors are shown.\n\nEvent        Jo's result   Mean     Standard deviation\n100 m        11.8 s        12.2 s   0.25 s\nLong jump    6.44 m        6.10 m   0.20 m\nShot put     12.9 m        13.4 m   0.8 m\n\nStandardised score = (value − mean) ÷ standard deviation\n(a) Calculate Jo's standardised score for each event. [3]\n(b) In which event did Jo perform best compared with the other competitors? Explain your answer. [2]\n(c) In which event did Jo perform worst? [1]",
+   "ms": [
+    "B1: 100 m: −1.6",
+    "B1: long jump: 1.7",
+    "B1: shot put: −0.625 (awrt −0.63)",
+    "(b) B1: recognises that for the 100 m a lower time is better, so −1.6 represents a good performance (equivalent to +1.6)",
+    "(b) B1: long jump is her best event because 1.7 > 1.6",
+    "(c) B1: shot put (only event below average)"
+   ],
+   "model": "(a) 100 m: (11.8 − 12.2) ÷ 0.25 = −1.6\nLong jump: (6.44 − 6.10) ÷ 0.20 = 1.7\nShot put: (12.9 − 13.4) ÷ 0.8 = −0.625\n(b) In the 100 m a smaller time is better, so −1.6 means she was 1.6 standard deviations better than the mean. In the long jump she was 1.7 standard deviations better than the mean. 1.7 > 1.6, so the long jump was her best event.\n(c) The shot put: her distance was below the mean (score −0.625).",
+   "tip": "For times, a negative standardised score is good; reverse the sign before comparing with distances."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "The ages, a years, of the members of a gym are shown in a histogram. Some information is given in the table.\n\nAge (a years)   15 < a ≤ 20   20 < a ≤ 30   30 < a ≤ 40   40 < a ≤ 60   60 < a ≤ 80\nFrequency                         46                          24             8\n\nOn the histogram, the bar for 15 < a ≤ 20 has frequency density 3.6 and the bar for 30 < a ≤ 40 has frequency density 3.8.\n(a) Find the missing frequencies. [2]\n(b) Estimate the number of members aged between 25 and 45. [2]\n(c) Estimate the median age of the members. [2]\n(d) Write down the modal class. [1]",
+   "ms": [
+    "(a) B1: 15 < a ≤ 20: 3.6 × 5 = 18",
+    "(a) B1: 30 < a ≤ 40: 3.8 × 10 = 38",
+    "(b) M1: 5 × 4.6 + 38 + 5 × 1.2 (oe, using FD 46 ÷ 10 and 24 ÷ 20)",
+    "(b) A1: 67 (ft their 38)",
+    "(c) M1: total 134, median at 67th value, in 30 < a ≤ 40: 30 + (67 − 64) ÷ 38 × 10",
+    "(c) A1: 30.8 years (awrt 30.8)",
+    "(d) B1: 20 < a ≤ 30 (highest frequency density, 4.6)"
+   ],
+   "model": "(a) 15 < a ≤ 20: 3.6 × 5 = 18. 30 < a ≤ 40: 3.8 × 10 = 38.\n(b) Frequency densities: 20–30 is 46 ÷ 10 = 4.6; 40–60 is 24 ÷ 20 = 1.2.\n25 to 30: 5 × 4.6 = 23; 30 to 40: 38; 40 to 45: 5 × 1.2 = 6. Total = 23 + 38 + 6 = 67 members.\n(c) Total = 18 + 46 + 38 + 24 + 8 = 134, so the median is the 67th value. Cumulative frequencies: 18, 64, 102, … so it is in 30 < a ≤ 40.\nMedian ≈ 30 + (67 − 64) ÷ 38 × 10 = 30 + 0.79 = 30.8 years.\n(d) The modal class is 20 < a ≤ 30, because it has the highest frequency density (4.6).",
+   "tip": "In a histogram the modal class is the tallest bar (highest frequency density), not the highest frequency."
+  }
+ ]
+}

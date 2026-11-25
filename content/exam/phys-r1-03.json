@@ -1,0 +1,83 @@
+{
+ "id": "phys-r1-03",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State the principle of moments.",
+   "ms": [
+    "when an object is in equilibrium / balanced",
+    "the sum of the clockwise moments about any point = the sum of the anticlockwise moments about the same point"
+   ],
+   "model": "When an object is in equilibrium, the sum of the clockwise moments about a point equals the sum of the anticlockwise moments about the same point.",
+   "tip": "Both parts are needed: 'in equilibrium' and 'about the same point'."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Explain why the handle of a door is fixed as far as possible from the hinges.",
+   "ms": [
+    "larger (perpendicular) distance from the pivot / hinge",
+    "so a smaller force is needed to produce the same moment (turning effect) / same force gives a larger moment"
+   ],
+   "model": "The hinge is the pivot. Putting the handle far from it gives a large perpendicular distance, so moment = force × distance is large; a smaller force is needed to open the door."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A gardener lifts the handles of a wheelbarrow. The wheel axle acts as the pivot. The weight of the wheelbarrow and its load is 600 N and acts 0.40 m from the axle. The gardener applies a vertical upward force to the handles 1.2 m from the axle.\n(a) Calculate the force the gardener must apply to just lift the handles. [3]\n(b) Explain why it is easier to lift the wheelbarrow if the load is moved closer to the wheel. [1]",
+   "ms": [
+    "(a) C1: moment of load = 600 × 0.40 = 240 N m",
+    "(a) C1: F × 1.2 = 240",
+    "(a) A1: 200 N",
+    "(b) smaller distance of load from pivot, so smaller (anticlockwise) moment, so smaller force needed at the handles"
+   ],
+   "model": "(a) Moment of load = 600 × 0.40 = 240 N m.\nPrinciple of moments: F × 1.2 = 240, so F = 200 N.\n(b) The load's perpendicular distance from the pivot is smaller, so its moment is smaller and a smaller force at the handles balances it.",
+   "tip": "Both distances are measured from the pivot (the axle), not from each other."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A skier has a weight of 720 N. Each of her two skis is 1.6 m long and 0.10 m wide. Each of her boots has an area of 0.030 m² in contact with the ground.\n(a) Calculate the pressure she exerts on the snow when standing on both skis. [2]\n(b) Calculate the pressure she exerts when standing on both boots without skis. [1]\n(c) Use your answers to explain why skis stop her sinking into soft snow. [1]",
+   "ms": [
+    "(a) C1: total area = 2 × 1.6 × 0.10 = 0.32 m²",
+    "(a) A1: p = 720 ÷ 0.32 = 2250 Pa (allow 2300 Pa or N/m²)",
+    "(b) 720 ÷ 0.060 = 12 000 Pa",
+    "(c) skis give larger area so smaller pressure (about 5 times less), so the snow is not pushed down as much"
+   ],
+   "model": "(a) Area = 2 × 1.6 × 0.10 = 0.32 m²; p = F ÷ A = 720 ÷ 0.32 = 2250 Pa.\n(b) Area = 2 × 0.030 = 0.060 m²; p = 720 ÷ 0.060 = 12 000 Pa.\n(c) The skis spread the same force over a much larger area, so the pressure on the snow is much smaller and she does not sink.",
+   "tip": "Remember there are TWO skis and TWO boots – double the area of one."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A uniform plank is 4.0 m long and has a weight of 150 N. It rests on a pivot 1.2 m from its left-hand end. A load hangs from the left-hand end so that the plank balances horizontally.\n(a) State where the centre of gravity of the plank is and explain why. [1]\n(b) Calculate the weight of the load. [3]\n(c) Calculate the upward force exerted by the pivot on the plank. Explain your answer. [2]",
+   "ms": [
+    "(a) at the centre / 2.0 m from either end, because the plank is uniform",
+    "(b) C1: distance of plank's centre of gravity from pivot = 2.0 − 1.2 = 0.80 m",
+    "(b) C1: W × 1.2 = 150 × 0.80 (= 120 N m)",
+    "(b) A1: W = 100 N",
+    "(c) 250 N (ecf: 150 + answer to (b))",
+    "(c) no resultant force on the plank (it is in equilibrium), so upward force = total downward force"
+   ],
+   "model": "(a) At its centre, 2.0 m from each end, because the plank is uniform.\n(b) The plank's weight acts 2.0 − 1.2 = 0.80 m to the right of the pivot.\nClockwise moment = 150 × 0.80 = 120 N m.\nAnticlockwise moment = W × 1.2, so W = 120 ÷ 1.2 = 100 N.\n(c) The plank is in equilibrium, so there is no resultant force: upward force = 150 + 100 = 250 N.",
+   "tip": "The weight of a uniform object acts at its centre – treat it as one of the forces when it is not over the pivot."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "(a) A racing car is designed with a low centre of gravity and its wheels set far apart. Explain, in terms of the centre of gravity and moments, why this makes the car stable. [4]\n(b) A tower crane lifts a load of 12 000 N at 15 m from the tower. A concrete counterweight on the other side of the tower is 5.0 m from the tower. Calculate the weight of counterweight needed for the crane to balance. [2]",
+   "ms": [
+    "(a) low centre of gravity: the car must tilt through a large angle before …",
+    "(a) … the vertical line through the centre of gravity (line of action of weight) passes outside the base (wheels)",
+    "(a) while it stays inside the base, the weight gives a moment that turns the car back / restores it",
+    "(a) if it passes outside the base, the weight's moment turns the car over / it topples",
+    "(a) wide base (wheels far apart) also increases the angle before toppling",
+    "(b) C1: 12 000 × 15 = W × 5.0",
+    "(b) A1: 36 000 N"
+   ],
+   "model": "(a) With a low centre of gravity and a wide base, the car can tilt through a large angle before the vertical line through its centre of gravity passes outside the wheels. As long as this line stays within the base, the weight produces a moment that turns the car back down onto all its wheels. Only if the line passes outside the base does the weight's moment turn the car over, so it is hard to topple.\n(b) 12 000 × 15 = W × 5.0, so W = 180 000 ÷ 5.0 = 36 000 N.",
+   "tip": "Use the phrase 'line of action of the weight passes outside the base' – 'it is heavier at the bottom' scores nothing."
+  }
+ ]
+}

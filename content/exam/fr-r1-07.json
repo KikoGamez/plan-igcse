@@ -1,0 +1,85 @@
+{
+  "id": "fr-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Compréhension orale (transcription — demandez à quelqu'un de vous la lire deux fois, ou lisez-la une fois puis cachez-la).\nVous entendez une annonce dans un supermarché.\n« Chers clients, aujourd'hui au rayon fruits, deux kilos d'oranges pour trois euros cinquante. Cette offre est valable jusqu'à samedi. »\nRépondez en français.\n(a) Combien coûtent deux kilos d'oranges ? [1]\n(b) Jusqu'à quand l'offre est-elle valable ? [1]",
+      "ms": [
+        "(a) 3,50 € / trois euros cinquante (reject 3 €)",
+        "(b) (jusqu'à) samedi"
+      ],
+      "model": "(a) Trois euros cinquante.\n(b) Jusqu'à samedi.",
+      "tip": "Write prices exactly: 'trois euros cinquante' is €3.50 — both numbers are needed."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Compréhension orale (transcription). Vous entendez un message pour Emma.\n« Salut Emma, c'est Chloé. Pour la sortie de dimanche, on ne va plus à la plage, parce qu'il va pleuvoir. On ira plutôt à la patinoire. Rendez-vous devant la gare à quatorze heures, pas à treize heures comme prévu. Et n'oublie pas tes gants ! »\nChoisissez la bonne réponse (A, B ou C).\n(a) Où vont-elles dimanche ?  A à la plage  B à la patinoire  C à la gare [1]\n(b) À quelle heure est le rendez-vous ?  A 13h00  B 14h00  C 16h00 [1]\n(c) Qu'est-ce qu'Emma doit apporter ?  A des gants  B un maillot de bain  C un parapluie [1]",
+      "ms": [
+        "(a) B",
+        "(b) B",
+        "(c) A"
+      ],
+      "model": "(a) B (b) B (c) A",
+      "tip": "Every option is mentioned or suggested in the message — 'ne… plus', 'plutôt' and 'pas … comme prévu' point to the right one."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Compréhension orale (transcription). Vous entendez Léo et Sarah.\n« — On va au concert vendredi ?\n— Vendredi, je ne peux pas, j'ai un match de basket. Samedi, peut-être ?\n— Samedi, les billets coûtent trente euros, c'est trop cher pour moi.\n— Alors, allons plutôt au festival gratuit dans le parc, dimanche.\n— D'accord ! Mais je dois rentrer avant vingt heures, parce que j'ai un contrôle lundi matin. »\nRépondez en français.\n(a) Pourquoi Sarah ne peut-elle pas aller au concert vendredi ? [1]\n(b) Pourquoi ne vont-ils pas au concert samedi ? [1]\n(c) Où vont-ils aller finalement ? [1]\n(d) Pourquoi Sarah doit-elle rentrer avant vingt heures ? [1]",
+      "ms": [
+        "(a) elle a un match de basket",
+        "(b) c'est trop cher / les billets coûtent 30 euros",
+        "(c) au festival (gratuit) dans le parc (reject 'au concert')",
+        "(d) elle a un contrôle lundi matin"
+      ],
+      "model": "(a) Elle a un match de basket.\n(b) Les billets sont trop chers (trente euros).\n(c) Au festival gratuit dans le parc.\n(d) Parce qu'elle a un contrôle lundi matin.",
+      "tip": "In conversations, plans change: wait for the final decision ('Alors… plutôt… D'accord !')."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Compréhension orale (transcription). Vous entendez Lucas, qui fait un échange scolaire.\n« Je suis en échange à Québec, au Canada, depuis trois mois. Ce qui m'a surpris, c'est le froid : en janvier, il a fait moins vingt-cinq degrés ! Ma famille d'accueil est très gentille ; le père est professeur de musique et il m'apprend le piano. Au lycée, les cours finissent à quinze heures, ce qui est génial, parce que j'ai le temps de faire du hockey. La seule chose qui me manque, c'est le pain français ! »\nRépondez en français.\n(a) Depuis combien de temps Lucas est-il à Québec ? [1]\n(b) Qu'est-ce qui l'a surpris ? [1]\n(c) Que fait le père de la famille d'accueil pour Lucas ? [1]\n(d) Pourquoi Lucas aime-t-il l'heure de la fin des cours ? [1]\n(e) Qu'est-ce qui lui manque ? [1]",
+      "ms": [
+        "(a) trois mois",
+        "(b) le froid / il a fait moins vingt-cinq degrés",
+        "(c) il lui apprend le piano (reject 'il est professeur de musique' alone)",
+        "(d) il a le temps de faire du hockey",
+        "(e) le pain français"
+      ],
+      "model": "(a) Depuis trois mois.\n(b) Le froid.\n(c) Il lui apprend le piano.\n(d) Parce qu'il a le temps de faire du hockey.\n(e) Le pain français.",
+      "tip": "Answer the exact question: (c) asks what the father DOES for Lucas, not what his job is."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Compréhension orale (transcription). Vous entendez une interview avec Julie, cheffe cuisinière.\n« Quand j'étais petite, je voulais être pilote, mais j'ai découvert la cuisine grâce à ma grand-mère, qui faisait des gâteaux tous les dimanches. Après le collège, j'ai fait un apprentissage de trois ans dans un restaurant. Aujourd'hui, je suis cheffe à Lyon. Le plus dur, ce sont les horaires : je travaille le soir et le week-end, donc je vois peu mes amis. Mais j'adore créer de nouveaux plats, surtout avec des légumes de saison. Dans cinq ans, j'aimerais ouvrir mon propre restaurant, peut-être au bord de la mer. »\nRépondez en français.\n(a) Quel métier Julie voulait-elle faire quand elle était petite ? [1]\n(b) Qui lui a fait découvrir la cuisine ? [1]\n(c) Qu'a-t-elle fait après le collège ? [1]\n(d) Quelle est la conséquence de ses horaires de travail ? [1]\n(e) Qu'est-ce qu'elle aime dans son travail ? [1]\n(f) Quel est son projet pour l'avenir ? [1]",
+      "ms": [
+        "(a) pilote",
+        "(b) sa grand-mère",
+        "(c) un apprentissage (de trois ans)",
+        "(d) elle voit peu ses amis",
+        "(e) créer de nouveaux plats",
+        "(f) ouvrir son propre restaurant (au bord de la mer)"
+      ],
+      "model": "(a) Pilote.\n(b) Sa grand-mère.\n(c) Un apprentissage de trois ans.\n(d) Elle voit peu ses amis.\n(e) Créer de nouveaux plats.\n(f) Ouvrir son propre restaurant, peut-être au bord de la mer.",
+      "tip": "(d) asks for the consequence ('donc…'), not the cause — the hours alone do not answer it."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Compréhension orale (transcription). Trois jeunes parlent des réseaux sociaux.\nKarim : « Pour moi, les réseaux sociaux, c'est super : je parle tous les jours avec mes cousins qui habitent au Sénégal. »\nManon : « Je passe trop de temps sur mon portable et après, je n'arrive pas à dormir. En plus, j'ai vu des messages méchants sur une copine. »\nHugo : « On apprend plein de choses avec les vidéos, c'est vrai. Mais il y a beaucoup de fausses informations, il faut faire attention. »\nPour chaque personne, écrivez P (opinion positive), N (opinion négative) ou P+N (positive et négative). Puis donnez une raison en français.\n(a) Karim [2]\n(b) Manon [2]\n(c) Hugo [2]",
+      "ms": [
+        "(a) P",
+        "(a) il parle avec ses cousins (au Sénégal)",
+        "(b) N",
+        "(b) elle n'arrive pas à dormir / elle passe trop de temps sur son portable / messages méchants (harcèlement)",
+        "(c) P+N",
+        "(c) on apprend plein de choses OR il y a beaucoup de fausses informations"
+      ],
+      "model": "(a) P — il parle tous les jours avec ses cousins au Sénégal.\n(b) N — elle n'arrive pas à dormir.\n(c) P+N — on apprend des choses avec les vidéos, mais il y a beaucoup de fausses informations.",
+      "tip": "'C'est vrai… Mais…' usually signals a mixed opinion (P+N)."
+    }
+  ]
+}

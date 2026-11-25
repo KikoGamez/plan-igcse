@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-04",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Name the energy store that is increased in each of the following.\n(a) A rubber band is stretched. [1]\n(b) A plant makes glucose by photosynthesis. [1]\n(c) Water in a kettle is heated. [1]",
+   "ms": [
+    "(a) elastic (strain)",
+    "(b) chemical",
+    "(c) internal (thermal) (allow kinetic energy of particles; not 'heat')"
+   ],
+   "model": "(a) Elastic (strain) energy.\n(b) Chemical energy.\n(c) Internal (thermal) energy.",
+   "tip": "Use the syllabus names of stores; 'heat energy' is not accepted."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define power and state its unit.",
+   "ms": [
+    "work done per unit time / energy transferred per unit time (allow P = W ÷ t or ΔE ÷ t with symbols explained)",
+    "watt (W) (allow J/s)"
+   ],
+   "model": "Power is the work done (or energy transferred) per unit time. Its unit is the watt (W), equal to 1 J/s."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A student of mass 55 kg runs up a flight of stairs. The vertical height of the stairs is 3.0 m and she takes 4.2 s. g = 9.8 N/kg.\n(a) Calculate the gravitational potential energy she gains. [2]\n(b) Calculate the useful power she develops. [2]",
+   "ms": [
+    "(a) C1: ΔEp = mgΔh = 55 × 9.8 × 3.0",
+    "(a) A1: 1600 J (allow 1617 J or 1620 J)",
+    "(b) C1: P = ΔE ÷ t = 1617 ÷ 4.2 (ecf)",
+    "(b) A1: 390 W (allow 385 W)"
+   ],
+   "model": "(a) ΔEp = mgΔh = 55 × 9.8 × 3.0 = 1617 J ≈ 1600 J.\n(b) P = ΔE ÷ t = 1617 ÷ 4.2 = 385 W ≈ 390 W.",
+   "tip": "Use the VERTICAL height, not the length along the stairs."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "(a) Describe how a gas-fired power station produces electrical energy. In your answer refer to the boiler, turbine and generator. [3]\n(b) Biofuels and fossil fuels can both be burned in power stations. State one advantage and one disadvantage of using biofuels instead of fossil fuels. [2]",
+   "ms": [
+    "(a) gas burned (chemical energy) to heat water in the boiler, producing (high-pressure) steam",
+    "(a) steam turns (drives) the turbine (kinetic energy)",
+    "(a) turbine turns the generator, which produces electricity (electrical energy)",
+    "(b) advantage: renewable / can be regrown / CO₂ absorbed by crops as they grow (so less overall effect on climate)",
+    "(b) disadvantage: needs large areas of land (could grow food / destroys habitats) / still releases CO₂ (and pollutants) when burned"
+   ],
+   "model": "(a) The gas is burned and the energy released heats water in the boiler, turning it into high-pressure steam. The steam drives the turbine round, and the turbine turns the generator, which produces electricity.\n(b) Advantage: biofuels are renewable because the crops can be regrown (and they absorb carbon dioxide as they grow).\nDisadvantage: growing them needs large areas of land that could otherwise grow food or support wildlife.",
+   "tip": "Give the sequence in order: fuel → boiler/steam → turbine → generator."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A trolley of mass 0.80 kg is released from rest at the top of a ramp. The top of the ramp is 0.45 m vertically above the bottom. The trolley travels 1.5 m along the ramp and reaches the bottom with a speed of 2.4 m/s. g = 9.8 N/kg.\n(a) Calculate the gravitational potential energy lost by the trolley. [2]\n(b) Calculate the kinetic energy of the trolley at the bottom of the ramp. [2]\n(c) Calculate the efficiency of the transfer from gravitational potential energy to kinetic energy. [1]\n(d) Calculate the average frictional force acting on the trolley along the ramp. [2]",
+   "ms": [
+    "(a) C1: ΔEp = mgΔh = 0.80 × 9.8 × 0.45",
+    "(a) A1: 3.5 J (allow 3.53 J)",
+    "(b) C1: Ek = ½mv² = ½ × 0.80 × 2.4²",
+    "(b) A1: 2.3 J (allow 2.30 J)",
+    "(c) (2.304 ÷ 3.528) × 100 = 65% (ecf)",
+    "(d) C1: energy wasted = 3.528 − 2.304 = 1.22 J and W = Fd so F = 1.22 ÷ 1.5 (ecf)",
+    "(d) A1: 0.82 N (allow 0.81–0.82 N)"
+   ],
+   "model": "(a) ΔEp = mgΔh = 0.80 × 9.8 × 0.45 = 3.53 J ≈ 3.5 J.\n(b) Ek = ½mv² = ½ × 0.80 × 2.4² = 2.30 J.\n(c) Efficiency = 2.30 ÷ 3.53 × 100% = 65%.\n(d) Energy wasted doing work against friction = 3.53 − 2.30 = 1.22 J.\nW = Fd, so F = 1.22 ÷ 1.5 = 0.82 N.",
+   "tip": "In (d) the friction acts along the slope, so use the 1.5 m slope length, not the 0.45 m height."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "In a small hydroelectric power station, 50 kg of water passes through the turbine every second after falling through a vertical height of 120 m. The electrical power output of the generator is 45 kW. g = 9.8 N/kg.\n(a) Calculate the gravitational potential energy lost by the water each second. [2]\n(b) Calculate the efficiency of the power station. [2]\n(c) State one advantage and one disadvantage of hydroelectric power compared with a coal-fired power station. [2]",
+   "ms": [
+    "(a) C1: ΔEp = mgΔh = 50 × 9.8 × 120",
+    "(a) A1: 58 800 J (= 58.8 kW input power)",
+    "(b) C1: efficiency = useful power output ÷ total power input (× 100%) = 45 000 ÷ 58 800",
+    "(b) A1: 77% (allow 76.5%; allow 0.77) (ecf)",
+    "(c) advantage: renewable / no CO₂ or polluting gases when generating / reliable, can be switched on quickly when demand rises",
+    "(c) disadvantage: flooding of valleys destroys habitats / homes / farmland; few suitable sites; high building cost"
+   ],
+   "model": "(a) ΔEp = mgΔh = 50 × 9.8 × 120 = 58 800 J each second (input power 58.8 kW).\n(b) Efficiency = 45 000 ÷ 58 800 × 100% = 77%.\n(c) Advantage: it is renewable and produces no carbon dioxide while generating. Disadvantage: building the dam floods a large area, destroying habitats and farmland.",
+   "tip": "Energy lost per second is a power: J/s = W. Keep both powers in the same unit before dividing."
+  }
+ ]
+}

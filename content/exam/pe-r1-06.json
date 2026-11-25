@@ -1,0 +1,91 @@
+{
+ "id": "pe-r1-06",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define coordination and give an example of it from a named physical activity.",
+   "ms": [
+    "the ability to use two or more body parts together smoothly and efficiently (1)",
+    "example, e.g. a tennis serve: tossing the ball with one hand while swinging the racket with the other / hurdling: arms and legs together (1)"
+   ],
+   "model": "Coordination is the ability to use two or more parts of the body together smoothly and efficiently. For example, in a tennis serve the player throws the ball up with one hand and swings the racket with the other to hit it.",
+   "tip": "The example must show different body parts working together."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the fitness test used to measure:\n(a) agility [1]\n(b) coordination [1]",
+   "ms": [
+    "(a) Illinois Agility Test (1)",
+    "(b) Anderson Wall Toss Test / alternate hand wall toss test (1)"
+   ],
+   "model": "(a) The Illinois Agility Test.\n(b) The Anderson Wall Toss Coordination Test.",
+   "tip": "Learn one named test for every component of fitness."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Describe how to carry out the Hand Grip Dynamometer test to measure strength.",
+   "ms": [
+    "adjust the handle to fit the size of the hand (1)",
+    "hold the dynamometer in the dominant hand with the arm down by the side / not touching the body (1)",
+    "squeeze as hard as possible for a few seconds (1)",
+    "record the reading in kg (1)",
+    "take the best of (two or) three attempts, with rest between (1)",
+    "compare with normative data / previous results (1)",
+    "max 4"
+   ],
+   "model": "Adjust the grip so it fits the performer's hand. The performer holds the dynamometer in their dominant hand, with the arm hanging straight down by their side and not touching the body. They squeeze the handle as hard as possible for about 5 seconds. The reading in kilograms is recorded. The test is repeated three times with a short rest, and the best score is compared with normative data.",
+   "tip": "Describe the test step by step so someone could repeat it exactly."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "(a) Describe how to carry out the 30-metre sprint test. [3]\n(b) State one way to make the results of the test more reliable. [1]",
+   "ms": [
+    "(a) measure 30 m on a flat, non-slip surface and mark start and finish (1)",
+    "(a) performer starts from a stationary (standing/crouched) position at the start line (1)",
+    "(a) timer starts the stopwatch on 'go' (or first movement) and stops it as the performer crosses the finish line (1)",
+    "(a) best of two/three attempts with full recovery in between (1)",
+    "max 3 for (a)",
+    "(b) same surface/weather conditions / same timer / electronic timing gates / same warm-up / same time of day (1)"
+   ],
+   "model": "(a) Mark out 30 m on a flat, non-slip surface such as a track. The performer starts from a stationary position behind the start line. On 'go', the timer starts the stopwatch and stops it when the performer's chest crosses the finish line. The test is repeated after a full recovery and the fastest time is recorded.\n(b) Use electronic timing gates instead of a hand-held stopwatch, so human reaction time does not affect the result.",
+   "tip": "Reliability = getting the same result if repeated: keep all conditions the same."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Two netball players completed some fitness tests.\n\nTest                   Player A   Player B\nSit and Reach (cm)        14         21\nRuler Drop (cm)            9         17\nVertical Jump (cm)        52         38\n\n(a) Which player has the better reaction time? Use the data to explain your answer. [2]\n(b) Name the component of fitness measured by the Vertical Jump test and explain how it helps a netball player. [2]\n(c) Give two limitations of using fitness tests like these. [2]",
+   "ms": [
+    "(a) Player A (1)",
+    "(a) because the ruler fell a shorter distance (9 cm v 17 cm) before she caught it (1)",
+    "(b) power (1)",
+    "(b) e.g. to jump high to intercept a pass / for a rebound / to sprint quickly to get free from a defender (1)",
+    "(c) tests are not sport-specific / do not copy the game situation (1)",
+    "(c) results depend on the performer's motivation/effort (1)",
+    "(c) human error in measuring/timing / conditions not the same each time (unreliable) (1)",
+    "(c) some tests need specialist equipment / are hard to do with large groups (1)",
+    "max 2 for (c)"
+   ],
+   "model": "(a) Player A has the better reaction time, because the ruler fell only 9 cm before she caught it, compared with 17 cm for Player B.\n(b) The Vertical Jump measures power. A netball player needs power to jump high to intercept a pass or win a rebound.\n(c) The tests are not sport-specific, so a good score does not mean she plays netball well. Also, results depend on how motivated the performer is and on measuring errors, so they may not be reliable.",
+   "tip": "In the Ruler Drop Test a smaller distance means a faster reaction."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain why a tennis player needs each of the following components of fitness. Give a definition and a specific example from tennis for each.\n(a) agility [2]\n(b) reaction time [2]\n(c) power [2]",
+   "ms": [
+    "(a) agility: the ability to change direction/body position quickly while keeping control (1)",
+    "(a) e.g. changing direction to reach a drop shot after a deep baseline rally (1)",
+    "(b) reaction time: the time between a stimulus and the start of a response (1)",
+    "(b) e.g. responding quickly to a fast serve or a volley at the net (1)",
+    "(c) power: strength × speed / applying force quickly (1)",
+    "(c) e.g. a fast first serve / a powerful smash (1)"
+   ],
+   "model": "(a) Agility is the ability to change direction quickly and with control. A tennis player needs it to sprint wide for a forehand and then change direction to get back to the centre or reach a drop shot.\n(b) Reaction time is the time between a stimulus and the start of the response. The player needs a fast reaction to return a fast serve or a volley hit straight at them.\n(c) Power is strength × speed, using force quickly. It helps the player hit a fast first serve or a powerful smash.",
+   "tip": "Generic examples ('to play better') score nothing; name a specific tennis action."
+  }
+ ]
+}

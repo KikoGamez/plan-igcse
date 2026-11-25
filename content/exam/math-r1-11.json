@@ -1,0 +1,85 @@
+{
+  "id": "math-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A is the point (−3, 2) and B is the point (5, −4).\nFind the gradient of the line AB.",
+      "ms": [
+        "M1: (−4 − 2)/(5 − (−3)) oe",
+        "A1: −3/4 (allow −0.75)"
+      ],
+      "model": "Gradient = (−4 − 2) ÷ (5 − (−3)) = −6 ÷ 8 = −3/4.",
+      "tip": "Keep the same order on the top and the bottom: (y₂ − y₁) ÷ (x₂ − x₁)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The equation of a line is 3y − 6x = 7.\n(a) Find the gradient of the line. [1]\n(b) Write down the equation of the line parallel to 3y − 6x = 7 which passes through (0, −1). [1]",
+      "ms": [
+        "(a) B1: 2",
+        "(b) B1: y = 2x − 1 FT their gradient"
+      ],
+      "model": "(a) 3y = 6x + 7 → y = 2x + 7/3, so the gradient is 2.\n(b) Same gradient, y-intercept −1: y = 2x − 1.",
+      "tip": "Rearrange to y = mx + c before reading the gradient: it is not 6 or −6."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "P is the point (−2, 1) and Q is the point (4, 9).\n(a) Calculate the length of PQ. [2]\n(b) Q is the midpoint of the line PR. Find the coordinates of R. [2]",
+      "ms": [
+        "(a) M1: √(6² + 8²) oe",
+        "(a) A1: 10",
+        "(b) M1: one correct coordinate of R, or (x − 2)/2 = 4 or (y + 1)/2 = 9",
+        "(b) A1: (10, 17)"
+      ],
+      "model": "(a) Horizontal change 6, vertical change 8. PQ = √(36 + 64) = √100 = 10.\n(b) From P to Q: +6 across, +8 up. Do the same again from Q: R = (4 + 6, 9 + 8) = (10, 17).",
+      "tip": "Q is the midpoint, so R is the same step beyond Q as Q is beyond P."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "(a) Find the equation of the line through (−1, 7) and (3, −1). Give your answer in the form y = mx + c. [3]\n(b) Find the coordinates of the point where this line crosses the x-axis. [1]",
+      "ms": [
+        "(a) M1: gradient (−1 − 7)/(3 − (−1)) = −2",
+        "(a) M1: substitutes a point into y = their m x + c, e.g. 7 = −2(−1) + c",
+        "(a) A1: y = −2x + 5",
+        "(b) B1: (2.5, 0) FT their line"
+      ],
+      "model": "(a) m = (−1 − 7) ÷ (3 + 1) = −8 ÷ 4 = −2.\n7 = −2(−1) + c → c = 5. y = −2x + 5.\n(b) y = 0: 0 = −2x + 5 → x = 2.5, so the point is (2.5, 0).",
+      "tip": "Check your line with the second point: −2(3) + 5 = −1 ✓."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "A is the point (0, 4), B is the point (6, 0) and C is the point (8, 3).\n(a) Use gradients to show that angle ABC = 90°. [3]\n(b) Calculate the area of triangle ABC. [2]\n(c) Find the equation of the line AC. Give your answer in the form ax + by = c, where a, b and c are integers. [3]",
+      "ms": [
+        "(a) M1: gradient AB = −4/6 (= −2/3)",
+        "(a) M1: gradient BC = 3/2",
+        "(a) A1: product = −1 (or one is the negative reciprocal of the other), so AB is perpendicular to BC",
+        "(b) M1: ½ × √52 × √13 oe (or rectangle minus triangles method)",
+        "(b) A1: 13",
+        "(c) M1: gradient AC = −1/8",
+        "(c) M1: y = −x/8 + 4 or substitutes a point correctly",
+        "(c) A1: x + 8y = 32 oe with integers"
+      ],
+      "model": "(a) Gradient AB = (0 − 4) ÷ 6 = −2/3. Gradient BC = (3 − 0) ÷ (8 − 6) = 3/2.\n−2/3 × 3/2 = −1, so AB is perpendicular to BC and angle ABC = 90°.\n(b) AB = √(36 + 16) = √52, BC = √(4 + 9) = √13.\nArea = ½ × √52 × √13 = ½ × √676 = ½ × 26 = 13 square units.\n(c) Gradient AC = (3 − 4) ÷ 8 = −1/8. y = −x/8 + 4.\nMultiply by 8: 8y = −x + 32, so x + 8y = 32.",
+      "tip": "Because angle B is 90°, AB and BC are the base and height of the triangle."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Line L₁ has equation y = 3x − 5. Line L₂ has equation x + 2y = 11.\n(a) Find the coordinates of P, the point where L₁ and L₂ intersect. [3]\n(b) Find the equation of the line through P that is perpendicular to L₁. Give your answer in the form y = mx + c. [3]",
+      "ms": [
+        "(a) M1: substitutes, e.g. x + 2(3x − 5) = 11",
+        "(a) A1: x = 3",
+        "(a) A1: y = 4, so P(3, 4)",
+        "(b) M1: perpendicular gradient −1/3",
+        "(b) M1: 4 = −1/3 × 3 + c FT their P",
+        "(b) A1: y = −x/3 + 5 oe"
+      ],
+      "model": "(a) x + 2(3x − 5) = 11 → 7x − 10 = 11 → x = 3. y = 3(3) − 5 = 4. P(3, 4).\n(b) Gradient of L₁ is 3, so the perpendicular gradient is −1/3.\n4 = −1/3 × 3 + c → c = 5. y = −x/3 + 5.",
+      "tip": "Perpendicular gradient: flip and change the sign (3 → −1/3)."
+    }
+  ]
+}

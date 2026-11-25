@@ -1,0 +1,81 @@
+{
+  "id": "cs-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Convert the denary number 183 into:\n(a) 8-bit binary [1]\n(b) hexadecimal. [1]",
+      "ms": [
+        "(a) 10110111",
+        "(b) B7 (ecf from (a))"
+      ],
+      "model": "(a) 183 = 128 + 32 + 16 + 4 + 2 + 1, so 183 = 10110111.\n(b) Split into nibbles: 1011 = B, 0111 = 7, so 183 = B7.",
+      "tip": "Check your binary by adding the place values back up before converting to hex."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The hexadecimal number 3E9 is stored in a computer.\n(a) Convert 3E9 to denary. [1]\n(b) Convert 3E9 to 12-bit binary. [1]",
+      "ms": [
+        "(a) 1001",
+        "(b) 0011 1110 1001 (spaces optional)"
+      ],
+      "model": "(a) 3 × 256 + 14 × 16 + 9 × 1 = 768 + 224 + 9 = 1001.\n(b) 3 = 0011, E = 1110, 9 = 1001, so 3E9 = 001111101001.",
+      "tip": "Each hex digit is exactly 4 bits – keep the leading zeros."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Add the 8-bit binary numbers 10011101 and 01101011. Show your working.\nGive the 8-bit result and explain what has happened.",
+      "ms": [
+        "working shown with carries (1)",
+        "8-bit result 00001000 (1)",
+        "an overflow error has occurred (1)",
+        "the result (264) is greater than 255 / needs 9 bits, so the 9th bit / carry is lost (1)"
+      ],
+      "model": "  10011101\n+ 01101011\n  --------\n 100001000 (carries in every column from bit 0 to bit 7)\nThe 8-bit result is 00001000. An overflow error has occurred: 157 + 107 = 264, which is larger than 255, the largest number that can be stored in 8 bits. The 9th bit (the final carry) cannot be stored and is lost, so the stored result (8) is wrong.",
+      "tip": "Always check the answer in denary: 157 + 107 = 264 > 255 means overflow."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The 8-bit register holds 00110100.\n(a) Perform a logical right shift of 2 places. Give the result in binary and its denary value. [2]\n(b) The original value 00110100 is instead shifted left 3 places. Give the result and explain why it is not 8 times the original value. [2]",
+      "ms": [
+        "(a) 00001101",
+        "(a) 13 (52 ÷ 4)",
+        "(b) 10100000",
+        "(b) 1s are shifted out of the most significant end / bits are lost, so the result is 160 not 416 (8 × 52)"
+      ],
+      "model": "(a) 00110100 shifted right 2 → 00001101, which is 13. The original was 52, so it has been divided by 4.\n(b) 00110100 shifted left 3 → 10100000 (160). 8 × 52 = 416, which needs more than 8 bits; the two 1s at the left were shifted out of the register and lost, so the answer is wrong.",
+      "tip": "In a logical shift, 0s fill the empty positions at the other end."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Two's complement is used to store integers in 8 bits.\n(a) Show how −77 is stored in 8-bit two's complement. Show your working. [3]\n(b) State the denary value of the two's complement number 11001010. [1]\n(c) State the range of denary values that can be stored in 8-bit two's complement. [1]",
+      "ms": [
+        "(a) M1: +77 = 01001101",
+        "(a) M1: invert all bits (10110010) and add 1 / or −128 + 51",
+        "(a) A1: 10110011",
+        "(b) −54",
+        "(c) −128 to +127"
+      ],
+      "model": "(a) +77 = 01001101. Invert every bit: 10110010. Add 1: 10110011.\nCheck: −128 + 32 + 16 + 2 + 1 = −77.\n(b) 11001010 = −128 + 64 + 8 + 2 = −54.\n(c) −128 to +127.",
+      "tip": "Check your answer by adding the place values with −128 for the leftmost bit."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "An 8-bit register contains the bit pattern 11100110.\n(a) State the denary value if it is an unsigned binary integer. [1]\n(b) State the denary value if it is a two's complement integer. Show your working. [2]\n(c) State the hexadecimal equivalent. [1]\n(d) Give the result of a logical right shift of 1 place on the original pattern, and its unsigned denary value. [1]\n(e) Explain why the same bit pattern can represent different values. [1]",
+      "ms": [
+        "(a) 230",
+        "(b) M1: −128 + 64 + 32 + 4 + 2 (or 230 − 256)",
+        "(b) A1: −26",
+        "(c) E6",
+        "(d) 01110011 and 115 (both needed)",
+        "(e) the value depends on how the program / computer interprets the bits (unsigned, two's complement, character, colour …)"
+      ],
+      "model": "(a) 128 + 64 + 32 + 4 + 2 = 230.\n(b) −128 + 64 + 32 + 4 + 2 = −26.\n(c) 1110 = E, 0110 = 6, so E6.\n(d) 01110011, which is 115 (230 ÷ 2).\n(e) The bits themselves have no meaning; it is the way the program interprets them (unsigned, two's complement, ASCII, etc.) that decides the value."
+    }
+  ]
+}

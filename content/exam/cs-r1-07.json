@@ -1,0 +1,91 @@
+{
+  "id": "cs-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State two functions of a web browser.",
+      "ms": [
+        "renders / displays HTML to show web pages",
+        "stores bookmarks / favourites",
+        "keeps a history of visited pages",
+        "allows multiple tabs",
+        "stores cookies",
+        "has an address bar to enter URLs",
+        "provides navigation (back / forward / refresh)",
+        "checks / shows HTTPS security (padlock)"
+      ],
+      "model": "A web browser renders HTML so that web pages are displayed correctly, and it stores bookmarks so the user can return to favourite pages quickly."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between HTTP and HTTPS.",
+      "ms": [
+        "both are protocols for transferring web pages between a server and a browser (1)",
+        "HTTPS is secure: it uses SSL/TLS to encrypt the data sent; HTTP does not encrypt (1)"
+      ],
+      "model": "HTTP and HTTPS are both protocols used to transfer web pages, but HTTPS uses SSL/TLS to encrypt the data sent between the browser and the server, so it cannot be read if intercepted. HTTP sends data unencrypted."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe what is meant by a brute-force attack and give two ways an online service can protect its users against one.",
+      "ms": [
+        "a program tries every possible combination of characters / many passwords (1)",
+        "until it finds the correct password (1)",
+        "require strong passwords – long, with a mix of upper/lower case, numbers and symbols (1)",
+        "lock the account / add a delay after a set number of failed attempts (1)",
+        "two-step verification / two-factor authentication (1)",
+        "CAPTCHA / biometrics (1)"
+      ],
+      "model": "A brute-force attack uses a program to try every possible combination of characters, one after another, until it finds the correct password. The service can require long, complex passwords using a mix of characters, which greatly increases the number of combinations to try, and it can lock an account after, for example, three failed login attempts so the program cannot keep guessing."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how a proxy server can help to protect a company's network.",
+      "ms": [
+        "acts as an intermediary between users' computers and the internet (1)",
+        "filters requests / blocks access to certain websites (1)",
+        "hides the internal IP addresses of the company's computers (1)",
+        "web pages come from the proxy, not directly from the internet, so harmful traffic can be checked / blocked (1)",
+        "can absorb / reduce the effect of a DDoS attack (1)",
+        "caches web pages (speed – allow as one mark only if linked to traffic reduction)"
+      ],
+      "model": "A proxy server sits between the company's computers and the internet, so all requests pass through it. It can filter traffic and block access to websites that are known to be harmful. Because requests appear to come from the proxy, the internal IP addresses of the company's computers are hidden from attackers. It can also absorb some of the traffic in a DDoS attack, protecting the web server behind it."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A garage plans to use an expert system to help mechanics find faults in cars.\nDescribe the main components of an expert system and how they work together to reach a diagnosis.",
+      "ms": [
+        "knowledge base: stores facts about cars and faults, collected from human experts (1)",
+        "rule base: stores IF–THEN rules linking symptoms to faults (1)",
+        "inference engine: applies the rules to the facts / the user's answers to reach a conclusion (1)",
+        "user interface: asks the mechanic questions / mechanic enters symptoms (1)",
+        "the system may ask further questions based on previous answers (1)",
+        "output: the likely fault(s) with a probability / suggested repair (1)",
+        "explanation of how the conclusion was reached (1)"
+      ],
+      "model": "An expert system has a knowledge base that stores facts about cars and their faults, gathered from experienced mechanics, and a rule base of IF–THEN rules, such as IF the engine turns over AND does not start THEN check the fuel supply. The mechanic uses the user interface to answer questions about the symptoms. The inference engine applies the rules to these answers, asking further questions where needed, until it reaches a conclusion. The system then displays the most likely fault and suggested repair, often with a probability and an explanation of how it reached the diagnosis.",
+      "tip": "Name each component and say what it does in the scenario."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Describe how a Trojan horse and spyware can each get onto a computer and what they do, and explain how a user can protect against them.",
+      "ms": [
+        "Trojan horse: disguised as legitimate / useful software, which the user downloads and installs (1)",
+        "it contains hidden malware that runs once installed, e.g. opens a back door / deletes or steals data (1); it does not replicate itself (1)",
+        "spyware: often installed hidden inside free downloads / via a Trojan / infected email attachment (1)",
+        "spyware secretly monitors activity, e.g. a key logger records keystrokes / passwords, and sends them to a third party (1)",
+        "protection: install and regularly update anti-malware that scans and quarantines / deletes files (1)",
+        "only download software from trusted sources / do not open unknown attachments (1)",
+        "use two-step verification / on-screen keyboards / drop-down boxes so stolen keystrokes are less useful (1)",
+        "firewall to block unauthorised outgoing data (1)"
+      ],
+      "model": "A Trojan horse is disguised as useful, legitimate software, so the user willingly downloads and installs it. Once installed, hidden malware runs, for example opening a back door so a hacker can access the computer or steal data, although it does not copy itself. Spyware is often hidden in free downloads or delivered by a Trojan. It secretly monitors what the user does, for example a key logger records every key pressed, including passwords, and sends the data to the criminal.\nTo protect against both, the user should install anti-malware software and keep it updated so it can detect and quarantine them, and only download software from trusted sources. Using two-step verification means that even if a password is stolen by spyware, it cannot be used on its own, and a firewall can block spyware sending data out."
+    }
+  ]
+}

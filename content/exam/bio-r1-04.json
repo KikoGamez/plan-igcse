@@ -1,0 +1,88 @@
+{
+  "id": "bio-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Most leaves are thin and have a large surface area.\nExplain how each of these features is an adaptation for photosynthesis.",
+      "ms": [
+        "large surface area: absorbs more light / more stomata for carbon dioxide to enter",
+        "thin: short diffusion distance for carbon dioxide (to reach mesophyll cells) / light reaches all cells"
+      ],
+      "model": "A large surface area lets the leaf absorb more light. Being thin means carbon dioxide has only a short distance to diffuse to reach the mesophyll cells, and light can reach all the cells.",
+      "tip": "Link each feature to a specific resource: light or carbon dioxide."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "State the function of each of these parts of a leaf.\n(a) guard cells\n(b) air spaces in the spongy mesophyll\n(c) the waxy cuticle",
+      "ms": [
+        "(a) open and close the stomata",
+        "(b) allow gases (carbon dioxide / oxygen / water vapour) to diffuse through the leaf / to and from the mesophyll cells",
+        "(c) reduces water loss (by evaporation) from the leaf surface"
+      ],
+      "model": "(a) Guard cells open and close the stomata.\n(b) The air spaces allow carbon dioxide to diffuse to the mesophyll cells, and oxygen and water vapour to diffuse out.\n(c) The waxy cuticle reduces water loss from the leaf surface.",
+      "tip": "Guard cells control the size of the stoma; they do not 'guard' against pathogens."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A student counted the bubbles of gas released by a piece of pondweed at different light intensities. The temperature and carbon dioxide concentration were kept constant.\nlight intensity / arbitrary units:  1 |  2 |  3 |  4 |  5 |  6\nbubbles per minute:                 8 | 16 | 24 | 28 | 29 | 29\n(a) Describe the effect of light intensity on the number of bubbles per minute. [2]\n(b) State the factor limiting the rate of photosynthesis between light intensities 1 and 3. Give a reason. [1]\n(c) Counting bubbles may not give an accurate measure of the rate of photosynthesis. Suggest two reasons. [2]",
+      "ms": [
+        "(a) as light intensity increases, bubbles per minute increase / proportional from 1 to 3 (8 to 24)",
+        "(a) levels off / constant at 29 above intensity 5 (allow from 4)",
+        "(b) light intensity, because increasing it increases the rate",
+        "(c) bubbles are not all the same size",
+        "(c) some oxygen dissolves in the water / is used in respiration by the plant",
+        "(c) bubbles are fast and hard to count / may contain other gases"
+      ],
+      "model": "(a) As light intensity increases from 1 to 3, the number of bubbles increases steadily from 8 to 24 per minute. The increase then slows, and above an intensity of 5 the rate stays constant at 29 bubbles per minute.\n(b) Light intensity, because increasing it increases the rate in this range.\n(c) The bubbles are not all the same size, so counting them does not measure the volume of oxygen. Also, some oxygen dissolves in the water or is used by the plant in respiration.",
+      "tip": "Quote numbers from the table when you describe a trend."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A plant with variegated leaves (green parts and white parts) was kept in the dark for 48 hours. Part of one leaf was then covered with black foil on both sides, and the plant was placed in bright light for 6 hours. The leaf was then tested for starch with iodine solution.\n(a) Predict the colour of iodine solution on: region A (green, not covered), region B (white, not covered) and region C (green, covered with foil). [2]\n(b) Explain why the plant was kept in the dark for 48 hours before the experiment. [2]",
+      "ms": [
+        "(a) A blue-black",
+        "(a) B and C orange-brown / stay brown (both needed)",
+        "(b) to remove / use up the starch already in the leaves (destarch)",
+        "(b) so any starch found must have been made during the experiment / in the light"
+      ],
+      "model": "(a) A turns blue-black. B and C stay orange-brown: B has no chlorophyll and C had no light, so no photosynthesis happened there.\n(b) To destarch the plant: in the dark it uses up its stored starch. Any starch found afterwards must have been made by photosynthesis during the experiment.",
+      "tip": "The iodine stays orange-brown where there is no starch — don't say it 'turns' a new colour."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A potometer is used to measure the rate of water uptake by a leafy shoot, as an estimate of the rate of transpiration. The air bubble in the capillary tube moves as water is taken up.\nIn still air the bubble moved 45 mm in 5 minutes.\nWith a fan blowing air over the shoot the bubble moved 120 mm in 5 minutes.\n(a) Calculate the rate of water uptake with the fan, in mm per minute. [1]\n(b) Calculate the percentage increase in the rate when the fan was switched on. [2]\n(c) Explain why the fan increased the rate of transpiration. [2]\n(d) The fan is switched off and a clear plastic bag is placed over the shoot. Predict and explain the effect on the rate of transpiration. [2]",
+      "ms": [
+        "(a) 24 mm per min",
+        "(b) M1: still air rate = 9 mm per min and (24 − 9) ÷ 9 × 100 (or (120 − 45) ÷ 45 × 100)",
+        "(b) A1: 167 % (allow 166.7 %)",
+        "(c) moving air removes water vapour from around the leaf / stomata",
+        "(c) steeper (water vapour) concentration gradient so faster diffusion of water vapour out of the stomata",
+        "(d) rate decreases",
+        "(d) humidity inside the bag increases / water vapour builds up, so concentration gradient between air spaces and outside is less steep"
+      ],
+      "model": "(a) 120 ÷ 5 = 24 mm per min.\n(b) Still air rate = 45 ÷ 5 = 9 mm per min. Increase = 24 − 9 = 15. 15 ÷ 9 × 100 = 167 %.\n(c) The moving air carries water vapour away from the leaf surface, keeping the air outside the stomata dry. This makes the concentration gradient of water vapour steeper, so water vapour diffuses out of the stomata faster.\n(d) The rate would decrease. Water vapour collects inside the bag, so the humidity rises and the concentration gradient between the air spaces in the leaf and the air outside is less steep, so less water vapour diffuses out.",
+      "tip": "Percentage increase = increase ÷ ORIGINAL value × 100."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A potato plant stores starch in underground tubers. In spring, sucrose moves from the old tuber to the growing shoots. In summer, sucrose moves from the leaves to new tubers.\n(a) Name the tissue that transports the sucrose. [1]\n(b) Using the terms source and sink, explain the movement of sucrose in spring and in summer. [3]\n(c) A potato plant grown in soil lacking nitrate ions grows poorly. Explain why. [2]",
+      "ms": [
+        "(a) phloem",
+        "(b) source = part of plant that releases sucrose / sink = part that uses or stores sucrose",
+        "(b) in spring the tuber is the source (starch converted to sucrose) and growing shoots are the sink",
+        "(b) in summer leaves are the source (sucrose made from photosynthesis) and new tubers are the sink (sucrose converted to starch and stored)",
+        "(b) translocation: same tissue / part can act as source or sink at different times",
+        "(c) nitrate ions are needed to make amino acids",
+        "(c) amino acids are needed to make proteins (for growth / new cells)"
+      ],
+      "model": "(a) Phloem.\n(b) A source is where sucrose is released into the phloem; a sink is where it is used or stored. In spring the old tuber is the source: its stored starch is converted to sucrose and translocated to the growing shoots, which are the sink. In summer the leaves are the source, making sucrose from photosynthesis, and the new tubers are the sink, where sucrose is converted to starch and stored. So the same part of the plant can be a source at one time and a sink at another.\n(c) Nitrate ions are needed to make amino acids, which are used to make proteins. Without them the plant cannot make enough protein for new cells, so it grows poorly.",
+      "tip": "Translocation moves sucrose and amino acids in phloem; water and mineral ions go in xylem."
+    }
+  ]
+}

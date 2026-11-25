@@ -1,0 +1,100 @@
+{
+  "id": "bus-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “margin of safety”. [2]",
+      "ms": [
+        "The amount by which sales/output (1)",
+        "exceed the break-even level of output (1)",
+        "Allow: actual sales − break-even sales (2)"
+      ],
+      "model": "The margin of safety is the amount by which a business’s sales exceed its break-even level of output.",
+      "tip": "It can be shown in units or in revenue."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "CityCabs is a taxi business with 15 cars.\n\nIdentify one fixed cost and one variable cost for CityCabs. [2]",
+      "ms": [
+        "Fixed cost (1), e.g. insurance, vehicle licences, rent of office/garage, booking-app subscription, loan repayments/interest, salaries of office staff",
+        "Variable cost (1), e.g. fuel, tyres/maintenance linked to distance driven, drivers’ pay per trip/commission, cleaning per journey"
+      ],
+      "model": "Fixed cost: insurance for the cars.\nVariable cost: fuel, because it rises with the number of journeys made.",
+      "tip": "A variable cost changes with output — for a taxi firm, output is journeys or kilometres. Marking: Do not accept ‘wages’ without qualification for either."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "BrightLamps makes desk lamps. Fixed costs are $24 000 per month. Each lamp sells for $15 and has variable costs of $9.\n\n(a) Calculate the break-even level of output. [2]\n(b) Calculate the profit when BrightLamps sells 5 500 lamps in a month. [2]",
+      "ms": [
+        "(a) M1: contribution per unit = 15 − 9 = $6, and 24 000 ÷ 6",
+        "(a) A1: 4 000 lamps",
+        "(b) M1: (5 500 − 4 000) × 6 OR revenue 82 500 − total cost (24 000 + 49 500 = 73 500)",
+        "(b) A1: $9 000 (ecf from (a))"
+      ],
+      "model": "(a) Contribution per lamp = $15 − $9 = $6. Break-even = $24 000 ÷ $6 = 4 000 lamps.\n(b) Revenue = 5 500 × $15 = $82 500. Total cost = $24 000 + (5 500 × $9) = $24 000 + $49 500 = $73 500. Profit = $82 500 − $73 500 = $9 000.",
+      "tip": "Check: margin of safety (1 500) × contribution ($6) = $9 000 — the same answer."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A break-even chart for a business is described below:\n• The fixed cost line is horizontal at $10 000.\n• The total revenue line starts at $0 and reaches $40 000 at an output of 2 000 units.\n• The total cost line starts at $10 000 and reaches $30 000 at an output of 2 000 units.\n\nUse this information to calculate:\n(a) the selling price per unit [1]\n(b) the variable cost per unit [1]\n(c) the break-even level of output. [2]",
+      "ms": [
+        "(a) $40 000 ÷ 2 000 = $20 (1)",
+        "(b) ($30 000 − $10 000) ÷ 2 000 = $10 (1)",
+        "(c) M1: 10 000 ÷ (20 − 10)",
+        "(c) A1: 1 000 units (ecf from (a) and (b))"
+      ],
+      "model": "(a) Price = $40 000 ÷ 2 000 = $20 per unit.\n(b) Total variable cost at 2 000 units = $30 000 − $10 000 = $20 000, so variable cost = $20 000 ÷ 2 000 = $10 per unit.\n(c) Contribution = $20 − $10 = $10. Break-even = $10 000 ÷ $10 = 1 000 units.",
+      "tip": "Total cost includes fixed cost — subtract the fixed cost before finding variable cost per unit."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "GoBottle makes reusable water bottles. Each bottle sells for $18 and has variable costs of $10. Fixed costs are $30 000 per month. The factory currently produces and sells 4 000 bottles per month and has spare capacity.\n\nA school chain offers to buy an extra 500 bottles per month at a special price of $12 each, with the school logo printed on them.\n\n(a) Calculate GoBottle’s monthly profit now and its monthly profit if it accepts the order. [4]\n(b) Should GoBottle accept the order? Justify your answer. [4]",
+      "ms": [
+        "(a) M1: current profit = (18 − 10) × 4 000 − 30 000 OR 72 000 − (30 000 + 40 000)",
+        "(a) A1: current profit = $2 000",
+        "(a) M1: extra profit from order = (12 − 10) × 500 = $1 000 (fixed costs unchanged)",
+        "(a) A1: new profit = $3 000 (ecf)",
+        "(b) Argument for accepting, e.g. positive contribution of $2 per bottle so profit rises from $2 000 to $3 000; uses spare capacity (1)",
+        "(b) Further point, e.g. new customer, possible repeat orders/publicity in schools (1)",
+        "(b) Argument against, e.g. logo printing adds cost (loss if over $2 per bottle); regular customers may demand lower prices; low profit per bottle (1)",
+        "(b) Justified decision with a condition, e.g. accept if printing costs are below $2 per bottle and the price is kept confidential (1)"
+      ],
+      "model": "(a) Contribution per bottle = $18 − $10 = $8. Current profit = $8 × 4 000 − $30 000 = $32 000 − $30 000 = $2 000.\nThe special order gives a contribution of $12 − $10 = $2 per bottle × 500 = $1 000. Fixed costs are already covered, so the new profit = $2 000 + $1 000 = $3 000.\n(b) Accepting the order increases profit by 50%, from $2 000 to $3 000, and uses spare factory capacity that would otherwise be wasted. It could also lead to more orders from the school chain. However, printing the school logo may add costs; if it costs more than $2 per bottle the order would make a loss. Regular customers who pay $18 might also ask for lower prices if they hear about the $12 deal.\nI think GoBottle should accept, because its current profit is very small and the order adds $1 000 a month without increasing fixed costs. It should first check that the logo printing costs less than $2 per bottle and agree that the special price stays confidential.",
+      "tip": "For a special order with spare capacity, fixed costs don’t change — only compare price with variable cost. Marking: max 2 marks in (b) without a decision."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "BrightLamps has fixed costs of $24 000 per month, a selling price of $15 and variable costs of $9 per lamp. It sells 5 500 lamps a month, making a profit of $9 000. The marketing manager wants to raise the price to $18. She forecasts that monthly sales would fall to 4 200 lamps.\n\nShould BrightLamps raise its price to $18? Justify your answer, using calculations to support your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Calculation: new contribution = 18 − 9 = $9; new profit = 9 × 4 200 − 24 000 = 37 800 − 24 000 = $13 800 (up $4 800 from $9 000)",
+        "New break-even = 24 000 ÷ 9 = 2 667 lamps (2 666.7) — lower than 4 000; margin of safety 4 200 − 2 667 = 1 533 (about 1 533)",
+        "For: higher profit; lower break-even → less risky",
+        "Against: forecast may be wrong (demand may be more price-elastic); competitors may keep lower prices → market share falls; fewer customers may affect brand awareness/long-term sales; staff/capacity under-used",
+        "Ev: justified decision using the figures and recognising uncertainty, e.g. raise price because profit rises by $4 800 even with fewer sales, but only if the forecast is reliable / test the price first"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Accurate calculations used to analyse the effects on profit and break-even, with a justified decision that considers the reliability of the forecast or other factors."
+        },
+        {
+          "m": "3–4",
+          "d": "Some correct calculation or developed analysis of effects of the price rise; decision weakly justified."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of effects of price changes with little or no calculation."
+        }
+      ],
+      "model": "At $18, contribution per lamp = $18 − $9 = $9. Profit = $9 × 4 200 − $24 000 = $37 800 − $24 000 = $13 800. This is $4 800 more than the current $9 000.\nThe new break-even output would be $24 000 ÷ $9 = 2 667 lamps (rounded up), much lower than the current 4 000, so the margin of safety is 1 533 lamps and the business is less likely to make a loss.\nHowever, the 4 200 sales figure is only a forecast. If customers are more price-sensitive than expected and switch to cheaper competitors, sales could fall further. Lower sales may also reduce market share and brand awareness in the long term.\nI recommend raising the price, because even if sales fell to about 3 600 lamps the profit would still be about $8 400, close to today’s level, so the risk is limited, while the forecast shows a 53% increase in profit. BrightLamps should test the new price for a short period and check what competitors charge before committing.",
+      "tip": "Calculate profit at BOTH prices — the decision should rest on the comparison."
+    }
+  ]
+}

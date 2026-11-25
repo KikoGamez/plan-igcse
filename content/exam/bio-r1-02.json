@@ -1,0 +1,87 @@
+{
+  "id": "bio-r1-02",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Describe two examples of the importance of the diffusion of gases in living organisms.",
+      "ms": [
+        "oxygen diffuses from the alveoli into the blood (in the lungs)",
+        "carbon dioxide diffuses from the blood into the alveoli",
+        "carbon dioxide diffuses into a leaf (through the stomata) for photosynthesis",
+        "oxygen diffuses out of a leaf / oxygen diffuses into cells for respiration"
+      ],
+      "model": "In the lungs, oxygen diffuses from the air in the alveoli into the blood. In a leaf, carbon dioxide diffuses in through the stomata to the mesophyll cells, where it is used in photosynthesis.",
+      "tip": "Name the gas AND say where it moves from and to; 'gases diffuse in the lungs' is too vague."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "A student tests a fruit drink. These are the results.\nIodine solution: stays orange-brown\nBenedict's solution (heated): blue → brick red\nBiuret solution: stays blue\nState what these results show about the drink.",
+      "ms": [
+        "no starch present",
+        "reducing sugar present",
+        "no protein present"
+      ],
+      "model": "The drink contains reducing sugar, because Benedict's solution turned brick red. It contains no starch, because iodine stayed orange-brown, and no protein, because biuret stayed blue.",
+      "tip": "A negative result is still a result: say what is absent as well as what is present."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Cylinders of potato were placed in sucrose solutions of different concentrations for 1 hour. The table shows the results.\nconcentration / mol per dm³:  0.0  | 0.2  | 0.4  | 0.6\ninitial mass / g:            2.50 | 2.50 | 2.50 | 2.40\nfinal mass / g:              2.80 | 2.60 | 2.40 | 2.10\npercentage change / %:      +12.0 | +4.0 | −4.0 | ?\n(a) Calculate the percentage change in mass for the 0.6 mol per dm³ solution. [2]\n(b) Estimate the concentration of sucrose solution that would give no change in mass. [1]\n(c) Explain why the cylinder in 0.0 mol per dm³ (pure water) gained mass. [2]",
+      "ms": [
+        "(a) M1: (2.10 − 2.40) ÷ 2.40 × 100",
+        "(a) A1: −12.5 % (must include negative sign or say 'decrease')",
+        "(b) 0.3 mol per dm³ (allow 0.25–0.35)",
+        "(c) water enters the cells by osmosis",
+        "(c) water moves from higher water potential (in pure water) to lower water potential (in the cells) through the partially permeable (cell) membrane"
+      ],
+      "model": "(a) Change = 2.10 − 2.40 = −0.30 g. −0.30 ÷ 2.40 × 100 = −12.5 %.\n(b) About 0.3 mol per dm³, halfway between +4.0 % and −4.0 %.\n(c) Pure water has a higher water potential than the potato cells, so water moved into the cells by osmosis through their partially permeable membranes, increasing their mass.",
+      "tip": "Always divide by the INITIAL mass, and show a loss with a minus sign."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student cuts cubes of agar jelly that contain a pink indicator. The indicator turns colourless when acid diffuses into it. The cubes are put into dilute acid.\nCube A has sides of 1 cm. Cube B has sides of 2 cm.\n(a) Calculate the surface area to volume ratio of cube B. [1]\n(b) Cube A becomes completely colourless before cube B. Explain why. [2]\n(c) Predict the effect of carrying out the experiment at a higher temperature. Give a reason. [1]",
+      "ms": [
+        "(a) surface area 24 cm², volume 8 cm³, ratio 3 : 1",
+        "(b) cube A has a larger surface area to volume ratio (6 : 1)",
+        "(b) shorter distance for acid to diffuse to the centre",
+        "(c) cubes become colourless faster because particles have more kinetic energy / move faster (so diffusion is faster)"
+      ],
+      "model": "(a) Surface area = 6 × 2 × 2 = 24 cm²; volume = 2 × 2 × 2 = 8 cm³; ratio = 24 : 8 = 3 : 1.\n(b) Cube A has a surface area to volume ratio of 6 : 1, which is larger than cube B's, and the acid has a shorter distance to diffuse to reach the centre.\n(c) The cubes would go colourless faster, because the acid particles would have more kinetic energy and diffuse faster.",
+      "tip": "Larger cube = SMALLER surface area to volume ratio. Say 'ratio', not just 'surface area'."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Root hair cells absorb water and nitrate ions from the soil. The concentration of nitrate ions in the soil is lower than in the root hair cell.\n(a) Explain how water enters a root hair cell. [2]\n(b) Explain how nitrate ions enter a root hair cell. [3]\n(c) Suggest why root hair cells contain many mitochondria. [1]",
+      "ms": [
+        "(a) by osmosis",
+        "(a) soil water has a higher water potential than the cell contents / water moves down a water potential gradient through the partially permeable membrane",
+        "(b) by active transport",
+        "(b) against a concentration gradient / from lower to higher concentration",
+        "(b) using energy (from respiration) / carrier proteins in the membrane",
+        "(c) to carry out (aerobic) respiration to release energy for active transport"
+      ],
+      "model": "(a) Water enters by osmosis. The soil water is a dilute solution with a higher water potential than the cytoplasm, so water moves into the cell through its partially permeable membrane.\n(b) Nitrate ions enter by active transport. They are moved from a lower concentration in the soil to a higher concentration in the cell, against the concentration gradient, which needs energy released by respiration.\n(c) Mitochondria carry out aerobic respiration, which releases the energy needed for active transport.",
+      "tip": "Mitochondria 'release' energy in respiration — never say they 'make' or 'produce' energy."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "A gardener adds far too much concentrated fertiliser to the soil around a plant. A few hours later the plant has wilted.\nExplain why the plant wilted. Use the terms water potential and turgor pressure in your answer.",
+      "ms": [
+        "soil water now has a lower water potential than the root cells",
+        "water leaves the root cells (or cannot enter) by osmosis",
+        "plant cannot replace water lost by transpiration / less water reaches the leaves",
+        "cells lose turgor pressure / become flaccid",
+        "cells no longer press against each other / against the cell wall, so the plant loses support and droops",
+        "(severe loss) cell membrane pulls away from the wall = plasmolysis"
+      ],
+      "model": "The fertiliser makes the soil solution very concentrated, so its water potential becomes lower than that of the root cells. Water therefore leaves the root cells by osmosis instead of entering them, and the plant cannot replace the water lost in transpiration. Cells in the stem and leaves lose water, lose their turgor pressure and become flaccid. Flaccid cells do not press firmly against each other, so the stem and leaves lose their support and the plant wilts.",
+      "tip": "Water moves from HIGHER to LOWER water potential; a concentrated solution has a LOW water potential."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "fr-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Compréhension orale (transcription). Vous entendez une annonce à la piscine.\n« Les cours de natation pour adolescents ont lieu le jeudi. Ils commencent à dix-sept heures quarante-cinq et coûtent quatre-vingt-quinze euros par trimestre. »\nRépondez en français.\n(a) Quel jour sont les cours ? [1]\n(b) À quelle heure commencent-ils ? [1]\n(c) Combien coûtent-ils par trimestre ? [1]",
+      "ms": [
+        "(a) jeudi",
+        "(b) 17h45 / dix-sept heures quarante-cinq / six heures moins le quart (du soir)",
+        "(c) 95 € / quatre-vingt-quinze euros (reject 75, 85)"
+      ],
+      "model": "(a) Le jeudi.\n(b) À 17h45.\n(c) 95 euros.",
+      "tip": "Numbers 70–99 are favourites in Listening: quatre-vingt-quinze = 4 × 20 + 15 = 95."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez le menu. Pour chaque personne, écrivez la bonne lettre.\nA soupe à l'oignon\nB steak-frites\nC omelette aux champignons\nD tarte aux pommes\nE chocolat chaud\nF jus d'orange\n(a) Paul a froid et veut une boisson chaude. [1]\n(b) Sara est végétarienne et veut un plat principal. [1]\n(c) Max veut un dessert. [1]",
+      "ms": [
+        "(a) E",
+        "(b) C",
+        "(c) D"
+      ],
+      "model": "(a) E (b) C (c) D",
+      "tip": "Check every detail: Sara wants a MAIN course and no meat — the soup is a starter."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Lisez le texte d'Ethan et répondez aux questions en français.\n« Depuis janvier, j'essaie de mener une vie plus saine. Avant, je mangeais beaucoup de chips et je buvais des sodas tous les jours. Maintenant, je prends un petit-déjeuner complet. Je vais au collège à vélo au lieu de prendre le bus, et le mardi, je fais de la natation. Le problème, c'est le sommeil : je me couche souvent après minuit à cause de mon portable. Mon médecin m'a conseillé de l'éteindre une heure avant de dormir. »\n(a) Qu'est-ce qu'Ethan mangeait avant ? [1]\n(b) Comment va-t-il au collège maintenant ? [1]\n(c) Que fait-il le mardi ? [1]\n(d) Quel est son problème ? [1]\n(e) Qu'est-ce que le médecin lui a conseillé ? [1]",
+      "ms": [
+        "(a) (beaucoup de) chips",
+        "(b) à vélo (reject en bus)",
+        "(c) de la natation / il nage",
+        "(d) il se couche (trop) tard / après minuit (à cause de son portable)",
+        "(e) d'éteindre son portable une heure avant de dormir (both portable and timing needed)"
+      ],
+      "model": "(a) Beaucoup de chips.\n(b) À vélo.\n(c) Il fait de la natation.\n(d) Il se couche souvent après minuit à cause de son portable.\n(e) D'éteindre son portable une heure avant de dormir.",
+      "tip": "'au lieu de prendre le bus' means 'instead of' — the bus is the distractor."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Compréhension orale (transcription). Vous entendez Jules qui parle de sa famille.\n« Avec ma mère, je m'entends très bien : elle est compréhensive. Mon beau-père est plus sévère, surtout pour les devoirs. Par contre, ma demi-sœur et moi, on se dispute tout le temps, parce qu'elle prend mes vêtements sans demander. Mon meilleur ami, c'est mon cousin Théo : il est drôle et toujours prêt à aider. »\nRépondez en français.\n(a) Comment est la mère de Jules ? [1]\n(b) Pour quelle chose le beau-père est-il sévère ? [1]\n(c) Pourquoi Jules se dispute-t-il avec sa demi-sœur ? [1]\n(d) Donnez une qualité de Théo. [1]",
+      "ms": [
+        "(a) compréhensive",
+        "(b) les devoirs",
+        "(c) elle prend ses vêtements (sans demander)",
+        "(d) drôle / prêt à aider"
+      ],
+      "model": "(a) Elle est compréhensive.\n(b) Les devoirs.\n(c) Parce qu'elle prend ses vêtements sans demander.\n(d) Il est drôle.",
+      "tip": "Learn family words for step-relations: beau-père, belle-mère, demi-frère, demi-sœur."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez le blog de Yasmine et répondez aux questions en français.\n« Chez nous, la fête la plus importante, c'est l'Aïd. Le matin, on se lève très tôt et on met de nouveaux vêtements. Ensuite, toute la famille va chez ma tante, qui prépare un énorme repas avec du couscous et beaucoup de gâteaux. Ce que je préfère, c'est retrouver mes cousins, que je ne vois pas souvent parce qu'ils habitent à Marseille. L'année dernière, mon grand-père était malade et il n'a pas pu venir ; c'était un peu triste. Cette année, la fête aura lieu chez nous, parce que notre nouvel appartement est plus grand. Je devrai aider ma mère à décorer le salon. »\n(a) Que fait-on le matin de la fête ? (un détail) [1]\n(b) Qui prépare le repas d'habitude ? [1]\n(c) Pourquoi Yasmine ne voit-elle pas souvent ses cousins ? [1]\n(d) Pourquoi la fête était-elle un peu triste l'année dernière ? [1]\n(e) Où la fête aura-t-elle lieu cette année ? Pourquoi ? [2]",
+      "ms": [
+        "(a) on se lève (très) tôt / on met de nouveaux vêtements",
+        "(b) sa tante",
+        "(c) ils habitent à Marseille",
+        "(d) son grand-père était malade / n'a pas pu venir",
+        "(e) chez Yasmine / chez eux",
+        "(e) leur (nouvel) appartement est plus grand"
+      ],
+      "model": "(a) On met de nouveaux vêtements.\n(b) Sa tante.\n(c) Parce qu'ils habitent à Marseille.\n(d) Son grand-père était malade et n'a pas pu venir.\n(e) Chez Yasmine, parce que leur nouvel appartement est plus grand.",
+      "tip": "Notice the change of time: 'L'année dernière… Cette année…' — answer about the right year."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture. Votre correspondant(e) vous demande de parler de votre famille et de vos loisirs. Écrivez 80–100 mots en français.\nMentionnez :\n• une personne de votre famille (description physique et caractère)\n• avec qui vous vous entendez bien ou mal, et pourquoi\n• ce que vous avez fait pendant votre temps libre le week-end dernier\n• un nouveau loisir que vous voudriez essayer",
+      "ms": [
+        "family member described physically (cheveux, yeux, grand…)",
+        "personality adjectives with correct agreement",
+        "relationship with reason (s'entendre bien avec / se disputer avec… parce que…)",
+        "past-tense account of last weekend's free time",
+        "new hobby with conditional (je voudrais / j'aimerais essayer…)",
+        "opinions and connectives",
+        "accurate topic vocabulary (A/B) and verb forms",
+        "all four points covered"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "All four points communicated clearly and developed. Wide range of family and leisure vocabulary, correct agreements, three time frames and justified opinions. Very few errors."},
+        {"m": "5–6", "d": "All or most points communicated. Some variety of vocabulary and tenses; opinions given. Some errors but meaning is clear."},
+        {"m": "3–4", "d": "Two or three points communicated, simply. Limited vocabulary and mainly present tense. Errors sometimes obscure meaning."},
+        {"m": "1–2", "d": "Little relevant communication. Very limited language; frequent errors."}
+      ],
+      "model": "Ma sœur aînée s'appelle Lucía. Elle est grande et elle a les cheveux bruns et frisés. Elle est généreuse mais un peu bavarde ! Je m'entends bien avec elle parce qu'elle m'aide avec mes devoirs. Par contre, je me dispute parfois avec mon petit frère, qui est vraiment pénible. Le week-end dernier, j'ai joué au volley avec mon équipe et nous avons gagné. Ensuite, je suis allée au cinéma avec mes amies. À l'avenir, j'aimerais essayer l'escalade, car ça a l'air passionnant.",
+      "tip": "Adjectives agree with the person: ma sœur est généreuse, mon frère est généreux."
+    }
+  ]
+}

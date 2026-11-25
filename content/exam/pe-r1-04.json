@@ -1,0 +1,87 @@
+{
+ "id": "pe-r1-04",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) State the function of the valves in the heart. [1]\n(b) Name the chamber of the heart that pumps oxygenated blood to the body. [1]",
+   "ms": [
+    "(a) prevent the backflow of blood / make sure blood flows in one direction (1)",
+    "(b) left ventricle (1)"
+   ],
+   "model": "(a) Valves stop blood flowing backwards, so it flows in one direction through the heart.\n(b) The left ventricle.",
+   "tip": "The left ventricle has the thickest wall because it pumps blood all round the body."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State the function of:\n(a) haemoglobin [1]\n(b) white blood cells [1]",
+   "ms": [
+    "(a) carries/transports oxygen (as oxyhaemoglobin); accept carries some carbon dioxide (1)",
+    "(b) fight infection / destroy bacteria/pathogens / produce antibodies (1)"
+   ],
+   "model": "(a) Haemoglobin, in red blood cells, combines with oxygen and carries it from the lungs to the muscles.\n(b) White blood cells fight infection by destroying bacteria and other pathogens.",
+   "tip": "Haemoglobin is a protein inside red blood cells, not a type of cell."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Describe the pathway of the blood through the heart and lungs, starting when it enters the heart from the vena cava and finishing when it leaves through the aorta.",
+   "ms": [
+    "vena cava → right atrium → right ventricle (1)",
+    "→ pulmonary artery → lungs (where it picks up oxygen) (1)",
+    "→ pulmonary vein → left atrium (1)",
+    "→ left ventricle → aorta (1)",
+    "valves between atria and ventricles prevent backflow (credit as one of the points if the sequence is otherwise incomplete)"
+   ],
+   "model": "Deoxygenated blood enters the right atrium from the vena cava and passes through a valve into the right ventricle. The right ventricle pumps it through the pulmonary artery to the lungs, where it picks up oxygen and gives up carbon dioxide. Oxygenated blood returns in the pulmonary vein to the left atrium, then passes into the left ventricle, which pumps it out through the aorta to the body.",
+   "tip": "Right side = deoxygenated, to the lungs; left side = oxygenated, to the body."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "At rest, a swimmer has a heart rate of 55 bpm and a cardiac output of 4.4 litres per minute.\n(a) Calculate her resting stroke volume in ml. Show your working. [2]\n(b) During a race her heart rate is 160 bpm and her stroke volume is 120 ml. Calculate her cardiac output during the race. [1]\n(c) Explain why cardiac output increases during exercise. [1]",
+   "ms": [
+    "(a) stroke volume = cardiac output ÷ heart rate, e.g. 4400 ÷ 55 (1)",
+    "(a) 80 ml (1)",
+    "(b) 160 × 120 = 19 200 ml/min or 19.2 l/min (unit needed) (1)",
+    "(c) more blood (and so oxygen/glucose) is delivered to the working muscles / to remove more carbon dioxide (1)"
+   ],
+   "model": "(a) Cardiac output = stroke volume × heart rate, so stroke volume = 4400 ml ÷ 55 = 80 ml.\n(b) Cardiac output = 120 × 160 = 19 200 ml/min (19.2 l/min).\n(c) The working muscles need more oxygen for respiration, so the heart pumps more blood per minute to deliver it and to remove carbon dioxide.",
+   "tip": "Convert litres to ml (× 1000) before dividing."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "The table shows a 400 m runner's breathing at rest and during a race.\n\n                       At rest    During the race\nTidal volume           500 ml     2.5 litres\nBreathing rate         12 /min    45 /min\n\n(a) Calculate her minute ventilation at rest and during the race. [2]\n(b) How many times greater is her minute ventilation during the race than at rest? [1]\n(c) Explain why her tidal volume and breathing rate increase during the race. Refer to the respiratory muscles in your answer. [3]",
+   "ms": [
+    "(a) rest: 500 × 12 = 6000 ml/min (6 l/min) (1)",
+    "(a) race: 2.5 × 45 = 112.5 l/min (112 500 ml/min) (1)",
+    "(b) 18.75 times (allow 18.8 or 19) (1)",
+    "(c) muscles need more oxygen / produce more carbon dioxide (which must be removed) (1)",
+    "(c) diaphragm and intercostal muscles contract more strongly (and more often) (1)",
+    "(c) so the chest cavity expands more and more air is drawn in each breath (1)",
+    "(c) more oxygen diffuses into the blood at the alveoli (1)",
+    "max 3 for (c)"
+   ],
+   "model": "(a) Rest: 500 × 12 = 6000 ml/min = 6 l/min. Race: 2.5 × 45 = 112.5 l/min.\n(b) 112.5 ÷ 6 = 18.75 times greater.\n(c) Her working muscles need much more oxygen and produce more carbon dioxide. The diaphragm and intercostal muscles contract more forcefully and more often, so the chest cavity gets bigger, more air is drawn in with each breath and she breathes faster. This means more oxygen can diffuse into the blood at the alveoli and more carbon dioxide can be breathed out.",
+   "tip": "Use the same units for both values before dividing (6 l and 112.5 l)."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "A cyclist's leg muscles need a large supply of oxygen during a race.\nExplain how the structure of the capillaries and the components of the blood allow oxygen to reach the muscles and waste to be removed.",
+   "ms": [
+    "capillary walls are one cell thick / very thin (1)",
+    "so there is a short distance for diffusion (1)",
+    "large network of capillaries around muscle fibres gives a large surface area (1)",
+    "capillaries are narrow so red blood cells pass slowly / in single file, allowing time for exchange (1)",
+    "red blood cells contain haemoglobin which carries oxygen and releases it where oxygen levels are low (in the muscles) (1)",
+    "plasma carries carbon dioxide (and other waste) away from the muscles (1)",
+    "max 5"
+   ],
+   "model": "Capillaries have walls only one cell thick, so oxygen has a very short distance to diffuse from the blood into the muscle cells. There is a huge network of capillaries around the muscle fibres, giving a large surface area for exchange. They are so narrow that red blood cells pass through slowly in single file, which gives time for gases to diffuse. Red blood cells contain haemoglobin, which carries oxygen and releases it in the muscles where oxygen levels are low. Carbon dioxide diffuses the other way into the blood and is carried away, mostly in the plasma, to the lungs.",
+   "tip": "Link each structure to its effect: thin wall → short diffusion distance."
+  }
+ ]
+}

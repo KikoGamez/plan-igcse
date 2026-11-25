@@ -1,0 +1,92 @@
+{
+ "id": "pe-r1-11",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Place a gymnastics floor routine on the open–closed continuum. Justify your answer.",
+   "ms": [
+    "closed (1)",
+    "environment is stable/predictable; no opponents; the performer controls the timing / movements are pre-learned and performed the same way each time (1)"
+   ],
+   "model": "A floor routine is a closed skill, because the environment is stable and predictable: there are no opponents, and the gymnast decides when to start and performs the same pre-learned movements each time.",
+   "tip": "Justify using the environment, not just 'it is closed'."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two characteristics of a performer in the cognitive stage of learning.",
+   "ms": [
+    "has to think about each part of the skill (1)",
+    "makes many mistakes / movements are jerky, uncoordinated, inconsistent (1)",
+    "needs demonstrations / clear simple instructions / lots of (extrinsic) feedback (1)",
+    "cannot use intrinsic feedback / cannot detect own errors (1)",
+    "max 2"
+   ],
+   "model": "A performer in the cognitive stage has to think hard about each part of the skill, and makes many errors so the movement looks jerky and inconsistent.",
+   "tip": "Cognitive = beginner (thinking); associative = practising; autonomous = automatic."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A badminton player returns a smash from her opponent. Use the information processing model to explain how she does this. Refer to each stage of the model.",
+   "ms": [
+    "input: senses (sight) detect information, e.g. the speed and direction of the shuttle / opponent's position (1)",
+    "decision-making: the brain uses memory (long-term memory of past experience) to choose a response, e.g. to play a block or a lift (1)",
+    "output: the brain sends messages to the muscles to carry out the shot (1)",
+    "feedback: information about the result, e.g. seeing where the shuttle lands / coach's comment / feel of the shot (1)"
+   ],
+   "model": "Input: she sees the shuttle coming fast, its direction and where her opponent is standing. Decision-making: her brain compares this with long-term memory of similar situations and chooses a shot, for example a block to the net. Output: her brain sends messages to the muscles to play the block. Feedback: she sees whether the shuttle goes over and lands in, and feels how well she hit it, which she uses next time.",
+   "tip": "Apply each stage to the badminton example; naming the stages alone is not enough."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A coach is teaching a beginner to swim front crawl.\n(a) Identify two types of guidance that would be suitable and justify each choice. [2]\n(b) Identify one type of feedback that would be suitable for this beginner and give a reason. [2]",
+   "ms": [
+    "(a) visual guidance, e.g. a demonstration/video: the beginner needs a clear picture of the whole skill (1)",
+    "(a) manual/mechanical guidance, e.g. floats/armbands/holding the swimmer: gives safety and confidence in water (1)",
+    "(a) verbal guidance, kept short: simple coaching points, e.g. 'kick from the hips' (1)",
+    "max 2 for (a)",
+    "(b) extrinsic feedback (from the coach) / positive feedback / knowledge of results (1)",
+    "(b) beginners cannot yet use intrinsic feedback (feel) / it motivates / simple information is easier to understand (1)"
+   ],
+   "model": "(a) Visual guidance: the coach demonstrates front crawl so the beginner can see a clear picture of what the stroke should look like. Mechanical guidance: the swimmer uses a float, which keeps them safe and builds confidence while they practise the leg kick.\n(b) Extrinsic, positive feedback from the coach, because a beginner cannot yet 'feel' whether the stroke is right, and praise keeps them motivated.",
+   "tip": "Beginners need visual and manual guidance and extrinsic, positive feedback."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "An archer and a rugby prop forward both want to perform at their best.\n(a) Explain the inverted-U theory of arousal. [2]\n(b) Explain why the archer and the prop forward need different levels of arousal for their best performance. [2]\n(c) The archer suffers from somatic anxiety before a competition. Describe one relaxation technique she could use and explain how it helps. [2]",
+   "ms": [
+    "(a) as arousal increases, performance improves up to an optimal (moderate) point (1)",
+    "(a) if arousal increases beyond the optimum, performance decreases (over-arousal) (1)",
+    "(a) under-arousal: performer not alert / bored, performance is poor (1)",
+    "max 2 for (a)",
+    "(b) archery is a fine skill / needs precision and control, so needs low arousal (1)",
+    "(b) a prop/scrum or tackle is a gross skill / needs strength and power, so needs high arousal (1)",
+    "(c) e.g. deep breathing / mental rehearsal / visualisation described (1)",
+    "(c) lowers heart rate / reduces muscle tension / calms her, so she can hold the bow steady and concentrate (1)"
+   ],
+   "model": "(a) The inverted-U theory says that as arousal increases, performance improves up to an optimal point. If arousal goes beyond this point the performer becomes over-aroused, so performance gets worse.\n(b) Archery is a fine skill that needs a steady hand and precise control, so the optimal arousal is low. A prop in a scrum uses a gross skill needing strength and aggression, so the optimal arousal is high.\n(c) Deep breathing: she breathes slowly and deeply, in through the nose and out through the mouth, while focusing on her breathing. This lowers her heart rate and relaxes her muscles, so her hands shake less and she can aim accurately.",
+   "tip": "If you describe the graph, say what is on each axis: arousal (x) and performance (y)."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A 15-year-old netball player has lost motivation and her shooting accuracy has stopped improving.\n(a) Write a SMARTER goal for her. [2]\n(b) Explain how setting SMARTER goals can improve her motivation and performance. [2]\n(c) Explain the difference between intrinsic and extrinsic motivation, and why her coach should not rely only on extrinsic rewards. [2]",
+   "ms": [
+    "(a) goal is specific and measurable, e.g. 'score 7 out of 10 shots from the edge of the circle' (1)",
+    "(a) goal includes a time frame/deadline and is realistic, e.g. 'within 6 weeks', agreed with the coach and recorded (1)",
+    "(b) gives her something clear to aim for / focus in training (1)",
+    "(b) she can see progress (measured/recorded), which increases motivation/confidence (1)",
+    "(b) helps control anxiety by focusing on the task (1)",
+    "max 2 for (b)",
+    "(c) intrinsic comes from within (enjoyment/satisfaction); extrinsic comes from outside (rewards, trophies, praise) (1)",
+    "(c) extrinsic rewards may lose their effect / motivation may stop when rewards stop / can reduce enjoyment; intrinsic motivation lasts longer (1)"
+   ],
+   "model": "(a) 'To improve my shooting from 5 out of 10 to 7 out of 10 from the edge of the circle within 6 weeks, agreed with my coach and recorded in my training diary.'\n(b) The goal gives her a clear target to focus on in each session. Because it is measured and recorded she can see her progress, which increases her confidence and motivation to keep practising.\n(c) Intrinsic motivation comes from inside the performer, such as the enjoyment of netball. Extrinsic motivation comes from outside, such as trophies or praise. If the coach relies only on rewards, the player may stop trying when the rewards stop and may enjoy the sport less, whereas intrinsic motivation lasts longer.",
+   "tip": "Cambridge uses SMARTER: Specific, Measurable, Agreed, Realistic, Time-phased, Exciting, Recorded."
+  }
+ ]
+}

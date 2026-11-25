@@ -1,0 +1,86 @@
+{
+ "id": "music-r1-11",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define:\n(a) strophic\n(b) through-composed",
+   "ms": [
+    "(a) the same music repeated for each verse",
+    "(b) new music for each section of the text (no repeated verse music)"
+   ],
+   "model": "(a) The same music for every verse. (b) New music for each part of the text."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define:\n(a) a cappella\n(b) mickey-mousing (in film or cartoon music)",
+   "ms": [
+    "(a) singing without instrumental accompaniment",
+    "(b) music that closely mirrors the action on screen (e.g. a falling glissando when a character falls)"
+   ],
+   "model": "(a) Singing with no instruments. (b) Music that copies the on-screen action exactly, e.g. a slide down as someone falls."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Suggest how a composer could set each phrase to music using word-painting or word-setting.\n(a) \"climbing to the mountain top\"\n(b) \"falling tears\"\n(c) \"whisper\"\n(d) \"Alleluia, rejoice!\"",
+   "ms": [
+    "(a) a rising (ascending) melody, ending on a high note",
+    "(b) a descending melody / falling (chromatic) phrase / falling semitone 'sighs'",
+    "(c) pianissimo / very quiet, thin accompaniment",
+    "(d) a melisma / fast, decorated notes on one syllable, major key, forte"
+   ],
+   "model": "(a) A rising melody that ends on a high, held note. (b) A descending chromatic line in a minor key. (c) Sung pianissimo over a very thin accompaniment. (d) A long, joyful melisma on 'Alleluia', forte and in a major key."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "In a film, a heroic leitmotif is heard whenever the hero appears. Later the hero is defeated. Explain four ways the composer could change the leitmotif to show this.",
+   "ms": [
+    "change from major to minor key",
+    "slower tempo",
+    "quieter dynamics (piano)",
+    "thinner texture / solo instrument instead of full brass",
+    "change of instrument/timbre (e.g. solo oboe or low strings instead of trumpets)",
+    "fragment the theme / leave it unfinished (imperfect cadence)",
+    "add dissonant or chromatic harmony"
+   ],
+   "model": "The composer could put the theme in a minor key, play it slowly and quietly, give it to a solo oboe instead of the brass, and break it off before the end so it sounds unfinished.",
+   "tip": "Leitmotifs are transformed, not replaced: keep the theme recognisable but change its character."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe how a typical verse–chorus song from a musical, such as A Million Dreams, builds from a quiet opening to a powerful final chorus.",
+   "ms": [
+    "verse–chorus structure, with a bridge / middle eight for contrast",
+    "starts quietly with a simple accompaniment (e.g. solo piano or guitar)",
+    "texture thickens: more instruments and voices added through the song",
+    "dynamics grow: crescendo to forte/fortissimo in the last chorus",
+    "the chorus uses a memorable hook / repeated melody",
+    "rising melodic shape / higher register in later choruses",
+    "possible key change (modulation up) or added harmony/backing vocals for the final chorus",
+    "rhythm section/drums enter to add drive"
+   ],
+   "model": "The song is in verse–chorus form. It opens quietly with a soloist over a simple piano accompaniment. Each section adds instruments and voices, so the texture thickens, and the dynamics grow. The chorus has a memorable hook with a rising shape. After a contrasting bridge, the final chorus is sung fortissimo with full band and backing harmonies, possibly after a key change upwards."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Compare music for film with music for video games.",
+   "ms": [
+    "both use leitmotifs / themes for characters or places",
+    "both create atmosphere and support the action (e.g. tension, excitement)",
+    "both may use orchestral and/or electronic sounds",
+    "film: fixed length, composed to match exact timings of scenes",
+    "film: can mirror specific moments (hits, mickey-mousing)",
+    "games: built from loops that repeat seamlessly while the player explores",
+    "games: adaptive/interactive, changing with the player's actions or situation (e.g. battle music)",
+    "games: the length is unknown, so music must repeat without becoming irritating",
+    "max 4 if no similarity or no difference is given"
+   ],
+   "model": "Both use themes for characters and places, and both create atmosphere and tension using orchestral or electronic sounds. Film music is written to a fixed length and can hit exact moments on screen. Game music is built from loops that repeat seamlessly for as long as the player explores, and it is adaptive: it changes when the action changes, for example when a battle starts."
+  }
+ ]
+}

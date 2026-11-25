@@ -1,0 +1,99 @@
+{
+  "id": "spa-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Complete el texto con el pretérito imperfecto o el pretérito indefinido del verbo entre paréntesis.\n\nCuando (1) ___ (ser, yo) pequeña, mi abuela me (2) ___ (llevar) cada domingo al mercado. Un día, (3) ___ (perderse, yo) entre los puestos.",
+      "ms": [
+        "(1) era",
+        "(2) llevaba",
+        "(3) me perdí (con tilde)"
+      ],
+      "model": "Cuando era pequeña, mi abuela me llevaba cada domingo al mercado. Un día, me perdí entre los puestos.",
+      "tip": "Imperfecto para el fondo y las costumbres (cada domingo); indefinido para una acción concreta que hace avanzar la historia (un día)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Corrija la puntuación de este diálogo según las normas del español.\n\n\"No pienso ir\", dijo Lucas, \"estoy cansado\".\n\"Como quieras\", contestó su hermana.",
+      "ms": [
+        "raya de apertura y rayas para el inciso del narrador: —No pienso ir —dijo Lucas—. Estoy cansado.",
+        "—Como quieras —contestó su hermana. (sin comillas; raya al inicio de cada intervención)"
+      ],
+      "model": "—No pienso ir —dijo Lucas—. Estoy cansado.\n—Como quieras —contestó su hermana.",
+      "tip": "Si el personaje sigue hablando tras el inciso, cierre el inciso con raya y punto: «—dijo Lucas—.»"
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Reescriba cada frase para «mostrar» en lugar de «decir», usando detalles concretos y al menos una imagen original en total.\n\n(a) «El abuelo estaba muy triste.» [2]\n(b) «La cocina era muy pequeña y estaba desordenada.» [2]",
+      "ms": [
+        "(a) la tristeza se muestra mediante gestos, acciones o detalles (mirada, silencio, manos…) sin nombrar la emoción",
+        "(a) detalle preciso / original y bien expresado",
+        "(b) la pequeñez y el desorden se muestran con objetos y detalles concretos",
+        "(b) imagen original o vocabulario preciso (no clichés como «pequeña como una caja de zapatos»)"
+      ],
+      "model": "(a) El abuelo removía el café sin beberlo, con la mirada fija en la silla vacía al otro lado de la mesa.\n(b) En la cocina apenas cabían dos personas de lado; las cacerolas se apilaban en el fregadero como una torre a punto de derrumbarse y sobre la encimera se mezclaban migas, facturas y cáscaras de naranja.",
+      "tip": "No use la palabra de la emoción («triste», «desordenada»): deje que el lector la deduzca."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Un alumno eligió el título descriptivo «Describa una playa en invierno» y empezó así:\n\n«Un día de enero fui a la playa con mi amigo Javi. Hacía mucho frío. De repente Javi vio algo raro en la arena y corrimos a verlo. Era una botella con un mensaje. La abrimos y…»\n\n(a) Explique dos problemas de este comienzo para una composición descriptiva. [2]\n(b) Reescriba la primera frase y añada una segunda para que el comienzo sea descriptivo. [2]",
+      "ms": [
+        "(a) convierte la descripción en una narración / se centra en acciones y en una trama (la botella), no en el lugar",
+        "(a) lenguaje vago y poco sensorial («mucho frío», «algo raro»); no hay detalles del lugar ni de los sentidos",
+        "(a) frases simples y repetitivas / sin imágenes",
+        "(b) frase centrada en el lugar y la atmósfera, con detalles sensoriales precisos",
+        "(b) vocabulario preciso o imagen original, tiempos de la descripción (imperfecto / presente)"
+      ],
+      "model": "(a) Primero, el texto cuenta una historia (el descubrimiento de la botella) en vez de describir la playa, por lo que perdería puntos de contenido. Segundo, el lenguaje es pobre y vago: «mucho frío» o «algo raro» no permiten al lector ver ni sentir el lugar.\n(b) En enero la playa era una franja gris y desierta, barrida por un viento que levantaba la arena como un polvo fino y helado. Las olas llegaban cansadas a la orilla y se retiraban sin ruido, dejando un encaje de espuma sucia sobre las algas.",
+      "tip": "Si el título dice «Describa», no cuente una historia: mueva la «cámara» por el lugar y use los cinco sentidos."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Escriba una composición descriptiva con el título:\n\n«La cocina de una casa el día de una gran celebración familiar»\n\nEscriba unas 250–300 palabras (versión breve para práctica).",
+      "ms": [
+        "se mantiene descriptiva: se centra en el lugar, el ambiente y las personas, sin una trama desarrollada",
+        "uso de varios sentidos (olores, sonidos, texturas, sabores, además de la vista)",
+        "estructura que guía al lector (panorama → detalle; cambio a lo largo del tiempo; cierre con imagen final)",
+        "detalles precisos y originales; imágenes bien elegidas, sin abusar de clichés",
+        "variedad de frases (largas descriptivas y cortas de impacto) y de vocabulario",
+        "control de los tiempos (imperfecto o presente) y corrección: tildes, puntuación, concordancias"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Contenido y estructura: descripción muy evocadora y coherente, detalles originales y sensoriales que crean una atmósfera clara; estructura cuidadosamente diseñada. Estilo y corrección: vocabulario rico y preciso, frases variadas para lograr efectos, muy pocos errores."},
+        {"m": "5–6", "d": "Contenido y estructura: descripción clara con algunos detalles eficaces y uso de varios sentidos; organización adecuada. Estilo y corrección: vocabulario apropiado con cierta variedad; algunos errores que no dificultan la lectura."},
+        {"m": "3–4", "d": "Contenido y estructura: descripción sencilla, con tendencia a enumerar o a narrar; detalles generales. Estilo y corrección: vocabulario limitado o repetitivo, frases poco variadas, errores frecuentes de tildes y puntuación."},
+        {"m": "1–2", "d": "Contenido y estructura: poco descriptiva o muy breve; organización confusa. Estilo y corrección: vocabulario básico y errores que dificultan la comprensión."}
+      ],
+      "model": "A las once de la mañana, la cocina de la abuela ya era un pequeño volcán. Por la ventana empañada apenas se adivinaba el patio, y el aire, espeso y dulce, olía a cebolla dorada, a laurel y a la canela del arroz con leche que se enfriaba en la repisa.\n\nSobre los fogones, cuatro ollas murmuraban a la vez, como vecinas que se cuentan secretos. La tapa de la más grande temblaba con un tintineo nervioso. En la mesa de madera, cubierta de harina, se alineaban las empanadillas recién cerradas, con sus bordes rizados como encajes, esperando su turno junto a una montaña de servilletas planchadas.\n\nEn medio de aquel desorden, la abuela se movía con la calma de un director de orquesta. Probaba el caldo con la cuchara de palo, entrecerraba los ojos y añadía una pizca de sal sin decir palabra. Mis tías entraban y salían, rozándose en el pasillo estrecho, con fuentes que humeaban y bandejas que tintineaban. Alguien reía en el salón. Alguien pedía más hielo.\n\nA mediodía, la luz cambió. Un rayo de sol atravesó el vapor y convirtió el aire en un velo dorado en el que flotaban motas de harina. Por un instante, todo pareció detenerse: el chisporroteo del aceite, el roce de los cuchillos, el reloj de la pared.\n\nDespués, la puerta se abrió de golpe y el ruido de la familia invadió la cocina. La abuela se secó las manos en el delantal, miró las ollas una última vez y sonrió. Todo estaba listo.",
+      "tip": "Organice la descripción en el tiempo o en el espacio (de lo general al detalle) y cierre con una imagen que resuma el ambiente."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Escriba una composición narrativa que termine con estas palabras:\n\n«…y entonces comprendí por qué mi hermano nunca hablaba de aquel verano.»\n\nEscriba unas 250–300 palabras (versión breve para práctica).",
+      "ms": [
+        "historia con estructura clara: planteamiento, nudo (complicación), clímax y desenlace",
+        "el final dado se integra con sentido / da significado a la historia, no se añade de forma forzada",
+        "creación de tensión o misterio (revelación aplazada, frases cortas en momentos clave)",
+        "personajes convincentes: emociones mostradas mediante acciones y detalles",
+        "comienzo eficaz (in medias res, diálogo o imagen llamativa)",
+        "diálogo, si lo hay, puntuado con raya",
+        "uso correcto de indefinido (acciones) e imperfecto (fondo); tildes en los pasados",
+        "vocabulario variado y preciso; frases de distinta longitud"
+      ],
+      "levels": [
+        {"m": "7–8", "d": "Contenido y estructura: narración muy bien construida, con tensión creciente y un final que da sentido pleno a las palabras dadas; personajes creíbles. Estilo y corrección: lenguaje preciso y variado, tiempos verbales bien controlados, diálogo correcto, muy pocos errores."},
+        {"m": "5–6", "d": "Contenido y estructura: historia clara y coherente con cierto interés; el final encaja razonablemente. Estilo y corrección: vocabulario adecuado, algunos errores de tiempos, tildes o puntuación."},
+        {"m": "3–4", "d": "Contenido y estructura: historia sencilla o con demasiados sucesos; el final dado parece añadido. Estilo y corrección: vocabulario limitado, mezcla de tiempos sin control, errores frecuentes."},
+        {"m": "1–2", "d": "Contenido y estructura: narración confusa o muy breve, sin relación clara con el final. Estilo y corrección: errores que dificultan la comprensión."}
+      ],
+      "model": "La caja apareció detrás del calentador, envuelta en una bolsa de plástico y cubierta de polvo. Yo solo buscaba el cable de la bicicleta.\n\n—¿Qué haces ahí arriba? —gritó mamá desde la cocina.\n—Nada —mentí, y bajé la caja al suelo del trastero.\n\nDentro había una camiseta del campamento de verano de Pedrosa, con el logo descolorido, una linterna sin pilas y un cuaderno con la letra de mi hermano Álex. Tenía doce años entonces; ahora tiene veinte y vive en otra ciudad. Abrí el cuaderno por la mitad.\n\n«Día 9. Hoy Rubén no ha vuelto al refugio. Los monitores dicen que se ha ido a casa, pero su mochila sigue aquí».\n\nSentí un frío extraño en la nuca. Pasé las páginas deprisa. Las frases se volvían cada vez más cortas, la letra más torcida.\n\n«Día 10. Nadie habla de él. Yo sé lo que vi en el lago».\n\nY después, nada. Diez páginas en blanco.\n\nEsa noche busqué en internet el nombre del campamento. Apareció una noticia antigua: un niño de once años se había perdido en el bosque y lo encontraron dos días después, con hipotermia, junto a la orilla. Lo había descubierto un chico del campamento que salió solo a buscarlo de madrugada, contra las normas. La noticia no daba su nombre, pero mostraba una foto borrosa: un niño delgado, envuelto en una manta, con la misma camiseta que yo tenía en las manos.\n\nRecordé cómo Álex cambiaba de tema cada vez que alguien mencionaba los campamentos, cómo dormía siempre con la luz del pasillo encendida. Guardé el cuaderno, cerré la caja y la devolví a su sitio, detrás del calentador, y entonces comprendí por qué mi hermano nunca hablaba de aquel verano.",
+      "tip": "Planifique el final antes de empezar: la historia debe conducir de forma natural a las palabras dadas."
+    }
+  ]
+}

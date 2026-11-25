@@ -1,0 +1,86 @@
+{
+  "id": "cs-r1-12",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State the output of each gate:\n(a) a NOR gate with inputs A = 0, B = 1 [1]\n(b) a NAND gate with inputs A = 0, B = 0 [1]",
+      "ms": [
+        "(a) 0",
+        "(b) 1"
+      ],
+      "model": "(a) A OR B = 1, so NOR gives 0.\n(b) A AND B = 0, so NAND gives 1.",
+      "tip": "NOR and NAND are just OR and AND with the output inverted."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Write a logic expression for this statement:\nAn alarm (X) sounds if the door is open (D = 1) and the system is armed (S = 1), or if the panic button is pressed (P = 1).",
+      "ms": [
+        "(D AND S) (1)",
+        "… OR P, giving X = (D AND S) OR P (1)"
+      ],
+      "model": "X = (D AND S) OR P",
+      "tip": "Use brackets to show which part is worked out first."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Complete the truth table for X = (A NOR B) OR (B AND C).\nA B C | X\n0 0 0 |\n0 0 1 |\n0 1 0 |\n0 1 1 |\n1 0 0 |\n1 0 1 |\n1 1 0 |\n1 1 1 |",
+      "ms": [
+        "rows 000, 001: 1, 1 (1)",
+        "rows 010, 011: 0, 1 (1)",
+        "rows 100, 101: 0, 0 (1)",
+        "rows 110, 111: 0, 1 (1)",
+        "alternative marking: 8 correct = 4, 6–7 = 3, 4–5 = 2, 2–3 = 1"
+      ],
+      "model": "A B C | X\n0 0 0 | 1\n0 0 1 | 1\n0 1 0 | 0\n0 1 1 | 1\n1 0 0 | 0\n1 0 1 | 0\n1 1 0 | 0\n1 1 1 | 1",
+      "tip": "Add working columns for A NOR B and B AND C before finding X."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A cooling fan (F) is switched on when the temperature is high (T = 1) and either the machine is running (M = 1) or the eco-mode switch is off (E = 0).\n(a) Write the logic expression for F. [2]\n(b) Describe the logic circuit for F, naming each gate and its inputs. [2]",
+      "ms": [
+        "(a) M OR NOT E (1)",
+        "(a) F = T AND (M OR NOT E) (1)",
+        "(b) a NOT gate with input E, and an OR gate with inputs M and NOT E (1)",
+        "(b) an AND gate with inputs T and the output of the OR gate, giving F (1)"
+      ],
+      "model": "(a) F = T AND (M OR NOT E)\n(b) E goes into a NOT gate. The output of the NOT gate and M go into an OR gate. The output of the OR gate and T go into an AND gate, whose output is F.",
+      "tip": "'Is off' (= 0) means you need a NOT gate on that input."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A logic circuit is built as follows:\n• A and B are the inputs to an XOR gate\n• B and C are the inputs to a NAND gate\n• the outputs of the XOR gate and the NAND gate are the inputs to an AND gate, whose output is X.\n(a) Write the logic expression for X. [2]\n(b) Complete the truth table for the circuit (inputs A, B, C in the order 000 to 111). [4]",
+      "ms": [
+        "(a) (A XOR B) and (B NAND C) (1)",
+        "(a) X = (A XOR B) AND (B NAND C) (1)",
+        "(b) rows 000, 001: 0, 0 (1)",
+        "(b) rows 010, 011: 1, 0 (1)",
+        "(b) rows 100, 101: 1, 1 (1)",
+        "(b) rows 110, 111: 0, 0 (1)"
+      ],
+      "model": "(a) X = (A XOR B) AND (B NAND C)\n(b)\nA B C | A XOR B | B NAND C | X\n0 0 0 |    0    |    1     | 0\n0 0 1 |    0    |    1     | 0\n0 1 0 |    1    |    1     | 1\n0 1 1 |    1    |    0     | 0\n1 0 0 |    1    |    1     | 1\n1 0 1 |    1    |    1     | 1\n1 1 0 |    0    |    1     | 0\n1 1 1 |    0    |    0     | 0",
+      "tip": "Working columns for each gate make errors far less likely."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A lift (X) can move when the door is closed (D = 1) and the load is not over the limit (L = 0), or when the maintenance key is turned (K = 1) and the door is closed.\n(a) Write the logic expression for X. [3]\n(b) Complete the truth table for X (inputs D, L, K in the order 000 to 111). [4]",
+      "ms": [
+        "(a) D AND NOT L (1)",
+        "(a) K AND D (1)",
+        "(a) X = (D AND NOT L) OR (K AND D) (1)",
+        "(b) rows 000, 001: 0, 0 (1)",
+        "(b) rows 010, 011: 0, 0 (1)",
+        "(b) rows 100, 101: 1, 1 (1)",
+        "(b) rows 110, 111: 0, 1 (1)",
+        "(b) alternative marking: 8 correct = 4, 6–7 = 3, 4–5 = 2, 2–3 = 1"
+      ],
+      "model": "(a) X = (D AND NOT L) OR (K AND D)\n(b)\nD L K | X\n0 0 0 | 0\n0 0 1 | 0\n0 1 0 | 0\n0 1 1 | 0\n1 0 0 | 1\n1 0 1 | 1\n1 1 0 | 0\n1 1 1 | 1",
+      "tip": "When the door is open (D = 0) the lift can never move, so the first four rows are all 0."
+    }
+  ]
+}

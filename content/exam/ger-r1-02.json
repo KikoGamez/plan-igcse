@@ -1,0 +1,88 @@
+{
+ "id": "ger-r1-02",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Ergänzen Sie die Verben im Präsens.\n„Mein Bruder ___ (essen) kein Fleisch, und meine Schwester ___ (sprechen) drei Sprachen.“",
+   "ms": [
+    "isst",
+    "spricht"
+   ],
+   "model": "Mein Bruder isst kein Fleisch, und meine Schwester spricht drei Sprachen.",
+   "tip": "Stem-changing verbs change only in the du and er/sie/es forms: ich esse, du isst, er isst."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Schreiben Sie die Sätze im Präsens. Achten Sie auf trennbare und reflexive Verben.\n(a) Der Bus (abfahren) um 7.15 Uhr.\n(b) Du (sich freuen) auf die Ferien.\n(c) Ihr (fernsehen) jeden Abend.",
+   "ms": [
+    "(a) Der Bus fährt um 7.15 Uhr ab. (fährt + ab at the end both needed)",
+    "(b) Du freust dich auf die Ferien. (freust + dich)",
+    "(c) Ihr seht jeden Abend fern. (seht + fern at the end)"
+   ],
+   "model": "(a) Der Bus fährt um 7.15 Uhr ab.\n(b) Du freust dich auf die Ferien.\n(c) Ihr seht jeden Abend fern.",
+   "tip": "Separable prefix goes to the end; stem-changing verbs change only in the du and er/sie/es forms: er fährt, but ihr seht."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Ihr deutscher Freund sagt seiner Oma, wie sie zum Konzert kommt. Er benutzt die du-Form. Schreiben Sie die Anweisungen in der Sie-Form.\n(a) Nimm den Bus Nummer 5!\n(b) Steig am Marktplatz aus!\n(c) Sei bitte pünktlich!\n(d) Iss vorher etwas!",
+   "ms": [
+    "(a) Nehmen Sie den Bus Nummer 5!",
+    "(b) Steigen Sie am Marktplatz aus!",
+    "(c) Seien Sie bitte pünktlich!",
+    "(d) Essen Sie vorher etwas!",
+    "Sie must follow the verb; Sie with a capital S"
+   ],
+   "model": "(a) Nehmen Sie den Bus Nummer 5! (b) Steigen Sie am Marktplatz aus! (c) Seien Sie bitte pünktlich! (d) Essen Sie vorher etwas!",
+   "tip": "The Sie-imperative is the infinitive + Sie; the only irregular one is „Seien Sie“."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "In diesem Text gibt es vier Verbfehler. Finden und korrigieren Sie sie.\n„Hallo! Ich heiße Tom und bin fünfzehn. Mein Vater arbeitet in Berlin und er fahrt jeden Tag mit dem Zug. Meine Schwester lest gern Romane. Am Wochenende wir gehen oft ins Kino. Mein Bruder schläft lange und er aufsteht erst um elf.“",
+   "ms": [
+    "fahrt → fährt",
+    "lest → liest",
+    "wir gehen → gehen wir (verb second after Am Wochenende)",
+    "er aufsteht → er steht (erst um elf) auf",
+    "Correction must be in the right place; ignore other changes that are not errors"
+   ],
+   "model": "1 er fährt  2 Meine Schwester liest  3 Am Wochenende gehen wir oft ins Kino.  4 er steht erst um elf auf.",
+   "tip": "Check every verb for three things: right ending, vowel change, position."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Schreiben Sie etwa 50 Wörter über Ihren Alltag im Präsens. Sie müssen benutzen:\n• zwei trennbare Verben\n• ein reflexives Verb\n• zwei verschiedene starke Verben (mit Vokalwechsel) in der er/sie-Form\n• seit + Präsens",
+   "ms": [
+    "1 mark: first separable verb correctly split (e.g. ich stehe … auf)",
+    "1 mark: second separable verb correctly split (e.g. ich sehe … fern / rufe … an)",
+    "1 mark: reflexive verb with correct pronoun (e.g. ich ziehe mich an / wasche mich)",
+    "1 mark: first strong verb in er/sie form with vowel change (e.g. mein Bruder schläft)",
+    "1 mark: second strong verb in er/sie form with vowel change (e.g. meine Mutter fährt / liest / isst / nimmt)",
+    "1 mark: seit + present tense used correctly (e.g. Ich lerne seit zwei Jahren Deutsch)",
+    "Each structure must be correct to score; meaning must be clear"
+   ],
+   "model": "Ich stehe jeden Tag um halb sieben auf und ziehe mich schnell an. Mein Bruder schläft immer lange, deshalb ist er oft spät. Meine Mutter fährt uns mit dem Auto zur Schule. Ich lerne seit drei Jahren Deutsch. Am Abend sehe ich ein bisschen fern, und mein Vater liest die Zeitung.",
+   "tip": "Plan your sentences around the required structures first, then add details."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 3 Speaking (topic conversation) style. Beantworten Sie die Fragen in ganzen Sätzen auf Deutsch. Geben Sie in jeder Antwort ein Detail mehr.\n(a) Was machst du normalerweise am Wochenende?\n(b) Wie lange lernst du schon Deutsch?\n(c) Was isst dein bester Freund / deine beste Freundin gern?",
+   "ms": [
+    "(a) relevant answer in present tense [1]",
+    "(a) extra detail or opinion, accurately expressed [1]",
+    "(b) seit + time + present tense, e.g. Ich lerne seit vier Jahren Deutsch [1]",
+    "(b) extra detail (e.g. weil … / in der Schule) [1]",
+    "(c) correct er/sie form isst [1]",
+    "(c) extra detail (e.g. aber er isst nicht gern Gemüse) [1]",
+    "Allow minor errors that do not affect the verb form being tested"
+   ],
+   "model": "(a) Am Wochenende spiele ich Basketball im Verein und am Sonntag besuche ich meine Großeltern.\n(b) Ich lerne seit vier Jahren Deutsch, weil meine Mutter aus Österreich kommt.\n(c) Meine beste Freundin isst gern Pizza, aber sie isst nie Fisch.",
+   "tip": "In English you say 'I have been learning'; German uses the present tense with seit."
+  }
+ ]
+}

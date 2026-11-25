@@ -1,0 +1,101 @@
+{
+  "id": "geo-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Name the instrument used to measure:\n(a) the highest and lowest temperatures in a day [1]\n(b) wind direction. [1]",
+      "ms": [
+        "(a) maximum–minimum thermometer (allow Six's thermometer)",
+        "(b) wind vane (allow weather vane)"
+      ],
+      "model": "(a) A maximum–minimum (Six's) thermometer.\n(b) A wind vane.",
+      "tip": "An anemometer measures wind SPEED, not direction."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "The maximum temperatures at a weather station over five days were:\n21 °C, 24 °C, 19 °C, 26 °C, 20 °C\n(a) Calculate the mean maximum temperature. [2]\n(b) Calculate the range of the maximum temperatures. [1]",
+      "ms": [
+        "(a) M1: (21 + 24 + 19 + 26 + 20) ÷ 5 or 110 ÷ 5",
+        "(a) A1: 22 °C",
+        "(b) 7 °C (26 − 19)"
+      ],
+      "model": "(a) 21 + 24 + 19 + 26 + 20 = 110; 110 ÷ 5 = 22 °C.\n(b) 26 − 19 = 7 °C.",
+      "tip": "Always include the unit, °C."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how a rain gauge should be sited and used to measure daily rainfall.",
+      "ms": [
+        "sited in an open area away from buildings / trees (1) so rain is not blocked / no drips from leaves (1)",
+        "sunk into the ground with the rim about 30 cm above the surface (1) to stop it being knocked over / to stop rain splashing in from the ground (1)",
+        "rainwater collects in a container / funnel stops evaporation (1)",
+        "emptied into a measuring cylinder at the same time each day (1)",
+        "read at eye level (bottom of the meniscus), recorded in mm (1)"
+      ],
+      "model": "The rain gauge should be placed in an open site away from buildings and trees so that rain is not blocked and water does not drip in from leaves. It is sunk into the ground so it cannot blow over, with the rim about 30 cm above the ground so rain does not splash in. The funnel leads rain into a collecting container, which reduces evaporation. Every day at the same time the water is poured into a measuring cylinder, read at eye level, and the rainfall is recorded in millimetres before the gauge is emptied."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how relative humidity is measured using wet- and dry-bulb thermometers (a hygrometer).",
+      "ms": [
+        "two thermometers, one with its bulb kept wet by muslin / cloth dipped in (distilled) water (1)",
+        "water evaporates from the wet bulb, which cools it (1)",
+        "the dry bulb shows the air temperature (1)",
+        "read both and calculate the difference between them (1)",
+        "use humidity / psychrometric tables to find relative humidity (1)",
+        "small difference = high humidity (little evaporation); large difference = low humidity (1)"
+      ],
+      "model": "A hygrometer has two thermometers. The dry bulb measures the air temperature. The wet bulb is wrapped in muslin that dips into a reservoir of water, and evaporation from the muslin cools it, so it reads lower. Both temperatures are read and the difference is calculated. This difference is looked up in humidity tables to give the relative humidity. A small difference means little evaporation, so the air is humid; a large difference means dry air."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Climate data for a weather station at 23° N:\nMonth:     J  F  M  A  M  J  J  A  S  O  N  D\nTemp (°C): 14 16 20 25 29 32 33 32 30 25 20 15\nRain (mm):  3  2  2  1  0  0  0  0  0  1  2  4\n(a) Calculate the annual temperature range. [1]\n(b) Calculate the total annual rainfall. [1]\n(c) Describe the climate shown. [3]",
+      "ms": [
+        "(a) 19 °C (33 − 14)",
+        "(b) 15 mm",
+        "(c) very hot summers, maximum 33 °C in July (1)",
+        "(c) warm / mild winters, minimum 14 °C in January (1)",
+        "(c) very low rainfall / arid – well below 250 mm a year (1)",
+        "(c) several months with no rain, May–September (1); slightly more rain in winter (1)",
+        "(c) credit identification as a hot desert climate only with supporting data"
+      ],
+      "model": "(a) 33 − 14 = 19 °C.\n(b) 3 + 2 + 2 + 1 + 0 + 0 + 0 + 0 + 0 + 1 + 2 + 4 = 15 mm.\n(c) This is a hot desert climate. Summers are very hot, reaching 33 °C in July, while winters are mild, with a minimum of 14 °C in January, giving a large annual range of 19 °C. It is extremely dry: only 15 mm of rain falls in the year, there is no rain at all from May to September, and the little rain that falls comes in winter.",
+      "tip": "In 'describe' questions quote figures with months and units."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "Compare the climates of equatorial regions and hot deserts, and explain the differences.",
+      "ms": [
+        "temperature: equatorial hot all year, about 26–28 °C, very small annual range (2–3 °C); deserts very hot summers (30 °C +), cooler winters, larger annual range",
+        "explanation: equatorial sun overhead / high all year so insolation constant; deserts further from the equator, sun angle changes more with season",
+        "daily range: small in equatorial regions (cloud cover traps heat at night); very large in deserts (clear skies, heat lost quickly at night, dry air)",
+        "rainfall: equatorial over 2,000 mm, rain all year, convectional storms in afternoon; deserts under 250 mm, unreliable",
+        "explanation of rain: equatorial – intense heating, rising air, low pressure, condensation, convectional rain; deserts – sinking air / high pressure, air warms as it sinks, no condensation; cold ocean currents / distance from sea / rain shadow",
+        "humidity / cloud: equatorial very humid and cloudy; deserts low humidity and cloudless",
+        "uses comparative language and data"
+      ],
+      "model": "Both climates are hot, but in different ways. Equatorial regions are hot all year, around 26–28 °C every month, so the annual range is only about 2 °C. This is because the sun is always high in the sky near the equator. Hot deserts, at about 15–30° N and S, have very hot summers above 30 °C but cooler winters, so their annual range is larger, because the angle of the sun changes more through the year.\nThe daily range also differs. In equatorial areas thick cloud traps heat at night, so nights stay warm. Deserts have clear skies and dry air, so heat is lost quickly at night and temperatures can drop by over 20 °C.\nThe biggest difference is rainfall. Equatorial areas receive over 2,000 mm a year, with heavy convectional storms most afternoons: strong heating makes air rise, cool and condense into cumulonimbus clouds. Hot deserts get less than 250 mm because air sinks there, creating high pressure; sinking air warms, so water vapour does not condense and clouds rarely form.",
+      "tip": "Use comparative words (whereas, but, higher than) and explain each difference, not just describe it.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed comparisons that are clearly explained (temperature, daily range, rainfall, humidity), with supporting figures."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three comparisons with some explanation, or one developed and explained difference; some figures."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple statements, often about one climate only; little or no explanation."
+        }
+      ]
+    }
+  ]
+}

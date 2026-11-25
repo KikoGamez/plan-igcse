@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Solve the inequality 3(2x − 1) < 4x + 9.",
+      "ms": [
+        "M1: 6x − 3 < 4x + 9 or 2x < 12",
+        "A1: x < 6"
+      ],
+      "model": "6x − 3 < 4x + 9\n2x < 12\nx < 6",
+      "tip": "The final answer must be an inequality: x = 6 or just 6 does not score the A mark."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The nth term of a sequence is n² − 3n.\n(a) Write down the first three terms. [1]\n(b) Find the 10th term. [1]",
+      "ms": [
+        "(a) B1: −2, −2, 0",
+        "(b) B1: 70"
+      ],
+      "model": "(a) n = 1: 1 − 3 = −2; n = 2: 4 − 6 = −2; n = 3: 9 − 9 = 0.\n(b) n = 10: 100 − 30 = 70.",
+      "tip": "Substitute carefully: n² − 3n with n = 2 is 4 − 6 = −2."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The points (x, y) have integer coordinates and satisfy all three inequalities\nx ≥ 1     y > x     x + y ≤ 6\n(a) List all the points (x, y). [3]\n(b) Find the greatest value of 2x + y for these points. [1]",
+      "ms": [
+        "(a) B1: (1, 2), (1, 3), (1, 4), (1, 5) all listed",
+        "(a) B1: (2, 3) and (2, 4) both listed",
+        "(a) B1: no extra points (e.g. not (1, 1), (2, 2) or (3, 3))",
+        "(b) B1: 8 FT their list"
+      ],
+      "model": "(a) x = 1: y > 1 and y ≤ 5, so y = 2, 3, 4, 5.\nx = 2: y > 2 and y ≤ 4, so y = 3, 4.\nx = 3: y > 3 and y ≤ 3 is impossible.\nPoints: (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4).\n(b) 2x + y is largest at (2, 4): 4 + 4 = 8.",
+      "tip": "Strict inequalities (<, >) exclude the boundary; ≤ and ≥ include it."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "y is directly proportional to (x + 1)². When x = 2, y = 36.\n(a) Find a formula for y in terms of x. [2]\n(b) Find the positive value of x when y = 100. [2]",
+      "ms": [
+        "(a) M1: y = k(x + 1)² and 36 = k × 3²",
+        "(a) A1: y = 4(x + 1)²",
+        "(b) M1: (x + 1)² = 25 FT their k",
+        "(b) A1: x = 4"
+      ],
+      "model": "(a) y = k(x + 1)². 36 = k × 9, so k = 4. y = 4(x + 1)².\n(b) 100 = 4(x + 1)² → (x + 1)² = 25 → x + 1 = 5 → x = 4.",
+      "tip": "Write the proportion with k first, then find k: that is the method mark."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "Here are the first five terms of three sequences.\nSequence A: 7, 11, 15, 19, 23, …\nSequence B: 3, 9, 27, 81, 243, …\nSequence C: 3, 8, 15, 24, 35, …\n(a) Find the nth term of sequence A. [2]\n(b) Find the nth term of sequence B. [1]\n(c) Find the nth term of sequence C. [2]\n(d) Which term of sequence C is equal to 255? [2]",
+      "ms": [
+        "(a) M1: 4n + k (difference 4 seen)",
+        "(a) A1: 4n + 3",
+        "(b) B1: 3ⁿ",
+        "(c) M1: second difference 2 seen, or n² + bn + c with one correct coefficient",
+        "(c) A1: n² + 2n oe, e.g. (n + 1)² − 1",
+        "(d) M1: n² + 2n = 255 FT their (c), or n² + 2n − 255 = 0 and attempt to solve",
+        "(d) A1: 15th term (n = 15)"
+      ],
+      "model": "(a) Difference 4: 4n + 3 (because 4 × 1 + 3 = 7).\n(b) Powers of 3: 3ⁿ.\n(c) Differences 5, 7, 9, 11; second difference 2, so the sequence starts n².\nSubtract n²: 3 − 1 = 2, 8 − 4 = 4, 15 − 9 = 6, … which is 2n.\nnth term = n² + 2n.\n(d) n² + 2n = 255 → n² + 2n − 255 = 0 → (n + 17)(n − 15) = 0 → n = 15.\nIt is the 15th term.",
+      "tip": "Halve the second difference to get the coefficient of n²."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "The intensity, I, of light from a lamp is inversely proportional to the square of the distance, d, from the lamp.\n(a) I = 50 when d = 4. Find d when I = 8. [3]\n(b) The distance d is increased by 25%. Find the percentage decrease in I. [2]",
+      "ms": [
+        "(a) M1: I = k/d²",
+        "(a) M1: k = 50 × 16 = 800",
+        "(a) A1: d = 10",
+        "(b) M1: 1/1.25² (= 0.64) oe",
+        "(b) A1: 36%"
+      ],
+      "model": "(a) I = k/d². 50 = k/16, so k = 800.\n8 = 800/d² → d² = 100 → d = 10.\n(b) New d = 1.25d, so new I = k/(1.25d)² = I/1.5625 = 0.64I.\nI is multiplied by 0.64, so it decreases by 36%.",
+      "tip": "For (b), you do not need a value of k: think about what happens to I when d is multiplied by 1.25."
+    }
+  ]
+}

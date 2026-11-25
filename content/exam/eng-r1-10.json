@@ -1,0 +1,118 @@
+{
+  "id": "eng-r1-10",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Replace each cliché with a fresher, more precise image suitable for a descriptive composition.\n(a) “It was as cold as ice.” [1]\n(b) “The sun was shining brightly in the sky.” [1]",
+      "ms": [
+        "(a) An original, precise image of cold, e.g. “The cold bit through my gloves and settled in my knuckles like broken glass.” (1)",
+        "(b) An original, precise image of sunlight, e.g. “Sunlight glared off every windscreen, sharp as a struck match.” (1)"
+      ],
+      "model": "(a) The cold crept through my gloves and settled in my knuckles like splinters of glass.\n(b) Sunlight glared off every windscreen, sharp as a struck match.",
+      "tip": "Fresh images often come from a precise verb plus a surprising but fitting comparison. Marking: No credit for another cliché (e.g. ‘freezing cold’, ‘like a ball of fire’)."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "For the composition title “Describe a hospital corridor at night”, give one precise detail for each of two senses OTHER than sight. [2]",
+      "ms": [
+        "Sound, e.g. the squeak of rubber soles on polished floor / the steady beep of a distant monitor / a trolley wheel rattling (1)",
+        "Smell, e.g. the sharp sting of disinfectant / stale coffee from the nurses’ station (1)",
+        "Touch/temperature, e.g. the cold metal of a handrail / dry, recycled air on the skin (1)"
+      ],
+      "model": "Sound: the squeak of a nurse’s rubber soles on the polished floor.\nSmell: the sharp, stinging scent of disinfectant.",
+      "tip": "Specific beats general: not ‘it smelled clean’ but ‘the sting of disinfectant’. Marking: Two different senses required; details must be specific, not general (‘it was noisy’)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Rewrite this paragraph to improve its sentence variety and vocabulary. Keep it descriptive.\n\n“The market was busy. There were lots of people. The stalls had fruit on them. A man was shouting. The smell was nice. It was very hot.” [4]",
+      "ms": [
+        "Uses at least one complex sentence (subordinate clause) correctly (1)",
+        "Varies sentence openings (e.g. prepositional phrase, -ing/-ed opener, adverbial) (1)",
+        "Replaces vague words (‘busy’, ‘lots’, ‘nice’, ‘very hot’) with precise vocabulary/images (1)",
+        "Uses a short or minor sentence deliberately for effect, and remains descriptive and accurate (1)"
+      ],
+      "model": "Under a white-hot sky, the market heaved with bodies. Pyramids of mangoes and blood oranges glowed on every stall, while a stallholder in a stained apron bellowed prices over the crowd. The air was thick with ripe fruit and frying dough. Heat. Noise. Colour everywhere.",
+      "tip": "Replace every vague adjective with a precise noun or verb doing the work."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Plan a descriptive composition for the title “Describe a city street during and after a heavy storm”.\nUse a ‘before/after’ (time-shift) structure. Give four paragraph headings with one key image or detail for each, and show how your ending will link back to your opening. [4]",
+      "ms": [
+        "Clear time-shift structure across the paragraphs (during the storm → aftermath) (1)",
+        "Each paragraph has a specific focus with a key image/detail (not plot events) (1)",
+        "Variety of focus (wide view, close detail, people/sounds/light) (1)",
+        "Ending deliberately echoes/contrasts with the opening (circular link) (1)"
+      ],
+      "model": "1. Storm at its height: rain hammering the street, gutters overflowing, a neon sign flickering through the downpour.\n2. Close-up during the storm: an abandoned umbrella cartwheeling along the pavement; shop awnings sagging.\n3. Just after: sudden silence, drips from balconies, puddles reflecting broken clouds.\n4. Life returns: shopkeepers sweeping water, a child jumping in puddles, the neon sign steady again – echoing the flicker of the opening.",
+      "tip": "A descriptive structure is about shifts in time, place or focus — not events in a plot."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Write the opening paragraph (about 100 words) of a descriptive composition with the title:\n“Describe the scene at a train station as the last train of the night prepares to leave.” [6]",
+      "ms": [
+        "Indicative content:",
+        "Establishes time and atmosphere immediately (late night, quiet, tired)",
+        "Specific sensory details (sound of announcements, smell of diesel/coffee, cold air)",
+        "Imagery that is original and consistent with the mood",
+        "Precise vocabulary; varied sentence structures, including short sentences for effect",
+        "Remains descriptive — no plot developing",
+        "Accurate spelling and punctuation"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Content and structure: vivid, original details that build a clear atmosphere; stays descriptive. Style and accuracy: precise, ambitious vocabulary; varied sentences used for effect; almost no errors."
+        },
+        {
+          "m": "3–4",
+          "d": "Relevant description with some effective details and images; some sentence variety; vocabulary mostly appropriate; errors do not block meaning."
+        },
+        {
+          "m": "1–2",
+          "d": "Simple, list-like or clichéd description, or drifts into narrative; limited vocabulary; errors frequent."
+        }
+      ],
+      "model": "The station clock has already given up on the day; its hands hang at a quarter to midnight like tired arms. Under the platform lights, everything is the colour of weak tea. A cleaner pushes his mop in slow arcs, erasing the footprints of the evening crowds, while pigeons huddle on the rafters, feathers puffed against the cold. Somewhere, a vending machine hums to itself. The last train waits, doors open, breathing diesel into the night. Its windows glow, yellow and half-empty, each one framing a stranger with nowhere else to be.",
+      "tip": "Set the mood in the first sentence — the examiner should feel the atmosphere straight away."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Write two paragraphs (about 200 words in total) for a descriptive composition with the title:\n“Describe a place you know well as it changes from day to night.”\nThe first paragraph should describe the place in daylight and the second at night, so that the two paragraphs contrast. [8]",
+      "ms": [
+        "Indicative content:",
+        "Clear, deliberate contrast between day and night (light, sound, movement, mood)",
+        "Same place recognisable in both paragraphs, with details that change (e.g. the same bench, tree, shop)",
+        "Range of senses and precise, original images",
+        "Varied sentence structures for effect (e.g. long flowing sentences by day, short ones at night)",
+        "Stays descriptive — any people are part of the scene, not a plot",
+        "Accurate spelling, punctuation and grammar"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Content and structure: highly effective, original description with a deliberate structure (clear contrast/shift, possibly circular); consistently descriptive; detail selected for atmosphere. Style and accuracy: precise, ambitious vocabulary and controlled imagery; sentences varied for effect; very accurate."
+        },
+        {
+          "m": "5–6",
+          "d": "Effective description with a clear structure and some well-chosen images; vocabulary often precise; sentence variety; mostly accurate."
+        },
+        {
+          "m": "3–4",
+          "d": "Relevant description with some detail; structure simple; vocabulary plain or clichéd in places; some errors."
+        },
+        {
+          "m": "1–2",
+          "d": "Limited or list-like description, or mainly narrative; little structure; frequent errors."
+        }
+      ],
+      "model": "By day, the park belongs to everyone. Toddlers stagger across the grass after pigeons that never quite let themselves be caught, while joggers thud past the bandstand, earbuds leaking tinny music. The fountain throws handfuls of light into the air, and an old man on the green bench scatters breadcrumbs with the patience of a priest giving blessings. Even the litter bins overflow cheerfully with ice-cream wrappers. The whole place smells of cut grass and sun cream, and the noise never quite stops: shrieks from the swings, a dog barking, the ice-cream van’s tinny tune.\nAt night, the park shrinks. The gates clang shut and the paths dissolve into shadow. The fountain is silent now, its basin a black mirror holding a single trembling moon. The green bench is empty, though the breadcrumbs remain, grey as ash. Wind combs the tall grass. A fox slips beneath the hedge, there and gone. Only the bandstand keeps watch, its iron railings gleaming under one stubborn lamp, like a lighthouse in a sea of dark.",
+      "tip": "Reuse the same objects in both paragraphs (the bench, the fountain) — it makes the contrast unmistakable."
+    }
+  ]
+}

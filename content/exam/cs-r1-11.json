@@ -1,0 +1,80 @@
+{
+  "id": "cs-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "In a database table, explain what is meant by:\n(a) a field [1]\n(b) a record. [1]",
+      "ms": [
+        "(a) a single item of data / attribute about each item, i.e. a column in the table (e.g. Surname)",
+        "(b) all the data about one item / person / thing, i.e. a row in the table"
+      ],
+      "model": "(a) A field is one category of data stored about every item, shown as a column, such as Price.\n(b) A record is the complete set of data about one item, shown as a row."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Table: Shoe\nShoeID | Brand   | Style   | Size | Price | InStock\nS01    | Pace    | Trainer | 7    | 45.00 | TRUE\nS02    | Nordo   | Boot    | 9    | 80.00 | FALSE\nS03    | Pace    | Sandal  | 6    | 25.50 | TRUE\nS04    | Kestrel | Trainer | 9    | 60.00 | TRUE\nS05    | Nordo   | Trainer | 8    | 55.00 | TRUE\nS06    | Kestrel | Boot    | 7    | 95.00 | FALSE\nS07    | Pace    | Boot    | 8    | 70.00 | TRUE\nState the most suitable data type for each field:\n(a) Size [1]\n(b) InStock [1]\n(c) ShoeID [1]",
+      "ms": [
+        "(a) integer",
+        "(b) Boolean",
+        "(c) text / alphanumeric (allow string)"
+      ],
+      "model": "(a) Integer.\n(b) Boolean.\n(c) Text (alphanumeric)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Table: Shoe\nShoeID | Brand   | Style   | Size | Price | InStock\nS01    | Pace    | Trainer | 7    | 45.00 | TRUE\nS02    | Nordo   | Boot    | 9    | 80.00 | FALSE\nS03    | Pace    | Sandal  | 6    | 25.50 | TRUE\nS04    | Kestrel | Trainer | 9    | 60.00 | TRUE\nS05    | Nordo   | Trainer | 8    | 55.00 | TRUE\nS06    | Kestrel | Boot    | 7    | 95.00 | FALSE\nS07    | Pace    | Boot    | 8    | 70.00 | TRUE\nState the output of this SQL query:\nSELECT Brand, Price\nFROM Shoe\nWHERE Style = \"Trainer\" AND Price < 58\nORDER BY Price DESC;",
+      "ms": [
+        "Nordo 55.00 (1)",
+        "Pace 45.00 (1)",
+        "only the Brand and Price fields shown / no other records (1)",
+        "in the order Nordo then Pace (1)"
+      ],
+      "model": "Nordo   55.00\nPace    45.00",
+      "tip": "Apply WHERE first (trainers under 58), then sort the remaining rows."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Table: Shoe\nShoeID | Brand   | Style   | Size | Price | InStock\nS01    | Pace    | Trainer | 7    | 45.00 | TRUE\nS02    | Nordo   | Boot    | 9    | 80.00 | FALSE\nS03    | Pace    | Sandal  | 6    | 25.50 | TRUE\nS04    | Kestrel | Trainer | 9    | 60.00 | TRUE\nS05    | Nordo   | Trainer | 8    | 55.00 | TRUE\nS06    | Kestrel | Boot    | 7    | 95.00 | FALSE\nS07    | Pace    | Boot    | 8    | 70.00 | TRUE\nWrite an SQL query to display the ShoeID, Brand and Price of all boots that are in stock, in ascending order of Price.",
+      "ms": [
+        "SELECT ShoeID, Brand, Price (1)",
+        "FROM Shoe (1)",
+        "WHERE Style = \"Boot\" AND InStock = TRUE (1)",
+        "ORDER BY Price ASC (allow ORDER BY Price) (1)"
+      ],
+      "model": "SELECT ShoeID, Brand, Price\nFROM Shoe\nWHERE Style = \"Boot\" AND InStock = TRUE\nORDER BY Price ASC;"
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Table: Shoe\nShoeID | Brand   | Style   | Size | Price | InStock\nS01    | Pace    | Trainer | 7    | 45.00 | TRUE\nS02    | Nordo   | Boot    | 9    | 80.00 | FALSE\nS03    | Pace    | Sandal  | 6    | 25.50 | TRUE\nS04    | Kestrel | Trainer | 9    | 60.00 | TRUE\nS05    | Nordo   | Trainer | 8    | 55.00 | TRUE\nS06    | Kestrel | Boot    | 7    | 95.00 | FALSE\nS07    | Pace    | Boot    | 8    | 70.00 | TRUE\n(a) Write an SQL query to calculate the total price of all the Pace shoes. [3]\n(b) State the result of your query in (a). [1]\n(c) State the output of:\nSELECT COUNT(*) FROM Shoe WHERE InStock = FALSE OR Size < 7; [1]",
+      "ms": [
+        "(a) SELECT SUM(Price) (1)",
+        "(a) FROM Shoe (1)",
+        "(a) WHERE Brand = \"Pace\" (1)",
+        "(b) 140.50",
+        "(c) 3"
+      ],
+      "model": "(a) SELECT SUM(Price)\nFROM Shoe\nWHERE Brand = \"Pace\";\n(b) 45.00 + 25.50 + 70.00 = 140.50\n(c) S02 and S06 are not in stock, and S03 has size 6, so the output is 3.",
+      "tip": "SUM adds up a numeric field; COUNT(*) counts records."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Table: Shoe\nShoeID | Brand   | Style   | Size | Price | InStock\nS01    | Pace    | Trainer | 7    | 45.00 | TRUE\nS02    | Nordo   | Boot    | 9    | 80.00 | FALSE\nS03    | Pace    | Sandal  | 6    | 25.50 | TRUE\nS04    | Kestrel | Trainer | 9    | 60.00 | TRUE\nS05    | Nordo   | Trainer | 8    | 55.00 | TRUE\nS06    | Kestrel | Boot    | 7    | 95.00 | FALSE\nS07    | Pace    | Boot    | 8    | 70.00 | TRUE\nThis query should display the Brand and Size of all trainers that cost more than 50, in alphabetical order of Brand. It contains three errors.\nSELECT Brand Size\nFROM Shoes\nWHERE Style = \"Trainer\" AND Price > 50\nORDER BY Brand DESC;\n(a) Identify and correct the three errors. [3]\n(b) State the output of the corrected query. [3]",
+      "ms": [
+        "(a) missing comma: SELECT Brand, Size (1)",
+        "(a) wrong table name: FROM Shoe (1)",
+        "(a) wrong order: ORDER BY Brand ASC (1)",
+        "(b) Kestrel 9 (1)",
+        "(b) Nordo 8 (1)",
+        "(b) Kestrel before Nordo and no other records / fields (1)"
+      ],
+      "model": "(a) SELECT Brand Size should be SELECT Brand, Size. FROM Shoes should be FROM Shoe. ORDER BY Brand DESC should be ORDER BY Brand ASC.\n(b)\nKestrel   9\nNordo     8",
+      "tip": "Alphabetical order = ASC; DESC is Z to A."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "stats-r1-01",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Explain what is meant by bivariate data. Give an example of bivariate data that could be collected from students in a school.",
+   "ms": [
+    "B1: data with two variables recorded for each item/person (oe)",
+    "B1: a correct example of a pair of variables for each student, e.g. height and arm span, or hours of revision and test mark"
+   ],
+   "model": "Bivariate data is data where two variables are measured for each individual. For example, the height and the arm span of each student.",
+   "tip": "An example needs two variables for the same person, not just two separate lists."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Kiran wants to find out how long students at his school spend on homework each week.\n(a) State what is meant by a sampling frame. [1]\n(b) Suggest a suitable sampling frame for Kiran's investigation. [1]",
+   "ms": [
+    "(a) B1: a list of all the members (sampling units) of the population (oe)",
+    "(b) B1: e.g. the school register / a list of all students at the school (allow school database of students)"
+   ],
+   "model": "(a) A sampling frame is a complete list of the members of the population from which the sample is chosen.\n(b) The school register (a list of every student in the school).",
+   "tip": "\"Students at the school\" is the population, not the sampling frame: the frame is the list."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A sports club has 600 members, numbered 001 to 600. The secretary uses the random number table below to choose a simple random sample of 4 members. She reads the digits in groups of three, starting at the beginning of the row.\n\n472 915 038 602 472 156 731 599 204\n\n(a) Write down the numbers of the 4 members chosen. [3]\n(b) Give one disadvantage of simple random sampling. [1]",
+   "ms": [
+    "B1: 472 and 038 chosen",
+    "B1: 915, 602 and 731 rejected (greater than 600)",
+    "B1: second 472 ignored (repeat) and 156, 599 chosen; final answer 472, 038, 156, 599",
+    "(b) B1: e.g. needs a complete sampling frame / may not represent all groups in proportion / can be time-consuming for a large population"
+   ],
+   "model": "(a) 472 (chosen), 915 (reject, over 600), 038 (chosen), 602 (reject), 472 (repeat, ignore), 156 (chosen), 731 (reject), 599 (chosen).\nThe sample is members 472, 038, 156 and 599.\n(b) It needs a full list of all members (a sampling frame), and by chance it may not represent every group in the club fairly.",
+   "tip": "Say why each number is rejected: over the range, or already chosen."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A factory produces 2400 bottles a day. A quality controller wants to take a systematic sample of 60 bottles from one day's production.\n(a) Describe how she should take the systematic sample. [3]\n(b) Give one reason why a systematic sample could be biased in this situation. [1]",
+   "ms": [
+    "M1: 2400 ÷ 60 = 40 (sampling interval of 40)",
+    "B1: choose a random starting point between 1 and 40 (e.g. using random numbers)",
+    "B1: then select every 40th bottle after that (e.g. 7th, 47th, 87th, …)",
+    "(b) B1: if there is a pattern in production that repeats every 40 bottles (e.g. a faulty machine/filling head), the sample could pick up only good or only faulty bottles (oe)"
+   ],
+   "model": "(a) The interval is 2400 ÷ 60 = 40. Number the bottles in order of production and use random numbers to choose a starting bottle between 1 and 40, e.g. bottle 13. Then take every 40th bottle: 13, 53, 93, … until 60 bottles are chosen.\n(b) If a fault occurs in a regular pattern that matches the interval of 40, the sample might always miss (or always pick) faulty bottles.",
+   "tip": "The starting point must be chosen at random, otherwise it is not a systematic sample."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A college has 1200 students. The table shows the number of students in each group.\n\n            Boys   Girls\nYear 12     312    348\nYear 13     276    264\n\nAmira wants to take a sample of 80 students, stratified by year group and gender.\n(a) Calculate the number of students from each of the four groups that should be in her sample. [3]\n(b) Describe how Amira should select the Year 12 girls for her sample. [2]\n(c) Give one reason why a stratified sample is better than a simple random sample for this investigation. [1]",
+   "ms": [
+    "M1: e.g. (312 ÷ 1200) × 80 (oe, any one group)",
+    "A1: at least two of 21, 23, 18, 18 correct",
+    "A1: all four correct: Year 12 boys 21, Year 12 girls 23, Year 13 boys 18, Year 13 girls 18 (total 80)",
+    "(b) B1: number/list the 348 Year 12 girls (e.g. 1 to 348)",
+    "(b) B1: use random numbers (calculator/table) to choose 23 different girls, ignoring repeats and numbers over 348",
+    "(c) B1: each group is represented in proportion to its size (oe); allow: gives a more representative sample"
+   ],
+   "model": "(a) Year 12 boys: 312 ÷ 1200 × 80 = 20.8 → 21\nYear 12 girls: 348 ÷ 1200 × 80 = 23.2 → 23\nYear 13 boys: 276 ÷ 1200 × 80 = 18.4 → 18\nYear 13 girls: 264 ÷ 1200 × 80 = 17.6 → 18\nCheck: 21 + 23 + 18 + 18 = 80.\n(b) Give each of the 348 Year 12 girls a number from 1 to 348, then use a random number generator to choose 23 different numbers, ignoring repeats and numbers above 348. The girls with these numbers are in the sample.\n(c) It makes sure each year group and gender is represented in proportion to its size, so the sample is more representative of the college.",
+   "tip": "Always check that your rounded stratum sizes add up to the total sample size."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A town council wants to find out what residents think about a plan to build a new leisure centre. A council officer hands out questionnaires to people leaving the existing swimming pool between 9 a.m. and 11 a.m. on a Saturday.\nOne question on the questionnaire is:\n\nHow often do you exercise?\n□ 0–1 times   □ 1–3 times   □ 3 or more times\n\n(a) Give two criticisms of the response boxes. [2]\n(b) Write an improved version of this question, with response boxes. [2]\n(c) Explain why the officer's sample is likely to be biased. [1]\n(d) Suggest a better way of choosing the sample. [1]",
+   "ms": [
+    "(a) B1: the boxes overlap, e.g. 1 and 3 each appear in two boxes",
+    "(a) B1: no time period given (per week/month?) (oe)",
+    "(b) B1: question includes a time frame, e.g. \"How many times did you exercise in the last 7 days?\"",
+    "(b) B1: non-overlapping boxes that cover all possible answers, e.g. 0 □ 1–2 □ 3–4 □ 5 or more □",
+    "(c) B1: people at a swimming pool already exercise/use leisure facilities, so they are more likely to support the plan / not representative of all residents (also: only people free on Saturday morning)",
+    "(d) B1: e.g. a random sample (or stratified sample) of residents chosen from the electoral roll/list of households"
+   ],
+   "model": "(a) The boxes overlap: someone who exercises 1 or 3 times could tick two boxes. There is no time period, so it is not clear whether it means per day, week or month.\n(b) How many times did you exercise in the last 7 days?\n□ 0   □ 1–2   □ 3–4   □ 5 or more\n(c) People leaving a swimming pool already use leisure facilities, so they are likely to be more in favour of a new leisure centre than other residents; also only people free on a Saturday morning are included.\n(d) Take a random sample of residents from the electoral register (or a stratified sample by age group) and post or deliver the questionnaire to them.",
+   "tip": "Criticisms must refer to this question: \"overlapping\" and \"no time period\" are the classic marks."
+  }
+ ]
+}

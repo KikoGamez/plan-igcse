@@ -1,0 +1,86 @@
+{
+  "id": "chem-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State two differences between a physical change and a chemical change.",
+      "ms": [
+        "a chemical change forms a new substance; a physical change does not",
+        "a physical change is usually easily reversed; a chemical change usually is not",
+        "a chemical change often has a large energy change; a physical change usually has a small one"
+      ],
+      "model": "In a chemical change a new substance is formed, but in a physical change no new substance is formed. A physical change, such as melting, is usually easily reversed, whereas a chemical change, such as burning, usually cannot be reversed easily.",
+      "tip": "State both sides of each difference — 'a chemical change makes a new substance' only half-answers it."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define, in terms of electrons:\n(a) oxidation [1]\n(b) reduction. [1]",
+      "ms": [
+        "(a) loss of electrons",
+        "(b) gain of electrons",
+        "allow (a) increase in oxidation number and (b) decrease in oxidation number"
+      ],
+      "model": "(a) Oxidation is the loss of electrons.\n(b) Reduction is the gain of electrons.",
+      "tip": "OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "In the thermite reaction, aluminium reacts with iron(III) oxide.\n2Al + Fe₂O₃ → Al₂O₃ + 2Fe\nIdentify the substance that is oxidised and the substance that is reduced. Explain each answer in terms of oxygen.",
+      "ms": [
+        "aluminium is oxidised",
+        "because it gains oxygen",
+        "iron(III) oxide is reduced",
+        "because it loses oxygen"
+      ],
+      "model": "Aluminium is oxidised because it gains oxygen to form aluminium oxide. Iron(III) oxide is reduced because it loses oxygen to form iron. Oxidation and reduction happen at the same time, so this is a redox reaction.",
+      "tip": "Name the substance exactly: 'iron(III) oxide is reduced', not 'iron is reduced'."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "(a) Bromine reacts with aqueous iodide ions.\nBr₂ + 2I⁻ → 2Br⁻ + I₂\n(i) Which species loses electrons? [1]\n(ii) Explain, in terms of electrons, why bromine is reduced. [1]\n(iii) Explain why this is a redox reaction. [1]\n(b) Iron reacts with aqueous copper(II) ions.\nFe + Cu²⁺ → Fe²⁺ + Cu\nState how the oxidation number of copper changes and whether copper is oxidised or reduced. [2]",
+      "ms": [
+        "(a)(i) iodide ions / I⁻",
+        "(a)(ii) each bromine atom gains an electron (to form a bromide ion)",
+        "(a)(iii) oxidation and reduction happen at the same time / simultaneously",
+        "(b) oxidation number decreases from +2 to 0",
+        "(b) reduced"
+      ],
+      "model": "(a)(i) The iodide ions, I⁻, lose electrons.\n(ii) Each bromine atom in Br₂ gains one electron to become a bromide ion, Br⁻; gain of electrons is reduction.\n(iii) Bromine is reduced while iodide ions are oxidised at the same time, so oxidation and reduction occur simultaneously.\n(b) The oxidation number of copper decreases from +2 (in Cu²⁺) to 0 (in Cu), so copper is reduced.",
+      "tip": "A decrease in oxidation number means reduction; an increase means oxidation."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A student tests three colourless solutions, P, Q and R, with two reagents. The results are shown.\nsolution | acidified aqueous potassium manganate(VII) | aqueous potassium iodide\nP | purple → colourless | no change\nQ | stays purple | colourless → brown\nR | stays purple | no change\n(a) Which solution contains a reducing agent? Explain how the results show this. [2]\n(b) Which solution contains an oxidising agent? Name the substance that causes the brown colour. [2]\n(c) In the test with acidified potassium manganate(VII), is the substance in P oxidised or reduced? Explain your answer. [2]",
+      "ms": [
+        "(a) P",
+        "(a) it turns (acidified) potassium manganate(VII) from purple to colourless",
+        "(b) Q",
+        "(b) iodine",
+        "(c) oxidised",
+        "(c) it reduces the manganate(VII) / it loses electrons (to the manganate(VII)) — a reducing agent is itself oxidised"
+      ],
+      "model": "(a) P contains a reducing agent, because it decolourises acidified potassium manganate(VII), changing it from purple to colourless.\n(b) Q contains an oxidising agent. It oxidises the iodide ions to iodine, which makes the solution brown.\n(c) The substance in P is oxidised. It reduces the manganate(VII) by giving it electrons, and losing electrons is oxidation.",
+      "tip": "Give colour changes as 'from … to …'. Write 'colourless', never 'clear'."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A piece of copper wire is placed in colourless aqueous silver nitrate and left for an hour.\nCu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag\n(a) Describe two observations. [2]\n(b) Write the ionic equation for the reaction. [1]\n(c) Explain, in terms of electrons, which substance is oxidised and which is reduced. [2]\n(d) Explain why the nitrate ions are not included in the ionic equation. [1]",
+      "ms": [
+        "(a) solution turns (from colourless to) blue",
+        "(a) silver / grey crystals or solid form on the copper (allow copper wire gets thinner)",
+        "(b) Cu + 2Ag⁺ → Cu²⁺ + 2Ag",
+        "(c) copper (atoms) oxidised: each loses two electrons (to form Cu²⁺)",
+        "(c) silver ions reduced: each gains one electron (to form silver atoms)",
+        "(d) they are spectator ions / they do not change during the reaction"
+      ],
+      "model": "(a) The colourless solution turns blue and shiny grey (silver) crystals grow on the copper wire.\n(b) Cu + 2Ag⁺ → Cu²⁺ + 2Ag\n(c) Each copper atom loses two electrons to become a Cu²⁺ ion, so copper is oxidised. Each silver ion gains one electron to become a silver atom, so silver ions are reduced.\n(d) Nitrate ions are spectator ions: they are in solution at the start and at the end and take no part in the reaction.",
+      "tip": "The blue colour comes from the new Cu²⁺(aq) ions — link observations to the species formed."
+    }
+  ]
+}

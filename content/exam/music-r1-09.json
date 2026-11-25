@@ -1,0 +1,83 @@
+{
+ "id": "music-r1-09",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) In which city did the tango develop? [1]\n(b) Who composed Libertango? [1]\n(c) What is the style of Libertango called? [1]",
+   "ms": [
+    "(a) Buenos Aires (allow Argentina / Montevideo, Uruguay)",
+    "(b) (Astor) Piazzolla",
+    "(c) nuevo tango"
+   ],
+   "model": "(a) Buenos Aires (b) Piazzolla (c) nuevo tango"
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "In salsa, what are the names for:\n(a) the lead singer\n(b) the chorus that answers",
+   "ms": [
+    "(a) sonero",
+    "(b) coro"
+   ],
+   "model": "(a) sonero (b) coro"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Name the Chinese silk and bamboo instrument described.\n(a) a two-string bowed fiddle\n(b) a pear-shaped plucked lute\n(c) a transverse bamboo flute\n(d) a hammered dulcimer",
+   "ms": [
+    "(a) erhu",
+    "(b) pipa",
+    "(c) dizi",
+    "(d) yangqin"
+   ],
+   "model": "(a) erhu (b) pipa (c) dizi (d) yangqin"
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Explain each EDM term.\n(a) loop\n(b) build-up\n(c) drum machine\n(d) breakdown",
+   "ms": [
+    "(a) a sample or pattern repeated continuously",
+    "(b) a section of rising tension/energy before the drop (rising pitch, more layers, drum roll, filter sweep)",
+    "(c) an electronic device that produces drum sounds and patterns",
+    "(d) a stripped-back, quieter section (often without the kick drum) before the music builds again"
+   ],
+   "model": "(a) A sample or pattern repeated over and over. (b) The section before the drop where tension rises, e.g. with rising pitch and a faster snare roll. (c) An electronic device that creates drum sounds and patterns. (d) A thinner, quieter section that removes the beat before another build-up."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Compare tango and salsa in terms of instruments, rhythm and the way the performers interact.",
+   "ms": [
+    "Tango instruments: bandoneón, violins, piano, double bass (orquesta típica)",
+    "Salsa instruments: congas, bongos, timbales, claves, piano, bass, trumpets/trombones, singers",
+    "Tango rhythm: marcado (strong marked beats) / habanera rhythm",
+    "Salsa rhythm: built on the clave pattern; layered syncopated percussion / montuno piano patterns",
+    "Tango: often instrumental, dramatic, sudden stops, portamento, pizzicato",
+    "Salsa: call and response between sonero and coro; brass stabs/riffs; improvised section",
+    "max 3 if only one style is described"
+   ],
+   "model": "Tango is played by an orquesta típica of bandoneón, violins, piano and double bass, while salsa uses a large Latin percussion section with piano, bass, brass and singers. Tango rhythm is based on the strongly marked marcado beat and the habanera, whereas salsa is organised around the clave with layered syncopated percussion. Tango is often instrumental and dramatic, with sudden stops; salsa uses call and response between the sonero and the coro, with brass riffs."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Describe the main features of music played by an Arab takht ensemble.",
+   "ms": [
+    "instruments: oud (lute)",
+    "instruments: qanun (plucked zither) / nay (reed flute) / violin",
+    "percussion: riq (tambourine) / darbuka (goblet drum)",
+    "melody based on a maqām",
+    "quarter-tones (notes between the semitones)",
+    "rhythmic cycles called īqā'āt (dum and tak strokes)",
+    "texture mainly monophonic or heterophonic, highly ornamented",
+    "improvisation",
+    "a wasla: a suite of pieces in the same maqām",
+    "context: small group, played in cafés, courts and concerts"
+   ],
+   "model": "A takht is a small group of oud, qanun, nay and violin with riq and darbuka percussion. The melody is based on a maqām and uses quarter-tones. The percussion plays rhythmic cycles (īqā'āt) of dum and tak strokes. The texture is heterophonic, with each player decorating the same melody, and there is improvisation. Pieces in the same maqām can be linked into a suite called a wasla."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "bus-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “buffer inventory”. [2]",
+      "ms": [
+        "The minimum level of inventory/stock (1)",
+        "kept to avoid running out if deliveries are late or demand is unexpectedly high (1)"
+      ],
+      "model": "Buffer inventory is the minimum amount of stock a business keeps so that it does not run out if a delivery is late or demand is higher than expected.",
+      "tip": "On an inventory graph, buffer inventory is the lowest line — stock should never fall below it."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Identify two methods of lean production. [2]",
+      "ms": [
+        "Kaizen (continuous improvement)",
+        "Just-in-time (JIT) inventory management",
+        "Cell production",
+        "Allow: total quality management / quality circles if linked to reducing waste"
+      ],
+      "model": "1. Kaizen (continuous improvement).\n2. Just-in-time inventory management.",
+      "tip": "The syllabus names three: kaizen, just-in-time and cell production."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "BoxRight makes cardboard boxes. Last year 40 workers produced 6 000 boxes per week. After buying a new machine, 35 workers now produce 6 300 boxes per week.\n\nCalculate the percentage change in labour productivity. [4]",
+      "ms": [
+        "M1: productivity before = 6 000 ÷ 40 = 150 boxes per worker per week",
+        "M1: productivity after = 6 300 ÷ 35 = 180 boxes per worker per week",
+        "M1: (180 − 150) ÷ 150 × 100 (ecf from wrong productivity figures)",
+        "A1: +20% (an increase of 20%)"
+      ],
+      "model": "Before: 6 000 ÷ 40 = 150 boxes per worker per week.\nAfter: 6 300 ÷ 35 = 180 boxes per worker per week.\nPercentage change = (180 − 150) ÷ 150 × 100 = 20% increase.",
+      "tip": "Percentage change = (new − old) ÷ old × 100. Divide by the OLD figure."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "ValueMart is a supermarket chain.\n\nOutline two ways technology has changed how supermarkets such as ValueMart operate. [4]",
+      "ms": [
+        "First way identified (1)",
+        "First way developed/explained (1)",
+        "Second way identified (1)",
+        "Second way developed/explained (1)",
+        "e.g. EPOS (electronic point of sale) / barcode scanning (1) — faster checkout and automatic updating of inventory records/automatic re-ordering (1)",
+        "e.g. Self-service checkouts (1) — fewer cashiers needed, reducing wage costs (1)",
+        "e.g. Contactless/card/mobile payments (1) — quicker transactions, less cash handling and lower risk of theft (1)",
+        "e.g. Online shopping and home delivery/click-and-collect (1) — reach customers who do not visit stores, increasing sales (1)",
+        "e.g. Loyalty cards / customer data analysis (1) — targeted offers to individual customers (1)",
+        "e.g. Automated warehouses/robots (1) — faster order picking, lower costs (1)"
+      ],
+      "model": "First, EPOS systems scan barcodes at the checkout. This speeds up payment and automatically updates inventory records, so ValueMart knows when to re-order products and is less likely to run out.\nSecond, online shopping lets customers order groceries from home for delivery or collection. This reaches busy customers who would not visit the store, increasing ValueMart’s sales.",
+      "tip": "Name the technology, then say what it changes for the business."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Velo Motors makes cars. It currently checks quality only at the end of the production line, where about 4% of cars are found to have faults and must be repaired. The directors are considering introducing total quality management (TQM).\n\nExplain two benefits to Velo Motors of introducing TQM. [6]",
+      "ms": [
+        "First benefit — K: valid benefit identified (1)",
+        "First benefit — App: applied to the business in the question (1)",
+        "First benefit — An: consequence for the business explained (1)",
+        "Second benefit — K: valid benefit identified (1)",
+        "Second benefit — App: applied to the business in the question (1)",
+        "Second benefit — An: consequence for the business explained (1)",
+        "e.g. Faults prevented / found at each stage rather than at the end (K) — fewer of the 4% faulty cars (App) — less waste and fewer costly repairs, so average cost per car falls (An)",
+        "e.g. Every worker responsible for quality (K) — workers on the line check their own work (App) — more responsibility, improves motivation; may reduce need for separate inspectors (An)",
+        "e.g. Better reputation / customers satisfied (K) — fewer faults reaching buyers / fewer recalls (App) — brand image improves, more sales and can charge higher prices (An)",
+        "e.g. Aims for zero defects / continuous improvement (K) — fewer complaints and warranty claims (App/An)"
+      ],
+      "model": "First, TQM aims to prevent faults at every stage of production rather than finding them at the end. If workers check quality as each part is fitted, fewer than 4% of cars will need repairing at the end of the line. This reduces wasted materials and the labour time spent on repairs, so the average cost of each car falls and profit increases.\nSecond, TQM makes every worker responsible for quality. Workers on the line become more involved and feel trusted, which can improve motivation. Because fewer faulty cars reach customers, Velo Motors would have fewer warranty claims and a better reputation for reliability, which could increase sales.",
+      "tip": "TQM involves everyone and every stage; quality control is just checking at the end. Marking: Max 2 per benefit if not applied to cars/Velo Motors."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "FitZone runs gyms. It wants to open a new gym and is choosing between two locations:\n• City centre: monthly rent $12 000; near offices with 20 000 workers; little parking; two other gyms within 500 m.\n• Out-of-town retail park: monthly rent $7 000; large free car park; near new housing estates; no other gym within 5 km.\n\nWhich location should FitZone choose? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "City centre: large number of potential customers (20 000 office workers) → lunchtime/after-work visits, high membership; but rent $5 000 per month higher ($60 000 a year), lack of parking, and two competitors nearby → may need lower prices, reducing profit",
+        "Retail park: lower rent → lower fixed costs/break-even; no competition within 5 km → can charge higher prices / gain market share; free parking convenient; near housing → families/evening and weekend use",
+        "Retail park drawbacks: fewer people passing; customers need cars; housing estates may still be growing → uncertain demand",
+        "Factors for a service business: closeness to customers, convenience, competition, costs",
+        "Ev: justified decision comparing the two, e.g. retail park because lower costs and no competition outweigh the larger city market; depends on how many people live in the new housing / whether FitZone targets office workers"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both locations using the data, with a justified decision explaining why it is better than the alternative or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one location using the data; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of location factors with little use of the data."
+        }
+      ],
+      "model": "The city centre has a large market of 20 000 office workers who could use the gym before work, at lunchtime or after work. However, the rent is $5 000 a month higher, which is $60 000 more per year, and two gyms are already within 500 m, so FitZone may have to cut its prices to win members. The lack of parking also makes it inconvenient for people who drive.\nThe retail park has much lower rent of $7 000, so FitZone’s fixed costs and break-even level of membership would be lower. There is no other gym within 5 km, so it would face little competition and could charge higher prices. Free parking and nearby housing make it convenient for local residents in the evenings and at weekends. The drawback is that there may be fewer potential customers than in the city centre.\nI recommend the retail park. Lower rent and no direct competition mean FitZone can make a profit with fewer members, while in the city it would have to compete hard on price against two established gyms. This decision depends on enough people living on the new housing estates, so FitZone should check how many homes are planned before signing the lease.",
+      "tip": "Use the numbers: calculate the yearly rent difference to support your argument."
+    }
+  ]
+}

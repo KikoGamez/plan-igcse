@@ -1,0 +1,86 @@
+{
+  "id": "math-r1-20",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The table shows the shoe sizes of 25 students.\nShoe size:  4 | 5 | 6 | 7\nFrequency:  3 | 7 | 9 | 6\n(a) Write down the mode. [1]\n(b) Find the median. [1]",
+      "ms": [
+        "(a) B1: 6",
+        "(b) B1: 6"
+      ],
+      "model": "(a) Size 6 has the highest frequency (9), so the mode is 6.\n(b) The median is the 13th value. Cumulative frequencies: 3, 10, 19, … so the 13th value is size 6.",
+      "tip": "The mode is the size, not the frequency: '9' scores 0."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A scatter diagram shows the outside temperature (°C) and the number of hot drinks sold at a café on 12 days. As the temperature increases, fewer hot drinks are sold.\n(a) What type of correlation does the scatter diagram show? [1]\n(b) A line of best fit is drawn. Explain why using it to estimate the sales on a day when the temperature is 40 °C may not be reliable, when the data only covers temperatures from 5 °C to 25 °C. [1]",
+      "ms": [
+        "(a) B1: negative",
+        "(b) B1: 40 °C is outside the range of the data (extrapolation), so the pattern may not continue"
+      ],
+      "model": "(a) Negative correlation.\n(b) 40 °C is outside the range of the data, so this would be extrapolation: the trend may not continue beyond 25 °C.",
+      "tip": "Interpret correlation in context and avoid saying one thing 'causes' the other."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The heights, h cm, of 40 plants are shown in the table.\nHeight (h cm)       Frequency\n140 < h ≤ 150          6\n150 < h ≤ 160         14\n160 < h ≤ 170         15\n170 < h ≤ 180          5\nCalculate an estimate of the mean height.",
+      "ms": [
+        "M1: midpoints 145, 155, 165, 175 (at least 3 correct)",
+        "M1: Σfx using their midpoints (= 6390)",
+        "M1 dep: ÷ 40",
+        "A1: 159.75 (allow 160 or 159.8)"
+      ],
+      "model": "Midpoints: 145, 155, 165, 175.\nΣfx = 6 × 145 + 14 × 155 + 15 × 165 + 5 × 175 = 870 + 2170 + 2475 + 875 = 6390.\nEstimated mean = 6390 ÷ 40 = 159.75 cm.",
+      "tip": "Divide by the total frequency (40), not by the number of groups (4)."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "The ages, a years, of some people at a park are shown in the table.\nAge (a years)    Frequency\n0 < a ≤ 10          12\n10 < a ≤ 15         20\n15 < a ≤ 25          ?\n25 < a ≤ 40         18\n(a) Calculate the frequency densities for the classes 0 < a ≤ 10, 10 < a ≤ 15 and 25 < a ≤ 40. [2]\n(b) On the histogram, the bar for 15 < a ≤ 25 has height 3.5. Find the frequency for this class. [1]\n(c) Estimate the number of people aged between 20 and 30 years. [2]",
+      "ms": [
+        "(a) B1: 1.2 for 0 < a ≤ 10 and 1.2 for 25 < a ≤ 40",
+        "(a) B1: 4 for 10 < a ≤ 15",
+        "(b) B1: 35",
+        "(c) M1: ½ × 35 (= 17.5) or 5/15 × 18 (= 6)",
+        "(c) A1: 23.5 (allow 23 or 24) FT their (b)"
+      ],
+      "model": "(a) Frequency density = frequency ÷ class width.\n12 ÷ 10 = 1.2, 20 ÷ 5 = 4, 18 ÷ 15 = 1.2.\n(b) Frequency = 3.5 × 10 = 35.\n(c) 20 to 25 is half of the class 15–25: 35 ÷ 2 = 17.5.\n25 to 30 is 5/15 of the class 25–40: 18 × 5/15 = 6.\nEstimate = 17.5 + 6 = 23.5 (about 23 or 24 people).",
+      "tip": "In a histogram the area of a bar, not its height, represents the frequency."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "The masses, m grams, of 80 apples are shown in the table.\nMass (m g)          Frequency\n80 < m ≤ 100           8\n100 < m ≤ 120         18\n120 < m ≤ 140         30\n140 < m ≤ 160         16\n160 < m ≤ 180          8\n(a) Complete a cumulative frequency table for this data. [1]\n(b) Use your table, assuming the masses are evenly spread within each class, to estimate the median mass. [2]\n(c) Estimate the interquartile range. [2]\n(d) Apples with a mass of more than 150 g are labelled 'large'. Estimate the number of large apples. [2]",
+      "ms": [
+        "(a) B1: 8, 26, 56, 72, 80 (for m ≤ 100, 120, 140, 160, 180)",
+        "(b) M1: 40th value in 120 < m ≤ 140: 120 + (40 − 26)/30 × 20",
+        "(b) A1: 129 g (129.3…; allow 128 to 130 from a graph)",
+        "(c) M1: LQ = 113.3 (20th value) and UQ = 145 (60th value)",
+        "(c) A1: 31.7 g (allow 30 to 33 from a graph)",
+        "(d) M1: ½ × 16 + 8, or 80 − 64",
+        "(d) A1: 16"
+      ],
+      "model": "(a) Cumulative frequencies: m ≤ 100: 8, m ≤ 120: 26, m ≤ 140: 56, m ≤ 160: 72, m ≤ 180: 80.\n(b) Median = 40th value, in 120–140 (26 below it):\n120 + (40 − 26)/30 × 20 = 120 + 9.33 = 129.3 g.\n(c) LQ = 20th value: 100 + (20 − 8)/18 × 20 = 113.3 g.\nUQ = 60th value: 140 + (60 − 56)/16 × 20 = 145 g.\nIQR = 145 − 113.3 = 31.7 g.\n(d) Half of the 140–160 class is above 150: 8 apples, plus 8 in 160–180, so about 16 large apples.",
+      "tip": "For 80 values use the 20th, 40th and 60th values for the quartiles and median."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "(a) The number of goals scored by a team in each of its matches is shown.\nGoals:      0 | 1 | 2 | 3\nFrequency:  5 | x | 8 | 4\nThe mean number of goals is 1.44. Find the value of x. [3]\n(b) In a test, the 12 students in class A have a mean mark of 64. The 18 students in class B have a mean mark of 59.\nCalculate the mean mark of all 30 students. [2]\n(c) For the same test, class A has median 62 and interquartile range 15. Class B has median 55 and interquartile range 28.\nMake two comparisons between the marks of the two classes. [2]",
+      "ms": [
+        "(a) M1: Σfx = x + 16 + 12 (= x + 28) and Σf = 17 + x",
+        "(a) M1: (x + 28)/(17 + x) = 1.44 oe",
+        "(a) A1: x = 8",
+        "(b) M1: (12 × 64 + 18 × 59) ÷ 30",
+        "(b) A1: 61",
+        "(c) B1: class A had a higher median, so on average class A did better",
+        "(c) B1: class B had a larger interquartile range, so class B's marks were more spread out (less consistent)"
+      ],
+      "model": "(a) Σfx = 0 × 5 + 1 × x + 2 × 8 + 3 × 4 = x + 28. Σf = 17 + x.\n(x + 28) ÷ (17 + x) = 1.44\nx + 28 = 24.48 + 1.44x → 3.52 = 0.44x → x = 8.\n(b) Total marks = 12 × 64 + 18 × 59 = 768 + 1062 = 1830. Mean = 1830 ÷ 30 = 61.\n(c) Class A has a higher median (62 > 55), so on average class A scored higher.\nClass B has a larger IQR (28 > 15), so class B's marks were more spread out.",
+      "tip": "In comparisons, compare an average AND a measure of spread, and say what each means in context."
+    }
+  ]
+}

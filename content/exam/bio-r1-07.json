@@ -1,0 +1,89 @@
+{
+  "id": "bio-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State how each of these body defences protects against pathogens.\n(a) the skin\n(b) stomach acid",
+      "ms": [
+        "(a) acts as a barrier / stops pathogens entering the body",
+        "(b) kills pathogens (in food or drink)"
+      ],
+      "model": "(a) The skin is a barrier that stops pathogens getting into the body.\n(b) Stomach acid kills pathogens that are swallowed with food or drink.",
+      "tip": "Keep it specific: the skin blocks entry; the acid kills."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain why a clean water supply reduces the spread of some diseases.",
+      "ms": [
+        "(untreated) water can contain pathogens (e.g. from sewage)",
+        "drinking / using contaminated water transmits the pathogen to a new host",
+        "treatment / a clean supply removes or kills the pathogens"
+      ],
+      "model": "Untreated water can be contaminated with pathogens, for example from sewage, and people who drink it become infected. A clean water supply has had the pathogens removed or killed, so the disease is not passed on this way.",
+      "tip": "Explain the link: the pathogen is transmitted indirectly through water."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how antibodies help to destroy a specific pathogen.",
+      "ms": [
+        "antibodies are proteins made by lymphocytes",
+        "each pathogen has antigens with a specific shape",
+        "antibody has a complementary shape to the antigen / is specific to one antigen",
+        "antibodies bind to the antigens",
+        "leading to direct destruction of the pathogen",
+        "or marking the pathogen for destruction by phagocytes (which engulf it)"
+      ],
+      "model": "Lymphocytes make antibodies, which are proteins. The pathogen has antigens on its surface with a specific shape, and each antibody has a shape complementary to one antigen, so it binds to it. This can destroy the pathogen directly, or mark it so that phagocytes recognise and engulf it.",
+      "tip": "Antibodies are made by lymphocytes, not by phagocytes."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The table shows the percentage of children vaccinated against measles in a country, and the number of measles cases, in three different years.\nyear:                    2000 | 2010 | 2020\nchildren vaccinated / %:   60 |   80 |   95\nmeasles cases:            800 |  300 |   20\n(a) Describe the relationship shown by the data. [1]\n(b) Explain how vaccinating a high percentage of children reduces the number of cases, including in children who were not vaccinated. [3]",
+      "ms": [
+        "(a) as the percentage vaccinated increases, the number of cases decreases",
+        "(b) vaccinated children are immune / have memory cells, so do not become infected",
+        "(b) so they do not pass the pathogen on / fewer people can spread the virus",
+        "(b) fewer hosts available for the pathogen",
+        "(b) unvaccinated children are less likely to come into contact with an infected person"
+      ],
+      "model": "(a) As the percentage of children vaccinated increases, the number of measles cases decreases.\n(b) Vaccinated children have memory cells and are immune, so they do not become infected and cannot pass the virus on. With fewer people able to spread it, the pathogen has fewer hosts, so an unvaccinated child is much less likely to meet an infected person.",
+      "tip": "Vaccination controls spread because immune people break the chain of transmission."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A child is given a vaccine against a disease. Ten weeks later the child is exposed to the pathogen that causes the disease but does not become ill.\nExplain how the vaccination protected the child.",
+      "ms": [
+        "vaccine contains weakened / dead pathogens or their antigens",
+        "antigens stimulate an immune response by lymphocytes",
+        "lymphocytes produce antibodies complementary to / specific to the antigens",
+        "memory cells are produced",
+        "on exposure, memory cells respond quickly / recognise the antigen",
+        "more antibodies produced, faster (than after the first exposure)",
+        "pathogen destroyed before it can cause symptoms / before it reproduces enough to cause illness",
+        "this is active immunity (long-term)"
+      ],
+      "model": "The vaccine contained weakened pathogens or their antigens. The antigens stimulated lymphocytes to produce antibodies with a shape complementary to those antigens. Memory cells were also produced and stayed in the blood. When the child was exposed to the real pathogen ten weeks later, the memory cells recognised its antigens and responded quickly, so antibodies were made much faster and in larger amounts than the first time. The pathogens were destroyed before they could reproduce enough to cause illness. This is active immunity.",
+      "tip": "The key idea is memory cells: they give a faster, bigger secondary response."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "An outbreak of a diarrhoeal disease spreads through a large temporary camp.\n(a) Explain how each of these measures would reduce the spread of the disease: sewage treatment; hygienic food preparation; good personal hygiene; waste disposal. [4]\n(b) Some of the bacteria causing the disease are resistant to the antibiotic that doctors use. State what this means and explain why it is a problem. [2]",
+      "ms": [
+        "(a) sewage treatment: removes / kills pathogens in faeces so they do not contaminate drinking water",
+        "(a) hygienic food preparation: stops pathogens getting onto / growing in food (e.g. washing hands, cooking thoroughly, keeping raw and cooked food apart)",
+        "(a) personal hygiene: washing hands (after using the toilet) removes pathogens so they are not passed on by touch",
+        "(a) waste disposal: removes places where pathogens grow / where flies and rats breed (which carry pathogens)",
+        "(b) resistant: the antibiotic does not kill these bacteria",
+        "(b) infection cannot be treated with that antibiotic / resistant bacteria survive and reproduce and spread"
+      ],
+      "model": "(a) Sewage treatment kills or removes the pathogens in faeces, so they do not get into the drinking water. Hygienic food preparation, such as washing hands and cooking food thoroughly, stops pathogens contaminating food. Good personal hygiene, especially washing hands after using the toilet, removes pathogens so they are not passed to other people or surfaces. Proper waste disposal removes rubbish where pathogens grow and where flies and rats, which carry pathogens, breed.\n(b) It means the antibiotic does not kill these bacteria. Patients infected with them cannot be treated with that antibiotic, and the resistant bacteria survive, reproduce and spread to other people.",
+      "tip": "For each control measure say HOW it stops the pathogen reaching a new host."
+    }
+  ]
+}

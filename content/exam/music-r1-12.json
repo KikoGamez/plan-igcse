@@ -1,0 +1,82 @@
+{
+ "id": "music-r1-12",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) What must the final recording of each performance be like? [1]\n(b) Who marks Component 2, and who checks the marking? [1]",
+   "ms": [
+    "(a) a single take, unedited",
+    "(b) marked by the teacher and moderated by Cambridge (both needed)"
+   ],
+   "model": "(a) One continuous take with no editing. (b) Your teacher marks it, and Cambridge moderates the marks."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name two kinds of work that are not allowed as compositions for Component 3.",
+   "ms": [
+    "an arrangement of an existing piece",
+    "a theme and variations on a theme you did not write",
+    "work using ready-made loops / ideas that are not your own",
+    "any two, 1 each"
+   ],
+   "model": "An arrangement of an existing piece, and variations on someone else's theme."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Maria plays the flute. For Part 2 (performing with others) she plans to play a flute sonata, with her teacher playing the piano accompaniment. Explain whether this is suitable and suggest a better choice.",
+   "ms": [
+    "not suitable",
+    "she would be playing a solo with accompaniment, which counts as a solo, not ensemble playing",
+    "Part 2 must show rhythmic coordination and ensemble awareness with at least one other live performer, her part not extensively doubled",
+    "better: a flute duet / trio, or a part in a wind ensemble or band where the parts are equally important"
+   ],
+   "model": "It is not suitable: a solo with piano accompaniment is still a solo performance. Part 2 must show ensemble awareness and rhythmic coordination with at least one other live performer, where Maria's part is one of the important parts. She could play a flute duet or one part in a wind quintet instead."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Composition 2 must be written to a brief linked to an area of study.\n(a) Write a suitable brief linked to Area 5 (Music for dance). [2]\n(b) If you submit a written commentary instead of a score, state two things it must include. [2]",
+   "ms": [
+    "(a) states the purpose/style of the dance (e.g. a salsa, tango, EDM track) [1]",
+    "(a) gives forces and a plan (instruments/technology, length, structure or tempo) [1]",
+    "(b) timings for each section",
+    "(b) details of how the music was made / techniques, instruments, structure (on the Cambridge template)",
+    "(b) the brief / stimulus",
+    "(b) any two for (b)"
+   ],
+   "model": "(a) 'A three-minute EDM track at 128 BPM for a school dance show, made in a DAW with synthesisers and drum machine, with an intro, two build-ups and drops, and a breakdown.'\n(b) Timings for each section, and an explanation of the techniques and sounds used (e.g. how the build-up was created)."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A student's Composition 1 is described like this: \"16 bars for piano. A melody with block chords in the left hand all the way through. It stays in C major. The same 4-bar phrase is repeated four times. There are no dynamics or tempo markings in the score.\"\nUsing the composing criteria, explain three weaknesses and suggest how to improve each one.",
+   "ms": [
+    "Use of medium: one texture throughout [1]; vary it, e.g. Alberti bass, unison, melody in the left hand, imitation [1]",
+    "Structure: no contrast (four identical phrases) [1]; add a contrasting B section / ABA, with a link or coda [1]",
+    "Compositional technique: ideas are not developed / only one key [1]; use sequence, inversion, modulation (e.g. to G major or A minor) [1]",
+    "Score/notation: no performance directions [1]; add tempo, dynamics, articulation, phrasing [1]",
+    "Ideas: short and simple, limited [1]; write a more memorable motif / second theme [1]",
+    "max 2 per weakness, max 6"
+   ],
+   "model": "Use of medium: the texture never changes; it could use an Alberti bass in one section and imitation between the hands in another. Structure: the same phrase four times gives no contrast; a contrasting B section in a new key would make an ABA form. Notation: there are no performance directions; the score should include a tempo marking, dynamics and articulation."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A composer writes this one-bar motif in C major, 4/4, crotchets: C D E G.\n(a) Write the motif as a sequence one step higher, staying in C major. [1]\n(b) Write the motif inverted, starting on C, staying in C major. [1]\n(c) Write the rhythm of the motif in augmentation. [1]\n(d) Suggest one chord to harmonise the whole bar and explain why it fits. [2]\n(e) Name the cadence you would use to end the piece. [1]",
+   "ms": [
+    "(a) D E F A",
+    "(b) C B A F (allow exact inversion C B♭ A♭ F)",
+    "(c) four minims (each note value doubled)",
+    "(d) chord I / C major (C E G)",
+    "(d) C, E and G are chord notes; D is a passing note",
+    "(e) perfect cadence (V–I)"
+   ],
+   "model": "(a) D E F A. (b) C B A F. (c) Four minims. (d) Chord I (C E G): three of the four notes belong to it and D is a passing note between C and E. (e) A perfect cadence, V–I.",
+   "tip": "Developing one short motif with sequence, inversion and augmentation is exactly what the Compositional technique criterion rewards."
+  }
+ ]
+}

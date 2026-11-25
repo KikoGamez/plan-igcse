@@ -1,0 +1,87 @@
+{
+ "id": "stats-r1-04",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A box plot shows the following values for the marks in a test: minimum 12, lower quartile 18, median 25, upper quartile 29, maximum 41.\n(a) Find the interquartile range. [1]\n(b) What percentage of the marks are greater than 18? [1]",
+   "ms": [
+    "(a) B1: 11",
+    "(b) B1: 75%"
+   ],
+   "model": "(a) IQR = 29 − 18 = 11.\n(b) 18 is the lower quartile, so 75% of the marks are above it.",
+   "tip": "Each section of a box plot (whisker or half-box) contains 25% of the data."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "The masses, m kg, of 60 dogs are shown in the table.\n\nMass (m kg)   40 < m ≤ 50   50 < m ≤ 60   60 < m ≤ 70   70 < m ≤ 80   80 < m ≤ 90\nFrequency          5             12            23            14             6\n\n(a) Work out the cumulative frequencies. [2]\n(b) Write down the coordinates of the points you would plot for the first two classes on a cumulative frequency graph. [1]",
+   "ms": [
+    "B1: at least three cumulative frequencies correct",
+    "B1: all correct: 5, 17, 40, 54, 60",
+    "(b) B1: (50, 5) and (60, 17) (plotted at upper class boundaries; allow also (40, 0))"
+   ],
+   "model": "(a) Cumulative frequencies: 5, 17, 40, 54, 60.\n(b) Points are plotted at the upper class boundaries: (50, 5) and (60, 17). The curve starts at (40, 0).",
+   "tip": "Plot cumulative frequency at the upper class boundary, never at the midpoint."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "The cumulative frequency table shows the times, t minutes, taken by 80 runners to complete a fun run.\n\nTime (t min)          t ≤ 20   t ≤ 25   t ≤ 30   t ≤ 35   t ≤ 40   t ≤ 45\nCumulative frequency     4        15       38       61       74       80\n\n(a) Use linear interpolation to estimate the median time. [2]\n(b) Estimate the number of runners who took more than 37 minutes. [2]",
+   "ms": [
+    "M1: 40th value, e.g. 30 + (40 − 38) ÷ 23 × 5",
+    "A1: 30.4 minutes (awrt 30.4)",
+    "M1: cf at 37 = 61 + (2 ÷ 5) × 13 = 66.2 (oe)",
+    "A1: 80 − 66.2 = 13.8, so about 14 runners (allow 13 or 14)"
+   ],
+   "model": "(a) Median is the 40th value (80 ÷ 2), which lies between t = 30 (cf 38) and t = 35 (cf 61).\nMedian ≈ 30 + (40 − 38) ÷ 23 × 5 = 30 + 0.43 = 30.4 minutes.\n(b) 13 runners finished between 35 and 40 minutes. Up to 37 minutes: 61 + 2/5 × 13 = 61 + 5.2 = 66.2.\nMore than 37 minutes: 80 − 66.2 = 13.8, so about 14 runners.",
+   "tip": "\"More than\" means subtract the cumulative frequency from the total."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A data set has minimum 15, lower quartile 34, median 41, upper quartile 46 and maximum 62.\nAn outlier is a value more than 1.5 × IQR below the lower quartile or above the upper quartile.\n(a) Show that 15 is an outlier but 62 is not. [3]\n(b) Describe the skewness of the data. Give a reason. [1]\n(c) Describe how the outlier should be shown when the box plot is drawn. [1]",
+   "ms": [
+    "M1: IQR = 12 and 1.5 × 12 = 18",
+    "A1: lower limit 34 − 18 = 16 and 15 < 16 so 15 is an outlier",
+    "A1: upper limit 46 + 18 = 64 and 62 < 64 so 62 is not an outlier",
+    "(b) B1: negative skew since Q₃ − Q₂ = 5 < Q₂ − Q₁ = 7 (oe)",
+    "(c) B1: marked with a cross (separate point) at 15, with the lower whisker drawn only to the smallest value that is not an outlier"
+   ],
+   "model": "(a) IQR = 46 − 34 = 12, and 1.5 × 12 = 18.\nLower limit = 34 − 18 = 16. 15 < 16, so 15 is an outlier.\nUpper limit = 46 + 18 = 64. 62 < 64, so 62 is not an outlier.\n(b) Q₃ − Q₂ = 46 − 41 = 5 and Q₂ − Q₁ = 41 − 34 = 7. Since 5 < 7, the data have negative skew.\n(c) Plot 15 as a cross on its own, and draw the lower whisker only to the lowest value that is not an outlier.",
+   "tip": "Show both limits as numbers and compare each one with the value; \"it is far away\" gets no marks."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "The marks of 120 students in a test are summarised below.\n\nMark (x)    0 < x ≤ 20   20 < x ≤ 40   40 < x ≤ 60   60 < x ≤ 80   80 < x ≤ 100\nFrequency        6            18            42            36            18\n\n(a) Use linear interpolation to estimate the median and the lower and upper quartiles. [4]\n(b) Grade A is given to the top 10% of students. Estimate the lowest mark needed for a grade A. [2]\nFor a second class, the median mark was 51 and the interquartile range was 22.\n(c) Compare the marks of the two groups. [2]",
+   "ms": [
+    "M1: cumulative frequencies 6, 24, 66, 102, 120 and median at 60th value: 40 + (60 − 24) ÷ 42 × 20",
+    "A1: median 57.1 (awrt 57.1; allow 56–58 from a graph)",
+    "A1: Q₁ (30th value) = 40 + 6 ÷ 42 × 20 = 42.9 (awrt 42.9; allow 42–44)",
+    "A1: Q₃ (90th value) = 60 + 24 ÷ 36 × 20 = 73.3 (awrt 73.3; allow 72–74)",
+    "(b) M1: 90th percentile = 108th value: 80 + (108 − 102) ÷ 18 × 20",
+    "(b) A1: 86.7, so about 87 marks (allow 86–88)",
+    "(c) B1: the first group has a higher median (57.1 v 51), so generally scored higher (ft)",
+    "(c) B1: the first group has a larger IQR (30.4 v 22), so its marks were less consistent / more spread out (ft)"
+   ],
+   "model": "(a) Cumulative frequencies: 6, 24, 66, 102, 120.\nMedian = 60th value: 40 + (60 − 24) ÷ 42 × 20 = 40 + 17.1 = 57.1.\nQ₁ = 30th value: 40 + (30 − 24) ÷ 42 × 20 = 42.9.\nQ₃ = 90th value: 60 + (90 − 66) ÷ 36 × 20 = 73.3.\n(b) The top 10% start at the 90th percentile = 108th value: 80 + (108 − 102) ÷ 18 × 20 = 86.7. A student needs about 87 marks.\n(c) The first group's median (57.1) is higher than the second class's (51), so the first group generally did better. The first group's IQR (73.3 − 42.9 = 30.4) is larger than 22, so its marks were more spread out (less consistent).",
+   "tip": "For the top 10% you need the 90th percentile, not the 10th."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Two box plots summarise the journey times, in minutes, for a commuter using Route A and Route B over many days.\n\n          Min   Q₁   Median   Q₃   Max\nRoute A   18    24     27     35    52\nRoute B   20    23     29     31    38\n\n(a) Describe the skewness of each distribution. Give reasons. [2]\n(b) Determine whether the maximum time for Route A is an outlier, using the 1.5 × IQR rule. [2]\n(c) The commuter must arrive at work within 35 minutes. Which route should she use? Give a reason based on the figures. [2]",
+   "ms": [
+    "(a) B1: Route A positive skew because Q₃ − Q₂ = 8 > Q₂ − Q₁ = 3",
+    "(a) B1: Route B negative skew because Q₃ − Q₂ = 2 < Q₂ − Q₁ = 6",
+    "(b) M1: IQR = 11; upper limit 35 + 1.5 × 11 = 51.5",
+    "(b) A1: 52 > 51.5 so 52 is an outlier",
+    "(c) B1: Route B",
+    "(c) B1: reason with figures, e.g. B's upper quartile (31) is below 35 so more than 75% of journeys are within 35 min, whereas for A only 75% are; or B's maximum (38) is lower than A's (52) / B less spread out (IQR 8 v 11)"
+   ],
+   "model": "(a) Route A: Q₃ − Q₂ = 8 and Q₂ − Q₁ = 3; 8 > 3 so positive skew.\nRoute B: Q₃ − Q₂ = 2 and Q₂ − Q₁ = 6; 2 < 6 so negative skew.\n(b) IQR for A = 35 − 24 = 11. Upper limit = 35 + 16.5 = 51.5. Since 52 > 51.5, the maximum of 52 minutes is an outlier.\n(c) Route B. Its upper quartile is 31 minutes, so more than 75% of journeys take under 35 minutes, compared with exactly 75% for Route A. Route B is also more consistent (IQR 8 v 11) and its longest journey is only 38 minutes, compared with 52 minutes for A, even though A has a slightly lower median.",
+   "tip": "A decision question needs a choice plus a reason quoting numbers from both routes."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cs-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State what is meant by a device driver and why it is needed.",
+      "ms": [
+        "software that allows the operating system to communicate with / control a hardware device (1)",
+        "it translates the OS's instructions into a form the device understands / without it the device would not work correctly (1)"
+      ],
+      "model": "A device driver is a small program that lets the operating system communicate with a particular hardware device, such as a printer. It translates the OS's general instructions into the specific commands the device understands, so the device works correctly."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Explain the difference between machine code and assembly language.",
+      "ms": [
+        "machine code: binary instructions that the CPU can execute directly (1)",
+        "assembly language: uses mnemonics (e.g. LDA, ADD) which must be translated by an assembler into machine code (1)"
+      ],
+      "model": "Machine code is made of binary instructions that the CPU can execute directly. Assembly language uses short mnemonics such as LDA and ADD to represent those instructions, so it is easier for people to read, but it must be translated into machine code by an assembler."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe how an operating system allows several programs to appear to run at the same time (multitasking).",
+      "ms": [
+        "the OS manages processes / keeps a list of tasks waiting to run (1)",
+        "each process is given a short time slice of CPU time in turn (1)",
+        "the OS schedules / decides which process runs next, using priorities (1)",
+        "interrupts are used to switch between processes; the state of the current process is saved and restored (1)",
+        "memory management keeps each process in its own area of RAM so they do not overwrite each other (1)",
+        "switching happens so quickly it appears simultaneous to the user (1)"
+      ],
+      "model": "The operating system keeps track of all the processes that need to run. It gives each process a very short slice of processor time in turn, using a scheduler that decides which process runs next based on priority. When a time slice ends, an interrupt makes the OS save the current process's state and load the next one. Memory management keeps each program in its own part of RAM. Because the switching happens thousands of times a second, the programs appear to run at the same time."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A program runs without errors but gives the wrong total. Explain how the debugging tools in an IDE could help the programmer find this logic error.",
+      "ms": [
+        "set a breakpoint at a chosen line (1) so the program stops there (dev 1)",
+        "inspect / watch the values of variables at that point (1) and compare with expected values (dev 1)",
+        "single-stepping runs the program one line at a time (1) to see exactly which line makes the total go wrong (dev 1)",
+        "variable watch window shows how the total changes as the program runs (1)"
+      ],
+      "model": "The programmer can set a breakpoint just before the total is calculated, so the program pauses at that line. A watch window then shows the current values of variables such as the total and the loop counter, which can be compared with the values expected from a hand trace. Using single-stepping, the program can be run one line at a time, so the programmer can see exactly which line causes the total to become wrong, for example a loop that runs one time too few.",
+      "tip": "Logic errors give no error message, so the answer is about stopping and inspecting variables."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A company is writing two pieces of software:\n• a driver to control a new graphics card\n• a timetable app for schools to use on different makes of computer\nFor each one, state whether a high-level or low-level language is more suitable and justify your choice.",
+      "ms": [
+        "driver: low-level language / assembly (1)",
+        "low-level allows direct manipulation of hardware / registers / memory addresses (1)",
+        "produces fast, efficient code that uses little memory / runs quickly (1)",
+        "timetable app: high-level language (1)",
+        "portable – can run on different makes of computer / processor (after translation) (1)",
+        "easier and faster to write, read, debug and maintain / problem-oriented with built-in functions (1)",
+        "programmer does not need to know about the hardware (1)"
+      ],
+      "model": "The graphics card driver should be written in a low-level language such as assembly. This gives direct control of the hardware, such as specific registers and memory addresses, and produces very fast, efficient code that uses little memory, which matters for graphics.\nThe timetable app should be written in a high-level language. High-level code is portable, so it can be translated to run on different makes of computer. It is also easier to write, read and debug because it uses English-like statements and built-in functions, so the app can be developed and updated more quickly without the programmer needing to know about the hardware."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A user is printing a long document. The printer runs out of paper and, at the same moment, the user presses a key on the keyboard.\nDescribe how the computer handles these two interrupts.",
+      "ms": [
+        "each device sends an interrupt signal to the CPU (1)",
+        "the interrupts are placed in a queue / stored in an interrupt register (1)",
+        "the CPU checks for interrupts at the end of each fetch–decode–execute cycle (1)",
+        "interrupts have priorities; the higher-priority one is handled first (1)",
+        "the current task's register contents / state are saved (e.g. on a stack) (1)",
+        "the interrupt service routine (ISR) is run, e.g. displays an 'out of paper' message / reads the key press (1)",
+        "after the ISR, the saved state is restored and the original task continues, then the other interrupt is serviced (1)"
+      ],
+      "model": "The printer and the keyboard each send an interrupt signal to the CPU, and the interrupts are stored in a queue. At the end of the current fetch–decode–execute cycle the CPU checks for interrupts. It compares their priorities and services the higher-priority one first. It saves the contents of its registers so the current task can be resumed, then runs the interrupt service routine, for example to display an 'out of paper' message to the user. When the ISR finishes, the saved values are restored and the CPU handles the next interrupt (the key press) in the same way before resuming the original task.",
+      "tip": "Mention priority, saving the state, running the ISR, and restoring the state."
+    }
+  ]
+}

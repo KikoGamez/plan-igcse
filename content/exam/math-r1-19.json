@@ -1,0 +1,84 @@
+{
+  "id": "math-r1-19",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "A spinner can land on red, blue, green or yellow.\nP(red) = 0.15, P(blue) = 0.4, P(green) = x and P(yellow) = 2x.\nFind the value of x.",
+      "ms": [
+        "M1: 0.15 + 0.4 + x + 2x = 1 or 3x = 0.45",
+        "A1: x = 0.15"
+      ],
+      "model": "0.15 + 0.4 + 3x = 1 → 3x = 0.45 → x = 0.15.",
+      "tip": "The probabilities of all the possible outcomes add up to 1."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "ξ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\nP = {prime numbers}   E = {even numbers}\n(a) List the elements of P ∩ E. [1]\n(b) Find n(P′ ∩ E′). [1]",
+      "ms": [
+        "(a) B1: {2}",
+        "(b) B1: 2"
+      ],
+      "model": "P = {2, 3, 5, 7}, E = {2, 4, 6, 8, 10}.\n(a) P ∩ E = {2}.\n(b) P′ ∩ E′ contains numbers that are neither prime nor even: {1, 9}, so n(P′ ∩ E′) = 2.",
+      "tip": "1 is not a prime number, so it belongs to P′."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "In a group of 50 students, 28 study French and 25 study Spanish.\n2x students study both languages and x students study neither.\n(a) Find the value of x. [2]\n(b) A student is chosen at random. Find the probability that this student studies Spanish only. [1]\n(c) A student who studies Spanish is chosen at random. Find the probability that this student also studies French. [1]",
+      "ms": [
+        "(a) M1: 28 + 25 − 2x + x = 50 oe (or Venn diagram with 28 − 2x, 2x, 25 − 2x, x)",
+        "(a) A1: x = 3",
+        "(b) B1: 19/50 FT their x",
+        "(c) B1: 6/25 FT their x"
+      ],
+      "model": "(a) (28 − 2x) + 2x + (25 − 2x) + x = 50 → 53 − x = 50 → x = 3.\nBoth = 6, neither = 3, French only = 22, Spanish only = 19.\n(b) P(Spanish only) = 19/50.\n(c) 25 study Spanish, 6 of them study French: 6/25.",
+      "tip": "For 'given that' questions, the denominator is the size of the group you are told about, not the total."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Spinner A is numbered 1, 2, 3, 4 and spinner B is numbered 1, 2, 3. Each spinner is fair.\nBoth spinners are spun and the two numbers are multiplied together.\n(a) Find the probability that the product is an even number. [2]\n(b) Find the probability that the product is greater than 6. [2]",
+      "ms": [
+        "(a) M1: 12 equally likely outcomes, or P(odd) = 2/4 × 2/3",
+        "(a) A1: 2/3 (8/12)",
+        "(b) M1: identifies 9, 8 and 12 as the only products greater than 6 (3 outcomes)",
+        "(b) A1: 1/4 (3/12)"
+      ],
+      "model": "There are 4 × 3 = 12 equally likely outcomes.\n(a) The product is odd only if both numbers are odd: 2 × 2 = 4 outcomes. Even: 12 − 4 = 8, so P = 8/12 = 2/3.\n(b) Products greater than 6: 3 × 3 = 9, 4 × 2 = 8, 4 × 3 = 12. P = 3/12 = 1/4.",
+      "tip": "A sample space table (4 rows by 3 columns) makes sure you do not miss an outcome."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A bag contains 6 red, 4 green and 2 yellow counters.\nTwo counters are taken at random from the bag without replacement.\n(a) Find the probability that both counters are the same colour. [3]\n(b) Find the probability that at least one counter is yellow. [2]\n(c) Given that both counters are the same colour, find the probability that they are both red. [2]",
+      "ms": [
+        "(a) M1: one correct product, e.g. 6/12 × 5/11",
+        "(a) M1: sum of three products 6/12 × 5/11 + 4/12 × 3/11 + 2/12 × 1/11",
+        "(a) A1: 1/3 (44/132)",
+        "(b) M1: 1 − 10/12 × 9/11 oe",
+        "(b) A1: 7/22 (42/132)",
+        "(c) M1: (30/132) ÷ (44/132) FT their (a)",
+        "(c) A1: 15/22"
+      ],
+      "model": "(a) P(RR) = 6/12 × 5/11 = 30/132\nP(GG) = 4/12 × 3/11 = 12/132\nP(YY) = 2/12 × 1/11 = 2/132\nTotal = 44/132 = 1/3.\n(b) P(no yellow) = 10/12 × 9/11 = 90/132.\nP(at least one yellow) = 1 − 90/132 = 42/132 = 7/22.\n(c) P(both red | same colour) = (30/132) ÷ (44/132) = 30/44 = 15/22.",
+      "tip": "Without replacement: both the numerator and the denominator go down by 1 for the second counter."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The probability that Lina passes her driving test at the first attempt is 0.6.\nIf she fails, the probability that she passes at any later attempt is 0.75.\n(a) Find the probability that she passes at her second attempt. [2]\n(b) Find the probability that she needs more than three attempts to pass. [2]\n(c) Given that Lina passes within her first two attempts, find the probability that she passed at the first attempt. [2]",
+      "ms": [
+        "(a) M1: 0.4 × 0.75",
+        "(a) A1: 0.3",
+        "(b) M1: 0.4 × 0.25 × 0.25",
+        "(b) A1: 0.025 (1/40)",
+        "(c) M1: 0.6 ÷ (0.6 + their 0.3)",
+        "(c) A1: 2/3 (0.667)"
+      ],
+      "model": "(a) Fail then pass: 0.4 × 0.75 = 0.3.\n(b) Fails the first three attempts: 0.4 × 0.25 × 0.25 = 0.025.\n(c) P(pass within two) = 0.6 + 0.3 = 0.9.\nP(first | within two) = 0.6 ÷ 0.9 = 2/3.",
+      "tip": "Draw a tree diagram: the branches after a failure use 0.75 and 0.25, not 0.6 and 0.4."
+    }
+  ]
+}

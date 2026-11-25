@@ -1,0 +1,101 @@
+{
+  "id": "geo-r1-11",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Give two advantages of using solar power to generate electricity.",
+      "ms": [
+        "renewable / will not run out",
+        "no greenhouse gases / CO₂ / air pollution when generating",
+        "low running costs once installed / free fuel",
+        "can be used in remote areas / off-grid / on rooftops",
+        "ignore 'cheap' without qualification"
+      ],
+      "model": "Solar power is renewable, so it will not run out, and it does not release carbon dioxide when generating electricity, so it does not add to global warming."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Name three sources of water supply for people.",
+      "ms": [
+        "rivers / lakes",
+        "reservoirs (behind dams)",
+        "groundwater / aquifers / wells / boreholes",
+        "desalination of seawater",
+        "rainwater harvesting / collection"
+      ],
+      "model": "Rivers and lakes, reservoirs, and groundwater from wells."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The electricity produced in a country comes from: coal 40%, natural gas 25%, oil 10%, nuclear 10%, HEP 8%, wind 5%, solar 2%.\n(a) Calculate the percentage of electricity from renewable sources. [1]\n(b) Calculate the percentage from fossil fuels. [1]\n(c) Suggest two reasons why the government plans to increase its use of renewable energy. [2]",
+      "ms": [
+        "(a) 15% (HEP 8 + wind 5 + solar 2)",
+        "(b) 75% (coal 40 + gas 25 + oil 10)",
+        "(c) first reason",
+        "(c) second reason. Accept any two of: to reduce CO₂ / greenhouse gas emissions / meet climate targets; fossil fuels will run out / are non-renewable; reduce dependence on imported fuels / energy security; reduce air pollution / acid rain; renewables getting cheaper; create jobs"
+      ],
+      "model": "(a) 8 + 5 + 2 = 15%.\n(b) 40 + 25 + 10 = 75%.\n(c) Fossil fuels release carbon dioxide, so using more renewables would help the country cut greenhouse gas emissions and meet climate targets. Fossil fuels will also run out and may need to be imported, so renewables would make the country's energy supply more secure.",
+      "tip": "Nuclear is non-renewable but is not a fossil fuel – leave it out of both totals."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain how economic activities can lead to water pollution.",
+      "ms": [
+        "factories discharge chemicals / heavy metals / hot water into rivers (1) – poison fish / unsafe to drink (dev 1)",
+        "farming: fertiliser runoff causes eutrophication / algal blooms (1) which use up oxygen so fish die (dev 1)",
+        "untreated sewage from cities enters rivers (1) spreading disease, e.g. cholera (dev 1)",
+        "mining waste / tailings contaminate water (1)",
+        "oil spills from tankers / drilling (1)"
+      ],
+      "model": "Factories often discharge chemicals and heavy metals into rivers, which poison fish and make the water unsafe to drink. Farming adds fertilisers that are washed into rivers and lakes; the nutrients cause algae to grow rapidly (eutrophication), which uses up the oxygen in the water so fish die. Untreated sewage from growing cities spreads water-borne diseases such as cholera, and oil spills from tankers can pollute coasts."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Describe the possible effects of climate change on people and the environment.",
+      "ms": [
+        "rising sea levels (1) – flooding of low-lying coasts / islands, e.g. Bangladesh, Maldives (dev 1)",
+        "more extreme weather – stronger tropical storms, heatwaves (1)",
+        "more droughts in some areas / changes in rainfall (1) → crop failure / food shortages (dev 1)",
+        "melting glaciers / ice sheets (1) – loss of water supply for rivers fed by glaciers (dev 1)",
+        "coral bleaching / loss of habitats and species (1)",
+        "spread of diseases such as malaria to new areas (1)",
+        "some positive effects allowed, e.g. longer growing season in cold regions (1)"
+      ],
+      "model": "As the climate warms, ice sheets and glaciers are melting and sea levels are rising, which threatens low-lying coasts and islands such as the Maldives and Bangladesh with flooding. Extreme weather events such as heatwaves, droughts and more intense tropical storms are becoming more common, causing crop failures and food shortages in some regions. Warmer seas are causing coral bleaching and loss of species, and diseases such as malaria may spread to new areas as temperatures rise."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "For a named country or area, explain why a particular energy source (e.g. HEP, geothermal, nuclear, wind) has been developed there, and evaluate its benefits and problems.",
+      "ms": [
+        "reasons for development – physical: e.g. Iceland: plate boundary / volcanic activity gives geothermal heat; high rainfall, glaciers and steep relief for HEP; China (Three Gorges Dam): large river (Yangtze), deep gorge",
+        "reasons – human: need to meet rising demand, reduce imports of fossil fuels / reduce CO₂ emissions, government investment",
+        "benefits: renewable, low emissions, cheap electricity, reliable supply, flood control (Three Gorges), jobs, attracts industry (e.g. aluminium smelting in Iceland)",
+        "problems: high construction cost; people displaced (Three Gorges over 1 million relocated); flooding of farmland / habitats / heritage sites; silt trapped; risk of landslides; geothermal only possible in tectonically active areas; visual impact",
+        "place-specific detail, e.g. Three Gorges Dam: capacity about 22,500 MW, world's largest power station",
+        "evaluative judgement"
+      ],
+      "model": "Iceland has developed geothermal power because it lies on the Mid-Atlantic Ridge, a divergent plate boundary, so hot rocks lie close to the surface. Water heated underground is used to drive turbines and to heat homes directly. Iceland also has heavy rainfall, glaciers and steep valleys, which are ideal for HEP. Together these provide almost all of its electricity, so the country does not need to import fossil fuels.\nThe benefits are large: the energy is renewable, cheap and produces very low carbon emissions, and nearly all homes are heated geothermally. Cheap electricity has attracted industries such as aluminium smelting, creating jobs. There are problems, however: boreholes and power stations are expensive to build, they release small amounts of gases such as hydrogen sulphide, and pipelines can spoil the landscape. HEP reservoirs have flooded some upland areas. Overall the benefits clearly outweigh the problems for Iceland, but this model only works in places with similar tectonic and physical conditions.",
+      "tip": "Explain WHY the place suits that energy source, then weigh up benefits against problems.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering reasons, benefits and problems, with place-specific detail and an evaluative comment."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one developed idea; may omit reasons or evaluation; some reference to a named place."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named place."
+        }
+      ]
+    }
+  ]
+}

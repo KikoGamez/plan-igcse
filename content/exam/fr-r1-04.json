@@ -1,0 +1,108 @@
+{
+  "id": "fr-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Complétez la phrase avec les verbes au futur simple.\n« Demain, il (a) ______ (faire) beau, nous (b) ______ (aller) à la plage et je (c) ______ (pouvoir) enfin nager ! »",
+      "ms": [
+        "(a) fera",
+        "(b) irons",
+        "(c) pourrai",
+        "reject conditional forms (ferait, irions, pourrais)"
+      ],
+      "model": "(a) fera (b) irons (c) pourrai",
+      "tip": "Irregular future stems: fer-, ir-, pourr-, ser-, aur-, viendr-, voudr-, devr-."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lisez le texte. À quoi ou à qui se réfère chaque mot entre crochets ? Répondez en français.\n« Le marché ? J'[y] vais tous les samedis. Les fraises sont délicieuses en ce moment : j'[en] achète deux kilos. Ma grand-mère adore les fleurs, alors je [lui] apporte un bouquet. »\n(a) y [1]\n(b) en [1]\n(c) lui [1]",
+      "ms": [
+        "(a) (au) marché",
+        "(b) (des) fraises",
+        "(c) (à) sa grand-mère"
+      ],
+      "model": "(a) au marché (b) des fraises (c) à sa grand-mère",
+      "tip": "y usually replaces à + place; en replaces de/du/des + noun; lui replaces à + one person."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Complétez les phrases avec la bonne forme du verbe.\n(a) Si tu travailles bien, tu ______ (réussir) tes examens. [1]\n(b) Si j'étais riche, je ______ (voyager) partout dans le monde. [1]\n(c) Si nous ______ (avoir) plus de temps, nous visiterions le musée. [1]\n(d) S'il fait beau demain, on ______ (faire) un pique-nique. [1]",
+      "ms": [
+        "(a) réussiras",
+        "(b) voyagerais",
+        "(c) avions",
+        "(d) fera"
+      ],
+      "model": "(a) réussiras (b) voyagerais (c) avions (d) fera",
+      "tip": "si + present → future; si + imparfait → conditionnel. Never put the future or conditional straight after si."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Répondez aux questions. Remplacez les mots entre crochets par un pronom.\n(a) Tu as acheté [le pain] ? — Oui, … [1]\n(b) Tu vas téléphoner [à tes grands-parents] ? — Oui, … [1]\n(c) Tu es déjà allé(e) [au Maroc] ? — Non, … [1]\n(d) Tu veux [des frites] ? — Non merci, … [1]\n(e) Tu as vu [tes cousines] hier ? — Oui, … [1]",
+      "ms": [
+        "(a) je l'ai acheté",
+        "(b) je vais leur téléphoner (pronoun before the infinitive)",
+        "(c) je n'y suis jamais allé(e) / je n'y suis pas allé(e)",
+        "(d) je n'en veux pas",
+        "(e) je les ai vues (allow vu for the mark)",
+        "pronoun must be correct and correctly placed for each mark"
+      ],
+      "model": "(a) Oui, je l'ai acheté.\n(b) Oui, je vais leur téléphoner.\n(c) Non, je n'y suis jamais allé.\n(d) Non merci, je n'en veux pas.\n(e) Oui, je les ai vues.",
+      "tip": "With two verbs, the pronoun goes before the infinitive: je vais leur téléphoner."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Lisez le texte de Malik et répondez aux questions en français.\n« L'année prochaine, j'irai au lycée technique, c'est décidé. J'aimerais devenir mécanicien, mais mes parents préféreraient que je fasse des études longues. Si j'avais de meilleures notes en maths, je pourrais peut-être devenir ingénieur. Cet été, je vais travailler dans le garage de mon oncle ; il me paiera dix euros de l'heure. Un jour, je voudrais ouvrir mon propre garage au Maroc, où habitent mes grands-parents. »\n(a) Où ira Malik l'année prochaine ? [1]\n(b) Quel métier aimerait-il faire ? [1]\n(c) Qu'est-ce que ses parents préféreraient ? [1]\n(d) À quelle condition pourrait-il devenir ingénieur ? [1]\n(e) Combien gagnera-t-il cet été ? [1]\n(f) Pourquoi voudrait-il ouvrir un garage au Maroc ? [1]",
+      "ms": [
+        "(a) au lycée technique",
+        "(b) mécanicien",
+        "(c) qu'il fasse des études longues",
+        "(d) s'il avait de meilleures notes en maths",
+        "(e) dix euros de l'heure (de l'heure needed)",
+        "(f) ses grands-parents y habitent / habitent au Maroc"
+      ],
+      "model": "(a) Au lycée technique.\n(b) Mécanicien.\n(c) Qu'il fasse des études longues.\n(d) S'il avait de meilleures notes en maths.\n(e) Dix euros de l'heure.\n(f) Parce que ses grands-parents y habitent.",
+      "tip": "The futur (j'irai) is a definite plan; the conditionnel (j'aimerais, je pourrais) is a wish or possibility."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Écriture. Écrivez 80–100 mots en français : « Ma vie dans dix ans ».\nMentionnez :\n• où vous habiterez et avec qui\n• le travail que vous ferez\n• ce que vous feriez si vous gagniez beaucoup d'argent\n• une chose que vous avez déjà décidée pour l'année prochaine",
+      "ms": [
+        "where and with whom, in the futur simple",
+        "future job in the futur simple",
+        "si + imparfait + conditionnel correctly used",
+        "plan for next year (futur proche or futur simple)",
+        "at least one object pronoun or y / en correctly placed",
+        "opinions and reasons with connectives",
+        "accurate irregular future / conditional stems",
+        "all four points covered"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "All four points communicated clearly and developed. Accurate futur simple, conditionnel and a si clause; pronouns used naturally; good range of vocabulary. Very few errors."
+        },
+        {
+          "m": "5–6",
+          "d": "All or most points communicated. Future and conditional both attempted with mostly correct forms; some variety. Some errors but meaning is clear."
+        },
+        {
+          "m": "3–4",
+          "d": "Two or three points communicated. Mainly futur proche or present for future; conditional weak or missing. Limited range."
+        },
+        {
+          "m": "1–2",
+          "d": "Little relevant communication. Very limited language; frequent errors."
+        }
+      ],
+      "model": "Dans dix ans, j'habiterai à Barcelone avec mon copain et notre chien, parce que j'adore la mer. Je serai architecte et je travaillerai pour une grande entreprise ; je dessinerai des maisons écologiques. Si je gagnais beaucoup d'argent, j'achèterais une maison à la campagne pour mes parents et je leur offrirais un voyage au Japon. Ils en rêvent depuis longtemps ! Mais d'abord, l'année prochaine, je vais étudier les maths et la physique au lycée, c'est décidé, et je vais travailler dur pour réussir mes examens.",
+      "tip": "Show three future forms: futur proche (je vais étudier), futur simple (je serai), conditionnel (j'achèterais)."
+    }
+  ]
+}

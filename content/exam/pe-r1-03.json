@@ -1,0 +1,88 @@
+{
+ "id": "pe-r1-03",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A sprinter has a mass of 60 kg. At the start of a race her muscles produce a resultant force of 300 N.\nCalculate her acceleration. Show your working.",
+   "ms": [
+    "acceleration = force ÷ mass, i.e. 300 ÷ 60 (1)",
+    "5 m/s² (unit needed) (1)"
+   ],
+   "model": "F = m × a, so a = F ÷ m = 300 ÷ 60 = 5 m/s².",
+   "tip": "Rearrange F = m × a before substituting, and give the unit m/s²."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State the class of lever operating at:\n(a) the elbow, when the triceps straightens the arm in a basketball set shot [1]\n(b) the knee, when the quadriceps straighten the leg to kick a football [1]",
+   "ms": [
+    "(a) first class (1)",
+    "(b) third class (1)"
+   ],
+   "model": "(a) First-class lever (the fulcrum, the elbow joint, is between the effort from the triceps and the resistance of the forearm and ball).\n(b) Third-class lever (the effort from the quadriceps is between the fulcrum, the knee, and the resistance, the lower leg and foot).",
+   "tip": "Elbow extension (triceps) is first class; elbow flexion (biceps) is third class."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A netball player rises onto her toes to jump for an interception.\n(a) Describe the arrangement of the fulcrum, effort and resistance in the lever system at the ankle. [3]\n(b) State the class of this lever. [1]",
+   "ms": [
+    "fulcrum: at the ball of the foot / toes (1)",
+    "resistance (load): body weight acting through the ankle/tibia, in the middle (1)",
+    "effort: gastrocnemius pulling on the heel (via the Achilles tendon) (1)",
+    "(b) second class (1)"
+   ],
+   "model": "(a) The fulcrum is at the ball of the foot (the toes). The resistance is the weight of the body, which acts down through the ankle in the middle of the foot. The effort comes from the gastrocnemius pulling up on the heel through the Achilles tendon. So the resistance is between the fulcrum and the effort.\n(b) A second-class lever.",
+   "tip": "Memory aid 1-2-3 = F-R-E: in a second-class lever the Resistance is in the middle."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A long jumper takes off from the board and travels through the air.\n(a) Name the force that pushes the jumper upwards and forwards at take-off. [1]\n(b) Name two forces acting on the jumper while she is in the air and state the direction in which each one acts. [3]",
+   "ms": [
+    "(a) ground reaction force (1)",
+    "(b) gravity / weight (1)",
+    "(b) acts downwards (1)",
+    "(b) air resistance (1)",
+    "(b) acts in the opposite direction to the motion / backwards (1)",
+    "max 3 for (b)"
+   ],
+   "model": "(a) Ground reaction force: the board pushes back on her as she pushes down on it.\n(b) Gravity (her weight) acts vertically downwards, pulling her back to the sand. Air resistance acts in the opposite direction to her motion, slowing her down.",
+   "tip": "Ground reaction force only acts while the foot is in contact with the ground."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "Two rugby players accelerate from a standing start. Player A has a mass of 75 kg and Player B has a mass of 85 kg. Both accelerate at 3 m/s².\n(a) Calculate the force produced by each player. [2]\n(b) Player A increases his force by 60 N. Calculate his new acceleration. [2]\n(c) Using force = mass × acceleration, explain why a heavier player has to produce more force to accelerate as quickly as a lighter player. [1]",
+   "ms": [
+    "(a) A: 75 × 3 = 225 N (1)",
+    "(a) B: 85 × 3 = 255 N (1)",
+    "(b) new force = 225 + 60 = 285 N and a = 285 ÷ 75 (1)",
+    "(b) 3.8 m/s² (1)",
+    "(c) acceleration = force ÷ mass, so for the same acceleration a larger mass needs a proportionally larger force (oe) (1)"
+   ],
+   "model": "(a) Player A: F = 75 × 3 = 225 N. Player B: F = 85 × 3 = 255 N.\n(b) New force = 225 + 60 = 285 N. a = 285 ÷ 75 = 3.8 m/s².\n(c) Acceleration = force ÷ mass. With a bigger mass the same force gives a smaller acceleration, so the heavier player must produce more force to get the same acceleration.",
+   "tip": "Write the units: force in newtons (N) and acceleration in m/s²."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A 110 m hurdler wants to run as fast as possible while clearing each hurdle.\nExplain how gravity, muscular force and air resistance affect the hurdler during the race, and how she can make use of or reduce each force.",
+   "ms": [
+    "gravity pulls her downwards (towards the ground) (1)",
+    "she must produce enough upward force to clear the hurdle, but gravity brings her back to the track (1)",
+    "keeping a low flight path over the hurdle so she spends less time in the air (1)",
+    "muscular force from the leg muscles pushes down/back on the track (1)",
+    "producing a ground reaction force forwards and upwards (1)",
+    "more force produces more acceleration (F = m × a) (1)",
+    "air resistance acts against her motion / slows her down (1)",
+    "air resistance increases as she runs faster (1)",
+    "reduce it by a streamlined/leaning body position or tight-fitting clothing (1)",
+    "max 6"
+   ],
+   "model": "Gravity pulls the hurdler down, so to clear each hurdle she must push upwards with enough force; but she wants a low flight path so that gravity brings her back to the track quickly and she does not waste time in the air. Her leg muscles produce a large muscular force pushing down and back on the track, which creates a ground reaction force forwards and upwards. The greater the force, the greater her acceleration (F = m × a). Air resistance acts in the opposite direction to her motion and increases as she runs faster, slowing her down. She can reduce it by leaning forward in a streamlined position and wearing tight-fitting clothing.",
+   "tip": "For each force: what it does, its direction, and how the performer uses or reduces it."
+  }
+ ]
+}

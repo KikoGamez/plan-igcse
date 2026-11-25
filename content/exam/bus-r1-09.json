@@ -1,0 +1,110 @@
+{
+  "id": "bus-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “working capital”. [2]",
+      "ms": [
+        "Current assets minus current liabilities (2)",
+        "OR: the money/liquid resources available for day-to-day spending (1) to pay short-term debts/running costs (1)"
+      ],
+      "model": "Working capital is current assets minus current liabilities. It is the money a business has available to pay its day-to-day expenses and short-term debts.",
+      "tip": "Learn the formula — it earns both marks on its own."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Identify two short-term sources of finance. [2]",
+      "ms": [
+        "Overdraft",
+        "Trade credit",
+        "Debt factoring",
+        "Allow: short-term bank loan; microfinance (small short-term loans)"
+      ],
+      "model": "1. Bank overdraft.\n2. Trade credit from suppliers.",
+      "tip": "Short-term = repaid/used within a year. Marking: Do not accept: share issue, mortgage, long-term loan, retained profit (unless clearly linked to short-term use)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Part of the cash-flow forecast for Sunny Toys is shown ($). Figures in brackets are negative.\n\n                     Jan       Feb       Mar\nOpening balance    3 000     4 500       (Y)\nCash inflows      12 000     9 000       (W)\nCash outflows     10 500    14 000    11 000\nNet cash flow      1 500       (X)       (Z)\nClosing balance    4 500       (Y)     2 000\n\nCalculate the values of W, X, Y and Z. [4]",
+      "ms": [
+        "X = 9 000 − 14 000 = (5 000) / −5 000 (1)",
+        "Y = 4 500 + (−5 000) = (500) / −500 (1) (ecf from X)",
+        "Z = 2 000 − (−500) = 2 500 (1) (ecf from Y)",
+        "W = 2 500 + 11 000 = 13 500 (1) (ecf from Z)"
+      ],
+      "model": "X (Feb net cash flow) = 9 000 − 14 000 = (5 000).\nY (Feb closing = Mar opening) = 4 500 − 5 000 = (500).\nZ (Mar net cash flow) = closing − opening = 2 000 − (−500) = 2 500.\nW (Mar inflows) = net cash flow + outflows = 2 500 + 11 000 = 13 500.",
+      "tip": "Closing balance of one month is always the opening balance of the next month."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Mia wants a $20 000 bank loan to open a bakery.\n\nOutline two things the bank will consider before deciding whether to lend Mia the money. [4]",
+      "ms": [
+        "First factor identified (1)",
+        "First factor developed/explained (1)",
+        "Second factor identified (1)",
+        "Second factor developed/explained (1)",
+        "e.g. Business plan / cash-flow forecast (1) — shows whether the bakery is likely to generate enough cash to make repayments (1)",
+        "e.g. Security/collateral (1) — assets the bank can take if Mia cannot repay, reducing the bank’s risk (1)",
+        "e.g. Mia’s existing debts / credit history (1) — if she already owes a lot she may not be able to repay (1)",
+        "e.g. Mia’s own investment (1) — shows commitment and reduces the amount at risk (1)",
+        "e.g. Experience/skills of the owner (1) — makes success more likely (1)",
+        "e.g. Size of loan and purpose / length of repayment period (1)"
+      ],
+      "model": "First, the bank will look at Mia’s business plan and cash-flow forecast to see whether the bakery is expected to have enough cash coming in each month to pay the interest and repayments.\nSecond, it will want security, such as Mia’s house or equipment, which it can sell if she cannot repay. This reduces the risk to the bank of lending to a new business with no track record.",
+      "tip": "Think like a lender: “Will I get my money back?”"
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Sunny Toys sells toys in a shopping centre. Its cash-flow forecast shows a negative closing balance in October and November, because it must buy a large amount of inventory before the Christmas season, when most sales are made.\n\nExplain two ways Sunny Toys could improve its cash flow in October and November. [6]",
+      "ms": [
+        "First way — K: valid way identified (1)",
+        "First way — App: applied to the business in the question (1)",
+        "First way — An: consequence for the business explained (1)",
+        "Second way — K: valid way identified (1)",
+        "Second way — App: applied to the business in the question (1)",
+        "Second way — An: consequence for the business explained (1)",
+        "e.g. Arrange an overdraft (K) — to cover the temporary shortfall before Christmas sales (App) — bills can still be paid; interest only on amount used; cash returns positive in December (An)",
+        "e.g. Negotiate longer trade credit with toy suppliers (K) — pay for Christmas stock in December/January after it is sold (App) — outflows move to months with high inflows (An)",
+        "e.g. Buy inventory in smaller batches / closer to Christmas (K) — e.g. order more in December when selling (App) — less cash tied up in stock, but risk of running out (An)",
+        "e.g. Delay purchase of non-current assets / other spending (K) — e.g. new shop fittings (App)",
+        "e.g. Increase cash inflows: early-season promotions, deposits for pre-ordered toys (K/App) — brings cash in earlier (An)",
+        "e.g. Sell old/slow-moving stock at a discount (K/App/An)"
+      ],
+      "model": "First, Sunny Toys could negotiate longer trade credit with its toy suppliers, for example 60 days instead of 30. The stock bought in October would then be paid for in December, when Christmas sales bring in plenty of cash. This moves the large outflow into a month with high inflows, so the October and November balances improve.\nSecond, it could arrange a bank overdraft for October and November. The overdraft allows the shop to keep paying wages and rent even though its balance is negative. Because it only pays interest on the amount it uses and only for a short time, this is a cheap way to cover a temporary shortage that will be repaid from Christmas sales.",
+      "tip": "Match the solution to the cause: a seasonal, temporary problem suits short-term solutions."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Tomás owns a café as a sole trader. He needs a new coffee machine and oven costing $15 000. He is choosing between:\n• a 3-year bank loan at 8% interest per year;\n• leasing the equipment for $500 per month for 3 years, including maintenance; at the end the equipment is returned.\nThe café is profitable but has only $2 000 in the bank.\n\nShould Tomás use a bank loan or leasing? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Leasing total = 500 × 36 = $18 000 (vs $15 000 price); no large initial payment; maintenance included → no unexpected repair costs; can upgrade to newer equipment; but Tomás never owns it and pays more than the purchase price",
+        "Loan: Tomás owns the equipment (asset that can be sold later); interest is about 8% (simple estimate: $1 200 per year, at most about $3 600 over 3 years — less in practice because the loan is repaid gradually); but needs security, monthly repayments and he must pay for maintenance/repairs; unlimited liability as a sole trader increases personal risk",
+        "Both spread payments over 3 years, which matters because he has only $2 000 cash",
+        "Ev: justified decision comparing total cost, cash flow and risk, e.g. leasing because maintenance is included and there is no need for security, so cash-flow risk is low; or loan because ownership is cheaper over the life of the equipment"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both options using the data (e.g. total leasing cost of $18 000), with a justified decision explaining why it is better or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one option applied to the café; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of loans and/or leasing with little application."
+        }
+      ],
+      "model": "Leasing would cost $500 × 36 = $18 000 over three years, which is $3 000 more than the purchase price, and Tomás would never own the equipment. However, he does not need a large payment at the start, which matters because he only has $2 000 in the bank, and maintenance is included, so a breakdown would not cause an unexpected bill.\nWith a bank loan Tomás would own the machine and oven, and the interest would be less than $3 600 in total because the amount owed falls each year as it is repaid, so it is probably cheaper overall. But the bank may want security, and as a sole trader he has unlimited liability, so his personal possessions are at risk if he cannot repay. He would also have to pay for any repairs.\nI recommend leasing. Although it costs more, it protects Tomás’s weak cash position: payments are fixed at $500 a month and there are no repair costs, so it is easier to plan his cash flow. Coffee machines need regular maintenance and can become outdated, so being able to replace them after three years is also useful. If the café’s cash balance improves, buying with a loan would become the cheaper choice next time.",
+      "tip": "Work out the total cost of each option — examiners reward using the numbers in the question."
+    }
+  ]
+}

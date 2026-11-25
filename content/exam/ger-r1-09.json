@@ -1,0 +1,82 @@
+{
+ "id": "ger-r1-09",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 1 (Listening) style – read the transcript as if you heard it.\nSie hören eine Durchsage im Kaufhaus:\n„Liebe Kundinnen und Kunden, heute gibt es in der Sportabteilung im dritten Stock zwanzig Prozent Rabatt auf alle Turnschuhe. Das Angebot gilt nur bis 18 Uhr.“\n(a) Wo ist die Sportabteilung?  A im zweiten Stock  B im dritten Stock  C im Erdgeschoss\n(b) Was ist heute billiger?  A Jacken  B Taschen  C Sportschuhe",
+   "ms": [
+    "(a) B",
+    "(b) C"
+   ],
+   "model": "(a) B (b) C",
+   "tip": "Turnschuhe = Sportschuhe: the answer options often use a synonym of what you hear."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 1 (Listening) style – read the transcript.\nSie hören eine Nachricht auf dem Anrufbeantworter:\n„Hallo Oma, hier ist Lisa. Ich kann am Dienstag leider nicht kommen, weil ich ein Fußballspiel habe. Geht es am Donnerstag? Ich bringe einen Kuchen mit – keinen Apfelkuchen, sondern einen Schokoladenkuchen.“\n(a) Wann möchte Lisa ihre Oma besuchen?  A Dienstag  B Donnerstag  C Samstag\n(b) Was bringt sie mit?  A Apfelkuchen  B Schokoladenkuchen  C Blumen",
+   "ms": [
+    "(a) B",
+    "(b) B"
+   ],
+   "model": "(a) B (b) B",
+   "tip": "Both the day and the cake are traps: the first one mentioned is wrong."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 1 (Listening) style. Sie hören ein Gespräch zwischen Nina und Ben über die Ferien. Wer sagt das? Schreiben Sie N (Nina) oder B (Ben).\nBen: Wo warst du in den Ferien, Nina?\nNina: Wir waren an der Ostsee. Das Wetter war leider schlecht, aber das Hotel war super. Und du?\nBen: Ich war mit meinem Vater in den Bergen. Wir sind viel gewandert, aber das Essen in der Jugendherberge war schrecklich.\nNina: Wandern finde ich langweilig. Ich bin lieber am Strand, auch wenn es regnet.\nBen: Nächstes Jahr möchte ich auch ans Meer – vielleicht nach Spanien.\n(a) … war am Meer.\n(b) … fand das Essen nicht gut.\n(c) … hatte Pech mit dem Wetter.\n(d) … plant eine Reise nach Spanien.",
+   "ms": [
+    "(a) N",
+    "(b) B",
+    "(c) N",
+    "(d) B"
+   ],
+   "model": "(a) N (b) B (c) N (d) B",
+   "tip": "Ostsee = sea: you must know place vocabulary to link it to „am Meer“."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 1 (Listening) style. Sie hören ein Interview mit Katrin. Wählen Sie die richtige Antwort (A, B oder C).\nInterviewer: Katrin, du arbeitest ehrenamtlich. Was machst du genau?\nKatrin: Ich helfe zweimal pro Woche in einer Suppenküche. Früher habe ich in einem Altersheim gearbeitet, aber das war zu weit weg von meiner Wohnung.\nInterviewer: Was gefällt dir an der Arbeit?\nKatrin: Ich lerne Menschen kennen, die ein ganz anderes Leben haben. Das Kochen selbst finde ich nicht so toll – ich wasche lieber ab!\nInterviewer: Und in Zukunft?\nKatrin: Nach dem Abitur will ich ein Jahr in Afrika in einem Schulprojekt arbeiten.\n(a) Wo arbeitet Katrin jetzt?  A in einem Altersheim  B in einer Suppenküche  C in einer Schule\n(b) Warum arbeitet sie nicht mehr im Altersheim?  A Es war zu anstrengend.  B Sie hatte keine Zeit.  C Es war zu weit weg.\n(c) Was macht sie lieber als Kochen?  A Abwaschen  B Einkaufen  C mit Kindern spielen\n(d) Was plant sie nach dem Abitur?  A ein Studium  B ein Jahr in einem Schulprojekt  C eine Ausbildung als Köchin",
+   "ms": [
+    "(a) B",
+    "(b) C",
+    "(c) A",
+    "(d) B"
+   ],
+   "model": "(a) B (b) C (c) A (d) B",
+   "tip": "Früher … aber jetzt: questions often test the difference between past and present."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "Paper 1 (Listening) style – longer interview. Wählen Sie die richtige Antwort (A, B oder C).\nModerator: Herr Weber, Sie sind Bergführer in den Alpen. Wie lange machen Sie das schon?\nWeber: Seit fünfzehn Jahren. Eigentlich habe ich Mathematik studiert und war drei Jahre Lehrer, aber im Klassenzimmer war ich nie glücklich.\nModerator: Ist der Beruf gefährlich?\nWeber: Weniger, als man denkt. Das größte Risiko ist das Wetter, nicht die Berge selbst. Wenn ein Gewitter kommt, gehen wir sofort zurück, auch wenn die Gäste enttäuscht sind.\nModerator: Was hat sich verändert?\nWeber: Die Gletscher werden jedes Jahr kleiner. Manche Wege, die ich früher genommen habe, sind heute zu gefährlich, weil das Eis fehlt.\nModerator: Wer sind Ihre Gäste?\nWeber: Früher kamen vor allem Deutsche, heute habe ich viele Gäste aus Asien und Amerika.\n(a) Was war Herr Weber früher von Beruf?  A Büroangestellter  B Mathematikprofessor  C Lehrer\n(b) Was ist das größte Risiko?  A das Wetter  B die Berge  C die Gäste\n(c) Was macht er bei Gewitter?  A Er wartet in einer Hütte.  B Er geht sofort zurück.  C Er geht weiter, wenn die Gäste es wollen.\n(d) Warum sind manche Wege heute gefährlich?  A Es gibt zu viel Schnee.  B Es gibt zu viele Touristen.  C Das Eis fehlt.\n(e) Woher kommen seine Gäste heute oft?  A aus Asien und Amerika  B aus Deutschland  C aus der Schweiz",
+   "ms": [
+    "(a) C",
+    "(b) A",
+    "(c) B",
+    "(d) C",
+    "(e) A"
+   ],
+   "model": "(a) C (b) A (c) B (d) C (e) A",
+   "tip": "Every wrong option is mentioned or hinted at in the text: choose what the speaker actually says is true now."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 1 (Listening) style. Sie hören drei Jugendliche über Handys in der Schule. Wer sagt das? Schreiben Sie J (Jana), F (Felix) oder M (Murat).\nJana: „Bei uns sind Handys in der Schule total verboten. Ich finde das eigentlich gut, denn in der Pause reden wir jetzt mehr miteinander. Nur wenn ich meine Mutter anrufen muss, ist es ein Problem.“\nFelix: „Wir dürfen Handys im Unterricht benutzen, zum Beispiel für Recherchen. Aber viele Schüler spielen heimlich Spiele. Ich glaube, die Lehrer sollten strenger sein.“\nMurat: „Ich habe gar kein Smartphone, nur ein altes Handy zum Telefonieren. Meine Freunde finden das komisch, aber so habe ich mehr Zeit für Sport und Musik.“\n(a) … darf das Handy in der Schule nicht benutzen.\n(b) … sagt, dass die Schüler jetzt mehr miteinander sprechen.\n(c) … meint, die Lehrer sollten mehr kontrollieren.\n(d) … hat kein modernes Handy.\n(e) … sagt, dass andere das Handy im Unterricht falsch benutzen.\n(f) … hat dadurch mehr Zeit für Hobbys.",
+   "ms": [
+    "(a) J",
+    "(b) J",
+    "(c) F",
+    "(d) M",
+    "(e) F",
+    "(f) M"
+   ],
+   "model": "(a) J (b) J (c) F (d) M (e) F (f) M",
+   "tip": "Each speaker can be the answer more than once: do not cross people off."
+  }
+ ]
+}

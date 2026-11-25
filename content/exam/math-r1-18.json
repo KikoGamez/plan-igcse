@@ -1,0 +1,83 @@
+{
+  "id": "math-r1-18",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "p = (3 over −2) and q = (−1 over 5).\nFind 2p − q as a column vector.",
+      "ms": [
+        "M1: 2p = (6 over −4) or one component correct",
+        "A1: (7 over −9)"
+      ],
+      "model": "2p = (6 over −4). 2p − q = (6 − (−1) over −4 − 5) = (7 over −9).",
+      "tip": "Write column vectors with the numbers one above the other and no comma."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "u = (7 over −24).\nFind |u|, the magnitude of u.",
+      "ms": [
+        "M1: √(7² + (−24)²) or √625",
+        "A1: 25"
+      ],
+      "model": "|u| = √(49 + 576) = √625 = 25.",
+      "tip": "Square the negative component in a bracket: (−24)² = 576."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A is the point (−1, 4) and B is the point (3, 1).\n(a) Write AB as a column vector. [1]\n(b) Find |AB|. [1]\n(c) The point C is such that AC = 3AB (as vectors). Find the coordinates of C. [2]",
+      "ms": [
+        "(a) B1: (4 over −3)",
+        "(b) B1: 5",
+        "(c) M1: 3 × their AB = (12 over −9) or adds a multiple of AB to A",
+        "(c) A1: (11, −5)"
+      ],
+      "model": "(a) AB = (3 − (−1) over 1 − 4) = (4 over −3).\n(b) |AB| = √(16 + 9) = 5.\n(c) AC = (12 over −9), so C = (−1 + 12, 4 − 9) = (11, −5).",
+      "tip": "A vector from A to B is 'B − A'; to find C, add the vector to the coordinates of A."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "OAB is a triangle. OA = a and OB = b (vectors).\nP is the point on AB such that AP : PB = 2 : 1. M is the midpoint of OA.\n(a) Find OP in terms of a and b. Give your answer in its simplest form. [2]\n(b) Find MP in terms of a and b. Give your answer in its simplest form. [2]",
+      "ms": [
+        "(a) M1: a + ⅔(b − a) or a correct route",
+        "(a) A1: ⅓a + ⅔b",
+        "(b) M1: MP = −½a + their OP or MA + AP",
+        "(b) A1: −⅙a + ⅔b"
+      ],
+      "model": "(a) AB = b − a. AP = ⅔AB = ⅔(b − a).\nOP = OA + AP = a + ⅔b − ⅔a = ⅓a + ⅔b.\n(b) OM = ½a, so MP = OP − OM = ⅓a + ⅔b − ½a = −⅙a + ⅔b.",
+      "tip": "AP : PB = 2 : 1 means AP is 2/3 of AB, not 1/2."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "OABC is a trapezium. OA = a and OC = c (vectors).\nCB is parallel to OA and CB = 2a.\nM is the midpoint of AB.\n(a) Find AB in terms of a and c. [1]\n(b) Find OM in terms of a and c. Give your answer in its simplest form. [2]\n(c) The line CB is extended to the point E so that CE = 3a. Show that O, M and E lie on a straight line. [3]",
+      "ms": [
+        "(a) B1: a + c",
+        "(b) M1: a + ½(their AB)",
+        "(b) A1: (3/2)a + ½c",
+        "(c) B1: OE = c + 3a",
+        "(c) M1: OM = ½OE (or OE = 2OM) shown",
+        "(c) A1: so OM and OE are parallel and share the point O, so O, M and E are collinear"
+      ],
+      "model": "(a) AB = AO + OC + CB = −a + c + 2a = a + c.\n(b) OM = OA + ½AB = a + ½a + ½c = (3/2)a + ½c.\n(c) OE = OC + CE = c + 3a.\nOM = ½(3a + c) = ½OE.\nOM is a multiple of OE, so they are parallel, and both lines pass through O. So O, M and E are collinear.",
+      "tip": "To prove collinearity you need two things: one vector is a multiple of the other, AND they share a point."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "OAB is a triangle. OA = a and OB = b (vectors).\nP is the point on OA such that OP = ⅔a. Q is the midpoint of AB.\nR is the point on OB extended such that OR = kb, where k is a number.\nP, Q and R lie on a straight line.\n(a) Find PQ in terms of a and b. Give your answer in its simplest form. [2]\n(b) Write down PR in terms of a, b and k. [1]\n(c) Find the value of k. [3]",
+      "ms": [
+        "(a) M1: PQ = −⅔a + a + ½(b − a) or OQ − OP with OQ = ½a + ½b",
+        "(a) A1: −⅙a + ½b",
+        "(b) B1: −⅔a + kb",
+        "(c) M1: PR = λ PQ (PR is a multiple of PQ)",
+        "(c) M1: compares coefficients of a: −⅔ = −λ/6 giving λ = 4",
+        "(c) A1: k = 2"
+      ],
+      "model": "(a) OQ = ½a + ½b. PQ = OQ − OP = ½a + ½b − ⅔a = −⅙a + ½b.\n(b) PR = OR − OP = −⅔a + kb.\n(c) P, Q, R collinear, so PR = λ PQ:\n−⅔a + kb = λ(−⅙a + ½b)\na terms: −⅔ = −λ/6 → λ = 4\nb terms: k = 4 × ½ = 2.",
+      "tip": "Compare the coefficients of a and of b separately: each gives one equation."
+    }
+  ]
+}

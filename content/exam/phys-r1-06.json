@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-06",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Describe the difference between a transverse wave and a longitudinal wave.",
+   "ms": [
+    "transverse: vibrations / oscillations at right angles (perpendicular) to the direction of travel (energy transfer)",
+    "longitudinal: vibrations parallel to (along) the direction of travel"
+   ],
+   "model": "In a transverse wave the vibrations are at right angles to the direction the wave travels. In a longitudinal wave the vibrations are parallel to the direction the wave travels.",
+   "tip": "Refer to the direction of the vibration compared with the direction of travel."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "An electric bell is ringing inside a sealed glass jar. A pump slowly removes the air from the jar. The bell can still be seen moving but the sound becomes fainter and then cannot be heard.\nExplain this observation.",
+   "ms": [
+    "sound needs a medium (particles) to travel through / vibrations passed on by particles",
+    "a vacuum has no particles, so the sound cannot be transmitted (light can travel through a vacuum so the bell is still seen)"
+   ],
+   "model": "Sound is transmitted by particles of a medium vibrating and passing on the vibrations. As the air is removed there are fewer and then no particles, so the sound cannot travel through the vacuum. Light does not need a medium, so the bell can still be seen."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A wave travels along a rope. The distance from one crest to the next crest is 0.60 m. Each crest is 8.0 cm above the undisturbed position of the rope. 15 complete waves pass a point in 5.0 s.\n(a) State the amplitude of the wave. [1]\n(b) State the wavelength of the wave. [1]\n(c) Calculate the frequency of the wave. [1]\n(d) Calculate the speed of the wave. [2]",
+   "ms": [
+    "(a) 8.0 cm (allow 0.080 m)",
+    "(b) 0.60 m",
+    "(c) 15 ÷ 5.0 = 3.0 Hz",
+    "(d) C1: v = fλ = 3.0 × 0.60 (ecf)",
+    "(d) A1: 1.8 m/s"
+   ],
+   "model": "(a) Amplitude = 8.0 cm.\n(b) Wavelength = 0.60 m.\n(c) f = 15 ÷ 5.0 = 3.0 Hz.\n(d) v = fλ = 3.0 × 0.60 = 1.8 m/s.",
+   "tip": "Amplitude is measured from the rest position to a crest, not crest to trough."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Water waves of frequency 2.0 Hz travel at 0.30 m/s in deep water. They pass into shallow water, where their speed is 0.20 m/s.\n(a) Calculate the wavelength of the waves in deep water and in shallow water. [3]\n(b) The waves meet the boundary between deep and shallow water at an angle. Explain why their direction changes. [1]",
+   "ms": [
+    "(a) C1: λ = v ÷ f",
+    "(a) A1: deep water 0.15 m",
+    "(a) A1: shallow water 0.10 m (frequency unchanged)",
+    "(b) the speed changes (decreases) as the waves cross the boundary, so they refract / change direction"
+   ],
+   "model": "(a) The frequency stays 2.0 Hz.\nDeep: λ = v ÷ f = 0.30 ÷ 2.0 = 0.15 m.\nShallow: λ = 0.20 ÷ 2.0 = 0.10 m.\n(b) The waves slow down as they enter shallow water; arriving at an angle, they change direction – this is refraction.",
+   "tip": "Frequency is set by the source and does not change on refraction; the wavelength changes with the speed."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "Two students measure the speed of sound in air using echoes from a tall wall. One student stands 60 m from the wall and claps. She adjusts her clapping rate until each clap is heard at the same moment as the echo of the previous clap. The other student uses a stopwatch.\n(a) Describe how the students should take their measurements and how they calculate the speed of sound. [4]\n(b) The students find that the time for 20 intervals between claps is 7.2 s. Calculate the speed of sound. [3]",
+   "ms": [
+    "(a) measure the distance to the wall with a tape measure / trundle wheel",
+    "(a) start the stopwatch on one clap and time a large number of intervals (e.g. 20), then divide to find the time for one interval",
+    "(a) in the time for one interval the sound travels to the wall and back, i.e. 2 × distance",
+    "(a) speed = 2 × distance ÷ time for one interval; repeat and take an average",
+    "(b) C1: time for one interval = 7.2 ÷ 20 = 0.36 s",
+    "(b) C1: distance travelled = 2 × 60 = 120 m",
+    "(b) A1: v = 120 ÷ 0.36 = 330 m/s (allow 333 m/s)"
+   ],
+   "model": "(a) Measure the distance from the clapper to the wall with a long tape measure. Once the clapping is in time with the echoes, start the stopwatch on a clap and count 20 intervals before stopping it. Divide by 20 to get the time for one interval. In that time the sound goes to the wall and back, a distance of 2 × 60 m. Speed = 2 × distance ÷ time for one interval. Repeat and average.\n(b) One interval = 7.2 ÷ 20 = 0.36 s; distance = 2 × 60 = 120 m; v = 120 ÷ 0.36 = 330 m/s.",
+   "tip": "Echo questions: the sound travels there AND back, so double the distance."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A loudspeaker produces a note of frequency 680 Hz.\n(a) Describe how the vibrating cone of the loudspeaker produces a sound wave in the air. Use the words compression and rarefaction. [3]\n(b) The speed of sound in air is 340 m/s. Calculate the wavelength of the sound in air. [2]\n(c) The sound passes into water, where its speed is 1500 m/s. State the frequency of the sound in water and calculate its wavelength. [2]",
+   "ms": [
+    "(a) the cone vibrates backwards and forwards (moves the air particles)",
+    "(a) moving forward it pushes air particles closer together: a compression (higher pressure)",
+    "(a) moving back it lets particles spread out: a rarefaction (lower pressure); particles vibrate parallel to the direction the wave travels (longitudinal)",
+    "(b) C1: λ = v ÷ f = 340 ÷ 680",
+    "(b) A1: 0.50 m",
+    "(c) frequency unchanged: 680 Hz",
+    "(c) λ = 1500 ÷ 680 = 2.2 m"
+   ],
+   "model": "(a) The cone vibrates back and forth. When it moves forwards it pushes the air particles closer together, forming a compression of higher pressure; when it moves back the particles spread out, forming a rarefaction of lower pressure. These travel outwards as a longitudinal wave, with the air particles vibrating parallel to the direction of travel.\n(b) λ = v ÷ f = 340 ÷ 680 = 0.50 m.\n(c) The frequency stays 680 Hz. λ = 1500 ÷ 680 = 2.2 m.",
+   "tip": "The air particles do not travel with the wave; they vibrate about fixed positions."
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "eng-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Text A – from a blog by Marco Bellini, owner of a shoe shop in the city centre\nThe council wants to ban cars from the centre “for our health”. Wonderful. Meanwhile, my customers – many of them elderly – will be expected to carry heavy bags half a mile to the nearest car park. Since the trial closure of Market Street last spring, my takings have fallen by 18%. Two shops on my street have already closed. Out-of-town shopping centres have free parking; if we make the centre hard to reach, people will simply drive there instead. Clean air is lovely, but not if the price is an empty high street.\n\nIdentify one fact and one opinion from Text A. [2]",
+      "ms": [
+        "Fact (1): e.g. his takings have fallen by 18% since the trial closure / two shops on his street have closed / out-of-town centres have free parking / the nearest car park is half a mile away",
+        "Opinion (1): e.g. “Clean air is lovely, but not if the price is an empty high street” / “people will simply drive there instead” / “Wonderful” (sarcastic)"
+      ],
+      "model": "Fact: his takings have fallen by 18% since Market Street was closed.\nOpinion: “Clean air is lovely, but not if the price is an empty high street.”",
+      "tip": "A fact can be checked; an opinion is a judgement or prediction."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Text B – from an article in the local newspaper by Dr Amara Osei, a family doctor\nEvery week I treat children whose asthma is made worse by traffic fumes. Our city’s air pollution is above the national safe limit on more than 60 days a year. When other European cities have removed most cars from their centres, local studies have reported more people walking through shopping streets, not fewer, because visitors enjoy walking and lingering. Drivers who insist on parking outside every shop are putting their own convenience ahead of children’s lungs. A car-free centre is not a punishment; it is an invitation to take back our streets.\n\nWhat is Dr Osei’s attitude towards drivers who want to park in the centre? Support your answer with a short quotation. [2]",
+      "ms": [
+        "Attitude: critical/disapproving — she sees them as selfish/putting themselves first (1)",
+        "Quotation: “putting their own convenience ahead of children’s lungs” or “insist” (1)"
+      ],
+      "model": "She is critical of them and sees them as selfish: they are “putting their own convenience ahead of children’s lungs”.",
+      "tip": "Implicit attitudes show in word choice — ‘insist’ and ‘convenience’ are loaded words."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Text A – from a blog by Marco Bellini, owner of a shoe shop in the city centre\nThe council wants to ban cars from the centre “for our health”. Wonderful. Meanwhile, my customers – many of them elderly – will be expected to carry heavy bags half a mile to the nearest car park. Since the trial closure of Market Street last spring, my takings have fallen by 18%. Two shops on my street have already closed. Out-of-town shopping centres have free parking; if we make the centre hard to reach, people will simply drive there instead. Clean air is lovely, but not if the price is an empty high street.\n\nMarco Bellini says his takings have fallen by 18% since the trial closure of Market Street.\n\nEvaluate how convincing this evidence is. Give one strength and one weakness, and explain each. [4]",
+      "ms": [
+        "Strength: a specific figure from real, first-hand experience (1)",
+        "Explanation: makes the effect on businesses concrete and believable; readers may sympathise (1)",
+        "Weakness: it is one shop on one street during one trial / may have other causes, e.g. online shopping, season, the economy (1)",
+        "Explanation: a single example cannot prove the whole centre would suffer; he may also be biased because his income depends on it (1)"
+      ],
+      "model": "The figure is convincing because it is precise and based on Marco’s own takings, which makes the impact on shopkeepers feel real. However, it comes from just one shop during a single trial, and the fall could have other causes, such as more people shopping online. Marco also has a personal interest in opposing the ban, so readers should treat his evidence with some caution.",
+      "tip": "Evaluate = ask how reliable, how typical and how biased the evidence is."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Text A – from a blog by Marco Bellini, owner of a shoe shop in the city centre\nThe council wants to ban cars from the centre “for our health”. Wonderful. Meanwhile, my customers – many of them elderly – will be expected to carry heavy bags half a mile to the nearest car park. Since the trial closure of Market Street last spring, my takings have fallen by 18%. Two shops on my street have already closed. Out-of-town shopping centres have free parking; if we make the centre hard to reach, people will simply drive there instead. Clean air is lovely, but not if the price is an empty high street.\n\nText B – from an article in the local newspaper by Dr Amara Osei, a family doctor\nEvery week I treat children whose asthma is made worse by traffic fumes. Our city’s air pollution is above the national safe limit on more than 60 days a year. When other European cities have removed most cars from their centres, local studies have reported more people walking through shopping streets, not fewer, because visitors enjoy walking and lingering. Drivers who insist on parking outside every shop are putting their own convenience ahead of children’s lungs. A car-free centre is not a punishment; it is an invitation to take back our streets.\n\nYou support the car ban. Write a short paragraph (about 50 words) for your article that first acknowledges Marco Bellini’s concern and then challenges it, using an idea from Text B. [4]",
+      "ms": [
+        "Accurately refers to a concern from Text A (e.g. elderly shoppers, falling takings, shoppers driving out of town) (1)",
+        "Concedes fairly that the concern has some validity (1)",
+        "Challenges it with an idea from Text B (e.g. car-free centres elsewhere attracted more walkers; health costs) (1)",
+        "Uses a suitable connective/register for a newspaper article (e.g. “Admittedly … However …”) (1)"
+      ],
+      "model": "Admittedly, Mr Bellini’s worry is understandable: an 18% fall in takings would alarm any shopkeeper. However, his evidence comes from a single trial on one street. Where other European cities have gone car-free, studies found more people strolling past shop windows, not fewer – suggesting that, given time, a pleasant centre attracts customers rather than driving them away.",
+      "tip": "Conceding a point before challenging it makes your argument sound fair — and that is persuasive."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Text A – from a blog by Marco Bellini, owner of a shoe shop in the city centre\nThe council wants to ban cars from the centre “for our health”. Wonderful. Meanwhile, my customers – many of them elderly – will be expected to carry heavy bags half a mile to the nearest car park. Since the trial closure of Market Street last spring, my takings have fallen by 18%. Two shops on my street have already closed. Out-of-town shopping centres have free parking; if we make the centre hard to reach, people will simply drive there instead. Clean air is lovely, but not if the price is an empty high street.\n\nText B – from an article in the local newspaper by Dr Amara Osei, a family doctor\nEvery week I treat children whose asthma is made worse by traffic fumes. Our city’s air pollution is above the national safe limit on more than 60 days a year. When other European cities have removed most cars from their centres, local studies have reported more people walking through shopping streets, not fewer, because visitors enjoy walking and lingering. Drivers who insist on parking outside every shop are putting their own convenience ahead of children’s lungs. A car-free centre is not a punishment; it is an invitation to take back our streets.\n\nTASK: Write an article for your local newspaper giving your views on whether cars should be banned from the city centre. In your article you should evaluate the ideas in both texts and give your own views, using ideas from both texts to support your argument.\n\nWrite ONE paragraph (about 100 words) of your article that evaluates how convincing each writer’s evidence is. [6]",
+      "ms": [
+        "Indicative content:",
+        "Text A: 18% fall and two closures — specific but from one street/one trial; possible other causes; writer’s self-interest; concern for elderly customers is fair and practical",
+        "Text A: prediction that people will drive out of town is speculation, not evidence",
+        "Text B: doctor’s first-hand observation of asthma — authoritative and emotive; pollution above safe limits on 60+ days — strong statistic",
+        "Text B: studies from other cities — encouraging but vague (which cities/studies? are they comparable?); emotive language about drivers may alienate some readers",
+        "Judgement: which evidence is stronger and why"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Evaluates ideas from the texts thoroughly (questions evidence, bias, scope); builds them into a clear argument; confident, persuasive style; register exactly suited to newspaper readers; accurate."
+        },
+        {
+          "m": "3–4",
+          "d": "Uses relevant ideas with some evaluation, but often agrees/disagrees or summarises; clear but less developed argument; mostly appropriate register; generally accurate."
+        },
+        {
+          "m": "1–2",
+          "d": "Repeats or copies ideas with little evaluation; weak sense of argument or audience; errors may affect clarity."
+        }
+      ],
+      "model": "Both writers offer evidence, but of different strength. Mr Bellini’s 18% fall in takings is striking, yet it comes from one shop during one trial, and his fear that shoppers will drive out of town is a prediction rather than proof – understandable, given his livelihood depends on it. Dr Osei, by contrast, writes with medical authority: she treats asthmatic children weekly, and pollution exceeding safe limits on over 60 days a year is hard to dismiss. Her claim about other cities is vaguer – we are not told which cities or studies – but overall her evidence carries more weight.",
+      "tip": "Compare the evidence directly (‘by contrast’, ‘more convincing because’) rather than dealing with each text separately."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Text A – from a blog by Marco Bellini, owner of a shoe shop in the city centre\nThe council wants to ban cars from the centre “for our health”. Wonderful. Meanwhile, my customers – many of them elderly – will be expected to carry heavy bags half a mile to the nearest car park. Since the trial closure of Market Street last spring, my takings have fallen by 18%. Two shops on my street have already closed. Out-of-town shopping centres have free parking; if we make the centre hard to reach, people will simply drive there instead. Clean air is lovely, but not if the price is an empty high street.\n\nText B – from an article in the local newspaper by Dr Amara Osei, a family doctor\nEvery week I treat children whose asthma is made worse by traffic fumes. Our city’s air pollution is above the national safe limit on more than 60 days a year. When other European cities have removed most cars from their centres, local studies have reported more people walking through shopping streets, not fewer, because visitors enjoy walking and lingering. Drivers who insist on parking outside every shop are putting their own convenience ahead of children’s lungs. A car-free centre is not a punishment; it is an invitation to take back our streets.\n\nTASK: Write an article for your local newspaper giving your views on whether cars should be banned from the city centre. In your article you should evaluate the ideas in both texts and give your own views, using ideas from both texts to support your argument.\n\nWrite the headline, opening paragraph and concluding paragraph of your article (about 150 words in total). [8]",
+      "ms": [
+        "Indicative content:",
+        "Headline that is engaging and signals the issue/position",
+        "Opening hooks the reader (question, striking fact, short anecdote) and establishes a clear position",
+        "Reference to ideas from both texts (e.g. children’s health, elderly shoppers, shop closures)",
+        "Conclusion pulls the argument together; may propose a compromise (e.g. phased ban, free park-and-ride, accessible drop-off points, support for shops)",
+        "Ends with a memorable final line / call to action",
+        "Register suited to adult readers of a local newspaper"
+      ],
+      "levels": [
+        {
+          "m": "7–8",
+          "d": "Thorough evaluation of ideas from both texts integrated into a developed, convincing argument; engaging, controlled article style (headline, hook, purposeful conclusion); wide vocabulary, varied sentences, highly accurate."
+        },
+        {
+          "m": "5–6",
+          "d": "Some evaluation of ideas from both texts; clear argument and article conventions; appropriate register; mostly accurate."
+        },
+        {
+          "m": "3–4",
+          "d": "Ideas from the texts mostly reported; argument simple; some awareness of form and audience; some errors."
+        },
+        {
+          "m": "1–2",
+          "d": "Few ideas, little evaluation; form/audience unclear; frequent errors."
+        }
+      ],
+      "model": "HEADLINE: Clean Air or Empty Shops? We Can Have One Without the Other\n\nOn more than 60 days a year, the air in our city centre is officially unsafe to breathe. For the children Dr Amara Osei treats for asthma, that is not a statistic – it is a frightening night spent fighting for breath. Yet shopkeepers like Marco Bellini, who has watched his takings fall by 18%, fear that a car ban would turn our high street into a ghost town. Both are right to worry. The question is whether we can protect lungs without sacrificing livelihoods.\n\n…\n\nI believe we can – but only if the ban comes with help. A free park-and-ride, drop-off points for elderly shoppers and lower business rates during the change would answer Mr Bellini’s fears. Our children cannot choose the air they breathe. We can.",
+      "tip": "An opening that reflects both sides and a conclusion that solves the problem shows evaluation, not just opinion."
+    }
+  ]
+}

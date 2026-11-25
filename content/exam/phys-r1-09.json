@@ -1,0 +1,85 @@
+{
+ "id": "phys-r1-09",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "A hairdryer has a plastic casing and is double-insulated. Explain why it does not need an earth wire.",
+   "ms": [
+    "the casing is an insulator / non-conducting",
+    "so it cannot become live (and give a shock) even if a live wire touches it"
+   ],
+   "model": "The plastic casing is an electrical insulator, so even if the live wire came loose and touched it, the casing could not become live and the user could not get an electric shock."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "(a) Define the kilowatt-hour (kW h). [1]\n(b) State the number of joules in 1 kW h. [1]",
+   "ms": [
+    "(a) energy transferred by a 1 kW appliance in 1 hour",
+    "(b) 3 600 000 J (3.6 × 10⁶ J)"
+   ],
+   "model": "(a) The kilowatt-hour is the energy transferred by an appliance of power 1 kW in 1 hour.\n(b) 1 kW h = 1000 W × 3600 s = 3.6 × 10⁶ J.",
+   "tip": "The kW h is a unit of ENERGY, not power."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A 10 Ω resistor and a 15 Ω resistor are connected in parallel to a power supply. The ammeter in the main circuit reads 1.5 A.\n(a) Calculate the combined resistance of the two resistors. [2]\n(b) Calculate the p.d. of the power supply. [1]\n(c) Calculate the current in the 15 Ω resistor. [1]\n(d) State why the combined resistance is less than either resistor alone. [1]",
+   "ms": [
+    "(a) C1: 1/R = 1/10 + 1/15 (or R = (10 × 15) ÷ (10 + 15))",
+    "(a) A1: 6.0 Ω",
+    "(b) V = IR = 1.5 × 6.0 = 9.0 V (ecf)",
+    "(c) I = 9.0 ÷ 15 = 0.60 A (ecf)",
+    "(d) adding a branch gives the current an extra path, so more current flows for the same p.d."
+   ],
+   "model": "(a) 1/R = 1/10 + 1/15 = 3/30 + 2/30 = 5/30, so R = 6.0 Ω.\n(b) V = IR = 1.5 × 6.0 = 9.0 V.\n(c) The p.d. across each branch is 9.0 V, so I = 9.0 ÷ 15 = 0.60 A.\n(d) The second resistor provides an extra path for the current, so the total current is larger for the same p.d.\n(Check: 9.0 ÷ 10 = 0.90 A; 0.90 + 0.60 = 1.5 A.)",
+   "tip": "Don't forget to invert 1/R at the end."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A kitchen circuit is protected by a trip switch (circuit breaker) rated at 16 A. The mains p.d. is 230 V. A 2.0 kW heater and a 1.5 kW kettle are switched on. A 0.60 kW toaster is then switched on as well.\n(a) Calculate the total current when all three appliances are on. [2]\n(b) Explain what happens and why the trip switch is needed. [2]",
+   "ms": [
+    "(a) C1: I = P ÷ V = 4100 ÷ 230 (allow adding currents 8.7 + 6.5 + 2.6)",
+    "(a) A1: 18 A (allow 17.8 A)",
+    "(b) current is greater than 16 A so the trip switch trips / opens / breaks the circuit",
+    "(b) prevents the cables overheating (too large a current), which could cause a fire"
+   ],
+   "model": "(a) Total power = 2000 + 1500 + 600 = 4100 W.\nI = P ÷ V = 4100 ÷ 230 = 17.8 A ≈ 18 A.\n(b) 18 A is more than 16 A, so the trip switch opens and cuts off the supply. Without it the large current would make the cables overheat, which could start a fire.",
+   "tip": "Overloading means too much current: the hazard is overheating and fire, not electric shock."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A 9.0 V battery is connected to a 2.0 Ω resistor in series with a parallel combination of a 4.0 Ω resistor and a 12 Ω resistor.\n(a) Calculate the combined resistance of the parallel combination. [2]\n(b) Calculate the current from the battery. [2]\n(c) Calculate the p.d. across the parallel combination. [2]\n(d) Calculate the current in the 12 Ω resistor. [1]",
+   "ms": [
+    "(a) C1: 1/R = 1/4.0 + 1/12",
+    "(a) A1: 3.0 Ω",
+    "(b) C1: total R = 2.0 + 3.0 = 5.0 Ω (ecf)",
+    "(b) A1: I = 9.0 ÷ 5.0 = 1.8 A",
+    "(c) C1: p.d. across 2.0 Ω = 1.8 × 2.0 = 3.6 V (or V = 1.8 × 3.0)",
+    "(c) A1: 9.0 − 3.6 = 5.4 V",
+    "(d) 5.4 ÷ 12 = 0.45 A (ecf)"
+   ],
+   "model": "(a) 1/R = 1/4.0 + 1/12 = 3/12 + 1/12 = 4/12, so R = 3.0 Ω.\n(b) Total resistance = 2.0 + 3.0 = 5.0 Ω; I = 9.0 ÷ 5.0 = 1.8 A.\n(c) p.d. across 2.0 Ω = 1.8 × 2.0 = 3.6 V, so p.d. across the parallel part = 9.0 − 3.6 = 5.4 V.\n(d) I = 5.4 ÷ 12 = 0.45 A. (Check: the 4.0 Ω carries 1.35 A; 1.35 + 0.45 = 1.8 A.)",
+   "tip": "Check your answer: the branch currents must add up to the battery current."
+  },
+  {
+   "lvl": 3,
+   "marks": 7,
+   "q": "A household replaces a 60 W filament lamp with a 9.0 W LED lamp giving the same light. The mains p.d. is 230 V. The lamp is used for 5.0 hours every day.\n(a) Calculate the current in the 60 W lamp. [2]\n(b) Calculate the energy, in joules, transferred by the 60 W lamp in one day. [2]\n(c) Electricity costs 15 cents per kW h. Calculate how much money is saved in one year (365 days) by using the LED lamp. [3]",
+   "ms": [
+    "(a) C1: I = P ÷ V = 60 ÷ 230",
+    "(a) A1: 0.26 A",
+    "(b) C1: E = Pt (= IVt) = 60 × 5.0 × 3600",
+    "(b) A1: 1 080 000 J (1.1 × 10⁶ J)",
+    "(c) C1: power saved = 60 − 9.0 = 51 W = 0.051 kW",
+    "(c) C1: energy saved = 0.051 × 5.0 × 365 = 93 kW h",
+    "(c) A1: 93 × 15 = 1400 cents (allow 1396 cents / 14 dollars or euros)"
+   ],
+   "model": "(a) I = P ÷ V = 60 ÷ 230 = 0.26 A.\n(b) E = Pt = 60 × (5.0 × 3600) = 1 080 000 J.\n(c) Power saved = 51 W = 0.051 kW. Time per year = 5.0 × 365 = 1825 h.\nEnergy saved = 0.051 × 1825 = 93 kW h.\nMoney saved = 93 × 15 = 1400 cents (about 14 in whole currency units).",
+   "tip": "For joules use seconds and watts; for kW h use hours and kilowatts – do not mix them."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "cs-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "State two activities carried out in the analysis stage of the program development life cycle.",
+      "ms": [
+        "identifying the problem / requirements (what the program must do)",
+        "abstraction – removing unnecessary detail",
+        "decomposition – breaking the problem into smaller parts",
+        "identifying inputs, processes, outputs and storage"
+      ],
+      "model": "In the analysis stage the programmer identifies the requirements of the problem and uses abstraction to remove unnecessary details."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Describe the shape and use of each of these flowchart symbols:\n(a) terminator [1]\n(b) process [1]\n(c) subroutine (predefined process). [1]",
+      "ms": [
+        "(a) rounded rectangle / oval – marks the start or end (START / STOP) of the algorithm",
+        "(b) rectangle – an action / calculation / assignment, e.g. Total ← Total + Mark",
+        "(c) rectangle with double vertical lines at each side – calls a subroutine / predefined procedure"
+      ],
+      "model": "(a) A terminator is a rounded rectangle used for START and STOP.\n(b) A process is a rectangle used for an action or calculation, such as Total ← Total + Mark.\n(c) A subroutine is a rectangle with a double line at each side, used to call a predefined procedure or function."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A cinema wants a program to sell tickets. Explain what is meant by a structure diagram and give an example of one for this system, showing at least two levels below the top. (Write the diagram as an indented list.)",
+      "ms": [
+        "a structure diagram shows the decomposition of a system into sub-systems / smaller tasks (1)",
+        "hierarchical / top-down – each level breaks the level above into more detail (1)",
+        "example has the whole system at the top with sensible sub-systems at the next level, e.g. Choose film, Choose seats, Take payment, Print ticket (1)",
+        "at least one sub-system broken down further, e.g. Take payment → Enter card details, Authorise payment, Issue receipt (1)"
+      ],
+      "model": "A structure diagram is a hierarchical diagram that shows how a system is decomposed into smaller sub-systems, with each level showing more detail.\nCinema ticket system\n   Choose film\n      Display films\n      Select showing\n   Choose seats\n      Show seat plan\n      Select seats\n   Take payment\n      Enter card details\n      Authorise payment\n   Print ticket"
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Write an algorithm in pseudocode, using a WHILE loop, that:\n• inputs whole numbers until −1 is entered\n• outputs how many numbers were entered (not counting −1) and their total.",
+      "ms": [
+        "initialises Count and Total to 0 (1)",
+        "inputs the first number before the loop (1)",
+        "WHILE loop with correct condition Num <> −1 … ENDWHILE (1)",
+        "increments Count and adds Num to Total inside the loop, then inputs the next number (1)",
+        "outputs Count and Total after the loop (1)"
+      ],
+      "model": "Count ← 0\nTotal ← 0\nINPUT Num\nWHILE Num <> -1 DO\n   Count ← Count + 1\n   Total ← Total + Num\n   INPUT Num\nENDWHILE\nOUTPUT \"Numbers entered: \", Count\nOUTPUT \"Total: \", Total",
+      "tip": "Input once before the WHILE and again at the end of the loop body, so −1 is never added."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Study this algorithm.\nCount ← 0\nTotal ← 0\nINPUT Num\nWHILE Num <> 0 DO\n   IF Num MOD 2 = 0\n      THEN\n         Total ← Total + Num\n      ELSE\n         Count ← Count + 1\n   ENDIF\n   INPUT Num\nENDWHILE\nOUTPUT Total, Count\n(a) Complete a trace table (columns Num, Total, Count, OUTPUT) for the inputs 7, 4, 10, 3, 0. [4]\n(b) State the purpose of the algorithm. [2]",
+      "ms": [
+        "(a) Num column: 7, 4, 10, 3, 0 (1)",
+        "(a) Total column: 0, 4, 14 (1)",
+        "(a) Count column: 0, 1, 2 (1)",
+        "(a) OUTPUT: 14, 2 (1)",
+        "(b) adds up / totals the even numbers entered (1)",
+        "(b) counts the odd numbers entered, until 0 is input (1)"
+      ],
+      "model": "(a)\nNum | Total | Count | OUTPUT\n    | 0     | 0     |\n7   |       | 1     |\n4   | 4     |       |\n10  | 14    |       |\n3   |       | 2     |\n0   |       |       | 14, 2\n(b) The algorithm adds up all the even numbers entered and counts how many odd numbers are entered, stopping when 0 is input, then outputs the total and the count.",
+      "tip": "Num MOD 2 = 0 means the number is even."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "A teacher enters the marks of 25 students. Each mark must be a whole number from 0 to 100 inclusive; an invalid mark must be re-entered until it is valid.\nWrite an algorithm in pseudocode that outputs the average mark and the number of marks that are 75 or more.",
+      "ms": [
+        "initialises Total and HighCount to 0 (1)",
+        "count-controlled loop for 25 students, e.g. FOR Student ← 1 TO 25 … NEXT (1)",
+        "inputs a mark with a prompt (1)",
+        "validation loop that re-inputs while Mark < 0 OR Mark > 100 (or REPEAT … UNTIL) (1)",
+        "adds each valid mark to Total (1)",
+        "IF Mark >= 75 THEN HighCount ← HighCount + 1 (1)",
+        "calculates Average ← Total / 25 after the loop (1)",
+        "outputs the average and the count with suitable messages (1)"
+      ],
+      "model": "Total ← 0\nHighCount ← 0\nFOR Student ← 1 TO 25\n   OUTPUT \"Enter mark\"\n   INPUT Mark\n   WHILE Mark < 0 OR Mark > 100 DO\n      OUTPUT \"Invalid - enter a mark from 0 to 100\"\n      INPUT Mark\n   ENDWHILE\n   Total ← Total + Mark\n   IF Mark >= 75\n      THEN\n         HighCount ← HighCount + 1\n   ENDIF\nNEXT Student\nAverage ← Total / 25\nOUTPUT \"Average mark: \", Average\nOUTPUT \"Marks of 75 or more: \", HighCount",
+      "tip": "Calculate the average AFTER the loop, not inside it."
+    }
+  ]
+}

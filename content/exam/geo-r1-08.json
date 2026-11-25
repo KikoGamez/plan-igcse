@@ -1,0 +1,104 @@
+{
+  "id": "geo-r1-08",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define the terms:\n(a) ecosystem [1]\n(b) biodiversity. [1]",
+      "ms": [
+        "(a) a community of plants and animals and the environment (climate, soil, water) they live in, interacting with each other",
+        "(b) the variety / number of different species (plants and animals) in an area"
+      ],
+      "model": "(a) An ecosystem is a community of living things (plants and animals) together with the non-living environment they interact with, such as soil, water and climate.\n(b) Biodiversity is the variety of different species of plants and animals in an area.",
+      "tip": "An ecosystem must include both living and non-living parts."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Lianas and epiphytes are common in the tropical rainforest. Explain how each is suited to the rainforest.",
+      "ms": [
+        "lianas are woody vines rooted in the ground that climb up tree trunks (1) to reach sunlight at the canopy (1)",
+        "epiphytes grow on branches of trees (high up) (1) to reach sunlight (1)",
+        "epiphytes take water from the humid air / rain and nutrients from debris collecting on branches (1)",
+        "little light reaches the forest floor, so climbing / growing high gives access to light (1)"
+      ],
+      "model": "Very little light reaches the rainforest floor because of the dense canopy. Lianas are woody climbing plants rooted in the soil that use tree trunks to climb up into the canopy where there is sunlight. Epiphytes grow on the branches of tall trees to get light, taking water from rain and the humid air and nutrients from rotting leaves that collect around them."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe the natural vegetation of hot deserts.",
+      "ms": [
+        "sparse / little vegetation, large areas of bare ground (1)",
+        "plants widely spaced (1)",
+        "low-growing / small plants, shrubs and grasses (1)",
+        "xerophytes, e.g. cacti (in the Americas) / succulents (1)",
+        "ephemeral plants appear quickly after rain, flower and set seed (1)",
+        "thorny / spiny plants, small or waxy leaves (1)",
+        "dense vegetation only at oases / along wadis (1)"
+      ],
+      "model": "Hot desert vegetation is sparse, with large areas of bare sand and rock. The plants are mostly low shrubs, grasses and cacti, and they grow widely spaced apart. Many are xerophytes with spines or small waxy leaves. After rare rain, ephemeral plants appear quickly, flower and set seed in a few weeks. Thicker vegetation such as date palms is found only at oases.",
+      "tip": "'Describe the vegetation' wants what it looks like; save adaptations for 'explain' questions."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Explain why tropical rainforests have very high biodiversity.",
+      "ms": [
+        "hot (about 27 °C) and wet all year (1) so plants can grow all year round / no winter (dev 1)",
+        "layered structure creates many different habitats / niches (1)",
+        "lots of sunlight / energy at the canopy supports high productivity (1)",
+        "dead material decomposes quickly, recycling nutrients rapidly (1)",
+        "forests have existed for a very long time without ice ages, allowing many species to evolve (1)",
+        "many food sources support many animal species (1)"
+      ],
+      "model": "Rainforests are hot and wet all year, with temperatures around 27 °C and rain almost every day, so there is a continuous growing season and plants grow quickly all year. The layers from the emergents down to the shrub layer create many different habitats with different amounts of light and moisture, so many species can live in different niches. Rapid decomposition recycles nutrients quickly, supporting huge numbers of plants, which in turn provide food for many animals."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Explain the effects of deforestation in tropical rainforests on local people and on the wider world.",
+      "ms": [
+        "local: indigenous people lose their homes / land / way of life (1); conflict with loggers / ranchers (1)",
+        "local: loss of food, medicines and materials from the forest (1)",
+        "local: jobs and income from logging, farming, mining and roads (1) (allow positive effects)",
+        "local: soil erosion and loss of fertility reduce farm yields after a few years (1)",
+        "local: rivers silt up / flooding increases (1)",
+        "global: trees release CO₂ when burned and no longer absorb it (1) → enhanced greenhouse effect / climate change (1)",
+        "global: loss of biodiversity / potential medicines (1)",
+        "global: less transpiration → less rainfall / drier climate regionally (1)"
+      ],
+      "model": "For local people, deforestation can destroy the homes and traditional way of life of indigenous groups, who depend on the forest for food, medicine and building materials, and it can lead to violent conflict with loggers and ranchers. Some local people do gain jobs in logging, ranching and mining. However, once the trees are removed, heavy rain erodes the thin soil and washes out nutrients, so farm yields fall after a few years and rivers silt up, increasing flooding.\nFor the wider world, burning the forest releases carbon dioxide and removes trees that would absorb it, adding to the enhanced greenhouse effect and climate change. Many plant and animal species are lost before they are even studied, including possible medicines. Less transpiration also means less rainfall, which could make the region drier.",
+      "tip": "Split your answer into 'local' and 'global' so you cover both parts of the question."
+    },
+    {
+      "lvl": 3,
+      "marks": 7,
+      "q": "'The economic benefits of clearing the tropical rainforest are greater than the costs.' To what extent do you agree? Refer to a named rainforest.",
+      "ms": [
+        "benefits (Amazon): cattle ranching – Brazil is a major beef exporter; soya farming for export; logging of hardwoods; mining (e.g. iron ore at Carajás); HEP dams (e.g. Belo Monte); roads (e.g. Trans-Amazonian Highway) open up the region",
+        "benefits: jobs, income, tax and export earnings help pay debts and develop the country",
+        "costs: loss of biodiversity; CO₂ emissions and climate change; soil erosion and infertility after a few years; flooding / silting of rivers",
+        "costs: indigenous peoples lose land and way of life; conflict; loss of sustainable income e.g. ecotourism / medicines",
+        "economic benefits often short-term and go to large companies / TNCs; costs long-term and global",
+        "a supported conclusion / judgement"
+      ],
+      "model": "In the Amazon, clearing the forest has brought clear economic benefits to Brazil. Cattle ranching and soya farming on cleared land have made Brazil one of the world's largest exporters of beef and soya. Mining at Carajás produces iron ore, HEP dams such as Belo Monte supply electricity, and roads like the Trans-Amazonian Highway have opened the region up to settlers. These activities create jobs and export earnings that help the country develop.\nHowever, the costs are very high. Once the trees are cleared, the thin soils lose their nutrients within a few years, so farms are abandoned and more forest is cleared. Burning releases huge amounts of carbon dioxide, contributing to climate change. Thousands of species are lost, and indigenous groups lose their land and way of life. Many benefits go to large companies, while the costs are long-term and shared by everyone.\nOverall I disagree with the statement: the benefits are real but short-term, whereas the costs are permanent, so sustainable uses such as selective logging and ecotourism are a better long-term choice.",
+      "tip": "An 'extent' question needs both sides AND a final judgement for Level 3.",
+      "levels": [
+        {
+          "m": "6–7",
+          "d": "Level 3 (comprehensive): Three or more developed ideas covering both benefits and costs, with place-specific detail of a named rainforest, and a supported judgement."
+        },
+        {
+          "m": "3–5",
+          "d": "Level 2 (clear): Two or three ideas with some development, or one-sided but developed; some reference to a named area; judgement may be missing or weak."
+        },
+        {
+          "m": "1–2",
+          "d": "Level 1 (limited): One or two simple, general ideas; no named example or judgement."
+        }
+      ]
+    }
+  ]
+}

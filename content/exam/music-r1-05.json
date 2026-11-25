@@ -1,0 +1,83 @@
+{
+ "id": "music-r1-05",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Give the letters for:\n(a) a rondo with three different episodes\n(b) a theme and three variations",
+   "ms": [
+    "(a) A B A C A D A",
+    "(b) A A1 A2 A3 (allow A A′ A″ A‴)"
+   ],
+   "model": "(a) A B A C A D A (b) A A1 A2 A3"
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Name the texture.\n(a) A choir sings the same tune at the same pitch.\n(b) Four independent melodic lines enter one after another with the same theme, as in a fugue.",
+   "ms": [
+    "(a) unison",
+    "(b) polyphonic / imitative (contrapuntal)"
+   ],
+   "model": "(a) unison (b) polyphonic (imitative)",
+   "tip": "Unison = same notes at the same pitch; doubling in octaves is a separate term."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "A Baroque concerto movement is laid out like this:\nTutti theme in D major → solo violin passage that modulates → part of the tutti theme in A major → solo passage → tutti theme in B minor → solo passage → complete tutti theme in D major.\n(a) Name the form. [1]\n(b) What are the returning tutti theme and the solo passages called? [2]\n(c) State the relationship of A major and of B minor to D major. [2]",
+   "ms": [
+    "(a) ritornello form",
+    "(b) the tutti theme: ritornello",
+    "(b) the solo passages: episodes",
+    "(c) A major: dominant",
+    "(c) B minor: relative minor"
+   ],
+   "model": "(a) Ritornello form. (b) The tutti theme is the ritornello; the solo passages are episodes. (c) A major is the dominant; B minor is the relative minor.",
+   "tip": "Ritornello returns in related keys and often only in part, until the full return in the tonic."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A Classical sonata-form movement is in C minor. State:\n(a) the key of the first subject in the exposition\n(b) the usual key of the second subject in the exposition\n(c) the key of the first subject in the recapitulation\n(d) the section in which the themes are broken up and pass through many keys",
+   "ms": [
+    "(a) C minor",
+    "(b) E♭ major (the relative major)",
+    "(c) C minor (tonic)",
+    "(d) development"
+   ],
+   "model": "(a) C minor (b) E♭ major (c) C minor (d) development",
+   "tip": "A minor-key movement normally moves to its relative major, not its dominant, for the second subject."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Structure in popular and world music.\n(a) An EDM track has: intro (drums only); a section where a synth rises in pitch and a snare roll gets faster; a section where the full kick drum and bass come in at full energy; a quieter, stripped-back section. Name these three sections in order. [3]\n(b) Describe how the texture and tempo change from the ālāp to the gat in a Hindustani performance. [3]",
+   "ms": [
+    "(a) build-up",
+    "(a) drop",
+    "(a) breakdown",
+    "(b) ālāp: soloist with tanpura drone only, free/no regular pulse, slow",
+    "(b) jōr then jhālā: a pulse appears and the tempo gets faster; jhālā is very fast with strummed drone strings",
+    "(b) gat: tabla enters with a tāla cycle; fixed composition with improvisation / call and response between soloist and tabla"
+   ],
+   "model": "(a) Build-up, drop, breakdown. (b) The ālāp is slow and free, with only the soloist over the tanpura drone. In the jōr a steady pulse begins and the music speeds up, reaching a very fast jhālā with rapid strumming. In the gat the tabla joins, playing a tāla cycle under a fixed composition, with improvised exchanges between soloist and tabla.",
+   "tip": "Both structures build energy gradually: this is a useful link in a descriptive answer."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain the difference between each pair of terms.\n(a) imitation and sequence\n(b) ostinato and drone\n(c) homophonic and heterophonic",
+   "ms": [
+    "(a) imitation: one part copies a phrase just played by another part",
+    "(a) sequence: a phrase repeated in the same part at a higher or lower pitch",
+    "(b) ostinato: a short pattern (rhythm/melody/chords) repeated persistently",
+    "(b) drone: a long held (or continuously repeated) note or fifth, usually low",
+    "(c) homophonic: one melody with chordal accompaniment",
+    "(c) heterophonic: several performers play different (decorated) versions of the same melody at once"
+   ],
+   "model": "(a) Imitation is when another part copies a phrase; a sequence is when the same part repeats a phrase at a different pitch. (b) An ostinato is a repeated pattern that moves; a drone is a sustained note or fifth that does not change. (c) Homophonic texture is melody plus chords; heterophonic texture is several simultaneous versions of one melody.",
+   "tip": "For 'explain the difference', define both terms – one definition only earns half."
+  }
+ ]
+}

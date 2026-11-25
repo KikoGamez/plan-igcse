@@ -1,0 +1,86 @@
+{
+ "id": "ger-r1-10",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Paper 2 (Reading) style. Welche Bedeutung (A–E) passt zu welchem Schild (1–3)? Es gibt zwei Bedeutungen zu viel.\n1 „Bitte nicht füttern!“  2 „Ausgang“  3 „Hunde müssen draußen bleiben“\nA Hier geht man hinaus.\nB Man darf den Tieren kein Essen geben.\nC Hier darf man rauchen.\nD Tiere dürfen nicht hinein.\nE Hier kann man Fahrkarten kaufen.",
+   "ms": [
+    "1 B",
+    "2 A",
+    "3 D"
+   ],
+   "model": "1 B  2 A  3 D",
+   "tip": "Ausgang = exit; Eingang = entrance; Einfahrt / Ausfahrt are for vehicles."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "Paper 2 (Reading) style. Lesen Sie die Nachricht und wählen Sie die richtige Antwort (A, B oder C).\n„Hi Paul, ich kann heute nicht zum Training kommen, weil ich zum Zahnarzt muss. Kannst du dem Trainer Bescheid sagen? Am Freitag bin ich wieder dabei. Übrigens: Ich habe deine Jacke – du hast sie gestern in der Umkleidekabine vergessen! Gruß, Emre“\n(a) Warum kommt Emre nicht zum Training?  A Er ist krank.  B Er hat einen Termin.  C Er muss arbeiten.\n(b) Was soll Paul machen?  A den Trainer informieren  B Emre anrufen  C zum Zahnarzt gehen\n(c) Was hat Paul vergessen?  A seine Tasche  B seine Schuhe  C seine Jacke",
+   "ms": [
+    "(a) B",
+    "(b) A",
+    "(c) C"
+   ],
+   "model": "(a) B (b) A (c) C",
+   "tip": "Bescheid sagen = to let someone know."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie die Angebote und die Aussagen. Welches Angebot (A–F) passt zu welcher Person? Es gibt zwei Angebote zu viel.\nA Campingplatz am See – Ruderboote zu mieten\nB Stadtführung durch die Altstadt – mit Besuch im Dom\nC Skischule für Anfänger\nD Hotel mit Sauna und Massagen\nE Radtour an der Donau, 60 km pro Tag\nF Freizeitpark mit Achterbahnen\n1 Herr Klein: „Ich bin total gestresst und möchte mich nur ausruhen.“\n2 Familie Braun: „Wir schlafen gern im Zelt und sind gern auf dem Wasser.“\n3 Sophie: „Ich bin sportlich und fahre gern lange Strecken.“\n4 Leon: „Ich interessiere mich für Geschichte und alte Gebäude.“",
+   "ms": [
+    "1 D",
+    "2 A",
+    "3 E",
+    "4 B"
+   ],
+   "model": "1 D  2 A  3 E  4 B",
+   "tip": "„lange Strecken fahren“ could suggest skiing too, but only E mentions distance."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style. Lesen Sie Lauras Blog und beantworten Sie die Fragen auf Deutsch.\n„Seit letztem Monat wohne ich in Hamburg. Unsere neue Wohnung liegt im vierten Stock, und es gibt leider keinen Aufzug. Von meinem Fenster aus sehe ich den Hafen. Ich vermisse meine alten Freunde in München sehr, aber in meiner neuen Klasse sind alle nett. Nur Mathe ist hier schwieriger, weil die Klasse schon weiter ist.“\n(a) Seit wann wohnt Laura in Hamburg? [1]\n(b) Was ist der Nachteil der Wohnung? [1]\n(c) Was sieht sie von ihrem Fenster? [1]\n(d) Warum findet sie Mathe schwierig? [1]",
+   "ms": [
+    "(a) seit letztem Monat",
+    "(b) es gibt keinen Aufzug (allow: vierter Stock ohne Aufzug; „vierter Stock“ alone = 0)",
+    "(c) den Hafen",
+    "(d) die Klasse ist schon weiter"
+   ],
+   "model": "(a) Seit letztem Monat. (b) Es gibt keinen Aufzug. (c) Den Hafen. (d) Weil die Klasse schon weiter ist.",
+   "tip": "A disadvantage needs the negative part: the 4th floor is only a problem because there is no lift."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 2 (Reading) style – longer text. Lesen Sie den Artikel und beantworten Sie die Fragen auf Deutsch.\n„Lukas Berger aus Graz ist 17 und hat schon eine eigene kleine Firma. Alles begann vor zwei Jahren, als sein Fahrrad kaputt war und er kein Geld für eine Reparatur hatte. Er hat sich Videos im Internet angesehen und das Rad selbst repariert. Bald haben auch Nachbarn ihre Fahrräder zu ihm gebracht. Heute repariert Lukas jede Woche etwa zehn Räder in der Garage seiner Eltern. Seine Preise sind niedrig, denn er will, dass mehr Leute Rad statt Auto fahren. „Das ist mein Beitrag für die Umwelt“, sagt er. Die Schule bleibt aber wichtig: Unter der Woche arbeitet er erst nach den Hausaufgaben, und in der Prüfungszeit macht er eine Pause. Seine Eltern waren am Anfang skeptisch, weil die Garage immer voll war. Jetzt sind sie stolz auf ihn. Nach dem Abitur möchte Lukas Maschinenbau studieren und später Elektrofahrräder entwickeln.“\n(a) Warum hat Lukas sein Fahrrad selbst repariert? [1]\n(b) Wie hat er das gelernt? [1]\n(c) Wo arbeitet er? [1]\n(d) Warum sind seine Preise niedrig? [1]\n(e) Wann repariert er keine Fahrräder? [1]\n(f) Warum waren seine Eltern am Anfang nicht begeistert? [1]\n(g) Was sind seine Zukunftspläne? Nennen Sie zwei Details. [2]",
+   "ms": [
+    "(a) er hatte kein Geld (für eine Reparatur)",
+    "(b) mit Videos im Internet",
+    "(c) in der Garage seiner Eltern",
+    "(d) mehr Leute sollen Rad (statt Auto) fahren / für die Umwelt",
+    "(e) in der Prüfungszeit (allow: vor den Hausaufgaben)",
+    "(f) die Garage war immer voll",
+    "(g) Maschinenbau studieren [1]",
+    "(g) Elektrofahrräder entwickeln [1]"
+   ],
+   "model": "(a) Er hatte kein Geld für eine Reparatur. (b) Mit Videos im Internet. (c) In der Garage seiner Eltern. (d) Weil er will, dass mehr Leute Rad statt Auto fahren. (e) In der Prüfungszeit. (f) Weil die Garage immer voll war. (g) Er möchte Maschinenbau studieren und später Elektrofahrräder entwickeln.",
+   "tip": "Questions follow the order of the text: if you are lost, look just after the line of the last answer."
+  },
+  {
+   "lvl": 3,
+   "marks": 5,
+   "q": "Paper 2 (Reading) style. Lesen Sie, was Oma Hilde über ihr Dorf schreibt, und beantworten Sie die Fragen auf Deutsch.\n„Als ich jung war, gab es in unserem Dorf drei Bäckereien, eine Schule und sogar ein kleines Kino. Heute gibt es nur noch einen Supermarkt am Dorfrand, und die Kinder fahren mit dem Bus in die nächste Stadt zur Schule. Viele junge Leute sind weggezogen, weil es hier keine Arbeit gibt. Trotzdem lebe ich gern hier: Die Luft ist sauber, und jeder kennt jeden. Was ich mir wünsche? Eine bessere Busverbindung am Wochenende – samstags fährt nur ein Bus, sonntags gar keiner.“\n(a) Nennen Sie zwei Dinge, die es früher im Dorf gab. [2]\n(b) Warum sind viele junge Leute weggezogen? [1]\n(c) Was gefällt Hilde am Dorf? Nennen Sie ein Detail. [1]\n(d) Was ist das Problem am Sonntag? [1]",
+   "ms": [
+    "(a) first correct item: (drei) Bäckereien / eine Schule / ein Kino",
+    "(a) second, different item from the same list",
+    "(b) es gibt keine Arbeit",
+    "(c) saubere Luft / jeder kennt jeden",
+    "(d) es fährt kein Bus"
+   ],
+   "model": "(a) Drei Bäckereien und ein Kino. (b) Weil es im Dorf keine Arbeit gibt. (c) Die Luft ist sauber. (d) Sonntags fährt gar kein Bus.",
+   "tip": "„Supermarkt“ is a trap for (a): it exists today, not in the past."
+  }
+ ]
+}

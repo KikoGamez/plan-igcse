@@ -1,0 +1,94 @@
+{
+ "id": "pe-r1-05",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State two factors that decide whether a performer mainly uses aerobic or anaerobic respiration.",
+   "ms": [
+    "intensity of the activity (1)",
+    "duration of the activity (1)",
+    "accept: the availability of oxygen"
+   ],
+   "model": "The intensity of the activity (how hard the performer is working) and its duration (how long it lasts).",
+   "tip": "Low intensity and long duration → aerobic; high intensity and short duration → anaerobic."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "State what happens to a performer's stroke volume after several months of endurance training, and explain why.",
+   "ms": [
+    "stroke volume increases (1)",
+    "because the heart muscle gets bigger and stronger (hypertrophy), so it pumps more blood per beat (1)"
+   ],
+   "model": "Stroke volume increases, because training causes hypertrophy: the heart muscle becomes larger and stronger, so the ventricles pump out more blood with each beat.",
+   "tip": "Use the term hypertrophy and link it to more blood per beat."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Explain when a hockey player uses aerobic respiration and when she uses anaerobic respiration during a match. Use examples from the game.",
+   "ms": [
+    "aerobic when working at low/moderate intensity (1)",
+    "e.g. jogging back into position / walking when the ball is out of play (1)",
+    "anaerobic when working at high intensity for a short time (1)",
+    "e.g. sprinting to intercept / a fast break / driving into the circle (1)",
+    "anaerobic produces lactic acid, which is removed when she returns to lower intensity (1)",
+    "max 4"
+   ],
+   "model": "She uses aerobic respiration for most of the match when the intensity is low or moderate, for example jogging back into position or walking while the ball is out of play, as there is enough oxygen. She uses anaerobic respiration for short, high-intensity efforts, such as sprinting to intercept a pass or making a fast break into the circle, when oxygen cannot be supplied quickly enough. This produces lactic acid, which is broken down when she drops back to a lower intensity.",
+   "tip": "Hockey is intermittent: show both systems with a match example for each."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "During a 2000 m rowing race, lactic acid builds up in a rower's muscles.\n(a) Explain how the build-up of lactic acid affects the rower's performance. [2]\n(b) Explain how regular training changes the effect of lactic acid on the rower. [2]",
+   "ms": [
+    "(a) causes muscle fatigue / pain / cramp (1)",
+    "(a) muscles cannot contract as strongly, so she slows down / technique suffers (1)",
+    "(b) training improves the ability to tolerate lactic acid (1)",
+    "(b) so she can work at high intensity for longer before tiring (1)",
+    "(b) accept: improved aerobic fitness means less lactic acid is produced at a given speed / it is removed faster (1)",
+    "max 2 for (b)"
+   ],
+   "model": "(a) Lactic acid causes fatigue and pain in the muscles, so they cannot contract as strongly. Her stroke rate and power drop, and she slows down.\n(b) Over time, training increases her tolerance to lactic acid, so she can keep working anaerobically for longer before fatigue sets in. Better aerobic fitness also means less lactic acid is produced at the same speed.",
+   "tip": "\"Lactic acid makes you tired\" is too vague: say it causes fatigue so the muscles contract less forcefully."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A performer follows a 16-week endurance training programme. Her results are shown.\n\n                                   Before   After\nResting heart rate (bpm)             74      61\nHeart rate during a 5 km jog (bpm)  172     158\nTime to return to resting HR (min)    9       5\n\n(a) Calculate the percentage decrease in her resting heart rate. [2]\n(b) Explain the reasons for the changes shown in the table. [4]",
+   "ms": [
+    "(a) (74 − 61) ÷ 74 × 100 (1)",
+    "(a) 17.6% (accept 17.57% or 18%) (1)",
+    "(b) heart hypertrophy: the heart becomes bigger and stronger (1)",
+    "(b) stroke volume increases (1)",
+    "(b) so the same cardiac output is achieved with fewer beats: lower resting HR (bradycardia) and lower exercise HR (1)",
+    "(b) improved aerobic fitness / better oxygen delivery means less lactic acid / smaller oxygen debt (EPOC) (1)",
+    "(b) so recovery is quicker (1)",
+    "max 4 for (b)"
+   ],
+   "model": "(a) Decrease = 74 − 61 = 13 bpm. 13 ÷ 74 × 100 = 17.6%.\n(b) Training has caused hypertrophy of the heart: the heart muscle is larger and stronger, so stroke volume has increased. The heart can now pump the same cardiac output with fewer beats, so both her resting heart rate (bradycardia) and her heart rate during the jog are lower. Her aerobic system now supplies oxygen to the muscles more efficiently, so less lactic acid is produced and her oxygen debt (EPOC) is smaller, which is why she returns to her resting heart rate more quickly (5 minutes instead of 9).",
+   "tip": "Use the data: quote the figures as you explain each change."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Explain why a 100 m sprinter relies mainly on anaerobic respiration, while a marathon runner relies mainly on aerobic respiration. Refer to intensity, duration, oxygen and the products of respiration.",
+   "ms": [
+    "sprint is maximal/very high intensity (1)",
+    "lasts a very short time (about 10 seconds) (1)",
+    "the body cannot supply oxygen to the muscles fast enough, so energy is released without oxygen (1)",
+    "anaerobic: glucose → lactic acid (+ energy) (1)",
+    "lactic acid builds up, causing fatigue, so this can only last a short time (1)",
+    "marathon is lower/moderate intensity (1)",
+    "lasts a long time (2+ hours) (1)",
+    "enough oxygen can be supplied: glucose + oxygen → carbon dioxide + water (+ energy) (1)",
+    "no lactic acid, so can continue for a long time (1)",
+    "max 6"
+   ],
+   "model": "The 100 m sprint is performed at maximum intensity and lasts only about 10 seconds. Energy is needed so quickly that the heart and lungs cannot deliver oxygen fast enough, so glucose is broken down without oxygen: glucose → lactic acid (+ energy). Lactic acid builds up and causes fatigue, but the race is over before this matters. The marathon is run at a lower, steady intensity for over two hours. The heart and lungs can supply enough oxygen, so energy is released aerobically: glucose + oxygen → carbon dioxide + water (+ energy). This produces no lactic acid, so the runner can keep going for a long time.",
+   "tip": "Cover both events and all four things the question names: intensity, duration, oxygen, products."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "chem-r1-09",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "(a) State the colour of universal indicator in a solution of:\n(i) pH 7 [1]\n(ii) pH 13. [1]\n(b) State the colour of litmus in dilute hydrochloric acid. [1]",
+      "ms": [
+        "(a)(i) green",
+        "(a)(ii) purple / violet (allow dark blue)",
+        "(b) red"
+      ],
+      "model": "(a)(i) Green (neutral).\n(ii) Purple (strongly alkaline).\n(b) Red.",
+      "tip": "Universal indicator runs red → orange → yellow → green → blue → purple as pH goes from 1 to 14."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Classify each oxide as acidic, basic or amphoteric.\n(a) sulfur dioxide, SO₂ [1]\n(b) calcium oxide, CaO [1]\n(c) zinc oxide, ZnO [1]",
+      "ms": [
+        "(a) acidic",
+        "(b) basic",
+        "(c) amphoteric"
+      ],
+      "model": "(a) Acidic — it is the oxide of a non-metal.\n(b) Basic — it is the oxide of a metal.\n(c) Amphoteric — it reacts with both acids and bases.",
+      "tip": "Non-metal oxides are usually acidic; metal oxides are usually basic; learn Al₂O₃ and ZnO as the amphoteric ones."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Dilute sulfuric acid reacts with (a) zinc, (b) magnesium oxide and (c) sodium carbonate.\nFor each reaction, name all the products. [3]\nFor reaction (c), state what you would observe and write the balanced symbol equation. [2]",
+      "ms": [
+        "(a) zinc sulfate and hydrogen",
+        "(b) magnesium sulfate and water",
+        "(c) sodium sulfate, water and carbon dioxide",
+        "(c) effervescence / fizzing / bubbles",
+        "(c) Na₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂"
+      ],
+      "model": "(a) Zinc sulfate and hydrogen.\n(b) Magnesium sulfate and water.\n(c) Sodium sulfate, water and carbon dioxide. You would see fizzing (effervescence) as carbon dioxide is given off.\nNa₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂",
+      "tip": "acid + metal → salt + hydrogen; acid + base → salt + water; acid + carbonate → salt + water + carbon dioxide."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A student carries out two tests on a white solid, Z.\nTest 1: Z is warmed with aqueous sodium hydroxide. A gas is given off that turns damp red litmus paper blue.\nTest 2: A solution of Z is acidified with dilute nitric acid and aqueous silver nitrate is added. A cream precipitate forms.\n(a) Name the gas given off in Test 1. [1]\n(b) Identify Z. [2]\n(c) Explain why dilute hydrochloric acid must not be used to acidify the solution in Test 2. [1]",
+      "ms": [
+        "(a) ammonia",
+        "(b) ammonium (ion present)",
+        "(b) bromide (ion present) — so Z is ammonium bromide",
+        "(c) hydrochloric acid contains chloride ions, which would also give a (white) precipitate with silver nitrate"
+      ],
+      "model": "(a) Ammonia.\n(b) Test 1 shows ammonium ions and the cream precipitate in Test 2 shows bromide ions, so Z is ammonium bromide, NH₄Br.\n(c) Hydrochloric acid would add chloride ions, which form a white precipitate of silver chloride, so you could not tell which halide was in Z.",
+      "tip": "With acidified silver nitrate: chloride white, bromide cream, iodide yellow."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Describe how you would prepare a pure, dry sample of zinc sulfate crystals from zinc carbonate and dilute sulfuric acid. Explain why each step is carried out.",
+      "ms": [
+        "add zinc carbonate to the (warm) dilute sulfuric acid a little at a time / with stirring",
+        "until it is in excess / no more fizzing / some solid remains (to make sure all the acid is used up)",
+        "filter to remove the excess zinc carbonate",
+        "heat / evaporate the filtrate until it is saturated / crystals start to form (on a cold glass rod)",
+        "leave to cool so that crystals form",
+        "filter off the crystals and dry them between filter papers / in a warm oven (allow wash with a little cold distilled water)"
+      ],
+      "model": "Add zinc carbonate a little at a time to warm dilute sulfuric acid, stirring, until fizzing stops and some solid zinc carbonate remains. Using excess makes sure all the acid has reacted, so the product is not contaminated with acid. Filter the mixture to remove the excess zinc carbonate; the filtrate is zinc sulfate solution. Heat the filtrate to evaporate some of the water until it is saturated — a drop on a cold glass rod forms crystals. Leave the solution to cool so that crystals of zinc sulfate form. Filter off the crystals, rinse them with a little cold distilled water and dry them between filter papers.",
+      "tip": "Don't evaporate to dryness — you get a powder, not crystals, and you remove the water that is chemically combined in the hydrated crystals."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Barium sulfate is insoluble in water.\n(a) Name two aqueous solutions that could be mixed to prepare barium sulfate. [1]\n(b) Describe how a pure, dry sample of barium sulfate is obtained from the mixture. [3]\n(c) Write the balanced symbol equation, with state symbols, for the reaction between your two solutions. [2]",
+      "ms": [
+        "(a) a soluble barium salt (e.g. barium chloride / barium nitrate) and a soluble sulfate (e.g. sodium sulfate / dilute sulfuric acid)",
+        "(b) mix the solutions so a (white) precipitate forms, then filter",
+        "(b) wash the residue / precipitate with distilled water (to remove soluble impurities)",
+        "(b) dry in a warm oven / between filter papers",
+        "(c) correct formulae and balanced, e.g. BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl",
+        "(c) state symbols: (aq) + (aq) → (s) + (aq)"
+      ],
+      "model": "(a) Aqueous barium chloride and aqueous sodium sulfate.\n(b) Mix the two solutions; a white precipitate of barium sulfate forms. Filter the mixture to collect the precipitate as the residue. Wash the residue with distilled water to remove the soluble sodium chloride, then dry it in a warm oven.\n(c) BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)",
+      "tip": "For an insoluble salt you keep the RESIDUE, not the filtrate."
+    }
+  ]
+}

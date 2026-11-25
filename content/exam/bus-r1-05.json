@@ -1,0 +1,112 @@
+{
+  "id": "bus-r1-05",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “market-orientated business”. [2]",
+      "ms": [
+        "A business that carries out market research to find out what customers want (1)",
+        "before developing/producing products that meet those wants (1)"
+      ],
+      "model": "A market-orientated business finds out what customers want through market research and then develops products to meet those wants.",
+      "tip": "Contrast: a product-orientated business makes the product first and then tries to sell it."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "The market for sports drinks in Country Y grew from $40 million in 2024 to $46 million in 2025. In 2025 the sales of AquaFit were $6.9 million.\n\nCalculate AquaFit’s market share in 2025. [2]",
+      "ms": [
+        "M1: 6.9 ÷ 46 × 100",
+        "A1: 15% (award 2 marks for correct answer)"
+      ],
+      "model": "Market share = 6.9 ÷ 46 × 100 = 15%.",
+      "tip": "Use the market size for the SAME year as the business’s sales ($46 m, not $40 m)."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A cinema surveyed 20 people, all of them friends of the manager, to find out whether customers wanted a new café inside the cinema.\n\nOutline two reasons why the results of this market research may not be accurate. [4]",
+      "ms": [
+        "First reason identified (1)",
+        "First reason developed/explained (1)",
+        "Second reason identified (1)",
+        "Second reason developed/explained (1)",
+        "e.g. Sample size too small (1) — 20 people may not represent all of the cinema’s customers (1)",
+        "e.g. Biased sample / not representative (1) — friends of the manager may give answers they think he wants to hear / are not typical customers (1)",
+        "e.g. Questions may be leading or badly worded (1) — answers do not show true opinions (1)",
+        "e.g. People may say they would buy but not actually do so (1) — intentions differ from behaviour (1)",
+        "e.g. Research may be out of date by the time the café opens (1)"
+      ],
+      "model": "First, the sample is very small. Only 20 people were asked, which is unlikely to reflect the views of the thousands of people who visit the cinema.\nSecond, the sample is biased. Friends of the manager may not be typical customers and may say they like the idea just to support him, so the demand for the café could be overestimated.",
+      "tip": "Use the details given (20 people, friends) — that is your application."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "FizzUp makes a cola drink that is sold in supermarkets across the country.\n\nOutline one benefit and one limitation to FizzUp of mass marketing. [4]",
+      "ms": [
+        "Benefit (1 + 1 development):",
+        "Large number of potential customers / large sales volume (1) — leading to high revenue (1)",
+        "Economies of scale (1) — producing in large quantities lowers the cost per can, allowing low prices (1)",
+        "Less risky than relying on one small segment (1)",
+        "Limitation (1 + 1 development):",
+        "High competition from other large brands (1) — must spend heavily on advertising / cut prices, lowering profit margin (1)",
+        "Products not tailored to specific groups (1) — some customers may prefer niche/specialist drinks, e.g. sugar-free or organic (1)",
+        "Requires large investment in production and promotion (1)"
+      ],
+      "model": "One benefit is that FizzUp can sell large quantities to a huge market. This gives economies of scale, so the cost of producing each can falls and FizzUp can charge low prices and still make a profit.\nOne limitation is the strong competition from other big cola brands. FizzUp must spend large amounts on national advertising to stand out, which reduces its profit margin.",
+      "tip": "Mass marketing = one product for the whole market; niche = a small specialised segment."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "PageTurner is an independent bookshop in a city centre. Its sales have fallen by 20% in two years because many customers now buy books online, often at lower prices.\n\nExplain two ways PageTurner could respond to this increased competition. [6]",
+      "ms": [
+        "First way — K: valid way identified (1)",
+        "First way — App: applied to the business in the question (1)",
+        "First way — An: consequence for the business explained (1)",
+        "Second way — K: valid way identified (1)",
+        "Second way — App: applied to the business in the question (1)",
+        "Second way — An: consequence for the business explained (1)",
+        "e.g. Improve customer service / personal advice (K) — staff recommend books, order-in service (App) — gives a reason to visit that online sellers cannot offer, building loyalty (An)",
+        "e.g. Add value through experiences/events (K) — author signings, reading clubs, a café (App) — attracts customers to the shop and increases spending per visit (An)",
+        "e.g. Sell online itself / social media (K) — own website or click-and-collect (App) — reaches customers who prefer online shopping, recovering lost sales (An)",
+        "e.g. Target a niche market (K) — e.g. rare books, children’s books, local authors (App) — less direct price competition, can charge higher prices (An)",
+        "e.g. Loyalty scheme / promotions (K) — discount card (App) — encourages repeat purchases (An)",
+        "e.g. Cutting prices: credit if analysed (e.g. may not match online prices and lowers margin)"
+      ],
+      "model": "First, PageTurner could focus on things online retailers cannot offer, such as expert staff advice and events like author signings and children’s story times. This turns a visit into an experience, so customers have a reason to come into the shop and are likely to buy books while they are there, helping to recover some of the 20% lost sales.\nSecond, PageTurner could start selling online itself, with a simple website and click-and-collect service promoted on social media. This lets it reach customers who now prefer to shop online, and collection in the shop brings people through the door, where they may make extra purchases.",
+      "tip": "Don’t just say “lower prices” — a small shop rarely wins a price war with online giants."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The owner of Bean There café wants to add a vegan menu. She asked 50 customers on a Monday morning. Results:\n• Would buy vegan food: 31 customers (62%)\n• Would not buy vegan food: 14 customers (28%)\n• Not sure: 5 customers (10%)\nThe café has about 2 000 customers a week, with its busiest times on Saturdays, when many families visit.\n\nDo you think the owner should use these results to decide whether to introduce the vegan menu? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Strengths: primary research, up to date and specific to the café’s own customers; 62% is a clear majority in favour; cheap and quick",
+        "Weaknesses: sample of 50 is small (2.5% of 2 000 weekly customers); taken at one time only — Monday morning customers (e.g. office workers) may differ from Saturday families → not representative / biased",
+        "Saying they ‘would buy’ is not the same as actually buying; price not asked",
+        "Could improve: larger sample at different times (quota sample), test the menu with a few dishes / test marketing, use secondary data on vegan trends",
+        "Ev: justified judgement, e.g. results are encouraging but not reliable enough alone; owner should test a small vegan range first, because the cost of a full menu is a risk if Saturday customers do not buy"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of the strengths and weaknesses of the survey using the data, with a justified judgement about whether to rely on it (and what else to do)."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one strength or weakness applied to the café; judgement weakly supported."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of factors affecting accuracy, with little use of the data."
+        }
+      ],
+      "model": "The survey is useful because it is primary research on the café’s own customers, so it is up to date and relevant, and 62% saying they would buy vegan food is a strong majority.\nHowever, only 50 people were asked, which is just 2.5% of the 2 000 weekly customers. They were all asked on a Monday morning, when customers may be mainly office workers, while the busiest day is Saturday, when families visit. Families may have different preferences, so the sample is not representative. Also, customers who say they would buy vegan food may not actually do so, especially if the price is higher.\nI do not think the owner should rely on these results alone. They show there is probably some demand, but the sample is too small and biased towards one type of customer. She should survey customers at different times, including Saturdays, or introduce two or three vegan dishes as a trial and look at actual sales before launching a full menu. This reduces the risk of wasted food and stock if demand is lower than the survey suggests.",
+      "tip": "Use the numbers: compare the sample size with the 2 000 weekly customers."
+    }
+  ]
+}

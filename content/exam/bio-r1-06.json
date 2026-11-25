@@ -1,0 +1,90 @@
+{
+  "id": "bio-r1-06",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Name the blood vessel that:\n(a) carries blood away from the left ventricle\n(b) brings deoxygenated blood from the body back to the right atrium",
+      "ms": [
+        "(a) aorta",
+        "(b) vena cava"
+      ],
+      "model": "(a) Aorta.\n(b) Vena cava.",
+      "tip": "Arteries carry blood away from the heart; veins carry it back to the heart."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "(a) State two roles of blood clotting. [2]\n(b) Name the component of the blood that transports hormones. [1]",
+      "ms": [
+        "(a) prevents (excessive) blood loss",
+        "(a) prevents entry of pathogens (into the wound / body)",
+        "(b) plasma"
+      ],
+      "model": "(a) Clotting prevents blood loss from a wound and stops pathogens from entering the body.\n(b) Plasma.",
+      "tip": "Platelets are involved in clotting; plasma transports dissolved substances."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "Describe what happens in the heart when the muscles of the ventricles contract. Refer to the valves in your answer.",
+      "ms": [
+        "ventricle muscle contracts and pressure in the ventricles increases",
+        "valves between atria and ventricles close",
+        "this prevents backflow of blood into the atria",
+        "valves at the base of the aorta / pulmonary artery open (semilunar valves)",
+        "blood is pumped into the aorta and the pulmonary artery"
+      ],
+      "model": "When the muscular walls of the ventricles contract, the pressure of the blood inside them rises. This closes the valves between the atria and the ventricles, so blood cannot flow back into the atria. The pressure also pushes open the valves at the bases of the aorta and pulmonary artery, so blood is pumped out of the left ventricle into the aorta and out of the right ventricle into the pulmonary artery.",
+      "tip": "Valves open and close because of pressure differences; they only allow one-way flow."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "Two students measured their pulse rates at rest, immediately after 3 minutes of running, and then each minute until their pulse returned to the resting value.\nstudent P: resting 70 beats per min; after running 130 beats per min; back to resting after 3 min\nstudent Q: resting 80 beats per min; after running 150 beats per min; back to resting after 7 min\n(a) Calculate the percentage increase in pulse rate for student P. Give your answer to the nearest whole number. [2]\n(b) Student P is fitter than student Q. Give two pieces of evidence from the data that support this. [2]\n(c) Suggest why the pulse rate stays high for a few minutes after the running stops. [1]",
+      "ms": [
+        "(a) M1: (130 − 70) ÷ 70 × 100",
+        "(a) A1: 86 %",
+        "(b) P has a lower resting pulse rate",
+        "(b) P's pulse returns to resting rate faster (3 min compared with 7 min)",
+        "(b) P has a smaller increase (60 compared with 70 beats per min) / lower pulse after running",
+        "(c) to transport lactic acid from the muscles to the liver / to supply oxygen to repay the oxygen debt / to remove carbon dioxide"
+      ],
+      "model": "(a) Increase = 130 − 70 = 60. 60 ÷ 70 × 100 = 85.7, so 86 %.\n(b) Student P has a lower resting pulse rate (70 compared with 80), and P's pulse returned to the resting value in 3 minutes compared with 7 minutes for Q.\n(c) Blood is still needed to carry lactic acid from the muscles to the liver and to deliver oxygen to repay the oxygen debt.",
+      "tip": "When asked for evidence from data, quote the figures you are comparing."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) Explain how the structures of arteries and veins are related to the pressure of the blood that they carry. [5]\n(b) Suggest why the wall of the aorta is thicker than the wall of the pulmonary artery. [1]",
+      "ms": [
+        "(a) arteries carry blood at high pressure",
+        "(a) arteries have thick (muscular and elastic) walls to withstand the high pressure",
+        "(a) elastic walls stretch and recoil to even out / maintain the pressure",
+        "(a) arteries have a narrow lumen (which keeps the pressure high)",
+        "(a) veins carry blood at low pressure so have thinner walls",
+        "(a) veins have a wide lumen (less resistance to flow)",
+        "(a) veins have valves to prevent backflow (because pressure is low)",
+        "(b) blood in the aorta is at higher pressure as the left ventricle pumps blood all round the body (pulmonary artery only to the lungs)"
+      ],
+      "model": "(a) Arteries carry blood pumped directly from the heart at high pressure, so they have thick walls containing muscle and elastic tissue that can withstand it. The elastic tissue stretches as each surge of blood arrives and then recoils, which keeps the pressure up. Arteries have a narrow lumen. Veins carry blood at low pressure, so their walls are thinner. They have a wide lumen, which reduces resistance to flow, and valves, which stop the slow-moving blood from flowing backwards.\n(b) The aorta receives blood from the left ventricle, which pumps at a higher pressure because it has to push blood all round the body, not just to the nearby lungs.",
+      "tip": "'Explain' means link each feature to the pressure — a list of differences alone gets few marks."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "A man has coronary heart disease (CHD).\n(a) Explain how a blockage of a coronary artery can damage the heart. [3]\n(b) Discuss the roles of diet and exercise in reducing the risk of coronary heart disease. [3]",
+      "ms": [
+        "(a) coronary arteries supply the heart muscle with blood",
+        "(a) blockage (by fatty deposits / cholesterol) reduces blood flow / less oxygen and glucose reach the heart muscle",
+        "(a) heart muscle cannot respire (aerobically) / cannot release enough energy, so muscle cells are damaged or die / heart attack",
+        "(b) a diet low in saturated (animal) fat / cholesterol reduces fatty deposits in the arteries",
+        "(b) a balanced diet / less energy-rich food helps avoid being overweight / obesity",
+        "(b) regular exercise strengthens the heart muscle / helps keep a healthy body mass / reduces blood pressure / reduces stress",
+        "(b) these reduce some risk factors, but not others such as age, sex or genetic predisposition"
+      ],
+      "model": "(a) The coronary arteries carry blood to the heart muscle itself. If one becomes blocked by fatty deposits, less blood flows through it, so less oxygen and glucose reach part of the heart muscle. Those cells cannot respire aerobically and release enough energy, so they are damaged or die, which can cause a heart attack.\n(b) A diet low in saturated fat reduces the build-up of fatty deposits in the coronary arteries, and eating no more energy than needed helps prevent obesity. Regular exercise strengthens the heart muscle, helps keep body mass healthy and lowers blood pressure and stress. However, diet and exercise only reduce some risk factors; others, such as age, sex and genetic predisposition, cannot be changed.",
+      "tip": "The heart muscle does not get oxygen from the blood inside its chambers — it needs the coronary arteries."
+    }
+  ]
+}

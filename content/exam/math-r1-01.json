@@ -1,0 +1,82 @@
+{
+  "id": "math-r1-01",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Here is a list of numbers.\n21   23   25   27   29   31   33\nFrom the list, write down\n(a) a prime number greater than 25, [1]\n(b) a cube number. [1]",
+      "ms": [
+        "(a) B1: 29 or 31",
+        "(b) B1: 27"
+      ],
+      "model": "(a) 29 (31 is also correct).\n(b) 27, because 27 = 3³.",
+      "tip": "21 = 3 × 7, 25 = 5², 27 = 3³ and 33 = 3 × 11 are not prime: check small factors before you write an answer."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Without using a calculator, find the value of\n(a) 64^(1/3), [1]\n(b) (2/3)^(−3). [1]",
+      "ms": [
+        "(a) B1: 4",
+        "(b) B1: 27/8 (allow 3⅜ or 3.375)"
+      ],
+      "model": "(a) 64^(1/3) = ∛64 = 4.\n(b) (2/3)^(−3) = (3/2)³ = 27/8.",
+      "tip": "A negative index means 'turn the fraction upside down' first, then apply the power to the top and the bottom."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "p = 2³ × 3 × 5² and q = 2² × 3³ × 7.\n(a) Find the highest common factor (HCF) of p and q. [1]\n(b) Find the lowest common multiple (LCM) of p and q. Give your answer as an ordinary number. [1]\n(c) Find the smallest positive integer k such that pk is a square number. [2]",
+      "ms": [
+        "(a) B1: 12 (or 2² × 3)",
+        "(b) B1: 37 800 (or 2³ × 3³ × 5² × 7)",
+        "(c) M1: recognises every prime must have an even power, e.g. 2⁴ × 3² × 5² or 'needs one more 2 and one more 3'",
+        "(c) A1: k = 6"
+      ],
+      "model": "(a) Lowest power of each common prime: 2² × 3 = 12.\n(b) Highest power of every prime: 2³ × 3³ × 5² × 7 = 8 × 27 × 25 × 7 = 37 800.\n(c) p = 2³ × 3¹ × 5². For a square every index must be even, so multiply by 2 × 3: pk = 2⁴ × 3² × 5². So k = 6.",
+      "tip": "For a square number all the indices in the prime factorisation must be even; for a cube they must all be multiples of 3."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "(a) Simplify (16x⁸)^(3/4). [2]\n(b) Find the value of x when 9ˣ × 3 = 27^(x − 1). [2]",
+      "ms": [
+        "(a) B1: 8 (as the coefficient)",
+        "(a) B1: x⁶ (final answer 8x⁶)",
+        "(b) M1: writes all terms as powers of 3, e.g. 3^(2x + 1) = 3^(3x − 3)",
+        "(b) A1: x = 4"
+      ],
+      "model": "(a) 16^(3/4) = (⁴√16)³ = 2³ = 8 and (x⁸)^(3/4) = x⁶, so the answer is 8x⁶.\n(b) 9ˣ × 3 = 3^(2x) × 3¹ = 3^(2x + 1) and 27^(x − 1) = 3^(3(x − 1)) = 3^(3x − 3).\nSo 2x + 1 = 3x − 3, giving x = 4.",
+      "tip": "Write every term with the same base before you compare indices."
+    },
+    {
+      "lvl": 3,
+      "marks": 5,
+      "q": "Do not use a calculator in this question.\n(a) Show that (√12 + √3)² = 27. [2]\n(b) Write (6 + √2)/(3 − √2) in the form (a + b√2)/c, where a, b and c are integers. [3]",
+      "ms": [
+        "(a) M1: √12 = 2√3, so √12 + √3 = 3√3 (or expands to 12 + 2√36 + 3)",
+        "(a) A1: (3√3)² = 9 × 3 = 27 (or 12 + 12 + 3 = 27) with no errors seen",
+        "(b) M1: multiplies numerator and denominator by (3 + √2)",
+        "(b) M1: denominator 9 − 2 = 7 seen, or numerator expanded to 4 correct terms 18 + 6√2 + 3√2 + 2",
+        "(b) A1: (20 + 9√2)/7"
+      ],
+      "model": "(a) √12 = √4 × √3 = 2√3, so √12 + √3 = 3√3.\n(3√3)² = 9 × 3 = 27.\n(b) (6 + √2)/(3 − √2) × (3 + √2)/(3 + √2)\nNumerator: 18 + 6√2 + 3√2 + 2 = 20 + 9√2\nDenominator: 9 − 2 = 7\nAnswer: (20 + 9√2)/7",
+      "tip": "In a 'show that' question every step must be written; jumping straight to 27 scores only the final mark at best."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "(a) Show that the recurring decimal 0.21̇5̇ (= 0.2151515…) can be written as 71/330. [3]\n(b) Write down an irrational number between 4 and 5. [1]\n(c) Show that √8 × √18 is a rational number. [2]",
+      "ms": [
+        "(a) M1: x = 0.21515… and 10x = 2.1515… (or 1000x = 215.1515…)",
+        "(a) M1: subtracts two correct equations to remove the recurring part, e.g. 1000x − 10x = 213 so 990x = 213",
+        "(a) A1: 213/990 = 71/330 with cancelling shown",
+        "(b) B1: any correct irrational, e.g. √17, √20, π + 1 (not a recurring or terminating decimal)",
+        "(c) M1: √(8 × 18) = √144, or 2√2 × 3√2",
+        "(c) A1: = 12, which is an integer so rational"
+      ],
+      "model": "(a) Let x = 0.2151515…\nThen 10x = 2.151515… and 1000x = 215.151515…\n1000x − 10x = 215.1515… − 2.1515… so 990x = 213\nx = 213/990 = 71/330 (dividing top and bottom by 3).\n(b) √20 (because 4 = √16 and 5 = √25).\n(c) √8 × √18 = √144 = 12. 12 = 12/1 can be written as a fraction of integers, so it is rational.",
+      "tip": "Choose two multiples of x whose decimal parts are identical; here 10x and 1000x both end in .151515…"
+    }
+  ]
+}

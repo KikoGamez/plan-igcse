@@ -1,0 +1,112 @@
+{
+  "id": "bus-r1-04",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Define “delegation”. [2]",
+      "ms": [
+        "Giving/passing authority (1)",
+        "to a subordinate to carry out a task / make decisions (while the manager remains responsible) (1)"
+      ],
+      "model": "Delegation is when a manager gives a subordinate the authority to carry out a task or make decisions, although the manager is still accountable for the result.",
+      "tip": "Mention authority passing DOWN the hierarchy."
+    },
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "Identify two benefits to workers of being members of a trade union. [2]",
+      "ms": [
+        "Collective bargaining for better pay / working conditions",
+        "Support/representation in disputes or disciplinary/dismissal cases",
+        "Legal advice / help if unfairly treated",
+        "Improved health and safety at work",
+        "Greater job security / protection against redundancy",
+        "Benefits such as training, discounts, financial help (e.g. strike pay)"
+      ],
+      "model": "1. The union negotiates with managers for higher pay on behalf of all its members.\n2. Members get legal advice and support if they are treated unfairly or dismissed.",
+      "tip": "“Strength in numbers” — collective bargaining is the main benefit examiners expect."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "City Bank needs a new manager for one of its branches. It is considering recruiting one of its own assistant managers.\n\nOutline two benefits to City Bank of internal recruitment. [4]",
+      "ms": [
+        "First benefit identified (1)",
+        "First benefit developed/explained (1)",
+        "Second benefit identified (1)",
+        "Second benefit developed/explained (1)",
+        "e.g. Cheaper (1) — no need to pay for external job adverts / agencies (1)",
+        "e.g. Quicker (1) — vacancy filled faster; less induction training needed (1)",
+        "e.g. Candidate already known (1) — bank knows their ability and reliability from performance records, so less risk of a poor appointment (1)",
+        "e.g. Candidate knows the bank’s systems, rules and customers (1) — can be effective immediately (1)",
+        "e.g. Motivates other staff (1) — they see a chance of promotion, so they work harder/stay (1)"
+      ],
+      "model": "First, it is less risky, because City Bank already knows how well the assistant manager performs from appraisal records, so it is less likely to appoint someone unsuitable.\nSecond, it is cheaper and quicker. The bank does not need to pay for job adverts, and the person already knows the bank’s procedures, so they need little induction training before they can run the branch.",
+      "tip": "Don’t confuse recruitment benefits with training benefits — focus on the hiring process."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "The organisation chart of Lakeside Furniture Ltd is described below.\n• The Managing Director is at the top.\n• Three directors report to the Managing Director: Production, Marketing and Finance.\n• Two production managers report to the Production Director.\n• Each production manager is responsible for 12 machine operators.\n\n(a) State the span of control of each production manager. [1]\n(b) State the number of levels of hierarchy shown in the production department chain (from Managing Director to machine operators). [1]\n(c) Outline one effect on Lakeside Furniture of removing the production-manager level. [2]",
+      "ms": [
+        "(a) 12 (1)",
+        "(b) 4 (Managing Director, directors, production managers, operators) (1)",
+        "(c) 1 mark for the effect + 1 mark for development, e.g.: wider span of control for the Production Director — 24 operators (1), so less supervision/more stress and slower help for workers (1)",
+        "(c) Alternative: faster communication between directors and operators (1) because messages pass through fewer levels (1)",
+        "(c) Alternative: lower management costs/salaries saved (1) — reduces overheads, increasing profit (1)",
+        "(c) Alternative: fewer promotion opportunities (1) — may reduce motivation of operators (1)"
+      ],
+      "model": "(a) 12.\n(b) 4 levels.\n(c) The Production Director would have a span of control of 24 operators. This means each worker gets less supervision and help, so mistakes might increase and the director could become overloaded.",
+      "tip": "Span of control counts only those who report DIRECTLY to the manager."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "BurgerBox is a fast-food restaurant chain. It employs many young, part-time workers, and about 30 new staff start every month. At the moment new workers start serving customers on their first day with no training.\n\nExplain two reasons why BurgerBox should give new workers induction training. [6]",
+      "ms": [
+        "First reason — K: valid reason identified (1)",
+        "First reason — App: applied to the business in the question (1)",
+        "First reason — An: consequence for the business explained (1)",
+        "Second reason — K: valid reason identified (1)",
+        "Second reason — App: applied to the business in the question (1)",
+        "Second reason — An: consequence for the business explained (1)",
+        "e.g. Learn health and safety / hygiene rules (K) — e.g. using fryers and hot grills, food hygiene (App) — fewer accidents and food poisoning, avoiding fines/legal action and bad publicity (An)",
+        "e.g. Become productive more quickly (K) — know the till system, menu and procedures (App) — faster service and fewer mistakes with orders, so customers are satisfied (An)",
+        "e.g. Feel welcome / understand the business culture (K) — meet the team and the manager (App) — more motivated and less likely to leave, reducing recruitment costs given 30 new starters a month (An)",
+        "e.g. Learn legal and company rules, e.g. working hours for young workers (K/App)"
+      ],
+      "model": "First, induction training would teach new workers health and safety and hygiene rules, such as how to use the fryers safely and store meat correctly. Without this, accidents and food-poisoning cases are more likely, which could lead to fines, legal claims and bad publicity that reduce customer numbers.\nSecond, induction helps new staff settle in and feel part of the team. If young workers are thrown straight onto the tills with no help, they may feel stressed and quit. Because BurgerBox hires about 30 people every month, reducing labour turnover would save a lot of recruitment costs and give customers faster, more confident service.",
+      "tip": "Induction = an introduction for NEW workers. Use details such as fryers, tills and the 30 starters a month. Marking: Max 2 per reason if not applied to fast food/BurgerBox."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "Pixel & Co is a small graphic design agency. Its manager, Ines, supervises 8 highly skilled designers who work on creative projects for clients. Ines makes all decisions herself and checks every piece of work before it is sent. Two designers have recently resigned.\n\nShould Ines use an autocratic or a democratic leadership style? Justify your answer. [6]",
+      "ms": [
+        "Indicative content — K/App (up to 2), An (up to 2), Ev (up to 2):",
+        "Autocratic: manager makes all decisions, little communication/consultation; quick decisions; useful in emergencies or with unskilled workers; ensures quality control of client work",
+        "Autocratic drawbacks for skilled designers: no use of their ideas/creativity, feel untrusted → demotivated, resignations (already 2 left) → recruitment costs, lost client knowledge",
+        "Democratic: workers consulted and involved in decisions; two-way communication; uses designers’ expertise → better ideas for clients; meets esteem/self-actualisation needs → lower labour turnover",
+        "Democratic drawbacks: slower decisions, possible conflict, deadlines may be missed; Ines must still take final responsibility",
+        "Ev: justified decision, e.g. democratic because the staff are skilled creative professionals and resignations show current style is failing; but Ines should keep final say on urgent deadlines/client quality — or a reason why autocratic is better in the specific situation"
+      ],
+      "levels": [
+        {
+          "m": "5–6",
+          "d": "Developed analysis of both styles applied to Pixel & Co, with a justified decision explaining why it is better than the alternative or what it depends on."
+        },
+        {
+          "m": "3–4",
+          "d": "Developed analysis of at least one style applied to Pixel & Co; decision weakly justified or one-sided."
+        },
+        {
+          "m": "1–2",
+          "d": "Knowledge of leadership styles with little application."
+        }
+      ],
+      "model": "With an autocratic style Ines makes every decision and checks every design. This keeps tight control of quality and decisions are quick, which helps meet client deadlines. However, her designers are highly skilled and creative, so not being trusted is likely to demotivate them, which may explain why two have already resigned. Replacing them costs money and clients may lose confidence.\nA democratic style would involve the designers in decisions about projects. They could share creative ideas with clients, which may lead to better designs, and the extra responsibility meets their esteem needs, so they are more likely to stay. The drawback is that decisions take longer and there could be disagreements.\nI recommend a democratic style, because the agency’s success depends on the creativity of 8 skilled people, and the resignations show the autocratic approach is already harming the business. With a small team, consultation does not take long. Ines should still make the final decision when a deadline is very close, so that clients are not let down.",
+      "tip": "Link the style to the type of worker: skilled/creative staff usually suit a democratic style."
+    }
+  ]
+}

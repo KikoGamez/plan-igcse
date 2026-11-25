@@ -1,0 +1,84 @@
+{
+ "id": "phys-r1-07",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Define the critical angle.",
+   "ms": [
+    "the angle of incidence (in the denser medium) at which the angle of refraction is 90°",
+    "above which all the light is totally internally reflected"
+   ],
+   "model": "The critical angle is the angle of incidence at which the angle of refraction is 90°; for angles of incidence greater than this, all the light is totally internally reflected."
+  },
+  {
+   "lvl": 1,
+   "marks": 3,
+   "q": "(a) State one property that is the same for all electromagnetic waves travelling in a vacuum. [1]\n(b) State one harmful effect on the body of excessive exposure to\n(i) ultraviolet radiation, [1]\n(ii) X-rays. [1]",
+   "ms": [
+    "(a) all travel at the same speed (3.0 × 10⁸ m/s) / all transverse / all can travel through a vacuum",
+    "(b)(i) damage to surface cells / skin cancer / damage to eyes (eye conditions)",
+    "(b)(ii) mutation or damage to cells (in the body) / cancer"
+   ],
+   "model": "(a) They all travel at the same speed, 3.0 × 10⁸ m/s, in a vacuum.\n(b)(i) Damage to skin cells, which can lead to skin cancer (or damage to the eyes).\n(ii) Mutation or damage to cells in the body.",
+   "tip": "For EM speed, 'same speed' is enough only if it says 'in a vacuum' (or gives 3.0 × 10⁸ m/s)."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "A ray of light strikes a vertical plane mirror. The angle between the incident ray and the surface of the mirror is 35°.\n(a) State the angle of reflection. [1]\n(b) Calculate the angle between the incident ray and the reflected ray. [1]\n(c) The image of an object in a plane mirror is described as virtual. Explain what this means. [2]",
+   "ms": [
+    "(a) 55°",
+    "(b) 110° (ecf: 2 × answer to (a))",
+    "(c) the rays of light do not actually pass through (meet at) the image; they only appear to come from it (behind the mirror)",
+    "(c) the image cannot be formed / caught on a screen"
+   ],
+   "model": "(a) The angle of incidence is measured from the normal: 90° − 35° = 55°, so the angle of reflection is 55°.\n(b) 55° + 55° = 110°.\n(c) The reflected rays do not actually come from behind the mirror; they only appear to come from the image, so the image cannot be produced on a screen.",
+   "tip": "Angles are measured from the NORMAL, not from the mirror surface."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "The speed of light in air is 3.0 × 10⁸ m/s. The speed of light in a type of glass is 2.0 × 10⁸ m/s.\n(a) Calculate the refractive index of the glass. [2]\n(b) A ray of light in air hits the surface of the glass with an angle of incidence of 60°. Calculate the angle of refraction. [3]",
+   "ms": [
+    "(a) C1: n = speed in air ÷ speed in glass = 3.0 × 10⁸ ÷ 2.0 × 10⁸",
+    "(a) A1: 1.5 (no unit)",
+    "(b) C1: n = sin i ÷ sin r so sin r = sin 60° ÷ 1.5 (ecf)",
+    "(b) C1: sin r = 0.866 ÷ 1.5 = 0.577",
+    "(b) A1: r = 35° (allow 35.3°)"
+   ],
+   "model": "(a) n = 3.0 × 10⁸ ÷ 2.0 × 10⁸ = 1.5.\n(b) sin r = sin i ÷ n = sin 60° ÷ 1.5 = 0.866 ÷ 1.5 = 0.577, so r = 35°.",
+   "tip": "Refractive index has no unit. Check your calculator is in degrees."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "An object 3.0 cm tall stands upright on the principal axis, 15.0 cm from a thin converging lens of focal length 5.0 cm.\n(a) Draw a full-scale ray diagram on graph paper to locate the image. Describe the two rays you use. [3]\n(b) Use your diagram to find the distance of the image from the lens and the height of the image. [2]\n(c) Describe the image using three words. [1]",
+   "ms": [
+    "(a) ray from the top of the object parallel to the principal axis, refracted through the principal focus on the far side",
+    "(a) ray from the top of the object through the centre of the lens, undeviated (allow a ray through the near focus that emerges parallel)",
+    "(a) image drawn where the rays cross, below the axis (inverted)",
+    "(b) image distance 7.5 cm (allow 7.2–7.8 cm)",
+    "(b) image height 1.5 cm (allow 1.3–1.7 cm)",
+    "(c) real, inverted, diminished (all three for the mark)"
+   ],
+   "model": "(a) Ray 1: from the top of the object parallel to the principal axis, refracted by the lens to pass through the principal focus 5.0 cm on the other side. Ray 2: from the top of the object straight through the centre of the lens without bending. The top of the image is where these rays cross.\n(b) The image is 7.5 cm from the lens and 1.5 cm tall.\n(c) Real, inverted and diminished.",
+   "tip": "Use a ruler and a sharp pencil; the image is real because the rays actually meet there."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "A glass block has a refractive index of 1.5. The critical angle for glass–air is 42°.\n(a) A ray of light inside the glass hits the glass–air surface with an angle of incidence of 30°. Calculate the angle of refraction in the air. [3]\n(b) The angle of incidence inside the glass is increased to 45°. Describe and explain what happens to the ray. [2]\n(c) State the angle of refraction when the angle of incidence inside the glass is exactly 42°. [1]",
+   "ms": [
+    "(a) C1: n = sin(angle in air) ÷ sin(angle in glass) so sin r = 1.5 × sin 30°",
+    "(a) C1: sin r = 0.75",
+    "(a) A1: r = 49° (allow 48.6°)",
+    "(b) total internal reflection / all the light reflected back into the glass (angle of reflection 45°)",
+    "(b) because the angle of incidence (45°) is greater than the critical angle (42°)",
+    "(c) 90° (ray travels along the surface)"
+   ],
+   "model": "(a) For light leaving glass: sin r = n × sin i = 1.5 × sin 30° = 1.5 × 0.50 = 0.75, so r = 49°.\n(b) The angle of incidence (45°) is greater than the critical angle (42°), so the ray is totally internally reflected back into the glass, with an angle of reflection of 45°.\n(c) 90°: the refracted ray travels along the surface.",
+   "tip": "Light going from glass to air bends AWAY from the normal, so the angle in air must be larger than 30°."
+  }
+ ]
+}

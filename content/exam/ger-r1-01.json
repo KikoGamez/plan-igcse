@@ -1,0 +1,105 @@
+{
+ "id": "ger-r1-01",
+ "questions": [
+  {
+   "lvl": 1,
+   "marks": 1,
+   "q": "Paper 2 (Reading) style.\nSie sehen dieses Schild im Park:\n„Rasen bitte nicht betreten!“\nWas bedeutet das?\nA Man darf hier nicht laufen.\nB Man darf nicht auf das Gras gehen.\nC Man muss hier leise sein.",
+   "ms": [
+    "B (accept: Man darf nicht auf das Gras gehen / do not walk on the grass)"
+   ],
+   "model": "B – Man darf nicht auf das Gras gehen.",
+   "tip": "der Rasen = the lawn; betreten = to step on. Signs often use the infinitive as a command."
+  },
+  {
+   "lvl": 1,
+   "marks": 2,
+   "q": "Paper 1 (Listening) style – read the transcript as if you heard it.\nSie hören eine Durchsage am Bahnhof:\n„Achtung bitte! Der Zug nach München fährt heute nicht von Gleis drei, sondern von Gleis sieben ab. Er hat zehn Minuten Verspätung.“\n(a) Von welchem Gleis fährt der Zug heute ab?  A 3  B 7  C 10\n(b) Wie viel Verspätung hat der Zug?  A 3 Minuten  B 7 Minuten  C 10 Minuten",
+   "ms": [
+    "(a) B (Gleis 7)",
+    "(b) C (10 Minuten)"
+   ],
+   "model": "(a) B  (b) C",
+   "tip": "„nicht … sondern …“ is the classic Listening trap: the first number you hear is the wrong one."
+  },
+  {
+   "lvl": 2,
+   "marks": 5,
+   "q": "Paper 4 Writing, Question 1 style.\nSie möchten an einem Sprachkurs in Österreich teilnehmen. Füllen Sie das Formular auf Deutsch aus. Schreiben Sie nur Wörter oder kurze Ausdrücke.\n1 Nationalität\n2 Zwei Hobbys\n3 Lieblingsessen\n4 Ein Schulfach, das du nicht magst\n5 Warum möchtest du Deutsch lernen?",
+   "ms": [
+    "1 any nationality in German, e.g. spanisch / Spanier(in) / britisch",
+    "2 two hobbies, e.g. Fußball, Lesen (both needed for the mark)",
+    "3 a food, e.g. Pizza / Nudeln",
+    "4 a school subject, e.g. Mathe / Chemie",
+    "5 a short reason, e.g. für meinen Beruf / ich möchte in Deutschland studieren",
+    "Spelling must be recognisable; English words or blanks score 0; ignore minor spelling slips and capitalisation"
+   ],
+   "model": "1 spanisch  2 Schwimmen, Gitarre spielen  3 Paella  4 Physik  5 Ich möchte in Berlin studieren.",
+   "tip": "Q1 is quick marks: one German word or phrase per gap, but every answer must be German and must make sense."
+  },
+  {
+   "lvl": 2,
+   "marks": 4,
+   "q": "Paper 2 (Reading) style.\nLesen Sie die E-Mail und wählen Sie die richtige Antwort (A, B oder C).\n„Hallo Sam! Danke für deine Nachricht. Ich komme am Freitag um 18 Uhr mit dem Bus an, nicht mit dem Zug – der ist zu teuer. Kannst du mich an der Haltestelle abholen? Am Samstag möchte ich gern ins Museum gehen, und am Sonntag gehen wir zu deinem Fußballspiel. Ich bringe meine Kamera mit! Bis bald, Mia“\n(a) Wie reist Mia?  A mit dem Zug  B mit dem Bus  C mit dem Auto\n(b) Was soll Sam machen?  A Mia abholen  B Fahrkarten kaufen  C ein Museum suchen\n(c) Was macht Mia am Sonntag?  A Sie spielt Fußball.  B Sie sieht ein Spiel.  C Sie besucht ein Museum.\n(d) Was bringt Mia mit?  A einen Fußball  B ein Geschenk  C einen Fotoapparat",
+   "ms": [
+    "(a) B",
+    "(b) A",
+    "(c) B",
+    "(d) C"
+   ],
+   "model": "(a) B  (b) A  (c) B  (d) C",
+   "tip": "Watch for synonyms: Kamera = Fotoapparat; „zu deinem Fußballspiel gehen“ means watching, not playing."
+  },
+  {
+   "lvl": 3,
+   "marks": 6,
+   "q": "Paper 2 (Reading) style – short answers in German.\nLesen Sie den Text und beantworten Sie die Fragen auf Deutsch.\n„Ich heiße Jana und wohne seit drei Jahren in Leipzig. Vorher habe ich in einem Dorf in der Nähe von Dresden gewohnt. In Leipzig gefällt mir, dass es so viele Konzerte gibt, aber die Mieten sind sehr hoch. Ich gehe in die zehnte Klasse. Mein Lieblingsfach ist Chemie, weil wir oft Experimente machen. Nach der Schule arbeite ich zweimal pro Woche in einer Bäckerei, denn ich spare für einen Sprachkurs in Frankreich. Später möchte ich Dolmetscherin werden.“\n(a) Seit wann wohnt Jana in Leipzig? [1]\n(b) Wo hat sie früher gewohnt? [1]\n(c) Was ist ein Nachteil von Leipzig? [1]\n(d) Warum mag sie Chemie? [1]\n(e) Warum arbeitet sie in der Bäckerei? [1]\n(f) Was ist ihr Berufswunsch? [1]",
+   "ms": [
+    "(a) seit drei Jahren",
+    "(b) in einem Dorf (in der Nähe von Dresden) – allow „in der Nähe von Dresden“; „in Dresden“ alone = 0",
+    "(c) die Mieten sind (sehr) hoch / Wohnen ist teuer",
+    "(d) sie machen oft Experimente",
+    "(e) sie spart für einen Sprachkurs (in Frankreich)",
+    "(f) Dolmetscherin",
+    "Answers need not be full sentences; ignore minor language errors if the meaning is clear"
+   ],
+   "model": "(a) Seit drei Jahren. (b) In einem Dorf in der Nähe von Dresden. (c) Die Mieten sind sehr hoch. (d) Weil sie oft Experimente machen. (e) Sie spart für einen Sprachkurs in Frankreich. (f) Sie möchte Dolmetscherin werden.",
+   "tip": "Short answers are marked for understanding: lift the key detail, but do not copy extra wrong information (e.g. „in Dresden“)."
+  },
+  {
+   "lvl": 3,
+   "marks": 8,
+   "q": "Paper 4 Writing, Question 2 style (shortened practice version; the real Q2 is about 80–90 words and worth 12 marks).\nSie schreiben eine E-Mail an Ihren Brieffreund / Ihre Brieffreundin über Ihre Freizeit. Schreiben Sie 60–80 Wörter auf Deutsch.\n• Was machen Sie normalerweise nach der Schule?\n• Was haben Sie letztes Wochenende gemacht?\n• Was möchten Sie nächsten Sommer machen?",
+   "ms": [
+    "Bullet 1 answered in the present tense with detail (e.g. what, where, with whom)",
+    "Bullet 2 answered in a past tense (Perfekt/Präteritum)",
+    "Bullet 3 answered with a future or conditional (werde / möchte / würde)",
+    "At least one opinion with a reason (weil/denn …)",
+    "Range: subordinate clause with verb at the end / time–manner–place / varied vocabulary",
+    "Accuracy: verbs, word order (verb second) mostly correct",
+    "Appropriate e-mail opening and ending (Liebe/Lieber …, Viele Grüße)",
+    "Credit communication first: an answer missing a bullet cannot reach the top band"
+   ],
+   "model": "Lieber Tom,\nnach der Schule gehe ich normalerweise mit meinem Hund spazieren, und dann mache ich meine Hausaufgaben. Am Abend spiele ich Gitarre, weil es mich entspannt. Letztes Wochenende bin ich mit meinen Freunden ins Kino gegangen. Der Film war lustig, aber die Karten waren teuer! Nächsten Sommer möchte ich mit meiner Familie nach Italien fahren, denn ich liebe das Meer und das Essen dort. Was machst du in deiner Freizeit?\nViele Grüße\nAna",
+   "tip": "Tick off each bullet and use a different time frame for each one: present, past, future.",
+   "levels": [
+    {
+     "m": "7–8",
+     "d": "All tasks covered with some development and opinions/reasons. Good range of vocabulary and structures (e.g. subordinate clauses, more than one time frame). Mostly accurate; errors do not impede meaning."
+    },
+    {
+     "m": "5–6",
+     "d": "Most tasks covered, some development. Some range (a few linking words and a second tense). Generally accurate with some errors in verbs, word order or cases."
+    },
+    {
+     "m": "3–4",
+     "d": "Some tasks covered in simple sentences. Limited range, mostly present tense. Frequent errors, but the message is mostly clear."
+    },
+    {
+     "m": "1–2",
+     "d": "Very little relevant information. Isolated words or very simple phrases; errors often make meaning unclear."
+    }
+   ]
+  }
+ ]
+}

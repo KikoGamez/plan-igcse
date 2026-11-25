@@ -1,0 +1,87 @@
+{
+  "id": "chem-r1-07",
+  "questions": [
+    {
+      "lvl": 1,
+      "marks": 2,
+      "q": "(a) Define activation energy, Ea. [1]\n(b) State the sign of the enthalpy change, ΔH, for an exothermic reaction. [1]",
+      "ms": [
+        "(a) the minimum energy that colliding particles must have to react",
+        "(b) negative / −"
+      ],
+      "model": "(a) Activation energy is the minimum energy that colliding particles must have in order to react.\n(b) ΔH is negative for an exothermic reaction.",
+      "tip": "'Minimum' and 'colliding particles' are both needed in the Ea definition."
+    },
+    {
+      "lvl": 1,
+      "marks": 3,
+      "q": "Manganese(IV) oxide is a catalyst for the decomposition of hydrogen peroxide.\nState the effect of adding the catalyst on:\n(a) the rate of the reaction [1]\n(b) the activation energy of the reaction [1]\n(c) the mass of manganese(IV) oxide at the end of the reaction. [1]",
+      "ms": [
+        "(a) rate increases",
+        "(b) activation energy decreases / is lowered",
+        "(c) no change / mass is the same (catalyst is unchanged)"
+      ],
+      "model": "(a) The rate increases.\n(b) The activation energy is lowered.\n(c) The mass stays the same, because a catalyst is unchanged at the end of the reaction.",
+      "tip": "A catalyst does not change ΔH — only Ea."
+    },
+    {
+      "lvl": 2,
+      "marks": 4,
+      "q": "A reaction has ΔH = −90 kJ/mol and Ea = 120 kJ/mol. On a reaction pathway diagram the reactants are at an energy of 200 kJ/mol.\n(a) State the energy at the top of the activation energy 'hill'. [1]\n(b) State the energy of the products. [1]\n(c) With a catalyst, Ea is 70 kJ/mol. State the energy at the top of the hill for the catalysed reaction. [1]\n(d) Explain, in terms of bond breaking and bond making, why ΔH is negative. [1]",
+      "ms": [
+        "(a) 320 kJ/mol",
+        "(b) 110 kJ/mol",
+        "(c) 270 kJ/mol",
+        "(d) more energy is released making (new) bonds than is taken in breaking bonds"
+      ],
+      "model": "(a) 200 + 120 = 320 kJ/mol\n(b) 200 − 90 = 110 kJ/mol\n(c) 200 + 70 = 270 kJ/mol\n(d) Bond breaking is endothermic and bond making is exothermic; more energy is released when the bonds in the products are made than is taken in to break the bonds in the reactants.",
+      "tip": "Measure both Ea and ΔH from the level of the REACTANTS."
+    },
+    {
+      "lvl": 2,
+      "marks": 5,
+      "q": "A student adds a 3 cm length of magnesium ribbon to 50 cm³ of hydrochloric acid of different concentrations and times how long it takes for the magnesium to disappear.\nconcentration of acid / g/dm³:  40   30   20   10\ntime / s:                       21   28   42   84\n(a) Describe the relationship between concentration and the time taken. [1]\n(b) Explain, using collision theory, why the rate changes with concentration. [2]\n(c) Predict the time taken with acid of concentration 5 g/dm³. [1]\n(d) State one variable, other than those given, that must be kept constant. [1]",
+      "ms": [
+        "(a) as concentration increases the time decreases (allow halving concentration doubles the time / inversely proportional)",
+        "(b) higher concentration means more (acid) particles per unit volume",
+        "(b) so collisions are more frequent (more collisions per second)",
+        "(c) about 170 s (accept 150–190 s)",
+        "(d) temperature (of the acid) — allow surface area / thickness of the magnesium ribbon"
+      ],
+      "model": "(a) The higher the concentration, the shorter the time; halving the concentration doubles the time.\n(b) A more concentrated acid has more acid particles per unit volume, so the particles collide with the magnesium more frequently and the rate of reaction is higher.\n(c) Halving 10 g/dm³ to 5 g/dm³ should double the time: about 168 s.\n(d) The temperature of the acid.",
+      "tip": "Say 'more frequent collisions' or 'more collisions per second' — 'more collisions' alone usually does not score."
+    },
+    {
+      "lvl": 3,
+      "marks": 8,
+      "q": "Small marble chips (calcium carbonate) are added to excess dilute hydrochloric acid and the volume of carbon dioxide is measured.\ntime / s:          0   30   60   90   120   150   180   210   240\nvolume CO₂ / cm³:  0   28   48   62   71    76    79    80    80\n(a) Name the apparatus used to measure the volume of gas. [1]\n(b) Calculate the average rate of reaction during the first 60 seconds. Give the unit. [2]\n(c) Explain why no more gas is produced after 210 s. [1]\n(d) The experiment is repeated at a higher temperature with everything else the same. Describe how the results would be different. [2]\n(e) The molar gas volume is 24 000 cm³ at r.t.p. Calculate the mass of calcium carbonate that reacted. [Mr CaCO₃ = 100] [2]",
+      "ms": [
+        "(a) gas syringe",
+        "(b) M1: 48 ÷ 60",
+        "(b) A1: 0.80 cm³/s (unit required)",
+        "(c) the calcium carbonate / marble has been used up (it is the limiting reactant)",
+        "(d) gas produced faster / curve steeper at the start / reaction finishes sooner",
+        "(d) same final volume of 80 cm³",
+        "(e) M1: moles CO₂ = 80 ÷ 24 000 = 0.00333 mol (= moles CaCO₃)",
+        "(e) A1: 0.333 g (allow 0.33 g)"
+      ],
+      "model": "(a) A gas syringe.\n(b) Average rate = 48 cm³ ÷ 60 s = 0.80 cm³/s.\n(c) All the calcium carbonate has reacted; the acid is in excess, so the reaction stops when the marble is used up.\n(d) The gas would be produced faster, so the volume rises more steeply and levels off sooner, but the final volume would still be 80 cm³ because the same amount of calcium carbonate is used.\n(e) Moles CO₂ = 80 ÷ 24 000 = 0.00333 mol. CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ is 1 : 1, so moles CaCO₃ = 0.00333 mol. Mass = 0.00333 × 100 = 0.333 g.",
+      "tip": "Changing the rate never changes the final amount of product — only the amount of limiting reactant does."
+    },
+    {
+      "lvl": 3,
+      "marks": 6,
+      "q": "The thermal decomposition of calcium carbonate is endothermic.\nCaCO₃ → CaO + CO₂\n(a) Describe the reaction pathway diagram for this reaction. State what is on each axis, where the reactants and products are, and how ΔH and Ea are shown. [4]\n(b) Explain, in terms of bond breaking and bond making, why this reaction is endothermic, and state the sign of ΔH. [2]",
+      "ms": [
+        "(a) y-axis energy and x-axis progress of reaction",
+        "(a) products (CaO + CO₂) at a higher energy level than reactants (CaCO₃)",
+        "(a) ΔH shown as an upward arrow from reactants to products",
+        "(a) Ea shown as an arrow from reactants to the top of the curve / peak",
+        "(b) more energy is taken in to break bonds than is released when bonds are made",
+        "(b) ΔH is positive"
+      ],
+      "model": "(a) The vertical axis is energy and the horizontal axis is progress of reaction. The reactants, CaCO₃, are drawn on a line at a lower level; the curve rises to a peak and then falls to the products, CaO + CO₂, which are on a line higher than the reactants. ΔH is an upward arrow from the reactant level to the product level. Ea is an arrow from the reactant level up to the peak of the curve.\n(b) Bond breaking takes in energy and bond making releases energy. In this reaction more energy is taken in to break the bonds than is released when new bonds are made, so overall thermal energy is taken in and ΔH is positive.",
+      "tip": "In an endothermic diagram the products are ABOVE the reactants, but Ea still goes from the reactants to the peak."
+    }
+  ]
+}
